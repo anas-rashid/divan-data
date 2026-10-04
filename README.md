@@ -50,7 +50,7 @@ The repo root also holds the data in the [ganjoor-data](https://github.com/ganjo
     https://cdn.jsdelivr.net/gh/anas-rashid/divan-data@main/manifest.json
     https://cdn.jsdelivr.net/gh/anas-rashid/divan-data@main/poets/p238/_cat.json        # Iqbal
 
-It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorService) through its "public data import" page: give it the base URL above. Poets are `/p{id}`, categories are a genre slug (`ghazal`, `nazm`, …) or `c{id}`, and poems are `sh{id}`. Ids stay stable across syncs. Years are converted to approximate Hijri because that's Ganjoor's convention.
+It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorService) through its "public data import" page: give it the base URL above. Poets are `/p{id}`, categories are a genre slug (`ghazal`, `nazm`, …) or `c{id}`, and poems are `sh{id}`. Ids stay stable across syncs. Poet years are converted to approximate Hijri, following Ganjoor's convention.
 
 ## License
 

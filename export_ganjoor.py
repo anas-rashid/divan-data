@@ -25,10 +25,19 @@ def gid(kind, key):
 
 
 def hijri(ce):
+    """Approximate lunar Hijri year from a CE year (Ganjoor stores poet years in Hijri)."""
     try:
         return round((int(ce) - 622) * 33 / 32)
     except (TypeError, ValueError):
         return 0
+
+
+URDU_DIGITS = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
+
+
+def ud(s):
+    """Western -> Eastern Arabic (Urdu) digits for display text; ids/urls keep ASCII."""
+    return s.translate(URDU_DIGITS) if isinstance(s, str) else s
 
 
 def write(path, obj):
@@ -70,7 +79,7 @@ def main():
         pid = gid("poet", page)
         purl = f"/p{pid}"
         write(f"poets{purl}/poet.json", {
-            "Id": pid, "Name": name, "Nickname": name, "Description": desc, "FullUrl": purl,
+            "Id": pid, "Name": name, "Nickname": name, "Description": ud(desc), "FullUrl": purl,
             "ImageUrl": f"https://commons.wikimedia.org/wiki/Special:FilePath/{image}" if image else None,
             "BirthYearInLHijri": hijri(born), "ValidBirthDate": bool(hijri(born)),
             "DeathYearInLHijri": hijri(died), "ValidDeathDate": bool(hijri(died)),
@@ -79,7 +88,7 @@ def main():
 
         # category tree from section paths ("شاعری > بانگ درا (1924)")
         cats = {(): {"Id": gid("cat", page), "PoetId": pid, "ParentId": None, "Title": name, "FullUrl": purl,
-                     "Description": desc, "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}}
+                     "Description": ud(desc), "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}}
         def cat(path):
             if path in cats:
                 return cats[path]
@@ -88,7 +97,7 @@ def main():
             slug = GENRES.get(path[-1], f"c{cid}")
             if any(c["FullUrl"] == f"{parent['FullUrl']}/{slug}" for c in parent["ChildCats"]):
                 slug = f"c{cid}"
-            c = {"Id": cid, "PoetId": pid, "ParentId": parent["Id"], "Title": path[-1],
+            c = {"Id": cid, "PoetId": pid, "ParentId": parent["Id"], "Title": ud(path[-1]),
                  "FullUrl": f"{parent['FullUrl']}/{slug}", "Description": None, "DescriptionHtml": None,
                  "BookName": None, "ChildCats": [], "Poems": []}
             parent["ChildCats"].append({"Id": cid, "Title": c["Title"], "FullUrl": c["FullUrl"]})
@@ -100,11 +109,11 @@ def main():
             path = tuple(s.strip() for s in section.split(">")) if section else ()
             c = cat(path)
             wid = gid("poem", title)
-            shown = title.replace("/", " ۔ ")
-            v, couplets = verses(text, kind == "prose")
+            shown = ud(title.replace("/", " ۔ "))
+            v, couplets = verses(ud(text), kind == "prose")
             fmt = "Ghazal" if any("غزل" in s for s in path) else None
             purl_ = f"{c['FullUrl']}/sh{wid}"
-            full_title = " » ".join([name, *path, shown])
+            full_title = " » ".join([name, *map(ud, path), shown])
             write(f"poets{purl_}.json", {
                 "Id": wid, "CatId": c["Id"], "Title": shown, "FullTitle": full_title, "FullUrl": purl_,
                 "RhymeLetters": None, "SourceName": "ویکی ماخذ", "SourceUrlSlug": "wikisource", "SourceUrl": url,
