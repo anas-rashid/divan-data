@@ -12,15 +12,15 @@ GENRES = {"غزل": "ghazal", "نظم": "nazm", "رباعی": "rubai", "رباع
 
 db = sqlite3.connect(f"{D}/divan.db")
 # ids are minted once and kept forever, so URLs/ids stay stable across daily syncs
-db.execute("CREATE TABLE IF NOT EXISTS ganjoor_ids(kind TEXT, key TEXT, id INTEGER, PRIMARY KEY(kind, key))")
+db.execute("CREATE TABLE IF NOT EXISTS divan_ids(kind TEXT, key TEXT, id INTEGER, PRIMARY KEY(kind, key))")
 
 
 def gid(kind, key):
-    r = db.execute("SELECT id FROM ganjoor_ids WHERE kind=? AND key=?", (kind, key)).fetchone()
+    r = db.execute("SELECT id FROM divan_ids WHERE kind=? AND key=?", (kind, key)).fetchone()
     if r:
         return r[0]
-    n = (db.execute("SELECT max(id) FROM ganjoor_ids WHERE kind=?", (kind,)).fetchone()[0] or 0) + 1
-    db.execute("INSERT INTO ganjoor_ids VALUES (?,?,?)", (kind, key, n))
+    n = (db.execute("SELECT max(id) FROM divan_ids WHERE kind=?", (kind,)).fetchone()[0] or 0) + 1
+    db.execute("INSERT INTO divan_ids VALUES (?,?,?)", (kind, key, n))
     return n
 
 
@@ -117,10 +117,10 @@ def main():
             write(f"poets{purl_}.json", {
                 "Id": wid, "CatId": c["Id"], "Title": shown, "FullTitle": full_title, "FullUrl": purl_,
                 "RhymeLetters": None, "SourceName": "ویکی ماخذ", "SourceUrlSlug": "wikisource", "SourceUrl": url,
-                "Language": "ur", "PoemSummary": None, "Metre": None,
+                "Language": "ur-PK", "PoemSummary": None, "Metre": None,
                 "Sections": [{"Index": 0, "Number": 1, "SectionType": "WholePoem", "VerseType": "First",
                               "RhymeLetters": None, "PlainText": "\r\n".join(x["Text"] for x in v), "HtmlText": None,
-                              "PoemFormat": fmt, "Language": "ur", "CoupletsCount": couplets}],
+                              "PoemFormat": fmt, "Language": "ur-PK", "CoupletsCount": couplets}],
                 "Verses": v})
             c["Poems"].append({"Id": wid, "Title": shown, "FullUrl": purl_})
             poem_idx[wid] = purl_
