@@ -15,6 +15,7 @@ CREATE TABLE IF NOT EXISTS works(title TEXT PRIMARY KEY, poet_page TEXT, kind TE
   text_ur TEXT, license TEXT, url TEXT);
 CREATE INDEX IF NOT EXISTS works_poet ON works(poet_page);
 CREATE TABLE IF NOT EXISTS meta(key TEXT PRIMARY KEY, value TEXT);
+CREATE TABLE IF NOT EXISTS poet_aliases(alias TEXT PRIMARY KEY, canonical TEXT);
 """)
 
 
@@ -140,6 +141,31 @@ def changed_since(ts):
         cont = {"rccontinue": d["continue"]["rccontinue"]}
 
 
+def merge_duplicate_poets(links, resolved):
+    """Author pages linking the same Wikipedia article (after redirects, `resolved`: link -> article title)
+    are one poet (e.g. two Ghalib pages): keep the page with the most listed works, map the others to it.
+    Returns {alias page: canonical page}."""
+    counts = {}
+    for _, a, _ in links:
+        counts[a] = counts.get(a, 0) + 1
+    groups = {}
+    for page, wp in db.execute("SELECT page, wikipedia FROM poets WHERE wikipedia IS NOT NULL"):
+        groups.setdefault(resolved.get(wp, wp), []).append(page)
+    alias = dict(db.execute("SELECT alias, canonical FROM poet_aliases"))
+    for pages in groups.values():
+        if len(pages) > 1:
+            keep = max(pages, key=lambda p: (counts.get(p, 0), p))
+            alias.update({p: keep for p in pages if p != keep})
+    for a, c in alias.items():
+        db.execute("INSERT OR REPLACE INTO poet_aliases VALUES (?,?)", (a, c))
+        db.execute("UPDATE works SET poet_page=? WHERE poet_page=?", (c, a))
+        db.execute("DELETE FROM poets WHERE page=?", (a,))
+    db.commit()
+    if alias:
+        print("merged duplicate author pages:", alias)
+    return alias
+
+
 def main():
     started = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     last = (db.execute("SELECT value FROM meta WHERE key='last_run'").fetchone() or [None])[0]
@@ -149,7 +175,7 @@ def main():
     links = []  # (work title, poet page, section)
     for a, (_, wt) in apages.items():
         f = lambda n: tpl_field(wt, n)
-        wp = (f("wikipedia") or "").removeprefix("ur:") or None
+        wp = re.sub(r"^:?(ur:)?", "", f("wikipedia") or "") or None  # "ur:X" and ":ur:X" forms
         db.execute("INSERT OR REPLACE INTO poets(page,name,years,birth_year,death_year,description,image,wikipedia,wikidata,url) "
                    "VALUES (?,?,?,?,?,?,?,?,?,?)",
                    (a, f("firstname") or a.split(":", 1)[1], f("dates"), f("birthyear"), f("deathyear"),
@@ -164,6 +190,8 @@ def main():
         db.execute("UPDATE poets SET intro=? WHERE wikipedia=?", (p.get("extract"), t))
     db.commit()
     print(len(ur), "intros")
+    alias = merge_duplicate_poets(links, {t: p["title"] for t, p in ur.items()})
+    links = [(t, alias.get(a, a), s) for t, a, s in links]
 
     # Works; index-like pages (no <poem>, mostly links) are expanded one level
     seen = {r[0] for r in db.execute("SELECT title FROM works")}
