@@ -1,0 +1,208 @@
+#!/usr/bin/env python3
+"""Build divan.db from Urdu Wikisource (public-domain texts, CC BY-SA 4.0 site)
+plus short poet intros from Urdu/English Wikipedia. Uses the MediaWiki API, 50 pages per request."""
+import json, os, re, sqlite3, time, urllib.parse, urllib.request
+
+WS = "https://ur.wikisource.org/w/api.php"
+DB = os.path.join(os.path.dirname(os.path.abspath(__file__)), "divan.db")
+UA = "divan-dataset/0.1 (non-commercial Urdu poetry archive; python-urllib)"
+
+db = sqlite3.connect(DB)
+db.executescript("""
+CREATE TABLE IF NOT EXISTS poets(page TEXT PRIMARY KEY, name TEXT, years TEXT, birth_year TEXT, death_year TEXT,
+  description TEXT, image TEXT, wikipedia TEXT, wikidata TEXT, intro_ur TEXT, intro_en TEXT, url TEXT);
+CREATE TABLE IF NOT EXISTS works(title TEXT PRIMARY KEY, poet_page TEXT, kind TEXT, section TEXT, year TEXT,
+  text_ur TEXT, license TEXT, url TEXT);
+CREATE INDEX IF NOT EXISTS works_poet ON works(poet_page);
+CREATE TABLE IF NOT EXISTS meta(key TEXT PRIMARY KEY, value TEXT);
+""")
+
+
+def api(base, **params):
+    params.update(format="json", formatversion=2, maxlag=5)
+    for i in range(5):
+        try:
+            req = urllib.request.Request(base, data=urllib.parse.urlencode(params).encode(), headers={"User-Agent": UA})  # POST: 50 Urdu titles overflow a GET URL
+            with urllib.request.urlopen(req, timeout=60) as r:
+                d = json.load(r)
+            if d.get("error", {}).get("code") == "maxlag":
+                raise RuntimeError("maxlag")
+            return d
+        except Exception:
+            time.sleep(5 * (i + 1))
+    raise RuntimeError(f"API failed: {params}")
+
+
+def wikitexts(titles):
+    """{requested title: (resolved title, wikitext)} following redirects, 50 per request."""
+    out = {}
+    for i in range(0, len(titles), 50):
+        chunk = titles[i:i + 50]
+        q = api(WS, action="query", prop="revisions", rvprop="content", rvslots="main",
+                titles="|".join(chunk), redirects=1)["query"]
+        alias = {}
+        for k in ("normalized", "redirects"):
+            for r in q.get(k, []):
+                alias[r["from"]] = r["to"]
+        pages = {p["title"]: p["revisions"][0]["slots"]["main"]["content"]
+                 for p in q.get("pages", []) if "revisions" in p}
+        for t in chunk:
+            r = t
+            while r in alias:
+                r = alias[r]
+            if r in pages:
+                out[t] = (r, pages[r])
+        time.sleep(0.5)
+    return out
+
+
+def tpl_field(text, name):
+    m = re.search(rf"^\s*\|\s*{name}\s*=(.*)$", text, re.M)
+    return m.group(1).strip() or None if m else None
+
+
+def page_url(t):
+    return "https://ur.wikisource.org/wiki/" + urllib.parse.quote(t.replace(" ", "_"))
+
+
+def clean(s):
+    s = re.sub(r"<!--.*?-->|<ref[^>]*>.*?</ref>|<ref[^>]*/>", "", s, flags=re.S)
+    s = re.sub(r"\{\{[^{}]*\}\}", "", s)
+    s = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", s)
+    s = re.sub(r"'''?|<[^>]+>|‏|‎", "", s)
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(l.rstrip() for l in s.splitlines())).strip()
+
+
+def poem_text(wt):
+    poems = re.findall(r"<poem[^>]*>(.*?)</poem>", wt, re.S)
+    if poems:
+        return "\n\n".join(clean(p) for p in poems)
+    body = re.sub(r"\{\{\s*header.*?\n\}\}", "", wt, flags=re.S | re.I)
+    body = re.sub(r"\[\[(Category|زمرہ):[^\]]*\]\]", "", body)
+    return clean(body)
+
+
+def author_links(wt):
+    """[(target, section path)] from an author page's bullet lists."""
+    path, out = {}, []
+    for line in wt.splitlines():
+        h = re.match(r"^(=+)\s*(.*?)\s*\1\s*$", line)
+        if h:
+            lvl = len(h.group(1))
+            path = {k: v for k, v in path.items() if k < lvl}
+            path[lvl] = clean(h.group(2))
+            continue
+        if line.startswith("*"):
+            for t in re.findall(r"\[\[([^|\]#]+)", line):
+                t = t.strip()
+                if ":" not in t and not t.startswith("/"):
+                    out.append((t, " > ".join(v for k, v in sorted(path.items()) if v != "تصانیف")))
+    return out
+
+
+def all_authors():
+    titles, cont = [], {}
+    while True:
+        d = api(WS, action="query", list="allpages", apnamespace=102, aplimit=500, **cont)
+        titles += [p["title"] for p in d["query"]["allpages"]]
+        if "continue" not in d:
+            return titles
+        cont = {"apcontinue": d["continue"]["apcontinue"]}
+
+
+def intros(wp_titles, lang):
+    """Plain-text lead section from {lang}.wikipedia, 20 per request."""
+    out = {}
+    base = f"https://{lang}.wikipedia.org/w/api.php"
+    for i in range(0, len(wp_titles), 20):
+        chunk = wp_titles[i:i + 20]
+        q = api(base, action="query", prop="extracts|langlinks", exintro=1, explaintext=1, exlimit=20,
+                lllang="en", titles="|".join(chunk), redirects=1)["query"]
+        alias = {r["from"]: r["to"] for k in ("normalized", "redirects") for r in q.get(k, [])}
+        pages = {p["title"]: p for p in q.get("pages", [])}
+        for t in chunk:
+            r = alias.get(alias.get(t, t), alias.get(t, t))
+            if r in pages:
+                out[t] = pages[r]
+        time.sleep(0.5)
+    return out
+
+
+def changed_since(ts):
+    """Titles in the main namespace edited/created on Wikisource since ts (recentchanges keeps ~30 days)."""
+    titles, cont = set(), {}
+    while True:
+        d = api(WS, action="query", list="recentchanges", rcnamespace=0, rcdir="newer", rcstart=ts,
+                rcprop="title", rclimit=500, **cont)
+        titles |= {c["title"] for c in d["query"]["recentchanges"]}
+        if "continue" not in d:
+            return titles
+        cont = {"rccontinue": d["continue"]["rccontinue"]}
+
+
+def main():
+    started = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    last = (db.execute("SELECT value FROM meta WHERE key='last_run'").fetchone() or [None])[0]
+    authors = all_authors()
+    print(len(authors), "author pages")
+    apages = wikitexts(authors)
+    links = []  # (work title, poet page, section)
+    for a, (_, wt) in apages.items():
+        f = lambda n: tpl_field(wt, n)
+        wp = (f("wikipedia") or "").removeprefix("ur:") or None
+        db.execute("INSERT OR REPLACE INTO poets(page,name,years,birth_year,death_year,description,image,wikipedia,wikidata,url) "
+                   "VALUES (?,?,?,?,?,?,?,?,?,?)",
+                   (a, f("firstname") or a.split(":", 1)[1], f("dates"), f("birthyear"), f("deathyear"),
+                    f("description"), f("image"), wp, f("wikidata"), page_url(a)))
+        links += [(t, a, s) for t, s in author_links(wt)]
+    db.commit()
+
+    # Wikipedia intros (ur, then en via langlinks)
+    wps = [r[0] for r in db.execute("SELECT DISTINCT wikipedia FROM poets WHERE wikipedia IS NOT NULL")]
+    ur = intros(wps, "ur")
+    en_titles = {t: p["langlinks"][0]["title"] for t, p in ur.items() if p.get("langlinks")}
+    en = intros(list(set(en_titles.values())), "en")
+    for t, p in ur.items():
+        e = en.get(en_titles.get(t), {})
+        db.execute("UPDATE poets SET intro_ur=?, intro_en=? WHERE wikipedia=?", (p.get("extract"), e.get("extract"), t))
+    db.commit()
+    print(len(ur), "ur intros,", len(en), "en intros")
+
+    # Works; index-like pages (no <poem>, mostly links) are expanded one level
+    seen = {r[0] for r in db.execute("SELECT title FROM works")}
+    if last:  # incremental: refetch pages edited since the last run
+        changed = changed_since(last)
+        seen -= changed
+        print(f"{len(changed)} pages changed since {last}", flush=True)
+    queue, depth = links, 0
+    while queue and depth < 3:
+        todo = {}
+        for t, a, s in queue:
+            todo.setdefault(t, (a, s))
+        pending = [t for t in todo if t not in seen]
+        print(f"depth {depth}: {len(pending)} pages to fetch", flush=True)
+        nxt = []
+        for i in range(0, len(pending), 500):  # commit + report every 500 pages
+            texts = wikitexts(pending[i:i + 500])
+            for t, (title, wt) in texts.items():
+                a, s = todo[t]
+                if title in seen:
+                    continue
+                seen.add(title)
+                if "<poem" not in wt and len(re.findall(r"^\*\s*\[\[", wt, re.M)) >= 3:
+                    nxt += [(c, a, f"{s} > {title}".strip(" >")) for c, _ in author_links(wt)]
+                    nxt += [(title + c, a, f"{s} > {title}".strip(" >"))
+                            for c in re.findall(r"\[\[(/[^|\]]+)", wt)]
+                    continue
+                lic = re.findall(r"\{\{\s*(PD[^}|]*)", wt)
+                db.execute("INSERT OR REPLACE INTO works VALUES (?,?,?,?,?,?,?,?)",
+                           (title, a, "poetry" if "<poem" in wt else "prose", s or None, tpl_field(wt, "year"), poem_text(wt), lic[0].strip() if lic else None, page_url(title)))
+            db.commit()
+            print(f"  {min(i + 500, len(pending))}/{len(pending)}, works total {db.execute('SELECT count(*) FROM works').fetchone()[0]}", flush=True)
+        queue, depth = nxt, depth + 1
+    db.execute("INSERT OR REPLACE INTO meta VALUES ('last_run', ?)", (started,))
+    db.commit()
+
+
+if __name__ == "__main__":
+    main()
