@@ -1,0 +1,28 @@
+{
+  "Id": 475,
+  "PoetId": 178,
+  "ParentId": null,
+  "Title": "ظریف لکھنوی",
+  "FullUrl": "/p178",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 476,
+      "Title": "غزل",
+      "FullUrl": "/p178/ghazal"
+    },
+    {
+      "Id": 477,
+      "Title": "مزاحیہ",
+      "FullUrl": "/p178/c477"
+    },
+    {
+      "Id": 478,
+      "Title": "نظم",
+      "FullUrl": "/p178/nazm"
+    }
+  ],
+  "Poems": []
+}

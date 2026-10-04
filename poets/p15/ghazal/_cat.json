@@ -1,0 +1,23 @@
+{
+  "Id": 39,
+  "PoetId": 15,
+  "ParentId": 38,
+  "Title": "غزل",
+  "FullUrl": "/p15/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 253,
+      "Title": "آزادئ خیال کی وسعت کو دیکھیے",
+      "FullUrl": "/p15/ghazal/sh253"
+    },
+    {
+      "Id": 254,
+      "Title": "اذاں سے نعرۂ ناقوس پیدا ہو نہیں سکتا",
+      "FullUrl": "/p15/ghazal/sh254"
+    }
+  ]
+}

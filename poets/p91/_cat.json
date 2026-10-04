@@ -1,0 +1,23 @@
+{
+  "Id": 236,
+  "PoetId": 91,
+  "ParentId": null,
+  "Title": "حسن بریلوی",
+  "FullUrl": "/p91",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 237,
+      "Title": "غزل",
+      "FullUrl": "/p91/ghazal"
+    },
+    {
+      "Id": 238,
+      "Title": "نعت",
+      "FullUrl": "/p91/naat"
+    }
+  ],
+  "Poems": []
+}

@@ -1,0 +1,28 @@
+{
+  "Id": 114,
+  "PoetId": 41,
+  "ParentId": 113,
+  "Title": "غزل",
+  "FullUrl": "/p41/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 1023,
+      "Title": "دل بھر آیا پھر بھی راز دل چھپانا ہی پڑا",
+      "FullUrl": "/p41/ghazal/sh1023"
+    },
+    {
+      "Id": 1024,
+      "Title": "عدو تو کیا یہ فلک بھی اسے ستا نہ سکا",
+      "FullUrl": "/p41/ghazal/sh1024"
+    },
+    {
+      "Id": 1025,
+      "Title": "واعظ کی کڑوی باتوں کو کب دھیان میں اپنے لاتے ہیں",
+      "FullUrl": "/p41/ghazal/sh1025"
+    }
+  ]
+}

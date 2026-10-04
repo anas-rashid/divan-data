@@ -1,0 +1,58 @@
+{
+  "Id": 6,
+  "CatId": 4,
+  "Title": "اس پار سے یوں ڈوب کے اس پار گئے",
+  "FullTitle": "آرزو لکھنوی » رباعی » اس پار سے یوں ڈوب کے اس پار گئے",
+  "FullUrl": "/p1/rubai/sh6",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D8%A7%D8%B3_%D9%BE%D8%A7%D8%B1_%D8%B3%DB%92_%DB%8C%D9%88%DA%BA_%DA%88%D9%88%D8%A8_%DA%A9%DB%92_%D8%A7%D8%B3_%D9%BE%D8%A7%D8%B1_%DA%AF%D8%A6%DB%92",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اس پار سے یوں ڈوب کے اس پار گئے\r\nسوتی قسمت کو کر کے بیدار گئے\r\nاتنے ہوئے تھک کے شل کہ پھر اٹھ نہ سکے\r\nہمت نہیں ہاری جان تک ہار گئے",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اس پار سے یوں ڈوب کے اس پار گئے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوتی قسمت کو کر کے بیدار گئے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اتنے ہوئے تھک کے شل کہ پھر اٹھ نہ سکے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ہمت نہیں ہاری جان تک ہار گئے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

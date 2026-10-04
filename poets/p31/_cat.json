@@ -1,0 +1,23 @@
+{
+  "Id": 82,
+  "PoetId": 31,
+  "ParentId": null,
+  "Title": "اقبال سہیل",
+  "FullUrl": "/p31",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 83,
+      "Title": "غزل",
+      "FullUrl": "/p31/ghazal"
+    },
+    {
+      "Id": 84,
+      "Title": "نظم",
+      "FullUrl": "/p31/nazm"
+    }
+  ],
+  "Poems": []
+}

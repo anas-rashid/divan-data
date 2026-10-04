@@ -1,0 +1,1932 @@
+{
+  "SchemaVersion": 1,
+  "GeneratedAtUtc": "2026-10-04T21:04:51Z",
+  "PoetsCount": 383,
+  "PoemsCount": 11087,
+  "IdIndexShardSize": 2000,
+  "UrlTemplates": {
+    "Poet": "poets/{poetSlug}/poet.json",
+    "Category": "poets/{poetSlug}/{catPath}/_cat.json",
+    "Poem": "poets/{poetSlug}/{catPath}/{poemSlug}.json",
+    "PoetIdIndex": "index/poets-by-id.json",
+    "CatIdIndexShard": "index/cats-by-id/{bucket}.json",
+    "PoemIdIndexShard": "index/poems-by-id/{bucket}.json"
+  },
+  "Poets": [
+    {
+      "Id": 1,
+      "Nickname": "آرزو لکھنوی",
+      "FullUrl": "/p1"
+    },
+    {
+      "Id": 2,
+      "Nickname": "آزاد انصاری",
+      "FullUrl": "/p2"
+    },
+    {
+      "Id": 3,
+      "Nickname": "آسی الدنی",
+      "FullUrl": "/p3"
+    },
+    {
+      "Id": 4,
+      "Nickname": "آسی غازی پوری",
+      "FullUrl": "/p4"
+    },
+    {
+      "Id": 5,
+      "Nickname": "آغا اکبرآبادی",
+      "FullUrl": "/p5"
+    },
+    {
+      "Id": 6,
+      "Nickname": "آغا حجو شرف",
+      "FullUrl": "/p6"
+    },
+    {
+      "Id": 7,
+      "Nickname": "آغا حشر کاشمیری",
+      "FullUrl": "/p7"
+    },
+    {
+      "Id": 8,
+      "Nickname": "آغا شاعر قزلباش",
+      "FullUrl": "/p8"
+    },
+    {
+      "Id": 9,
+      "Nickname": "آفتاب شاہ عالم ثانی",
+      "FullUrl": "/p9"
+    },
+    {
+      "Id": 10,
+      "Nickname": "ابراہیم عاجز",
+      "FullUrl": "/p10"
+    },
+    {
+      "Id": 11,
+      "Nickname": "ابو الکلام",
+      "FullUrl": "/p11"
+    },
+    {
+      "Id": 12,
+      "Nickname": "ابومحمد سید حسین سیفی",
+      "FullUrl": "/p12"
+    },
+    {
+      "Id": 13,
+      "Nickname": "اثر صہبائی",
+      "FullUrl": "/p13"
+    },
+    {
+      "Id": 14,
+      "Nickname": "احسن مارہروی",
+      "FullUrl": "/p14"
+    },
+    {
+      "Id": 15,
+      "Nickname": "احقر جھانسوی",
+      "FullUrl": "/p15"
+    },
+    {
+      "Id": 16,
+      "Nickname": "احمد حسین مائل",
+      "FullUrl": "/p16"
+    },
+    {
+      "Id": 17,
+      "Nickname": "احمد رضا خان",
+      "FullUrl": "/p17"
+    },
+    {
+      "Id": 18,
+      "Nickname": "احمد شاہ خاں شبنم",
+      "FullUrl": "/p18"
+    },
+    {
+      "Id": 19,
+      "Nickname": "احمق پھپھوندوی",
+      "FullUrl": "/p19"
+    },
+    {
+      "Id": 20,
+      "Nickname": "اختر انصاری اکبرآبادی",
+      "FullUrl": "/p20"
+    },
+    {
+      "Id": 21,
+      "Nickname": "اختر شیرانی",
+      "FullUrl": "/p21"
+    },
+    {
+      "Id": 22,
+      "Nickname": "اختر علی اختر",
+      "FullUrl": "/p22"
+    },
+    {
+      "Id": 23,
+      "Nickname": "اسد ملتانی",
+      "FullUrl": "/p23"
+    },
+    {
+      "Id": 24,
+      "Nickname": "اسماعیل میرٹھی",
+      "FullUrl": "/p24"
+    },
+    {
+      "Id": 25,
+      "Nickname": "اشرف علی فغاں",
+      "FullUrl": "/p25"
+    },
+    {
+      "Id": 26,
+      "Nickname": "اشک رامپوری",
+      "FullUrl": "/p26"
+    },
+    {
+      "Id": 27,
+      "Nickname": "اصغر گونڈوی",
+      "FullUrl": "/p27"
+    },
+    {
+      "Id": 28,
+      "Nickname": "اعظم کریوی",
+      "FullUrl": "/p28"
+    },
+    {
+      "Id": 29,
+      "Nickname": "افسر میرٹھی",
+      "FullUrl": "/p29"
+    },
+    {
+      "Id": 30,
+      "Nickname": "افق لکھنوی",
+      "FullUrl": "/p30"
+    },
+    {
+      "Id": 31,
+      "Nickname": "اقبال سہیل",
+      "FullUrl": "/p31"
+    },
+    {
+      "Id": 32,
+      "Nickname": "الطاف حسین حالی",
+      "FullUrl": "/p32"
+    },
+    {
+      "Id": 33,
+      "Nickname": "امانت لکھنوی",
+      "FullUrl": "/p33"
+    },
+    {
+      "Id": 34,
+      "Nickname": "امجد حیدرآبادی",
+      "FullUrl": "/p34"
+    },
+    {
+      "Id": 35,
+      "Nickname": "امداد امام اثر",
+      "FullUrl": "/p35"
+    },
+    {
+      "Id": 36,
+      "Nickname": "امداد علی بحر",
+      "FullUrl": "/p36"
+    },
+    {
+      "Id": 37,
+      "Nickname": "امیر اللہ تسلیم",
+      "FullUrl": "/p37"
+    },
+    {
+      "Id": 38,
+      "Nickname": "امیر خسرو",
+      "FullUrl": "/p38"
+    },
+    {
+      "Id": 39,
+      "Nickname": "امیر مینائی",
+      "FullUrl": "/p39"
+    },
+    {
+      "Id": 40,
+      "Nickname": "امین حزیں سیالکوٹی",
+      "FullUrl": "/p40"
+    },
+    {
+      "Id": 41,
+      "Nickname": "انجم مانپوری",
+      "FullUrl": "/p41"
+    },
+    {
+      "Id": 42,
+      "Nickname": "انشاء اللہ خان انشا",
+      "FullUrl": "/p42"
+    },
+    {
+      "Id": 43,
+      "Nickname": "انعام اللہ خاں یقین",
+      "FullUrl": "/p43"
+    },
+    {
+      "Id": 44,
+      "Nickname": "انور دہلوی",
+      "FullUrl": "/p44"
+    },
+    {
+      "Id": 45,
+      "Nickname": "انوری جہاں بیگم حجاب",
+      "FullUrl": "/p45"
+    },
+    {
+      "Id": 46,
+      "Nickname": "اوج لکھنوی",
+      "FullUrl": "/p46"
+    },
+    {
+      "Id": 47,
+      "Nickname": "اکبر الہ آبادی",
+      "FullUrl": "/p47"
+    },
+    {
+      "Id": 48,
+      "Nickname": "باسط بھوپالی",
+      "FullUrl": "/p48"
+    },
+    {
+      "Id": 49,
+      "Nickname": "باقر آگاہ ویلوری",
+      "FullUrl": "/p49"
+    },
+    {
+      "Id": 50,
+      "Nickname": "باقی صدیقی",
+      "FullUrl": "/p50"
+    },
+    {
+      "Id": 51,
+      "Nickname": "بخش ناسخ",
+      "FullUrl": "/p51"
+    },
+    {
+      "Id": 52,
+      "Nickname": "برج نرائن چکبست",
+      "FullUrl": "/p52"
+    },
+    {
+      "Id": 53,
+      "Nickname": "برجموہن دتاتریہ کیفی",
+      "FullUrl": "/p53"
+    },
+    {
+      "Id": 54,
+      "Nickname": "برق دہلوی",
+      "FullUrl": "/p54"
+    },
+    {
+      "Id": 55,
+      "Nickname": "بسمل عظیم آبادی",
+      "FullUrl": "/p55"
+    },
+    {
+      "Id": 56,
+      "Nickname": "بشیر الدین احمد دہلوی",
+      "FullUrl": "/p56"
+    },
+    {
+      "Id": 57,
+      "Nickname": "بوم میرٹھی",
+      "FullUrl": "/p57"
+    },
+    {
+      "Id": 58,
+      "Nickname": "بھارتیندو ہریش چندر",
+      "FullUrl": "/p58"
+    },
+    {
+      "Id": 59,
+      "Nickname": "بہادر شاہ ظفر",
+      "FullUrl": "/p59"
+    },
+    {
+      "Id": 60,
+      "Nickname": "بہرام جی",
+      "FullUrl": "/p60"
+    },
+    {
+      "Id": 61,
+      "Nickname": "بیان میرٹھی",
+      "FullUrl": "/p61"
+    },
+    {
+      "Id": 62,
+      "Nickname": "بیان یزدانی",
+      "FullUrl": "/p62"
+    },
+    {
+      "Id": 63,
+      "Nickname": "بیاں احسن اللہ خان",
+      "FullUrl": "/p63"
+    },
+    {
+      "Id": 64,
+      "Nickname": "بیتاب عظیم آبادی",
+      "FullUrl": "/p64"
+    },
+    {
+      "Id": 65,
+      "Nickname": "بیخود بدایونی",
+      "FullUrl": "/p65"
+    },
+    {
+      "Id": 66,
+      "Nickname": "بیخود دہلوی",
+      "FullUrl": "/p66"
+    },
+    {
+      "Id": 67,
+      "Nickname": "بیخود موہانی",
+      "FullUrl": "/p67"
+    },
+    {
+      "Id": 68,
+      "Nickname": "بیدم وارثی",
+      "FullUrl": "/p68"
+    },
+    {
+      "Id": 69,
+      "Nickname": "تاباں عبد الحی",
+      "FullUrl": "/p69"
+    },
+    {
+      "Id": 70,
+      "Nickname": "تاجور نجیب آبادی",
+      "FullUrl": "/p70"
+    },
+    {
+      "Id": 71,
+      "Nickname": "تصدق حسین خالد",
+      "FullUrl": "/p71"
+    },
+    {
+      "Id": 72,
+      "Nickname": "تعشق لکھنوی",
+      "FullUrl": "/p72"
+    },
+    {
+      "Id": 73,
+      "Nickname": "تنویر نقوی",
+      "FullUrl": "/p73"
+    },
+    {
+      "Id": 74,
+      "Nickname": "ثاقب لکھنوی",
+      "FullUrl": "/p74"
+    },
+    {
+      "Id": 75,
+      "Nickname": "ثناء اللہ فراق",
+      "FullUrl": "/p75"
+    },
+    {
+      "Id": 76,
+      "Nickname": "جارج پیش شور",
+      "FullUrl": "/p76"
+    },
+    {
+      "Id": 77,
+      "Nickname": "جعفر علی حسرت",
+      "FullUrl": "/p77"
+    },
+    {
+      "Id": 78,
+      "Nickname": "جلال الدین اکبر",
+      "FullUrl": "/p78"
+    },
+    {
+      "Id": 79,
+      "Nickname": "جلالؔ لکھنوی",
+      "FullUrl": "/p79"
+    },
+    {
+      "Id": 80,
+      "Nickname": "جلیل مانکپوری",
+      "FullUrl": "/p80"
+    },
+    {
+      "Id": 81,
+      "Nickname": "جمیلہ خدا بخش",
+      "FullUrl": "/p81"
+    },
+    {
+      "Id": 82,
+      "Nickname": "جوشش عظیم آبادی",
+      "FullUrl": "/p82"
+    },
+    {
+      "Id": 83,
+      "Nickname": "جگت موہن لال رواں",
+      "FullUrl": "/p83"
+    },
+    {
+      "Id": 84,
+      "Nickname": "جگر مراد آبادی",
+      "FullUrl": "/p84"
+    },
+    {
+      "Id": 85,
+      "Nickname": "جگرؔ بسوانی",
+      "FullUrl": "/p85"
+    },
+    {
+      "Id": 86,
+      "Nickname": "حاتم علی مہر",
+      "FullUrl": "/p86"
+    },
+    {
+      "Id": 87,
+      "Nickname": "حاجی لق لق",
+      "FullUrl": "/p87"
+    },
+    {
+      "Id": 88,
+      "Nickname": "حبیب موسوی",
+      "FullUrl": "/p88"
+    },
+    {
+      "Id": 89,
+      "Nickname": "حسرت موہانی",
+      "FullUrl": "/p89"
+    },
+    {
+      "Id": 90,
+      "Nickname": "حسرتؔ عظیم آبادی",
+      "FullUrl": "/p90"
+    },
+    {
+      "Id": 91,
+      "Nickname": "حسن بریلوی",
+      "FullUrl": "/p91"
+    },
+    {
+      "Id": 92,
+      "Nickname": "حسن نظامی",
+      "FullUrl": "/p92"
+    },
+    {
+      "Id": 93,
+      "Nickname": "حفیظ جونپوری",
+      "FullUrl": "/p93"
+    },
+    {
+      "Id": 94,
+      "Nickname": "حکیم احمد شجاع",
+      "FullUrl": "/p94"
+    },
+    {
+      "Id": 95,
+      "Nickname": "حکیم محمد اجمل خاں شیدا",
+      "FullUrl": "/p95"
+    },
+    {
+      "Id": 96,
+      "Nickname": "حیدر علی آتش",
+      "FullUrl": "/p96"
+    },
+    {
+      "Id": 97,
+      "Nickname": "حیرت الہ آبادی",
+      "FullUrl": "/p97"
+    },
+    {
+      "Id": 98,
+      "Nickname": "خواجہ محمد وزیر",
+      "FullUrl": "/p98"
+    },
+    {
+      "Id": 99,
+      "Nickname": "خواجہ میر درد",
+      "FullUrl": "/p99"
+    },
+    {
+      "Id": 100,
+      "Nickname": "خوشی محمد ناظر",
+      "FullUrl": "/p100"
+    },
+    {
+      "Id": 101,
+      "Nickname": "داؤد اورنگ آبادی",
+      "FullUrl": "/p101"
+    },
+    {
+      "Id": 102,
+      "Nickname": "داغ دہلوی",
+      "FullUrl": "/p102"
+    },
+    {
+      "Id": 103,
+      "Nickname": "دل شاہ جہانپوری",
+      "FullUrl": "/p103"
+    },
+    {
+      "Id": 104,
+      "Nickname": "دیا شنکر نسیم",
+      "FullUrl": "/p104"
+    },
+    {
+      "Id": 105,
+      "Nickname": "رائے سرب سکھ دیوانہ",
+      "FullUrl": "/p105"
+    },
+    {
+      "Id": 106,
+      "Nickname": "راج بہادر سکسینہ اوجؔ",
+      "FullUrl": "/p106"
+    },
+    {
+      "Id": 107,
+      "Nickname": "راجہ نوشاد علی خان",
+      "FullUrl": "/p107"
+    },
+    {
+      "Id": 108,
+      "Nickname": "رادھے شیام رستوگی احقر",
+      "FullUrl": "/p108"
+    },
+    {
+      "Id": 109,
+      "Nickname": "راز رامپوری",
+      "FullUrl": "/p109"
+    },
+    {
+      "Id": 110,
+      "Nickname": "راسخ عظیم آبادی",
+      "FullUrl": "/p110"
+    },
+    {
+      "Id": 111,
+      "Nickname": "راشد الخیری",
+      "FullUrl": "/p111"
+    },
+    {
+      "Id": 112,
+      "Nickname": "راغب بدایونی",
+      "FullUrl": "/p112"
+    },
+    {
+      "Id": 113,
+      "Nickname": "رتن ناتھ سرشار",
+      "FullUrl": "/p113"
+    },
+    {
+      "Id": 114,
+      "Nickname": "رجب علی بیگ سرور",
+      "FullUrl": "/p114"
+    },
+    {
+      "Id": 115,
+      "Nickname": "رزمی صدیقی",
+      "FullUrl": "/p115"
+    },
+    {
+      "Id": 116,
+      "Nickname": "رسا رامپوری",
+      "FullUrl": "/p116"
+    },
+    {
+      "Id": 117,
+      "Nickname": "رشید جہاں",
+      "FullUrl": "/p117"
+    },
+    {
+      "Id": 118,
+      "Nickname": "رشید لکھنوی",
+      "FullUrl": "/p118"
+    },
+    {
+      "Id": 119,
+      "Nickname": "رفیع احمد عالی",
+      "FullUrl": "/p119"
+    },
+    {
+      "Id": 120,
+      "Nickname": "رفیعی اجمیری",
+      "FullUrl": "/p120"
+    },
+    {
+      "Id": 121,
+      "Nickname": "رنج حیدرآبادی",
+      "FullUrl": "/p121"
+    },
+    {
+      "Id": 122,
+      "Nickname": "رنجور عظیم آبادی",
+      "FullUrl": "/p122"
+    },
+    {
+      "Id": 123,
+      "Nickname": "رند لکھنوی",
+      "FullUrl": "/p123"
+    },
+    {
+      "Id": 124,
+      "Nickname": "ریاض خیرآبادی",
+      "FullUrl": "/p124"
+    },
+    {
+      "Id": 125,
+      "Nickname": "ز خ ش",
+      "FullUrl": "/p125"
+    },
+    {
+      "Id": 126,
+      "Nickname": "زین العابدین خاں عارف",
+      "FullUrl": "/p126"
+    },
+    {
+      "Id": 127,
+      "Nickname": "سائل دہلوی",
+      "FullUrl": "/p127"
+    },
+    {
+      "Id": 128,
+      "Nickname": "ساحر دہلوی",
+      "FullUrl": "/p128"
+    },
+    {
+      "Id": 129,
+      "Nickname": "سجاد حیدر یلدرم",
+      "FullUrl": "/p129"
+    },
+    {
+      "Id": 130,
+      "Nickname": "سخی لکھنوی",
+      "FullUrl": "/p130"
+    },
+    {
+      "Id": 131,
+      "Nickname": "سراج الدین خان آرزو",
+      "FullUrl": "/p131"
+    },
+    {
+      "Id": 132,
+      "Nickname": "سراج الدین ظفر",
+      "FullUrl": "/p132"
+    },
+    {
+      "Id": 133,
+      "Nickname": "سراج اورنگ آبادی",
+      "FullUrl": "/p133"
+    },
+    {
+      "Id": 134,
+      "Nickname": "سردار گینڈا سنگھ مشرقی",
+      "FullUrl": "/p134"
+    },
+    {
+      "Id": 135,
+      "Nickname": "سرور جہاں آبادی",
+      "FullUrl": "/p135"
+    },
+    {
+      "Id": 136,
+      "Nickname": "سعادت حسن منٹو",
+      "FullUrl": "/p136"
+    },
+    {
+      "Id": 137,
+      "Nickname": "سعادت یار خان رنگین",
+      "FullUrl": "/p137"
+    },
+    {
+      "Id": 138,
+      "Nickname": "سفیر کاکوروی",
+      "FullUrl": "/p138"
+    },
+    {
+      "Id": 139,
+      "Nickname": "سلطان حیدر جوش",
+      "FullUrl": "/p139"
+    },
+    {
+      "Id": 140,
+      "Nickname": "سورج نرائن مہر",
+      "FullUrl": "/p140"
+    },
+    {
+      "Id": 141,
+      "Nickname": "سہا مجددی",
+      "FullUrl": "/p141"
+    },
+    {
+      "Id": 142,
+      "Nickname": "سید احمد خان",
+      "FullUrl": "/p142"
+    },
+    {
+      "Id": 143,
+      "Nickname": "سید احمد دہلوی",
+      "FullUrl": "/p143"
+    },
+    {
+      "Id": 144,
+      "Nickname": "سید امیر حسن بدر",
+      "FullUrl": "/p144"
+    },
+    {
+      "Id": 145,
+      "Nickname": "سید سلیمان ندوی",
+      "FullUrl": "/p145"
+    },
+    {
+      "Id": 146,
+      "Nickname": "سید محمد عبد الغفور شہباز",
+      "FullUrl": "/p146"
+    },
+    {
+      "Id": 147,
+      "Nickname": "سید واجد علی فرخ بنارسی",
+      "FullUrl": "/p147"
+    },
+    {
+      "Id": 148,
+      "Nickname": "سید ہمایوں میرزا حقیر",
+      "FullUrl": "/p148"
+    },
+    {
+      "Id": 149,
+      "Nickname": "سید یوسف علی خاں ناظم",
+      "FullUrl": "/p149"
+    },
+    {
+      "Id": 150,
+      "Nickname": "سیماب اکبرآبادی",
+      "FullUrl": "/p150"
+    },
+    {
+      "Id": 151,
+      "Nickname": "شاد عظیم آبادی",
+      "FullUrl": "/p151"
+    },
+    {
+      "Id": 152,
+      "Nickname": "شاد لکھنوی",
+      "FullUrl": "/p152"
+    },
+    {
+      "Id": 153,
+      "Nickname": "شاکر میرٹھی",
+      "FullUrl": "/p153"
+    },
+    {
+      "Id": 154,
+      "Nickname": "شاہ آثم",
+      "FullUrl": "/p154"
+    },
+    {
+      "Id": 155,
+      "Nickname": "شاہ اکبر داناپوری",
+      "FullUrl": "/p155"
+    },
+    {
+      "Id": 156,
+      "Nickname": "شاہ دین ہمایوں",
+      "FullUrl": "/p156"
+    },
+    {
+      "Id": 157,
+      "Nickname": "شاہ مبارک آبرو",
+      "FullUrl": "/p157"
+    },
+    {
+      "Id": 158,
+      "Nickname": "شاہ نصیر",
+      "FullUrl": "/p158"
+    },
+    {
+      "Id": 159,
+      "Nickname": "شاہ نیاز احمد",
+      "FullUrl": "/p159"
+    },
+    {
+      "Id": 160,
+      "Nickname": "شبلی نعمانی",
+      "FullUrl": "/p160"
+    },
+    {
+      "Id": 161,
+      "Nickname": "شرف مجددی",
+      "FullUrl": "/p161"
+    },
+    {
+      "Id": 162,
+      "Nickname": "شفق عماد پوری",
+      "FullUrl": "/p162"
+    },
+    {
+      "Id": 163,
+      "Nickname": "شوق قدوائی",
+      "FullUrl": "/p163"
+    },
+    {
+      "Id": 164,
+      "Nickname": "شکیب جلالی",
+      "FullUrl": "/p164"
+    },
+    {
+      "Id": 165,
+      "Nickname": "شہیر مچھلی شہری",
+      "FullUrl": "/p165"
+    },
+    {
+      "Id": 166,
+      "Nickname": "شیخ ظہور الدین حاتم",
+      "FullUrl": "/p166"
+    },
+    {
+      "Id": 167,
+      "Nickname": "شیخ عبداللطیف تپش",
+      "FullUrl": "/p167"
+    },
+    {
+      "Id": 168,
+      "Nickname": "شیخ علی بخش بیمار",
+      "FullUrl": "/p168"
+    },
+    {
+      "Id": 169,
+      "Nickname": "شیخ قلندر بخش جرات",
+      "FullUrl": "/p169"
+    },
+    {
+      "Id": 170,
+      "Nickname": "شیر سنگھ ناز دہلوی",
+      "FullUrl": "/p170"
+    },
+    {
+      "Id": 171,
+      "Nickname": "شیر محمد خاں ایمان",
+      "FullUrl": "/p171"
+    },
+    {
+      "Id": 172,
+      "Nickname": "صغرا ہمایوں مرزا",
+      "FullUrl": "/p172"
+    },
+    {
+      "Id": 173,
+      "Nickname": "صفدر مرزا پوری",
+      "FullUrl": "/p173"
+    },
+    {
+      "Id": 174,
+      "Nickname": "صفی اورنگ آبادی",
+      "FullUrl": "/p174"
+    },
+    {
+      "Id": 175,
+      "Nickname": "صفی لکھنوی",
+      "FullUrl": "/p175"
+    },
+    {
+      "Id": 176,
+      "Nickname": "ضیا عظیم آبادی",
+      "FullUrl": "/p176"
+    },
+    {
+      "Id": 177,
+      "Nickname": "طالب علی خان عیشی",
+      "FullUrl": "/p177"
+    },
+    {
+      "Id": 178,
+      "Nickname": "ظریف لکھنوی",
+      "FullUrl": "/p178"
+    },
+    {
+      "Id": 179,
+      "Nickname": "ظفر علی خان",
+      "FullUrl": "/p179"
+    },
+    {
+      "Id": 180,
+      "Nickname": "ظہور اللہ بدایونی نوا",
+      "FullUrl": "/p180"
+    },
+    {
+      "Id": 181,
+      "Nickname": "ظہیر دہلوی",
+      "FullUrl": "/p181"
+    },
+    {
+      "Id": 182,
+      "Nickname": "عابد علی عابد",
+      "FullUrl": "/p182"
+    },
+    {
+      "Id": 183,
+      "Nickname": "عاشق اکبرآبادی",
+      "FullUrl": "/p183"
+    },
+    {
+      "Id": 184,
+      "Nickname": "عاشق حسین بزم آفندی",
+      "FullUrl": "/p184"
+    },
+    {
+      "Id": 185,
+      "Nickname": "عبد الحلیم شرر",
+      "FullUrl": "/p185"
+    },
+    {
+      "Id": 186,
+      "Nickname": "عبد الغفور نساخ",
+      "FullUrl": "/p186"
+    },
+    {
+      "Id": 187,
+      "Nickname": "عبد المجید سالک",
+      "FullUrl": "/p187"
+    },
+    {
+      "Id": 188,
+      "Nickname": "عبد الہادی وفا",
+      "FullUrl": "/p188"
+    },
+    {
+      "Id": 189,
+      "Nickname": "عبدالرحمان احسان دہلوی",
+      "FullUrl": "/p189"
+    },
+    {
+      "Id": 190,
+      "Nickname": "عبدالعزیز فطرت",
+      "FullUrl": "/p190"
+    },
+    {
+      "Id": 191,
+      "Nickname": "عبدالعلیم آسی",
+      "FullUrl": "/p191"
+    },
+    {
+      "Id": 192,
+      "Nickname": "عزیز الحسن غوری",
+      "FullUrl": "/p192"
+    },
+    {
+      "Id": 193,
+      "Nickname": "عزیز الرحمٰن عزیز پانی پتی",
+      "FullUrl": "/p193"
+    },
+    {
+      "Id": 194,
+      "Nickname": "عزیز حیدرآبادی",
+      "FullUrl": "/p194"
+    },
+    {
+      "Id": 195,
+      "Nickname": "عزیز لکھنوی",
+      "FullUrl": "/p195"
+    },
+    {
+      "Id": 196,
+      "Nickname": "عشرت لکھنوی",
+      "FullUrl": "/p196"
+    },
+    {
+      "Id": 197,
+      "Nickname": "عشق اورنگ آبادی",
+      "FullUrl": "/p197"
+    },
+    {
+      "Id": 198,
+      "Nickname": "عشق عظیم آبادی",
+      "FullUrl": "/p198"
+    },
+    {
+      "Id": 199,
+      "Nickname": "عصمت اللہ عصمت بیگ",
+      "FullUrl": "/p199"
+    },
+    {
+      "Id": 200,
+      "Nickname": "عظمت اللہ خاں",
+      "FullUrl": "/p200"
+    },
+    {
+      "Id": 201,
+      "Nickname": "عظیم الدین احمد",
+      "FullUrl": "/p201"
+    },
+    {
+      "Id": 202,
+      "Nickname": "علی منظور حیدرآبادی",
+      "FullUrl": "/p202"
+    },
+    {
+      "Id": 203,
+      "Nickname": "علیم اللہ",
+      "FullUrl": "/p203"
+    },
+    {
+      "Id": 204,
+      "Nickname": "عنایت اللہ روشن بدایونی",
+      "FullUrl": "/p204"
+    },
+    {
+      "Id": 205,
+      "Nickname": "عیش دہلوی",
+      "FullUrl": "/p205"
+    },
+    {
+      "Id": 206,
+      "Nickname": "غلام بھیک نیرنگ",
+      "FullUrl": "/p206"
+    },
+    {
+      "Id": 207,
+      "Nickname": "غلام رسول مہر",
+      "FullUrl": "/p207"
+    },
+    {
+      "Id": 208,
+      "Nickname": "غلام علی ہمدانی مصحفی",
+      "FullUrl": "/p208"
+    },
+    {
+      "Id": 209,
+      "Nickname": "غلام یحییٰ حضورعظیم آبادی",
+      "FullUrl": "/p209"
+    },
+    {
+      "Id": 210,
+      "Nickname": "غمگین دہلوی",
+      "FullUrl": "/p210"
+    },
+    {
+      "Id": 211,
+      "Nickname": "فائز دہلوی",
+      "FullUrl": "/p211"
+    },
+    {
+      "Id": 212,
+      "Nickname": "فانی بدایونی",
+      "FullUrl": "/p212"
+    },
+    {
+      "Id": 213,
+      "Nickname": "فرحت کانپوری",
+      "FullUrl": "/p213"
+    },
+    {
+      "Id": 214,
+      "Nickname": "فروغ حیدرآبادی",
+      "FullUrl": "/p214"
+    },
+    {
+      "Id": 215,
+      "Nickname": "قائم چاندپوری",
+      "FullUrl": "/p215"
+    },
+    {
+      "Id": 216,
+      "Nickname": "قابل اجمیری",
+      "FullUrl": "/p216"
+    },
+    {
+      "Id": 217,
+      "Nickname": "قاسم علی خان آفریدی",
+      "FullUrl": "/p217"
+    },
+    {
+      "Id": 218,
+      "Nickname": "قاضی عبدالغفار",
+      "FullUrl": "/p218"
+    },
+    {
+      "Id": 219,
+      "Nickname": "قدر بلگرامی",
+      "FullUrl": "/p219"
+    },
+    {
+      "Id": 220,
+      "Nickname": "قربان علی سالک بیگ",
+      "FullUrl": "/p220"
+    },
+    {
+      "Id": 221,
+      "Nickname": "قربی ویلوری",
+      "FullUrl": "/p221"
+    },
+    {
+      "Id": 222,
+      "Nickname": "قزلباش خاں امید",
+      "FullUrl": "/p222"
+    },
+    {
+      "Id": 223,
+      "Nickname": "قلق میرٹھی",
+      "FullUrl": "/p223"
+    },
+    {
+      "Id": 224,
+      "Nickname": "قمر ہلالی",
+      "FullUrl": "/p224"
+    },
+    {
+      "Id": 225,
+      "Nickname": "لالہ مادھو رام جوہر",
+      "FullUrl": "/p225"
+    },
+    {
+      "Id": 226,
+      "Nickname": "لطیف فاروقی",
+      "FullUrl": "/p226"
+    },
+    {
+      "Id": 227,
+      "Nickname": "م حسن لطیفی",
+      "FullUrl": "/p227"
+    },
+    {
+      "Id": 228,
+      "Nickname": "ماتم فضل محمد",
+      "FullUrl": "/p228"
+    },
+    {
+      "Id": 229,
+      "Nickname": "ماسٹر باسط بسوانی",
+      "FullUrl": "/p229"
+    },
+    {
+      "Id": 230,
+      "Nickname": "ماسٹر رام چندر",
+      "FullUrl": "/p230"
+    },
+    {
+      "Id": 231,
+      "Nickname": "ماہ لقا بائی",
+      "FullUrl": "/p231"
+    },
+    {
+      "Id": 232,
+      "Nickname": "مبارک عظیم آبادی",
+      "FullUrl": "/p232"
+    },
+    {
+      "Id": 233,
+      "Nickname": "مجاز لکھنوی",
+      "FullUrl": "/p233"
+    },
+    {
+      "Id": 234,
+      "Nickname": "مجید لاہوری",
+      "FullUrl": "/p234"
+    },
+    {
+      "Id": 235,
+      "Nickname": "محسن کاکوروی",
+      "FullUrl": "/p235"
+    },
+    {
+      "Id": 236,
+      "Nickname": "محشر لکھنوی",
+      "FullUrl": "/p236"
+    },
+    {
+      "Id": 237,
+      "Nickname": "محمد ابراہیم ذوق",
+      "FullUrl": "/p237"
+    },
+    {
+      "Id": 238,
+      "Nickname": "محمد اقبال",
+      "FullUrl": "/p238"
+    },
+    {
+      "Id": 239,
+      "Nickname": "محمد الدین فوق",
+      "FullUrl": "/p239"
+    },
+    {
+      "Id": 240,
+      "Nickname": "محمد حسین آزاد",
+      "FullUrl": "/p240"
+    },
+    {
+      "Id": 241,
+      "Nickname": "محمد دین تاثیر",
+      "FullUrl": "/p241"
+    },
+    {
+      "Id": 242,
+      "Nickname": "محمد زکریا خان",
+      "FullUrl": "/p242"
+    },
+    {
+      "Id": 243,
+      "Nickname": "محمد صادق ضیا",
+      "FullUrl": "/p243"
+    },
+    {
+      "Id": 244,
+      "Nickname": "محمد علی تشنہ",
+      "FullUrl": "/p244"
+    },
+    {
+      "Id": 245,
+      "Nickname": "محمد علی جوہر",
+      "FullUrl": "/p245"
+    },
+    {
+      "Id": 246,
+      "Nickname": "محمد علی خاں رشکی",
+      "FullUrl": "/p246"
+    },
+    {
+      "Id": 247,
+      "Nickname": "محمد عیسیٰ تنہا",
+      "FullUrl": "/p247"
+    },
+    {
+      "Id": 248,
+      "Nickname": "محمد قلی قطب شاہ",
+      "FullUrl": "/p248"
+    },
+    {
+      "Id": 249,
+      "Nickname": "محمود الظفر",
+      "FullUrl": "/p249"
+    },
+    {
+      "Id": 250,
+      "Nickname": "محمود رامپوری",
+      "FullUrl": "/p250"
+    },
+    {
+      "Id": 251,
+      "Nickname": "محی الدین فوق",
+      "FullUrl": "/p251"
+    },
+    {
+      "Id": 252,
+      "Nickname": "مختار صدیقی",
+      "FullUrl": "/p252"
+    },
+    {
+      "Id": 253,
+      "Nickname": "مخمور دہلوی",
+      "FullUrl": "/p253"
+    },
+    {
+      "Id": 254,
+      "Nickname": "مردان صفی",
+      "FullUrl": "/p254"
+    },
+    {
+      "Id": 255,
+      "Nickname": "مردان علی خاں رانا",
+      "FullUrl": "/p255"
+    },
+    {
+      "Id": 256,
+      "Nickname": "مرزا آسمان جاہ انجم",
+      "FullUrl": "/p256"
+    },
+    {
+      "Id": 257,
+      "Nickname": "مرزا اسد اللہ خان",
+      "FullUrl": "/p257"
+    },
+    {
+      "Id": 258,
+      "Nickname": "مرزا اظفری",
+      "FullUrl": "/p258"
+    },
+    {
+      "Id": 259,
+      "Nickname": "مرزا جواں بخت جہاں دار",
+      "FullUrl": "/p259"
+    },
+    {
+      "Id": 260,
+      "Nickname": "مرزا رحیم الدین حیا",
+      "FullUrl": "/p260"
+    },
+    {
+      "Id": 261,
+      "Nickname": "مرزا سلامت علی دبیر",
+      "FullUrl": "/p261"
+    },
+    {
+      "Id": 262,
+      "Nickname": "مرزا شوقؔ لکھنوی",
+      "FullUrl": "/p262"
+    },
+    {
+      "Id": 263,
+      "Nickname": "مرزا عبدالغفور گورگانی ارشد",
+      "FullUrl": "/p263"
+    },
+    {
+      "Id": 264,
+      "Nickname": "مرزا عظیم بیگ چغتائی",
+      "FullUrl": "/p264"
+    },
+    {
+      "Id": 265,
+      "Nickname": "مرزا علی لطف",
+      "FullUrl": "/p265"
+    },
+    {
+      "Id": 266,
+      "Nickname": "مرزا غالب",
+      "FullUrl": "/p266"
+    },
+    {
+      "Id": 267,
+      "Nickname": "مرزا فرحت اللہ بیگ",
+      "FullUrl": "/p267"
+    },
+    {
+      "Id": 268,
+      "Nickname": "مرزا مائل دہلوی",
+      "FullUrl": "/p268"
+    },
+    {
+      "Id": 269,
+      "Nickname": "مرزا محمد تقی ہوسؔ",
+      "FullUrl": "/p269"
+    },
+    {
+      "Id": 270,
+      "Nickname": "مرزا محمد رفیع سودا",
+      "FullUrl": "/p270"
+    },
+    {
+      "Id": 271,
+      "Nickname": "مرزا محمد ہادی رسوا",
+      "FullUrl": "/p271"
+    },
+    {
+      "Id": 272,
+      "Nickname": "مرزا مسیتابیگ منتہی",
+      "FullUrl": "/p272"
+    },
+    {
+      "Id": 273,
+      "Nickname": "مرزارضا برق",
+      "FullUrl": "/p273"
+    },
+    {
+      "Id": 274,
+      "Nickname": "مسکین شاہ",
+      "FullUrl": "/p274"
+    },
+    {
+      "Id": 275,
+      "Nickname": "مصطفٰی خان شیفتہ",
+      "FullUrl": "/p275"
+    },
+    {
+      "Id": 276,
+      "Nickname": "مصطفٰی زیدی",
+      "FullUrl": "/p276"
+    },
+    {
+      "Id": 277,
+      "Nickname": "مضطر خیرآبادی",
+      "FullUrl": "/p277"
+    },
+    {
+      "Id": 278,
+      "Nickname": "مظفر علی اسیر",
+      "FullUrl": "/p278"
+    },
+    {
+      "Id": 279,
+      "Nickname": "مظہر جان جاناں",
+      "FullUrl": "/p279"
+    },
+    {
+      "Id": 280,
+      "Nickname": "مفتی صدر الدین خان آزردہ",
+      "FullUrl": "/p280"
+    },
+    {
+      "Id": 281,
+      "Nickname": "ممنونؔ نظام الدین",
+      "FullUrl": "/p281"
+    },
+    {
+      "Id": 282,
+      "Nickname": "منتظر لکھنوی",
+      "FullUrl": "/p282"
+    },
+    {
+      "Id": 283,
+      "Nickname": "منشی بنواری لال شعلہ",
+      "FullUrl": "/p283"
+    },
+    {
+      "Id": 284,
+      "Nickname": "منشی بہاری لال مشتاق دہلوی",
+      "FullUrl": "/p284"
+    },
+    {
+      "Id": 285,
+      "Nickname": "منشی جوالا پرشاد برق",
+      "FullUrl": "/p285"
+    },
+    {
+      "Id": 286,
+      "Nickname": "منشی خیراتی لال شگفتہ",
+      "FullUrl": "/p286"
+    },
+    {
+      "Id": 287,
+      "Nickname": "منشی دیبی پرشاد سحر بدایونی",
+      "FullUrl": "/p287"
+    },
+    {
+      "Id": 288,
+      "Nickname": "منشی شیو پرشاد وہبی",
+      "FullUrl": "/p288"
+    },
+    {
+      "Id": 289,
+      "Nickname": "منشی نوبت رائے نظر لکھنوی",
+      "FullUrl": "/p289"
+    },
+    {
+      "Id": 290,
+      "Nickname": "منشی ٹھاکر پرساد طالب",
+      "FullUrl": "/p290"
+    },
+    {
+      "Id": 291,
+      "Nickname": "منیر بھوپالی",
+      "FullUrl": "/p291"
+    },
+    {
+      "Id": 292,
+      "Nickname": "منیرؔ شکوہ آبادی",
+      "FullUrl": "/p292"
+    },
+    {
+      "Id": 293,
+      "Nickname": "مولوی عبد الحق",
+      "FullUrl": "/p293"
+    },
+    {
+      "Id": 294,
+      "Nickname": "مومن خان مومن",
+      "FullUrl": "/p294"
+    },
+    {
+      "Id": 295,
+      "Nickname": "مہاراجہ سر کشن پرشاد",
+      "FullUrl": "/p295"
+    },
+    {
+      "Id": 296,
+      "Nickname": "مہدی افادی",
+      "FullUrl": "/p296"
+    },
+    {
+      "Id": 297,
+      "Nickname": "میاں داد خاں سیاح",
+      "FullUrl": "/p297"
+    },
+    {
+      "Id": 298,
+      "Nickname": "میر اثر",
+      "FullUrl": "/p298"
+    },
+    {
+      "Id": 299,
+      "Nickname": "میر",
+      "FullUrl": "/p299"
+    },
+    {
+      "Id": 300,
+      "Nickname": "میر انیس",
+      "FullUrl": "/p300"
+    },
+    {
+      "Id": 301,
+      "Nickname": "میر باقر علی",
+      "FullUrl": "/p301"
+    },
+    {
+      "Id": 302,
+      "Nickname": "میر تسکینؔ دہلوی",
+      "FullUrl": "/p302"
+    },
+    {
+      "Id": 303,
+      "Nickname": "میر تقی میر",
+      "FullUrl": "/p303"
+    },
+    {
+      "Id": 304,
+      "Nickname": "میر حسن دہلوی",
+      "FullUrl": "/p304"
+    },
+    {
+      "Id": 305,
+      "Nickname": "میر سجاد",
+      "FullUrl": "/p305"
+    },
+    {
+      "Id": 306,
+      "Nickname": "میر سوز",
+      "FullUrl": "/p306"
+    },
+    {
+      "Id": 307,
+      "Nickname": "میر شمس الدین فقیر",
+      "FullUrl": "/p307"
+    },
+    {
+      "Id": 308,
+      "Nickname": "میر شیر علی افسوس",
+      "FullUrl": "/p308"
+    },
+    {
+      "Id": 309,
+      "Nickname": "میر طاہر علی طاہر فرخ آبادی",
+      "FullUrl": "/p309"
+    },
+    {
+      "Id": 310,
+      "Nickname": "میر قمر الدین منت",
+      "FullUrl": "/p310"
+    },
+    {
+      "Id": 311,
+      "Nickname": "میر محمد باقر حزیں",
+      "FullUrl": "/p311"
+    },
+    {
+      "Id": 312,
+      "Nickname": "میر محمد سلطان عاقل",
+      "FullUrl": "/p312"
+    },
+    {
+      "Id": 313,
+      "Nickname": "میر محمدی بیدار",
+      "FullUrl": "/p313"
+    },
+    {
+      "Id": 314,
+      "Nickname": "میر مستحسن خلیق",
+      "FullUrl": "/p314"
+    },
+    {
+      "Id": 315,
+      "Nickname": "میر مظفر حسین ضمیر",
+      "FullUrl": "/p315"
+    },
+    {
+      "Id": 316,
+      "Nickname": "میر مہدی مجروح",
+      "FullUrl": "/p316"
+    },
+    {
+      "Id": 317,
+      "Nickname": "میر کلو عرش",
+      "FullUrl": "/p317"
+    },
+    {
+      "Id": 318,
+      "Nickname": "میراجی",
+      "FullUrl": "/p318"
+    },
+    {
+      "Id": 319,
+      "Nickname": "میراں شاہ جالندھری",
+      "FullUrl": "/p319"
+    },
+    {
+      "Id": 320,
+      "Nickname": "میرزا الطاف حسین عالم لکھنوی",
+      "FullUrl": "/p320"
+    },
+    {
+      "Id": 321,
+      "Nickname": "میرضیا الدین ضیا",
+      "FullUrl": "/p321"
+    },
+    {
+      "Id": 322,
+      "Nickname": "میکش حیدرآبادی",
+      "FullUrl": "/p322"
+    },
+    {
+      "Id": 323,
+      "Nickname": "ناجی شاکر",
+      "FullUrl": "/p323"
+    },
+    {
+      "Id": 324,
+      "Nickname": "نادر کاکوری",
+      "FullUrl": "/p324"
+    },
+    {
+      "Id": 325,
+      "Nickname": "نارائن داس پوری",
+      "FullUrl": "/p325"
+    },
+    {
+      "Id": 326,
+      "Nickname": "نازش بدایونی",
+      "FullUrl": "/p326"
+    },
+    {
+      "Id": 327,
+      "Nickname": "ناصر نذیر فراق دہلوی",
+      "FullUrl": "/p327"
+    },
+    {
+      "Id": 328,
+      "Nickname": "ناصری لکھنوی",
+      "FullUrl": "/p328"
+    },
+    {
+      "Id": 329,
+      "Nickname": "ناطق لکھنوی",
+      "FullUrl": "/p329"
+    },
+    {
+      "Id": 330,
+      "Nickname": "نبی بخش نایاب",
+      "FullUrl": "/p330"
+    },
+    {
+      "Id": 331,
+      "Nickname": "ندرت میرٹھی",
+      "FullUrl": "/p331"
+    },
+    {
+      "Id": 332,
+      "Nickname": "نسیم بھرتپوری",
+      "FullUrl": "/p332"
+    },
+    {
+      "Id": 333,
+      "Nickname": "نسیم دہلوی",
+      "FullUrl": "/p333"
+    },
+    {
+      "Id": 334,
+      "Nickname": "نسیم میسوری",
+      "FullUrl": "/p334"
+    },
+    {
+      "Id": 335,
+      "Nickname": "نشتر چھپروی",
+      "FullUrl": "/p335"
+    },
+    {
+      "Id": 336,
+      "Nickname": "نظام رامپوری",
+      "FullUrl": "/p336"
+    },
+    {
+      "Id": 337,
+      "Nickname": "نظم طباطبائی",
+      "FullUrl": "/p337"
+    },
+    {
+      "Id": 338,
+      "Nickname": "نظیر اکبر آبادی",
+      "FullUrl": "/p338"
+    },
+    {
+      "Id": 339,
+      "Nickname": "نواب امراوبہادر دلیر",
+      "FullUrl": "/p339"
+    },
+    {
+      "Id": 340,
+      "Nickname": "نواب سلیمان شکوہ",
+      "FullUrl": "/p340"
+    },
+    {
+      "Id": 341,
+      "Nickname": "نواب شاہجہاں بیگم شاہجہاں",
+      "FullUrl": "/p341"
+    },
+    {
+      "Id": 342,
+      "Nickname": "نواب صدر محل صدر",
+      "FullUrl": "/p342"
+    },
+    {
+      "Id": 343,
+      "Nickname": "نواب ضیاالدین خاں رخشاں",
+      "FullUrl": "/p343"
+    },
+    {
+      "Id": 344,
+      "Nickname": "نواب محمد یار خاں امیر",
+      "FullUrl": "/p344"
+    },
+    {
+      "Id": 345,
+      "Nickname": "نوح ناروی",
+      "FullUrl": "/p345"
+    },
+    {
+      "Id": 346,
+      "Nickname": "نہال سیوہاروی",
+      "FullUrl": "/p346"
+    },
+    {
+      "Id": 347,
+      "Nickname": "نہال لکھنوی",
+      "FullUrl": "/p347"
+    },
+    {
+      "Id": 348,
+      "Nickname": "نیر سلطانپوری",
+      "FullUrl": "/p348"
+    },
+    {
+      "Id": 349,
+      "Nickname": "واجد علی شاہ",
+      "FullUrl": "/p349"
+    },
+    {
+      "Id": 350,
+      "Nickname": "وحشت کلکتوی",
+      "FullUrl": "/p350"
+    },
+    {
+      "Id": 351,
+      "Nickname": "وحید الدین سلیم",
+      "FullUrl": "/p351"
+    },
+    {
+      "Id": 352,
+      "Nickname": "وحید الہ آبادی",
+      "FullUrl": "/p352"
+    },
+    {
+      "Id": 353,
+      "Nickname": "وحیدالدین احمد وحید",
+      "FullUrl": "/p353"
+    },
+    {
+      "Id": 354,
+      "Nickname": "وزیر علی صبا لکھنؤی",
+      "FullUrl": "/p354"
+    },
+    {
+      "Id": 355,
+      "Nickname": "وفا لکھنوی",
+      "FullUrl": "/p355"
+    },
+    {
+      "Id": 356,
+      "Nickname": "ولی دکنی",
+      "FullUrl": "/p356"
+    },
+    {
+      "Id": 357,
+      "Nickname": "ولی عزلت",
+      "FullUrl": "/p357"
+    },
+    {
+      "Id": 358,
+      "Nickname": "پروین ام مشتاق",
+      "FullUrl": "/p358"
+    },
+    {
+      "Id": 359,
+      "Nickname": "پنڈت جواہر ناتھ ساقی",
+      "FullUrl": "/p359"
+    },
+    {
+      "Id": 360,
+      "Nickname": "پنڈت جگموہن ناتھ رینا شوق",
+      "FullUrl": "/p360"
+    },
+    {
+      "Id": 361,
+      "Nickname": "پنڈت چندر بھان برہمن",
+      "FullUrl": "/p361"
+    },
+    {
+      "Id": 362,
+      "Nickname": "پنڈت ہری چند اختر",
+      "FullUrl": "/p362"
+    },
+    {
+      "Id": 363,
+      "Nickname": "پیارے لال رونق دہلوی",
+      "FullUrl": "/p363"
+    },
+    {
+      "Id": 364,
+      "Nickname": "پیر شیر محمد عاجز",
+      "FullUrl": "/p364"
+    },
+    {
+      "Id": 365,
+      "Nickname": "چراغ حسن حسرت",
+      "FullUrl": "/p365"
+    },
+    {
+      "Id": 366,
+      "Nickname": "چندر بھان کیفی دہلوی",
+      "FullUrl": "/p366"
+    },
+    {
+      "Id": 367,
+      "Nickname": "چندو لعل بہادر شادان",
+      "FullUrl": "/p367"
+    },
+    {
+      "Id": 368,
+      "Nickname": "چودھری محمد علی ردولوی",
+      "FullUrl": "/p368"
+    },
+    {
+      "Id": 369,
+      "Nickname": "ڈپٹی نذیر احمد",
+      "FullUrl": "/p369"
+    },
+    {
+      "Id": 370,
+      "Nickname": "کرامت علی شہیدی",
+      "FullUrl": "/p370"
+    },
+    {
+      "Id": 371,
+      "Nickname": "کشن کمار وقار",
+      "FullUrl": "/p371"
+    },
+    {
+      "Id": 372,
+      "Nickname": "کیفی حیدرآبادی",
+      "FullUrl": "/p372"
+    },
+    {
+      "Id": 373,
+      "Nickname": "کیفی چریاکوٹی",
+      "FullUrl": "/p373"
+    },
+    {
+      "Id": 374,
+      "Nickname": "کیفی کاکوروی",
+      "FullUrl": "/p374"
+    },
+    {
+      "Id": 375,
+      "Nickname": "کیپٹن ڈامنگو پال لیزوا ذرہ",
+      "FullUrl": "/p375"
+    },
+    {
+      "Id": 376,
+      "Nickname": "گویا فقیر محمد",
+      "FullUrl": "/p376"
+    },
+    {
+      "Id": 377,
+      "Nickname": "ہاجر دہلوی",
+      "FullUrl": "/p377"
+    },
+    {
+      "Id": 378,
+      "Nickname": "ہادی مچھلی شہری",
+      "FullUrl": "/p378"
+    },
+    {
+      "Id": 379,
+      "Nickname": "ہجر ناظم علی خان",
+      "FullUrl": "/p379"
+    },
+    {
+      "Id": 380,
+      "Nickname": "ہوش بلگرامی",
+      "FullUrl": "/p380"
+    },
+    {
+      "Id": 381,
+      "Nickname": "یاس یگانہ چنگیزی",
+      "FullUrl": "/p381"
+    },
+    {
+      "Id": 382,
+      "Nickname": "یاسین علی خاں مرکز",
+      "FullUrl": "/p382"
+    },
+    {
+      "Id": 383,
+      "Nickname": "یوسف ظفر",
+      "FullUrl": "/p383"
+    }
+  ]
+}

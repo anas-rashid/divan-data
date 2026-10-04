@@ -1,0 +1,23 @@
+{
+  "Id": 77,
+  "PoetId": 29,
+  "ParentId": null,
+  "Title": "افسر میرٹھی",
+  "FullUrl": "/p29",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 78,
+      "Title": "غزل",
+      "FullUrl": "/p29/ghazal"
+    },
+    {
+      "Id": 79,
+      "Title": "نظم",
+      "FullUrl": "/p29/nazm"
+    }
+  ],
+  "Poems": []
+}

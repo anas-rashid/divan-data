@@ -1,0 +1,23 @@
+{
+  "Id": 72,
+  "PoetId": 26,
+  "ParentId": 71,
+  "Title": "غزل",
+  "FullUrl": "/p26/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 625,
+      "Title": "سرد مہری سے تری دل جو تپاں رکھتے ہیں",
+      "FullUrl": "/p26/ghazal/sh625"
+    },
+    {
+      "Id": 626,
+      "Title": "محتسب نے جو نکالا ہمیں میخانے سے",
+      "FullUrl": "/p26/ghazal/sh626"
+    }
+  ]
+}

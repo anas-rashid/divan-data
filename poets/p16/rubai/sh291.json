@@ -1,0 +1,58 @@
+{
+  "Id": 291,
+  "CatId": 42,
+  "Title": "یا رب مرے دل میں ہے اجالا تیرا",
+  "FullTitle": "احمد حسین مائل » رباعی » یا رب مرے دل میں ہے اجالا تیرا",
+  "FullUrl": "/p16/rubai/sh291",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%DB%8C%D8%A7_%D8%B1%D8%A8_%D9%85%D8%B1%DB%92_%D8%AF%D9%84_%D9%85%DB%8C%DA%BA_%DB%81%DB%92_%D8%A7%D8%AC%D8%A7%D9%84%D8%A7_%D8%AA%DB%8C%D8%B1%D8%A7",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یا رب مرے دل میں ہے اجالا تیرا\r\nآئینے کی ہے بغل میں جلوا تیرا\r\nمائلؔ کیوں آپ منہ نہ دیکھے اپنا\r\nیاں بھی تو چمک رہا ہے چہرا تیرا",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب مرے دل میں ہے اجالا تیرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آئینے کی ہے بغل میں جلوا تیرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مائلؔ کیوں آپ منہ نہ دیکھے اپنا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاں بھی تو چمک رہا ہے چہرا تیرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

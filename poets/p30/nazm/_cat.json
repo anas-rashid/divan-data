@@ -1,0 +1,23 @@
+{
+  "Id": 81,
+  "PoetId": 30,
+  "ParentId": 80,
+  "Title": "نظم",
+  "FullUrl": "/p30/nazm",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 711,
+      "Title": "بسنت اور ہولی کی بہار",
+      "FullUrl": "/p30/nazm/sh711"
+    },
+    {
+      "Id": 712,
+      "Title": "ہندو اور مسلمان",
+      "FullUrl": "/p30/nazm/sh712"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Id": 40,
+  "PoetId": 16,
+  "ParentId": null,
+  "Title": "احمد حسین مائل",
+  "FullUrl": "/p16",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 41,
+      "Title": "غزل",
+      "FullUrl": "/p16/ghazal"
+    },
+    {
+      "Id": 42,
+      "Title": "رباعی",
+      "FullUrl": "/p16/rubai"
+    }
+  ],
+  "Poems": []
+}

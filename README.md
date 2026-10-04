@@ -43,6 +43,15 @@ SELECT poet_page, title FROM works WHERE kind='prose';
 SELECT title, poet_page FROM works_fts WHERE works_fts MATCH 'خودی';
 ```
 
+## Ganjoor-compatible format
+
+The repo root also holds the data in the [ganjoor-data](https://github.com/ganjoor/ganjoor-data) layout (`manifest.json`, `poets/`, `index/`, built by `export_ganjoor.py`). It works as a static API over jsDelivr with no server:
+
+    https://cdn.jsdelivr.net/gh/anas-rashid/divan-data@main/manifest.json
+    https://cdn.jsdelivr.net/gh/anas-rashid/divan-data@main/poets/p238/_cat.json        # Iqbal
+
+It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorService) through its "public data import" page: give it the base URL above. Poets are `/p{id}`, categories are a genre slug (`ghazal`, `nazm`, …) or `c{id}`, and poems are `sh{id}`. Ids stay stable across syncs. Years are converted to approximate Hijri because that's Ganjoor's convention.
+
 ## License
 
 - **Code:** [MIT](LICENSE).

@@ -1,0 +1,23 @@
+{
+  "Id": 713,
+  "PoetId": 265,
+  "ParentId": null,
+  "Title": "مرزا علی لطف",
+  "FullUrl": "/p265",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 714,
+      "Title": "غزل",
+      "FullUrl": "/p265/ghazal"
+    },
+    {
+      "Id": 715,
+      "Title": "رباعی",
+      "FullUrl": "/p265/rubai"
+    }
+  ],
+  "Poems": []
+}

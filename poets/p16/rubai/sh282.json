@@ -1,0 +1,58 @@
+{
+  "Id": 282,
+  "CatId": 42,
+  "Title": "کچھ لطف سخن وقت ملاقات نہیں",
+  "FullTitle": "احمد حسین مائل » رباعی » کچھ لطف سخن وقت ملاقات نہیں",
+  "FullUrl": "/p16/rubai/sh282",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%DA%A9%DA%86%DA%BE_%D9%84%D8%B7%D9%81_%D8%B3%D8%AE%D9%86_%D9%88%D9%82%D8%AA_%D9%85%D9%84%D8%A7%D9%82%D8%A7%D8%AA_%D9%86%DB%81%DB%8C%DA%BA",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کچھ لطف سخن وقت ملاقات نہیں\r\nلب پر تعریف دل پہ گر ہات نہیں\r\nیک واہ کرے تو دوسرا آہ کرے\r\nجس میں نہ اثر ہو وہ مری بات نہیں",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کچھ لطف سخن وقت ملاقات نہیں",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب پر تعریف دل پہ گر ہات نہیں",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک واہ کرے تو دوسرا آہ کرے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جس میں نہ اثر ہو وہ مری بات نہیں",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 785,
+  "CatId": 86,
+  "Title": "وقت کی مساعدت",
+  "FullTitle": "الطاف حسین حالی » رباعی » وقت کی مساعدت",
+  "FullUrl": "/p32/rubai/sh785",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D9%88%D9%82%D8%AA_%DA%A9%DB%8C_%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%AA",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اے وقت بگاڑ کا ہے سب کے چارہ\r\nپر تجھ سے بگڑنے کا نہیں ہے یارا\r\nہو جائے گر ایک تو ہمارا ساتھی\r\nپھر غم نہیں پھر جائے زمانہ سارا",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اے وقت بگاڑ کا ہے سب کے چارہ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پر تجھ سے بگڑنے کا نہیں ہے یارا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ہو جائے گر ایک تو ہمارا ساتھی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پھر غم نہیں پھر جائے زمانہ سارا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

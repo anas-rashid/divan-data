@@ -1,0 +1,23 @@
+{
+  "Id": 10,
+  "PoetId": 3,
+  "ParentId": 8,
+  "Title": "غزل",
+  "FullUrl": "/p3/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 78,
+      "Title": "قید سے پہلے بھی آزادی مری خطرے میں تھی",
+      "FullUrl": "/p3/ghazal/sh78"
+    },
+    {
+      "Id": 79,
+      "Title": "ہزاروں طرح اپنا درد ہم اس کو سناتے ہیں",
+      "FullUrl": "/p3/ghazal/sh79"
+    }
+  ]
+}

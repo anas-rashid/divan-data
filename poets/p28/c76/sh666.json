@@ -1,0 +1,58 @@
+{
+  "Id": 666,
+  "CatId": 76,
+  "Title": "انقلاب (اعظم کریوی)",
+  "FullTitle": "اعظم کریوی » افسانہ » انقلاب (اعظم کریوی)",
+  "FullUrl": "/p28/c76/sh666",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%28%D8%A7%D8%B9%D8%B8%D9%85_%DA%A9%D8%B1%DB%8C%D9%88%DB%8C%29",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تیرے دیکھن کو راجہ ہم کب سے کھڑے\r\nدن نہیں چیناں رات نہیں نندیا\r\nجب سے سڑکوا پہ نینا لڑے\r\nتیرے دیکھن کو پیاری ہم کب سے کھڑے",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تیرے دیکھن کو راجہ ہم کب سے کھڑے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دن نہیں چیناں رات نہیں نندیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جب سے سڑکوا پہ نینا لڑے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیرے دیکھن کو پیاری ہم کب سے کھڑے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

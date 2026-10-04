@@ -1,0 +1,23 @@
+{
+  "Id": 658,
+  "PoetId": 243,
+  "ParentId": null,
+  "Title": "محمد صادق ضیا",
+  "FullUrl": "/p243",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 659,
+      "Title": "غزل",
+      "FullUrl": "/p243/ghazal"
+    },
+    {
+      "Id": 661,
+      "Title": "نظم",
+      "FullUrl": "/p243/nazm"
+    }
+  ],
+  "Poems": []
+}

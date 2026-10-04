@@ -1,0 +1,23 @@
+{
+  "Id": 164,
+  "PoetId": 61,
+  "ParentId": null,
+  "Title": "بیان میرٹھی",
+  "FullUrl": "/p61",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 165,
+      "Title": "غزل",
+      "FullUrl": "/p61/ghazal"
+    },
+    {
+      "Id": 166,
+      "Title": "رباعی",
+      "FullUrl": "/p61/rubai"
+    }
+  ],
+  "Poems": []
+}

@@ -1,0 +1,38 @@
+{
+  "Id": 4,
+  "PoetId": 1,
+  "ParentId": 1,
+  "Title": "رباعی",
+  "FullUrl": "/p1/rubai",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 6,
+      "Title": "اس پار سے یوں ڈوب کے اس پار گئے",
+      "FullUrl": "/p1/rubai/sh6"
+    },
+    {
+      "Id": 17,
+      "Title": "تو نے اے انقلاب کیا خلق کیا",
+      "FullUrl": "/p1/rubai/sh17"
+    },
+    {
+      "Id": 18,
+      "Title": "تو کہتا ہے خالق شر و خیر نہیں",
+      "FullUrl": "/p1/rubai/sh18"
+    },
+    {
+      "Id": 20,
+      "Title": "جب تک تکلیف دل نہیں پاتا ہے",
+      "FullUrl": "/p1/rubai/sh20"
+    },
+    {
+      "Id": 55,
+      "Title": "کانوں کی غرض کلام بتلاتا ہے",
+      "FullUrl": "/p1/rubai/sh55"
+    }
+  ]
+}

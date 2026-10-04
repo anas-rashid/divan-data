@@ -1,0 +1,58 @@
+{
+  "Id": 256,
+  "CatId": 42,
+  "Title": "اشک آئے غم شہ سے جو چشم تر میں",
+  "FullTitle": "احمد حسین مائل » رباعی » اشک آئے غم شہ سے جو چشم تر میں",
+  "FullUrl": "/p16/rubai/sh256",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D8%A7%D8%B4%DA%A9_%D8%A2%D8%A6%DB%92_%D8%BA%D9%85_%D8%B4%DB%81_%D8%B3%DB%92_%D8%AC%D9%88_%DA%86%D8%B4%D9%85_%D8%AA%D8%B1_%D9%85%DB%8C%DA%BA",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشک آئے غم شہ سے جو چشم تر میں\r\nدل جلنے لگا تڑپ تڑپ کر بر میں\r\nمائلؔ یہ ماجرا نہ دیکھا نہ سنا\r\nپانی سے لگی آگ خدا کے گھر میں",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشک آئے غم شہ سے جو چشم تر میں",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل جلنے لگا تڑپ تڑپ کر بر میں",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مائلؔ یہ ماجرا نہ دیکھا نہ سنا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پانی سے لگی آگ خدا کے گھر میں",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

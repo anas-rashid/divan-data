@@ -1,0 +1,58 @@
+{
+  "Id": 793,
+  "CatId": 86,
+  "Title": "گدائی کی ترغیب",
+  "FullTitle": "الطاف حسین حالی » رباعی » گدائی کی ترغیب",
+  "FullUrl": "/p32/rubai/sh793",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%DA%AF%D8%AF%D8%A7%D8%A6%DB%8C_%DA%A9%DB%8C_%D8%AA%D8%B1%D8%BA%DB%8C%D8%A8",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اک مرد توانا کو جو سائل پایا\r\nکی میں نے ملامت اور بہت شرمایا\r\nبولا کہ ہے اس کا ان کی گردن پہ وبال\r\nدے دے کے جنہوں نے مانگنا سکھلایا",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اک مرد توانا کو جو سائل پایا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی میں نے ملامت اور بہت شرمایا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بولا کہ ہے اس کا ان کی گردن پہ وبال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دے دے کے جنہوں نے مانگنا سکھلایا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

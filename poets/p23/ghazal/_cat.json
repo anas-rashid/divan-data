@@ -1,0 +1,28 @@
+{
+  "Id": 64,
+  "PoetId": 23,
+  "ParentId": 63,
+  "Title": "غزل",
+  "FullUrl": "/p23/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 453,
+      "Title": "ان عقل کے بندوں میں آشفتہ سری کیوں ہے",
+      "FullUrl": "/p23/ghazal/sh453"
+    },
+    {
+      "Id": 454,
+      "Title": "تماشا ہے کہ سب آزاد قومیں",
+      "FullUrl": "/p23/ghazal/sh454"
+    },
+    {
+      "Id": 455,
+      "Title": "پوچھی نہ چشم تر کی نہ آہ رسا کی بات",
+      "FullUrl": "/p23/ghazal/sh455"
+    }
+  ]
+}

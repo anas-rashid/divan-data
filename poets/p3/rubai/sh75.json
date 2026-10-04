@@ -1,0 +1,58 @@
+{
+  "Id": 75,
+  "CatId": 9,
+  "Title": "الفت میں مرے تو زندگی ملتی ہے",
+  "FullTitle": "آسی الدنی » رباعی » الفت میں مرے تو زندگی ملتی ہے",
+  "FullUrl": "/p3/rubai/sh75",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D8%A7%D9%84%D9%81%D8%AA_%D9%85%DB%8C%DA%BA_%D9%85%D8%B1%DB%92_%D8%AA%D9%88_%D8%B2%D9%86%D8%AF%DA%AF%DB%8C_%D9%85%D9%84%D8%AA%DB%8C_%DB%81%DB%92",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "الفت میں مرے تو زندگی ملتی ہے\r\nغم لاکھ سہے تو ایک خوشی ملتی ہے\r\nہر شمع کو بزم دہر میں اے آسیؔ\r\nجلنے ہی کے بعد روشنی ملتی ہے",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الفت میں مرے تو زندگی ملتی ہے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم لاکھ سہے تو ایک خوشی ملتی ہے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ہر شمع کو بزم دہر میں اے آسیؔ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جلنے ہی کے بعد روشنی ملتی ہے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

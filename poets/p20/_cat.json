@@ -1,0 +1,23 @@
+{
+  "Id": 52,
+  "PoetId": 20,
+  "ParentId": null,
+  "Title": "اختر انصاری اکبرآبادی",
+  "FullUrl": "/p20",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 53,
+      "Title": "غزل",
+      "FullUrl": "/p20/ghazal"
+    },
+    {
+      "Id": 54,
+      "Title": "قطعہ",
+      "FullUrl": "/p20/qita"
+    }
+  ],
+  "Poems": []
+}

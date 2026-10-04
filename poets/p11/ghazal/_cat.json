@@ -1,0 +1,28 @@
+{
+  "Id": 27,
+  "PoetId": 11,
+  "ParentId": 26,
+  "Title": "غزل",
+  "FullUrl": "/p11/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 212,
+      "Title": "ان شوخ حسینوں کی ادا اور ہی کچھ ہے",
+      "FullUrl": "/p11/ghazal/sh212"
+    },
+    {
+      "Id": 214,
+      "Title": "جوش وحشت میں مسلم ہو گیا اسلام عشق",
+      "FullUrl": "/p11/ghazal/sh214"
+    },
+    {
+      "Id": 219,
+      "Title": "کیوں اسیر گیسوئے خم دار قاتل ہو گیا",
+      "FullUrl": "/p11/ghazal/sh219"
+    }
+  ]
+}

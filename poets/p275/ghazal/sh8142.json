@@ -1,0 +1,58 @@
+{
+  "Id": 8142,
+  "CatId": 750,
+  "Title": "یہ بات تو غلط ہے کہ دیوانِ شیفتہ",
+  "FullTitle": "مصطفٰی خان شیفتہ » غزل » یہ بات تو غلط ہے کہ دیوانِ شیفتہ",
+  "FullUrl": "/p275/ghazal/sh8142",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%DB%8C%DB%81_%D8%A8%D8%A7%D8%AA_%D8%AA%D9%88_%D8%BA%D9%84%D8%B7_%DB%81%DB%92_%DA%A9%DB%81_%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D9%90_%D8%B4%DB%8C%D9%81%D8%AA%DB%81",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یہ بات تو غلط ہے کہ دیوانِ شیفتہ\r\nہے نسخہء معارف و مجموعۂ کمال\r\nلیکن مبالغہ تو ہے البتہ اس میں کم\r\nہاں ذکرِ خد و خال اگر ہے، تو خال خال",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یہ بات تو غلط ہے کہ دیوانِ شیفتہ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ہے نسخہء معارف و مجموعۂ کمال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن مبالغہ تو ہے البتہ اس میں کم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ہاں ذکرِ خد و خال اگر ہے، تو خال خال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

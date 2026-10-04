@@ -1,0 +1,23 @@
+{
+  "Id": 210,
+  "PoetId": 82,
+  "ParentId": null,
+  "Title": "جوشش عظیم آبادی",
+  "FullUrl": "/p82",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 211,
+      "Title": "غزل",
+      "FullUrl": "/p82/ghazal"
+    },
+    {
+      "Id": 212,
+      "Title": "قطعہ",
+      "FullUrl": "/p82/qita"
+    }
+  ],
+  "Poems": []
+}

@@ -1,0 +1,58 @@
+{
+  "Id": 603,
+  "CatId": 67,
+  "Title": "ہے شکر درست اور شکایت زیبا",
+  "FullTitle": "اسماعیل میرٹھی » رباعی » ہے شکر درست اور شکایت زیبا",
+  "FullUrl": "/p24/rubai/sh603",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%DB%81%DB%92_%D8%B4%DA%A9%D8%B1_%D8%AF%D8%B1%D8%B3%D8%AA_%D8%A7%D9%88%D8%B1_%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA_%D8%B2%DB%8C%D8%A8%D8%A7",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ہے شکر درست اور شکایت زیبا\r\nہے کفر درست اور ہدایت زیبا\r\nگیسوئے سیاہ اور جبین روشن\r\nدونوں کی بہار ہے نہایت زیبا",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ہے شکر درست اور شکایت زیبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ہے کفر درست اور ہدایت زیبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیسوئے سیاہ اور جبین روشن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دونوں کی بہار ہے نہایت زیبا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

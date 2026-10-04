@@ -1,0 +1,23 @@
+{
+  "Id": 480,
+  "PoetId": 179,
+  "ParentId": 479,
+  "Title": "شاعری",
+  "FullUrl": "/p179/shaeri",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 481,
+      "Title": "نظم",
+      "FullUrl": "/p179/shaeri/nazm"
+    },
+    {
+      "Id": 483,
+      "Title": "غزل",
+      "FullUrl": "/p179/shaeri/ghazal"
+    }
+  ],
+  "Poems": []
+}

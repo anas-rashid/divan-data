@@ -1,0 +1,28 @@
+{
+  "Id": 9,
+  "PoetId": 3,
+  "ParentId": 8,
+  "Title": "رباعی",
+  "FullUrl": "/p3/rubai",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 75,
+      "Title": "الفت میں مرے تو زندگی ملتی ہے",
+      "FullUrl": "/p3/rubai/sh75"
+    },
+    {
+      "Id": 76,
+      "Title": "باتوں میں تو اختیار شیرینی کر",
+      "FullUrl": "/p3/rubai/sh76"
+    },
+    {
+      "Id": 77,
+      "Title": "ظالم دم نزع نہ آیا افسوس",
+      "FullUrl": "/p3/rubai/sh77"
+    }
+  ]
+}

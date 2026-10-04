@@ -1,0 +1,28 @@
+{
+  "Id": 944,
+  "PoetId": 351,
+  "ParentId": null,
+  "Title": "وحید الدین سلیم",
+  "FullUrl": "/p351",
+  "Description": "اردو شاعر, مصنف",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 945,
+      "Title": "نظم",
+      "FullUrl": "/p351/nazm"
+    },
+    {
+      "Id": 946,
+      "Title": "مضمون",
+      "FullUrl": "/p351/mazmoon"
+    },
+    {
+      "Id": 947,
+      "Title": "غزل",
+      "FullUrl": "/p351/ghazal"
+    }
+  ],
+  "Poems": []
+}

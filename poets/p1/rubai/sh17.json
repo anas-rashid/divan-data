@@ -1,0 +1,58 @@
+{
+  "Id": 17,
+  "CatId": 4,
+  "Title": "تو نے اے انقلاب کیا خلق کیا",
+  "FullTitle": "آرزو لکھنوی » رباعی » تو نے اے انقلاب کیا خلق کیا",
+  "FullUrl": "/p1/rubai/sh17",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D8%AA%D9%88_%D9%86%DB%92_%D8%A7%DB%92_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%DA%A9%DB%8C%D8%A7_%D8%AE%D9%84%D9%82_%DA%A9%DB%8C%D8%A7",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو نے اے انقلاب کیا خلق کیا\r\nالٹا ہوا جو نکتہ نیا خلق کیا\r\nجب کہتا تھا بندوں کا خدا خالق ہے\r\nاب کہتا ہے بندوں نے خدا خلق کیا",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو نے اے انقلاب کیا خلق کیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "الٹا ہوا جو نکتہ نیا خلق کیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جب کہتا تھا بندوں کا خدا خالق ہے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اب کہتا ہے بندوں نے خدا خلق کیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

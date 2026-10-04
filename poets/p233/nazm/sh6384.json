@@ -1,0 +1,58 @@
+{
+  "Id": 6384,
+  "CatId": 622,
+  "Title": "بہ جواب پند نامہ",
+  "FullTitle": "مجاز لکھنوی » نظم » بہ جواب پند نامہ",
+  "FullUrl": "/p233/nazm/sh6384",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D8%A8%DB%81_%D8%AC%D9%88%D8%A7%D8%A8_%D9%BE%D9%86%D8%AF_%D9%86%D8%A7%D9%85%DB%81",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیر جوش شباب کیا جانے\r\nشورش اضطراب کیا جانے\r\nسینۂ انقلاب چھلنی ہے\r\nشاعر انقلاب کیا جانے",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیر جوش شباب کیا جانے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شورش اضطراب کیا جانے",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سینۂ انقلاب چھلنی ہے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاعر انقلاب کیا جانے",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

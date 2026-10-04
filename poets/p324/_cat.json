@@ -1,0 +1,23 @@
+{
+  "Id": 882,
+  "PoetId": 324,
+  "ParentId": null,
+  "Title": "نادر کاکوری",
+  "FullUrl": "/p324",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 883,
+      "Title": "غزل",
+      "FullUrl": "/p324/ghazal"
+    },
+    {
+      "Id": 884,
+      "Title": "نظم",
+      "FullUrl": "/p324/nazm"
+    }
+  ],
+  "Poems": []
+}

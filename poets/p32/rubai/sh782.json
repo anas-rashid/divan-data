@@ -1,0 +1,58 @@
+{
+  "Id": 782,
+  "CatId": 86,
+  "Title": "نعت",
+  "FullTitle": "الطاف حسین حالی » رباعی » نعت",
+  "FullUrl": "/p32/rubai/sh782",
+  "RhymeLetters": null,
+  "SourceName": "ویکی ماخذ",
+  "SourceUrlSlug": "wikisource",
+  "SourceUrl": "https://ur.wikisource.org/wiki/%D9%86%D8%B9%D8%AA",
+  "Language": "ur",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زہاد کو تو نے محو تمجید کیا\r\nعشاق کو مست لذت دید کیا\r\nطاعت میں رہا نہ حق کی ساجھی کوئی\r\nتوحید کو تو نے آ کے توحید کیا",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "ur",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زہاد کو تو نے محو تمجید کیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشاق کو مست لذت دید کیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طاعت میں رہا نہ حق کی ساجھی کوئی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "توحید کو تو نے آ کے توحید کیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

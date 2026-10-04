@@ -1,0 +1,33 @@
+{
+  "Id": 1,
+  "PoetId": 1,
+  "ParentId": null,
+  "Title": "آرزو لکھنوی",
+  "FullUrl": "/p1",
+  "Description": "سید انور حسین (16 فروری 1873ء - 17 اپریل 1951ء)، جو آرزو لکھنوی کے نام سے معروف ہیں، ایک شاعر، نغمہ نگار اور صاحب طرز نثر نگار تھے۔ وہ لکھنؤ، ہندوستان کے ایک محلہ مادھوری میں پیدا ہوئے۔",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 2,
+      "Title": "غزل",
+      "FullUrl": "/p1/ghazal"
+    },
+    {
+      "Id": 3,
+      "Title": "نعت",
+      "FullUrl": "/p1/naat"
+    },
+    {
+      "Id": 4,
+      "Title": "رباعی",
+      "FullUrl": "/p1/rubai"
+    },
+    {
+      "Id": 5,
+      "Title": "نظم",
+      "FullUrl": "/p1/nazm"
+    }
+  ],
+  "Poems": []
+}

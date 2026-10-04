@@ -1,0 +1,23 @@
+{
+  "Id": 567,
+  "PoetId": 211,
+  "ParentId": null,
+  "Title": "فائز دہلوی",
+  "FullUrl": "/p211",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 568,
+      "Title": "غزل",
+      "FullUrl": "/p211/ghazal"
+    },
+    {
+      "Id": 569,
+      "Title": "مثنوی",
+      "FullUrl": "/p211/masnavi"
+    }
+  ],
+  "Poems": []
+}

@@ -1,0 +1,23 @@
+{
+  "Id": 49,
+  "PoetId": 19,
+  "ParentId": null,
+  "Title": "احمق پھپھوندوی",
+  "FullUrl": "/p19",
+  "Description": "اردو شاعر",
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 50,
+      "Title": "نظم",
+      "FullUrl": "/p19/nazm"
+    },
+    {
+      "Id": 51,
+      "Title": "مزاحیہ",
+      "FullUrl": "/p19/c51"
+    }
+  ],
+  "Poems": []
+}

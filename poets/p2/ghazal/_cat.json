@@ -1,0 +1,33 @@
+{
+  "Id": 7,
+  "PoetId": 2,
+  "ParentId": 6,
+  "Title": "غزل",
+  "FullUrl": "/p2/ghazal",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [],
+  "Poems": [
+    {
+      "Id": 71,
+      "Title": "حق بنا باطل بنا ناقص بنا کامل بنا",
+      "FullUrl": "/p2/ghazal/sh71"
+    },
+    {
+      "Id": 72,
+      "Title": "ستم دوست فکر عداوت کہاں تک",
+      "FullUrl": "/p2/ghazal/sh72"
+    },
+    {
+      "Id": 73,
+      "Title": "نہ پوچھو کون ہیں کیوں راہ میں ناچار بیٹھے ہیں",
+      "FullUrl": "/p2/ghazal/sh73"
+    },
+    {
+      "Id": 74,
+      "Title": "یہ اک شان خدا ہے میں نہیں ہوں",
+      "FullUrl": "/p2/ghazal/sh74"
+    }
+  ]
+}
