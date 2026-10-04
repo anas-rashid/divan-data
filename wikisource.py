@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build divan.db from Urdu Wikisource (public-domain texts, CC BY-SA 4.0 site)
-plus short poet intros from Urdu/English Wikipedia. Uses the MediaWiki API, 50 pages per request."""
+plus short poet intros from Urdu Wikipedia. Uses the MediaWiki API, 50 pages per request."""
 import json, os, re, sqlite3, time, urllib.parse, urllib.request
 
 WS = "https://ur.wikisource.org/w/api.php"
@@ -10,7 +10,7 @@ UA = "divan-dataset/0.1 (non-commercial Urdu poetry archive; python-urllib)"
 db = sqlite3.connect(DB)
 db.executescript("""
 CREATE TABLE IF NOT EXISTS poets(page TEXT PRIMARY KEY, name TEXT, years TEXT, birth_year TEXT, death_year TEXT,
-  description TEXT, image TEXT, wikipedia TEXT, wikidata TEXT, intro_ur TEXT, intro_en TEXT, url TEXT);
+  description TEXT, image TEXT, wikipedia TEXT, wikidata TEXT, intro TEXT, url TEXT);
 CREATE TABLE IF NOT EXISTS works(title TEXT PRIMARY KEY, poet_page TEXT, kind TEXT, section TEXT, year TEXT,
   text_ur TEXT, license TEXT, url TEXT);
 CREATE INDEX IF NOT EXISTS works_poet ON works(poet_page);
@@ -110,14 +110,14 @@ def all_authors():
         cont = {"apcontinue": d["continue"]["apcontinue"]}
 
 
-def intros(wp_titles, lang):
-    """Plain-text lead section from {lang}.wikipedia, 20 per request."""
+def intros(wp_titles):
+    """Plain-text lead section from ur.wikipedia, 20 per request."""
     out = {}
-    base = f"https://{lang}.wikipedia.org/w/api.php"
+    base = "https://ur.wikipedia.org/w/api.php"
     for i in range(0, len(wp_titles), 20):
         chunk = wp_titles[i:i + 20]
-        q = api(base, action="query", prop="extracts|langlinks", exintro=1, explaintext=1, exlimit=20,
-                lllang="en", titles="|".join(chunk), redirects=1)["query"]
+        q = api(base, action="query", prop="extracts", exintro=1, explaintext=1, exlimit=20,
+                titles="|".join(chunk), redirects=1)["query"]
         alias = {r["from"]: r["to"] for k in ("normalized", "redirects") for r in q.get(k, [])}
         pages = {p["title"]: p for p in q.get("pages", [])}
         for t in chunk:
@@ -157,16 +157,13 @@ def main():
         links += [(t, a, s) for t, s in author_links(wt)]
     db.commit()
 
-    # Wikipedia intros (ur, then en via langlinks)
+    # Urdu Wikipedia intros
     wps = [r[0] for r in db.execute("SELECT DISTINCT wikipedia FROM poets WHERE wikipedia IS NOT NULL")]
-    ur = intros(wps, "ur")
-    en_titles = {t: p["langlinks"][0]["title"] for t, p in ur.items() if p.get("langlinks")}
-    en = intros(list(set(en_titles.values())), "en")
+    ur = intros(wps)
     for t, p in ur.items():
-        e = en.get(en_titles.get(t), {})
-        db.execute("UPDATE poets SET intro_ur=?, intro_en=? WHERE wikipedia=?", (p.get("extract"), e.get("extract"), t))
+        db.execute("UPDATE poets SET intro=? WHERE wikipedia=?", (p.get("extract"), t))
     db.commit()
-    print(len(ur), "ur intros,", len(en), "en intros")
+    print(len(ur), "intros")
 
     # Works; index-like pages (no <poem>, mostly links) are expanded one level
     seen = {r[0] for r in db.execute("SELECT title FROM works")}

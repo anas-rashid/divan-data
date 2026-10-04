@@ -2,12 +2,12 @@
 
 A local, searchable SQLite database of **classical Urdu literature, both poetry and prose**: ghazals, nazms, marsiyas, masnavis, letters, dastans and essays by poets and writers such as Mir, Sauda, Dard, Ghalib, Momin, Zauq, Dagh, Anees, Hali, Akbar Allahabadi, Allama Iqbal, Mir Amman, Sir Syed and Nazir Ahmad. Each author entry includes a short introduction.
 
-Texts are in **Urdu script**. Author intros are in Urdu, plus English where available.
+Everything is in **Urdu script**.
 
 ## Sources
 
 - **Texts:** [Urdu Wikisource](https://ur.wikisource.org) (ویکی ماخذ). The works are in the public domain (`{{PD-old}}`, `{{PD-Pakistan}}`, …), and the license tag is kept on every record.
-- **Author intros:** the lead section of each author's [Urdu Wikipedia](https://ur.wikipedia.org) and [English Wikipedia](https://en.wikipedia.org) article.
+- **Author intros:** the lead section of each author's [Urdu Wikipedia](https://ur.wikipedia.org) article.
 
 Everything is fetched through the official MediaWiki API.
 
@@ -15,7 +15,7 @@ Everything is fetched through the official MediaWiki API.
 
 | table | contents |
 |---|---|
-| `poets` | `page`, `name`, `years`, `birth_year`, `death_year`, `description`, `image`, `wikipedia`, `wikidata`, `intro_ur`, `intro_en`, `url` |
+| `poets` | `page`, `name`, `years`, `birth_year`, `death_year`, `description`, `image`, `wikipedia`, `wikidata`, `intro`, `url` |
 | `works` | `title`, `poet_page`, `kind` (`poetry` / `prose`), `section` (genre or book, e.g. `شاعری > بانگ درا (1924)`), `year`, `text_ur`, `license`, `url` |
 | `works_fts`, `poets_fts` | SQLite FTS5 full-text indexes |
 

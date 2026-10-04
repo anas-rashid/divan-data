@@ -10,9 +10,9 @@ CREATE VIRTUAL TABLE works_fts USING fts5(title, poet_page UNINDEXED, kind UNIND
   content='works', tokenize='unicode61 remove_diacritics 2');
 INSERT INTO works_fts(rowid, title, poet_page, kind, section, text_ur) SELECT rowid, title, poet_page, kind, section, text_ur FROM works;
 DROP TABLE IF EXISTS poets_fts;
-CREATE VIRTUAL TABLE poets_fts USING fts5(page UNINDEXED, name, description, intro_ur, intro_en,
+CREATE VIRTUAL TABLE poets_fts USING fts5(page UNINDEXED, name, description, intro,
   content='poets', tokenize='unicode61 remove_diacritics 2');
-INSERT INTO poets_fts(rowid, page, name, description, intro_ur, intro_en) SELECT rowid, page, name, description, intro_ur, intro_en FROM poets;
+INSERT INTO poets_fts(rowid, page, name, description, intro) SELECT rowid, page, name, description, intro FROM poets;
 """)
 db.commit()
 db.execute("VACUUM")
