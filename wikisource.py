@@ -21,6 +21,13 @@ CREATE TABLE IF NOT EXISTS poet_aliases(alias TEXT PRIMARY KEY, canonical TEXT);
 if "ord" not in [r[1] for r in db.execute("PRAGMA table_info(works)")]:
     db.execute("ALTER TABLE works ADD COLUMN ord REAL")  # published order within the author's list
 
+# poetry genres in section names: such works are poetry even when the page lacks <poem> markup
+POETRY_SECTION = re.compile(r"غزل|نظم|رباعی|قطع|مثنوی|مرثی|قصید|سلام|نعت|حمد|منقبت|شاعری|کلام|گیت|دوہ|ہزل|واسوخت|مخمس|مسدس|ترجیع|ترکیب")
+
+
+def is_poetry(wikitext, section):
+    return "<poem" in wikitext or bool(POETRY_SECTION.search(section or ""))
+
 
 def api(base, **params):
     params.update(format="json", formatversion=2, maxlag=5)
@@ -226,10 +233,15 @@ def main():
                     continue
                 lic = re.findall(r"\{\{\s*(PD[^}|]*)", wt)
                 db.execute("INSERT OR REPLACE INTO works(title, poet_page, kind, section, year, text_ur, license, url, ord) VALUES (?,?,?,?,?,?,?,?,?)",
-                           (title, a, "poetry" if "<poem" in wt else "prose", s or None, tpl_field(wt, "year"), poem_text(wt), lic[0].strip() if lic else None, page_url(title), o))
+                           (title, a, "poetry" if is_poetry(wt, s) else "prose", s or None, tpl_field(wt, "year"), poem_text(wt), lic[0].strip() if lic else None, page_url(title), o))
             db.commit()
             print(f"  {min(i + 500, len(pending))}/{len(pending)}, works total {db.execute('SELECT count(*) FROM works').fetchone()[0]}", flush=True)
         queue, depth = nxt, depth + 1
+    # reclassify stored works in poetry sections (pages without <poem> were stored as prose)
+    fix = [t for t, sec in db.execute("SELECT title, section FROM works WHERE kind='prose'") if POETRY_SECTION.search(sec or "")]
+    db.executemany("UPDATE works SET kind='poetry' WHERE title=?", [(t,) for t in fix])
+    if fix:
+        print("reclassified as poetry:", len(fix))
     db.execute("INSERT OR REPLACE INTO meta VALUES ('last_run', ?)", (started,))
     db.commit()
 
