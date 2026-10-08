@@ -40,6 +40,13 @@ def ud(s):
     return s.translate(URDU_DIGITS) if isinstance(s, str) else s
 
 
+def year_ce(ce):
+    try:
+        return int(ce)
+    except (TypeError, ValueError):
+        return None
+
+
 def write(path, obj):
     path = os.path.join(D, path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -96,6 +103,7 @@ def main():
             "ImageUrl": f"https://commons.wikimedia.org/wiki/Special:FilePath/{image}" if image else None,
             "BirthYearInLHijri": hijri(born), "ValidBirthDate": bool(hijri(born)),
             "DeathYearInLHijri": hijri(died), "ValidDeathDate": bool(hijri(died)),
+            "BirthYearCE": year_ce(born), "DeathYearCE": year_ce(died),  # Gregorian (عیسوی), divan extension
             "BirthPlace": None, "DeathPlace": None})
         manifest.append({"Id": pid, "Nickname": name, "FullUrl": purl})
 
