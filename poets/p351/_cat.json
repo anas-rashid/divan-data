@@ -9,6 +9,11 @@
   "BookName": null,
   "ChildCats": [
     {
+      "Id": 947,
+      "Title": "غزل",
+      "FullUrl": "/p351/ghazal"
+    },
+    {
       "Id": 945,
       "Title": "نظم",
       "FullUrl": "/p351/nazm"
@@ -17,11 +22,6 @@
       "Id": 946,
       "Title": "مضمون",
       "FullUrl": "/p351/mazmoon"
-    },
-    {
-      "Id": 947,
-      "Title": "غزل",
-      "FullUrl": "/p351/ghazal"
     }
   ],
   "Poems": []

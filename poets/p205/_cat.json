@@ -9,14 +9,14 @@
   "BookName": null,
   "ChildCats": [
     {
-      "Id": 554,
-      "Title": "قطعہ",
-      "FullUrl": "/p205/qita"
-    },
-    {
       "Id": 555,
       "Title": "غزل",
       "FullUrl": "/p205/ghazal"
+    },
+    {
+      "Id": 554,
+      "Title": "قطعہ",
+      "FullUrl": "/p205/qita"
     }
   ],
   "Poems": []

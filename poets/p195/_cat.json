@@ -9,14 +9,14 @@
   "BookName": null,
   "ChildCats": [
     {
-      "Id": 527,
-      "Title": "نظم",
-      "FullUrl": "/p195/nazm"
-    },
-    {
       "Id": 528,
       "Title": "غزل",
       "FullUrl": "/p195/ghazal"
+    },
+    {
+      "Id": 527,
+      "Title": "نظم",
+      "FullUrl": "/p195/nazm"
     }
   ],
   "Poems": []

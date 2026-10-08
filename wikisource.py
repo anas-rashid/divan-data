@@ -18,6 +18,9 @@ CREATE TABLE IF NOT EXISTS meta(key TEXT PRIMARY KEY, value TEXT);
 CREATE TABLE IF NOT EXISTS poet_aliases(alias TEXT PRIMARY KEY, canonical TEXT);
 """)
 
+if "ord" not in [r[1] for r in db.execute("PRAGMA table_info(works)")]:
+    db.execute("ALTER TABLE works ADD COLUMN ord REAL")  # published order within the author's list
+
 
 def api(base, **params):
     params.update(format="json", formatversion=2, maxlag=5)
@@ -191,7 +194,8 @@ def main():
     db.commit()
     print(len(ur), "intros")
     alias = merge_duplicate_poets(links, {t: p["title"] for t, p in ur.items()})
-    links = [(t, alias.get(a, a), s) for t, a, s in links]
+    # ord = position in the author page's list (the published order of books and poems)
+    links = [(t, alias.get(a, a), s, i) for i, (t, a, s) in enumerate(links)]
 
     # Works; index-like pages (no <poem>, mostly links) are expanded one level
     seen = {r[0] for r in db.execute("SELECT title FROM works")}
@@ -202,26 +206,27 @@ def main():
     queue, depth = links, 0
     while queue and depth < 3:
         todo = {}
-        for t, a, s in queue:
-            todo.setdefault(t, (a, s))
+        for t, a, s, o in queue:
+            todo.setdefault(t, (a, s, o))
+        # refresh order for every listed work, including already-stored ones
+        db.executemany("UPDATE works SET ord=? WHERE title=?", [(o, t) for t, (_, _, o) in todo.items()])
         pending = [t for t in todo if t not in seen]
         print(f"depth {depth}: {len(pending)} pages to fetch", flush=True)
         nxt = []
         for i in range(0, len(pending), 500):  # commit + report every 500 pages
             texts = wikitexts(pending[i:i + 500])
             for t, (title, wt) in texts.items():
-                a, s = todo[t]
+                a, s, o = todo[t]
                 if title in seen:
                     continue
                 seen.add(title)
                 if "<poem" not in wt and len(re.findall(r"^\*\s*\[\[", wt, re.M)) >= 3:
-                    nxt += [(c, a, f"{s} > {title}".strip(" >")) for c, _ in author_links(wt)]
-                    nxt += [(title + c, a, f"{s} > {title}".strip(" >"))
-                            for c in re.findall(r"\[\[(/[^|\]]+)", wt)]
+                    kids = [c for c, _ in author_links(wt)] + [title + c for c in re.findall(r"\[\[(/[^|\]]+)", wt)]
+                    nxt += [(c, a, f"{s} > {title}".strip(" >"), o + (j + 1) / 10000) for j, c in enumerate(kids)]
                     continue
                 lic = re.findall(r"\{\{\s*(PD[^}|]*)", wt)
-                db.execute("INSERT OR REPLACE INTO works VALUES (?,?,?,?,?,?,?,?)",
-                           (title, a, "poetry" if "<poem" in wt else "prose", s or None, tpl_field(wt, "year"), poem_text(wt), lic[0].strip() if lic else None, page_url(title)))
+                db.execute("INSERT OR REPLACE INTO works(title, poet_page, kind, section, year, text_ur, license, url, ord) VALUES (?,?,?,?,?,?,?,?,?)",
+                           (title, a, "poetry" if "<poem" in wt else "prose", s or None, tpl_field(wt, "year"), poem_text(wt), lic[0].strip() if lic else None, page_url(title), o))
             db.commit()
             print(f"  {min(i + 500, len(pending))}/{len(pending)}, works total {db.execute('SELECT count(*) FROM works').fetchone()[0]}", flush=True)
         queue, depth = nxt, depth + 1

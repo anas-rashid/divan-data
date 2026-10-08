@@ -69,6 +69,19 @@ def verses(text, prose):
             for i, (p, t, c) in enumerate(out)], couplet
 
 
+# Divan order for ghazals: by the last letter of the radif (= last letter of the opening line),
+# alif first, ye last. Poets listed here keep the source's published order instead.
+PUBLISHED_ORDER = {"مصنف:محمد اقبال"}
+URDU_ALPHABET = "ابپتٹثجچحخدڈذرڑزژسشصضطظعغفقکگلمنوہھءیے"
+LETTER_FOLD = str.maketrans({"آ": "ا", "أ": "ا", "إ": "ا", "ں": "ن", "ۂ": "ہ", "ة": "ہ", "ه": "ہ", "ۓ": "ے",
+                             "ي": "ی", "ى": "ی", "ئ": "ی", "ك": "ک"})
+
+
+def radif_rank(first_line):
+    letters = [ch for ch in (first_line or "").translate(LETTER_FOLD) if ch in URDU_ALPHABET]
+    return URDU_ALPHABET.index(letters[-1]) if letters else len(URDU_ALPHABET)
+
+
 def main():
     for p in ("poets", "index"):
         shutil.rmtree(os.path.join(D, p), ignore_errors=True)
@@ -87,6 +100,7 @@ def main():
         manifest.append({"Id": pid, "Nickname": name, "FullUrl": purl})
 
         # category tree from section paths ("شاعری > بانگ درا (1924)")
+        first_line = {}
         cats = {(): {"Id": gid("cat", page), "PoetId": pid, "ParentId": None, "Title": name, "FullUrl": purl,
                      "Description": ud(desc), "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}}
         def cat(path):
@@ -105,7 +119,7 @@ def main():
             return c
 
         for title, kind, section, text, url in db.execute(
-                "SELECT title, kind, section, text_ur, url FROM works WHERE poet_page=? ORDER BY title", (page,)):
+                "SELECT title, kind, section, text_ur, url FROM works WHERE poet_page=? ORDER BY ord IS NULL, ord, title", (page,)):
             path = tuple(s.strip() for s in section.split(">")) if section else ()
             c = cat(path)
             wid = gid("poem", title)
@@ -123,12 +137,15 @@ def main():
                               "PoemFormat": fmt, "Language": "ur-PK", "CoupletsCount": couplets}],
                 "Verses": v})
             c["Poems"].append({"Id": wid, "Title": shown, "FullUrl": purl_})
+            first_line[wid] = v[0]["Text"] if v else ""
             poem_idx[wid] = purl_
             poem_count += 1
 
-        for c in cats.values():
-            c["ChildCats"].sort(key=lambda x: x["Id"])
-            c["Poems"].sort(key=lambda x: x["Id"])
+        for path, c in cats.items():
+            if page not in PUBLISHED_ORDER and any("غزل" in p for p in path):
+                c["Poems"].sort(key=lambda p: radif_rank(first_line[p["Id"]]))  # stable: ties keep source order
+            # lists are already in published order: works are walked by ord, and categories are
+            # created in order of their first work
             write(f"poets{c['FullUrl']}/_cat.json", c)
             cat_idx[c["Id"]] = c["FullUrl"]
 
