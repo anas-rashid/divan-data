@@ -76,7 +76,7 @@ def verses(text, prose):
             for i, (p, t, c) in enumerate(out)], couplet
 
 
-# Divan order for ghazals: by the last letter of the radif (= last letter of the opening line),
+# Divan order for ghazals: by the last letter of the radif (= last letter of the first couplet's second line),
 # alif first, ye last. Poets listed here keep the source's published order instead.
 PUBLISHED_ORDER = {"مصنف:محمد اقبال"}
 URDU_ALPHABET = "ابپتٹثجچحخدڈذرڑزژسشصضطظعغفقکگلمنوہھءیے"
@@ -87,6 +87,35 @@ LETTER_FOLD = str.maketrans({"آ": "ا", "أ": "ا", "إ": "ا", "ں": "ن", "ۂ
 def radif_rank(first_line):
     letters = [ch for ch in (first_line or "").translate(LETTER_FOLD) if ch in URDU_ALPHABET]
     return URDU_ALPHABET.index(letters[-1]) if letters else len(URDU_ALPHABET)
+
+
+DIAC = re.compile("[\u064B-\u065F\u0670]")
+TAKHALLUS = "\u0614"  # ؔ, marks the pen name; Wikisource uses it in maqtas
+
+
+def ghazal_marks(v):
+    """Radif, matla and maqta of a ghazal from its couplets (divan extension fields).
+    Radif: the words both matla lines end with, confirmed by at least half of the other second lines;
+    '' when the matla rhymes without a radif (ghair-muraddaf). Matla: the first couplet once that holds.
+    Maqta: the last couplet when it carries the takhallus sign."""
+    pairs = {}
+    for x in v:
+        pairs.setdefault(x["CoupletIndex"], []).append(x["Text"])
+    cs = [(i, t) for i, t in pairs.items() if len(t) == 2]
+    if len(cs) < 2:
+        return {}
+    last_i, last = cs[-1]
+    out = {"Maqta": last_i if TAKHALLUS in " ".join(last) else None}
+    w = lambda line: DIAC.sub("", line).translate(LETTER_FOLD).split()
+    a, b = w(cs[0][1][0]), w(cs[0][1][1])
+    n = 0
+    while n < min(len(a), len(b)) - 1 and a[-1 - n] == b[-1 - n]:
+        n += 1
+    if not (a and b and a[-1][-1] == b[-1][-1]):
+        return out  # first couplet does not rhyme (matla missing from the source)
+    if n and sum(w(t[1])[-n:] == a[-n:] for _, t in cs[1:]) * 2 < len(cs) - 1:
+        return out  # no consistent radif
+    return {**out, "Radif": " ".join(cs[0][1][0].split()[-n:]) if n else "", "Matla": cs[0][0]}
 
 
 def main():
@@ -143,15 +172,21 @@ def main():
                 "Sections": [{"Index": 0, "Number": 1, "SectionType": "WholePoem", "VerseType": "First",
                               "RhymeLetters": None, "PlainText": "\r\n".join(x["Text"] for x in v), "HtmlText": None,
                               "PoemFormat": fmt, "Language": "ur-PK", "CoupletsCount": couplets}],
+                **(ghazal_marks(v) if fmt else {}),
                 "Verses": v})
             c["Poems"].append({"Id": wid, "Title": shown, "FullUrl": purl_})
-            first_line[wid] = v[0]["Text"] if v else ""
+            # the radif/qafiya letter is read from the first second line (Left), which carries it even when
+            # the source lacks the matla
+            first_line[wid] = next((x["Text"] for x in v if x["Position"] == "Left"), v[0]["Text"] if v else "")
             poem_idx[wid] = purl_
             poem_count += 1
 
         for path, c in cats.items():
             if page not in PUBLISHED_ORDER and any("غزل" in p for p in path):
                 c["Poems"].sort(key=lambda p: radif_rank(first_line[p["Id"]]))  # stable: ties keep source order
+                for p in c["Poems"]:  # divan extension: contents grouped "ردیف الف … ی"
+                    r = radif_rank(first_line[p["Id"]])
+                    p["RadifLetter"] = URDU_ALPHABET[r] if r < len(URDU_ALPHABET) else None
             # lists are already in published order: works are walked by ord, and categories are
             # created in order of their first work
             write(f"poets{c['FullUrl']}/_cat.json", c)
