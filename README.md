@@ -54,7 +54,5 @@ It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorS
 
 ## License
 
-- **Code:** [MIT](LICENSE).
-- **Data** (`divan.db`, `export/`): the literary works are in the public domain. The compilation is derived from Wikisource and Wikipedia and is shared under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. When reusing it, credit *"Urdu Wikisource and Wikipedia contributors"* and share alike. Every record keeps its source `url`.
-
-Corrections belong upstream: fix the text on Wikisource and re-run the script.
+- **Data: [CC BY-SA 4.0](LICENSE).** Everything this repository publishes: `divan.db`, `manifest.json`, `poets/`, `index/`, `export/`, and `divan/` (Divan's own moderated versions, arrangements, tags and e-book records). The literary works themselves are in the public domain; the compilation comes from Urdu Wikisource, Wikipedia and Divan's moderators. When reusing it, credit *"Urdu Wikisource and Wikipedia contributors, and Divan"* and share alike. Every record keeps its source `url`.
+- **Code: [MIT](LICENSE-CODE).** The scripts (`*.py`, `*.sh`) and the sync workflow.
