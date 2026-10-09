@@ -8,5 +8,8 @@ Works edited or published in Divan, kept here so the daily Wikisource sync never
   published.
 - `<work url>.json`: generated from the `.dtx` by the app: `Title`, `Verses` (the site's verse layout)
   and `Edited` (who and when). `export_divan.py` uses it in place of the Wikisource text.
+- `<book or section url>.order`: a published arrangement: the book or section's contents (sub-sections,
+  then works), one per line as `<last part of the url> <title>`. `export_divan.py` lists them in this
+  order; a work added on Wikisource later comes after them until the order is redone.
 
 The work url is the site path, e.g. `p266/ghazal/sh7870` for `/p266/ghazal/sh7870`.
