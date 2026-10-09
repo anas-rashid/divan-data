@@ -146,6 +146,25 @@ def owned_order(c):
     c["Poems"].sort(key=key)
 
 
+# Divan-owned details (#32): divan/<poet url>.poet holds a poet's name, pen name, years (CE) and intro, and
+# divan/<book url>.book a book or section's title, as "label: value" lines with the intro after "تعارف:" (written
+# by the Divan app when they are published). They take precedence over Wikisource and Wikipedia.
+def owned_details(url, kind):
+    path = os.path.join(DIVAN_DIR, url.lstrip("/") + "." + kind)
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        lines = f.read().split("\n")
+    out, intro = {}, next((i for i, l in enumerate(lines) if l.startswith("تعارف:")), len(lines))
+    for l in lines[:intro]:
+        if ":" in l:
+            k, v = l.split(":", 1)
+            out[k.strip()] = v.strip()
+    if intro < len(lines):
+        out["تعارف"] = "\n".join([lines[intro][len("تعارف:"):], *lines[intro + 1:]]).strip()
+    return out
+
+
 def main():
     for p in ("poets", "index"):
         shutil.rmtree(os.path.join(D, p), ignore_errors=True)
@@ -155,14 +174,20 @@ def main():
     for page, name, born, died, desc, image in poets:
         pid = gid("poet", page)
         purl = f"/p{pid}"
+        own = owned_details(purl, "poet")  # Divan's details take precedence
+        nick = name
+        if own:
+            name, nick = own.get("نام") or name, own.get("تخلص") or name
+            desc = own.get("تعارف", desc)
+            born, died = own.get("پیدائش") or None, own.get("وفات") or None
         write(f"poets{purl}/poet.json", {
-            "Id": pid, "Name": name, "Nickname": name, "Description": ud(desc), "FullUrl": purl,
+            "Id": pid, "Name": name, "Nickname": nick, "Description": ud(desc), "FullUrl": purl,
             "ImageUrl": f"https://commons.wikimedia.org/wiki/Special:FilePath/{image}" if image else None,
             "BirthYearInLHijri": hijri(born), "ValidBirthDate": bool(hijri(born)),
             "DeathYearInLHijri": hijri(died), "ValidDeathDate": bool(hijri(died)),
             "BirthYearCE": year_ce(born), "DeathYearCE": year_ce(died),  # Gregorian (عیسوی), divan extension
             "BirthPlace": None, "DeathPlace": None})
-        manifest.append({"Id": pid, "Nickname": name, "FullUrl": purl})
+        manifest.append({"Id": pid, "Nickname": nick, "FullUrl": purl})
 
         # category tree from section paths ("شاعری > بانگ درا (1924)")
         first_line = {}
@@ -176,7 +201,8 @@ def main():
             slug = GENRES.get(path[-1], f"c{cid}")
             if any(c["FullUrl"] == f"{parent['FullUrl']}/{slug}" for c in parent["ChildCats"]):
                 slug = f"c{cid}"
-            c = {"Id": cid, "PoetId": pid, "ParentId": parent["Id"], "Title": ud(path[-1]),
+            title = (owned_details(f"{parent['FullUrl']}/{slug}", "book") or {}).get("عنوان") or ud(path[-1])
+            c = {"Id": cid, "PoetId": pid, "ParentId": parent["Id"], "Title": title,
                  "FullUrl": f"{parent['FullUrl']}/{slug}", "Description": None, "DescriptionHtml": None,
                  "BookName": None, "ChildCats": [], "Poems": []}
             parent["ChildCats"].append({"Id": cid, "Title": c["Title"], "FullUrl": c["FullUrl"]})
