@@ -132,6 +132,20 @@ def owned(url):
         return json.load(f)
 
 
+# Divan-owned order (#41): divan/<category url>.order lists a book/section's contents, one per line,
+# "<last part of the URL> <title>" (written by the Divan app when an arrangement is published). Listed items
+# take that order; anything not listed (e.g. a work new on Wikisource) keeps its place after them.
+def owned_order(c):
+    path = os.path.join(DIVAN_DIR, c["FullUrl"].lstrip("/") + ".order")
+    if not os.path.exists(path):
+        return
+    with open(path, encoding="utf-8") as f:
+        rank = {line.split()[0]: i for i, line in enumerate(l for l in f if l.strip())}
+    key = lambda x: rank.get(x["FullUrl"].rsplit("/", 1)[-1], len(rank))
+    c["ChildCats"].sort(key=key)  # stable: unlisted items keep their order
+    c["Poems"].sort(key=key)
+
+
 def main():
     for p in ("poets", "index"):
         shutil.rmtree(os.path.join(D, p), ignore_errors=True)
@@ -209,7 +223,8 @@ def main():
                     r = radif_rank(first_line[p["Id"]])
                     p["RadifLetter"] = URDU_ALPHABET[r] if r < len(URDU_ALPHABET) else None
             # lists are already in published order: works are walked by ord, and categories are
-            # created in order of their first work
+            # created in order of their first work; Divan's own order, where published, comes last
+            owned_order(c)
             write(f"poets{c['FullUrl']}/_cat.json", c)
             cat_idx[c["Id"]] = c["FullUrl"]
 
