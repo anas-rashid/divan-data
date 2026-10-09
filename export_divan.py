@@ -118,6 +118,20 @@ def ghazal_marks(v):
     return {**out, "Radif": " ".join(cs[0][1][0].split()[-n:]) if n else "", "Matla": cs[0][0]}
 
 
+# Divan-owned content (#30): works edited in Divan live in divan/ as <work url>.dtx (the readable source,
+# written by the Divan app) and <work url>.json (generated from it: Title, Verses, Edited). Their text
+# takes precedence over Wikisource; the Wikisource sync keeps running but never overwrites them.
+DIVAN_DIR = os.path.join(D, "divan")
+
+
+def owned(url):
+    path = os.path.join(DIVAN_DIR, url.lstrip("/") + ".json")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
 def main():
     for p in ("poets", "index"):
         shutil.rmtree(os.path.join(D, p), ignore_errors=True)
@@ -161,11 +175,18 @@ def main():
             c = cat(path)
             wid = gid("poem", title)
             shown = ud(title.replace("/", " ۔ "))
-            v, couplets = verses(ud(text), kind == "prose")
             fmt = "Ghazal" if any("غزل" in s for s in path) else None
             purl_ = f"{c['FullUrl']}/sh{wid}"
+            own = owned(purl_)  # Divan's version takes precedence over Wikisource's
+            if own:
+                v = own["Verses"]
+                couplets = len({x["CoupletIndex"] for x in v})
+                shown = own.get("Title") or shown
+            else:
+                v, couplets = verses(ud(text), kind == "prose")
             full_title = " » ".join([name, *map(ud, path), shown])
             write(f"poets{purl_}.json", {
+                **({"DivanOwned": True, "Edited": own.get("Edited")} if own else {}),
                 "Id": wid, "CatId": c["Id"], "Title": shown, "FullTitle": full_title, "FullUrl": purl_,
                 "RhymeLetters": None, "SourceName": "ویکی ماخذ", "SourceUrlSlug": "wikisource", "SourceUrl": url,
                 "Language": "ur-PK", "PoemSummary": None, "Metre": None,
