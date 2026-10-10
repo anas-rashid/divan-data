@@ -1,0 +1,57 @@
+{
+  "Id": 26745,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh139",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh139",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرکشم ز ابر بهاری گذشته است\r\nشراب من از خوشگواری گذشته است\r\nچرا ابرویت چون هلالی نباشد؟\r\nکه عمرش به بیمارداری گذشته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرکشم ز ابر بهاری گذشته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شراب من از خوشگواری گذشته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چرا ابرویت چون هلالی نباشد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که عمرش به بیمارداری گذشته است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 34254,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸۲۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸۲۷",
+  "FullUrl": "/p392/ghazal-hz/sh827",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh827",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تنگی از دل نرود تا تو میان نگشایی\r\nمشکل آسان نشود تا تو زبان نگشایی\r\nبی خم زلف مکن مرغ نوآموز مرا\r\nرشته از پای دل بال فشان نگشایی\r\nچاک از آن تیغ نگه تا نکنی سینهٔ ما\r\nدر امّید به روی دل و جان نگشایی\r\nدل به اسباب پریشان جهان جمع مکن\r\nفال جمعیت از اوراق خزان نگشایی\r\nبی نیازانه حزین از دو جهان دیده ببند\r\nچشم خواهش به رخ باغ جهان نگشایی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنگی از دل نرود تا تو میان نگشایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشکل آسان نشود تا تو زبان نگشایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی خم زلف مکن مرغ نوآموز مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رشته از پای دل بال فشان نگشایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چاک از آن تیغ نگه تا نکنی سینهٔ ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در امّید به روی دل و جان نگشایی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل به اسباب پریشان جهان جمع مکن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "فال جمعیت از اوراق خزان نگشایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی نیازانه حزین از دو جهان دیده ببند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چشم خواهش به رخ باغ جهان نگشایی",
+      "CoupletIndex": 4
+    }
+  ]
+}

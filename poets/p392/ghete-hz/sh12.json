@@ -1,0 +1,69 @@
+{
+  "Id": 34351,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۱۲ - قطعه در شکوه از بخت",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۱۲ - قطعه در شکوه از بخت",
+  "FullUrl": "/p392/ghete-hz/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حزین، از جهان دژم، خاطرم\r\nسر و برگ یک موی سامان نداشت\r\nببین نارسا طالع چاک را\r\nکه از تنگی عیش، میدان نداشت\r\nگریبان اگر بود، دامن نبود\r\nوگر بود دامن، گریبان نداشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حزین، از جهان دژم، خاطرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر و برگ یک موی سامان نداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ببین نارسا طالع چاک را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از تنگی عیش، میدان نداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گریبان اگر بود، دامن نبود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وگر بود دامن، گریبان نداشت",
+      "CoupletIndex": 2
+    }
+  ]
+}

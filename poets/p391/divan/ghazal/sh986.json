@@ -1,0 +1,54 @@
+{
+  "Id": 33078,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۸۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۸۶",
+  "FullUrl": "/p391/divan/ghazal/sh986",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh986",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو گل شکفت دگر توبه اختیار مکن\r\nبگیر ساغر و خون در دل بهار مکن\r\nاگر به دست تو می گویی اختیاری نیست\r\nتو هم برای خدا جبر اختیار مکن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو گل شکفت دگر توبه اختیار مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگیر ساغر و خون در دل بهار مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر به دست تو می گویی اختیاری نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو هم برای خدا جبر اختیار مکن",
+      "CoupletIndex": 1
+    }
+  ]
+}

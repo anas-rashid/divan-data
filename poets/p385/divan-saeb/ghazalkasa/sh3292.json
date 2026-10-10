@@ -1,0 +1,93 @@
+{
+  "Id": 22365,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۲۹۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۲۹۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3292",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3292",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چهره ات رنگ ز گلدسته مینا دارد\r\nغنچه ات درس تبسم ز مسیحا دارد\r\nعرصه خانه خشت و گل خم دلگیرست\r\nدختر رز هوس چادر مینا دارد\r\nدلم از گریه مستانه مدد می طلبد\r\nاین گل ابر نظر بر لب دریا دارد\r\nبوی پیراهن اگر تند رود معذورست\r\nدشمنی در پی چون چشم زلیخا دارد\r\nصائب این ذوق که از نشأه می یافته است\r\nجان اگر در گرو باده کند جا دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چهره ات رنگ ز گلدسته مینا دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه ات درس تبسم ز مسیحا دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عرصه خانه خشت و گل خم دلگیرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دختر رز هوس چادر مینا دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلم از گریه مستانه مدد می طلبد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این گل ابر نظر بر لب دریا دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بوی پیراهن اگر تند رود معذورست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دشمنی در پی چون چشم زلیخا دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب این ذوق که از نشأه می یافته است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جان اگر در گرو باده کند جا دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

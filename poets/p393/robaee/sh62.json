@@ -1,0 +1,54 @@
+{
+  "Id": 37234,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/p393/robaee/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دریاب که موسم جوانی بگذشت\r\nبشتاب که وقت کامرانی بگذشت\r\nای شوخ بیا بگذر ازین جور و جفا\r\nزان بیش که بشنوی فلانی بگذشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دریاب که موسم جوانی بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشتاب که وقت کامرانی بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای شوخ بیا بگذر ازین جور و جفا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان بیش که بشنوی فلانی بگذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

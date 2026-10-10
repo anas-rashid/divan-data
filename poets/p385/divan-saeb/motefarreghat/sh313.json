@@ -1,0 +1,45 @@
+{
+  "Id": 26919,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۱۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۱۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh313",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh313",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(یک ادای نمکین در همه عمر نکرد\r\nیارب این بخت مرا تهمت شوری که نهاد؟)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(یک ادای نمکین در همه عمر نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یارب این بخت مرا تهمت شوری که نهاد؟)",
+      "CoupletIndex": 0
+    }
+  ]
+}

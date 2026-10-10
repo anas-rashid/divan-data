@@ -1,0 +1,57 @@
+{
+  "Id": 27040,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۳۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۳۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh434",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh434",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رخسار تو با خط سیه کار چه سازد؟\r\nآیینه به تردستی زنگار چه سازد؟\r\nاز جلوه شیرین دهنان آب نگردید\r\nفرهاد به جان سختی کهسار چه سازد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخسار تو با خط سیه کار چه سازد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه به تردستی زنگار چه سازد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جلوه شیرین دهنان آب نگردید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرهاد به جان سختی کهسار چه سازد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

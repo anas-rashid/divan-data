@@ -1,0 +1,57 @@
+{
+  "Id": 29629,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/p388/divan/robaee/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خود تا خود به سوی جانانان راهست\r\nاین راه بسی مشکل و خوش کوتاهست\r\nاز دور مسافتی که تا نزدیکست\r\nاین غافل قرب خویش و آن آگاهست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خود تا خود به سوی جانانان راهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این راه بسی مشکل و خوش کوتاهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دور مسافتی که تا نزدیکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این غافل قرب خویش و آن آگاهست",
+      "CoupletIndex": 1
+    }
+  ]
+}

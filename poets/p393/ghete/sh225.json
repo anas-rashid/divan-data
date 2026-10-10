@@ -1,0 +1,54 @@
+{
+  "Id": 36705,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۲۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۲۵",
+  "FullUrl": "/p393/ghete/sh225",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh225",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سر ما چرا نمی‌گذری\r\nاز سر ما چرا نمی‌گذری\r\nماز مهر و وفا نمی‌گذریم\r\nتو ز جور و جفا نمی‌گذری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سر ما چرا نمی‌گذری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سر ما چرا نمی‌گذری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماز مهر و وفا نمی‌گذریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ز جور و جفا نمی‌گذری",
+      "CoupletIndex": 1
+    }
+  ]
+}

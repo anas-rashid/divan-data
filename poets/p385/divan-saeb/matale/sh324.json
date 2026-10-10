@@ -1,0 +1,42 @@
+{
+  "Id": 26412,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh324",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh324",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیداد آسمان چه خیال است کم شود\r\nزور کمان حلقه محال است کم شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیداد آسمان چه خیال است کم شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زور کمان حلقه محال است کم شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

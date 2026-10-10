@@ -1,0 +1,57 @@
+{
+  "Id": 30295,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۸",
+  "FullUrl": "/p389/robghm/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای صبح ز فیض نفست عرش جناب\r\nوی خرقه رحمت ز تو پوشیده سحاب\r\nای مرشد ارباب طریق از همه باب\r\nما را چو اجابت به دعایی دریاب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صبح ز فیض نفست عرش جناب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی خرقه رحمت ز تو پوشیده سحاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مرشد ارباب طریق از همه باب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را چو اجابت به دعایی دریاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

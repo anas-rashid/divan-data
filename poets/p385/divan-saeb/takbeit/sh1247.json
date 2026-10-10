@@ -1,0 +1,45 @@
+{
+  "Id": 18778,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۴۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۴۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1247",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1247",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما سیه بختان تفاوت را قلم بر سر زدیم\r\nهمچو مژگان سر ز یک چاک گریبان برزدیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما سیه بختان تفاوت را قلم بر سر زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو مژگان سر ز یک چاک گریبان برزدیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

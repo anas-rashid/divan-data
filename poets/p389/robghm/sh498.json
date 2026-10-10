@@ -1,0 +1,57 @@
+{
+  "Id": 30755,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹۸",
+  "FullUrl": "/p389/robghm/sh498",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh498",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا یار شدی به رغم من با دشمن\r\nشد کشته چراغ دلم ای عهدشکن\r\nقدسی دیدی که آشنا با تو چه کرد\r\nبیگانه مگر کند چراغت روشن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا یار شدی به رغم من با دشمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد کشته چراغ دلم ای عهدشکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قدسی دیدی که آشنا با تو چه کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیگانه مگر کند چراغت روشن",
+      "CoupletIndex": 1
+    }
+  ]
+}

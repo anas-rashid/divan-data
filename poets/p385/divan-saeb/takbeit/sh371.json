@@ -1,0 +1,45 @@
+{
+  "Id": 17902,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۷۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۷۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh371",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh371",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ظاهر اگر شَه‌پَرِ پرواز نداریم\r\nافشاندنِ دست از دو جهان، بال‌وپرِ ماست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ظاهر اگر شَه‌پَرِ پرواز نداریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افشاندنِ دست از دو جهان، بال‌وپرِ ماست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37323,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۱",
+  "FullUrl": "/p393/robaee/sh151",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh151",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من کی دلشاد و لب خندان دیدم\r\nآشفتگی از غمت فراوان دیدم\r\nزلفت دیروز آه در دست که بود\r\nکامشب همه شب خواب پریشان دیدم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من کی دلشاد و لب خندان دیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آشفتگی از غمت فراوان دیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلفت دیروز آه در دست که بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کامشب همه شب خواب پریشان دیدم",
+      "CoupletIndex": 1
+    }
+  ]
+}

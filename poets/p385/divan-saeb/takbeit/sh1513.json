@@ -1,0 +1,45 @@
+{
+  "Id": 19044,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۱۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۱۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1513",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1513",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همچو شمع صبح می‌لرزد به جان خویشتن\r\nاز سفیدیهای موی من چراغ زندگی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همچو شمع صبح می‌لرزد به جان خویشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سفیدیهای موی من چراغ زندگی",
+      "CoupletIndex": 0
+    }
+  ]
+}

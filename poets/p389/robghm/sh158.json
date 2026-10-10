@@ -1,0 +1,57 @@
+{
+  "Id": 30415,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۵۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۵۸",
+  "FullUrl": "/p389/robghm/sh158",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh158",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ساغر من مِی طلبی را جا نیست\r\nمی‌گویم و از هیچ کسم پروا نیست\r\nبا گوهر اشک خویشتن ساخته‌ام\r\nچشمم چو حباب بر کف دریا نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ساغر من مِی طلبی را جا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌گویم و از هیچ کسم پروا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با گوهر اشک خویشتن ساخته‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشمم چو حباب بر کف دریا نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28154,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۱۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱۱",
+  "FullUrl": "/p386/robaeeor/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گیرم که تو را شوخی آتش باشد\r\nبا نقش و نگار عالمت خوش باشد\r\nگر معنی هر نقش نیابی، باشی\r\nآن مرده که در قبر منقش باشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم که تو را شوخی آتش باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با نقش و نگار عالمت خوش باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر معنی هر نقش نیابی، باشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن مرده که در قبر منقش باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

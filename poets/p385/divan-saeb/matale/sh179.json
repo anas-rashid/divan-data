@@ -1,0 +1,42 @@
+{
+  "Id": 26267,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۷۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۷۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh179",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh179",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منع ما کی می توان از دستبوس امروز کرد؟\r\nبوسه ما را نمی بایست دست آموز کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منع ما کی می توان از دستبوس امروز کرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوسه ما را نمی بایست دست آموز کرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

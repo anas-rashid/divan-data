@@ -1,0 +1,93 @@
+{
+  "Id": 24123,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۰۵۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۰۵۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5050",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5050",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن تو باده ای است که شرم است شیشه اش\r\nخال تو دانه ای است که دام است ریشه اش\r\nروی تو آتشی است که زلف است دود او\r\nشیری است غمزه تو که دلهاست بیشه اش\r\nسروی است قامت تو که ازجای می کند\r\nدر هر دلی که پنجه فرو برد ریشه اش\r\nدست از هنر چگونه نشوید کسی به خون ؟\r\nفرهاد را ز پای درآورد تیشه اش\r\nچون اختیار پیشه و شغل دگر کند؟\r\nصائب که شد ز روز ازل عشق پیشه اش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن تو باده ای است که شرم است شیشه اش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خال تو دانه ای است که دام است ریشه اش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی تو آتشی است که زلف است دود او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیری است غمزه تو که دلهاست بیشه اش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سروی است قامت تو که ازجای می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در هر دلی که پنجه فرو برد ریشه اش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دست از هنر چگونه نشوید کسی به خون ؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "فرهاد را ز پای درآورد تیشه اش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون اختیار پیشه و شغل دگر کند؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صائب که شد ز روز ازل عشق پیشه اش",
+      "CoupletIndex": 4
+    }
+  ]
+}

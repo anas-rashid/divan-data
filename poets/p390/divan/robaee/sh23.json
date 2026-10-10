@@ -1,0 +1,57 @@
+{
+  "Id": 32021,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/p390/divan/robaee/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با من بخت سیاه در بدمهری ست\r\nزهری ست، اگرچه رنگ او پازهری ست\r\nاز حال خراب من خبر می گوید\r\nرنگم که چو زعفران ویران شهری ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با من بخت سیاه در بدمهری ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهری ست، اگرچه رنگ او پازهری ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از حال خراب من خبر می گوید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رنگم که چو زعفران ویران شهری ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

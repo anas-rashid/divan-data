@@ -1,0 +1,93 @@
+{
+  "Id": 31313,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۴۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۴۶",
+  "FullUrl": "/p390/divan/ghazal/sh346",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh346",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به من ز یاد رخ اوست گلستان محتاج\r\nچو گل فروش نیم من به باغبان محتاج\r\nگر آبرو بفروشی به دشمنان، صد بار\r\nنکوتر است که باشی به دوستان محتاج\r\nبه یکدگر همه ی کاینات را کار است\r\nکمان به تیر بود، تیر بر کمان محتاج\r\nگمان سودی اگر هست در تهیدستی ست\r\nببین چه می طلبد بر در دکان محتاج\r\nبه قصد اختر خود گر کشم سلیم آهی\r\nبه یک ستاره شود هفت آسمان محتاج",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به من ز یاد رخ اوست گلستان محتاج",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گل فروش نیم من به باغبان محتاج",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر آبرو بفروشی به دشمنان، صد بار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نکوتر است که باشی به دوستان محتاج",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به یکدگر همه ی کاینات را کار است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کمان به تیر بود، تیر بر کمان محتاج",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گمان سودی اگر هست در تهیدستی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ببین چه می طلبد بر در دکان محتاج",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به قصد اختر خود گر کشم سلیم آهی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به یک ستاره شود هفت آسمان محتاج",
+      "CoupletIndex": 4
+    }
+  ]
+}

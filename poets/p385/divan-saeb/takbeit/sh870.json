@@ -1,0 +1,45 @@
+{
+  "Id": 18401,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۷۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۷۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh870",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh870",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رشتهٔ پیوند یاران را بریدن سهل نیست\r\nچهرهٔ برگ خزان، زرد از جدایی می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رشتهٔ پیوند یاران را بریدن سهل نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چهرهٔ برگ خزان، زرد از جدایی می‌شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

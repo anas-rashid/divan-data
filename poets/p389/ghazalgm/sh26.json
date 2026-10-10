@@ -1,0 +1,93 @@
+{
+  "Id": 29774,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۶",
+  "FullUrl": "/p389/ghazalgm/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند سوزد برق غم مشتی خس و خاشاک را\r\nآتشی خواهم که سوزد خرمن افلاک را\r\nچشم ما پاک است چون خورشید از آلودگی\r\nدامن پاکی بود شایسته چشم پاک را\r\nشوق آتش تا نسازد خلق را گرم گناه\r\nچون برون آیی بپوش آن روی آتشناک را\r\nبهر قتل عشق‌بازان دیر می‌آید اجل\r\nرخصت یک غمزه فرما نرگس چالاک را\r\nبر سر خاک شهیدان بیش از این قدسی منال\r\nچند دردسر دهی آسودگان خاک را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند سوزد برق غم مشتی خس و خاشاک را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتشی خواهم که سوزد خرمن افلاک را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم ما پاک است چون خورشید از آلودگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامن پاکی بود شایسته چشم پاک را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شوق آتش تا نسازد خلق را گرم گناه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون برون آیی بپوش آن روی آتشناک را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بهر قتل عشق‌بازان دیر می‌آید اجل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رخصت یک غمزه فرما نرگس چالاک را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر سر خاک شهیدان بیش از این قدسی منال",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چند دردسر دهی آسودگان خاک را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28950,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/p387/divan/robaee/sh80",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh80",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاه از حسب و نسب شه شاهانست\r\nیک یک اجداد او سکندر شانست\r\nفرزندی او نام پدر کرده بلند\r\nچون ابر که روشناس از بارانست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاه از حسب و نسب شه شاهانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک یک اجداد او سکندر شانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرزندی او نام پدر کرده بلند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ابر که روشناس از بارانست",
+      "CoupletIndex": 1
+    }
+  ]
+}

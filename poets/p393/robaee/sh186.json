@@ -1,0 +1,54 @@
+{
+  "Id": 37358,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۶",
+  "FullUrl": "/p393/robaee/sh186",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh186",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای زمرهٔ اهل دل به جان عاشق تو\r\nجان عاشق تو روح و روان عاشق تو\r\nاز ولع و عقول و انس و جان عاشق تو\r\nمعشوق توی جمله جهان عاشق تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زمرهٔ اهل دل به جان عاشق تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان عاشق تو روح و روان عاشق تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ولع و عقول و انس و جان عاشق تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معشوق توی جمله جهان عاشق تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 24102,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۰۲۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۰۲۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5029",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5029",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چمن برید به مقراض رشک، سنبل خویش\r\nسرآمدی ز نکویان به زلف و کاکل خویش\r\nاگر چه هست لبت بی نیاز از پرسش\r\nبپرس حال مرا گاهی از تغافل خویش\r\nفتادگی است که پشتش نمی رسد به زمین\r\nبه خصم خویش سوارم من ازتحمل خویش\r\nکمینه حکم شهنشاه عشق این حکم است\r\nکه گل پیاده رود در رکاب بلبل خویش\r\nچه نعمتی است درین راه پرخطر صائب\r\nکه بسته ایم گران، توشه توکل خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چمن برید به مقراض رشک، سنبل خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرآمدی ز نکویان به زلف و کاکل خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر چه هست لبت بی نیاز از پرسش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بپرس حال مرا گاهی از تغافل خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فتادگی است که پشتش نمی رسد به زمین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به خصم خویش سوارم من ازتحمل خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کمینه حکم شهنشاه عشق این حکم است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که گل پیاده رود در رکاب بلبل خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه نعمتی است درین راه پرخطر صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که بسته ایم گران، توشه توکل خویش",
+      "CoupletIndex": 4
+    }
+  ]
+}

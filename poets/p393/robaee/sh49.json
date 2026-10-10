@@ -1,0 +1,54 @@
+{
+  "Id": 37221,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/p393/robaee/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خط آمد و غمزه‌ات ز کار افتاده است\r\nبا روز سیاه حسن دوچار افتاده است\r\nچشم تو چو آن مست که گردد هوشیار\r\nاز کردهٔ خویش شرمسار افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خط آمد و غمزه‌ات ز کار افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با روز سیاه حسن دوچار افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم تو چو آن مست که گردد هوشیار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از کردهٔ خویش شرمسار افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

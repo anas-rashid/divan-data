@@ -1,0 +1,66 @@
+{
+  "Id": 36239,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۸۸",
+  "FullUrl": "/p393/natmam/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی همین دل‌خستهٔ درد جدایی مردنی است\r\nبر سر بالینش ار شمع است هم افسردنی است\r\nباختم روزی که با جانان قمار عشق را\r\nیافتم در داو اول کین حریف بردنی است\r\nبرنمی‌داری زمانی دست از آزار من\r\nای به قربانت روم عاشق مگر آزردنی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی همین دل‌خستهٔ درد جدایی مردنی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سر بالینش ار شمع است هم افسردنی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باختم روزی که با جانان قمار عشق را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یافتم در داو اول کین حریف بردنی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برنمی‌داری زمانی دست از آزار من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای به قربانت روم عاشق مگر آزردنی است",
+      "CoupletIndex": 2
+    }
+  ]
+}

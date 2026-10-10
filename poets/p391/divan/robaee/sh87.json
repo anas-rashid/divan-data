@@ -1,0 +1,57 @@
+{
+  "Id": 33358,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/p391/divan/robaee/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در راه وصالت ای بت کج کلهم\r\nشب تا به سحر چشم تمنا به رهم\r\nتا پیک صبا مژدهٔ دیدار آورد\r\nچون شعلهٔ شمع مضطرب شد نگهم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در راه وصالت ای بت کج کلهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب تا به سحر چشم تمنا به رهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا پیک صبا مژدهٔ دیدار آورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شعلهٔ شمع مضطرب شد نگهم",
+      "CoupletIndex": 1
+    }
+  ]
+}

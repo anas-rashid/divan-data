@@ -1,0 +1,57 @@
+{
+  "Id": 30610,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵۳",
+  "FullUrl": "/p389/robghm/sh353",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh353",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاقل ز سر کوی تو رسوا آید\r\nسودا به سر و سلسله برپا آید\r\nبر صفحه دل، حکایت زلف تو را\r\nهر طور نویسند، چلیپا آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقل ز سر کوی تو رسوا آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودا به سر و سلسله برپا آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر صفحه دل، حکایت زلف تو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر طور نویسند، چلیپا آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

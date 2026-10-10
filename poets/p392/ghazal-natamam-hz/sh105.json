@@ -1,0 +1,54 @@
+{
+  "Id": 34764,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۰۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غافل که سینه، آتش آهن گداز داشت\r\nخون شد دلی که آن همه پیکان ناز داشت\r\nاو را از جور، نالهء عجزی که باز داشت\r\nخون ستمکشان اسیرش به گردن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غافل که سینه، آتش آهن گداز داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون شد دلی که آن همه پیکان ناز داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او را از جور، نالهء عجزی که باز داشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون ستمکشان اسیرش به گردن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

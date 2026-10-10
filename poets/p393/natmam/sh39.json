@@ -1,0 +1,42 @@
+{
+  "Id": 36190,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۹",
+  "FullUrl": "/p393/natmam/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگْذار به دل دگر امل را\r\nبیرون ز دماغ کن خلل را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگْذار به دل دگر امل را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیرون ز دماغ کن خلل را",
+      "CoupletIndex": 0
+    }
+  ]
+}

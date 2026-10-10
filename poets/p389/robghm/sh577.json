@@ -1,0 +1,57 @@
+{
+  "Id": 30834,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۷۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۷۷",
+  "FullUrl": "/p389/robghm/sh577",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh577",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که کمر به جستن حق بستی\r\nزین هستی موهوم چو رستی، رستی\r\nغیر از تو حجاب در میان چیزی نیست\r\nاز خود چو بریدی، به خدا پیوستی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که کمر به جستن حق بستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین هستی موهوم چو رستی، رستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غیر از تو حجاب در میان چیزی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خود چو بریدی، به خدا پیوستی",
+      "CoupletIndex": 1
+    }
+  ]
+}

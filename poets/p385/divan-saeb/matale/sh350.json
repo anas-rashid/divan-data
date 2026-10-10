@@ -1,0 +1,42 @@
+{
+  "Id": 26438,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۵۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۵۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وقت خواب ناز، آن مژگان بود خونریزتر\r\nپشت این تیغ سیه تاب است از دم تیزتر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت خواب ناز، آن مژگان بود خونریزتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پشت این تیغ سیه تاب است از دم تیزتر",
+      "CoupletIndex": 0
+    }
+  ]
+}

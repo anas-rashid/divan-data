@@ -1,0 +1,93 @@
+{
+  "Id": 33756,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۲۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۲۹",
+  "FullUrl": "/p392/ghazal-hz/sh329",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh329",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جگر تشنه ام از لعل تو سیراب شود\r\nچه غم است اینکه به کام دل احباب شود\r\nلاف عزلت زدن آن روز تمام است مرا\r\nکه خم ابروی او گوشهٔ محراب شود\r\nشمع روشن ننماید شب ظلمانی را\r\nساقیا می به قدح ربزکه مهتاب شود\r\nغفلت افزود تو را زاهد، از افسانهٔ عشق\r\nنیشتر در دل افسرده، رگ خواب شود\r\nخشکی زهد، ز ما گرد برآورد حزین\r\nدامن خرقه بیفشار که سیلاب شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جگر تشنه ام از لعل تو سیراب شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه غم است اینکه به کام دل احباب شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لاف عزلت زدن آن روز تمام است مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خم ابروی او گوشهٔ محراب شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شمع روشن ننماید شب ظلمانی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ساقیا می به قدح ربزکه مهتاب شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غفلت افزود تو را زاهد، از افسانهٔ عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیشتر در دل افسرده، رگ خواب شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خشکی زهد، ز ما گرد برآورد حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دامن خرقه بیفشار که سیلاب شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

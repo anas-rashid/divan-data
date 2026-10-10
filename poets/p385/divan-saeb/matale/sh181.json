@@ -1,0 +1,42 @@
+{
+  "Id": 26269,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۸۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ذات حق را چون توان در این جهان ادراک کرد؟\r\nدر مکان چون لامکانی را توان ادراک کرد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ذات حق را چون توان در این جهان ادراک کرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مکان چون لامکانی را توان ادراک کرد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

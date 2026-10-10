@@ -1,0 +1,45 @@
+{
+  "Id": 18831,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۰۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۰۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1300",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1300",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون دست برآرم به گرفتن، که ز غیرت\r\nبارست به من عبرت از ایام گرفتن!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دست برآرم به گرفتن، که ز غیرت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بارست به من عبرت از ایام گرفتن!",
+      "CoupletIndex": 0
+    }
+  ]
+}

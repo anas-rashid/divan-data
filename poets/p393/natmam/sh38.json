@@ -1,0 +1,66 @@
+{
+  "Id": 36189,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۸",
+  "FullUrl": "/p393/natmam/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سر کنم در وصف گیسوی تو هر جا خامه را\r\nرشک سنبل‌زار باغ خلد سازم نامه را\r\nسوختن در کوی این افسردگان بی‌حاصل است\r\nگرم سازم بعد ازین جای دگر هنگامه را\r\nبس که زر را دوست دارد یار سیمین‌پیکرم\r\nتا نباشد کاغذافشانی نخواند نامه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سر کنم در وصف گیسوی تو هر جا خامه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رشک سنبل‌زار باغ خلد سازم نامه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوختن در کوی این افسردگان بی‌حاصل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گرم سازم بعد ازین جای دگر هنگامه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بس که زر را دوست دارد یار سیمین‌پیکرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا نباشد کاغذافشانی نخواند نامه را",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36545,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۶۵",
+  "FullUrl": "/p393/ghete/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکه با مهر و وفا کار ندارد این است\r\nوانکه درد دل بیمار ندارد این است\r\nوانکه جز جور و جفا هیچ نباشد کارش\r\nوانکه با مهر و وفا کار ندارد این است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکه با مهر و وفا کار ندارد این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وانکه درد دل بیمار ندارد این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وانکه جز جور و جفا هیچ نباشد کارش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانکه با مهر و وفا کار ندارد این است",
+      "CoupletIndex": 1
+    }
+  ]
+}

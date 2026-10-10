@@ -1,0 +1,42 @@
+{
+  "Id": 36723,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۴",
+  "FullUrl": "/p393/mot/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بود به قدر نگین اعتبار خاتم را\r\nبلند چون نشود از تو قدر خانهٔ ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بود به قدر نگین اعتبار خاتم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلند چون نشود از تو قدر خانهٔ ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

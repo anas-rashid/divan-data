@@ -1,0 +1,57 @@
+{
+  "Id": 37699,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می گویمت ای سعادت ای نیک پسر\r\nدر باب هنر کوش تو ای جان پدر\r\nوین مایه بیندیش که از بهر هنر\r\nبر تیغ گهی بینی و بر نیزه کمر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می گویمت ای سعادت ای نیک پسر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در باب هنر کوش تو ای جان پدر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وین مایه بیندیش که از بهر هنر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر تیغ گهی بینی و بر نیزه کمر",
+      "CoupletIndex": 1
+    }
+  ]
+}

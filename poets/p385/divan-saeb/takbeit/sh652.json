@@ -1,0 +1,45 @@
+{
+  "Id": 18183,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۵۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۵۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh652",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh652",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای کارساز خلق به فریاد من برس\r\nزان پیشتر که کار من از کار بگذرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کارساز خلق به فریاد من برس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان پیشتر که کار من از کار بگذرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

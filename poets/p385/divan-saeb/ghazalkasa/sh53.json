@@ -1,0 +1,93 @@
+{
+  "Id": 19126,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۳",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۳",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نالهٔ من می‌زند ناخن به دل ناهید را\r\nگریهٔ من تازه رو دارد گلِ خورشید را\r\nخطِ آزادی است از اهلِ طمع، بی حاصلی\r\nعقدهٔ پیوند در دل نیست سرو و بید را\r\nنامِ شاهان از اثر در دور می‌باشد مدام\r\nجام می دارد بلند، آوازهٔ جمشید را\r\nکوکبِ اقبال و دولت شوخ‌چشم افتاده است\r\nمشرقِ دیگر بود هر صبحدم خورشید را\r\nدوربینی کز مآلِ شادمانی آگه است\r\nتیغِ زهرآلود می‌داند هلالِ عید را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نالهٔ من می‌زند ناخن به دل ناهید را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریهٔ من تازه رو دارد گلِ خورشید را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خطِ آزادی است از اهلِ طمع، بی حاصلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عقدهٔ پیوند در دل نیست سرو و بید را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نامِ شاهان از اثر در دور می‌باشد مدام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جام می دارد بلند، آوازهٔ جمشید را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کوکبِ اقبال و دولت شوخ‌چشم افتاده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مشرقِ دیگر بود هر صبحدم خورشید را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دوربینی کز مآلِ شادمانی آگه است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تیغِ زهرآلود می‌داند هلالِ عید را",
+      "CoupletIndex": 4
+    }
+  ]
+}

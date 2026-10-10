@@ -1,0 +1,57 @@
+{
+  "Id": 30634,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۷۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۷۷",
+  "FullUrl": "/p389/robghm/sh377",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh377",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون رفت ازین گنبد فیروزه حصار\r\nمعمار زمانه، نقطه نُه پرگار\r\nبر لوح فلک گشت رقم تاریخش\r\nافسوس افسوس از امیر معمار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون رفت ازین گنبد فیروزه حصار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معمار زمانه، نقطه نُه پرگار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر لوح فلک گشت رقم تاریخش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس افسوس از امیر معمار",
+      "CoupletIndex": 1
+    }
+  ]
+}

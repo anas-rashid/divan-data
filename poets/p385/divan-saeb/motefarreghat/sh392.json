@@ -1,0 +1,69 @@
+{
+  "Id": 26998,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh392",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh392",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ماه از حجاب روی تو پروین عرق کند\r\nآیینه را شکوه جمال تو شق کند\r\nاسکندرست اگر چه بود در لباس فقر\r\nهر کس که اختصار به سد رمق کند\r\nچون با رخ تو چهره شود مه، که آفتاب\r\nاز شرم عارضت ز شفق خون عرق کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماه از حجاب روی تو پروین عرق کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه را شکوه جمال تو شق کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اسکندرست اگر چه بود در لباس فقر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کس که اختصار به سد رمق کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون با رخ تو چهره شود مه، که آفتاب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از شرم عارضت ز شفق خون عرق کند",
+      "CoupletIndex": 2
+    }
+  ]
+}

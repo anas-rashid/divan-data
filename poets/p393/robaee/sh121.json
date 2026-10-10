@@ -1,0 +1,54 @@
+{
+  "Id": 37293,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۱",
+  "FullUrl": "/p393/robaee/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای کرده مرا رنج فراقت باریک\r\nگشتم از دوریت به مردن نزدیک\r\nباز آی که دارم از فراق تو دلی\r\nچون گور گناهکار تنگ و تاریک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کرده مرا رنج فراقت باریک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشتم از دوریت به مردن نزدیک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باز آی که دارم از فراق تو دلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون گور گناهکار تنگ و تاریک",
+      "CoupletIndex": 1
+    }
+  ]
+}

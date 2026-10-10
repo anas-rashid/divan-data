@@ -1,0 +1,57 @@
+{
+  "Id": 26888,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۸۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۸۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh282",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh282",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تماشای تو از دل سینه‌ها را پاک می‌سازد\r\nشکرخند تو جان‌ها را گریبان چاک می‌سازد\r\nنمی‌آید ز شوخی بر زمین پا آن ستمگر را\r\nبه امید چه عاشق خویشتن را خاک می‌سازد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تماشای تو از دل سینه‌ها را پاک می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکرخند تو جان‌ها را گریبان چاک می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی‌آید ز شوخی بر زمین پا آن ستمگر را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به امید چه عاشق خویشتن را خاک می‌سازد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

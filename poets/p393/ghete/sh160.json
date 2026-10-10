@@ -1,0 +1,54 @@
+{
+  "Id": 36640,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۶۰",
+  "FullUrl": "/p393/ghete/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اشک خانه ویران دیدم ندیده بودم\r\nاز قطره کار طوفان دیدم ندیده بودم\r\nاز داغ عشق در دل صد لاله‌زار دارم\r\nدر غنچه‌ای گلستان دیدم ندیده بودم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اشک خانه ویران دیدم ندیده بودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از قطره کار طوفان دیدم ندیده بودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از داغ عشق در دل صد لاله‌زار دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در غنچه‌ای گلستان دیدم ندیده بودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

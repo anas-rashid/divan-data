@@ -1,0 +1,54 @@
+{
+  "Id": 33239,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۳",
+  "FullUrl": "/p391/divan/ghete/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکر لله که هجو کس گفتن\r\nفطرت عالی مرا نه فن است\r\nنشده در هجای کس جاری\r\nتا زبانم مجاور دهن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکر لله که هجو کس گفتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فطرت عالی مرا نه فن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشده در هجای کس جاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زبانم مجاور دهن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

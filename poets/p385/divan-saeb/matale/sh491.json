@@ -1,0 +1,42 @@
+{
+  "Id": 26579,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh491",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh491",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چه بخشد عالم ناساز می گیرد ز تو\r\nغیر عبرت هر چه گیری باز می گیرد ز تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چه بخشد عالم ناساز می گیرد ز تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غیر عبرت هر چه گیری باز می گیرد ز تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

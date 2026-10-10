@@ -1,0 +1,54 @@
+{
+  "Id": 36650,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۷۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۷۰",
+  "FullUrl": "/p393/ghete/sh170",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh170",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشم به مفلسی خود غنا نمی‌خواهم\r\nبس است فقر مرا کیمیا نمی‌خواهم\r\nوبال پایهٔ دولت ز بس‌که می‌دانم\r\nبه فرق سایهٔ بال هما نمی‌خواهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشم به مفلسی خود غنا نمی‌خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس است فقر مرا کیمیا نمی‌خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وبال پایهٔ دولت ز بس‌که می‌دانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به فرق سایهٔ بال هما نمی‌خواهم",
+      "CoupletIndex": 1
+    }
+  ]
+}

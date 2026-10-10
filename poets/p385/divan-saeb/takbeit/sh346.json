@@ -1,0 +1,45 @@
+{
+  "Id": 17877,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۴۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۴۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh346",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh346",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی طراوت نشود سرو جوانی که تراست\r\nدر شکر خواب بهارست خزانی که تراست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی طراوت نشود سرو جوانی که تراست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در شکر خواب بهارست خزانی که تراست",
+      "CoupletIndex": 0
+    }
+  ]
+}

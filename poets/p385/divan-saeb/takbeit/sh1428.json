@@ -1,0 +1,45 @@
+{
+  "Id": 18959,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۲۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۲۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1428",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1428",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حرف گفتن در میان عشق و دل انصاف نیست\r\nصاحب منزل ازو، منزل ازو، اسباب ازو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حرف گفتن در میان عشق و دل انصاف نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صاحب منزل ازو، منزل ازو، اسباب ازو",
+      "CoupletIndex": 0
+    }
+  ]
+}

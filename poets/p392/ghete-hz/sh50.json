@@ -1,0 +1,57 @@
+{
+  "Id": 34389,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۵۰ - قطعه",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۵۰ - قطعه",
+  "FullUrl": "/p392/ghete-hz/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در همه عمر، بر صحیفهٔ دهر\r\nهر چه این کلک مشکبار نوشت\r\nاول آن را به لوح خاطر من\r\nقلم فیض کردگار نوشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در همه عمر، بر صحیفهٔ دهر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه این کلک مشکبار نوشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اول آن را به لوح خاطر من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قلم فیض کردگار نوشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

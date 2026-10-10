@@ -1,0 +1,57 @@
+{
+  "Id": 34902,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۴۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۴۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh243",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh243",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از چرخ تنک حوصله، پروا چه کند کس؟\r\nبا دشمن نامرد، مدارا چه کند کس؟\r\nدل کندن و کام دل ازو، هر دو محال است\r\nبا قحبهٔ مستورهٔ دنیا چه کند کس؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چرخ تنک حوصله، پروا چه کند کس؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دشمن نامرد، مدارا چه کند کس؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل کندن و کام دل ازو، هر دو محال است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با قحبهٔ مستورهٔ دنیا چه کند کس؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

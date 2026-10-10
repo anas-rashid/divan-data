@@ -1,0 +1,45 @@
+{
+  "Id": 18503,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۷۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۷۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh972",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh972",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاخ گل، به صحبت بلبل سری بکش\r\nبسیار بر رضای دل باغبان مباش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاخ گل، به صحبت بلبل سری بکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسیار بر رضای دل باغبان مباش",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30262,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/p389/robghm/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افسرده مکن چو تیره‌روزان خود را\r\nاز آتش عشق، برفروزان خود را\r\nجمعند موافقان و صحبت گرم است\r\nای شمع چه مرده‌ای، بسوزان خود را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسرده مکن چو تیره‌روزان خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آتش عشق، برفروزان خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جمعند موافقان و صحبت گرم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای شمع چه مرده‌ای، بسوزان خود را",
+      "CoupletIndex": 1
+    }
+  ]
+}

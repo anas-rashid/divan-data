@@ -1,0 +1,81 @@
+{
+  "Id": 26847,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh241",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh241",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشأه دیوانگی تکلیف باغم می کند\r\nنوبهاران روغن گل در چراغم می کند\r\nاز گریبان تجرد سر برون آورده ام\r\nبوی پیراهن شنیدن بی دماغم می کند\r\nحرف بلبل را ز استغنا به خاک افکنده ام\r\nساده لوحی بین که گل تکلیف باغم می کند\r\nسایه بال هما ارزانی خورشید باد\r\nبرگ تاکی از گلستان تردماغم می کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشأه دیوانگی تکلیف باغم می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوبهاران روغن گل در چراغم می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از گریبان تجرد سر برون آورده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوی پیراهن شنیدن بی دماغم می کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حرف بلبل را ز استغنا به خاک افکنده ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ساده لوحی بین که گل تکلیف باغم می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سایه بال هما ارزانی خورشید باد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "برگ تاکی از گلستان تردماغم می کند",
+      "CoupletIndex": 3
+    }
+  ]
+}

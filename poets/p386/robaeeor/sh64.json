@@ -1,0 +1,57 @@
+{
+  "Id": 28107,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۶۴",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۴",
+  "FullUrl": "/p386/robaeeor/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل دشمن شادی ست و در کار غم است\r\nاز عافیت آسوده و بیمار غم است\r\nبیماری دل مایهٔ او، زردی ماست\r\nرو زردی ما بهار گلزار غم است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل دشمن شادی ست و در کار غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عافیت آسوده و بیمار غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماری دل مایهٔ او، زردی ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رو زردی ما بهار گلزار غم است",
+      "CoupletIndex": 1
+    }
+  ]
+}

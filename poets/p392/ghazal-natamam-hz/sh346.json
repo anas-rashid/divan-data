@@ -1,0 +1,54 @@
+{
+  "Id": 35005,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۴۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۴۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh346",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh346",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نماند از گرد غم، در سینه ام جای شکیبایی\r\nبغل پر کرده ام از سنگ مینای شکیبایی\r\nشود چون کوه اگر خونم ز خشکی لعل جا دارد\r\nبسی در زیر تیغ افشرده ام پای شکیبایی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نماند از گرد غم، در سینه ام جای شکیبایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بغل پر کرده ام از سنگ مینای شکیبایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شود چون کوه اگر خونم ز خشکی لعل جا دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسی در زیر تیغ افشرده ام پای شکیبایی",
+      "CoupletIndex": 1
+    }
+  ]
+}

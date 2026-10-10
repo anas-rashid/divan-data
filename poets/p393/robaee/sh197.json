@@ -1,0 +1,54 @@
+{
+  "Id": 37369,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۷",
+  "FullUrl": "/p393/robaee/sh197",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh197",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "واقف که تو دور ز آستان یاری\r\nباید که به سوی کعبه خود رو آری\r\nمن خود احرام طوف کویش بستم\r\nبسم‌الله اگر تو هم سر حج داری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "واقف که تو دور ز آستان یاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید که به سوی کعبه خود رو آری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من خود احرام طوف کویش بستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسم‌الله اگر تو هم سر حج داری",
+      "CoupletIndex": 1
+    }
+  ]
+}

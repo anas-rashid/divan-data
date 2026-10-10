@@ -1,0 +1,69 @@
+{
+  "Id": 30234,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۶",
+  "FullUrl": "/p389/mmgh/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا هست دل، بجز تو کسی دلبرم مباد\r\nور پیچم از خیال تو گردن، سرم مباد\r\nجز روی تو که آینه صنعت خداست\r\nهرگز نظر بر آینه دیگرم مباد\r\nیا رب که بعد مرگ چو ایام زندگی\r\nجز خاک آستانه تو بسترم مباد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا هست دل، بجز تو کسی دلبرم مباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور پیچم از خیال تو گردن، سرم مباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز روی تو که آینه صنعت خداست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز نظر بر آینه دیگرم مباد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یا رب که بعد مرگ چو ایام زندگی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جز خاک آستانه تو بسترم مباد",
+      "CoupletIndex": 2
+    }
+  ]
+}

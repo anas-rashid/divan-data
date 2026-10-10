@@ -1,0 +1,42 @@
+{
+  "Id": 26394,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۰۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۰۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh306",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh306",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دست من کمر نازک تو چون آید؟\r\nمگر مرا ز کف دست مو برون آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دست من کمر نازک تو چون آید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگر مرا ز کف دست مو برون آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

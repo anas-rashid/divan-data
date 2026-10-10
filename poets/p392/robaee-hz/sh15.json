@@ -1,0 +1,57 @@
+{
+  "Id": 34410,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/p392/robaee-hz/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که نصیب از خرد ادراک است\r\nدر معرکهٔ جهاد خود چالاک است\r\nهر چندکه زنده پاک و مرده ست پلید\r\nاین نفس پلید چون بمیرد پاک است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که نصیب از خرد ادراک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در معرکهٔ جهاد خود چالاک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چندکه زنده پاک و مرده ست پلید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این نفس پلید چون بمیرد پاک است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 36751,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۴۲",
+  "FullUrl": "/p393/mot/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بت من گر ندهد دست وصال تو مرا\r\nثانی اثنین وصال است خیال تو مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بت من گر ندهد دست وصال تو مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ثانی اثنین وصال است خیال تو مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

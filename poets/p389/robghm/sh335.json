@@ -1,0 +1,57 @@
+{
+  "Id": 30592,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳۵",
+  "FullUrl": "/p389/robghm/sh335",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh335",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گیرم فلکت قرین آمال شود\r\nچون بحر که از حباب پامال شود\r\nهرگاه پدر به طفل کشتی گیرد\r\nخود می‌افتد که طفل خوشحال شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم فلکت قرین آمال شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون بحر که از حباب پامال شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگاه پدر به طفل کشتی گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود می‌افتد که طفل خوشحال شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

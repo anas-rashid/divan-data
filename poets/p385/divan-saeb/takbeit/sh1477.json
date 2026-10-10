@@ -1,0 +1,45 @@
+{
+  "Id": 19008,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۷۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۷۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1477",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1477",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز ناله‌های غریبانه منع ما نکنی\r\nاگر دل شبی از کاروان جدا افتی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز ناله‌های غریبانه منع ما نکنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر دل شبی از کاروان جدا افتی",
+      "CoupletIndex": 0
+    }
+  ]
+}

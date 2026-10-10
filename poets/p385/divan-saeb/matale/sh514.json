@@ -1,0 +1,45 @@
+{
+  "Id": 26602,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۱۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۱۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh514",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh514",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این که زاهد کرد پهلوی خود از دنیا تهی\r\nکاش در پای گلی می‌کرد یک مینا تهی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این که زاهد کرد پهلوی خود از دنیا تهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاش در پای گلی می‌کرد یک مینا تهی",
+      "CoupletIndex": 0
+    }
+  ]
+}

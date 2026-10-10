@@ -1,0 +1,66 @@
+{
+  "Id": 36241,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۰",
+  "FullUrl": "/p393/natmam/sh90",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh90",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از سینهٔ من به در رفته است\r\nندانم کجا بی‌خبر رفته است\r\nبه ناچار با صبر سازم کنون\r\nکه از اشک و آهم اثر رفته است\r\nندانم کجا رفت طفل سرشک\r\nهمین لحظه‌ام از نظر رفته است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از سینهٔ من به در رفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ندانم کجا بی‌خبر رفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به ناچار با صبر سازم کنون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از اشک و آهم اثر رفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ندانم کجا رفت طفل سرشک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همین لحظه‌ام از نظر رفته است",
+      "CoupletIndex": 2
+    }
+  ]
+}

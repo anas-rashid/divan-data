@@ -1,0 +1,57 @@
+{
+  "Id": 26610,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرگرانی مانع است از آمدن تیر ترا\r\nانتظار تیر خواهد کشت نخجیر ترا\r\nترک خونریزی نمی گویی، همانا عاشقان\r\nداده اند از دیده خود آب، شمشیر ترا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرگرانی مانع است از آمدن تیر ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انتظار تیر خواهد کشت نخجیر ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترک خونریزی نمی گویی، همانا عاشقان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داده اند از دیده خود آب، شمشیر ترا",
+      "CoupletIndex": 1
+    }
+  ]
+}

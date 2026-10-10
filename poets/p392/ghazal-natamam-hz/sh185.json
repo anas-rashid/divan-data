@@ -1,0 +1,45 @@
+{
+  "Id": 34844,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۸۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی ترک مکر و حیله به احباب می کند؟\r\nدر شیر صبح، چرخ دنی، آب می کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی ترک مکر و حیله به احباب می کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در شیر صبح، چرخ دنی، آب می کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

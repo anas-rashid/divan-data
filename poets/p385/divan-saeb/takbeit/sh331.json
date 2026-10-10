@@ -1,0 +1,45 @@
+{
+  "Id": 17862,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۳۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۳۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh331",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh331",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بهارِ نوجوانی، آن‌چه برجا مانده است\r\nدر بساطِ من، همین خوابِ گِرانِ غفلت است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بهارِ نوجوانی، آن‌چه برجا مانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بساطِ من، همین خوابِ گِرانِ غفلت است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

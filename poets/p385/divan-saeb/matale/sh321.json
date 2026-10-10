@@ -1,0 +1,42 @@
+{
+  "Id": 26409,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوبان اگر چه زبده اولاد آدمند\r\nچون خط برآورند پریزاد عالمند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوبان اگر چه زبده اولاد آدمند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون خط برآورند پریزاد عالمند",
+      "CoupletIndex": 0
+    }
+  ]
+}

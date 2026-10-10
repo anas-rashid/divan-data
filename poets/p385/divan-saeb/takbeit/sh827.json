@@ -1,0 +1,45 @@
+{
+  "Id": 18358,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۲۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۲۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh827",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh827",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در خرابات مغان بی عصمتی را راه نیست\r\nدختر رز با سیه مستان به خلوت می‌رود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خرابات مغان بی عصمتی را راه نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دختر رز با سیه مستان به خلوت می‌رود",
+      "CoupletIndex": 0
+    }
+  ]
+}

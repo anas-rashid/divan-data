@@ -1,0 +1,93 @@
+{
+  "Id": 34210,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۸۳",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۸۳",
+  "FullUrl": "/p392/ghazal-hz/sh783",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh783",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بنگر چه می کند مژه های دراز تو\r\nآخر بگو، چه شد نگه دلنواز تو؟\r\nدر پرده حباب نگنجد شکوه بحر\r\nافزون بود ز حوصله سینه، رازتو\r\nغم نیست جان اگر برود در ره وفا\r\nبادا دراز، عمر غم جانگداز تو\r\nافسانه ساز نرگس مست که بوده ای\r\nمطرب، کرشمه می چکد از تار ساز تو؟\r\nاز بس نگاه حسرت اندوختی حزین\r\nدر خاک هم بود نگران چشم باز تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنگر چه می کند مژه های دراز تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آخر بگو، چه شد نگه دلنواز تو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پرده حباب نگنجد شکوه بحر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افزون بود ز حوصله سینه، رازتو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غم نیست جان اگر برود در ره وفا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بادا دراز، عمر غم جانگداز تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "افسانه ساز نرگس مست که بوده ای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مطرب، کرشمه می چکد از تار ساز تو؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از بس نگاه حسرت اندوختی حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در خاک هم بود نگران چشم باز تو",
+      "CoupletIndex": 4
+    }
+  ]
+}

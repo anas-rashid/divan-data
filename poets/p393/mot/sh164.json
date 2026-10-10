@@ -1,0 +1,42 @@
+{
+  "Id": 36873,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۶۴",
+  "FullUrl": "/p393/mot/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که ابروی آن صنم بیند\r\nماه نو را به چشم کم بیند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که ابروی آن صنم بیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماه نو را به چشم کم بیند",
+      "CoupletIndex": 0
+    }
+  ]
+}

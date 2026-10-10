@@ -1,0 +1,57 @@
+{
+  "Id": 37798,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۸۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۸۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh284",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh284",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بلبل نالنده تر و زارترم\r\nوز زرد گل ای نگار بیمارترم\r\nاز شاخ شکوفه سرنگون سازترم\r\nوز نرگس نوشکفته بیمارترم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بلبل نالنده تر و زارترم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز زرد گل ای نگار بیمارترم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شاخ شکوفه سرنگون سازترم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز نرگس نوشکفته بیمارترم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17734,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۰۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۰۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh203",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh203",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غافلان را، گوش، بر آوازِ طبلِ رِحلَت است\r\nهَر تَپیدن، قاصدی باشد، دلِ آگاه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غافلان را، گوش، بر آوازِ طبلِ رِحلَت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هَر تَپیدن، قاصدی باشد، دلِ آگاه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

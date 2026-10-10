@@ -1,0 +1,57 @@
+{
+  "Id": 33334,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۳",
+  "FullUrl": "/p391/divan/robaee/sh63",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh63",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ماتم شاه شهدا گریه کنید\r\nدریا دریا در این عزا گریه کنید\r\nچون ابر بهار با تمام اعضا\r\nبر تشنه لبان کربلا گریه کنید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماتم شاه شهدا گریه کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریا دریا در این عزا گریه کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون ابر بهار با تمام اعضا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر تشنه لبان کربلا گریه کنید",
+      "CoupletIndex": 1
+    }
+  ]
+}

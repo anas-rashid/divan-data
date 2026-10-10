@@ -1,0 +1,54 @@
+{
+  "Id": 36643,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۶۳",
+  "FullUrl": "/p393/ghete/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون نیست یار آنکه دهم یار را سلام\r\nدر کوی او کنم در و دیوار را سلام\r\nباد صبا به دشت گذاری تو می‌فتد\r\nزین پابرهنه عرض بکن خار را سلام",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نیست یار آنکه دهم یار را سلام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کوی او کنم در و دیوار را سلام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باد صبا به دشت گذاری تو می‌فتد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین پابرهنه عرض بکن خار را سلام",
+      "CoupletIndex": 1
+    }
+  ]
+}

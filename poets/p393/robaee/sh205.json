@@ -1,0 +1,54 @@
+{
+  "Id": 37377,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۰۵",
+  "FullUrl": "/p393/robaee/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه ز بنده رو همی گردانی\r\nوز بزم خودم به صد جفا می‌رانی\r\nآن درد که من ز دست او نالانم\r\nاشعار مرا اگر بخوانی دانی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه ز بنده رو همی گردانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بزم خودم به صد جفا می‌رانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن درد که من ز دست او نالانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشعار مرا اگر بخوانی دانی",
+      "CoupletIndex": 1
+    }
+  ]
+}

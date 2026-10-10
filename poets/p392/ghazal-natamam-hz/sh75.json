@@ -1,0 +1,42 @@
+{
+  "Id": 34734,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاش بیرون فتد از سینه دل زار مرا\r\nکشت نالیدن این مرغ گرفتار مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاش بیرون فتد از سینه دل زار مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کشت نالیدن این مرغ گرفتار مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 24661,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۵۸۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۵۸۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5588",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5588",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز تیغش خونبهای دل به صد امید می خواهم\r\nچه گستاخم که خون شبنم از خورشید می خواهم\r\nبه صد لب چون نخندد بخت بر امید نایابم؟\r\nنبات از سرو می جویم، ثمر از بید می خواهم\r\nچو شبنم صاف از قید تعلق کرده ام خود را\r\nهمین روی دلی از پرتو خورشید می خواهم\r\nبه من تکلیف آب زندگی کردن، بود کشتن\r\nترا ای خضر در قید جهان جاوید می خواهم\r\nسرو برگ شکفتن نیست همچون غنچه ام صائب\r\nدلی از واشدن پیکان صفت نومید می خواهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز تیغش خونبهای دل به صد امید می خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه گستاخم که خون شبنم از خورشید می خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به صد لب چون نخندد بخت بر امید نایابم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبات از سرو می جویم، ثمر از بید می خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو شبنم صاف از قید تعلق کرده ام خود را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همین روی دلی از پرتو خورشید می خواهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به من تکلیف آب زندگی کردن، بود کشتن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ترا ای خضر در قید جهان جاوید می خواهم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سرو برگ شکفتن نیست همچون غنچه ام صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دلی از واشدن پیکان صفت نومید می خواهم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36196,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۴۵",
+  "FullUrl": "/p393/natmam/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بسته کمر شکست ما را\r\nبرهم‌زده بند و بست ما را\r\nاز دست تو کار ما شد از دست\r\nبگذار ز دست، دست ما را\r\nتا دید رقیب داغ گردید\r\nبا لاله‌رخان نشست ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بسته کمر شکست ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برهم‌زده بند و بست ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست تو کار ما شد از دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگذار ز دست، دست ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا دید رقیب داغ گردید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با لاله‌رخان نشست ما را",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27243,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh637",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh637",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای غنچه زر خرید گلستان بوی تو\r\nخورشید خانه زاد شبستان موی تو\r\nسرگشتگی و تیره سرانجامی مرا\r\nغیر از خط سیاه که آرد به روی تو؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای غنچه زر خرید گلستان بوی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید خانه زاد شبستان موی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرگشتگی و تیره سرانجامی مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر از خط سیاه که آرد به روی تو؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

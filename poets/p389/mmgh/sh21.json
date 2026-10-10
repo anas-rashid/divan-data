@@ -1,0 +1,45 @@
+{
+  "Id": 30229,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۱",
+  "FullUrl": "/p389/mmgh/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی جمالت چشمم از خون خجلت جیحون دهد\r\nدور از آن لب، در مذاقم باده طعم خون دهد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی جمالت چشمم از خون خجلت جیحون دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دور از آن لب، در مذاقم باده طعم خون دهد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18532,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۰۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۰۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1001",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1001",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاش می دیدی به چشم عاشقان رخسار خویش\r\nتا دریغ از چشم خود می‌داشتی دیدار خویش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاش می دیدی به چشم عاشقان رخسار خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دریغ از چشم خود می‌داشتی دیدار خویش",
+      "CoupletIndex": 0
+    }
+  ]
+}

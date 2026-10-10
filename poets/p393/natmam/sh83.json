@@ -1,0 +1,78 @@
+{
+  "Id": 36234,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۸۳",
+  "FullUrl": "/p393/natmam/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صحبت غیر با او درگیر است\r\nآه ازین آه که بی‌تأثیر است\r\nکرد پامال جوان مردان را\r\nفلک پیز عجب بی‌پیر است\r\nاز تو موی است مرا دام کمند\r\nتاری از زلف توام زنجیر است\r\nنفس را خاصیت سیماب است\r\nخوب اگر کشته شود اکسیر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحبت غیر با او درگیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آه ازین آه که بی‌تأثیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرد پامال جوان مردان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فلک پیز عجب بی‌پیر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از تو موی است مرا دام کمند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تاری از زلف توام زنجیر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نفس را خاصیت سیماب است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خوب اگر کشته شود اکسیر است",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 25003,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۹۳۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۹۳۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5930",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5930",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک عمر ز هر خار و خسی ناز کشیدیم\r\nتا بوی گلی از چمن راز کشیدیم\r\nچون برگ گل افزود به رسوایی نکهت\r\nهر پرده که بر چهره این راز کشیدیم\r\nبیطاقتی از خرمن ما دود بر آورد\r\nتا رخت به انجام ز آغاز کشیدیم\r\nآسودگی کنج قفس کرد تلافی\r\nیک چند اگر زحمت پرواز کشیدیم\r\nنشناخت کس از جوهریان جوهر ما را\r\nصائب گهر خود به صدف باز کشیدیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک عمر ز هر خار و خسی ناز کشیدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا بوی گلی از چمن راز کشیدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون برگ گل افزود به رسوایی نکهت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر پرده که بر چهره این راز کشیدیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیطاقتی از خرمن ما دود بر آورد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا رخت به انجام ز آغاز کشیدیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آسودگی کنج قفس کرد تلافی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک چند اگر زحمت پرواز کشیدیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نشناخت کس از جوهریان جوهر ما را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صائب گهر خود به صدف باز کشیدیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

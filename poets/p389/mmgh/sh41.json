@@ -1,0 +1,69 @@
+{
+  "Id": 30249,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۱",
+  "FullUrl": "/p389/mmgh/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق کو تا ز ره کعبه ره دل گیرم\r\nچون برهمن به در پتکده منزل گیرم\r\nهمچو گردم ز پی قافله افتاد خیزان\r\nکو نسیمی که روم دامن محمل گیرم\r\nموجم و در نظرم ساحل و گرداب یکی‌ست\r\nنیستم خس که ز دریا ره ساحل گیرم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق کو تا ز ره کعبه ره دل گیرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون برهمن به در پتکده منزل گیرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچو گردم ز پی قافله افتاد خیزان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو نسیمی که روم دامن محمل گیرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "موجم و در نظرم ساحل و گرداب یکی‌ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نیستم خس که ز دریا ره ساحل گیرم",
+      "CoupletIndex": 2
+    }
+  ]
+}

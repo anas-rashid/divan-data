@@ -1,0 +1,54 @@
+{
+  "Id": 37351,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷۹",
+  "FullUrl": "/p393/robaee/sh179",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh179",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افسوس که روزگار برگشت ز من\r\nامسال بتر ز پار برگشت ز من\r\nبرگشتن روزگار سهل است اما\r\nاین است بلا که یار برگشت ز من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که روزگار برگشت ز من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امسال بتر ز پار برگشت ز من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برگشتن روزگار سهل است اما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این است بلا که یار برگشت ز من",
+      "CoupletIndex": 1
+    }
+  ]
+}

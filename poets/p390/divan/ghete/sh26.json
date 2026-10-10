@@ -1,0 +1,54 @@
+{
+  "Id": 31964,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۲۶ - تعریف امینای مطرب",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۲۶ - تعریف امینای مطرب",
+  "FullUrl": "/p390/divan/ghete/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امینا طوطی بلبل ترانه\r\nکه باشد بر زبان ها گفتگویش\r\nز آواز خوشش دف رفته از هوش\r\nازان آبی زند هردم به رویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امینا طوطی بلبل ترانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که باشد بر زبان ها گفتگویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آواز خوشش دف رفته از هوش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ازان آبی زند هردم به رویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

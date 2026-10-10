@@ -1,0 +1,42 @@
+{
+  "Id": 36725,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۶",
+  "FullUrl": "/p393/mot/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه تو آموخته‌ای جور و جفا را\r\nاز یاد مبر سابقهٔ مهر و وفا را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه تو آموخته‌ای جور و جفا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از یاد مبر سابقهٔ مهر و وفا را",
+      "CoupletIndex": 0
+    }
+  ]
+}

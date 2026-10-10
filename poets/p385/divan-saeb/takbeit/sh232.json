@@ -1,0 +1,45 @@
+{
+  "Id": 17763,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۳۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۳۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh232",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh232",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کم نشد از گریه اندوهی که در دل داشتم\r\nپاک نتوان کرد با دامان تر آیینه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم نشد از گریه اندوهی که در دل داشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاک نتوان کرد با دامان تر آیینه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

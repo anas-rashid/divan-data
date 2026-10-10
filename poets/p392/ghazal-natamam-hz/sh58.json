@@ -1,0 +1,69 @@
+{
+  "Id": 34717,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترانه کرد صریر نیم، دراز اینجا\r\nکه دیگری نشود داستان طراز اینجا\r\nدرین دیار به حال هنر که پردازد؟\r\nفتاده در عدم آباد، امتیاز اینجا\r\nسماع دیر مغان کن، ز تار عود دلم\r\nگشوده ناخن غم، پرده های ساز اینجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترانه کرد صریر نیم، دراز اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دیگری نشود داستان طراز اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درین دیار به حال هنر که پردازد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فتاده در عدم آباد، امتیاز اینجا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سماع دیر مغان کن، ز تار عود دلم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گشوده ناخن غم، پرده های ساز اینجا",
+      "CoupletIndex": 2
+    }
+  ]
+}

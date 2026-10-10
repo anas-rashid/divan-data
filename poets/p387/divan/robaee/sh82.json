@@ -1,0 +1,57 @@
+{
+  "Id": 28952,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p387/divan/robaee/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هم زلف پریشان تو بر گشته ز ما\r\nهم عشوه پنهان تو برگشته ز ما\r\nمی داد گهی داد اسیران نگهت\r\nاو نیز چو مژگان تو برگشته زما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم زلف پریشان تو بر گشته ز ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم عشوه پنهان تو برگشته ز ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می داد گهی داد اسیران نگهت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او نیز چو مژگان تو برگشته زما",
+      "CoupletIndex": 1
+    }
+  ]
+}

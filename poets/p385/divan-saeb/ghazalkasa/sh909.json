@@ -1,0 +1,93 @@
+{
+  "Id": 19982,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۹۰۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۹۰۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh909",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh909",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غضب ستیزه گر و عقل قهرمان در خواب\r\nشتر گسسته مهارست و ساربان در خواب\r\nگذشت عمر چو آب روان و ما غافل\r\nبنای خانه بر آب است و پاسبان در خواب\r\nچگونه چشم تو در خواب حرف می گوید؟\r\nز شوق حرف زنم با تو آنچنان در خواب\r\nاگر نه قوت سحرست، چشم یار چرا\r\nکشیده دارد ز ابروی خود کمان در خواب؟\r\nسواد شعر تو صائب جلای چشم دهد\r\nندیده است چنین سرمه اصفهان در خواب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غضب ستیزه گر و عقل قهرمان در خواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شتر گسسته مهارست و ساربان در خواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گذشت عمر چو آب روان و ما غافل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنای خانه بر آب است و پاسبان در خواب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چگونه چشم تو در خواب حرف می گوید؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز شوق حرف زنم با تو آنچنان در خواب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اگر نه قوت سحرست، چشم یار چرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کشیده دارد ز ابروی خود کمان در خواب؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سواد شعر تو صائب جلای چشم دهد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ندیده است چنین سرمه اصفهان در خواب",
+      "CoupletIndex": 4
+    }
+  ]
+}

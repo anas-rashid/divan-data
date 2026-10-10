@@ -1,0 +1,42 @@
+{
+  "Id": 26301,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به عادت هر کجا زهری است شیرین چون شکر گردد\r\nبه جز هجران که هر دم تلخی او بیشتر گردد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به عادت هر کجا زهری است شیرین چون شکر گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جز هجران که هر دم تلخی او بیشتر گردد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

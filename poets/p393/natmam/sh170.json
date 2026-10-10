@@ -1,0 +1,66 @@
+{
+  "Id": 36321,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۷۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۷۰",
+  "FullUrl": "/p393/natmam/sh170",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh170",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه همین عالم ازین زلف دگرگون گردید\r\nعقل کل دید چو این سلسله مجنون گردید\r\nشد ترازو دو سه تیرم به دل از شست کسی\r\nمصرعی چند به این واسطه موزون گردید\r\nسرو گل رنگ قبایم ز کدامین چمنی\r\nبس که دنبال تو گردید دلم خون گردید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه همین عالم ازین زلف دگرگون گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عقل کل دید چو این سلسله مجنون گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد ترازو دو سه تیرم به دل از شست کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مصرعی چند به این واسطه موزون گردید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرو گل رنگ قبایم ز کدامین چمنی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بس که دنبال تو گردید دلم خون گردید",
+      "CoupletIndex": 2
+    }
+  ]
+}

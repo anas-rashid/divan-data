@@ -1,0 +1,57 @@
+{
+  "Id": 26873,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh267",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh267",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکوه خامشی در ظرف گفت و گو نمی گنجد\r\nمحیط بیکران در تنگنای جو نمی گنجد\r\nفضای پرفشانی از برای بلبلان دارد\r\nاگر چه در حریم غنچه گل، بو نمی گنجد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکوه خامشی در ظرف گفت و گو نمی گنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محیط بیکران در تنگنای جو نمی گنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فضای پرفشانی از برای بلبلان دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر چه در حریم غنچه گل، بو نمی گنجد",
+      "CoupletIndex": 1
+    }
+  ]
+}

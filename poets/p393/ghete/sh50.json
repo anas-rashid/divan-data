@@ -1,0 +1,54 @@
+{
+  "Id": 36530,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۵۰",
+  "FullUrl": "/p393/ghete/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "انیس من غم و اندوه بی‌وفای هست\r\nجلیس من دل بیگانه آشنای هست\r\nبه خون طپیدنم از بهر خونبها نبود\r\nمرا ز قاتل خود چشم مرحبای هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انیس من غم و اندوه بی‌وفای هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جلیس من دل بیگانه آشنای هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خون طپیدنم از بهر خونبها نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا ز قاتل خود چشم مرحبای هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

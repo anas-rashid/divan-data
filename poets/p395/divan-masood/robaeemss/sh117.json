@@ -1,0 +1,57 @@
+{
+  "Id": 37631,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۱۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh117",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh117",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تیری که بزد چرخ مرا پنهان زد\r\nجز پنهان مرد مرد را نتوان زد\r\nزد چرخ مرا ولیک در زندان زد\r\nدر زندان شیر شرزه را بتوان زد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تیری که بزد چرخ مرا پنهان زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز پنهان مرد مرد را نتوان زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زد چرخ مرا ولیک در زندان زد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در زندان شیر شرزه را بتوان زد",
+      "CoupletIndex": 1
+    }
+  ]
+}

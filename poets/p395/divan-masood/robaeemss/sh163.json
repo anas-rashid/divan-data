@@ -1,0 +1,57 @@
+{
+  "Id": 37677,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۶۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سلطان ملک است در دل سلطان نور\r\nهر روز کند به روی او سلطان سور\r\nهرگز ندود برود بر سلطان زور\r\nچشم بد خلق آرد از سلطان دور",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلطان ملک است در دل سلطان نور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر روز کند به روی او سلطان سور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز ندود برود بر سلطان زور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم بد خلق آرد از سلطان دور",
+      "CoupletIndex": 1
+    }
+  ]
+}

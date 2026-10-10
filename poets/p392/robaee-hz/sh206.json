@@ -1,0 +1,57 @@
+{
+  "Id": 34601,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۶",
+  "FullUrl": "/p392/robaee-hz/sh206",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh206",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چل سال کتاب جسم و جان را خواندیم\r\nتاریخ زمین و آسمان را خواندیم\r\nخواب عجبی فتاده بر دیدهٔ بخت\r\nاز بس که فسانهٔ جهان را خواندیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چل سال کتاب جسم و جان را خواندیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تاریخ زمین و آسمان را خواندیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواب عجبی فتاده بر دیدهٔ بخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که فسانهٔ جهان را خواندیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

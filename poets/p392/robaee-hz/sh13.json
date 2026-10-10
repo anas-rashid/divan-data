@@ -1,0 +1,57 @@
+{
+  "Id": 34408,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/p392/robaee-hz/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خویی مه و مهر را به دلداری نیست\r\nآبی در جوی ابر آذاری نیست\r\nشد کشور عدل و جود و انصاف خراب\r\nدیّار درین دیار پنداری نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خویی مه و مهر را به دلداری نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آبی در جوی ابر آذاری نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد کشور عدل و جود و انصاف خراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیّار درین دیار پنداری نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

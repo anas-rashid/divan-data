@@ -1,0 +1,81 @@
+{
+  "Id": 33135,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۴۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۴۳",
+  "FullUrl": "/p391/divan/ghazal/sh1043",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1043",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منظور دیده ها نه ای و نور دیده ای\r\nدر عالمی و پای ز عالم کشیده ای\r\nدر هر طرف که می نگرم جلوه گر تویی\r\nبر روی گل به کسوت رنگ آرمیده ای\r\nای نفس قطع راه فنا یک نفس شود\r\nهنگامه ای به هستی مرهوم چیده ای\r\nاز شوخی تو برق شرروار می رمد\r\nای شعله خوی من تو هنوز آرمیده ای",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منظور دیده ها نه ای و نور دیده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عالمی و پای ز عالم کشیده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر طرف که می نگرم جلوه گر تویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر روی گل به کسوت رنگ آرمیده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای نفس قطع راه فنا یک نفس شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هنگامه ای به هستی مرهوم چیده ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از شوخی تو برق شرروار می رمد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای شعله خوی من تو هنوز آرمیده ای",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27133,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۲۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۲۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh527",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh527",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد خنده واکشم ز تو تا ترک جان کنم\r\nدر خون صد بهار روم تا خزان کنم\r\nتیغش ز سخت جانی من کند اگر شود\r\nلوح مزار خویش ز سنگ فسان کنم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد خنده واکشم ز تو تا ترک جان کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خون صد بهار روم تا خزان کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیغش ز سخت جانی من کند اگر شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لوح مزار خویش ز سنگ فسان کنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

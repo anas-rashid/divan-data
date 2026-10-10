@@ -1,0 +1,45 @@
+{
+  "Id": 18963,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۳۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۳۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1432",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1432",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شبنم روشن گهر، با خار و گل یکرنگ شو\r\nبگذار رعنایی ز سر، بیزار از نیرنگ شو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شبنم روشن گهر، با خار و گل یکرنگ شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگذار رعنایی ز سر، بیزار از نیرنگ شو",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 28342,
+  "CatId": 1069,
+  "Title": "غزل شمارهٔ  ۱۰۵",
+  "FullTitle": "کلیم » دیوان اشعار » غزلیات » غزل شمارهٔ  ۱۰۵",
+  "FullUrl": "/p387/divan/ghazal/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghazal/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین چمن عاشق ز نخل عیش هرگز برنداشت\r\nغیر زخم خونچکان هرگز گلی بر سر نداشت\r\nعاقبت مکتوب ما را سوی او پروانه برد\r\nتاب سوز نامه ام بال و پر دیگر نداشت\r\nبیقراری بین که بعد از سوختن همچون سپند\r\nیکنفس خاکسترم جا بر سر اخگر نداشت\r\nشب که از شمع جمالش دیده‌ام روشن شود\r\nمردمک در دیده من قدر خاکستر نداشت\r\nهرگز از دوران کلیم خسته آسایش ندید\r\nدر دلش صد خار بود، ار خار در بستر نداشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین چمن عاشق ز نخل عیش هرگز برنداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غیر زخم خونچکان هرگز گلی بر سر نداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاقبت مکتوب ما را سوی او پروانه برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاب سوز نامه ام بال و پر دیگر نداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیقراری بین که بعد از سوختن همچون سپند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یکنفس خاکسترم جا بر سر اخگر نداشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شب که از شمع جمالش دیده‌ام روشن شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مردمک در دیده من قدر خاکستر نداشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرگز از دوران کلیم خسته آسایش ندید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در دلش صد خار بود، ار خار در بستر نداشت",
+      "CoupletIndex": 4
+    }
+  ]
+}

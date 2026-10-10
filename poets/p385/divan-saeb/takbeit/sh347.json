@@ -1,0 +1,45 @@
+{
+  "Id": 17878,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۴۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۴۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh347",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh347",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حرف حق گرچه بلندست زمن چون منصور\r\nسر دارست بسامانتر ازین سر که مراست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حرف حق گرچه بلندست زمن چون منصور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر دارست بسامانتر ازین سر که مراست",
+      "CoupletIndex": 0
+    }
+  ]
+}

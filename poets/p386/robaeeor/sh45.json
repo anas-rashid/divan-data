@@ -1,0 +1,57 @@
+{
+  "Id": 28088,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۵",
+  "FullUrl": "/p386/robaeeor/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دیدهٔ تو روشنی شرم به است\r\nدر سینهٔ تو جان و دل نرم به است\r\nپرهیز کن از فسردگی در ره عشق\r\nکز گریه سر خندهٔ گرم به است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیدهٔ تو روشنی شرم به است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سینهٔ تو جان و دل نرم به است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرهیز کن از فسردگی در ره عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز گریه سر خندهٔ گرم به است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30421,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۶۴",
+  "FullUrl": "/p389/robghm/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دانی که چرا قضا چو نقش تو نگاشت\r\nسرو چمنت را به بلندی نفراشت؟\r\nهر فتنه که داشت، صرف چشمانت کرد\r\nزین بیش، قضا فتنه و آشوب نداشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانی که چرا قضا چو نقش تو نگاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو چمنت را به بلندی نفراشت؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر فتنه که داشت، صرف چشمانت کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین بیش، قضا فتنه و آشوب نداشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 34952,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صید از حرم کشد، خم جعد بلند تو\r\nفریاد از تطاول مشکین کمند تو\r\nشد رشک طور از آمدنت کوی عاشقان\r\nبنشین، که باد خردهٔ جان ها سپند تو\r\nمشکل شده ست کار دل از عشق و خوش دلم\r\nشاید رسد به خاطر مشکل پسند تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صید از حرم کشد، خم جعد بلند تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد از تطاول مشکین کمند تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد رشک طور از آمدنت کوی عاشقان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنشین، که باد خردهٔ جان ها سپند تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مشکل شده ست کار دل از عشق و خوش دلم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شاید رسد به خاطر مشکل پسند تو",
+      "CoupletIndex": 2
+    }
+  ]
+}

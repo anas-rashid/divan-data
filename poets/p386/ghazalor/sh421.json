@@ -1,0 +1,105 @@
+{
+  "Id": 27829,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۴۲۱",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۴۲۱",
+  "FullUrl": "/p386/ghazalor/sh421",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh421",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد مُهر می نهم به لب گفت و گوی دل\r\nتا گَرد غم به شِکوه نجنبد ز روی دل\r\nدامن به سلسبیل نیالاید آن که او\r\nدر چشمه سار درد کند شست و شوی دل\r\nبگداختیم مرهم و الماس ریختیم\r\nآن بر مراد راحت و این در گلوی دل\r\nبا صد غم آشناست دلم، دست ازو بدار\r\nترسم غمی عنان تو گیرد به بوی دل\r\nتا چند عمر در غم و اندیشه بگذرد\r\nبرداشتیم دست غم از زیر و روی دل\r\nعرفی به یک دو جرعه خون، بیخودی نمود\r\nهرگز نخورده بود شراب سبوی دل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد مُهر می نهم به لب گفت و گوی دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا گَرد غم به شِکوه نجنبد ز روی دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دامن به سلسبیل نیالاید آن که او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در چشمه سار درد کند شست و شوی دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بگداختیم مرهم و الماس ریختیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن بر مراد راحت و این در گلوی دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با صد غم آشناست دلم، دست ازو بدار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ترسم غمی عنان تو گیرد به بوی دل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا چند عمر در غم و اندیشه بگذرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برداشتیم دست غم از زیر و روی دل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی به یک دو جرعه خون، بیخودی نمود",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هرگز نخورده بود شراب سبوی دل",
+      "CoupletIndex": 5
+    }
+  ]
+}

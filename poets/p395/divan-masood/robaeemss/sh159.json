@@ -1,0 +1,57 @@
+{
+  "Id": 37673,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۵۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۵۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh159",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh159",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز اول به میان ما به هنگام کنار\r\nگر تار قصب بودی بودی دشوار\r\nاکنون به میان ما دو ای یک دله یار\r\nفرسنگ دویست گشت فرسنگ هزار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز اول به میان ما به هنگام کنار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر تار قصب بودی بودی دشوار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون به میان ما دو ای یک دله یار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرسنگ دویست گشت فرسنگ هزار",
+      "CoupletIndex": 1
+    }
+  ]
+}

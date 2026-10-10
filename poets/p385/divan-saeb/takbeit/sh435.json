@@ -1,0 +1,45 @@
+{
+  "Id": 17966,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۳۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۳۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh435",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh435",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خاطر از سبحه و زنار مکدر شده است\r\nریسمان بازی تقلید مکرر شده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خاطر از سبحه و زنار مکدر شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ریسمان بازی تقلید مکرر شده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

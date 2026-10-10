@@ -1,0 +1,105 @@
+{
+  "Id": 27480,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۷۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۷۲",
+  "FullUrl": "/p386/ghazalor/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر تکیه گاه گلخن و گر مسند جم است\r\nرویم به روی محنت و لب بر لب غم است\r\nما بار نیکنامی عصمت نمی کشیم\r\nرندی حریف ماست که بد نام عالم است\r\nصد سیل فتنه آمد و گردی بر نخاست\r\nقصر مراد ماست که موقوف یک نم است\r\nاسلام نی، ز درد مسلمانیم به جاست\r\nبازیچه ای به عادت طفلانه، محکم است\r\nجز در کنار دوش ملامت نیارمید\r\nاین بی قرار دل، که جگر گوشه ی غم است\r\nعرفی تمام لاف مسلمانی است، لیک\r\nتا لب گشوده ایم به صد رنگ ملزم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر تکیه گاه گلخن و گر مسند جم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رویم به روی محنت و لب بر لب غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما بار نیکنامی عصمت نمی کشیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رندی حریف ماست که بد نام عالم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صد سیل فتنه آمد و گردی بر نخاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "قصر مراد ماست که موقوف یک نم است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اسلام نی، ز درد مسلمانیم به جاست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بازیچه ای به عادت طفلانه، محکم است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جز در کنار دوش ملامت نیارمید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این بی قرار دل، که جگر گوشه ی غم است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی تمام لاف مسلمانی است، لیک",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا لب گشوده ایم به صد رنگ ملزم است",
+      "CoupletIndex": 5
+    }
+  ]
+}

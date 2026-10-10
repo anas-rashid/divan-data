@@ -1,0 +1,57 @@
+{
+  "Id": 28934,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/p387/divan/robaee/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دست هوسم را ز درم بیزاریست\r\nطبعم از فکر جمع سامان عاریست\r\nچیزیکه توان گفت که دارم روزه است\r\nآنهم چو نکو بنگری از ناداریست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست هوسم را ز درم بیزاریست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طبعم از فکر جمع سامان عاریست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چیزیکه توان گفت که دارم روزه است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنهم چو نکو بنگری از ناداریست",
+      "CoupletIndex": 1
+    }
+  ]
+}

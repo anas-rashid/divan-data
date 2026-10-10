@@ -1,0 +1,54 @@
+{
+  "Id": 36557,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۷",
+  "FullUrl": "/p393/ghete/sh77",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh77",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از بر من رفته به کوی تو نشست است\r\nدر آرزوی روی نکوی تو نشست است\r\nدر آیینه از روی غروری که تو داری\r\nتمثال رخت پشت به روی نشست است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از بر من رفته به کوی تو نشست است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آرزوی روی نکوی تو نشست است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آیینه از روی غروری که تو داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تمثال رخت پشت به روی نشست است",
+      "CoupletIndex": 1
+    }
+  ]
+}

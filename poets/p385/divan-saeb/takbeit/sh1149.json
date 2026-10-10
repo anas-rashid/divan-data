@@ -1,0 +1,45 @@
+{
+  "Id": 18680,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۴۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۴۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1149",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1149",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هستی موهوم ما موج سرابی بیش نیست\r\nبه که بر لوح وجود خود خط باطل کشم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستی موهوم ما موج سرابی بیش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به که بر لوح وجود خود خط باطل کشم",
+      "CoupletIndex": 0
+    }
+  ]
+}

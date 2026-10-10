@@ -1,0 +1,93 @@
+{
+  "Id": 27430,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۲",
+  "FullUrl": "/p386/ghazalor/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از تو نوشت و داد دل آرمیده را\r\nغم نامه های شسته و صد ره دریده را\r\nشادم که در تپیدن خاصی فکنده ام\r\nهر ذره از وجود دل آرمیده را\r\nالماس ریزه کس نخرد در دیار عشق\r\nکانجا به توتیا نبود صلح دیده را\r\nآورده ام به کف سر زلفی که بر دلم\r\nشب کرده صبح عافیتی نادمیده را\r\nعرفی به زیر تیع مشو مضطرب که هست\r\nاجری دگر ، شهیدِ به خون در تپیده را ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تو نوشت و داد دل آرمیده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم نامه های شسته و صد ره دریده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شادم که در تپیدن خاصی فکنده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر ذره از وجود دل آرمیده را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "الماس ریزه کس نخرد در دیار عشق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کانجا به توتیا نبود صلح دیده را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آورده ام به کف سر زلفی که بر دلم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شب کرده صبح عافیتی نادمیده را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی به زیر تیع مشو مضطرب که هست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اجری دگر ، شهیدِ به خون در تپیده را ",
+      "CoupletIndex": 4
+    }
+  ]
+}

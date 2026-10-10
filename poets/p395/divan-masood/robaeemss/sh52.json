@@ -1,0 +1,57 @@
+{
+  "Id": 37566,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر نور فلک چو طبع ما گردد راست\r\nدر مدح تو از طبع سخن نتوان خواست\r\nهر بیت که در مدح تو خواهم آراست\r\nدر خورد تو نیست بلکه در طاقت ماست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نور فلک چو طبع ما گردد راست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مدح تو از طبع سخن نتوان خواست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر بیت که در مدح تو خواهم آراست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خورد تو نیست بلکه در طاقت ماست",
+      "CoupletIndex": 1
+    }
+  ]
+}

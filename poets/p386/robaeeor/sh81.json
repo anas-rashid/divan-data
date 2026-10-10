@@ -1,0 +1,57 @@
+{
+  "Id": 28124,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۸۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۸۱",
+  "FullUrl": "/p386/robaeeor/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوخی که ز خنده چشمهٔ نوش شود\r\nخورشید به سایه اش هم آغوش شود\r\nخندید و کرشمه کرد و از خود رفتم\r\nآری دو شیرابه زود بیهوش شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی که ز خنده چشمهٔ نوش شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید به سایه اش هم آغوش شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خندید و کرشمه کرد و از خود رفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری دو شیرابه زود بیهوش شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

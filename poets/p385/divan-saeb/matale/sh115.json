@@ -1,0 +1,42 @@
+{
+  "Id": 26203,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی حیا گر غوطه در گوهر زند بی مایه است\r\nشرم روی نیکوان را بهترین پیرایه است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی حیا گر غوطه در گوهر زند بی مایه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرم روی نیکوان را بهترین پیرایه است",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 29634,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/p388/divan/robaee/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هردم که نه با توام برآید مرضیست\r\nمقصود تویی حقیقت من غرضیست\r\nبس در عجبم که مانده ام بی تو چسان\r\nقایم چو به جوهریست هر جا عرضیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هردم که نه با توام برآید مرضیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مقصود تویی حقیقت من غرضیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس در عجبم که مانده ام بی تو چسان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قایم چو به جوهریست هر جا عرضیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

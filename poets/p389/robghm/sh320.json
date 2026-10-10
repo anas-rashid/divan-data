@@ -1,0 +1,57 @@
+{
+  "Id": 30577,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۲۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۲۰",
+  "FullUrl": "/p389/robghm/sh320",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh320",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کز طرف خدا موفق نبود\r\nاز معرفتش امید، مطلق نبود\r\nزین قوم مکن دعوی عرفان باور\r\nکس عارف ذات حق به جز حق نبود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کز طرف خدا موفق نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از معرفتش امید، مطلق نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین قوم مکن دعوی عرفان باور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس عارف ذات حق به جز حق نبود",
+      "CoupletIndex": 1
+    }
+  ]
+}

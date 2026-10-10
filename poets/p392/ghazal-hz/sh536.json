@@ -1,0 +1,93 @@
+{
+  "Id": 33963,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۳۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۳۶",
+  "FullUrl": "/p392/ghazal-hz/sh536",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh536",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل همه لافی سخن حوصله بگذار\r\nدیدی جگر عشق نداری گله بگذار\r\nسرگشتگی ات راهبر کعبهٔ وصل است\r\nگر مرد رهی نقش پی غافله بگذار\r\nخواهی که ز دستت نرود دامن یوسف\r\nدامان وصال هوس اایا ده دله بگذار\r\nدل خنجر مژگان تو سیراب نسازد\r\nیک قطرهٔ خون است درین آبله، بگذر\r\nاز حوصله بیش است حزین ، آرزوی تو\r\nبا لعل لب یار، حدیث گله بگذار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل همه لافی سخن حوصله بگذار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدی جگر عشق نداری گله بگذار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرگشتگی ات راهبر کعبهٔ وصل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر مرد رهی نقش پی غافله بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خواهی که ز دستت نرود دامن یوسف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دامان وصال هوس اایا ده دله بگذار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل خنجر مژگان تو سیراب نسازد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک قطرهٔ خون است درین آبله، بگذر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از حوصله بیش است حزین ، آرزوی تو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با لعل لب یار، حدیث گله بگذار",
+      "CoupletIndex": 4
+    }
+  ]
+}

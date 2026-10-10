@@ -1,0 +1,42 @@
+{
+  "Id": 26504,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۱۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۱۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh416",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh416",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرق فشان رخ خود از شراب ساخته ای\r\nستاره روی کش آفتاب ساخته ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرق فشان رخ خود از شراب ساخته ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ستاره روی کش آفتاب ساخته ای",
+      "CoupletIndex": 0
+    }
+  ]
+}

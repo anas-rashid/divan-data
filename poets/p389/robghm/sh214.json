@@ -1,0 +1,57 @@
+{
+  "Id": 30471,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱۴",
+  "FullUrl": "/p389/robghm/sh214",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh214",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاقل به درش ز دل سراغی دارد\r\nدیوانه، دلیل راه، داغی دارد\r\nاین طرفه که در جستن خورشید منیر\r\nهر ذره به دست خود چراغی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقل به درش ز دل سراغی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیوانه، دلیل راه، داغی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این طرفه که در جستن خورشید منیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر ذره به دست خود چراغی دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

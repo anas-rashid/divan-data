@@ -1,0 +1,45 @@
+{
+  "Id": 17934,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۰۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۰۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh403",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh403",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز روی او که در عرق شرم غوطه زد\r\nیک برگ گل هزار نگهبان نداشته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز روی او که در عرق شرم غوطه زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک برگ گل هزار نگهبان نداشته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31585,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۱۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۸",
+  "FullUrl": "/p390/divan/ghazal/sh618",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh618",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هم‌نشین از گریهٔ من کاشکی دامان کشد\r\nخویش را بر گوشه‌ای چون موج ازین طوفان کشد\r\nاز سموم آه، این ویرانه از بس گرم شد\r\nاشک خود را از دلم در سایهٔ مژگان کشد\r\nسر اگر بر من گران باشد، ز سر وا می‌کنم\r\nدرد دندان هرکه نتواند کشد، دندان کشد\r\nکی ز حسن سبز در ایران توان شد کامیاب\r\nهرکه را طاووس باید، رنج هِندُستان کشد\r\nمشکل است از هم جدایی هم‌نشینان را سلیم\r\nز استخوان من به آن ترکش مگر پیکان کشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم‌نشین از گریهٔ من کاشکی دامان کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خویش را بر گوشه‌ای چون موج ازین طوفان کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سموم آه، این ویرانه از بس گرم شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشک خود را از دلم در سایهٔ مژگان کشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر اگر بر من گران باشد، ز سر وا می‌کنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "درد دندان هرکه نتواند کشد، دندان کشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کی ز حسن سبز در ایران توان شد کامیاب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرکه را طاووس باید، رنج هِندُستان کشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مشکل است از هم جدایی هم‌نشینان را سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز استخوان من به آن ترکش مگر پیکان کشد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36312,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۱",
+  "FullUrl": "/p393/natmam/sh161",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh161",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو غنچه مانده‌ای ای دل کنون که یار آمد\r\nچو گل بخند که یار آمد و بهار آمد\r\nبه بیخودی سر راهی دچار یار شدم\r\nهزار شکر ز خود رفتنم به‌کار آمد\r\nکسی که ناصح من گشته بود دوش امروز\r\nز کوی او به گریبان تار تار آمد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو غنچه مانده‌ای ای دل کنون که یار آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گل بخند که یار آمد و بهار آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به بیخودی سر راهی دچار یار شدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هزار شکر ز خود رفتنم به‌کار آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کسی که ناصح من گشته بود دوش امروز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز کوی او به گریبان تار تار آمد",
+      "CoupletIndex": 2
+    }
+  ]
+}

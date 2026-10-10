@@ -1,0 +1,45 @@
+{
+  "Id": 19072,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۴۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۴۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1541",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1541",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشمی نچراندیم در این باغ چو شبنم\r\nچون سرو فشردیم قدم بر لب جویی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمی نچراندیم در این باغ چو شبنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سرو فشردیم قدم بر لب جویی",
+      "CoupletIndex": 0
+    }
+  ]
+}

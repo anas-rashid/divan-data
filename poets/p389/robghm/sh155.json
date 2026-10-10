@@ -1,0 +1,57 @@
+{
+  "Id": 30412,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۵۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۵۵",
+  "FullUrl": "/p389/robghm/sh155",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh155",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دیده عارفان گل و بید یکی‌ست\r\nدر محفل وصل بیم و امید یکی‌ست\r\nروزن متعددش نماید، ورنه\r\nروشن بود این که نور خورشید یکی‌ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیده عارفان گل و بید یکی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در محفل وصل بیم و امید یکی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزن متعددش نماید، ورنه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روشن بود این که نور خورشید یکی‌ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

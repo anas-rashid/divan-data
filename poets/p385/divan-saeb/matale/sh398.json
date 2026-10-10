@@ -1,0 +1,42 @@
+{
+  "Id": 26486,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۹۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۹۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh398",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh398",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به طوق غبغب سیمین او نظر واکن\r\nهلال ماه در آغوش را تماشا کن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به طوق غبغب سیمین او نظر واکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هلال ماه در آغوش را تماشا کن",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30507,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۵۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۵۰",
+  "FullUrl": "/p389/robghm/sh250",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh250",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نازک‌خاطر، کم آرزو می‌باشد\r\nرو سخت، شریر و فتنه‌جو می‌باشد\r\nآیینه شیشه را بود روی یکی\r\nآیینه فولاد، دورو می‌باشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نازک‌خاطر، کم آرزو می‌باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رو سخت، شریر و فتنه‌جو می‌باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آیینه شیشه را بود روی یکی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه فولاد، دورو می‌باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

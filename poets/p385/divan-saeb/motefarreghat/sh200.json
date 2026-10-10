@@ -1,0 +1,57 @@
+{
+  "Id": 26806,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh200",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh200",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وقت شد تا لشکر خط ماه تا ماهی کشد\r\nماجرای دل به زلف او به کوتاهی کشد\r\nهر کجا حرفی ازان چاک گریبان بگذرد\r\nقصه پیراهن یوسف به کوتاهی کشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت شد تا لشکر خط ماه تا ماهی کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماجرای دل به زلف او به کوتاهی کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کجا حرفی ازان چاک گریبان بگذرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قصه پیراهن یوسف به کوتاهی کشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

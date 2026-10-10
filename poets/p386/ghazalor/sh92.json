@@ -1,0 +1,117 @@
+{
+  "Id": 27500,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۹۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۹۲",
+  "FullUrl": "/p386/ghazalor/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من بلبل آن گل که گلابش همه خون است\r\nمرغابی آن بحر که آبش همه خون است\r\nخونم به گلو ریز که بیمار محبت\r\nآشوب نشانست و به آبش همه خون است\r\nدیوانه ی عشقیم که این شاهد سرمست\r\nعشقش همه زخم است و حجابش هم خون است\r\nکوثر لب خشک و جگر تشنه فرستد\r\nدر بادیه ی عشق که آبش همه خون است\r\nاز صید به خون گشته مپرهیز که صیاد\r\nآرایش فتراک و رکابش همه خون است\r\nآتش چه و سرچشمه کدامست؟ مپرسید\r\nصحرای محبت که سرابش همه خون است\r\nعرفی غم دل باز نپرسی که دل ما\r\nمستی است که در جام جوابش همه خون است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من بلبل آن گل که گلابش همه خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغابی آن بحر که آبش همه خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خونم به گلو ریز که بیمار محبت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آشوب نشانست و به آبش همه خون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دیوانه ی عشقیم که این شاهد سرمست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عشقش همه زخم است و حجابش هم خون است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کوثر لب خشک و جگر تشنه فرستد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در بادیه ی عشق که آبش همه خون است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از صید به خون گشته مپرهیز که صیاد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آرایش فتراک و رکابش همه خون است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آتش چه و سرچشمه کدامست؟ مپرسید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "صحرای محبت که سرابش همه خون است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "عرفی غم دل باز نپرسی که دل ما",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "مستی است که در جام جوابش همه خون است",
+      "CoupletIndex": 6
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 27691,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۸۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۸۳",
+  "FullUrl": "/p386/ghazalor/sh283",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh283",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق کو کز دل و دین نام و نشان گم باشد\r\nاهل دل باشم و ایمان ز میان گم باشد\r\nای خوش آن حسرت دیدار ، که گردد ز دلم\r\nصد حکایت به دهان جمع و زبان گم باشد\r\nای خوش آن بیخودی و ذوق که بر خوان وصال\r\nراه آمد شد دستم به دهان گم باشد\r\nتا ابد مشهد ما نکهت دل خواهد داشت\r\nبوی گل نیست که در فصل خزان گم باشد\r\nعرفی از روز ازل گم شدهٔ کار خودست\r\nفرصتش کو که به گام دگران گم باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق کو کز دل و دین نام و نشان گم باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اهل دل باشم و ایمان ز میان گم باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خوش آن حسرت دیدار ، که گردد ز دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد حکایت به دهان جمع و زبان گم باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای خوش آن بیخودی و ذوق که بر خوان وصال",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "راه آمد شد دستم به دهان گم باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا ابد مشهد ما نکهت دل خواهد داشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بوی گل نیست که در فصل خزان گم باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی از روز ازل گم شدهٔ کار خودست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فرصتش کو که به گام دگران گم باشد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 27051,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh445",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh445",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا صدق طلب خضر من آبله پا بود\r\nهر موجه ای از ریگ روان قبله نما بود\r\nاز کشمکش عشق رسیدیم به دولت\r\nاین اره به فرق سر ما بال هما بود\r\nسر داد به صحرا دل دیوانه ما را\r\nآن گنج که در گوشه ویرانه ما بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا صدق طلب خضر من آبله پا بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر موجه ای از ریگ روان قبله نما بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کشمکش عشق رسیدیم به دولت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این اره به فرق سر ما بال هما بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر داد به صحرا دل دیوانه ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن گنج که در گوشه ویرانه ما بود",
+      "CoupletIndex": 2
+    }
+  ]
+}

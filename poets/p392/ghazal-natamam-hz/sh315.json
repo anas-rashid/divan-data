@@ -1,0 +1,69 @@
+{
+  "Id": 34974,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۱۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۱۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh315",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh315",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به بالینم نشستی، قد به ناز افراشتی رفتی\r\nنهال حسرتی، در سینهء من کاشتی رفتی\r\nندادی فرصت آن، تا بمالم دیده بر پایت\r\nبه مشتی خاکساران، سرگرانی داشتی رفتی\r\nبه دنبالت نیارم تا نگاه حسرتی کردن\r\nدلم خون کردی و چشم ترم انباشتی رفتی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به بالینم نشستی، قد به ناز افراشتی رفتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نهال حسرتی، در سینهء من کاشتی رفتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ندادی فرصت آن، تا بمالم دیده بر پایت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به مشتی خاکساران، سرگرانی داشتی رفتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به دنبالت نیارم تا نگاه حسرتی کردن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دلم خون کردی و چشم ترم انباشتی رفتی",
+      "CoupletIndex": 2
+    }
+  ]
+}

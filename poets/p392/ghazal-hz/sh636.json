@@ -1,0 +1,93 @@
+{
+  "Id": 34063,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۳۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۳۶",
+  "FullUrl": "/p392/ghazal-hz/sh636",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh636",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش از ظهور جلوهٔ جانانه سوختیم\r\nآتش به سنگ بود که ما خانه سوختیم\r\nلب ناچشیده از نفس آتشین خویش\r\nچون داغ لاله، باده به پیمانه سوختیم\r\nدل بوده است محفل شمع طراز ما\r\nخود را عبث به کعبه وبتخانه سوختیم\r\nیک شعله برق خرمن دلها بود ولی\r\nما گرمتر ز سوزش پروانه سوختیم\r\nخوابم حزین ز مصرع وحدت به دیده سوخت\r\nما خود نفس ز گفتن افسانه سوختیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش از ظهور جلوهٔ جانانه سوختیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش به سنگ بود که ما خانه سوختیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب ناچشیده از نفس آتشین خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون داغ لاله، باده به پیمانه سوختیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل بوده است محفل شمع طراز ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خود را عبث به کعبه وبتخانه سوختیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یک شعله برق خرمن دلها بود ولی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما گرمتر ز سوزش پروانه سوختیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خوابم حزین ز مصرع وحدت به دیده سوخت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ما خود نفس ز گفتن افسانه سوختیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

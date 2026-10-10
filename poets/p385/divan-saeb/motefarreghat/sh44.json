@@ -1,0 +1,57 @@
+{
+  "Id": 26650,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل رخسار او در عالم آب\r\nزند ترخنده بر یاقوت سیراب\r\nنبرد تلخی بادام را قند\r\nنشد کم زهر چشمش از شکرخواب",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل رخسار او در عالم آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زند ترخنده بر یاقوت سیراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نبرد تلخی بادام را قند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشد کم زهر چشمش از شکرخواب",
+      "CoupletIndex": 1
+    }
+  ]
+}

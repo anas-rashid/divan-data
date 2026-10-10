@@ -1,0 +1,93 @@
+{
+  "Id": 31744,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۷۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۷۷",
+  "FullUrl": "/p390/divan/ghazal/sh777",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh777",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ نتواند گرفتن در دل ما جای زخم\r\nوقت خندیدن نمک می‌ریزد از لب‌های زخم\r\nجای یک زخم دگر چون گل بر اعضایم نماند\r\nتیغ بگشاید مگر در سینهٔ من جای زخم\r\nمی‌برند از یکدگر ذوق جراحت هر نفس\r\nکامرانی می‌کند هر زخمم از بالای زخم\r\nخون اگر گرید کسی بر حال زار من کم است\r\nداغ‌ها دارد دلم از خندهٔ بی‌جای زخم\r\nدرد ما را آشنایی نیست با درمان سلیم\r\nاز خجالت آب شد مرهم ز استغنای زخم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ نتواند گرفتن در دل ما جای زخم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وقت خندیدن نمک می‌ریزد از لب‌های زخم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جای یک زخم دگر چون گل بر اعضایم نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغ بگشاید مگر در سینهٔ من جای زخم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می‌برند از یکدگر ذوق جراحت هر نفس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کامرانی می‌کند هر زخمم از بالای زخم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خون اگر گرید کسی بر حال زار من کم است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "داغ‌ها دارد دلم از خندهٔ بی‌جای زخم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "درد ما را آشنایی نیست با درمان سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از خجالت آب شد مرهم ز استغنای زخم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36500,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۰",
+  "FullUrl": "/p393/ghete/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خوبی آفریدند سر تا به پای او را\r\nدر حیرتم که گویم وصف کجای او را\r\nاکنون که دل خریدی رد کردنش روا نیست\r\nمن با تو گفته بودم عیب وفای او را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خوبی آفریدند سر تا به پای او را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حیرتم که گویم وصف کجای او را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون که دل خریدی رد کردنش روا نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من با تو گفته بودم عیب وفای او را",
+      "CoupletIndex": 1
+    }
+  ]
+}

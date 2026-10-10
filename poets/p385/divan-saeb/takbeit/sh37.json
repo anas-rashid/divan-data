@@ -1,0 +1,45 @@
+{
+  "Id": 17568,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم دلسوزی مدار از همرهان روز سیاه\r\nکز سکندر، خضر می‌نوشد نهانی آب را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم دلسوزی مدار از همرهان روز سیاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز سکندر، خضر می‌نوشد نهانی آب را",
+      "CoupletIndex": 0
+    }
+  ]
+}

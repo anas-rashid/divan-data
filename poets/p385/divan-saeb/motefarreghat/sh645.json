@@ -1,0 +1,57 @@
+{
+  "Id": 27251,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۴۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۴۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh645",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh645",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ازان رخسار حیرت آفرین تا پرده واکردی\r\nمرا چون دیده قربانیان بی مدعا کردی\r\nبه خون آغشته نتوان دید آن لبهای نازک را\r\nوگرنه با تو می گفتم چها گفتی، چها کردی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازان رخسار حیرت آفرین تا پرده واکردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا چون دیده قربانیان بی مدعا کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خون آغشته نتوان دید آن لبهای نازک را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وگرنه با تو می گفتم چها گفتی، چها کردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

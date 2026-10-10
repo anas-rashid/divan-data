@@ -1,0 +1,57 @@
+{
+  "Id": 27176,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۷۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۷۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh570",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh570",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دستی که ریزشی نکند زیر خشت به\r\nاز کعبه ای که فیض نبخشد کنشت به\r\nهر سطر، روزنامه آشفته خاطری است\r\nگیسوی ماتمی ز خط سرنوشت به",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دستی که ریزشی نکند زیر خشت به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کعبه ای که فیض نبخشد کنشت به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سطر، روزنامه آشفته خاطری است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیسوی ماتمی ز خط سرنوشت به",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 33100,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۰۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۰۸",
+  "FullUrl": "/p391/divan/ghazal/sh1008",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1008",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکه شور صد قیامت بود با خلخال او\r\nهمچو نقش پا دلم افتاده از دنبال او\r\nاز سر خود هر که در راه طلب برداشت دست\r\nچون دو نقش پا دو عالم ماند در دنبال او",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکه شور صد قیامت بود با خلخال او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو نقش پا دلم افتاده از دنبال او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سر خود هر که در راه طلب برداشت دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون دو نقش پا دو عالم ماند در دنبال او",
+      "CoupletIndex": 1
+    }
+  ]
+}

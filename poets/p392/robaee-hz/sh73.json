@@ -1,0 +1,57 @@
+{
+  "Id": 34468,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/p392/robaee-hz/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اندوه جهان و شادمانی همه هیچ\r\nسرمایهٔ روزگارِ فانی همه هیچ\r\nیاد این سخن از تجربه کاران دارم\r\nغیر از غم یار جاودانی همه هیچ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندوه جهان و شادمانی همه هیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمایهٔ روزگارِ فانی همه هیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یاد این سخن از تجربه کاران دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر از غم یار جاودانی همه هیچ",
+      "CoupletIndex": 1
+    }
+  ]
+}

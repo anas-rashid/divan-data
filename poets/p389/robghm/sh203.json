@@ -1,0 +1,57 @@
+{
+  "Id": 30460,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۰۳",
+  "FullUrl": "/p389/robghm/sh203",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh203",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که فلک به دوستی بردارد\r\nجا در همه دل، چو مهر دلبر دارد\r\nسرور شود آن کس که گزینندش خلق\r\nآری گل چیده، جای بر سر دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که فلک به دوستی بردارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جا در همه دل، چو مهر دلبر دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرور شود آن کس که گزینندش خلق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری گل چیده، جای بر سر دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

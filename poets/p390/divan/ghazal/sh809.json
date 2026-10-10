@@ -1,0 +1,93 @@
+{
+  "Id": 31776,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۰۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۰۹",
+  "FullUrl": "/p390/divan/ghazal/sh809",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh809",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دیده چند ز نقش تو گل بر آب زنم\r\nچو می به یاد لبت موج اضطراب زنم\r\nبه سایه اش نروم، ابر اگر هما گردد\r\nبه یاد روی تو ساغر در آفتاب زنم\r\nفریب خورده ی طوفان شوقم و خواهم\r\nسفینه ای که ازو موج انتخاب زنم!\r\nخرابه بسته چو گردد، نشان معموری ست\r\nعبث چرا به در دیده قفل خواب زنم\r\nسلیم بس که چو گل پاکدامن آمده ام\r\nچو موج، خندهٔ تردامنی بر آب زنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دیده چند ز نقش تو گل بر آب زنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو می به یاد لبت موج اضطراب زنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به سایه اش نروم، ابر اگر هما گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به یاد روی تو ساغر در آفتاب زنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فریب خورده ی طوفان شوقم و خواهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سفینه ای که ازو موج انتخاب زنم!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خرابه بسته چو گردد، نشان معموری ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عبث چرا به در دیده قفل خواب زنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم بس که چو گل پاکدامن آمده ام",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو موج، خندهٔ تردامنی بر آب زنم",
+      "CoupletIndex": 4
+    }
+  ]
+}

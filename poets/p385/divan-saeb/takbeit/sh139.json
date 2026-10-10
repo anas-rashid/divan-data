@@ -1,0 +1,45 @@
+{
+  "Id": 17670,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh139",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh139",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نسیم گل پریشان گردد اوراق حواس\r\nخلوتی چون غنچهٔ تصویر می‌باید مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نسیم گل پریشان گردد اوراق حواس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خلوتی چون غنچهٔ تصویر می‌باید مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

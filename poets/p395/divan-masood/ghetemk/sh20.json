@@ -1,0 +1,81 @@
+{
+  "Id": 38247,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۲۰ - مدح ثقة الملک طاهر",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۲۰ - مدح ثقة الملک طاهر",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ثقت الملک تا به صدر نشست\r\nدهر پیشش میان به طوع ببست\r\nتا همایون دوات پیش نهاد\r\nالفش را فلک به تا پیوست\r\nدرد دشمن شدست و داروی دوست\r\nتاش بسپرد آن مبارک دست\r\nبنگر اکنون به تازگی عجبا\r\nکاندر آن لفظ درد و دارویست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ثقت الملک تا به صدر نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دهر پیشش میان به طوع ببست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا همایون دوات پیش نهاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الفش را فلک به تا پیوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درد دشمن شدست و داروی دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تاش بسپرد آن مبارک دست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بنگر اکنون به تازگی عجبا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاندر آن لفظ درد و دارویست",
+      "CoupletIndex": 3
+    }
+  ]
+}

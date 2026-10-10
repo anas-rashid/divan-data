@@ -1,0 +1,93 @@
+{
+  "Id": 29958,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۱۰",
+  "FullUrl": "/p389/ghazalgm/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باده گر فردا خورم، عالم کنون پر می‌شود\r\nتا شده جامم تهی، صد دل ز خون پر می‌شود\r\nپیش ازان کز بیخودی بر تن درم پیراهنی\r\nعالم از رسوایی‌ام بنگر که چون پر می‌شود\r\nکی به گل‌چیدن چو بیدردان به گلشن می‌روم؟\r\nتا مرا دامن ز اشک لاله‌گون پر می‌شود\r\nساغرم بر کف تهی و سر پر از سودای خام\r\nحیرتی دارم که چون ظرف نگون پر می‌شود؟\r\nچون صباح عید، رندان شیشه‌ها پر مِی کنند\r\nدیده ما هم ز خون بهر شگون پر می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باده گر فردا خورم، عالم کنون پر می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا شده جامم تهی، صد دل ز خون پر می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش ازان کز بیخودی بر تن درم پیراهنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالم از رسوایی‌ام بنگر که چون پر می‌شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کی به گل‌چیدن چو بیدردان به گلشن می‌روم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا مرا دامن ز اشک لاله‌گون پر می‌شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ساغرم بر کف تهی و سر پر از سودای خام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حیرتی دارم که چون ظرف نگون پر می‌شود؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون صباح عید، رندان شیشه‌ها پر مِی کنند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دیده ما هم ز خون بهر شگون پر می‌شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18119,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۸۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۸۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh588",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh588",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آه کز کودک مزاجیهای ابنای زمان\r\nابجد ایام طفلی را ز سر باید گرفت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه کز کودک مزاجیهای ابنای زمان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابجد ایام طفلی را ز سر باید گرفت",
+      "CoupletIndex": 0
+    }
+  ]
+}

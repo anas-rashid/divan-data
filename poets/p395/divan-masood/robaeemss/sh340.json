@@ -1,0 +1,57 @@
+{
+  "Id": 37854,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۴۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۴۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh340",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh340",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سلطان ملک اقبال عنان داد به تو\r\nدرهای نشاط شاه بگشاد به تو\r\nگشته ست زمانه نیک دلشاد به تو\r\nتا حشر زمانه همچنین باد به تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلطان ملک اقبال عنان داد به تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درهای نشاط شاه بگشاد به تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گشته ست زمانه نیک دلشاد به تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا حشر زمانه همچنین باد به تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

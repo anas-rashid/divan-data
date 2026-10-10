@@ -1,0 +1,93 @@
+{
+  "Id": 38778,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۱",
+  "FullUrl": "/p397/ghazal/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حب دنیا راس آمد کل خطاء\r\nتا نه پنداری که این باشد عطاء\r\nکی عطا باشد که باشد بی بقا\r\nبی بقا را تا نگوئی خود عطاء\r\nبا قلیل الفهم گر گوید کسی\r\nاین عطا هرگز مگو، باشد خطاء\r\nبسته دل با وی نشاید مطلقا\r\nبستگی دل با خطا باشد خطاء\r\nیار با وی دوستی هرگز مکن\r\nلا تقل هذا عطا الا خطاء",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حب دنیا راس آمد کل خطاء",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا نه پنداری که این باشد عطاء",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی عطا باشد که باشد بی بقا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی بقا را تا نگوئی خود عطاء",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با قلیل الفهم گر گوید کسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این عطا هرگز مگو، باشد خطاء",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بسته دل با وی نشاید مطلقا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بستگی دل با خطا باشد خطاء",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یار با وی دوستی هرگز مکن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لا تقل هذا عطا الا خطاء",
+      "CoupletIndex": 4
+    }
+  ]
+}

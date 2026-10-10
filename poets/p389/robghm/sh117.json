@@ -1,0 +1,57 @@
+{
+  "Id": 30374,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۱۷",
+  "FullUrl": "/p389/robghm/sh117",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh117",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز درد، دلم هیچ نیندوخته است\r\nاز داغ جگر چراغم افروخته است\r\nاز بس که پی دوست نمودم تک و دو\r\nچون لاله مرا نفس به دل سوخته است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز درد، دلم هیچ نیندوخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از داغ جگر چراغم افروخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که پی دوست نمودم تک و دو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون لاله مرا نفس به دل سوخته است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 29628,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/p388/divan/robaee/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی چیزی احتیاج از کوی منست\r\nلب تشنگی نیاز از جوی منست\r\nنازکترم از مزاج گل ساخته عشق\r\nبیگانگی آفریده خوی منست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی چیزی احتیاج از کوی منست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب تشنگی نیاز از جوی منست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نازکترم از مزاج گل ساخته عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیگانگی آفریده خوی منست",
+      "CoupletIndex": 1
+    }
+  ]
+}

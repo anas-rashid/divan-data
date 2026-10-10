@@ -1,0 +1,57 @@
+{
+  "Id": 33295,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p391/divan/robaee/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "انسان یا ابله است یا بی باکست\r\nکاندر طلب دنیی دون چالاک است\r\nمنعم که چو گردباد بالد بر خویش\r\nاسباب بزرگیش خس و خاشاک است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انسان یا ابله است یا بی باکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاندر طلب دنیی دون چالاک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منعم که چو گردباد بالد بر خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسباب بزرگیش خس و خاشاک است",
+      "CoupletIndex": 1
+    }
+  ]
+}

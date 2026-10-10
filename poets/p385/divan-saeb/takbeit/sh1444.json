@@ -1,0 +1,45 @@
+{
+  "Id": 18975,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۴۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۴۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1444",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1444",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگردد چون کف افسوس هر برگ نهال من؟\r\nکه چون بادام آوردند در باغم نظربسته",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگردد چون کف افسوس هر برگ نهال من؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چون بادام آوردند در باغم نظربسته",
+      "CoupletIndex": 0
+    }
+  ]
+}

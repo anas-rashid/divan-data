@@ -1,0 +1,93 @@
+{
+  "Id": 38780,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۳",
+  "FullUrl": "/p397/ghazal/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایا والی معلی کن وفاداران خود ها را\r\nتوئی مولی مزکی کن جفا کاران خود ها را\r\nبقرب خویش را هم ده، دل دیوانه ء مارا\r\nمکن بیدل بمهجوری تو غمخواران خود ها را\r\nطبیبان جمله می هستند دوا هرگز نمی دانند\r\nنظر رحمت مداوا کن به بیماران خود ها را\r\nبسی گریم ز شوق تو، بسی نالم ز درد تو\r\nنظر فضلی فراوان کن، به مشتاقان خود ها را\r\nاگر این یار مشتاق است، گدای شب که بیدارست\r\nنباید سخت بی‌رحمی به درویشان خود ها را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایا والی معلی کن وفاداران خود ها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توئی مولی مزکی کن جفا کاران خود ها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بقرب خویش را هم ده، دل دیوانه ء مارا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مکن بیدل بمهجوری تو غمخواران خود ها را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "طبیبان جمله می هستند دوا هرگز نمی دانند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نظر رحمت مداوا کن به بیماران خود ها را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بسی گریم ز شوق تو، بسی نالم ز درد تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نظر فضلی فراوان کن، به مشتاقان خود ها را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر این یار مشتاق است، گدای شب که بیدارست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نباید سخت بی‌رحمی به درویشان خود ها را",
+      "CoupletIndex": 4
+    }
+  ]
+}

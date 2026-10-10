@@ -1,0 +1,57 @@
+{
+  "Id": 26914,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به لب از شوق صدره بیش جان نامه می آید\r\nکه حرفی از دهانش بر زبان خامه می آید\r\nنمی دانم به پایان چون برم وصف میانش را\r\nکه در هر حرف، مویی بر زبان خامه می آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به لب از شوق صدره بیش جان نامه می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که حرفی از دهانش بر زبان خامه می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی دانم به پایان چون برم وصف میانش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در هر حرف، مویی بر زبان خامه می آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 20986,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۹۱۳",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۹۱۳",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1913",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1913",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاخی که چار فصل پر از میوه و گل است\r\nدست ز کار رفته اهل توکل است\r\nچون عاشقی کند به دل جمع عندلیب؟\r\nدر گلشنی که غنچه پریشانتر از گل است\r\nنقش مراد دیده جوهرشناس ماست\r\nچین جبین که جوهر تیغ تغافل است\r\nزان خال عنبرین نتوان سرسری گذشت\r\nهر نقطه زین صحیفه محل تأمل است\r\nصائب درین زمانه نمکدان عشق را\r\nشوری که مانده است همین شور بلبل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاخی که چار فصل پر از میوه و گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست ز کار رفته اهل توکل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عاشقی کند به دل جمع عندلیب؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گلشنی که غنچه پریشانتر از گل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نقش مراد دیده جوهرشناس ماست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چین جبین که جوهر تیغ تغافل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زان خال عنبرین نتوان سرسری گذشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر نقطه زین صحیفه محل تأمل است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب درین زمانه نمکدان عشق را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شوری که مانده است همین شور بلبل است",
+      "CoupletIndex": 4
+    }
+  ]
+}

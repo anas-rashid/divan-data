@@ -1,0 +1,57 @@
+{
+  "Id": 28158,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۱۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱۵",
+  "FullUrl": "/p386/robaeeor/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که ز درد رسته ای، شرمت باد\r\nفارغ ز بلا نشسته ای، شرمت باد\r\nتو سنگ دلی و تهمت بی اثری\r\nبر جلوهٔ حسن بسته ای، شرمت باد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که ز درد رسته ای، شرمت باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فارغ ز بلا نشسته ای، شرمت باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو سنگ دلی و تهمت بی اثری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر جلوهٔ حسن بسته ای، شرمت باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37271,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/p393/robaee/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هجر آمد و جسم و جان غمناکم خورد\r\nاین آدم خواره سخت بی‌باکم خورد\r\nبر خاک نشانده آه! این درد مرا\r\nچندان‌که به کنج بی‌کسی خاکم خورد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هجر آمد و جسم و جان غمناکم خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این آدم خواره سخت بی‌باکم خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خاک نشانده آه! این درد مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان‌که به کنج بی‌کسی خاکم خورد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26920,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۱۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۱۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh314",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh314",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلف او کی به خیال من غمناک افتد؟\r\nمگر از شانه به فکر دل صد چاک افتد\r\nپرتو حسن غریب تو ازان شوخترست\r\nکه ازو عکس بر آیینه ادراک افتد\r\nرشته گوهر سیراب شود مژگانش\r\nهر که را چشم بر آن روی عرقناک افتد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلف او کی به خیال من غمناک افتد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگر از شانه به فکر دل صد چاک افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرتو حسن غریب تو ازان شوخترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ازو عکس بر آیینه ادراک افتد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رشته گوهر سیراب شود مژگانش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر که را چشم بر آن روی عرقناک افتد",
+      "CoupletIndex": 2
+    }
+  ]
+}

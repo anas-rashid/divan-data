@@ -1,0 +1,93 @@
+{
+  "Id": 33862,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۳۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۳۵",
+  "FullUrl": "/p392/ghazal-hz/sh435",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh435",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خدا در ماتم آسودگی شادم نگه دارد\r\nز قید هر دو عالمْ عشقْ آزادم نگه دارد\r\nز تاثیر محبت در قفس چشم اینقدَر دارم\r\nکه از درد فراموشی صیّادم نگه دارد\r\nبه اندک التفاتی زآن تغافل‌پیشه دلشادم\r\nاگر می‌افکند از دیده، در یادم نگه دارد\r\nغبار، آشوب تعمیر است، دست رفته از کارم\r\nجنون، پیر خرابات است، آبادم نگه دارد\r\nحزین آن کودک شوریده‌حالم این دبستان را\r\nکه با زنجیر هم نتواند استادم نگه دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خدا در ماتم آسودگی شادم نگه دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز قید هر دو عالمْ عشقْ آزادم نگه دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز تاثیر محبت در قفس چشم اینقدَر دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از درد فراموشی صیّادم نگه دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به اندک التفاتی زآن تغافل‌پیشه دلشادم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر می‌افکند از دیده، در یادم نگه دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غبار، آشوب تعمیر است، دست رفته از کارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جنون، پیر خرابات است، آبادم نگه دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین آن کودک شوریده‌حالم این دبستان را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که با زنجیر هم نتواند استادم نگه دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 32799,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۰۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۰۷",
+  "FullUrl": "/p391/divan/ghazal/sh707",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh707",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آشنا با عشق اگر شد عقدهٔ دل وا شود\r\nقطره دریا می شود چون واصل دریا شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آشنا با عشق اگر شد عقدهٔ دل وا شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطره دریا می شود چون واصل دریا شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

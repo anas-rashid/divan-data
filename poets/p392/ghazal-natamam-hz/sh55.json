@@ -1,0 +1,54 @@
+{
+  "Id": 34714,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز دوری خاطرم تنگ است و نتوانم رسید آنجا\r\nگشاد دل در آن ابروست، قفل اینجا، کلید آنجا\r\nرهم تا کوی او دور و ندارم طاقت پایی\r\nرهی زافتادگی، چون جاده می باید کشید آنجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز دوری خاطرم تنگ است و نتوانم رسید آنجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشاد دل در آن ابروست، قفل اینجا، کلید آنجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رهم تا کوی او دور و ندارم طاقت پایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رهی زافتادگی، چون جاده می باید کشید آنجا",
+      "CoupletIndex": 1
+    }
+  ]
+}

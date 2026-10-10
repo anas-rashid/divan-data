@@ -1,0 +1,45 @@
+{
+  "Id": 17563,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نسیم صبح از تاراج گلزار که می‌آید؟\r\nکه مرغان کاسهٔ دریوزه کردند آشیانها را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نسیم صبح از تاراج گلزار که می‌آید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مرغان کاسهٔ دریوزه کردند آشیانها را",
+      "CoupletIndex": 0
+    }
+  ]
+}

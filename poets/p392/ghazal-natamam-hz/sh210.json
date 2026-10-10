@@ -1,0 +1,57 @@
+{
+  "Id": 34869,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۱۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز هجران کار دلتنگی به سامان دیر می آید\r\nکه دست ناتوانم، تا گریبان دیر می آید\r\nبه رنگ شمع می سازم، به آه سینه سوز خود\r\nبه گوشم نالهٔ مرغ سحر خوان دیر می آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز هجران کار دلتنگی به سامان دیر می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دست ناتوانم، تا گریبان دیر می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رنگ شمع می سازم، به آه سینه سوز خود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به گوشم نالهٔ مرغ سحر خوان دیر می آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

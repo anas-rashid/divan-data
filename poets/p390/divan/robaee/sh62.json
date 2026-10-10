@@ -1,0 +1,57 @@
+{
+  "Id": 32060,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/p390/divan/robaee/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا شد مه من سرو گلستان طبش\r\nاز لاله و گل پر است دامان طبش\r\nروزی که خراب می کنی عالم را\r\nای گریه ی من، جان تو و جان طبش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا شد مه من سرو گلستان طبش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از لاله و گل پر است دامان طبش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزی که خراب می کنی عالم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای گریه ی من، جان تو و جان طبش",
+      "CoupletIndex": 1
+    }
+  ]
+}

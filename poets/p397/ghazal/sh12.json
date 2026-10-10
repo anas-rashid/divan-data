@@ -1,0 +1,69 @@
+{
+  "Id": 38789,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۱۲",
+  "FullUrl": "/p397/ghazal/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش جانان گر بمیرم تا سزاواری مراست\r\nزانکه شیوه دوستی جز دوستان مردن خطاست\r\nیار را باید که خون ریزد به پیش دوستان\r\nتابزیر چشم بیند یار کین یار مراست\r\nغیر هرگز نیست باهُو در جهان جمله که اوست\r\nاین حقیقت راس را جز دوستان فهم کراست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش جانان گر بمیرم تا سزاواری مراست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زانکه شیوه دوستی جز دوستان مردن خطاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یار را باید که خون ریزد به پیش دوستان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تابزیر چشم بیند یار کین یار مراست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غیر هرگز نیست باهُو در جهان جمله که اوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این حقیقت راس را جز دوستان فهم کراست",
+      "CoupletIndex": 2
+    }
+  ]
+}

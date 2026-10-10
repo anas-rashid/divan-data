@@ -1,0 +1,54 @@
+{
+  "Id": 32999,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۰۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۰۷",
+  "FullUrl": "/p391/divan/ghazal/sh907",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh907",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بی‌تابی شود هردم فزون‌تر آتش شوقم\r\nتپیدن‌های دل دامن زند بر آتش شوقم\r\nکف خاکستر گردون غبار نیستی گردد\r\nفلک از پا در آید چون کشد سر آتش شوقم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بی‌تابی شود هردم فزون‌تر آتش شوقم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تپیدن‌های دل دامن زند بر آتش شوقم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کف خاکستر گردون غبار نیستی گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فلک از پا در آید چون کشد سر آتش شوقم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26166,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به چشم عاقبت بین هر که خود را دید در دنیا\r\nبه میزان قیامت خویش را سنجید در دنیا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به چشم عاقبت بین هر که خود را دید در دنیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به میزان قیامت خویش را سنجید در دنیا",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27112,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۰۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۰۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh506",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh506",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون به دریا روی با این دیده پر نم کنیم\r\nحلقه گرداب ها را حلقه ماتم کنیم\r\nپیش ازان کز یکدگر ریزیم چون قصر حباب\r\nخیز تا چون موجه دریا وداع هم کنیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون به دریا روی با این دیده پر نم کنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حلقه گرداب ها را حلقه ماتم کنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش ازان کز یکدگر ریزیم چون قصر حباب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خیز تا چون موجه دریا وداع هم کنیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36406,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۵",
+  "FullUrl": "/p393/natmam/sh255",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh255",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد ایامی‌ که با آن دل‌شکن می‌ساختم\r\nاز زبان او برای خود سخن می‌ساختم\r\nاین زمان در خانهٔ یوسف مرا آرام نیست\r\nپیش ازین ورنه به بوی پیرهن می‌ساختم\r\nفرصت تعمیر گر می‌داد سیل گریه‌ام\r\nدر فراق یوسف بیت‌الحزن می‌ساختم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد ایامی‌ که با آن دل‌شکن می‌ساختم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از زبان او برای خود سخن می‌ساختم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این زمان در خانهٔ یوسف مرا آرام نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیش ازین ورنه به بوی پیرهن می‌ساختم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فرصت تعمیر گر می‌داد سیل گریه‌ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در فراق یوسف بیت‌الحزن می‌ساختم",
+      "CoupletIndex": 2
+    }
+  ]
+}

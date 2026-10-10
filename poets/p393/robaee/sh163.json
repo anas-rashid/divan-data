@@ -1,0 +1,54 @@
+{
+  "Id": 37335,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۶۳",
+  "FullUrl": "/p393/robaee/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواهم که به‌جز خداپرستی نکنم\r\nیادی از ما سواپرستی نکنم\r\nلیکن بوی تو از صبا می‌شنوم\r\nخود گو که چه‌سان هواپرستی نکنم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهم که به‌جز خداپرستی نکنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یادی از ما سواپرستی نکنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن بوی تو از صبا می‌شنوم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود گو که چه‌سان هواپرستی نکنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

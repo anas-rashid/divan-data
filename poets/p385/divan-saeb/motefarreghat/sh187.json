@@ -1,0 +1,81 @@
+{
+  "Id": 26793,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۸۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۸۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ناله بلبل به بال شیون ما می پرد\r\nچشم شبنم در هوای گلشن ما می پرد\r\nآفتابی هست در طالع شبستان مرا\r\nیک دو روزی شد که چشم روزن ما می پرد\r\nاز فغان ما گلستانت بلند آوازه شد\r\nشعله حسنت به بال دامن ما می پرد\r\nحاصل ما تنگدستان را به چشم کم مبین\r\nچشم برق از اشتیاق خرمن ما می پرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناله بلبل به بال شیون ما می پرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم شبنم در هوای گلشن ما می پرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آفتابی هست در طالع شبستان مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک دو روزی شد که چشم روزن ما می پرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از فغان ما گلستانت بلند آوازه شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شعله حسنت به بال دامن ما می پرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حاصل ما تنگدستان را به چشم کم مبین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چشم برق از اشتیاق خرمن ما می پرد",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37572,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن شیر که او به صید جز شیر نکشت\r\nگشت از پس آن خوابگهش چون خرخشت\r\nمسعود ملک نخست یک زخم درشت\r\nزد بر مغزش چنانکه بگذشت از پشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن شیر که او به صید جز شیر نکشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشت از پس آن خوابگهش چون خرخشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مسعود ملک نخست یک زخم درشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زد بر مغزش چنانکه بگذشت از پشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

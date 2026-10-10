@@ -1,0 +1,45 @@
+{
+  "Id": 19065,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۳۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۳۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1534",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1534",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خاطر از وضع مکرر زود در هم می‌شود\r\nیک دو ساغر نوش کن تا عالم دیگری شوی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خاطر از وضع مکرر زود در هم می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دو ساغر نوش کن تا عالم دیگری شوی",
+      "CoupletIndex": 0
+    }
+  ]
+}

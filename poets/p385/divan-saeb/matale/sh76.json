@@ -1,0 +1,45 @@
+{
+  "Id": 26164,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شود زیر و زبر مجموعه خاطر ز محفل‌ها\r\nز جمعیت پریشان می‌شود سی پاره دل‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شود زیر و زبر مجموعه خاطر ز محفل‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز جمعیت پریشان می‌شود سی پاره دل‌ها",
+      "CoupletIndex": 0
+    }
+  ]
+}

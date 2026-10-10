@@ -1,0 +1,57 @@
+{
+  "Id": 30547,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۹۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۹۰",
+  "FullUrl": "/p389/robghm/sh290",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh290",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این خلق مجازی نه ز اهل هوشند\r\nگر اهل ردا، وگر مرقّع‌پوشند\r\nآمیزششان به هم ندارد مزه‌ای\r\nبا هم چو شراب بی‌نمک می‌جوشند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این خلق مجازی نه ز اهل هوشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر اهل ردا، وگر مرقّع‌پوشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمیزششان به هم ندارد مزه‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با هم چو شراب بی‌نمک می‌جوشند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 26144,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بدگویان امان خواهی، ز غیبت پاک کن لب را\r\nبه از ترک گزیدن نیست افسون مار و عقرب را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بدگویان امان خواهی، ز غیبت پاک کن لب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به از ترک گزیدن نیست افسون مار و عقرب را",
+      "CoupletIndex": 0
+    }
+  ]
+}

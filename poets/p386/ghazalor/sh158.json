@@ -1,0 +1,81 @@
+{
+  "Id": 27566,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۵۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۵۸",
+  "FullUrl": "/p386/ghazalor/sh158",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh158",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل طمع مدار که بی غم گذارمت\r\nوین هم قبول کن که به جان دوست دارمت\r\nتاراج عافیت نبود کار دوستان\r\nوبن هم ز دوستی است که دشمن شمارمت\r\nصد ره شکسته ای دلم از جور، هیچ گاه\r\nنگشوده ای نقاب که معذور دارمت\r\nعرفی ز آه و ناله خموشی ، دگر بیا\r\nتا زخم های سینه به ناخن بکارمت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل طمع مدار که بی غم گذارمت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین هم قبول کن که به جان دوست دارمت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاراج عافیت نبود کار دوستان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وبن هم ز دوستی است که دشمن شمارمت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صد ره شکسته ای دلم از جور، هیچ گاه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نگشوده ای نقاب که معذور دارمت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عرفی ز آه و ناله خموشی ، دگر بیا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا زخم های سینه به ناخن بکارمت",
+      "CoupletIndex": 3
+    }
+  ]
+}

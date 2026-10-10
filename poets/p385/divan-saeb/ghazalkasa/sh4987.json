@@ -1,0 +1,81 @@
+{
+  "Id": 24060,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۹۸۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۹۸۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4987",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4987",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرو گلزار بهشت است قد دلجویش\r\nلاله باغ تجلی است رخ نیکویش\r\nمن که از رشک دل روشن خود می سوزم\r\nچون ببینم که شود آینه همزانویش ؟\r\nبخیه راز نهان جوهر شمشیر شده است\r\nبس که شد آینه پردا(ز د)لم ازبویش\r\nخانه اش گر شود از موج حوادث ویران\r\nصائب آن نیست که لنگر بکند ازکویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو گلزار بهشت است قد دلجویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله باغ تجلی است رخ نیکویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من که از رشک دل روشن خود می سوزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ببینم که شود آینه همزانویش ؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بخیه راز نهان جوهر شمشیر شده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بس که شد آینه پردا(ز د)لم ازبویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خانه اش گر شود از موج حوادث ویران",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صائب آن نیست که لنگر بکند ازکویش",
+      "CoupletIndex": 3
+    }
+  ]
+}

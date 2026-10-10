@@ -1,0 +1,93 @@
+{
+  "Id": 20370,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۲۹۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۲۹۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزی دل جز شکست از یار شوخ و شنگ نیست\r\nقسمت دیوانه از طفلان به غیر از سنگ نیست\r\nتا نفس چون گردبادم هست، جولان می زنم\r\nدشت پیمای جنون، پا بسته فرسنگ نیست\r\nچند حرف سخت در کار دل نازک کنی؟\r\nآخر ای بی رحم، جان شیشه ای از سنگ نیست\r\nخارخار آشیان را گر ز دل بیرون کنند\r\nچاردیوار قفس بر عندلیبان تنگ نیست\r\nصائب ار ذوق تماشا گرد دل می گرددت\r\nهیچ دامی همچو دام طره شبرنگ نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی دل جز شکست از یار شوخ و شنگ نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قسمت دیوانه از طفلان به غیر از سنگ نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نفس چون گردبادم هست، جولان می زنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشت پیمای جنون، پا بسته فرسنگ نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چند حرف سخت در کار دل نازک کنی؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آخر ای بی رحم، جان شیشه ای از سنگ نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خارخار آشیان را گر ز دل بیرون کنند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چاردیوار قفس بر عندلیبان تنگ نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب ار ذوق تماشا گرد دل می گرددت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هیچ دامی همچو دام طره شبرنگ نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

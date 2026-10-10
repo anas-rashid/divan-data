@@ -1,0 +1,57 @@
+{
+  "Id": 30273,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/p389/robghm/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باید به مدارا طلبید آن مه را\r\nسرعت نبود هنر دل آگه را\r\nزنهار چو انگشت به هنگام شمار\r\nافتان خیزان به سر رسان این ره را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باید به مدارا طلبید آن مه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرعت نبود هنر دل آگه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار چو انگشت به هنگام شمار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتان خیزان به سر رسان این ره را",
+      "CoupletIndex": 1
+    }
+  ]
+}

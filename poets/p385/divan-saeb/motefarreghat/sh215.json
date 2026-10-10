@@ -1,0 +1,57 @@
+{
+  "Id": 26821,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نغمه و گفتار خوش ارواح را بال و پرند\r\nگر به صورت رهزنند اما به معنی رهبرند\r\nگل ز شبنم، شبنم از گل یافت چندین آب و تاب\r\nساده لوحان جهان آیینه یکدیگرند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نغمه و گفتار خوش ارواح را بال و پرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر به صورت رهزنند اما به معنی رهبرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل ز شبنم، شبنم از گل یافت چندین آب و تاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساده لوحان جهان آیینه یکدیگرند",
+      "CoupletIndex": 1
+    }
+  ]
+}

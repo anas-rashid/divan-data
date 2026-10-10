@@ -1,0 +1,57 @@
+{
+  "Id": 30873,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۶",
+  "FullUrl": "/p389/robghm/sh616",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh616",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مردم حال، اهل حال است یکی\r\nزین قوم، نشان ده کمال است یکی\r\nهرچند که پنجه را بود پنج انگشت\r\nمخصوص اشارت به هلال است یکی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مردم حال، اهل حال است یکی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین قوم، نشان ده کمال است یکی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که پنجه را بود پنج انگشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مخصوص اشارت به هلال است یکی",
+      "CoupletIndex": 1
+    }
+  ]
+}

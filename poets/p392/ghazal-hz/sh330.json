@@ -1,0 +1,93 @@
+{
+  "Id": 33757,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۳۰",
+  "FullUrl": "/p392/ghazal-hz/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خجل در برم، عقل نادان نشیند\r\nچو زاهد که در بزم مستان نشیند\r\nنشیند خیال تو در گوشهٔ دل\r\nچو یوسف که در کنج زندان نشیند\r\nهمین بس که در فکر شبهای مجنون\r\nسر زلف لیلی، پریشان نشیند\r\nدل آزردهٔ شام هجر تو چون شمع\r\nبه هر جا نشیند، گدازان نشیند\r\nحزین ، آنکه سامان وصل تو را سوخت\r\nبه خاکستر شام هجران نشیند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خجل در برم، عقل نادان نشیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو زاهد که در بزم مستان نشیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشیند خیال تو در گوشهٔ دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو یوسف که در کنج زندان نشیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همین بس که در فکر شبهای مجنون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سر زلف لیلی، پریشان نشیند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل آزردهٔ شام هجر تو چون شمع",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به هر جا نشیند، گدازان نشیند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین ، آنکه سامان وصل تو را سوخت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به خاکستر شام هجران نشیند",
+      "CoupletIndex": 4
+    }
+  ]
+}

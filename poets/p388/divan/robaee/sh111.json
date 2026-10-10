@@ -1,0 +1,57 @@
+{
+  "Id": 29718,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p388/divan/robaee/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پر می بینم که بینوا می آیم\r\nبیگانه ز خویش و آشنا می آیم\r\nای کاش چو رفتنم ندانم به کجاست\r\nمی دانستم که از کجا می آیم؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پر می بینم که بینوا می آیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه ز خویش و آشنا می آیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش چو رفتنم ندانم به کجاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دانستم که از کجا می آیم؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

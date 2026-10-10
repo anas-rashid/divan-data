@@ -1,0 +1,57 @@
+{
+  "Id": 34580,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/p392/robaee-hz/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پختیم به کار خویش سودا، من و دل\r\nشرمنده شدیم از تمنا من و دل\r\nدر عشق تو مانده ایم بی یار و دیار\r\nتنها من و دل، خراب و رسوا من و دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پختیم به کار خویش سودا، من و دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرمنده شدیم از تمنا من و دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق تو مانده ایم بی یار و دیار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنها من و دل، خراب و رسوا من و دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

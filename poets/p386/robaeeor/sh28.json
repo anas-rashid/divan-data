@@ -1,0 +1,57 @@
+{
+  "Id": 28071,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۲۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲۸",
+  "FullUrl": "/p386/robaeeor/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین سردی دی که آب و آتش یخ بست\r\nدر بستن یخ جوهر الماس شکست\r\nزان گونه مسامات هوا بسته که تیر\r\nیابد ز کمان گشاد و نتواند جست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین سردی دی که آب و آتش یخ بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بستن یخ جوهر الماس شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان گونه مسامات هوا بسته که تیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یابد ز کمان گشاد و نتواند جست",
+      "CoupletIndex": 1
+    }
+  ]
+}

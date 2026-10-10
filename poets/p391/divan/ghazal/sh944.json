@@ -1,0 +1,93 @@
+{
+  "Id": 33036,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۴۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۴۴",
+  "FullUrl": "/p391/divan/ghazal/sh944",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh944",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو و نامهربانی و به قصد ما میان بستن\r\nمن و از جان و دل، دل بر خدنگ جانستان بستن\r\nدر آتش ریشه اش مانند نخل شعله جان دارد\r\nسمندر را سزد بر سرو آهم آشیان بستن\r\nپی قتلم که عمری شد هلاک آن بر و دوشم\r\nبه رنگ غنچه رنگین است دامن بر میان بستن\r\nتو ترک جور کمتر کن که پیمان محبت را\r\nنمک دارد گسستن از تو و از بیدلان بستن\r\nکجا جویا و کی آسودگی ای مدعی رحمی\r\nچنین رسوا نشاید تهمتی بر عاشقان بستن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو و نامهربانی و به قصد ما میان بستن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من و از جان و دل، دل بر خدنگ جانستان بستن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آتش ریشه اش مانند نخل شعله جان دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سمندر را سزد بر سرو آهم آشیان بستن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پی قتلم که عمری شد هلاک آن بر و دوشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به رنگ غنچه رنگین است دامن بر میان بستن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تو ترک جور کمتر کن که پیمان محبت را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نمک دارد گسستن از تو و از بیدلان بستن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کجا جویا و کی آسودگی ای مدعی رحمی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چنین رسوا نشاید تهمتی بر عاشقان بستن",
+      "CoupletIndex": 4
+    }
+  ]
+}

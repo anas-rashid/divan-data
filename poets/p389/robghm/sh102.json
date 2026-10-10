@@ -1,0 +1,57 @@
+{
+  "Id": 30359,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۲",
+  "FullUrl": "/p389/robghm/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای تازه جوان، کمان تندت به کف است\r\nتیرت گذرا یک سر تیر از هدف است\r\nپر گرم متاز رخش، دوری دوری‌ست\r\nگر این طرف منزل، اگر آن طرف است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تازه جوان، کمان تندت به کف است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیرت گذرا یک سر تیر از هدف است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر گرم متاز رخش، دوری دوری‌ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر این طرف منزل، اگر آن طرف است",
+      "CoupletIndex": 1
+    }
+  ]
+}

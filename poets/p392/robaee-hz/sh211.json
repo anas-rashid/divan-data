@@ -1,0 +1,57 @@
+{
+  "Id": 34606,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۱۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۱۱",
+  "FullUrl": "/p392/robaee-hz/sh211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وبرانی عشق، باشد آباد شدن\r\nاز قید هزار منت آزاد شدن\r\nناخن به خراش سینه داریم حزین\r\nنبود هنری، امّت فرهاد شدن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وبرانی عشق، باشد آباد شدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از قید هزار منت آزاد شدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناخن به خراش سینه داریم حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبود هنری، امّت فرهاد شدن",
+      "CoupletIndex": 1
+    }
+  ]
+}

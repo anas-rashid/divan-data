@@ -1,0 +1,57 @@
+{
+  "Id": 26780,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۷۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۷۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh174",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh174",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در گلشن وجود ره بوالفضول نیست\r\nبرگ خزان رسیده او بی اصول نیست\r\nداغ است عشق از دل بی آرزوی من\r\nخون می خورد کریم چو مهمان فضول نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در گلشن وجود ره بوالفضول نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگ خزان رسیده او بی اصول نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داغ است عشق از دل بی آرزوی من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون می خورد کریم چو مهمان فضول نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 34375,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۳۶ - خطاب به امیری نادان",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۳۶ - خطاب به امیری نادان",
+  "FullUrl": "/p392/ghete-hz/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چارپایی شنیده ام مرده است\r\nاز امیرکبیر، طال بقاه\r\nچون که سنجیدم این سخن، گفتم\r\nغلط افتاده است در افواه\r\nبعد خویش، آن که چون امیر گذاشت\r\nکی وجودش شود به مرگ، تباه\r\nخلف آن را که هست، خود باقی است\r\nخرد آمد برین حدیث گواه\r\nزنده را، مرده کی توان گفتن؟\r\nخود حکم باش حسبهًٔ لِلّٰه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چارپایی شنیده ام مرده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از امیرکبیر، طال بقاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون که سنجیدم این سخن، گفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غلط افتاده است در افواه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بعد خویش، آن که چون امیر گذاشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کی وجودش شود به مرگ، تباه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خلف آن را که هست، خود باقی است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خرد آمد برین حدیث گواه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زنده را، مرده کی توان گفتن؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خود حکم باش حسبهًٔ لِلّٰه",
+      "CoupletIndex": 4
+    }
+  ]
+}

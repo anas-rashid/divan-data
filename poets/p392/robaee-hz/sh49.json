@@ -1,0 +1,57 @@
+{
+  "Id": 34444,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/p392/robaee-hz/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیدیم، سواد هند حیرت زار است\r\nروز کِه و مِه چو شام هجران تار است\r\nبسته ست به کار همه شان بخت گره\r\nاینجا گِرِه گشاده در شلوار است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدیم، سواد هند حیرت زار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روز کِه و مِه چو شام هجران تار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسته ست به کار همه شان بخت گره",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینجا گِرِه گشاده در شلوار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

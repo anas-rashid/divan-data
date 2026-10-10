@@ -1,0 +1,45 @@
+{
+  "Id": 18229,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۹۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۹۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh698",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh698",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیم سنگ فلاخن، لیک دارم بخت ناسازی\r\nکه برگرد سر هر کس که گردم، دورم اندازد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیم سنگ فلاخن، لیک دارم بخت ناسازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که برگرد سر هر کس که گردم، دورم اندازد",
+      "CoupletIndex": 0
+    }
+  ]
+}

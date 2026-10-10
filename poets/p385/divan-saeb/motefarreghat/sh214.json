@@ -1,0 +1,69 @@
+{
+  "Id": 26820,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh214",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh214",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زهر در پیمانه کردم انگبین پنداشتند\r\nخون دل خوردم شراب آتشین پنداشتند\r\nخط کشیدم بر سر سوداپرست خویشتن\r\nساده لوحان جهان چین جبین پنداشتند\r\nبدگمانی لازم بدباطنان افتاده است\r\nگوشه از خلق جهان کردم کمین پنداشتند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زهر در پیمانه کردم انگبین پنداشتند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون دل خوردم شراب آتشین پنداشتند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خط کشیدم بر سر سوداپرست خویشتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساده لوحان جهان چین جبین پنداشتند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بدگمانی لازم بدباطنان افتاده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گوشه از خلق جهان کردم کمین پنداشتند",
+      "CoupletIndex": 2
+    }
+  ]
+}

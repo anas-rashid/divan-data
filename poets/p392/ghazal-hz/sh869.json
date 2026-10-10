@@ -1,0 +1,93 @@
+{
+  "Id": 34296,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸۶۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸۶۹",
+  "FullUrl": "/p392/ghazal-hz/sh869",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh869",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ابرکفت بنازم، فیضی ببار ساقی\r\nگرد سرت بگردم، جامی بیار، ساقی\r\nبرخیز و جلوه سرکن، بگشای جعد مشکین\r\nباد از دم بهاران، شد مشکبار، ساقی\r\nساغر بده که آید، آبی به روی کارم\r\nاز زهد خشک دارم، بر دل غبار، ساقی\r\nاز شیوهٔ نگاهت، وز جلوهٔ جمالت\r\nمی در پیاله دارم، گل در کنار ساقی\r\nاوراق زهد و تقوا، بر باد ده حزین را\r\nاز خون توبهٔ ما، بشکن خمار، ساقی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابرکفت بنازم، فیضی ببار ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد سرت بگردم، جامی بیار، ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز و جلوه سرکن، بگشای جعد مشکین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد از دم بهاران، شد مشکبار، ساقی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساغر بده که آید، آبی به روی کارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از زهد خشک دارم، بر دل غبار، ساقی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از شیوهٔ نگاهت، وز جلوهٔ جمالت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "می در پیاله دارم، گل در کنار ساقی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اوراق زهد و تقوا، بر باد ده حزین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از خون توبهٔ ما، بشکن خمار، ساقی",
+      "CoupletIndex": 4
+    }
+  ]
+}

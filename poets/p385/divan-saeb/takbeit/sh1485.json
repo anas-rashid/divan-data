@@ -1,0 +1,45 @@
+{
+  "Id": 19016,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۸۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۸۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1485",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1485",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان از موج رحمت شد زمین و آسمان خالی\r\nکه دریای سراب و ابر تصویرست پنداری",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان از موج رحمت شد زمین و آسمان خالی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دریای سراب و ابر تصویرست پنداری",
+      "CoupletIndex": 0
+    }
+  ]
+}

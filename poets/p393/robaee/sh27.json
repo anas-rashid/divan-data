@@ -1,0 +1,54 @@
+{
+  "Id": 37199,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/p393/robaee/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیری آمد ز چهره زیبایی رفت\r\nوز قامت همچو سرو رعنایی رفت\r\nرفتار ز پا ز دست گیرایی رفت\r\nاکنون چه توان کرد توانایی رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیری آمد ز چهره زیبایی رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز قامت همچو سرو رعنایی رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتار ز پا ز دست گیرایی رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون چه توان کرد توانایی رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

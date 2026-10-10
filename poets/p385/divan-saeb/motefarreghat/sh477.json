@@ -1,0 +1,57 @@
+{
+  "Id": 27083,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۷۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۷۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh477",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh477",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن که از چاک دل خویش بود محرابش\r\nنشود پرده نسیان عبادت خوابش\r\nجوش عشق از لب من مهر خموشی برداشت\r\nاین نه بحری است که در حقه کند گردابش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن که از چاک دل خویش بود محرابش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشود پرده نسیان عبادت خوابش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوش عشق از لب من مهر خموشی برداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این نه بحری است که در حقه کند گردابش",
+      "CoupletIndex": 1
+    }
+  ]
+}

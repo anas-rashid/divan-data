@@ -1,0 +1,57 @@
+{
+  "Id": 34634,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۳۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۳۹",
+  "FullUrl": "/p392/robaee-hz/sh239",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh239",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آشفتهٔ دور روزگارم ساقی\r\nدرماندهٔ محنت خمارم ساقی\r\nشرمندهٔ دست رعشه دارم ساقی\r\nجامی به لب تشنه بدارم ساقی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آشفتهٔ دور روزگارم ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درماندهٔ محنت خمارم ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرمندهٔ دست رعشه دارم ساقی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جامی به لب تشنه بدارم ساقی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 28841,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۲۲ - و نیز",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۲۲ - و نیز",
+  "FullUrl": "/p387/divan/ghete/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیقرینه تفنگ شاه جهان\r\nکه عدو سوزیش زیاده شود\r\nچون کشد دشمن شهنشه را\r\nگرهی از دلش گشاده شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیقرینه تفنگ شاه جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که عدو سوزیش زیاده شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون کشد دشمن شهنشه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گرهی از دلش گشاده شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

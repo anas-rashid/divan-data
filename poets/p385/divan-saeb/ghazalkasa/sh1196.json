@@ -1,0 +1,105 @@
+{
+  "Id": 20269,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۱۹۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۱۹۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمر شمع صبح و لطف بی بقای او یکی است\r\nعهد گل در زود رفتن با وفای او یکی است\r\nگرچه در هر گوشه صد قربانی لب تشنه هست\r\nآن که زمزم سرزند از زیر پای او یکی است\r\nهر که را بر دست نقاش است چشم دوربین\r\nرتبه بال و پر طاوس و پای او یکی است\r\nمرکز بر گرد سر گردیدن عالم شده است\r\nکعبه قانع که در سالی قبای او یکی است\r\nدر حلاوتخانه وحدت دویی را بار نیست\r\nقند شیرین کار و زهر جانگزای او یکی است\r\nهر که چون صائب کند قطع طمع از روزگار\r\nدر مذاقش لطف گردون و جفای او یکی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر شمع صبح و لطف بی بقای او یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عهد گل در زود رفتن با وفای او یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه در هر گوشه صد قربانی لب تشنه هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن که زمزم سرزند از زیر پای او یکی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر که را بر دست نقاش است چشم دوربین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رتبه بال و پر طاوس و پای او یکی است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرکز بر گرد سر گردیدن عالم شده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کعبه قانع که در سالی قبای او یکی است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در حلاوتخانه وحدت دویی را بار نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "قند شیرین کار و زهر جانگزای او یکی است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هر که چون صائب کند قطع طمع از روزگار",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در مذاقش لطف گردون و جفای او یکی است",
+      "CoupletIndex": 5
+    }
+  ]
+}

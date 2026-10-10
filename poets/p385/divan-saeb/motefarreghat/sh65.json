@@ -1,0 +1,69 @@
+{
+  "Id": 26671,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(از رحم بر زمین نزد آسمان مرا\r\nدارد بپا برای نشان این کمان مرا)\r\n(چون سرو و بید سایه من دام عشرت است\r\nهر چند میوه نیست درین بوستان مرا)\r\n(از وصل گل مرا چه تمتع، که شرم عشق\r\nدارد چو بیضه در بغل آشیان مرا)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(از رحم بر زمین نزد آسمان مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارد بپا برای نشان این کمان مرا)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(چون سرو و بید سایه من دام عشرت است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چند میوه نیست درین بوستان مرا)",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "(از وصل گل مرا چه تمتع، که شرم عشق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دارد چو بیضه در بغل آشیان مرا)",
+      "CoupletIndex": 2
+    }
+  ]
+}

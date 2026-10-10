@@ -1,0 +1,45 @@
+{
+  "Id": 18204,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۷۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۷۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh673",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh673",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اینقدر کز تو دلی چند بود شاد، بس است\r\nزندگانی به مراد همه کس نتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اینقدر کز تو دلی چند بود شاد، بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زندگانی به مراد همه کس نتوان کرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

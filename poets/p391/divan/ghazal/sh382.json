@@ -1,0 +1,54 @@
+{
+  "Id": 32474,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۲",
+  "FullUrl": "/p391/divan/ghazal/sh382",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh382",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شعاع روی او آفتاب درتاب است\r\nپیش مهر رخسارش ماه کرم شب تاب است\r\nکی به دولت دنیا می رسد زخامی ها\r\nتاب گوهری نبود رشته را چو بیتاب است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شعاع روی او آفتاب درتاب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش مهر رخسارش ماه کرم شب تاب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی به دولت دنیا می رسد زخامی ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاب گوهری نبود رشته را چو بیتاب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

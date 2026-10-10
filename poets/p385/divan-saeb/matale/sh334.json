@@ -1,0 +1,42 @@
+{
+  "Id": 26422,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۳۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۳۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh334",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh334",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا گوهر ذات تو نهان زیر زمین شد\r\nگردون چو نگین خانه افتاده نگین شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا گوهر ذات تو نهان زیر زمین شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون چو نگین خانه افتاده نگین شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

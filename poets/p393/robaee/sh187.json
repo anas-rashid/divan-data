@@ -1,0 +1,54 @@
+{
+  "Id": 37359,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۷",
+  "FullUrl": "/p393/robaee/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوبی و دلربای ارزندهٔ تو\r\nدل صید و نگاه‌های فریبندهٔ تو\r\nیک‌دم به هیچ شرمندهٔ تو\r\nمن چاکر تو غلام تو بندهٔ تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوبی و دلربای ارزندهٔ تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل صید و نگاه‌های فریبندهٔ تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک‌دم به هیچ شرمندهٔ تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من چاکر تو غلام تو بندهٔ تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

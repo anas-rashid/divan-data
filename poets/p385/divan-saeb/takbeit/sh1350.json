@@ -1,0 +1,45 @@
+{
+  "Id": 18881,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۵۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۵۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرگ هیهات است سازد از فراموشان مرا\r\nمن همان ذوقم که می‌یابند از گفتار من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرگ هیهات است سازد از فراموشان مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من همان ذوقم که می‌یابند از گفتار من",
+      "CoupletIndex": 0
+    }
+  ]
+}

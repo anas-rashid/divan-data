@@ -1,0 +1,57 @@
+{
+  "Id": 37865,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۵۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۵۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنی که ز فالها همه فال تو به\r\nهر سال تو در عمر ز هر سال تو به\r\nزان مال که داشتم مرا مال تو به\r\nاز مال مرا قبول و اقبال تو به",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی که ز فالها همه فال تو به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سال تو در عمر ز هر سال تو به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان مال که داشتم مرا مال تو به",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از مال مرا قبول و اقبال تو به",
+      "CoupletIndex": 1
+    }
+  ]
+}

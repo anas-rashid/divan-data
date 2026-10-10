@@ -1,0 +1,57 @@
+{
+  "Id": 28110,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۶۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۷",
+  "FullUrl": "/p386/robaeeor/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی دل ما بسی پریشان نظر است\r\nهر دم هوسش به غمزه ای راهبر است\r\nزنهار به رنگ و بوی دنیا مگرو\r\nکاین باغچه را شکوفه ای بی ثمر است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی دل ما بسی پریشان نظر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دم هوسش به غمزه ای راهبر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار به رنگ و بوی دنیا مگرو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین باغچه را شکوفه ای بی ثمر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

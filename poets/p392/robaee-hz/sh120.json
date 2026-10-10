@@ -1,0 +1,57 @@
+{
+  "Id": 34515,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲۰",
+  "FullUrl": "/p392/robaee-hz/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ابر آمد و سینه را به کهسار نهاد\r\nگلگون بهار، پا به گلزار نهاد\r\nیکبار بکش رطل گرانی، زاهد\r\nاز توبه نمی توان به دل، بار نهاد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابر آمد و سینه را به کهسار نهاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلگون بهار، پا به گلزار نهاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکبار بکش رطل گرانی، زاهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از توبه نمی توان به دل، بار نهاد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 27664,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۵۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۵۶",
+  "FullUrl": "/p386/ghazalor/sh256",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh256",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نغمه ای کز ره تاثیر به شیون نکشد\r\nبه سماعش دل ماتم زدهٔ من نکشد\r\nدیت قتل من اینست که در روز جزا\r\nبزنم دست به دامانش و دامن نکشد\r\nجذبهٔ قهر تو ای ذره ندانم تا کی\r\nاز ته غمکدهٔ سینه به روزن نکشد\r\nعاقبت درد همین است که در فصل بهار\r\nدل مرغان خزان دیده به گلشن نکشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نغمه ای کز ره تاثیر به شیون نکشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به سماعش دل ماتم زدهٔ من نکشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیت قتل من اینست که در روز جزا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بزنم دست به دامانش و دامن نکشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جذبهٔ قهر تو ای ذره ندانم تا کی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از ته غمکدهٔ سینه به روزن نکشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عاقبت درد همین است که در فصل بهار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل مرغان خزان دیده به گلشن نکشد",
+      "CoupletIndex": 3
+    }
+  ]
+}

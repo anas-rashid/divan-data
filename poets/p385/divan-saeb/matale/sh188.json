@@ -1,0 +1,42 @@
+{
+  "Id": 26276,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۸۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داستان عمر طی شد حرف او آخر نشد\r\nبرگریزان زبان شد گفتگو آخر نشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داستان عمر طی شد حرف او آخر نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگریزان زبان شد گفتگو آخر نشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

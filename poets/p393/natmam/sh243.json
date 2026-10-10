@@ -1,0 +1,78 @@
+{
+  "Id": 36394,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۴۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۴۳",
+  "FullUrl": "/p393/natmam/sh243",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh243",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که محو خیال آن رویم\r\nسخن صاف و شسته می‌گویم\r\nدستهٔ سنبلم چه کار آید\r\nمن ز آشفتگان گیسویم\r\nحرف کس رد نمی‌توانم کرد\r\nهمچو کاغذ ز بس تنک‌رویم\r\nپرسی از من سگ کجایی تو\r\nکمترین سگان این کویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که محو خیال آن رویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخن صاف و شسته می‌گویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دستهٔ سنبلم چه کار آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من ز آشفتگان گیسویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حرف کس رد نمی‌توانم کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همچو کاغذ ز بس تنک‌رویم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پرسی از من سگ کجایی تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کمترین سگان این کویم",
+      "CoupletIndex": 3
+    }
+  ]
+}

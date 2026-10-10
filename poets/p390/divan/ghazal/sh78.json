@@ -1,0 +1,93 @@
+{
+  "Id": 31045,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۸",
+  "FullUrl": "/p390/divan/ghazal/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دوزخ و بهشت نیاسوده‌ایم ما\r\nهرجا که بوده‌ایم چنین بوده‌ایم ما\r\nما را به مدعای غمت آفریده‌اند\r\nعشق ترا چو جامهٔ فرموده‌ایم ما\r\nاز خصم انتقام به نرمی توان گرفت\r\nبر داغ مدعی نمک سوده‌ایم ما\r\nاز گفتگوی ناصح بیگانه سود نیست\r\nپند پدر به عشق چو نشنوده‌ایم ما\r\nما را همین ز قاتل ما بس بود سلیم\r\nکو اضطراب دارد و آسوده‌ایم ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دوزخ و بهشت نیاسوده‌ایم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرجا که بوده‌ایم چنین بوده‌ایم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را به مدعای غمت آفریده‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق ترا چو جامهٔ فرموده‌ایم ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از خصم انتقام به نرمی توان گرفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر داغ مدعی نمک سوده‌ایم ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از گفتگوی ناصح بیگانه سود نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پند پدر به عشق چو نشنوده‌ایم ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ما را همین ز قاتل ما بس بود سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کو اضطراب دارد و آسوده‌ایم ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

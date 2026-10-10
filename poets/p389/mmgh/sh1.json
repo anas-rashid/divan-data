@@ -1,0 +1,45 @@
+{
+  "Id": 30209,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۱",
+  "FullUrl": "/p389/mmgh/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ملامتگو چه می‌گردد ز پی مجنون شیدا را؟\r\nنسازد هیچ عاقل تنگ بر دیوانه صحرا را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ملامتگو چه می‌گردد ز پی مجنون شیدا را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نسازد هیچ عاقل تنگ بر دیوانه صحرا را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36551,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۱",
+  "FullUrl": "/p393/ghete/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون‌بهای دل ز ابروی بتان نتوان گرفت\r\nداد پیکان خورده نخجیر از کمان نتوان گرفت\r\nصبح نتواند به رخسار تو دم زد از صفا\r\nشمع گر دعوی کند او را زبان نتوان گرفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون‌بهای دل ز ابروی بتان نتوان گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داد پیکان خورده نخجیر از کمان نتوان گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح نتواند به رخسار تو دم زد از صفا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمع گر دعوی کند او را زبان نتوان گرفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

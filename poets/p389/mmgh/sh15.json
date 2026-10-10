@@ -1,0 +1,57 @@
+{
+  "Id": 30223,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۱۵",
+  "FullUrl": "/p389/mmgh/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از جوش دلم دیده پر از پاره خون است\r\nدر چشم ترم هر مژه فواره خون است\r\nمن گریه‌کنان بر سر آن کوی و ز هر سو\r\nخلقی به سرم جمع به نظاره خون است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جوش دلم دیده پر از پاره خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چشم ترم هر مژه فواره خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من گریه‌کنان بر سر آن کوی و ز هر سو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خلقی به سرم جمع به نظاره خون است",
+      "CoupletIndex": 1
+    }
+  ]
+}

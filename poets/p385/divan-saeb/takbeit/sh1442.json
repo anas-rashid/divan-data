@@ -1,0 +1,45 @@
+{
+  "Id": 18973,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۴۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۴۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1442",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1442",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرگ بی‌منت، گواراتر ز آب زندگی است\r\nزینهار از آب حیوان عمر جاویدان مخواه",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرگ بی‌منت، گواراتر ز آب زندگی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زینهار از آب حیوان عمر جاویدان مخواه",
+      "CoupletIndex": 0
+    }
+  ]
+}

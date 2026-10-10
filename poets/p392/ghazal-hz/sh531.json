@@ -1,0 +1,93 @@
+{
+  "Id": 33958,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۳۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۳۱",
+  "FullUrl": "/p392/ghazal-hz/sh531",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh531",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در حضرت شاهان، دل گمراه نگهدار\r\nپاس ادب خاطر آگاه نگهدار\r\nمستند به یک جرعه حریفان صبوحی\r\nساقی قدحی نذر شبانگاه نگهدار\r\nمرغی که شکستی پر و بالش به اسیری\r\nخواه از قفس آزاد کنش، خواه نگهدار\r\nبر جور بیفزا، مشکن قدر عزیزان\r\nیوسف مفروش و به ته چاه نگهدار\r\nپا می کشد از بزم تو، دریاب حزین را\r\nدستی به سر شمع سحرگاه نگهدار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در حضرت شاهان، دل گمراه نگهدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاس ادب خاطر آگاه نگهدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستند به یک جرعه حریفان صبوحی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساقی قدحی نذر شبانگاه نگهدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مرغی که شکستی پر و بالش به اسیری",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خواه از قفس آزاد کنش، خواه نگهدار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر جور بیفزا، مشکن قدر عزیزان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یوسف مفروش و به ته چاه نگهدار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پا می کشد از بزم تو، دریاب حزین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دستی به سر شمع سحرگاه نگهدار",
+      "CoupletIndex": 4
+    }
+  ]
+}

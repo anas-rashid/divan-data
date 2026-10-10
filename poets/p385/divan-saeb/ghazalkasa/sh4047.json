@@ -1,0 +1,81 @@
+{
+  "Id": 23120,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۰۴۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۰۴۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4047",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4047",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیوانه را به دامن صحرا که می برد\r\nطفل یتیم را به تماشا که می برد\r\nمکتوب خشک سلسله پای قاصدست\r\nموج سراب را سوی دریا که می برد\r\nراه نسیم نیست در آن زلف تابدار\r\nاز بیدلان پیام به دلها که می برد\r\nجایی که زلف حلقه بیرون در بود\r\nنام دل شکسته ما را که می برد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیوانه را به دامن صحرا که می برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طفل یتیم را به تماشا که می برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مکتوب خشک سلسله پای قاصدست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موج سراب را سوی دریا که می برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "راه نسیم نیست در آن زلف تابدار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از بیدلان پیام به دلها که می برد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جایی که زلف حلقه بیرون در بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نام دل شکسته ما را که می برد",
+      "CoupletIndex": 3
+    }
+  ]
+}

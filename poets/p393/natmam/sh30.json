@@ -1,0 +1,66 @@
+{
+  "Id": 36181,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۰",
+  "FullUrl": "/p393/natmam/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست آرزوی بوسه‌ای از تو من دل‌ریش را\r\nچیزی بده درویش را چیزی مگو درویش را\r\nمجنون و خوار و ابترم غوغای طفلان بر سرم\r\nخواهم که از کویت برم جای دگر تشویش را\r\nآن هر دو چشم دل گسل کردند خونم را بهل\r\nرحمی نمی‌باشد به دل ترکان کافرکیش را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست آرزوی بوسه‌ای از تو من دل‌ریش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چیزی بده درویش را چیزی مگو درویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مجنون و خوار و ابترم غوغای طفلان بر سرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواهم که از کویت برم جای دگر تشویش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن هر دو چشم دل گسل کردند خونم را بهل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رحمی نمی‌باشد به دل ترکان کافرکیش را",
+      "CoupletIndex": 2
+    }
+  ]
+}

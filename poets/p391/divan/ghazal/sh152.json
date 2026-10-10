@@ -1,0 +1,66 @@
+{
+  "Id": 32244,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۲",
+  "FullUrl": "/p391/divan/ghazal/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فصل خزان رویم به سیر کنار آب\r\nفواره گلبنی است که دارد بهار آب\r\nعزلت گزین و منزلت خویش را ببین\r\nدر گل زجوی بیشتر است اعتبار آب\r\nای من اسیر عالم رندی که باشدش\r\nمعشوق مست و جام شراب و کنار آب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فصل خزان رویم به سیر کنار آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فواره گلبنی است که دارد بهار آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عزلت گزین و منزلت خویش را ببین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گل زجوی بیشتر است اعتبار آب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای من اسیر عالم رندی که باشدش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "معشوق مست و جام شراب و کنار آب",
+      "CoupletIndex": 2
+    }
+  ]
+}

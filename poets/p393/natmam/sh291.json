@@ -1,0 +1,66 @@
+{
+  "Id": 36442,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۱",
+  "FullUrl": "/p393/natmam/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در فراق آن به دل نزدیک و دور از چشم من\r\nای عزیزان رفته چون یعقوب نور از چشم من\r\nبا امید وصل و بیم هجر کار افتاده است\r\nگاه آید اشک ِشیرین گاه شور از چشم من\r\nای صبا بر خاک پایش گذر چون افتد تو را\r\nعرضه داری آرزومندی ضرور از چشم من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در فراق آن به دل نزدیک و دور از چشم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای عزیزان رفته چون یعقوب نور از چشم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با امید وصل و بیم هجر کار افتاده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گاه آید اشک ِشیرین گاه شور از چشم من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای صبا بر خاک پایش گذر چون افتد تو را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عرضه داری آرزومندی ضرور از چشم من",
+      "CoupletIndex": 2
+    }
+  ]
+}

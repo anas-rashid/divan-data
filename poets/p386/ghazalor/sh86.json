@@ -1,0 +1,93 @@
+{
+  "Id": 27494,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۸۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۸۶",
+  "FullUrl": "/p386/ghazalor/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منم که طاعت بت لازم سرشت من است\r\nاگر به کعبه عبادت کنم کنشت من است\r\nاگر چه حسن عمل نیست اجر آن هم نیست\r\nکه چشم اهل مروت به زشت من است\r\nروم به دوزخ و شکر بهشت می گویم\r\nکه این به نزد مکافات من بهشت من است\r\nکنار کشت و لب جو به غم زبان دارد\r\nمیان دایره ی غم کنار کشت من است\r\n بگیر آیینه عرفی ببین سر انجامم \r\nکه هر چه صورت حال تو سرنوشت من است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منم که طاعت بت لازم سرشت من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر به کعبه عبادت کنم کنشت من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر چه حسن عمل نیست اجر آن هم نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چشم اهل مروت به زشت من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روم به دوزخ و شکر بهشت می گویم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که این به نزد مکافات من بهشت من است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کنار کشت و لب جو به غم زبان دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "میان دایره ی غم کنار کشت من است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": " بگیر آیینه عرفی ببین سر انجامم ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که هر چه صورت حال تو سرنوشت من است",
+      "CoupletIndex": 4
+    }
+  ]
+}

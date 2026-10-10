@@ -1,0 +1,57 @@
+{
+  "Id": 34977,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۱۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۱۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh318",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh318",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم دل با تو زان گویم،که دانم شاد می گردی\r\nچو گنج از خاطر ویران من، آباد می گردی\r\nز جام حسن سرمستی، به کار خویش هشیاری\r\nنه غافل از ستم، نه آگه از فریاد می گردی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم دل با تو زان گویم،که دانم شاد می گردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گنج از خاطر ویران من، آباد می گردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جام حسن سرمستی، به کار خویش هشیاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه غافل از ستم، نه آگه از فریاد می گردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

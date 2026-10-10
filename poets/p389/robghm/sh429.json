@@ -1,0 +1,57 @@
+{
+  "Id": 30686,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۲۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۲۹",
+  "FullUrl": "/p389/robghm/sh429",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh429",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردون که ندانی سبب خیر و شرش\r\nپیداست هزار نفع در هر ضررش\r\nسرکوب فلک، تو را به اصلاح آرد\r\nخرمن زند آن نخل که بشکست سرش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردون که ندانی سبب خیر و شرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیداست هزار نفع در هر ضررش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرکوب فلک، تو را به اصلاح آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خرمن زند آن نخل که بشکست سرش",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26299,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجا چشم بد از دود سپندم در گزند افتد؟\r\nبه بخت من گره در کار آتش از سپند افتد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجا چشم بد از دود سپندم در گزند افتد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به بخت من گره در کار آتش از سپند افتد",
+      "CoupletIndex": 0
+    }
+  ]
+}

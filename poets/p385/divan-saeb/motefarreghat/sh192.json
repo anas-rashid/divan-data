@@ -1,0 +1,69 @@
+{
+  "Id": 26798,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh192",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh192",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بوی خون از غنچه گل بر دماغم می خورد\r\nسوده مشک از خط ریحان به داغم می خورد\r\nزلف سنبل گرچه شد سر حلقه آشفتگان\r\nپیچ و تاب رشک از دود چراغم می خورد\r\nروی گرمی هرگز از داغ نمکسودم ندید\r\nپنبه گر فرصت بیابد خون داغم می خورد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بوی خون از غنچه گل بر دماغم می خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوده مشک از خط ریحان به داغم می خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف سنبل گرچه شد سر حلقه آشفتگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیچ و تاب رشک از دود چراغم می خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روی گرمی هرگز از داغ نمکسودم ندید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پنبه گر فرصت بیابد خون داغم می خورد",
+      "CoupletIndex": 2
+    }
+  ]
+}

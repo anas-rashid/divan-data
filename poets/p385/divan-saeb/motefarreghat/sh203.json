@@ -1,0 +1,69 @@
+{
+  "Id": 26809,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh203",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh203",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خط ظالم از گل رخسار او کین می کشد\r\nانتقام بلبلان از باغ گلچین می کشد\r\nکوهکن را عشق اگر هم پله پرویز ساخت\r\nرشک خسرو هم شکر بر روی شیرین می کشد\r\nچشم بند عیبجویان چشم خود پوشیدن است\r\nبی زبانی سرمه در کام سخن چین می کشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خط ظالم از گل رخسار او کین می کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انتقام بلبلان از باغ گلچین می کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوهکن را عشق اگر هم پله پرویز ساخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رشک خسرو هم شکر بر روی شیرین می کشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشم بند عیبجویان چشم خود پوشیدن است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بی زبانی سرمه در کام سخن چین می کشد",
+      "CoupletIndex": 2
+    }
+  ]
+}

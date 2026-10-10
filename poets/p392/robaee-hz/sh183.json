@@ -1,0 +1,57 @@
+{
+  "Id": 34578,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۳",
+  "FullUrl": "/p392/robaee-hz/sh183",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh183",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میزان حقیم و امتحان و لَکَ لک ؟\r\nتا باز نماییم گران را ز سبک\r\nاز ما نَرَمی چگونه، ای حیزِ خنک\r\nما بدرِ تمامیم و کتان تو تنک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میزان حقیم و امتحان و لَکَ لک ؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا باز نماییم گران را ز سبک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ما نَرَمی چگونه، ای حیزِ خنک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما بدرِ تمامیم و کتان تو تنک",
+      "CoupletIndex": 1
+    }
+  ]
+}

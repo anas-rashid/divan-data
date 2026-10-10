@@ -1,0 +1,57 @@
+{
+  "Id": 34371,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۳۲ - در حکمت",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۳۲ - در حکمت",
+  "FullUrl": "/p392/ghete-hz/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمود این سوال از فلاطون یکی\r\nز دشمن چه سان کینه باید کشید؟\r\nجوابش چنین داد، روشن روان\r\nبه فضلی که گردد تو را بر مزید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمود این سوال از فلاطون یکی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز دشمن چه سان کینه باید کشید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوابش چنین داد، روشن روان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به فضلی که گردد تو را بر مزید",
+      "CoupletIndex": 1
+    }
+  ]
+}

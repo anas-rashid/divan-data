@@ -1,0 +1,57 @@
+{
+  "Id": 29662,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/p388/divan/robaee/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرسوم رهی که فقر ازان خاسته شد\r\nباطن به ریاضت وی آراسته شد\r\nهرماه چو مرگ دشمنت دیر رسید\r\nهر روز چو عمر حاسدت کاسته شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرسوم رهی که فقر ازان خاسته شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باطن به ریاضت وی آراسته شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرماه چو مرگ دشمنت دیر رسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر روز چو عمر حاسدت کاسته شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

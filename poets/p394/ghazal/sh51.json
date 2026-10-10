@@ -1,0 +1,54 @@
+{
+  "Id": 37436,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۵۱",
+  "FullUrl": "/p394/ghazal/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غیر زلفت که پریشان شده در ماتم ما\r\nنیست آشفته دلی خاک نشین در غم ما\r\nنفس ما شده از سوختگی خاکستر\r\nسزد آیینه اگر صاف شود از دم ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر زلفت که پریشان شده در ماتم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست آشفته دلی خاک نشین در غم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نفس ما شده از سوختگی خاکستر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سزد آیینه اگر صاف شود از دم ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

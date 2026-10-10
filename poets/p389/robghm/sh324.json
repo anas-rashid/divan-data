@@ -1,0 +1,57 @@
+{
+  "Id": 30581,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۲۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۲۴",
+  "FullUrl": "/p389/robghm/sh324",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh324",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در هند که موی سر پسندیده بود\r\nسرها همه زیر موی ژولیده بود\r\nچون خامه سرش کنند فی‌الحال سیاه\r\nآن را که چو خامه، سر تراشیده بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هند که موی سر پسندیده بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرها همه زیر موی ژولیده بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خامه سرش کنند فی‌الحال سیاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن را که چو خامه، سر تراشیده بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

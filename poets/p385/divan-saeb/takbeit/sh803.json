@@ -1,0 +1,45 @@
+{
+  "Id": 18334,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۰۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۰۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh803",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh803",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غافلی از حال دل، ترسم که این ویرانه را\r\nدیگران بی صاحب انگارند و تعمیرش کنند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غافلی از حال دل، ترسم که این ویرانه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیگران بی صاحب انگارند و تعمیرش کنند",
+      "CoupletIndex": 0
+    }
+  ]
+}

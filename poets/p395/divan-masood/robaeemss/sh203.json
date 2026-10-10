@@ -1,0 +1,57 @@
+{
+  "Id": 37717,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۰۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh203",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh203",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من همت باز دارم و کبر پلنگ\r\nز آن روی مرا نشست کوه آمد و تنگ\r\nروزی روزی گردهدم چرخ دو رنگ\r\nبر پر تذرو غلطم و سینه رنگ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من همت باز دارم و کبر پلنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آن روی مرا نشست کوه آمد و تنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزی روزی گردهدم چرخ دو رنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر پر تذرو غلطم و سینه رنگ",
+      "CoupletIndex": 1
+    }
+  ]
+}

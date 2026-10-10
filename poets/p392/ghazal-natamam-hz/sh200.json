@@ -1,0 +1,57 @@
+{
+  "Id": 34859,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۰۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۰۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh200",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh200",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سختی به ضعیفان جهان بی سبب آید\r\nمن بد کنم و زخم ندامت به لب آید\r\nزاهد دمش افسرده چو صبح است، مبادا\r\nخورشید تو را از نفس سرد تب آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سختی به ضعیفان جهان بی سبب آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من بد کنم و زخم ندامت به لب آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد دمش افسرده چو صبح است، مبادا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید تو را از نفس سرد تب آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

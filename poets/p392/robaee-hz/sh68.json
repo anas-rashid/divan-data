@@ -1,0 +1,57 @@
+{
+  "Id": 34463,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/p392/robaee-hz/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بسته ست زبانم و بیان در سیر است\r\nتن ساکن اگر بود، روان در سیر است\r\nآواره تر از توست، کلام تو حزین\r\nبرگرد جهان گشت و همان در سیر است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بسته ست زبانم و بیان در سیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تن ساکن اگر بود، روان در سیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آواره تر از توست، کلام تو حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برگرد جهان گشت و همان در سیر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30721,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۶۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۶۴",
+  "FullUrl": "/p389/robghm/sh464",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh464",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مهره گردون نکشید آن که ستم\r\nذکرش به زبان میار و وصفش به رقم\r\nانگشت منه بر ورق ناصافان\r\nبر کاغذ بی‌مهره، رود کند قلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مهره گردون نکشید آن که ستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذکرش به زبان میار و وصفش به رقم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انگشت منه بر ورق ناصافان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر کاغذ بی‌مهره، رود کند قلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

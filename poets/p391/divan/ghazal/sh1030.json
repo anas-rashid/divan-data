@@ -1,0 +1,57 @@
+{
+  "Id": 33122,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۳۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۳۰",
+  "FullUrl": "/p391/divan/ghazal/sh1030",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1030",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز اشک آخر به دل فیضی رسد آهسته آهسته\r\nچو آب جو که در گل‌ها دود آهسته آهسته\r\nز بس افشرده پا سنگینی غم بر دل تنگم\r\nبه رنگ سرو، آهم قد کشد آهسته آهسته",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز اشک آخر به دل فیضی رسد آهسته آهسته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو آب جو که در گل‌ها دود آهسته آهسته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بس افشرده پا سنگینی غم بر دل تنگم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به رنگ سرو، آهم قد کشد آهسته آهسته",
+      "CoupletIndex": 1
+    }
+  ]
+}

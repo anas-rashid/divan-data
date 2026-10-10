@@ -1,0 +1,57 @@
+{
+  "Id": 34476,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/p392/robaee-hz/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در هجر تو ناله سینه فرسایی کرد\r\nابر مژه خون دیده پالایی کرد\r\nفرهاد غم تو آهنین بازو بود\r\nبیهوده دل صبور خارایی کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هجر تو ناله سینه فرسایی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابر مژه خون دیده پالایی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرهاد غم تو آهنین بازو بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیهوده دل صبور خارایی کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

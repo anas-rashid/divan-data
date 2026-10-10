@@ -1,0 +1,57 @@
+{
+  "Id": 30516,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۵۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۵۹",
+  "FullUrl": "/p389/robghm/sh259",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh259",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی دل طاقت‌آفرین تو چه شد؟\r\nمردی ز فغان، صوت حزین تو چه شد؟\r\nرسوا کردی مرا میان مردم\r\nای دست شکسته آستین تو چه شد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی دل طاقت‌آفرین تو چه شد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مردی ز فغان، صوت حزین تو چه شد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسوا کردی مرا میان مردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دست شکسته آستین تو چه شد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

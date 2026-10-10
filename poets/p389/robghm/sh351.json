@@ -1,0 +1,57 @@
+{
+  "Id": 30608,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵۱",
+  "FullUrl": "/p389/robghm/sh351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چرخم چو ز کشمیر به لاهور کشید\r\nفرمان کتابه‌ای ز درگاه رسید\r\nفکرم چو کتابه را به انجام رساند\r\nتاریخ بود کتابه عرش مجید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چرخم چو ز کشمیر به لاهور کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرمان کتابه‌ای ز درگاه رسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فکرم چو کتابه را به انجام رساند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریخ بود کتابه عرش مجید",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17879,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۴۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۴۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh348",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh348",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکه افتاد، زِ افتادگی، ایمن گردد\r\nچه کُنَد سِیل، به دیوارِ خرابی که مَراست؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکه افتاد، زِ افتادگی، ایمن گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه کُنَد سِیل، به دیوارِ خرابی که مَراست؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

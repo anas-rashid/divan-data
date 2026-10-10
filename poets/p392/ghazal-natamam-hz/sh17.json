@@ -1,0 +1,66 @@
+{
+  "Id": 34676,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آنکه غازه گر آیم رخ فرنگ تو را\r\nزخون دیده فروزم، چراغ رنگ تو را\r\nدلیل مقصد آوارگان عشق منم\r\nنشان بوسه گذارم، دهان تنگ تو را\r\nشکستت ای چمن آرای آرزو مرساد\r\nکه مومیایی دل کرده اند، سنگ تو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آنکه غازه گر آیم رخ فرنگ تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زخون دیده فروزم، چراغ رنگ تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلیل مقصد آوارگان عشق منم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشان بوسه گذارم، دهان تنگ تو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شکستت ای چمن آرای آرزو مرساد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که مومیایی دل کرده اند، سنگ تو را",
+      "CoupletIndex": 2
+    }
+  ]
+}

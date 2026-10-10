@@ -1,0 +1,57 @@
+{
+  "Id": 30462,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۰۵",
+  "FullUrl": "/p389/robghm/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مه ساغر بی‌شراب بر کف دارد\r\nگلبرگ، ز شبنم آب بر کف دارد\r\nدریا که به جود در جهان مشهور است\r\nگوهر به دل و حباب بر کف دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مه ساغر بی‌شراب بر کف دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلبرگ، ز شبنم آب بر کف دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دریا که به جود در جهان مشهور است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوهر به دل و حباب بر کف دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

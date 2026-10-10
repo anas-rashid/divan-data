@@ -1,0 +1,54 @@
+{
+  "Id": 36568,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۸۸",
+  "FullUrl": "/p393/ghete/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب جدایی آن رشک ماه در پیش است\r\nمرا ببین که چه روز سیاه در پیش است\r\nتا فراغی ز عم ای شوخ پند گو که مرا\r\nدو صد معامله با اشک و آه در پیش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب جدایی آن رشک ماه در پیش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا ببین که چه روز سیاه در پیش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا فراغی ز عم ای شوخ پند گو که مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو صد معامله با اشک و آه در پیش است",
+      "CoupletIndex": 1
+    }
+  ]
+}

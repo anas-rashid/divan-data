@@ -1,0 +1,57 @@
+{
+  "Id": 30564,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۰۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۰۷",
+  "FullUrl": "/p389/robghm/sh307",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh307",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواهم عدمی که پیش از این داشت وجود\r\nکاین هستی پوچ را در او راه نبود\r\nور نه عدمی که بعد ازین خواهد بود\r\nمستوجب صد هزار گفت است و شنود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهم عدمی که پیش از این داشت وجود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاین هستی پوچ را در او راه نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور نه عدمی که بعد ازین خواهد بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مستوجب صد هزار گفت است و شنود",
+      "CoupletIndex": 1
+    }
+  ]
+}

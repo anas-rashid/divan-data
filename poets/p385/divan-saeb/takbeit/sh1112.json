@@ -1,0 +1,45 @@
+{
+  "Id": 18643,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۱۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۱۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو نقش پا گزیدم خاکساری تا شوم ایمن\r\nندانستم ز همواری فزون پامال می‌گردم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو نقش پا گزیدم خاکساری تا شوم ایمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ندانستم ز همواری فزون پامال می‌گردم",
+      "CoupletIndex": 0
+    }
+  ]
+}

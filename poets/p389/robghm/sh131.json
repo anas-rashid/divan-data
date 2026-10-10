@@ -1,0 +1,57 @@
+{
+  "Id": 30388,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۱",
+  "FullUrl": "/p389/robghm/sh131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خود به هوای دوست در پروازست\r\nاین محرومی ز طالع ناسازست\r\nهرگز نبود بسته در خلوت دوست\r\nره امن و چراغ روشن و در بازست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خود به هوای دوست در پروازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این محرومی ز طالع ناسازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز نبود بسته در خلوت دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ره امن و چراغ روشن و در بازست",
+      "CoupletIndex": 1
+    }
+  ]
+}

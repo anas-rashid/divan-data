@@ -1,0 +1,81 @@
+{
+  "Id": 23978,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۹۰۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۹۰۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4905",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4905",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 26,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلاتن (رمل مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می کند دست نوازش هم دل ما راخموش\r\nخشت اگر مانع تواند شد خم می را ز جوش\r\nبازی جنت مخور، ازحال آدم پندگیر\r\nدرگذر مردانه زین گندم نمای جوفروش\r\nپوچ گویی می دهد بر باد نقد عمر را\r\nزود خالی می شود دیگی که ننشیند ز جوش\r\nدیگران راگرم اگر سازد شراب آتشین\r\nخون ما را شعله آواز می آرد به جوش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می کند دست نوازش هم دل ما راخموش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشت اگر مانع تواند شد خم می را ز جوش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازی جنت مخور، ازحال آدم پندگیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درگذر مردانه زین گندم نمای جوفروش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پوچ گویی می دهد بر باد نقد عمر را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زود خالی می شود دیگی که ننشیند ز جوش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دیگران راگرم اگر سازد شراب آتشین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خون ما را شعله آواز می آرد به جوش",
+      "CoupletIndex": 3
+    }
+  ]
+}

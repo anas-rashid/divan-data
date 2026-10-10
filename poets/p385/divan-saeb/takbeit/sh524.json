@@ -1,0 +1,45 @@
+{
+  "Id": 18055,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۲۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۲۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh524",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh524",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبنم دو بار بازی بستان نمی‌خورد\r\nدل را به رنگ و بوی جهان بازگشت نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبنم دو بار بازی بستان نمی‌خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را به رنگ و بوی جهان بازگشت نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

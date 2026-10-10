@@ -1,0 +1,54 @@
+{
+  "Id": 37220,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/p393/robaee/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا دل پی کسب بی‌قراری شده است\r\nآمادهٔ صدهزار خواری شده است\r\nزین واقعه بی‌صبر و خرد گشتم زانکه\r\nصبرم فوتی خرد فراری شده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل پی کسب بی‌قراری شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آمادهٔ صدهزار خواری شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین واقعه بی‌صبر و خرد گشتم زانکه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبرم فوتی خرد فراری شده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

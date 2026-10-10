@@ -1,0 +1,45 @@
+{
+  "Id": 30244,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۳۶",
+  "FullUrl": "/p389/mmgh/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجا تاب آورد در پیش اشک دیده‌فرسایم؟\r\nدواند ریشه گر چون شمع، مژگان تا کف پایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجا تاب آورد در پیش اشک دیده‌فرسایم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دواند ریشه گر چون شمع، مژگان تا کف پایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

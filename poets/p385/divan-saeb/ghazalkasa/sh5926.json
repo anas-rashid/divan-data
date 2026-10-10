@@ -1,0 +1,93 @@
+{
+  "Id": 24999,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۹۲۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۹۲۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5926",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5926",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستانه سر شیشه می باز گشودیم\r\nدیگر در صد میکده راز گشودیم\r\nهر بند طلسمی که در آن زلف درازست\r\nچون شانه به سرپنجه اعجاز گشودیم\r\nبی ظرفی ما باعث رسوایی ما شد\r\nتا راه سخن بر لب غماز گشودیم\r\nبر سینه ما ناخن شهباز فرو ریخت\r\nتا بال به خمیازه پرواز گشودیم\r\nصائب قلم ما نشود چون علم فتح؟\r\nما مهر نهانخانه اعجاز گشودیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستانه سر شیشه می باز گشودیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیگر در صد میکده راز گشودیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر بند طلسمی که در آن زلف درازست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شانه به سرپنجه اعجاز گشودیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بی ظرفی ما باعث رسوایی ما شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا راه سخن بر لب غماز گشودیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر سینه ما ناخن شهباز فرو ریخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا بال به خمیازه پرواز گشودیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب قلم ما نشود چون علم فتح؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ما مهر نهانخانه اعجاز گشودیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

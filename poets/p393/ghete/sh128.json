@@ -1,0 +1,54 @@
+{
+  "Id": 36608,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۲۸",
+  "FullUrl": "/p393/ghete/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سفر از کوی یار نتوان کرد\r\nترک یار و دیار نتوان کرد\r\nعشق اگر صد هزار حیله کند\r\nغیر عشق اختیار نتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سفر از کوی یار نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترک یار و دیار نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق اگر صد هزار حیله کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر عشق اختیار نتوان کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

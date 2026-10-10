@@ -1,0 +1,66 @@
+{
+  "Id": 32679,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۸۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۸۷",
+  "FullUrl": "/p391/divan/ghazal/sh587",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh587",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلا ببال که روزی غبار خواهی شد\r\nغبار توسن آن شهسوار خواهی شد\r\nچو مه در آب مبین خویش را در آیینه\r\nاز این قرار تو هم بی قرار خواهی شد\r\nزصاف طینتی امیدوار شو جویا\r\nکه همچو آینه امیدوار خواهی شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلا ببال که روزی غبار خواهی شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار توسن آن شهسوار خواهی شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو مه در آب مبین خویش را در آیینه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از این قرار تو هم بی قرار خواهی شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زصاف طینتی امیدوار شو جویا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که همچو آینه امیدوار خواهی شد",
+      "CoupletIndex": 2
+    }
+  ]
+}

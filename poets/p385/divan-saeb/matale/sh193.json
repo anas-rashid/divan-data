@@ -1,0 +1,42 @@
+{
+  "Id": 26281,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۹۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دل معشوق جای خود ادب وا می کند\r\nبهله از کوتاه دستی بر کمر جا می کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دل معشوق جای خود ادب وا می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهله از کوتاه دستی بر کمر جا می کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

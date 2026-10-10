@@ -1,0 +1,57 @@
+{
+  "Id": 28095,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۲",
+  "FullUrl": "/p386/robaeeor/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی گله سر مکن که جای گله نیست\r\nتوفیق نصیب هر تنگ حوصله نیست\r\nهر چاه که هست یوسفی در آن هست\r\nصاحب نظری لیک به هر قافله نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی گله سر مکن که جای گله نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توفیق نصیب هر تنگ حوصله نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چاه که هست یوسفی در آن هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صاحب نظری لیک به هر قافله نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

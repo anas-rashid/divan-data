@@ -1,0 +1,45 @@
+{
+  "Id": 17730,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۹۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۹۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh199",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh199",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مَرا، از صافیِ مَشرَب، زِ خود دانند، هر قومی\r\nکه: هر ظرفی، به رنگِ خود بَرآرد، آبِ روشن را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مَرا، از صافیِ مَشرَب، زِ خود دانند، هر قومی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که: هر ظرفی، به رنگِ خود بَرآرد، آبِ روشن را",
+      "CoupletIndex": 0
+    }
+  ]
+}

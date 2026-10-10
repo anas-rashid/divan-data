@@ -1,0 +1,45 @@
+{
+  "Id": 18591,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۶۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۶۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1060",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1060",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز سردمهری احباب، در ریاض جهان\r\nتمام برگ سفر چون گل خزان زده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز سردمهری احباب، در ریاض جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تمام برگ سفر چون گل خزان زده‌ام",
+      "CoupletIndex": 0
+    }
+  ]
+}

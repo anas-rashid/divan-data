@@ -1,0 +1,57 @@
+{
+  "Id": 34640,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۴۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۴۵",
+  "FullUrl": "/p392/robaee-hz/sh245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ناله، خلاف دردکیشان نکنی\r\nغمّازی راز سینه ریشان نکنی\r\nآهسته گذر کن ای صبا از زلفش\r\nآنجا دل جمعی ست، پریشان نکنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ناله، خلاف دردکیشان نکنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غمّازی راز سینه ریشان نکنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آهسته گذر کن ای صبا از زلفش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنجا دل جمعی ست، پریشان نکنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

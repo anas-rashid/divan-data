@@ -1,0 +1,57 @@
+{
+  "Id": 32029,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/p390/divan/robaee/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بحر نیابد اگر از فیض تو قوت\r\nاورنگ صدف شود گهر را تابوت\r\nگر زان که نه لطف تو برو آب زند\r\nدر آتش رنگ خود بسوزد یاقوت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بحر نیابد اگر از فیض تو قوت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اورنگ صدف شود گهر را تابوت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر زان که نه لطف تو برو آب زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آتش رنگ خود بسوزد یاقوت",
+      "CoupletIndex": 1
+    }
+  ]
+}

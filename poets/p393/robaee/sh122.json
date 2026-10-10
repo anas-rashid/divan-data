@@ -1,0 +1,54 @@
+{
+  "Id": 37294,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۲",
+  "FullUrl": "/p393/robaee/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنی تو که از نام وفا داری ننگ\r\nبا صلح‌گران ناز تو پیوسته به جنگ\r\nخواهم که شکایت دل سخت تو را\r\nاز خامهٔ فولاد نویسم بر سنگ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی تو که از نام وفا داری ننگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با صلح‌گران ناز تو پیوسته به جنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم که شکایت دل سخت تو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خامهٔ فولاد نویسم بر سنگ",
+      "CoupletIndex": 1
+    }
+  ]
+}

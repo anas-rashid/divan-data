@@ -1,0 +1,57 @@
+{
+  "Id": 37777,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۶۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۶۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh263",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh263",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دشمن و دوست مر تو را یک عالم\r\nخاری و گلی با من و با یک عالم\r\nدر بسته به تو مهر و وفا یک عالم\r\nمانده ز تو در خوف و رجا یک عالم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دشمن و دوست مر تو را یک عالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاری و گلی با من و با یک عالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بسته به تو مهر و وفا یک عالم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانده ز تو در خوف و رجا یک عالم",
+      "CoupletIndex": 1
+    }
+  ]
+}

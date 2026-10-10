@@ -1,0 +1,57 @@
+{
+  "Id": 28894,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p387/divan/robaee/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قسمت کردند ماه و خور بی کم و بیش\r\nبر خود الم شهنشه عدل اندیش\r\nبرداشت بمنت مه نو ضعفش را\r\nخورشید پسندید تبش بر تن خویش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قسمت کردند ماه و خور بی کم و بیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر خود الم شهنشه عدل اندیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برداشت بمنت مه نو ضعفش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید پسندید تبش بر تن خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

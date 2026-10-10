@@ -1,0 +1,54 @@
+{
+  "Id": 36688,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۰۸",
+  "FullUrl": "/p393/ghete/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مهری ندارد با عاشق آن ماه\r\nتدبیری ای اشک تأثیری ای آه\r\nدل شکوه‌ها داشت در زلف جانان\r\nخط آمد و کرد این قصه کوتاه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهری ندارد با عاشق آن ماه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تدبیری ای اشک تأثیری ای آه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل شکوه‌ها داشت در زلف جانان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خط آمد و کرد این قصه کوتاه",
+      "CoupletIndex": 1
+    }
+  ]
+}

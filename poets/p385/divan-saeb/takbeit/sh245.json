@@ -1,0 +1,45 @@
+{
+  "Id": 17776,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۴۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۴۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دَر رَزم‌گَه، برهنه چو شمشیر، می‌رَویم\r\nدَر دستِ دشمن است، سلاحِ نَبَردِ ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دَر رَزم‌گَه، برهنه چو شمشیر، می‌رَویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دَر دستِ دشمن است، سلاحِ نَبَردِ ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

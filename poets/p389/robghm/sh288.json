@@ -1,0 +1,57 @@
+{
+  "Id": 30545,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۸۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۸۸",
+  "FullUrl": "/p389/robghm/sh288",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh288",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نزدیکان را گر چو چراغ افروزند\r\nدر بزم وصال و هم ملال اندوزند\r\nپیراهن فانوس شود تیره ز دود\r\nهرچند که از برای نورش دوزند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نزدیکان را گر چو چراغ افروزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بزم وصال و هم ملال اندوزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیراهن فانوس شود تیره ز دود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند که از برای نورش دوزند",
+      "CoupletIndex": 1
+    }
+  ]
+}

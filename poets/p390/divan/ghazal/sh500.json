@@ -1,0 +1,93 @@
+{
+  "Id": 31467,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۰۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۰۰",
+  "FullUrl": "/p390/divan/ghazal/sh500",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh500",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فلک انجام کاروبار ما داند چه خواهد شد\r\nاگر دانه نداند، آسیا داند چه خواهد شد\r\nخزانی هست در دنبال هر فصل بهاری را\r\nدرین گلشن همین برگ حنا داند چه خواهد شد\r\nدلم را جز پریشانی نصیبی نیست در عالم\r\nبه این طالع، گرفتم کیمیا داند، چه خواهد شد\r\nچنین کز روی بی مهری و بی پروایی ای بدخو\r\nتو حالم را نمی دانی، خدا داند چه خواهد شد\r\nتغافل می کند بر من سلیم از ذوق می میرم\r\nاگر چشمش نگاه آشنا داند چه خواهد شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فلک انجام کاروبار ما داند چه خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر دانه نداند، آسیا داند چه خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خزانی هست در دنبال هر فصل بهاری را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درین گلشن همین برگ حنا داند چه خواهد شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلم را جز پریشانی نصیبی نیست در عالم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به این طالع، گرفتم کیمیا داند، چه خواهد شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چنین کز روی بی مهری و بی پروایی ای بدخو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تو حالم را نمی دانی، خدا داند چه خواهد شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تغافل می کند بر من سلیم از ذوق می میرم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر چشمش نگاه آشنا داند چه خواهد شد",
+      "CoupletIndex": 4
+    }
+  ]
+}

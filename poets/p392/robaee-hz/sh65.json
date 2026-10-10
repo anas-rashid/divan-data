@@ -1,0 +1,57 @@
+{
+  "Id": 34460,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/p392/robaee-hz/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دانی که به من در غمت آیا چه گذشت؟\r\nبر سرچون شمع،بی تو شبها چه گذشت؟\r\nاز درد فراق، ما ز خود بی خبریم\r\nآیا خبرت هست که بر ما چه گذشت؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانی که به من در غمت آیا چه گذشت؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سرچون شمع،بی تو شبها چه گذشت؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از درد فراق، ما ز خود بی خبریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیا خبرت هست که بر ما چه گذشت؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

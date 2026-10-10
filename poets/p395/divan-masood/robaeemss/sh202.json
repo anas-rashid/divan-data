@@ -1,0 +1,57 @@
+{
+  "Id": 37716,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۰۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh202",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh202",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردون نکشد کمال مسعود ملک\r\nشاهی نبود بسان مسعود ملک\r\nشد دولت قهرمان مسعود ملک\r\nسوگند خورم به جان مسعود ملک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردون نکشد کمال مسعود ملک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاهی نبود بسان مسعود ملک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد دولت قهرمان مسعود ملک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سوگند خورم به جان مسعود ملک",
+      "CoupletIndex": 1
+    }
+  ]
+}

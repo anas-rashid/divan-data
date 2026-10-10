@@ -1,0 +1,93 @@
+{
+  "Id": 33492,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۵",
+  "FullUrl": "/p392/ghazal-hz/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مپسند تشنه لب، دل اندوه پیشه را\r\nیارب ز سنگ فتنه نگهدار شیشه را\r\nظاهر شدی به عالمیان، عجز کوهکن\r\nگر می فتاد با دل ماکار، تیشه را\r\nعشق است چاره هوس خام و پخته ام\r\nآتش بود حریف، تر و خشک بیشه را\r\nنتوانم از غم تو بریدن که در دلم\r\nمحکم نموده، تازه نهال تو ریشه را\r\nگر نبودت خبر ز شهیدان، ببین حزین\r\nرنگین به خون ما نگه جور پیشه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مپسند تشنه لب، دل اندوه پیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یارب ز سنگ فتنه نگهدار شیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ظاهر شدی به عالمیان، عجز کوهکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر می فتاد با دل ماکار، تیشه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق است چاره هوس خام و پخته ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آتش بود حریف، تر و خشک بیشه را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نتوانم از غم تو بریدن که در دلم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "محکم نموده، تازه نهال تو ریشه را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر نبودت خبر ز شهیدان، ببین حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رنگین به خون ما نگه جور پیشه را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18977,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۴۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۴۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1446",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1446",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلگیر نیست از تن، جانهای زنگ بسته\r\nکنج قفس بهشت است، بر مرغ پرشکسته",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلگیر نیست از تن، جانهای زنگ بسته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کنج قفس بهشت است، بر مرغ پرشکسته",
+      "CoupletIndex": 0
+    }
+  ]
+}

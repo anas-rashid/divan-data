@@ -1,0 +1,57 @@
+{
+  "Id": 27007,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۰۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۰۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh401",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh401",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(هرگه لبت به خنده تبسم ادا شود\r\nهر عضو من چو برگ گل از هم جدا شود)\r\n(پیکان یار را نتواند به خود گرفت\r\nگر استخوان من همه آهن ربا شود)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(هرگه لبت به خنده تبسم ادا شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر عضو من چو برگ گل از هم جدا شود)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(پیکان یار را نتواند به خود گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر استخوان من همه آهن ربا شود)",
+      "CoupletIndex": 1
+    }
+  ]
+}

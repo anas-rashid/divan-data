@@ -1,0 +1,57 @@
+{
+  "Id": 30860,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۰۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۰۳",
+  "FullUrl": "/p389/robghm/sh603",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh603",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تجرید گزین تا به نوایی برسی\r\nبگسل ز تعلق که به جایی برسی\r\nبگریز ز کوچه بند نی چون نغمه\r\nشاید که به گوش آشنایی برسی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تجرید گزین تا به نوایی برسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگسل ز تعلق که به جایی برسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگریز ز کوچه بند نی چون نغمه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاید که به گوش آشنایی برسی",
+      "CoupletIndex": 1
+    }
+  ]
+}

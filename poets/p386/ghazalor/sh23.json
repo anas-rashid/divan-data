@@ -1,0 +1,93 @@
+{
+  "Id": 27431,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۳",
+  "FullUrl": "/p386/ghazalor/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دادم به چشم او دل اندوه پیشه را\r\nغافل که مست می شکند زود شیشه را\r\nای مدعی بکوش که محکم گرفته است\r\nعشق همیشه، دامن حسن همیشه را\r\nدر بیستون به صورت شیرین نگاه کن\r\nتا حسن چون به سنگ فرو برد ریشه را\r\nفرهاد را چه ذوق که او با وجود دل\r\nدر کار زخم سنگ کند زخم تیشه را\r\nعرفی ببین فسردگی کشت ماهتاب\r\nامشب که در بغل ننهادیم شیشه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دادم به چشم او دل اندوه پیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غافل که مست می شکند زود شیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مدعی بکوش که محکم گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق همیشه، دامن حسن همیشه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در بیستون به صورت شیرین نگاه کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا حسن چون به سنگ فرو برد ریشه را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فرهاد را چه ذوق که او با وجود دل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در کار زخم سنگ کند زخم تیشه را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی ببین فسردگی کشت ماهتاب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "امشب که در بغل ننهادیم شیشه را",
+      "CoupletIndex": 4
+    }
+  ]
+}

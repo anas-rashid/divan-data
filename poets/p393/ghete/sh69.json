@@ -1,0 +1,54 @@
+{
+  "Id": 36549,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۶۹",
+  "FullUrl": "/p393/ghete/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا در عشق حکم دم‌زدن نیست\r\nچه گویم آه یارای سخن نیست\r\nمرا در هر تن مو از تو دردیست\r\nتو را خود یک سر مو درد من نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا در عشق حکم دم‌زدن نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه گویم آه یارای سخن نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا در هر تن مو از تو دردیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو را خود یک سر مو درد من نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 31986,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۴۸ - بی سواری در سواد هند بودن مشکل است",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۴۸ - بی سواری در سواد هند بودن مشکل است",
+  "FullUrl": "/p390/divan/ghete/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی سواری در سواد هند بودن مشکل است\r\nاسب من مرد و دلم در اضطراب افتاده است\r\nبس که تر دارد پیاده رفتنم، هرکس که دید\r\nگوید این بیچاره پنداری در آب افتاده است!\r\nدست من شد مدتی کز دامن زین کوته است\r\nپای من عمری ست کز چشم رکاب افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی سواری در سواد هند بودن مشکل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسب من مرد و دلم در اضطراب افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس که تر دارد پیاده رفتنم، هرکس که دید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوید این بیچاره پنداری در آب افتاده است!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دست من شد مدتی کز دامن زین کوته است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پای من عمری ست کز چشم رکاب افتاده است",
+      "CoupletIndex": 2
+    }
+  ]
+}

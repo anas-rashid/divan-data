@@ -1,0 +1,54 @@
+{
+  "Id": 37228,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/p393/robaee/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بوجهلی ارباب اول بی‌ریب است\r\nاظهار هنر به پیش ایشان عیب است\r\nالقصه درین طائفهٔ بی‌خردانی\r\nنی شرم حضور است نه حفظ غیب است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بوجهلی ارباب اول بی‌ریب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اظهار هنر به پیش ایشان عیب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "القصه درین طائفهٔ بی‌خردانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی شرم حضور است نه حفظ غیب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

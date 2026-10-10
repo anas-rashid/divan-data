@@ -1,0 +1,42 @@
+{
+  "Id": 26145,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز خط اندیشه نبود چهره آن سرو قامت را\r\nنمی پوشد حجاب ابر خورشید قیامت را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز خط اندیشه نبود چهره آن سرو قامت را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمی پوشد حجاب ابر خورشید قیامت را",
+      "CoupletIndex": 0
+    }
+  ]
+}

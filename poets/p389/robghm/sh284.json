@@ -1,0 +1,57 @@
+{
+  "Id": 30541,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۸۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۸۴",
+  "FullUrl": "/p389/robghm/sh284",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh284",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردان همه برگ ترک عالم سازند\r\nکی تخت قباد و مسند جم سازند\r\nبر چرخ، ستاره گر ندارند چه باک\r\nآیینه زنان نگین خاتم سازند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردان همه برگ ترک عالم سازند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی تخت قباد و مسند جم سازند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر چرخ، ستاره گر ندارند چه باک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه زنان نگین خاتم سازند",
+      "CoupletIndex": 1
+    }
+  ]
+}

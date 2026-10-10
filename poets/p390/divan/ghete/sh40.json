@@ -1,0 +1,54 @@
+{
+  "Id": 31978,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۴۰ - در نرسیدن صله",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۴۰ - در نرسیدن صله",
+  "FullUrl": "/p390/divan/ghete/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که به مدح تو ز من آنچه سزا بود\r\nراضی نشدم تا همه را ذکر نکردم\r\nتا چند کنی فکر، پی جایزه دادن\r\nدر گفتن شعر این همه من فکر نکردم!",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که به مدح تو ز من آنچه سزا بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راضی نشدم تا همه را ذکر نکردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چند کنی فکر، پی جایزه دادن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گفتن شعر این همه من فکر نکردم!",
+      "CoupletIndex": 1
+    }
+  ]
+}

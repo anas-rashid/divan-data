@@ -1,0 +1,57 @@
+{
+  "Id": 37786,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۷۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۷۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh272",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh272",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در آرزوی بوی گل نوروزم\r\nدر حسرت آن نگار عالم سوزم\r\nاز شمع سه گونه کار می آموزم\r\nمی گریم و می گدازم و می سوزم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در آرزوی بوی گل نوروزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حسرت آن نگار عالم سوزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شمع سه گونه کار می آموزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می گریم و می گدازم و می سوزم",
+      "CoupletIndex": 1
+    }
+  ]
+}

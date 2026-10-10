@@ -1,0 +1,66 @@
+{
+  "Id": 36413,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۶۲",
+  "FullUrl": "/p393/natmam/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در غمت گریه فراوان کردم\r\nقطره‌ای بودم و طوفان کردم\r\nتا خطم صورت زلفت گردید\r\nچه‌قدر مشق پریشان کردم\r\nهر قدر چاک به دستم افتاد\r\nهمه در کار گریبان کردم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در غمت گریه فراوان کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطره‌ای بودم و طوفان کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا خطم صورت زلفت گردید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه‌قدر مشق پریشان کردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر قدر چاک به دستم افتاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همه در کار گریبان کردم",
+      "CoupletIndex": 2
+    }
+  ]
+}

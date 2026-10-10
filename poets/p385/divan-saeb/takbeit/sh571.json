@@ -1,0 +1,45 @@
+{
+  "Id": 18102,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۷۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۷۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh571",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh571",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شمع، با سری که به یک موی بسته است\r\nمی‌بایدم ز پیش نسیم سحر گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع، با سری که به یک موی بسته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌بایدم ز پیش نسیم سحر گذشت",
+      "CoupletIndex": 0
+    }
+  ]
+}

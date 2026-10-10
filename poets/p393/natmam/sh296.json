@@ -1,0 +1,66 @@
+{
+  "Id": 36447,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۶",
+  "FullUrl": "/p393/natmam/sh296",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh296",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشکم بکشید پا به دامن\r\nاین طفل نکرده جا به دامن\r\nپای نشناخت آن سر کوی\r\nدیگر نشد آشنا به دامن\r\nخواهم که ز دست او کنم چاک\r\nپیراهن صبر تا به دامن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشکم بکشید پا به دامن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این طفل نکرده جا به دامن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پای نشناخت آن سر کوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیگر نشد آشنا به دامن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خواهم که ز دست او کنم چاک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیراهن صبر تا به دامن",
+      "CoupletIndex": 2
+    }
+  ]
+}

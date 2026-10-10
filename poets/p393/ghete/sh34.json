@@ -1,0 +1,54 @@
+{
+  "Id": 36514,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۴",
+  "FullUrl": "/p393/ghete/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلف او دارد به‌دست از خوش‌نصیبی‌ها رقیب\r\nکس مبادا همچو من از عمر یارب بی‌نصیب\r\nبرنخیزد هرکه بر بستر فتاد از درد عشق\r\nنیستم آزرده‌ گر دستم نمی‌گیرد طبیب",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلف او دارد به‌دست از خوش‌نصیبی‌ها رقیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کس مبادا همچو من از عمر یارب بی‌نصیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برنخیزد هرکه بر بستر فتاد از درد عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نیستم آزرده‌ گر دستم نمی‌گیرد طبیب",
+      "CoupletIndex": 1
+    }
+  ]
+}

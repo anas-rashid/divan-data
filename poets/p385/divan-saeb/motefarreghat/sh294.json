@@ -1,0 +1,57 @@
+{
+  "Id": 26900,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۹۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۹۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh294",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh294",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همان خشک است مژگان گر به خوناب دگر غلتد\r\nنگردد رشته تر چندان که در آب گهر غلتد\r\nکه بیرون می‌دهد راز گلوسوز محبت را؟\r\nعجب دارم ز دست رعشه‌داران این گهر غلتد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همان خشک است مژگان گر به خوناب دگر غلتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگردد رشته تر چندان که در آب گهر غلتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که بیرون می‌دهد راز گلوسوز محبت را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عجب دارم ز دست رعشه‌داران این گهر غلتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

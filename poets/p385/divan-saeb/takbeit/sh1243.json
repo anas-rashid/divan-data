@@ -1,0 +1,45 @@
+{
+  "Id": 18774,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۴۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۴۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1243",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1243",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نفسی چند که در غم گذراندن ستم است\r\nهمچو گل صرف شکر خنده بیجا کردیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفسی چند که در غم گذراندن ستم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو گل صرف شکر خنده بیجا کردیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

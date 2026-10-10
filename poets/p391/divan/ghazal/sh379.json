@@ -1,0 +1,54 @@
+{
+  "Id": 32471,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۷۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۷۹",
+  "FullUrl": "/p391/divan/ghazal/sh379",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh379",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خوش آنکس کو گلی از گلشن دل چید و رفت\r\nجلوهٔ روی تو چون آیینه در خور دید و رفت\r\nدر ره همت به پای شوق مانند حباب\r\nچشم را از هر دو عالم می توان پوشید و رفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خوش آنکس کو گلی از گلشن دل چید و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جلوهٔ روی تو چون آیینه در خور دید و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ره همت به پای شوق مانند حباب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم را از هر دو عالم می توان پوشید و رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

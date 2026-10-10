@@ -1,0 +1,93 @@
+{
+  "Id": 33560,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۳۳",
+  "FullUrl": "/p392/ghazal-hz/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از زلف تو داریم پریشانی خود را\r\nوز آینه ی روی تو حیرانی خود را\r\nدیگر چومن امروز به شیرین سخنی نیست\r\nاز لعل تو دارم گهر افشانی خود را\r\nجایی که اثر نیست، فغان هرزه دراییست\r\nدل باکه سراید غم پنهانی خود را؟\r\nتنها بگدازیم من و شمع وگر نه\r\nدارد همه کس، فکر تن آسانی خود را\r\nبزمی که حزین تو در آن گرم سخن شد\r\nظاهر نکند شمع، زبان دانی خود را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از زلف تو داریم پریشانی خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز آینه ی روی تو حیرانی خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیگر چومن امروز به شیرین سخنی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از لعل تو دارم گهر افشانی خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جایی که اثر نیست، فغان هرزه دراییست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل باکه سراید غم پنهانی خود را؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تنها بگدازیم من و شمع وگر نه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دارد همه کس، فکر تن آسانی خود را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بزمی که حزین تو در آن گرم سخن شد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ظاهر نکند شمع، زبان دانی خود را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32091,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/p390/divan/robaee/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دشمن اهل سخن از بی سخنی\r\nدر عیب هنر، کار تو گوهرشکنی\r\nانصاف چگونه در تو گنجد، که پر است\r\nبیرون تو از کبر و درونت ز منی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دشمن اهل سخن از بی سخنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عیب هنر، کار تو گوهرشکنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف چگونه در تو گنجد، که پر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیرون تو از کبر و درونت ز منی",
+      "CoupletIndex": 1
+    }
+  ]
+}

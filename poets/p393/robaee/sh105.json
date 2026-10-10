@@ -1,0 +1,54 @@
+{
+  "Id": 37277,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/p393/robaee/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن چشم سیه مست ببینید آخر\r\nترکی که مرا خست ببینید آخر\r\nمنعم مکنید دیگر از کشته شدن\r\nآن دشنه و آن دست ببینید آخر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن چشم سیه مست ببینید آخر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترکی که مرا خست ببینید آخر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منعم مکنید دیگر از کشته شدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن دشنه و آن دست ببینید آخر",
+      "CoupletIndex": 1
+    }
+  ]
+}

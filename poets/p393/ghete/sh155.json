@@ -1,0 +1,54 @@
+{
+  "Id": 36635,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۵",
+  "FullUrl": "/p393/ghete/sh155",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh155",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر حال دل محزون نویسم\r\nمصیبت‌نامه‌ها از خون نویسم\r\nروا باشد که چشم دجلهٔ زار\r\nاگر جیحون و گر سیحون نویسم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر حال دل محزون نویسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مصیبت‌نامه‌ها از خون نویسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روا باشد که چشم دجلهٔ زار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر جیحون و گر سیحون نویسم",
+      "CoupletIndex": 1
+    }
+  ]
+}

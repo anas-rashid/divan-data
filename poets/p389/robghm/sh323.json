@@ -1,0 +1,57 @@
+{
+  "Id": 30580,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۲۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۲۳",
+  "FullUrl": "/p389/robghm/sh323",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh323",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کش نظر بلند و برجسته بود\r\nچون عشق، ز بند دو جهان رسته بود\r\nکوچک‌خردان زیر فلک در قیدند\r\nکودک در مهد، دست و پا بسته بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کش نظر بلند و برجسته بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون عشق، ز بند دو جهان رسته بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوچک‌خردان زیر فلک در قیدند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کودک در مهد، دست و پا بسته بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

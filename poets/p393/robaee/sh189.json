@@ -1,0 +1,54 @@
+{
+  "Id": 37361,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/p393/robaee/sh189",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh189",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "واقف ز سبو و شیشه و پیمانه\r\nنشکست خمار و من شدم دیوانه\r\nدر پای خم افتاده‌ام و می‌گویم\r\nفریادرس ای کلان‌تر میخانه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "واقف ز سبو و شیشه و پیمانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشکست خمار و من شدم دیوانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پای خم افتاده‌ام و می‌گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریادرس ای کلان‌تر میخانه",
+      "CoupletIndex": 1
+    }
+  ]
+}

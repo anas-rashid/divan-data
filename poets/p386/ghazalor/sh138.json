@@ -1,0 +1,93 @@
+{
+  "Id": 27546,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۳۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۳۸",
+  "FullUrl": "/p386/ghazalor/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک سخن نیست که خاموشی از آن بهتر نیست\r\nنیست علمی که فراموشی از آن بهتر نیست\r\nاینک اصحاب حرم ، جرعه زنی، نزع و صلاح \r\nکو صلاحی که قدح نوشی از آن بهتر نیست\r\nگرچه از هم نفسان جمله وفا می بینم\r\nآن وفا کو که جفا کوشی از آن بهتر نیست\r\nهست هشیاری آسوده دلان قابل راز\r\nاین قدر هست که بیهوشی از آن بهتر نیست\r\nگفتی ام عیب تو عرفی، به چه پوشیم، بگو\r\nهر لباسش که تو پوشی از آن بهتر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک سخن نیست که خاموشی از آن بهتر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست علمی که فراموشی از آن بهتر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اینک اصحاب حرم ، جرعه زنی، نزع و صلاح ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو صلاحی که قدح نوشی از آن بهتر نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرچه از هم نفسان جمله وفا می بینم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن وفا کو که جفا کوشی از آن بهتر نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هست هشیاری آسوده دلان قابل راز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این قدر هست که بیهوشی از آن بهتر نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گفتی ام عیب تو عرفی، به چه پوشیم، بگو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر لباسش که تو پوشی از آن بهتر نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 29937,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/p389/ghazalgm/sh189",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh189",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سزد چو جلوه حسنت نظاره‌خواه شود\r\nکه صد حیات خضر صرف یک نگاه شود\r\nبرد خجالت اگر مدعی بود یوسف\r\nبرای دعوی حسنت چو خط گواه شود\r\nدلم برای تو خون و به غیرتم که مباد\r\nز گریه خون دلم را به دیده راه شود\r\nنظر جدا ز تو در دیده نیشتر گردد\r\nنفس ز هجر تو در سینه برق آه شود\r\nمزن بر اختر بخت من ای فلک پهلو\r\nشبت مباد که چون روز من سیاه شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سزد چو جلوه حسنت نظاره‌خواه شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که صد حیات خضر صرف یک نگاه شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برد خجالت اگر مدعی بود یوسف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برای دعوی حسنت چو خط گواه شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلم برای تو خون و به غیرتم که مباد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز گریه خون دلم را به دیده راه شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نظر جدا ز تو در دیده نیشتر گردد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نفس ز هجر تو در سینه برق آه شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مزن بر اختر بخت من ای فلک پهلو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شبت مباد که چون روز من سیاه شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

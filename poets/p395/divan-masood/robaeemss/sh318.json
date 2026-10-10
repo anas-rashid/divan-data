@@ -1,0 +1,57 @@
+{
+  "Id": 37832,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh318",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh318",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "انده چه خورم چراست اندر خوردن\r\nگر هست ز کرباس مرا پیراهن\r\nکز نیش خسک دارم در زندان من\r\nپوشیده به بهرمان همه جامه و تن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انده چه خورم چراست اندر خوردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر هست ز کرباس مرا پیراهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کز نیش خسک دارم در زندان من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پوشیده به بهرمان همه جامه و تن",
+      "CoupletIndex": 1
+    }
+  ]
+}

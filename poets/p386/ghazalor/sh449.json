@@ -1,0 +1,66 @@
+{
+  "Id": 27857,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۴۴۹",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۴۴۹",
+  "FullUrl": "/p386/ghazalor/sh449",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh449",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما دل به جان خریده و بر باد داده ایم\r\nمرغ حرم گرفته به صیاد داده ایم\r\nسهل است با قفس، دل اگر رفت به سوی دوست\r\nما مرغ کشته ایم که بر باد داده ایم\r\nسرمایهٔ متاع محبت به دست ماست\r\nاین مشتهر به گوش نفریاد داده ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما دل به جان خریده و بر باد داده ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ حرم گرفته به صیاد داده ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سهل است با قفس، دل اگر رفت به سوی دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما مرغ کشته ایم که بر باد داده ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرمایهٔ متاع محبت به دست ماست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این مشتهر به گوش نفریاد داده ایم",
+      "CoupletIndex": 2
+    }
+  ]
+}

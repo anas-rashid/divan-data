@@ -1,0 +1,57 @@
+{
+  "Id": 34451,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/p392/robaee-hz/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دردا که دری نسفته می باید رفت\r\nراز دل خود نگفته می باید رفت\r\nمی باید داد، جان شیرین بی تو\r\nتلخی ز تو ناشنفته می باید رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که دری نسفته می باید رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راز دل خود نگفته می باید رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می باید داد، جان شیرین بی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخی ز تو ناشنفته می باید رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

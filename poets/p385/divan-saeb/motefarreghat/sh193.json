@@ -1,0 +1,57 @@
+{
+  "Id": 26799,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می چسان مغز من آتش روان را پرورد؟\r\nروغن بادام چون ریگ روان را پرورد؟\r\nزود باشد غوطه در بحر تهیدستی زند\r\nچون صدف هر کس یتیم دیگران را پرورد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می چسان مغز من آتش روان را پرورد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روغن بادام چون ریگ روان را پرورد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زود باشد غوطه در بحر تهیدستی زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون صدف هر کس یتیم دیگران را پرورد",
+      "CoupletIndex": 1
+    }
+  ]
+}

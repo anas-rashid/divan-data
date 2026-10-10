@@ -1,0 +1,66 @@
+{
+  "Id": 36314,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۳",
+  "FullUrl": "/p393/natmam/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی امید چه نفع از تو ای فلک دارد\r\nبه زخم هر که تو مردم نهی نمک دارد\r\nرقیب سوخته را بار اختلاط مده\r\nحذر ز صحبت او کن که آتشک دارد\r\nز جور چرخ چه پرواست دردمندان را\r\nکه طفل اشک کجا بیم از فلک دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی امید چه نفع از تو ای فلک دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زخم هر که تو مردم نهی نمک دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رقیب سوخته را بار اختلاط مده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حذر ز صحبت او کن که آتشک دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز جور چرخ چه پرواست دردمندان را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که طفل اشک کجا بیم از فلک دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

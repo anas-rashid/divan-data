@@ -1,0 +1,54 @@
+{
+  "Id": 36509,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۹",
+  "FullUrl": "/p393/ghete/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه رنگ همچو حنا پای آن جوان بوسم\r\nمگر مدد رسد از پیر دستگیر مرا\r\nبه خاک چون ننشینم که آن کمان‌ابرو\r\nز خویش دور فکنده است همچو تیر مرا (تکراری)",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه رنگ همچو حنا پای آن جوان بوسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگر مدد رسد از پیر دستگیر مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خاک چون ننشینم که آن کمان‌ابرو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز خویش دور فکنده است همچو تیر مرا (تکراری)",
+      "CoupletIndex": 1
+    }
+  ]
+}

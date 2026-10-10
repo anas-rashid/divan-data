@@ -1,0 +1,57 @@
+{
+  "Id": 37526,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در حبس مرنج با چنین آهن‌ها\r\nصالح بی‌تو چگونه باشم تنها\r\nگه خون گریم به مرگ تو دامن‌ها\r\nگه پاره کنم ز درد پیراهن‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در حبس مرنج با چنین آهن‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صالح بی‌تو چگونه باشم تنها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه خون گریم به مرگ تو دامن‌ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه پاره کنم ز درد پیراهن‌ها",
+      "CoupletIndex": 1
+    }
+  ]
+}

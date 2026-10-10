@@ -1,0 +1,57 @@
+{
+  "Id": 30345,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/p389/robghm/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیشی که خورد بر دل مجروح کجاست\r\nدردی که ازو تازه شود روح کجاست\r\nطوفان بلا بر سرم آورد خرد\r\nای عشق بگو سفینه نوح کجاست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیشی که خورد بر دل مجروح کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردی که ازو تازه شود روح کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طوفان بلا بر سرم آورد خرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای عشق بگو سفینه نوح کجاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

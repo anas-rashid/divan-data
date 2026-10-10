@@ -1,0 +1,42 @@
+{
+  "Id": 26215,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ناله نی حدی قافله ارواح است\r\nاین کمربسته، شبان گله ارواح است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناله نی حدی قافله ارواح است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کمربسته، شبان گله ارواح است",
+      "CoupletIndex": 0
+    }
+  ]
+}

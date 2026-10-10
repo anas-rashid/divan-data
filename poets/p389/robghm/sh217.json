@@ -1,0 +1,57 @@
+{
+  "Id": 30474,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱۷",
+  "FullUrl": "/p389/robghm/sh217",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh217",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی که غم عشق تو بنیادش برد\r\nجز یاد تو هرچه بود از یادش برد\r\nروزی که نشد صرف تو عمرش، هدرست\r\nهر گل که نچید باغبان، یادش برد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی که غم عشق تو بنیادش برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز یاد تو هرچه بود از یادش برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزی که نشد صرف تو عمرش، هدرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر گل که نچید باغبان، یادش برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

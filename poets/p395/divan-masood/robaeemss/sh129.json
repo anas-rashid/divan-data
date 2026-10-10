@@ -1,0 +1,57 @@
+{
+  "Id": 37643,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کوه گذار آهوی دشت نورد\r\nاندر تگ گرم شد به تگ بهر تو سرد\r\nتیری که همیشه جگر شیران خورد\r\nآلوده به آهویی چرا باید کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کوه گذار آهوی دشت نورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندر تگ گرم شد به تگ بهر تو سرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیری که همیشه جگر شیران خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آلوده به آهویی چرا باید کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

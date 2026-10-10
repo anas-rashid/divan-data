@@ -1,0 +1,57 @@
+{
+  "Id": 26674,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مجنون کند فریب نگاهت غزاله را\r\nبوی خوش تو تازه کند داغ لاله را\r\nصد زخم ناف سوز خورد آهوی ختا\r\nبر هم زنی چو طره مشکین کلاله را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مجنون کند فریب نگاهت غزاله را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی خوش تو تازه کند داغ لاله را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد زخم ناف سوز خورد آهوی ختا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر هم زنی چو طره مشکین کلاله را",
+      "CoupletIndex": 1
+    }
+  ]
+}

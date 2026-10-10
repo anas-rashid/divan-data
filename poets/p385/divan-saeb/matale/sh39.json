@@ -1,0 +1,42 @@
+{
+  "Id": 26127,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خط مشکین خواست عذر آن عذار ساده را\r\nسرمه ای در کار بود این چشم برف افتاده را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خط مشکین خواست عذر آن عذار ساده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمه ای در کار بود این چشم برف افتاده را",
+      "CoupletIndex": 0
+    }
+  ]
+}

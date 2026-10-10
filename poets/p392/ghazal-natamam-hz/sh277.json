@@ -1,0 +1,45 @@
+{
+  "Id": 34936,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۷۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۷۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh277",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh277",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکایت نیست، مطلب ناله آهنگ است می نالم\r\nز دل تنگی نمی نالم، دلم تنگ است می نالم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکایت نیست، مطلب ناله آهنگ است می نالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز دل تنگی نمی نالم، دلم تنگ است می نالم",
+      "CoupletIndex": 0
+    }
+  ]
+}

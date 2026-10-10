@@ -1,0 +1,57 @@
+{
+  "Id": 30727,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۷۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۷۰",
+  "FullUrl": "/p389/robghm/sh470",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh470",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چندی ز خرد، پختگی اندوخته‌ام\r\nچندی چو شرر، سوختن آموخته‌ام\r\nاین دم که به حال خود نظر دوخته‌ام\r\nنی خامم و نی پخته و نی سوخته‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندی ز خرد، پختگی اندوخته‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چندی چو شرر، سوختن آموخته‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این دم که به حال خود نظر دوخته‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی خامم و نی پخته و نی سوخته‌ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

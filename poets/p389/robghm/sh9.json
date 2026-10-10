@@ -1,0 +1,57 @@
+{
+  "Id": 30266,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/p389/robghm/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بی‌هنری‌ست اینقدر داد مرا\r\nکز قید هنر نکرد آزاد مرا\r\nچون تیغ چه سان کنم نهان جوهر خویش؟\r\nچون بخیه به روی کار افتاد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بی‌هنری‌ست اینقدر داد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز قید هنر نکرد آزاد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون تیغ چه سان کنم نهان جوهر خویش؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بخیه به روی کار افتاد مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

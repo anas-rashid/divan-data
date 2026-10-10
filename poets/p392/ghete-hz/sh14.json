@@ -1,0 +1,69 @@
+{
+  "Id": 34353,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۱۴ - قطعه در صفت دنیاطلبان",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۱۴ - قطعه در صفت دنیاطلبان",
+  "FullUrl": "/p392/ghete-hz/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دنیاطلبان سهیم خود را\r\nجان منتظرند تا برآید\r\nخواهند فنای یکدگر را\r\nتا کار به مدعا برآید\r\nدر ماتم مرگ خر همیشه\r\nسگ را، شکم از عزا برآید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیاطلبان سهیم خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان منتظرند تا برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهند فنای یکدگر را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کار به مدعا برآید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در ماتم مرگ خر همیشه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سگ را، شکم از عزا برآید",
+      "CoupletIndex": 2
+    }
+  ]
+}

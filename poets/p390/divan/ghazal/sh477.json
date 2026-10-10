@@ -1,0 +1,93 @@
+{
+  "Id": 31444,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۷۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۷۷",
+  "FullUrl": "/p390/divan/ghazal/sh477",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh477",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوبهار آمد که روی باغ را گلگون کند\r\nسوز را در رقص آرد، بید را مجنون کند\r\nکرد ظاهر غنچه ی گل را بهار از شاخسار\r\nهمچو طوطی کز قفس منقار را بیرون کند\r\nضعف ما از قوت عشق است، کو صاحبدلی\r\nتا چو مو باریک گردد فکر این مضمون کند\r\nدر گلستانی که چون من بلبلی شد نغمه ساز\r\nباغبان را زاغ اگر چشمش بود، بیرون کند\r\nصد خیابان سرو، یک دم می شود موزون سلیم\r\nباغبان گر می تواند مصرعی موزون کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوبهار آمد که روی باغ را گلگون کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوز را در رقص آرد، بید را مجنون کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرد ظاهر غنچه ی گل را بهار از شاخسار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو طوطی کز قفس منقار را بیرون کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ضعف ما از قوت عشق است، کو صاحبدلی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا چو مو باریک گردد فکر این مضمون کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در گلستانی که چون من بلبلی شد نغمه ساز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "باغبان را زاغ اگر چشمش بود، بیرون کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صد خیابان سرو، یک دم می شود موزون سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "باغبان گر می تواند مصرعی موزون کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26839,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh233",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh233",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ازان فرهاد دایم جای در کوه و کمر دارد\r\nکه از هر لاله نقش پای گلگون در نظر دارد\r\nدلم از فکر مژگانش نمی آید برون صائب\r\nهمیشه خون گرم من جدل با نیشتر دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازان فرهاد دایم جای در کوه و کمر دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از هر لاله نقش پای گلگون در نظر دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلم از فکر مژگانش نمی آید برون صائب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همیشه خون گرم من جدل با نیشتر دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

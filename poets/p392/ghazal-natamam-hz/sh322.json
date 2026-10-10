@@ -1,0 +1,81 @@
+{
+  "Id": 34981,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۲۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۲۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh322",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh322",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مطرب سرود شوق به مستان چه می بری؟\r\nشوریده ایم، نام بیابان چه می بری؟\r\nشعر ترم، به بزم خراباتیان خوش است\r\nاین باده را به صومعه داران چه می بری؟\r\nای دل خیال غمزه ی خون ریزِ یار کن\r\nرشک این قدر، به زخم نمایان چه می بری؟\r\nدست مرا به سینهٔ چاک، آشنا مکن\r\nعریان تنیم، نام گریبان چه می بری؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطرب سرود شوق به مستان چه می بری؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شوریده ایم، نام بیابان چه می بری؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شعر ترم، به بزم خراباتیان خوش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این باده را به صومعه داران چه می بری؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای دل خیال غمزه ی خون ریزِ یار کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رشک این قدر، به زخم نمایان چه می بری؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دست مرا به سینهٔ چاک، آشنا مکن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عریان تنیم، نام گریبان چه می بری؟",
+      "CoupletIndex": 3
+    }
+  ]
+}

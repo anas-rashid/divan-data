@@ -1,0 +1,57 @@
+{
+  "Id": 34702,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنگین بود سخن، دل در خون تپیده را\r\nکردم روانه نامه رنگ پریده را\r\nوقت است اگر نصیب شود خواب راحتی\r\nبالین کنیم دستِ ز دنیا بریده را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگین بود سخن، دل در خون تپیده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کردم روانه نامه رنگ پریده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وقت است اگر نصیب شود خواب راحتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بالین کنیم دستِ ز دنیا بریده را",
+      "CoupletIndex": 1
+    }
+  ]
+}

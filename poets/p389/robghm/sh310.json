@@ -1,0 +1,57 @@
+{
+  "Id": 30567,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۱۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۱۰",
+  "FullUrl": "/p389/robghm/sh310",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh310",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نور رخت، سها چو خورشید بود\r\nآن کش تو نه ای امید، نومید بود\r\nتو عین بقا و دیگران محض فنا\r\nهرکی به تو زنده گشت، جاوید بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نور رخت، سها چو خورشید بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن کش تو نه ای امید، نومید بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو عین بقا و دیگران محض فنا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرکی به تو زنده گشت، جاوید بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

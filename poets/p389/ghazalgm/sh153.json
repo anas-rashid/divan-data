@@ -1,0 +1,93 @@
+{
+  "Id": 29901,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۵۳",
+  "FullUrl": "/p389/ghazalgm/sh153",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh153",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از چشمه‌سار چشمم از بس که نم برآید\r\nترسم که رفته رفته طوفان غم برآید\r\nاز اتحاد چشمم با پای، در ره عشق\r\nمالم چو دیده بر خاک، نقش قدم برآید\r\nگر دست شام هجران گیرد گلوی شب را\r\nمشکل که تا قیامت، از صبح، دم برآید\r\nدر موج‌خیز دریا هر لحظه نیست طوفان\r\nکز رشک آب چشمم دریا به هم برآید\r\nاز بار محنت دل فرسود جسم قدسی\r\nیک مشت استخوان چند با کوه غم برآید؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چشمه‌سار چشمم از بس که نم برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترسم که رفته رفته طوفان غم برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از اتحاد چشمم با پای، در ره عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مالم چو دیده بر خاک، نقش قدم برآید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر دست شام هجران گیرد گلوی شب را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مشکل که تا قیامت، از صبح، دم برآید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در موج‌خیز دریا هر لحظه نیست طوفان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کز رشک آب چشمم دریا به هم برآید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از بار محنت دل فرسود جسم قدسی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک مشت استخوان چند با کوه غم برآید؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

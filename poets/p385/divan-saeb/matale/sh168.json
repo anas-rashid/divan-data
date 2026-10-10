@@ -1,0 +1,42 @@
+{
+  "Id": 26256,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۶۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشمم ز پهلوی دل دیوانه پر شده است\r\nاز دست شیشه ام دل پیمانه پر شده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمم ز پهلوی دل دیوانه پر شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دست شیشه ام دل پیمانه پر شده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28922,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/p387/divan/robaee/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دستت اگر ای قدوه احرار شکست\r\nنه از ستم چرخ جفاکار شکست\r\nتو نخل ریاض کرمی و دستت\r\nشاخیست که از گرانی بار شکست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دستت اگر ای قدوه احرار شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه از ستم چرخ جفاکار شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو نخل ریاض کرمی و دستت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاخیست که از گرانی بار شکست",
+      "CoupletIndex": 1
+    }
+  ]
+}

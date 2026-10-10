@@ -1,0 +1,93 @@
+{
+  "Id": 31560,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۹۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۳",
+  "FullUrl": "/p390/divan/ghazal/sh593",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh593",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگذرد فتنه ز راهی که پی او باشد\r\nاز برای چه کسی این همه بدخو باشد\r\nمار هرچند ضعیف است، نه آخر مار است؟\r\nایمن از زلف مشو گر همه یک مو باشد\r\nبرهمن را ز پرستیدن بت منع مکن\r\nشاید ای شیخ که حق بر طرف او باشد\r\nچون تواند کسی از خاک وطن سر پیچد؟\r\nخشت خم دختر رز را گل سرشو باشد\r\nمی کند راز جهان در نظرم جلوه سلیم\r\nجام جمشید مرا کاسه ی زانو باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگذرد فتنه ز راهی که پی او باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از برای چه کسی این همه بدخو باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مار هرچند ضعیف است، نه آخر مار است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمن از زلف مشو گر همه یک مو باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برهمن را ز پرستیدن بت منع مکن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شاید ای شیخ که حق بر طرف او باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون تواند کسی از خاک وطن سر پیچد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خشت خم دختر رز را گل سرشو باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می کند راز جهان در نظرم جلوه سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جام جمشید مرا کاسه ی زانو باشد",
+      "CoupletIndex": 4
+    }
+  ]
+}

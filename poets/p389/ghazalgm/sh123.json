@@ -1,0 +1,93 @@
+{
+  "Id": 29871,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/p389/ghazalgm/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیوسته فکر وصل بتان پیشه من است\r\nکوتاه‌تر ز فکر من اندیشه من است\r\nسنگی اگر به شیشه برد راه سنگ اوست\r\nگر شیشه‌ای به سنگ خورد شیشه من است\r\nزحمت ندید مورچه‌ای زیر پای من\r\nکاین پای نیست، چوب ته تیشه من است\r\nهرجا نهال مهر و محبت شود بلند\r\nچون نیک بنگری ز رگ و ریشه من است\r\nکی آشنا بود دل هرکس به درد عشق\r\nقدسی به من گذار که این پیشه من است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیوسته فکر وصل بتان پیشه من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوتاه‌تر ز فکر من اندیشه من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سنگی اگر به شیشه برد راه سنگ اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر شیشه‌ای به سنگ خورد شیشه من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زحمت ندید مورچه‌ای زیر پای من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کاین پای نیست، چوب ته تیشه من است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هرجا نهال مهر و محبت شود بلند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون نیک بنگری ز رگ و ریشه من است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کی آشنا بود دل هرکس به درد عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "قدسی به من گذار که این پیشه من است",
+      "CoupletIndex": 4
+    }
+  ]
+}

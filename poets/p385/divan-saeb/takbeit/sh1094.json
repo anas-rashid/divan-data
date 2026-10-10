@@ -1,0 +1,45 @@
+{
+  "Id": 18625,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۹۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۹۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1094",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1094",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "راهی که راهزن زد، یک چند امن باشد\r\nایمن شدم ز شیطان، تا توبه را شکستم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "راهی که راهزن زد، یک چند امن باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایمن شدم ز شیطان، تا توبه را شکستم",
+      "CoupletIndex": 0
+    }
+  ]
+}

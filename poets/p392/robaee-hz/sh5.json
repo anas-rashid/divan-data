@@ -1,0 +1,57 @@
+{
+  "Id": 34400,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/p392/robaee-hz/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دیدهٔ هر که شق کند پردهٔ خواب\r\nسرتاسر آفاق بود موج سراب\r\nساقی، قدحی در ده از آن بادهٔ ناب\r\nسرّ دو جهان بشنو ازین مست خراب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیدهٔ هر که شق کند پردهٔ خواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرتاسر آفاق بود موج سراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساقی، قدحی در ده از آن بادهٔ ناب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرّ دو جهان بشنو ازین مست خراب",
+      "CoupletIndex": 1
+    }
+  ]
+}

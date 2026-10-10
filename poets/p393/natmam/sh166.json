@@ -1,0 +1,66 @@
+{
+  "Id": 36317,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۶",
+  "FullUrl": "/p393/natmam/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ره نمی‌یابد سکندر هم به دولت‌خانه‌اش\r\nحیرتی دارم که چون آیینه را رو می‌دهد\r\nمصرعی گر بعد ماهی می‌کند موزون هلال\r\nیار در آنی جوابش را به ابرو می‌دهد\r\nگر دماغی تازه خواهی جرعه‌ای بر ما فشان\r\nآب چون بر خاک می‌پاشد کسی بو می‌دهد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ره نمی‌یابد سکندر هم به دولت‌خانه‌اش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیرتی دارم که چون آیینه را رو می‌دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مصرعی گر بعد ماهی می‌کند موزون هلال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یار در آنی جوابش را به ابرو می‌دهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر دماغی تازه خواهی جرعه‌ای بر ما فشان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آب چون بر خاک می‌پاشد کسی بو می‌دهد",
+      "CoupletIndex": 2
+    }
+  ]
+}

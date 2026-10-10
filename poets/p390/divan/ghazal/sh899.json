@@ -1,0 +1,93 @@
+{
+  "Id": 31866,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۹۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۹۹",
+  "FullUrl": "/p390/divan/ghazal/sh899",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh899",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رو به آزار دل خصم دل آزار منه\r\nگر همه شعله شوی، پا به سر خار منه\r\nپرتو فیض کی از صحبت هرکس خیزد\r\nسینه چون آینه بر سبزه ی زنگار منه\r\nمردم از رشک تو، بیمار نه ای، ای خورشید\r\nمگذر از کوچه ی او، پشت به دیوار منه\r\nموج گل در ره دیوانه بود دام جنون\r\nای دل از من بشنو، پای به گلزار منه\r\nعافیت می طلبی، بی سر و پا باش سلیم\r\nسر درین باغ چو گل بر سر دستار منه",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رو به آزار دل خصم دل آزار منه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر همه شعله شوی، پا به سر خار منه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرتو فیض کی از صحبت هرکس خیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سینه چون آینه بر سبزه ی زنگار منه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مردم از رشک تو، بیمار نه ای، ای خورشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگذر از کوچه ی او، پشت به دیوار منه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "موج گل در ره دیوانه بود دام جنون",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای دل از من بشنو، پای به گلزار منه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عافیت می طلبی، بی سر و پا باش سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سر درین باغ چو گل بر سر دستار منه",
+      "CoupletIndex": 4
+    }
+  ]
+}

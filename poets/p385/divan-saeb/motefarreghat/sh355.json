@@ -1,0 +1,57 @@
+{
+  "Id": 26961,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۵۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۵۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh355",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh355",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سبکروی به صف دشمنان شبیخون زد\r\nکه نعل سیر به گلگون عزم وارون زد\r\nکنار خویش ز خون شفق لبالب دید\r\nچو صبح هر که دم خوش به زیر گردون زد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سبکروی به صف دشمنان شبیخون زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نعل سیر به گلگون عزم وارون زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کنار خویش ز خون شفق لبالب دید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو صبح هر که دم خوش به زیر گردون زد",
+      "CoupletIndex": 1
+    }
+  ]
+}

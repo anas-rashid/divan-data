@@ -1,0 +1,57 @@
+{
+  "Id": 32207,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/p391/divan/ghazal/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترسم که خراشد تن نازک بدنم را\r\nاز نکهت گل جامه مکن سیم تنم را\r\nچون موج که برهم خورد از وی کف دریا\r\nدر خاک درد دل ز طپیدن کفنم را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترسم که خراشد تن نازک بدنم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نکهت گل جامه مکن سیم تنم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون موج که برهم خورد از وی کف دریا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خاک درد دل ز طپیدن کفنم را",
+      "CoupletIndex": 1
+    }
+  ]
+}

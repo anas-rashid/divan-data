@@ -1,0 +1,57 @@
+{
+  "Id": 30654,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۹۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۹۷",
+  "FullUrl": "/p389/robghm/sh397",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh397",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سیری نپذیرد از هوس نفس دلیر\r\nعشق است به طعمه‌ای رضامند چو شیر\r\nافتد هوس از کار و تسلی نشود\r\nطفل از بازی مانده توان یافت، نه سیر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیری نپذیرد از هوس نفس دلیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق است به طعمه‌ای رضامند چو شیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افتد هوس از کار و تسلی نشود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طفل از بازی مانده توان یافت، نه سیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

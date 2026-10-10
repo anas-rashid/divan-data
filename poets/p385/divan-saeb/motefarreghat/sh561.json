@@ -1,0 +1,81 @@
+{
+  "Id": 27167,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۶۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۶۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh561",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh561",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "راز عشق از دل بی تاب نیاید بیرون\r\nگل از آتش، شکر از آب نیاید بیرون\r\nنگه از چشم کبود تو چه خوش می آید\r\nیوسف از نیل به این آب نیاید بیرون\r\nدر چنین فصل بهاری که گل از سنگ دمید\r\nزاهد از گوشه محراب نیاید بیرون\r\nنیست از ورطه افلاک خلاصی ممکن\r\nبه شنا موج ز گرداب نیاید بیرون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "راز عشق از دل بی تاب نیاید بیرون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل از آتش، شکر از آب نیاید بیرون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگه از چشم کبود تو چه خوش می آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یوسف از نیل به این آب نیاید بیرون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در چنین فصل بهاری که گل از سنگ دمید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زاهد از گوشه محراب نیاید بیرون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیست از ورطه افلاک خلاصی ممکن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به شنا موج ز گرداب نیاید بیرون",
+      "CoupletIndex": 3
+    }
+  ]
+}

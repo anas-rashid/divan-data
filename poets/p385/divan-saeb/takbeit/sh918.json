@@ -1,0 +1,45 @@
+{
+  "Id": 18449,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۱۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۱۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh918",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh918",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صحبت صافدلان برق صفت در گذرست\r\nهر چه دارید به می در شب مهتاب دهید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحبت صافدلان برق صفت در گذرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه دارید به می در شب مهتاب دهید",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37182,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/p393/robaee/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این دل باشد دلیل در راه خدا\r\nاین دل بلد است کعبهٔ مقصد را\r\nزنهار که از شرابش آلوده مکن\r\nبیکار ز آب می‌شود قبله‌نما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این دل باشد دلیل در راه خدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این دل بلد است کعبهٔ مقصد را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار که از شرابش آلوده مکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیکار ز آب می‌شود قبله‌نما",
+      "CoupletIndex": 1
+    }
+  ]
+}

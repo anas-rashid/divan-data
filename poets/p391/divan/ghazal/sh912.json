@@ -1,0 +1,57 @@
+{
+  "Id": 33004,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۱۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۱۲",
+  "FullUrl": "/p391/divan/ghazal/sh912",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh912",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فزونتر گردد از زهد ریایی نخوت مردم\r\nکدوی باده بر خود بند تا خود را نسازی گم\r\nگره از رشتهٔ تقدیر نگشاید اگر جویا\r\nسراسر پنجهٔ سعی تو یک ناخن شود چون سم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فزونتر گردد از زهد ریایی نخوت مردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کدوی باده بر خود بند تا خود را نسازی گم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گره از رشتهٔ تقدیر نگشاید اگر جویا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سراسر پنجهٔ سعی تو یک ناخن شود چون سم",
+      "CoupletIndex": 1
+    }
+  ]
+}

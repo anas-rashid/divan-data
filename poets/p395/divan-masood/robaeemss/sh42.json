@@ -1,0 +1,57 @@
+{
+  "Id": 37556,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۴۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که تو در دلی خرد در سر اوست\r\nوآن را که تو رهبری فلک چاکر اوست\r\nآن را که به بالین تو یک شب سر اوست\r\nسرو و گل و مهر و ماه در بستر اوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که تو در دلی خرد در سر اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآن را که تو رهبری فلک چاکر اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که به بالین تو یک شب سر اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو و گل و مهر و ماه در بستر اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

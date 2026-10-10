@@ -1,0 +1,57 @@
+{
+  "Id": 34932,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۷۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۷۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زبان و سود، شد در عشق بی پروا فراموشم\r\nخیال آخرت، گردید چون دنیا فراموشم\r\nگِل کوثر زنم از بی نیازی بر در جنّت\r\nنخواهد شد اگر در محشر، استغنا فراموشم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زبان و سود، شد در عشق بی پروا فراموشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیال آخرت، گردید چون دنیا فراموشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گِل کوثر زنم از بی نیازی بر در جنّت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نخواهد شد اگر در محشر، استغنا فراموشم",
+      "CoupletIndex": 1
+    }
+  ]
+}

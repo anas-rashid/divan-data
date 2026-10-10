@@ -1,0 +1,57 @@
+{
+  "Id": 34836,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh177",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh177",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر یادم، چمن پرورد آغوشش نخواهد شد\r\nسخن های من، از خاطر فراموشش نخواهد شد\r\nاگر خورشید شوید روی خود در چشمهٔ کوثر\r\nطرف با سینهٔ صبح بناگوشش نخواهد شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر یادم، چمن پرورد آغوشش نخواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخن های من، از خاطر فراموشش نخواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر خورشید شوید روی خود در چشمهٔ کوثر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طرف با سینهٔ صبح بناگوشش نخواهد شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

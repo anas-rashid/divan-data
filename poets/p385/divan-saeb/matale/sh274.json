@@ -1,0 +1,42 @@
+{
+  "Id": 26362,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۷۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۷۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh274",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh274",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشاط ظاهری دل را گره از کار نگشاید\r\nدل پیکان ز شکرخنده سوفار نگشاید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشاط ظاهری دل را گره از کار نگشاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل پیکان ز شکرخنده سوفار نگشاید",
+      "CoupletIndex": 0
+    }
+  ]
+}

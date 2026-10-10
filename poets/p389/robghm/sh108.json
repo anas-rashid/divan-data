@@ -1,0 +1,57 @@
+{
+  "Id": 30365,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p389/robghm/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جایی که ز بالقوه نیکان سخن است\r\nگو فرع مباش تو چو اصلش کهن است\r\nگل را که صفای گلشن دهر ازوست\r\nگلبن گویند، گرچه خود خاربن است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جایی که ز بالقوه نیکان سخن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گو فرع مباش تو چو اصلش کهن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل را که صفای گلشن دهر ازوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلبن گویند، گرچه خود خاربن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

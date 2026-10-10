@@ -1,0 +1,93 @@
+{
+  "Id": 30039,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۹۱",
+  "FullUrl": "/p389/ghazalgm/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کوی تو فردوس تمنی نکند کس\r\nبا نور رخت، یاد تجلی نکند کس\r\nهرجا رسم، اظهار کنم بی‌کسی خویش\r\nکز کشتنم اندیشه دعوی نکند کس\r\nبی دولت دیدار تو آرام محال است\r\nگر دل به خیال تو تسلی نکند کس\r\nصحت بر ما خسته‌دلان راه ندارد\r\nاینجا هوس شربت عیسی نکند کس\r\nنظاره غم از دل بی‌درد چه جویی\r\nبینش طمع از دیده اعمی نکند کس",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کوی تو فردوس تمنی نکند کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با نور رخت، یاد تجلی نکند کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرجا رسم، اظهار کنم بی‌کسی خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز کشتنم اندیشه دعوی نکند کس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بی دولت دیدار تو آرام محال است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر دل به خیال تو تسلی نکند کس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صحت بر ما خسته‌دلان راه ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اینجا هوس شربت عیسی نکند کس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نظاره غم از دل بی‌درد چه جویی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بینش طمع از دیده اعمی نکند کس",
+      "CoupletIndex": 4
+    }
+  ]
+}

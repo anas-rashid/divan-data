@@ -1,0 +1,57 @@
+{
+  "Id": 30325,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/p389/robghm/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند کمال آدمی بسیارست\r\nفیض از دگری خواستنش در کار است\r\nبی شمع و چراغ، خانه روشنگر\r\nتاریک بود، چه شد که روشنکارست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند کمال آدمی بسیارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فیض از دگری خواستنش در کار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی شمع و چراغ، خانه روشنگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریک بود، چه شد که روشنکارست",
+      "CoupletIndex": 1
+    }
+  ]
+}

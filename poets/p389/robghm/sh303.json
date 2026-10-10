@@ -1,0 +1,57 @@
+{
+  "Id": 30560,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۰۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۰۳",
+  "FullUrl": "/p389/robghm/sh303",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh303",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که کنی سعی در اثبات وجود\r\nاین راه، به پای عقل نتوان پیمود\r\nهر چیز که درنگنجد آنت به خیال\r\nآن است خدای و مابقی گفت و شنود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که کنی سعی در اثبات وجود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این راه، به پای عقل نتوان پیمود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چیز که درنگنجد آنت به خیال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن است خدای و مابقی گفت و شنود",
+      "CoupletIndex": 1
+    }
+  ]
+}

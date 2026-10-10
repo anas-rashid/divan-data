@@ -1,0 +1,93 @@
+{
+  "Id": 31392,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۲۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۲۵",
+  "FullUrl": "/p390/divan/ghazal/sh425",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh425",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غریبی را به من عشقت وطن کرد\r\nبیابان را به چشم من چمن کرد\r\nچرا ای شمع خاموشی به بزمش\r\nزبانت هست، می باید سخن کرد\r\nچه حاصل شمع را از تاج زرین\r\nکه فانوسش پس از مردن کفن کرد\r\nکجا اندیشه ای از مرگ دارد\r\nکفن را آنکه چون گل پیرهن کرد\r\nسلیم از ذوق غربت بی نصیب است\r\nچو داغ آن کس که در یک جا وطن کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غریبی را به من عشقت وطن کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیابان را به چشم من چمن کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چرا ای شمع خاموشی به بزمش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زبانت هست، می باید سخن کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه حاصل شمع را از تاج زرین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که فانوسش پس از مردن کفن کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کجا اندیشه ای از مرگ دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کفن را آنکه چون گل پیرهن کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم از ذوق غربت بی نصیب است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو داغ آن کس که در یک جا وطن کرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

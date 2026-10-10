@@ -1,0 +1,57 @@
+{
+  "Id": 28927,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/p387/divan/robaee/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چیز که مایه تن آسانی تست\r\nبرگشت چو بخت دشمن جانی تست\r\nآن آب که در گل وجود است ترا\r\nسیلاب شود چو وقت ویرانی تست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چیز که مایه تن آسانی تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگشت چو بخت دشمن جانی تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن آب که در گل وجود است ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیلاب شود چو وقت ویرانی تست",
+      "CoupletIndex": 1
+    }
+  ]
+}

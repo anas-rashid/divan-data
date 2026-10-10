@@ -1,0 +1,66 @@
+{
+  "Id": 32681,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۸۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۸۹",
+  "FullUrl": "/p391/divan/ghazal/sh589",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh589",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل داغ سر پرشور سودا عالمی دارد\r\nتکلف بر طرف دیوانگیها عالمی دارد\r\nحریفی در دو عالم نیست چون چشم سیه مستت\r\nکه دارد عالمی با غیر و با ما عالمی دارد\r\nگل سودای داغ لاله بر سر می زنم جویا\r\nگریبان چاکی و دامان صحرا عالمی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل داغ سر پرشور سودا عالمی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تکلف بر طرف دیوانگیها عالمی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حریفی در دو عالم نیست چون چشم سیه مستت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دارد عالمی با غیر و با ما عالمی دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل سودای داغ لاله بر سر می زنم جویا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گریبان چاکی و دامان صحرا عالمی دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

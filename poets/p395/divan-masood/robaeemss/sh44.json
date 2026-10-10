@@ -1,0 +1,57 @@
+{
+  "Id": 37558,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم ابرست و اشک ازو ژاله شدست\r\nیک روزه غم انده صد ساله شدست\r\nدر نای مرا دوزخ به خون لاله شدست\r\nچون نای همه نفس مرا ناله شدست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم ابرست و اشک ازو ژاله شدست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک روزه غم انده صد ساله شدست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در نای مرا دوزخ به خون لاله شدست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون نای همه نفس مرا ناله شدست",
+      "CoupletIndex": 1
+    }
+  ]
+}

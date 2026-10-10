@@ -1,0 +1,54 @@
+{
+  "Id": 37362,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۰",
+  "FullUrl": "/p393/robaee/sh190",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh190",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دانی که به تن چیست مهین ویرانه\r\nبر روی زمین نیست چنین ویرانه\r\nلیکن بر آن کسی که صاحب ذوق است\r\nگنج شکر است اندرین ویرانه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانی که به تن چیست مهین ویرانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر روی زمین نیست چنین ویرانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن بر آن کسی که صاحب ذوق است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گنج شکر است اندرین ویرانه",
+      "CoupletIndex": 1
+    }
+  ]
+}

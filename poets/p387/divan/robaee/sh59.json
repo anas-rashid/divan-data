@@ -1,0 +1,57 @@
+{
+  "Id": 28929,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/p387/divan/robaee/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شاه جهان جهان ببرگ و سازست\r\nکوس عدلش بسی بلند آوازست\r\nزنجیر عدالتش سراپا چشم است\r\nپیوسته براه دادخواهان بازست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شاه جهان جهان ببرگ و سازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوس عدلش بسی بلند آوازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنجیر عدالتش سراپا چشم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیوسته براه دادخواهان بازست",
+      "CoupletIndex": 1
+    }
+  ]
+}

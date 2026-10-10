@@ -1,0 +1,57 @@
+{
+  "Id": 33375,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۴",
+  "FullUrl": "/p391/divan/robaee/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نسبت به خودت عقل و تمیزی ندهی\r\nیعنی در قیمتت پشیزی ندهی\r\nفردا بازار خودفروشی است کساد\r\nامروز بهار خویش چیزی ندهی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نسبت به خودت عقل و تمیزی ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی در قیمتت پشیزی ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فردا بازار خودفروشی است کساد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز بهار خویش چیزی ندهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

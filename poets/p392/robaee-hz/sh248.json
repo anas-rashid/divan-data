@@ -1,0 +1,57 @@
+{
+  "Id": 34643,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۴۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۴۸",
+  "FullUrl": "/p392/robaee-hz/sh248",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh248",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هم درد و دوای دل افگار تویی\r\nعاشق تویی و عشق تویی، یار تویی\r\nپرگار تویی، نقطه تویی، دایره تو\r\nیعنی که ز هر پرده، پدیدار تویی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم درد و دوای دل افگار تویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عاشق تویی و عشق تویی، یار تویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرگار تویی، نقطه تویی، دایره تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یعنی که ز هر پرده، پدیدار تویی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 38411,
+  "CatId": 1133,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » غزلیات » شمارهٔ ۱۷",
+  "FullUrl": "/p395/divan-masood/ghazalmk/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghazalmk/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بدرود همی کرد مرا آن صنم من\r\nگریان و درآورده مرادست به گردن\r\nاز زخم دو کف همچو دلش کردم سینه\r\nور آب دو دیده چو برش کردم دامن\r\nرنجور شد از بهر من و روی دژم کرد\r\nکز حسرت آن روی دم سرد زدم من\r\nدر رویش اثر کرده دم سرد من امروز\r\nچونان که دم گرم در آیینه روشن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدرود همی کرد مرا آن صنم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریان و درآورده مرادست به گردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از زخم دو کف همچو دلش کردم سینه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور آب دو دیده چو برش کردم دامن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رنجور شد از بهر من و روی دژم کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز حسرت آن روی دم سرد زدم من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در رویش اثر کرده دم سرد من امروز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چونان که دم گرم در آیینه روشن",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 27030,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh424",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh424",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بس ادب که یافت دل ما ادیب شد\r\nبیمار ما ز رنج کشیدن طبیب شد\r\nبی درد و داغ، فکر ترقی نمی کند\r\nدل شد یتیم تا سخن من غریب شد\r\nبعد از هزار شب که شب وصل داد روی\r\nاوقات صرف پاس نگاه رقیب شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس ادب که یافت دل ما ادیب شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیمار ما ز رنج کشیدن طبیب شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی درد و داغ، فکر ترقی نمی کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل شد یتیم تا سخن من غریب شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بعد از هزار شب که شب وصل داد روی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اوقات صرف پاس نگاه رقیب شد",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37855,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۴۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۴۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh341",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh341",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صالح پس ازین طرب نباید بی تو\r\nشاید که ز دل طرب نزاید بی تو\r\nجان در تن من بیش نپاید بی تو\r\nخود جان پس ازین کار نیاد بی تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صالح پس ازین طرب نباید بی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاید که ز دل طرب نزاید بی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان در تن من بیش نپاید بی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود جان پس ازین کار نیاد بی تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

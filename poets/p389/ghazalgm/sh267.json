@@ -1,0 +1,81 @@
+{
+  "Id": 30015,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۶۷",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۶۷",
+  "FullUrl": "/p389/ghazalgm/sh267",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh267",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی اسیران غمت را غم دنیا باشد؟\r\nگر تو پروا کنی از چرخ، چه پروا باشد؟\r\nهرکه را خورد دل از چاه زنخدانی آب\r\nتشنه لب میرد، اگر بر لب دریا باشد\r\nناخن تیشه عاشق چو شود عقده‌گشای\r\nنگذارد که گره در دل خارا باشد\r\nهیچ‌کس نیست که محتاج نگردد به فلک\r\nبازگشت قدح آخر سوی مینا باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی اسیران غمت را غم دنیا باشد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر تو پروا کنی از چرخ، چه پروا باشد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرکه را خورد دل از چاه زنخدانی آب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تشنه لب میرد، اگر بر لب دریا باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ناخن تیشه عاشق چو شود عقده‌گشای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نگذارد که گره در دل خارا باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هیچ‌کس نیست که محتاج نگردد به فلک",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بازگشت قدح آخر سوی مینا باشد",
+      "CoupletIndex": 3
+    }
+  ]
+}

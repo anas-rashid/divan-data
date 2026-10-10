@@ -1,0 +1,57 @@
+{
+  "Id": 27048,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh442",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh442",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعی که سر خویش به فتراک تو بستند\r\nچندان که به گردش بود این دایره، هستند\r\nشد پنجه سیمین تو در مهد، نگارین\r\nاز رشته جانها که به انگشت تو بستند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعی که سر خویش به فتراک تو بستند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چندان که به گردش بود این دایره، هستند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد پنجه سیمین تو در مهد، نگارین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از رشته جانها که به انگشت تو بستند",
+      "CoupletIndex": 1
+    }
+  ]
+}

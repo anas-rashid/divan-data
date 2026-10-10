@@ -1,0 +1,66 @@
+{
+  "Id": 36313,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۲",
+  "FullUrl": "/p393/natmam/sh162",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh162",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بنمای رو که صورت عالم نکو شود\r\nبگشای مو که خاک جهان مشکبو شود\r\nعشقم چه عقده‌ها که نیاورده است پیش\r\nترسم که گریه نیز گره در گلو شود\r\nپیمانه گر کنی ز تو ای چرخ دور نیست\r\nاز مشت خاک ما که نه خم نی سبو شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنمای رو که صورت عالم نکو شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگشای مو که خاک جهان مشکبو شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشقم چه عقده‌ها که نیاورده است پیش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که گریه نیز گره در گلو شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیمانه گر کنی ز تو ای چرخ دور نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از مشت خاک ما که نه خم نی سبو شود",
+      "CoupletIndex": 2
+    }
+  ]
+}

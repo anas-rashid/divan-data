@@ -1,0 +1,57 @@
+{
+  "Id": 37729,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۱۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خامش نشود همی ز غلغل بلبل\r\nبشنو که خوش آیدت ز بلبل غلغل\r\nای دو لب تو گل و دو رخسار تو گل\r\nمل ده بر گل که خوش بود بر گل مل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خامش نشود همی ز غلغل بلبل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشنو که خوش آیدت ز بلبل غلغل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دو لب تو گل و دو رخسار تو گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مل ده بر گل که خوش بود بر گل مل",
+      "CoupletIndex": 1
+    }
+  ]
+}

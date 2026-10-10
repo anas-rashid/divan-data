@@ -1,0 +1,54 @@
+{
+  "Id": 37204,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/p393/robaee/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق است که آن نعمت الوان منست\r\nراح من و روح من و ریحان منست\r\nکفران باشد اگر کنم شکوه ازو\r\nجان من و دین من و ایمان منست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است که آن نعمت الوان منست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راح من و روح من و ریحان منست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کفران باشد اگر کنم شکوه ازو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان من و دین من و ایمان منست",
+      "CoupletIndex": 1
+    }
+  ]
+}

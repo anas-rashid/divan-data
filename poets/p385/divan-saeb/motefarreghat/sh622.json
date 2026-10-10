@@ -1,0 +1,57 @@
+{
+  "Id": 27228,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۲۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۲۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh622",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh622",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست غیری در حریم دیده نمناک من\r\nنام لیلی نقش می بندد ز اشک پاک من\r\nاینقدر بی طاقتی در مشت خاری بوده است؟\r\nروی دریا شد کبود از سیلی خاشاک من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست غیری در حریم دیده نمناک من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نام لیلی نقش می بندد ز اشک پاک من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اینقدر بی طاقتی در مشت خاری بوده است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روی دریا شد کبود از سیلی خاشاک من",
+      "CoupletIndex": 1
+    }
+  ]
+}

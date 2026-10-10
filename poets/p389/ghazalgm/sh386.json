@@ -1,0 +1,93 @@
+{
+  "Id": 30134,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۸۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۸۶",
+  "FullUrl": "/p389/ghazalgm/sh386",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh386",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به خون خوردن جدا زان لعل شکربار می‌سازم\r\nز مژگان خون دل می‌ریزم و ناچار می‌سازم\r\nنیم بلبل که گل همدم هر خار و خس بینم\r\nز رشک غیر، با محرومی دیدار می‌سازم\r\nتو لذت‌دوستی دشمن، علاج درد خود می‌جو\r\nکه من با چشم پرخون و دل افگار می‌سازم\r\nازان ترسم که بازت بی‌وفا خوانند بی‌دردان\r\nوگرنه من بدین ناکامی بسیار می‌سازم\r\nتو و سجاده و تسبیح با صد عیب در باطن\r\nکه من همچون برهمن فاش با زنار می‌سازم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به خون خوردن جدا زان لعل شکربار می‌سازم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز مژگان خون دل می‌ریزم و ناچار می‌سازم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیم بلبل که گل همدم هر خار و خس بینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز رشک غیر، با محرومی دیدار می‌سازم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تو لذت‌دوستی دشمن، علاج درد خود می‌جو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که من با چشم پرخون و دل افگار می‌سازم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ازان ترسم که بازت بی‌وفا خوانند بی‌دردان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وگرنه من بدین ناکامی بسیار می‌سازم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تو و سجاده و تسبیح با صد عیب در باطن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که من همچون برهمن فاش با زنار می‌سازم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 27411,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳",
+  "FullUrl": "/p386/ghazalor/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دیر آی از حرم صوفی که می برقع گشود اینجا\r\nاز آنجا آن‌که می‌جویی به می‌خواران نمود اینجا\r\nبه جان رنگی که اینجا در دل اسلامیان بینی\r\nمغان را نیز بود اما صفای می زدود اینجا\r\nمحبت شمع بزم قدس و ما پروانهٔ بیرون\r\nچه حال است این نمی‌دانم چراغ آنجا و دود اینجا\r\nبیا در زمرهٔ رندان به بی‌باکی و می درکش\r\nکه بدمستی نمی‌داند به‌جز فریاد عود اینجا\r\nبه هر سو می‌روم بوی چراغ کشته می‌آید\r\nمگر وقتی مزار کشتگان عشق بود اینجا\r\nنوای نغمهٔ منصور، عرفی، نغز می‌دانی\r\nولی تن زن که خاموش‌اند ارباب شهود اینجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دیر آی از حرم صوفی که می برقع گشود اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آنجا آن‌که می‌جویی به می‌خواران نمود اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به جان رنگی که اینجا در دل اسلامیان بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغان را نیز بود اما صفای می زدود اینجا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "محبت شمع بزم قدس و ما پروانهٔ بیرون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه حال است این نمی‌دانم چراغ آنجا و دود اینجا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بیا در زمرهٔ رندان به بی‌باکی و می درکش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بدمستی نمی‌داند به‌جز فریاد عود اینجا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به هر سو می‌روم بوی چراغ کشته می‌آید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مگر وقتی مزار کشتگان عشق بود اینجا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نوای نغمهٔ منصور، عرفی، نغز می‌دانی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ولی تن زن که خاموش‌اند ارباب شهود اینجا",
+      "CoupletIndex": 5
+    }
+  ]
+}

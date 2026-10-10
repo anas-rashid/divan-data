@@ -1,0 +1,93 @@
+{
+  "Id": 33885,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۵۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۵۸",
+  "FullUrl": "/p392/ghazal-hz/sh458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دور عذار تو، خط وجود ندارد\r\nآتش سوزان برق، دود ندارد\r\nبت ز فریبت گرفته کیش برهمن\r\nکیست که پیشت سر سجود ندارد؟\r\nنقش تعلّق ضمیر من نپذیرد\r\nعکس در آیینهام، نمود ندارد\r\nجلوه تلف می کنی به طور چه حاصل؟\r\nجز دل ما طاقت شهود ندارد\r\nحسن تو بست از بهار چشم حزین را\r\nپیش جمال توِ گل نمود ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دور عذار تو، خط وجود ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش سوزان برق، دود ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بت ز فریبت گرفته کیش برهمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کیست که پیشت سر سجود ندارد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نقش تعلّق ضمیر من نپذیرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عکس در آیینهام، نمود ندارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جلوه تلف می کنی به طور چه حاصل؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جز دل ما طاقت شهود ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حسن تو بست از بهار چشم حزین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پیش جمال توِ گل نمود ندارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

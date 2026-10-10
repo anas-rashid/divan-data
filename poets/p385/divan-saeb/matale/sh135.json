@@ -1,0 +1,42 @@
+{
+  "Id": 26223,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۳۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رگ جان من و آن زلف به هم پیوسته است\r\nپیچ و تاب من و آن سلسله با هم بسته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رگ جان من و آن زلف به هم پیوسته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیچ و تاب من و آن سلسله با هم بسته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

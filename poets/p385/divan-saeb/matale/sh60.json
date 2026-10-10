@@ -1,0 +1,42 @@
+{
+  "Id": 26148,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۶۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "توجه نیست با دلهای سنگین عشق سرکش را\r\nنمی باشد به هم آمیزشی یاقوت و آتش را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "توجه نیست با دلهای سنگین عشق سرکش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمی باشد به هم آمیزشی یاقوت و آتش را",
+      "CoupletIndex": 0
+    }
+  ]
+}

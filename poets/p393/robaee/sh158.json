@@ -1,0 +1,54 @@
+{
+  "Id": 37330,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۸",
+  "FullUrl": "/p393/robaee/sh158",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh158",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از تیر جفا ای بت کافرکیشم\r\nهرچند دل و جگر نمودی ریشم\r\nلیکن به توام همان ارادت باقیست\r\nمن عاشق حسن اعتماد خویشم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تیر جفا ای بت کافرکیشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرچند دل و جگر نمودی ریشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن به توام همان ارادت باقیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من عاشق حسن اعتماد خویشم",
+      "CoupletIndex": 1
+    }
+  ]
+}

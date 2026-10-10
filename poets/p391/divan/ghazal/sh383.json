@@ -1,0 +1,54 @@
+{
+  "Id": 32475,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۳",
+  "FullUrl": "/p391/divan/ghazal/sh383",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh383",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکه کوه درد را بر آه بی بنیاد بست\r\nاز نفس مشت غبار جسم را برباد بست\r\nمی تواند نالهٔ دل را به گوش او رساند\r\nدرد را از رشتهٔ آه آنکه بر فریاد بست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکه کوه درد را بر آه بی بنیاد بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نفس مشت غبار جسم را برباد بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می تواند نالهٔ دل را به گوش او رساند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درد را از رشتهٔ آه آنکه بر فریاد بست",
+      "CoupletIndex": 1
+    }
+  ]
+}

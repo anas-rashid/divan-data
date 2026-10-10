@@ -1,0 +1,66 @@
+{
+  "Id": 36427,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۷۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۷۶",
+  "FullUrl": "/p393/natmam/sh276",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh276",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند در مدرسه و کعبه افادت طلبم\r\nبر در عشق روم خیر و سعادت طلبم\r\nلذتی یافته جانم دم قتل از تیغش\r\nکه اگر زنده شوم باز شهادت طلبم\r\nنیست هرچند زیادت‌طلبی خوب ولی\r\nمن غم عشق تو هر روز زیادت طلبم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند در مدرسه و کعبه افادت طلبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر در عشق روم خیر و سعادت طلبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لذتی یافته جانم دم قتل از تیغش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که اگر زنده شوم باز شهادت طلبم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست هرچند زیادت‌طلبی خوب ولی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من غم عشق تو هر روز زیادت طلبم",
+      "CoupletIndex": 2
+    }
+  ]
+}

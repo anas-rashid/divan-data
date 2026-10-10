@@ -1,0 +1,54 @@
+{
+  "Id": 36555,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۵",
+  "FullUrl": "/p393/ghete/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نقاب سوز رخ و حسن خود نما این است\r\nاسیر آیینه بر خویش مبتلا این است\r\nز گریهٔ شب هجران دگر چه می‌پرسی\r\nگذشت از سر ما سیل ماجرا این است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نقاب سوز رخ و حسن خود نما این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسیر آیینه بر خویش مبتلا این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز گریهٔ شب هجران دگر چه می‌پرسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گذشت از سر ما سیل ماجرا این است",
+      "CoupletIndex": 1
+    }
+  ]
+}

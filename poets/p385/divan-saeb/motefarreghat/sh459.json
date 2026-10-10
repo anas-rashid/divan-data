@@ -1,0 +1,69 @@
+{
+  "Id": 27065,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۵۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۵۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh459",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh459",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم مرا در جان بی حاصل نمی گیرد قرار\r\nجغد از وحشت درین منزل نمی گیرد قرار\r\nجان قدسی در تن خاکی دو روزی بیش نیست\r\nموج دریا دیده در ساحل نمی گیرد قرار\r\nراهرو چون می تواند پشت بر دیوار داد؟\r\nدر بیابان طلب منزل نمی گیرد قرار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم مرا در جان بی حاصل نمی گیرد قرار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جغد از وحشت درین منزل نمی گیرد قرار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان قدسی در تن خاکی دو روزی بیش نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موج دریا دیده در ساحل نمی گیرد قرار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "راهرو چون می تواند پشت بر دیوار داد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در بیابان طلب منزل نمی گیرد قرار",
+      "CoupletIndex": 2
+    }
+  ]
+}

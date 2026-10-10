@@ -1,0 +1,81 @@
+{
+  "Id": 29779,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۱",
+  "FullUrl": "/p389/ghazalgm/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبی هرکس به بزم دلستانی جا کند خود را\r\nدمی صدبار دل با دیده‌اش سودا کند خود را\r\nشب وصل است و دل عهد خیالت تازه می‌سازد\r\nکه امشب فارغ از تنهایی فردا کند خود را\r\nعنان دل به دست بیخودی افتاده می‌ترسم\r\nکه بی‌تابانه حرفی گوید و رسوا کند خود را\r\nبه دشت بی‌سرانجامی چنان گردیده قدسی گم\r\nکه عمری بایدش گردید تا پیدا کند خود را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبی هرکس به بزم دلستانی جا کند خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دمی صدبار دل با دیده‌اش سودا کند خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب وصل است و دل عهد خیالت تازه می‌سازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که امشب فارغ از تنهایی فردا کند خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عنان دل به دست بیخودی افتاده می‌ترسم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که بی‌تابانه حرفی گوید و رسوا کند خود را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به دشت بی‌سرانجامی چنان گردیده قدسی گم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که عمری بایدش گردید تا پیدا کند خود را",
+      "CoupletIndex": 3
+    }
+  ]
+}

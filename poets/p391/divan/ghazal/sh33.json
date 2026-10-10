@@ -1,0 +1,93 @@
+{
+  "Id": 32125,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۳",
+  "FullUrl": "/p391/divan/ghazal/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غمش گرم تپش گه شعله‌آسا می‌کند ما را\r\nگهی بی‌دست و پا چون موج دریا می‌کند ما را\r\nچنان در پردهٔ خاموشی‌ایم از دیده‌ها پنهان\r\nکه آواز شکست رنگ پیدا می‌کند ما را\r\nز هم‌پروازی عنقا نبستم طرفی از عزلت\r\nبه گمنامی چو خود مشهور دنیا می‌کند ما را\r\nبه راه کعبهٔ شوقت فغان از دل تپیدن‌ها\r\nکه مانند جرس هر لحظه رسوا می‌کند ما را\r\nز خود بیگانه یابم خویش را تا به خودم، جویا!‏\r\nبنازم بی‌خودی‌ها را که از ما می‌کند ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمش گرم تپش گه شعله‌آسا می‌کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گهی بی‌دست و پا چون موج دریا می‌کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چنان در پردهٔ خاموشی‌ایم از دیده‌ها پنهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که آواز شکست رنگ پیدا می‌کند ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز هم‌پروازی عنقا نبستم طرفی از عزلت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به گمنامی چو خود مشهور دنیا می‌کند ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به راه کعبهٔ شوقت فغان از دل تپیدن‌ها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که مانند جرس هر لحظه رسوا می‌کند ما را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز خود بیگانه یابم خویش را تا به خودم، جویا!‏",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بنازم بی‌خودی‌ها را که از ما می‌کند ما را",
+      "CoupletIndex": 4
+    }
+  ]
+}

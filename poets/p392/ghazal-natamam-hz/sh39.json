@@ -1,0 +1,42 @@
+{
+  "Id": 34698,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حریف نقش کج گر نیستی این بدقماران را\r\nبه تنهایی سرآور، سیر دور روزگاران را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حریف نقش کج گر نیستی این بدقماران را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به تنهایی سرآور، سیر دور روزگاران را",
+      "CoupletIndex": 0
+    }
+  ]
+}

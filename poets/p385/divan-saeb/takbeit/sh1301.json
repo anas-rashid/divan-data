@@ -1,0 +1,45 @@
+{
+  "Id": 18832,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۰۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۰۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1301",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1301",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز اخوان راضیم تا دیدم انصاف خریداران\r\nگوارا کرد بر من چاه را، از قیمت افتادن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز اخوان راضیم تا دیدم انصاف خریداران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوارا کرد بر من چاه را، از قیمت افتادن",
+      "CoupletIndex": 0
+    }
+  ]
+}

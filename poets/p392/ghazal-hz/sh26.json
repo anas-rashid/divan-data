@@ -1,0 +1,93 @@
+{
+  "Id": 33453,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۶",
+  "FullUrl": "/p392/ghazal-hz/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بنواز مغنی، دل غم پیشهٔ ما را\r\nاز شعله بشو دفتر اندیشهٔ ما را\r\nآن آتش سوزنده که پنداشتمش گل\r\nازجلوه به هم سوخت، رگ و ریشهٔ ما را\r\nگیرم که به انجام رسد خاره تراشی\r\nکار است به جان سختی ما، تیشهٔ ما را\r\nاز دست تو چندان که بر آید، به جفا کوش\r\nشرمنده مکن جان وفا پیشهٔ ما را\r\nخشک و تر اندیشه حزین ، از تف ما سوخت\r\nآتش ز تب شیر بود، بیشهٔ ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنواز مغنی، دل غم پیشهٔ ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شعله بشو دفتر اندیشهٔ ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن آتش سوزنده که پنداشتمش گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ازجلوه به هم سوخت، رگ و ریشهٔ ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گیرم که به انجام رسد خاره تراشی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کار است به جان سختی ما، تیشهٔ ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از دست تو چندان که بر آید، به جفا کوش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شرمنده مکن جان وفا پیشهٔ ما را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خشک و تر اندیشه حزین ، از تف ما سوخت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آتش ز تب شیر بود، بیشهٔ ما را",
+      "CoupletIndex": 4
+    }
+  ]
+}

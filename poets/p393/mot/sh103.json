@@ -1,0 +1,42 @@
+{
+  "Id": 36812,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۰۳",
+  "FullUrl": "/p393/mot/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز دهان تو بوسه یا دشنام\r\nهرچه باشد لطیف، عجبیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز دهان تو بوسه یا دشنام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرچه باشد لطیف، عجبیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

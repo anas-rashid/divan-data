@@ -1,0 +1,57 @@
+{
+  "Id": 30674,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱۷",
+  "FullUrl": "/p389/robghm/sh417",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh417",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پوشیده چو شمع نیست، داند همه کس\r\nکز دیده من، دود نخیزد به هوس\r\nنی را به گلو چو ناله گردیده گره\r\nناچار به دیده افتدش راه نفس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پوشیده چو شمع نیست، داند همه کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دیده من، دود نخیزد به هوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی را به گلو چو ناله گردیده گره",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناچار به دیده افتدش راه نفس",
+      "CoupletIndex": 1
+    }
+  ]
+}

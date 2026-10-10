@@ -1,0 +1,57 @@
+{
+  "Id": 34432,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/p392/robaee-hz/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این کوچهٔ عمر، وحشت افزا راهی ست\r\nحیرت زده است هرکجا آگاهی ست\r\nبازیگر روزگار را معرکه هاست\r\nمیدان جهان، طرفه تماشا گاهی ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این کوچهٔ عمر، وحشت افزا راهی ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیرت زده است هرکجا آگاهی ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازیگر روزگار را معرکه هاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میدان جهان، طرفه تماشا گاهی ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34623,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۲۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۲۸",
+  "FullUrl": "/p392/robaee-hz/sh228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خاک وفا رفته به باد از دل تو\r\nیک دل به جهان نگشته شاد از دل تو\r\nیکبار نمی رسی به داد دل من\r\nداد از دل تو، هزار داد از دل تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خاک وفا رفته به باد از دل تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک دل به جهان نگشته شاد از دل تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکبار نمی رسی به داد دل من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داد از دل تو، هزار داد از دل تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

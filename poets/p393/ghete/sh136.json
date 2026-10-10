@@ -1,0 +1,54 @@
+{
+  "Id": 36616,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۳۶",
+  "FullUrl": "/p393/ghete/sh136",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh136",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آتش شوق تو‌ام بس که جگر سوخته بود\r\nشمع همسایه شب از داغ من افروخته بود\r\nدر هواداری سیمین‌بدنان رفت به باد\r\nهر زر رنگ که رخسار من اندوخته بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش شوق تو‌ام بس که جگر سوخته بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع همسایه شب از داغ من افروخته بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هواداری سیمین‌بدنان رفت به باد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر زر رنگ که رخسار من اندوخته بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

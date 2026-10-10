@@ -1,0 +1,54 @@
+{
+  "Id": 34672,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می لعلی ز ساغر می کشم، تبخاله لب را\r\nلب مخمور من نوشید این جام لبالب را\r\nبهشت جاودانی، دستگاه بوسه اش دارد\r\nدهان تنگ او داده ست وسعت، حسن مشرب را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می لعلی ز ساغر می کشم، تبخاله لب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب مخمور من نوشید این جام لبالب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهشت جاودانی، دستگاه بوسه اش دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دهان تنگ او داده ست وسعت، حسن مشرب را",
+      "CoupletIndex": 1
+    }
+  ]
+}

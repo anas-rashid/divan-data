@@ -1,0 +1,57 @@
+{
+  "Id": 26736,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh130",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh130",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ارباب همم را چه غم از بی پر و بالی است؟\r\nبال و پر این طایفه از همت عالی است\r\nنفرین بود از دست دعا رزق بخیلان\r\nتکبیر فنا فاتحه سفره خالی است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ارباب همم را چه غم از بی پر و بالی است؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بال و پر این طایفه از همت عالی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نفرین بود از دست دعا رزق بخیلان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تکبیر فنا فاتحه سفره خالی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

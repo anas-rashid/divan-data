@@ -1,0 +1,93 @@
+{
+  "Id": 31371,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۰۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۰۴",
+  "FullUrl": "/p390/divan/ghazal/sh404",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh404",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جا به هر دل که گرفت او، دگر از جا نرود\r\nعکسش از آینه چون صورت دیبا نرود\r\nبا حریفان ز تو عیب است سواری کردن\r\nبه که آهوی حرم جانب صحرا نرود\r\nدر سرایی که تویی، گر همه محشر خیزد\r\nطفل از خانه برون بهر تماشا نرود\r\nنیست ممکن که صبا پیش مقیمان چمن\r\nنام کویت چو برد، بوی گل از جا نرود\r\nجلوه ای کز قد او دیده ای امروز سلیم\r\nنیست ممکن که دماغ تو به بالا نرود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جا به هر دل که گرفت او، دگر از جا نرود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عکسش از آینه چون صورت دیبا نرود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با حریفان ز تو عیب است سواری کردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به که آهوی حرم جانب صحرا نرود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در سرایی که تویی، گر همه محشر خیزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طفل از خانه برون بهر تماشا نرود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیست ممکن که صبا پیش مقیمان چمن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نام کویت چو برد، بوی گل از جا نرود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جلوه ای کز قد او دیده ای امروز سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نیست ممکن که دماغ تو به بالا نرود",
+      "CoupletIndex": 4
+    }
+  ]
+}

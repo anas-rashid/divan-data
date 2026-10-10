@@ -1,0 +1,57 @@
+{
+  "Id": 37899,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۸۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۸۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh385",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh385",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امید به زندگانیم نیست بسی\r\nمنصور سعید را بگویید کسی\r\nهستت به خلاص عمر من دست رسی\r\nکز جان رمقی مانده ست از تن نفسی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امید به زندگانیم نیست بسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منصور سعید را بگویید کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هستت به خلاص عمر من دست رسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز جان رمقی مانده ست از تن نفسی",
+      "CoupletIndex": 1
+    }
+  ]
+}

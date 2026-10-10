@@ -1,0 +1,45 @@
+{
+  "Id": 17852,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۲۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۲۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دست بر هر چه فشاندم به رگ جان آویخت\r\nدامن از هر چه کشیدم به گریبان آویخت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست بر هر چه فشاندم به رگ جان آویخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامن از هر چه کشیدم به گریبان آویخت",
+      "CoupletIndex": 0
+    }
+  ]
+}

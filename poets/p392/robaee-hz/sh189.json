@@ -1,0 +1,57 @@
+{
+  "Id": 34584,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/p392/robaee-hz/sh189",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh189",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کام دل است بس که عریان دستم\r\nکوتاه فتاده از گریبان دستم\r\nاز بس که گزیدهام به دندان غضب\r\nخونین شده چون پنجهٔ مژگان دستم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کام دل است بس که عریان دستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوتاه فتاده از گریبان دستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که گزیدهام به دندان غضب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خونین شده چون پنجهٔ مژگان دستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

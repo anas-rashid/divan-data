@@ -1,0 +1,57 @@
+{
+  "Id": 27047,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh441",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh441",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون حرف زند، غنچه ز گفتار بماند\r\nچون جلوه کند، سرو ز رفتار بماند\r\nآن کبک خرامنده به رفتار چو آید\r\nسیماب بر آیینه ز رفتار بماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون حرف زند، غنچه ز گفتار بماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون جلوه کند، سرو ز رفتار بماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کبک خرامنده به رفتار چو آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیماب بر آیینه ز رفتار بماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

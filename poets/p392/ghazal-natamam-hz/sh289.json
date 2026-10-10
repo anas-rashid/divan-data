@@ -1,0 +1,57 @@
+{
+  "Id": 34948,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۸۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۸۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh289",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh289",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نماید بی سبب حاصل، مسبب مدعای من\r\nچو موج آید به ساحل، کشتی بی ناخدای من\r\nبه دنیا، خانهٔ از نقش پا برچیده ای دارم\r\nچه خواهد برد سیلاب حوادث، از سرای من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نماید بی سبب حاصل، مسبب مدعای من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو موج آید به ساحل، کشتی بی ناخدای من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دنیا، خانهٔ از نقش پا برچیده ای دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه خواهد برد سیلاب حوادث، از سرای من",
+      "CoupletIndex": 1
+    }
+  ]
+}

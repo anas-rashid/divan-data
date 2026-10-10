@@ -1,0 +1,54 @@
+{
+  "Id": 36513,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۳",
+  "FullUrl": "/p393/ghete/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دلِ بی‌خبر آن سرو روان را دریاب\r\nهای غفلت‌زده عمر گذران را دریاب\r\nحسرت تیر تو در خاک نشانده‌ست مرا\r\nآخر ای شوخ کماندار نشان را دریاب",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دلِ بی‌خبر آن سرو روان را دریاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "های غفلت‌زده عمر گذران را دریاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حسرت تیر تو در خاک نشانده‌ست مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر ای شوخ کماندار نشان را دریاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

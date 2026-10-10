@@ -1,0 +1,57 @@
+{
+  "Id": 26623,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فروغ عارضت پروانه سازد شمع بالین را\r\nپر پرواز گردد چشم شوخت خواب سنگین را\r\nز تاراج هوسناکان بود ایمن گلستانت\r\nکه شرمت پای خواب آلود سازد دست گلچین را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فروغ عارضت پروانه سازد شمع بالین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پر پرواز گردد چشم شوخت خواب سنگین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز تاراج هوسناکان بود ایمن گلستانت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که شرمت پای خواب آلود سازد دست گلچین را",
+      "CoupletIndex": 1
+    }
+  ]
+}

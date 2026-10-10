@@ -1,0 +1,57 @@
+{
+  "Id": 27270,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۶۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۶۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh664",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh664",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا چو سرزلف صد شکست نیابی\r\nدامن معشوق را به دست نیابی\r\nتا ندهی خویش را تمام به علمی\r\nبعضی ازان را چنان که هست نیابی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چو سرزلف صد شکست نیابی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامن معشوق را به دست نیابی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا ندهی خویش را تمام به علمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بعضی ازان را چنان که هست نیابی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37859,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۴۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۴۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh345",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh345",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگز نرسد به لطف در مهر چو تو\r\nبت را نبود حلاوت چهر چو تو\r\nدر حسن نزائید مه و مهر چو تو\r\nای مهر ندیده اند بد مهر چو تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز نرسد به لطف در مهر چو تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بت را نبود حلاوت چهر چو تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حسن نزائید مه و مهر چو تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای مهر ندیده اند بد مهر چو تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

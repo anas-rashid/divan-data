@@ -1,0 +1,42 @@
+{
+  "Id": 26337,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۴۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۴۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh249",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh249",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر قطره شبنم به چمن دانه ذکری است\r\nهر غنچه درین باغ سرزانوی فکری است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر قطره شبنم به چمن دانه ذکری است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر غنچه درین باغ سرزانوی فکری است",
+      "CoupletIndex": 0
+    }
+  ]
+}

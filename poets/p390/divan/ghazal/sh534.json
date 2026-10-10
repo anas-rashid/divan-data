@@ -1,0 +1,93 @@
+{
+  "Id": 31501,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۳۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۳۴",
+  "FullUrl": "/p390/divan/ghazal/sh534",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh534",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دگر عشق بر جان غم پرورم زد\r\nچو پروانه آتش به بال و پرم زد\r\nجهان تیره گردید، گویا ز غفلت\r\nصبا پشت پایی به خاکسترم زد\r\nچو گل گشت دستارم آشفته بر سر\r\nز بس بی رخ او جنون بر سرم زد\r\nمن آن بلبل عاجز ناتوانم\r\nکه سوسن درین باغ با خنجرم زد\r\nدل و دین و هوش مرا کرد پامال\r\nسلیم آن سواری که بر لشکرم زد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دگر عشق بر جان غم پرورم زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو پروانه آتش به بال و پرم زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جهان تیره گردید، گویا ز غفلت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبا پشت پایی به خاکسترم زد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو گل گشت دستارم آشفته بر سر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز بس بی رخ او جنون بر سرم زد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من آن بلبل عاجز ناتوانم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که سوسن درین باغ با خنجرم زد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل و دین و هوش مرا کرد پامال",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سلیم آن سواری که بر لشکرم زد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37778,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۶۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگه که به پیراهن تو درنگرم\r\nاز رشک و حسد پیرهن خود بدرم\r\nاز جامه بهرمان تو رشک برم\r\nکو بربر تست و بر برت نیست برم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگه که به پیراهن تو درنگرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رشک و حسد پیرهن خود بدرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جامه بهرمان تو رشک برم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو بربر تست و بر برت نیست برم",
+      "CoupletIndex": 1
+    }
+  ]
+}

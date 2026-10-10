@@ -1,0 +1,57 @@
+{
+  "Id": 28137,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۹۴",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۴",
+  "FullUrl": "/p386/robaeeor/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاها نفسم باغ ثنا خواهد شد\r\nعمر تو گلستان بقا خواهد شد\r\nحیف از لب آستانهٔ دولت تو\r\nکالوده به بوس لب ما خواهد شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها نفسم باغ ثنا خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عمر تو گلستان بقا خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیف از لب آستانهٔ دولت تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کالوده به بوس لب ما خواهد شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

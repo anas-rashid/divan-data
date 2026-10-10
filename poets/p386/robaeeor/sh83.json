@@ -1,0 +1,57 @@
+{
+  "Id": 28126,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۸۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۸۳",
+  "FullUrl": "/p386/robaeeor/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعی به درت گریه و آه آوردند\r\nجمعی همه دید و نگاه آوردند\r\nجمعی دیدند خواهش عفو تو را\r\nرفتند و جهان جهان گناه آوردند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعی به درت گریه و آه آوردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمعی همه دید و نگاه آوردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جمعی دیدند خواهش عفو تو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتند و جهان جهان گناه آوردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

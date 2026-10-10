@@ -1,0 +1,57 @@
+{
+  "Id": 38310,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۸۳ - خشک و خالی",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۸۳ - خشک و خالی",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از من و تو همی بخواهد ماند\r\nبه جهان در دو جای خالی و خشک\r\nمن ز دیده کنم زمین پر خون\r\nتو ز زلفین کنی هوا پر مشک",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از من و تو همی بخواهد ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جهان در دو جای خالی و خشک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من ز دیده کنم زمین پر خون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ز زلفین کنی هوا پر مشک",
+      "CoupletIndex": 1
+    }
+  ]
+}

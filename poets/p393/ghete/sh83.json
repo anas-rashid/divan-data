@@ -1,0 +1,54 @@
+{
+  "Id": 36563,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۸۳",
+  "FullUrl": "/p393/ghete/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا این معنی از نرگس عیان شد\r\nکه زر گردآور سیمین‌بران است\r\nمن دیوانه را هر جا رسد سنگ\r\nخدای من عجب روزی‌رسان است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا این معنی از نرگس عیان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که زر گردآور سیمین‌بران است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من دیوانه را هر جا رسد سنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدای من عجب روزی‌رسان است",
+      "CoupletIndex": 1
+    }
+  ]
+}

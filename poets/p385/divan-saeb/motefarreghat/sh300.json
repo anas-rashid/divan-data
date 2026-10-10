@@ -1,0 +1,69 @@
+{
+  "Id": 26906,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh300",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh300",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل سودایی من یار را اغیار می داند\r\nسر زانوی وحدت را سر بازار می داند\r\nز روشن گوهران عیب نمایان است غمازی\r\nوگرنه سینه ام آیینه را ستار می داند\r\nکند شاخ بلند از کودکان گل را سپرداری\r\nسر سودایی منصور قدر دار می داند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل سودایی من یار را اغیار می داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر زانوی وحدت را سر بازار می داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز روشن گوهران عیب نمایان است غمازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وگرنه سینه ام آیینه را ستار می داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کند شاخ بلند از کودکان گل را سپرداری",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سر سودایی منصور قدر دار می داند",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18182,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۵۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۵۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh651",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh651",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیری به صد شتاب جوانی ز من گذشت\r\nپل را ندیده‌ام که ز سیلاب بگذرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیری به صد شتاب جوانی ز من گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پل را ندیده‌ام که ز سیلاب بگذرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

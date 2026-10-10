@@ -1,0 +1,54 @@
+{
+  "Id": 37913,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۹۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۹۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh399",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh399",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این چرخ بسی بدل کند نوها را\r\nبدخوست از آن بدل کند خوها را\r\nهم زشت کند به طبع نیکوها را\r\nهم ضعف دهد به قهر نیروها را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این چرخ بسی بدل کند نوها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدخوست از آن بدل کند خوها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم زشت کند به طبع نیکوها را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم ضعف دهد به قهر نیروها را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18171,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۴۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۴۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh640",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh640",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا سرگشتگی نگذاشت بر زانو گذارم سر\r\nخوشا منصور کز دار فنا سر منزلی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا سرگشتگی نگذاشت بر زانو گذارم سر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشا منصور کز دار فنا سر منزلی دارد",
+      "CoupletIndex": 0
+    }
+  ]
+}

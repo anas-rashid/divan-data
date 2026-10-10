@@ -1,0 +1,54 @@
+{
+  "Id": 36655,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۷۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۷۵",
+  "FullUrl": "/p393/ghete/sh175",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh175",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو زلف یار به آشفتگی سری دارم\r\nز من مپر عجب حال ابتری دارم\r\nبر آستانه او حق بندگیست مرا\r\nبه مهر سجده درین باب محضری دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو زلف یار به آشفتگی سری دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز من مپر عجب حال ابتری دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر آستانه او حق بندگیست مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به مهر سجده درین باب محضری دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

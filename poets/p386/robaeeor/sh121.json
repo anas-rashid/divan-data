@@ -1,0 +1,57 @@
+{
+  "Id": 28164,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۲۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲۱",
+  "FullUrl": "/p386/robaeeor/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی نه مرا حاصل کان می باید\r\nمحصول زمین و آسمان می باید\r\nآن کو به قناعت مثل آید، او را\r\nگر هیچ نه، گنج شایگان می باید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی نه مرا حاصل کان می باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محصول زمین و آسمان می باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کو به قناعت مثل آید، او را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر هیچ نه، گنج شایگان می باید",
+      "CoupletIndex": 1
+    }
+  ]
+}

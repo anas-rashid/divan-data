@@ -1,0 +1,57 @@
+{
+  "Id": 29696,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/p388/divan/robaee/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلشن که بهار ساخته جانورش\r\nطاووس نگارین شده پا تا به سرش\r\nترسند که از شکفتگی برپرد\r\nبافند ز ابر دام بر بال و پرش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلشن که بهار ساخته جانورش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طاووس نگارین شده پا تا به سرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسند که از شکفتگی برپرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بافند ز ابر دام بر بال و پرش",
+      "CoupletIndex": 1
+    }
+  ]
+}

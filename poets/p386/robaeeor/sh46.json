@@ -1,0 +1,57 @@
+{
+  "Id": 28089,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۶",
+  "FullUrl": "/p386/robaeeor/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی شب عید و باده عیش افروز است\r\nمی نوش و طرب کن که همین دم روز است\r\nاین توبه بسی شکست و از ما برمید\r\nمی نوش که توبه مرغ دست آموز است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی شب عید و باده عیش افروز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می نوش و طرب کن که همین دم روز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این توبه بسی شکست و از ما برمید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می نوش که توبه مرغ دست آموز است",
+      "CoupletIndex": 1
+    }
+  ]
+}

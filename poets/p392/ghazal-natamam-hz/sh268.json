@@ -1,0 +1,45 @@
+{
+  "Id": 34927,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۶۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۶۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh268",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh268",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شمع خامه، هر جا در میان افسانه اندازم\r\nشرر در دامن بال و پر پروانه اندازم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شمع خامه، هر جا در میان افسانه اندازم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرر در دامن بال و پر پروانه اندازم",
+      "CoupletIndex": 0
+    }
+  ]
+}

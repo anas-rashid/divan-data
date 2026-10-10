@@ -1,0 +1,57 @@
+{
+  "Id": 34427,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/p392/robaee-hz/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عهدیست که آشنا و بیگانه یکیست\r\nنرخ خزف وگوهر یکدانه یکیست\r\nدر گوش گران خفتگان شب جهل\r\nآیات کتاب حق و افسانه یکیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عهدیست که آشنا و بیگانه یکیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نرخ خزف وگوهر یکدانه یکیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در گوش گران خفتگان شب جهل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیات کتاب حق و افسانه یکیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37810,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۹۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۹۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh296",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh296",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکو گوید هست قضا تیشه من\r\nیک شاخ نتابد زدن از بیشه من\r\nاندیشه شده ست از جهان پیشه من\r\nکس را نبود طاقت اندیشه من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکو گوید هست قضا تیشه من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک شاخ نتابد زدن از بیشه من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندیشه شده ست از جهان پیشه من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس را نبود طاقت اندیشه من",
+      "CoupletIndex": 1
+    }
+  ]
+}

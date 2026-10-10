@@ -1,0 +1,93 @@
+{
+  "Id": 19527,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۵۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۵۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh454",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh454",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز خط سبز شد فیروزه ای لعل نگار ما\r\nجواهر سرمه ای می خواست چشم اشکبار ما\r\nاگر چه بی صفا گردد ز گرد آیینه روشن\r\nیکی صد شد ز گرد خط، صدای گلعذار ما\r\nخط آزادی اغیار شد گر خط شبرنگش\r\nشب قدری است بهر دیده شب زنده دار ما\r\nنگه دارد خدا از چشم بد آن روی نو خط را!\r\nکه دام عنبرین سامان دهد بهر شکار ما\r\nدرین فرصت که خط پیچید دست زلف ظالم را\r\nمشو غافل ز احوال دل امیدوار ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز خط سبز شد فیروزه ای لعل نگار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جواهر سرمه ای می خواست چشم اشکبار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر چه بی صفا گردد ز گرد آیینه روشن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکی صد شد ز گرد خط، صدای گلعذار ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خط آزادی اغیار شد گر خط شبرنگش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شب قدری است بهر دیده شب زنده دار ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نگه دارد خدا از چشم بد آن روی نو خط را!",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که دام عنبرین سامان دهد بهر شکار ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "درین فرصت که خط پیچید دست زلف ظالم را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مشو غافل ز احوال دل امیدوار ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

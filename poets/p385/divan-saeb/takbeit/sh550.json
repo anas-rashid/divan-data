@@ -1,0 +1,45 @@
+{
+  "Id": 18081,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۵۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۵۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh550",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh550",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون وانمی‌کنی گرهی، خود گره مشو\r\nابرو گشاده باش چو دستت گشاده نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون وانمی‌کنی گرهی، خود گره مشو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابرو گشاده باش چو دستت گشاده نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

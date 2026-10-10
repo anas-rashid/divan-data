@@ -1,0 +1,57 @@
+{
+  "Id": 33292,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/p391/divan/robaee/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی نالهٔ زار کی دعا منظور است\r\nآه بی عجز از اثر بس دور است\r\nبا قامت خم تیر دعا سخت رساست\r\nاز قوت ضعف این کمان پر زور است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی نالهٔ زار کی دعا منظور است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آه بی عجز از اثر بس دور است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با قامت خم تیر دعا سخت رساست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از قوت ضعف این کمان پر زور است",
+      "CoupletIndex": 1
+    }
+  ]
+}

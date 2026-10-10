@@ -1,0 +1,57 @@
+{
+  "Id": 30692,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳۵",
+  "FullUrl": "/p389/robghm/sh435",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh435",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای فیض ازل با نفست دوشادوش\r\nاز غیب، تمنای دلت کرده سروش\r\nما را ز دعا مکن فراموش که هست\r\nبر صوت دعای تو اجابت را گوش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای فیض ازل با نفست دوشادوش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از غیب، تمنای دلت کرده سروش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را ز دعا مکن فراموش که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر صوت دعای تو اجابت را گوش",
+      "CoupletIndex": 1
+    }
+  ]
+}

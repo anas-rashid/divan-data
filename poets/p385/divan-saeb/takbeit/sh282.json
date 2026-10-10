@@ -1,0 +1,45 @@
+{
+  "Id": 17813,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۸۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۸۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh282",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh282",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتیم: وقتِ پیری، در گوشه‌ای نشینیم\r\nشُد تازیانه‌ی حِرص، قَدِّ خمیده‌ی ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتیم: وقتِ پیری، در گوشه‌ای نشینیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شُد تازیانه‌ی حِرص، قَدِّ خمیده‌ی ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

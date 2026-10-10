@@ -1,0 +1,57 @@
+{
+  "Id": 30811,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۵۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۵۴",
+  "FullUrl": "/p389/robghm/sh554",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh554",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حیرت، تپش از جام خرابم برده\r\nآرام غم تو پیچ و تابم برده\r\nبی‌تابی اگر نمی‌کنم، معذورم\r\nتمکین محبت اضطرابم برده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حیرت، تپش از جام خرابم برده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرام غم تو پیچ و تابم برده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی‌تابی اگر نمی‌کنم، معذورم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تمکین محبت اضطرابم برده",
+      "CoupletIndex": 1
+    }
+  ]
+}

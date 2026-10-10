@@ -1,0 +1,57 @@
+{
+  "Id": 28093,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۰",
+  "FullUrl": "/p386/robaeeor/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی من و دل نه خوب دانیم و نه زشت\r\nهم خادم کعبه ایم و هم پیر کنشت\r\nهمدوش مصیبتیم و همزاد نشاط\r\nهمخوابهٔ دوزخیم و هم شیر بهشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی من و دل نه خوب دانیم و نه زشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم خادم کعبه ایم و هم پیر کنشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همدوش مصیبتیم و همزاد نشاط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همخوابهٔ دوزخیم و هم شیر بهشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

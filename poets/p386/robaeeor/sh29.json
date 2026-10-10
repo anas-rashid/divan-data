@@ -1,0 +1,57 @@
+{
+  "Id": 28072,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۲۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲۹",
+  "FullUrl": "/p386/robaeeor/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز آ که فراق جان گداز آمده است\r\nاندیشهٔ مردنم فراز آمده است\r\nباز آ که ز ناچشیده داروی وصال\r\nدردی که نرفته بود باز آمده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز آ که فراق جان گداز آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندیشهٔ مردنم فراز آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باز آ که ز ناچشیده داروی وصال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردی که نرفته بود باز آمده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

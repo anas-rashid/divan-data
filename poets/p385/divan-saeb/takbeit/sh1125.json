@@ -1,0 +1,45 @@
+{
+  "Id": 18656,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۲۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۲۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شود بار دلم آن را که از دل بار بردارم\r\nنهد پا بر سرم از راه هر کس خار بردارم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شود بار دلم آن را که از دل بار بردارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نهد پا بر سرم از راه هر کس خار بردارم",
+      "CoupletIndex": 0
+    }
+  ]
+}

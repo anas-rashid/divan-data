@@ -1,0 +1,45 @@
+{
+  "Id": 17574,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دشواری زلیخا داد از کف دامن یوسف\r\nبه آسانی من از کف چون دهم دامان فرصت را؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دشواری زلیخا داد از کف دامن یوسف",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به آسانی من از کف چون دهم دامان فرصت را؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26692,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۸۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که بر رویم غبار کلفت از هر سو نشست\r\nگرد از تمثال من آیینه را بر رو نشست\r\nتیر آه خاکساران را نمی باشد خطا\r\nبرحذر باش از کمانداری که بر زانو نشست\r\nاز تپیدن دور کرد از خود دل بی تاب من\r\nغیر تیر او مرا هر کس که در پهلو نشست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که بر رویم غبار کلفت از هر سو نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد از تمثال من آیینه را بر رو نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیر آه خاکساران را نمی باشد خطا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برحذر باش از کمانداری که بر زانو نشست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از تپیدن دور کرد از خود دل بی تاب من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غیر تیر او مرا هر کس که در پهلو نشست",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26200,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که بر آن پیکر سیمین قبا چسبیده است\r\nهر که او را در قبا دیده است، عریان دیده است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که بر آن پیکر سیمین قبا چسبیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر که او را در قبا دیده است، عریان دیده است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

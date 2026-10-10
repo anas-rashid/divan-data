@@ -1,0 +1,54 @@
+{
+  "Id": 37183,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/p393/robaee/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای هم‌نفسان که یار غارید مرا\r\nآن روز که تابوت برآرید مرا\r\nاول زیر زمین سپارید مرا\r\nآنگه به رحمتش گزارید مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای هم‌نفسان که یار غارید مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن روز که تابوت برآرید مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اول زیر زمین سپارید مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنگه به رحمتش گزارید مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

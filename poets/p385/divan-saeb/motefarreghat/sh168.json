@@ -1,0 +1,57 @@
+{
+  "Id": 26774,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۶۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از پسته تو شور ملاحت چکیده است\r\nصبح صباحت از گل رویت دمیده است\r\nیارب ز چشم زخم خمارش نگاه دار\r\nباغ از بنفشه سرمه مستی کشیده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از پسته تو شور ملاحت چکیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح صباحت از گل رویت دمیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یارب ز چشم زخم خمارش نگاه دار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باغ از بنفشه سرمه مستی کشیده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

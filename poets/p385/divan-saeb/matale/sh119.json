@@ -1,0 +1,45 @@
+{
+  "Id": 26207,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز حریم دل کز آب و گل در او آثار نیست\r\nرو به هر جانب که می آری به جز دیوار نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز حریم دل کز آب و گل در او آثار نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رو به هر جانب که می آری به جز دیوار نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18142,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۱۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۱۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh611",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh611",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست امروز کسی قابل زنجیر جنون\r\nآخر این سلسله بر گردن ما می‌افتد!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست امروز کسی قابل زنجیر جنون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آخر این سلسله بر گردن ما می‌افتد!",
+      "CoupletIndex": 0
+    }
+  ]
+}

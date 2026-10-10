@@ -1,0 +1,57 @@
+{
+  "Id": 29655,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/p388/divan/robaee/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی حوصله ام که جرعه مستم دارد\r\nنی حرص که فاقه زیر دستم دارد\r\nمن همت مطلقم که مستی و خمار\r\nمی نتواند بلند و پستم دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی حوصله ام که جرعه مستم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی حرص که فاقه زیر دستم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من همت مطلقم که مستی و خمار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می نتواند بلند و پستم دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33657,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۳۰",
+  "FullUrl": "/p392/ghazal-hz/sh230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برخاست دل ز سینه و پیکان فرو نشست\r\nتا پر خدنگ ناز تو در جان فرو نشست\r\nبود از نوای من همه جا شعله ها بلند\r\nخامش نشستم، آتش سوزان فرو نشست\r\nاشکم کمر به کینهٔ افلاک بسته بود\r\nمژگان ز گریه بستم و طوفان فرو نشست\r\nبرخاست موج شِکوه ولی دل ز تاب رشک\r\nدم در کشید و شورش عمّان فرو نشست\r\nافسرده شد جهان، چو حزین از میانه رفت\r\nمجنون گذشت و شور بیابان فرو نشست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برخاست دل ز سینه و پیکان فرو نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا پر خدنگ ناز تو در جان فرو نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بود از نوای من همه جا شعله ها بلند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خامش نشستم، آتش سوزان فرو نشست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اشکم کمر به کینهٔ افلاک بسته بود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مژگان ز گریه بستم و طوفان فرو نشست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "برخاست موج شِکوه ولی دل ز تاب رشک",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دم در کشید و شورش عمّان فرو نشست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "افسرده شد جهان، چو حزین از میانه رفت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مجنون گذشت و شور بیابان فرو نشست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 25398,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۳۲۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۳۲۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6325",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6325",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز سینه غم به می ناب می توان چیدن\r\nگل نشاط ازین آب می توان چیدن\r\n(چراغ عیش به می زنده می توان کردن\r\nگل از شکوفه مهتاب می توان چیدن)\r\nبه یک ترشح ساغر، ز چهره ساقی\r\nهزار لاله سیراب می توان چیدن\r\nفروغ روی تو حیرت اگر به طرح دهد\r\nبه روی آینه سیماب می توان چیدن\r\nدرین ستمکده صائب به غیر داغ نفاق\r\nچه گل ز صحبت احباب می توان چیدن؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز سینه غم به می ناب می توان چیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل نشاط ازین آب می توان چیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(چراغ عیش به می زنده می توان کردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل از شکوفه مهتاب می توان چیدن)",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به یک ترشح ساغر، ز چهره ساقی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هزار لاله سیراب می توان چیدن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فروغ روی تو حیرت اگر به طرح دهد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به روی آینه سیماب می توان چیدن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "درین ستمکده صائب به غیر داغ نفاق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه گل ز صحبت احباب می توان چیدن؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

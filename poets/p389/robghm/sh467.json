@@ -1,0 +1,57 @@
+{
+  "Id": 30724,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۶۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۶۷",
+  "FullUrl": "/p389/robghm/sh467",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh467",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگذار کُمیت فهم را سست لجام\r\nکز منزل خویش بگذری چندین گام\r\nمغرور به عقل خود نمی‌باید شد\r\nسالم نجهد شناور از بحر، مدام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگذار کُمیت فهم را سست لجام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز منزل خویش بگذری چندین گام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مغرور به عقل خود نمی‌باید شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سالم نجهد شناور از بحر، مدام",
+      "CoupletIndex": 1
+    }
+  ]
+}

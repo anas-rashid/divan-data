@@ -1,0 +1,57 @@
+{
+  "Id": 30701,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۴۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۴۴",
+  "FullUrl": "/p389/robghm/sh444",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh444",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون شد دلم از شنیدن نام وداع\r\nجان رفت به باد غم ز پیغام وداع\r\nای هجر، که را می‌کشی امروز، که دی\r\nمن زهر اجل چشیدم از جام وداع",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون شد دلم از شنیدن نام وداع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان رفت به باد غم ز پیغام وداع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای هجر، که را می‌کشی امروز، که دی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من زهر اجل چشیدم از جام وداع",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 34777,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زاهد خمیده است چو چنگ و ملول نیست\r\nیک تار موی بر تن او بی اصول نیست\r\nدارد ز مرشدان طریقت، خلیفه ها\r\nایمن به شهرها نتوان شد که غول نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهد خمیده است چو چنگ و ملول نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک تار موی بر تن او بی اصول نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دارد ز مرشدان طریقت، خلیفه ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمن به شهرها نتوان شد که غول نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

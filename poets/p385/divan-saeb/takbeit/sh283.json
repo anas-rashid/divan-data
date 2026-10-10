@@ -1,0 +1,45 @@
+{
+  "Id": 17814,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۸۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۸۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh283",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh283",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش بُوَد، دَر قَدَمِ صاف‌دِلان، جان‌دادن\r\nکاش، دَر پای خُمِ مِی‌، شِکَنَد شیشه‌ی ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش بُوَد، دَر قَدَمِ صاف‌دِلان، جان‌دادن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاش، دَر پای خُمِ مِی‌، شِکَنَد شیشه‌ی ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

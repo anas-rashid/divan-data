@@ -1,0 +1,45 @@
+{
+  "Id": 18541,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۱۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۱۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1010",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1010",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون سرو در مقام رضا ایستاده‌ام\r\nآسوده خاطرم ز بهار و خزان خویش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون سرو در مقام رضا ایستاده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسوده خاطرم ز بهار و خزان خویش",
+      "CoupletIndex": 0
+    }
+  ]
+}

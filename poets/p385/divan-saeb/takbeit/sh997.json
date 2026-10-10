@@ -1,0 +1,45 @@
+{
+  "Id": 18528,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۹۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۹۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh997",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh997",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاصل من چو مه نو ز کمانخانه چرخ\r\nتیر باران اشارت بود از شهرت خویش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاصل من چو مه نو ز کمانخانه چرخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیر باران اشارت بود از شهرت خویش",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36489,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۹",
+  "FullUrl": "/p393/ghete/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمع‌سان شب همه شب گریه بوُد کار مرا\r\nکاهش جان شده این دیدهٔ بیدار مرا\r\nدوش رفتی به عیادت سر بالین رقیب\r\nساخت دلسوزی بی‌جای تو بیمار مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع‌سان شب همه شب گریه بوُد کار مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاهش جان شده این دیدهٔ بیدار مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دوش رفتی به عیادت سر بالین رقیب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساخت دلسوزی بی‌جای تو بیمار مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

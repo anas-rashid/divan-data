@@ -1,0 +1,69 @@
+{
+  "Id": 30214,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۶",
+  "FullUrl": "/p389/mmgh/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم عشق تو در هر جا که محکم می‌کند پا را\r\nبود اول حکایت این که جان خالی کند جا را\r\nبه جای لاله و گل دیده پرخون برون جوشد\r\nبت من بر زمین هرجا گذارد آن کف پا را\r\nیکی از رتبه اعجاز عشق این است خوبان را\r\nکه طفلی می‌تواند کرد کار صد مسیحا را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم عشق تو در هر جا که محکم می‌کند پا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بود اول حکایت این که جان خالی کند جا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به جای لاله و گل دیده پرخون برون جوشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بت من بر زمین هرجا گذارد آن کف پا را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یکی از رتبه اعجاز عشق این است خوبان را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که طفلی می‌تواند کرد کار صد مسیحا را",
+      "CoupletIndex": 2
+    }
+  ]
+}

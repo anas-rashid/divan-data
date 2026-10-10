@@ -1,0 +1,42 @@
+{
+  "Id": 26559,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۷۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۷۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh471",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh471",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک دم که به کف باده گلرنگ نداریم\r\nبر چهره چو مینای تهی، رنگ نداریم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک دم که به کف باده گلرنگ نداریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر چهره چو مینای تهی، رنگ نداریم",
+      "CoupletIndex": 0
+    }
+  ]
+}

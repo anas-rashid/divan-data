@@ -1,0 +1,45 @@
+{
+  "Id": 18982,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۵۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۵۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1451",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1451",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیوان ما و خود را، مفکن به روز محشر\r\nدر عذر خشم بیجا، یک بوسهٔ بجا ده",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیوان ما و خود را، مفکن به روز محشر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عذر خشم بیجا، یک بوسهٔ بجا ده",
+      "CoupletIndex": 0
+    }
+  ]
+}

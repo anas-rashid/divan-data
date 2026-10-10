@@ -1,0 +1,57 @@
+{
+  "Id": 34491,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/p392/robaee-hz/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باطل کیشان بر اهل حق چیر شدند\r\nروبه بازان سگ صفت، شیر شدند\r\nدجّال وشان، نام مسیحا کردند\r\nکودک طبعان بوالهوس پیر شدند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باطل کیشان بر اهل حق چیر شدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روبه بازان سگ صفت، شیر شدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دجّال وشان، نام مسیحا کردند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کودک طبعان بوالهوس پیر شدند",
+      "CoupletIndex": 1
+    }
+  ]
+}

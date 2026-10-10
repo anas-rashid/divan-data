@@ -1,0 +1,93 @@
+{
+  "Id": 31767,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۰۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۰۰",
+  "FullUrl": "/p390/divan/ghazal/sh800",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh800",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز فیض عشق تو چون حسن دلپذیر شدیم\r\nغبار راه تو بودیم، ازان عبیر شدیم\r\nبه خون خویش علم چرب کرده ایم چو شمع\r\nکه خود نخست ز خصمان به خود اسیر شدیم\r\nچو صبح، برگ خزانی زنیم بر دستار\r\nبه نوبهار جوانی چنین که پیر شدیم\r\nکنون خوش است که خوان سپهر بردارند\r\nز قرض پنجه کش آفتاب، سیر شدیم\r\nشود سلیم درشتی ملایمت در عشق\r\nحصیر آمده بودیم، چون حریر شدیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز فیض عشق تو چون حسن دلپذیر شدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار راه تو بودیم، ازان عبیر شدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خون خویش علم چرب کرده ایم چو شمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خود نخست ز خصمان به خود اسیر شدیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو صبح، برگ خزانی زنیم بر دستار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به نوبهار جوانی چنین که پیر شدیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کنون خوش است که خوان سپهر بردارند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز قرض پنجه کش آفتاب، سیر شدیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شود سلیم درشتی ملایمت در عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "حصیر آمده بودیم، چون حریر شدیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

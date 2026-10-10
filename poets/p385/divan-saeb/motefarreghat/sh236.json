@@ -1,0 +1,69 @@
+{
+  "Id": 26842,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh236",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh236",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برای دیگران صد گل گشایش بر جبین دارد\r\nبه بخت چشم ما صد غنچه چین در آستین دارد\r\nز قرب شمع چون فانوس ایمن باشد از آفت؟\r\nکه چون پروانه آتشپاره ای را در کمین دارد\r\nکسی در خرمن ما تیره بختان ره نمی یابد\r\nمگر هم برق، شمعی پیش راه خوشه چین دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برای دیگران صد گل گشایش بر جبین دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به بخت چشم ما صد غنچه چین در آستین دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز قرب شمع چون فانوس ایمن باشد از آفت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چون پروانه آتشپاره ای را در کمین دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کسی در خرمن ما تیره بختان ره نمی یابد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگر هم برق، شمعی پیش راه خوشه چین دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

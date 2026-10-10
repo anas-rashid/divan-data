@@ -1,0 +1,57 @@
+{
+  "Id": 34564,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۶۹",
+  "FullUrl": "/p392/robaee-hz/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بخرید یکی خواجه، غلامی به هوس\r\nپرسید از آن بنده ی پاکیزه نفس\r\nکآیی به چه کار تا همانت سپرم؟\r\nگفتش که همین به کار آزادی و بس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخرید یکی خواجه، غلامی به هوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرسید از آن بنده ی پاکیزه نفس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کآیی به چه کار تا همانت سپرم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتش که همین به کار آزادی و بس",
+      "CoupletIndex": 1
+    }
+  ]
+}

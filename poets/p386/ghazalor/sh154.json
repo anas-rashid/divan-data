@@ -1,0 +1,93 @@
+{
+  "Id": 27562,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۵۴",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۵۴",
+  "FullUrl": "/p386/ghazalor/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دوش دل ناگشته سیر از وصل او بیهوش گشت\r\nلیک شادم کز فغان در محفلش خاموش گشت\r\nمرده ام زین غم که ناگه نیش ها در وی خلد\r\nدوش چون دل با خیال دوست هم آغوش گشت\r\nآن که دوش و دست او سجاده و تسبیح داشت\r\nجام می بر کف برون آمد، سبو بر دوش گشت\r\nجان و دل دیدند هر گه با لقایش در سخن\r\nاین تمامی چشم گردید، او سراسر گوش گشت\r\nمن خدنگ ناله شب دزدیدم از لذت به دل\r\nغافلان گویند عرفی از فغان خاموش گشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش دل ناگشته سیر از وصل او بیهوش گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیک شادم کز فغان در محفلش خاموش گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرده ام زین غم که ناگه نیش ها در وی خلد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوش چون دل با خیال دوست هم آغوش گشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن که دوش و دست او سجاده و تسبیح داشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جام می بر کف برون آمد، سبو بر دوش گشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جان و دل دیدند هر گه با لقایش در سخن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این تمامی چشم گردید، او سراسر گوش گشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "من خدنگ ناله شب دزدیدم از لذت به دل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غافلان گویند عرفی از فغان خاموش گشت",
+      "CoupletIndex": 4
+    }
+  ]
+}

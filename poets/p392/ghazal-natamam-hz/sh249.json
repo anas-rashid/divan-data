@@ -1,0 +1,57 @@
+{
+  "Id": 34908,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۴۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۴۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh249",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh249",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرفرازی طلب از همّت مردانهٔ عشق\r\nداغ خورشید بود بر سر دیوانهٔ عشق\r\nنیست جز سینهٔ تفسیدهٔ این سوخته دل\r\nسرزمینی که در آن سوخته شد دانهٔ عشق",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرفرازی طلب از همّت مردانهٔ عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ خورشید بود بر سر دیوانهٔ عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست جز سینهٔ تفسیدهٔ این سوخته دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرزمینی که در آن سوخته شد دانهٔ عشق",
+      "CoupletIndex": 1
+    }
+  ]
+}

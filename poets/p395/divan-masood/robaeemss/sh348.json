@@ -1,0 +1,57 @@
+{
+  "Id": 37862,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۴۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۴۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh348",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh348",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کوفتن پای تو و گشتن تو\r\nلعبی است هر اندام تو را بر تن تو\r\nماهی تو از جیب تو تا دامن تو\r\nچون چرخ همی گردد پیرامن تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کوفتن پای تو و گشتن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لعبی است هر اندام تو را بر تن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماهی تو از جیب تو تا دامن تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چرخ همی گردد پیرامن تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

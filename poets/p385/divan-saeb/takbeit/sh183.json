@@ -1,0 +1,45 @@
+{
+  "Id": 17714,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۸۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۸۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh183",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh183",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان شد عام در ایام ما ذوق گرفتاری\r\nکه آزادی کند دلگیر، اطفال دبستان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان شد عام در ایام ما ذوق گرفتاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که آزادی کند دلگیر، اطفال دبستان را",
+      "CoupletIndex": 0
+    }
+  ]
+}

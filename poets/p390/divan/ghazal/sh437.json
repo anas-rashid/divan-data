@@ -1,0 +1,93 @@
+{
+  "Id": 31404,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۳۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۳۷",
+  "FullUrl": "/p390/divan/ghazal/sh437",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh437",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به عشق باده ز خون امید و بیم خورند\r\nکباب پخته و خام از دل دو نیم خورند\r\nبه زور باده به مخمور می دهد ساقی\r\nچو خستگان که دوا از کف حکیم خورند\r\nکشیده اند صفی بیدلان عشق، ولی\r\nشکست همچو گل و لاله از نسیم خورند\r\nبه کعبه باعث صد فیض گشت مستی ما\r\nخوش آن شراب که در خانه ی کریم خورند\r\nپیاله گیر چو آیی به بزم ما زاهد\r\nحرام نیست شرابی که با سلیم خورند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به عشق باده ز خون امید و بیم خورند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کباب پخته و خام از دل دو نیم خورند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به زور باده به مخمور می دهد ساقی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو خستگان که دوا از کف حکیم خورند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کشیده اند صفی بیدلان عشق، ولی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شکست همچو گل و لاله از نسیم خورند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به کعبه باعث صد فیض گشت مستی ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خوش آن شراب که در خانه ی کریم خورند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پیاله گیر چو آیی به بزم ما زاهد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "حرام نیست شرابی که با سلیم خورند",
+      "CoupletIndex": 4
+    }
+  ]
+}

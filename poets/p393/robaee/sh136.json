@@ -1,0 +1,54 @@
+{
+  "Id": 37308,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳۶",
+  "FullUrl": "/p393/robaee/sh136",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh136",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چندی ز هوس به کوه و هامون گشتم\r\nزین گردش بی‌فایده محزون گشتم\r\nعشقم مددی کرد که در آخر کار\r\nجاروب کس تربت مجنون گشتم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندی ز هوس به کوه و هامون گشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین گردش بی‌فایده محزون گشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشقم مددی کرد که در آخر کار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جاروب کس تربت مجنون گشتم",
+      "CoupletIndex": 1
+    }
+  ]
+}

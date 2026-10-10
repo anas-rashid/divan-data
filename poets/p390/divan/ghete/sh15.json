@@ -1,0 +1,57 @@
+{
+  "Id": 31953,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۱۵ - گرفتن طلب خود از خواجه ی ممسک",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۱۵ - گرفتن طلب خود از خواجه ی ممسک",
+  "FullUrl": "/p390/divan/ghete/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکر کز خواجه گرفتم طلب خویش سلیم\r\nمرد عاقل زر خود را به چنین کس ندهد\r\nکه ازین دست به آن دست چو گیرد زر را\r\nتا قیامت، به همان دست، دگر پس ندهد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکر کز خواجه گرفتم طلب خویش سلیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرد عاقل زر خود را به چنین کس ندهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که ازین دست به آن دست چو گیرد زر را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا قیامت، به همان دست، دگر پس ندهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

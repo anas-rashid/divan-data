@@ -1,0 +1,57 @@
+{
+  "Id": 34406,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/p392/robaee-hz/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوبت ز کیان به ماکیان افتاده ست\r\nبازیّ شگرفی به میان افتاده ست\r\nشاید که سپهر سفله رقصد ز نشاط\r\nشمشیر زدن به دف زنان افتاده ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوبت ز کیان به ماکیان افتاده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازیّ شگرفی به میان افتاده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاید که سپهر سفله رقصد ز نشاط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر زدن به دف زنان افتاده ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26770,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۶۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سرد مهری آتش شوقم فسرده است\r\nروغن تلف مکن به چراغی که مرده است\r\nبا مشتری به چین جبین حرف می زند\r\nحسن تو گوشمال کسادی نخورده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سرد مهری آتش شوقم فسرده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روغن تلف مکن به چراغی که مرده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با مشتری به چین جبین حرف می زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن تو گوشمال کسادی نخورده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

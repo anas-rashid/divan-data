@@ -1,0 +1,93 @@
+{
+  "Id": 30047,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۹۹",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۹۹",
+  "FullUrl": "/p389/ghazalgm/sh299",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh299",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آغشته‌ام چو پنبه ز خوناب داغ خویش\r\nمنت ز شاخ گل نپذیرم به باغ خویش\r\nچون آفتاب با همه کس گرمخون مباش\r\nپروانه را دلیر مکن بر چراغ خویش\r\nبوی گلم دماغ خراشد درین چمن\r\nدر باغم و چو غنچه بگیرم دماغ خویش\r\nما را چو کرد دستخوش خویش درد عشق\r\nخود آستین زنیم به شمع و چراغ خویش\r\nایام گل گذشت و شراب طرب نماند\r\nشد وقت آنکه پر کنم از خون ایاغ خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آغشته‌ام چو پنبه ز خوناب داغ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منت ز شاخ گل نپذیرم به باغ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آفتاب با همه کس گرمخون مباش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه را دلیر مکن بر چراغ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بوی گلم دماغ خراشد درین چمن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در باغم و چو غنچه بگیرم دماغ خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما را چو کرد دستخوش خویش درد عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خود آستین زنیم به شمع و چراغ خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ایام گل گذشت و شراب طرب نماند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شد وقت آنکه پر کنم از خون ایاغ خویش",
+      "CoupletIndex": 4
+    }
+  ]
+}

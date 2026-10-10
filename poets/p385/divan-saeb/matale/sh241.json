@@ -1,0 +1,42 @@
+{
+  "Id": 26329,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۴۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh241",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh241",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتی نمی توان ز لب دلستان گذشت\r\nگر بگذری ز وادی جان می توان گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی نمی توان ز لب دلستان گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر بگذری ز وادی جان می توان گذشت",
+      "CoupletIndex": 0
+    }
+  ]
+}

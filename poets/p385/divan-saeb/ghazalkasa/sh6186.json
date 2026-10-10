@@ -1,0 +1,93 @@
+{
+  "Id": 25259,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۱۸۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۱۸۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6186",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6186",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز چشم ظالم او چون نیندیشند معصومان؟\r\nکه دارد غمزه ای گیرنده تر از خون مظلومان\r\nنیفتد هیچ کافر بر زبان ناصحان یارب!\r\nمرا کردند عاقل رفته رفته این نفس شومان\r\nاگر در دامن محشر گنه این آبرو دارد\r\nبسا خجلت که خواهد شد گریبانگیر معصومان\r\nصفا می بارد از آب گهر آیینه دولت\r\nمهل آید برون از پرده آب چشم مظلومان\r\nبه شکر این که محروم از وصال او نه ای صائب\r\nبگو در وقت فرصت شمه ای از حال محرومان",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز چشم ظالم او چون نیندیشند معصومان؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دارد غمزه ای گیرنده تر از خون مظلومان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیفتد هیچ کافر بر زبان ناصحان یارب!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا کردند عاقل رفته رفته این نفس شومان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر در دامن محشر گنه این آبرو دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بسا خجلت که خواهد شد گریبانگیر معصومان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صفا می بارد از آب گهر آیینه دولت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مهل آید برون از پرده آب چشم مظلومان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به شکر این که محروم از وصال او نه ای صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بگو در وقت فرصت شمه ای از حال محرومان",
+      "CoupletIndex": 4
+    }
+  ]
+}

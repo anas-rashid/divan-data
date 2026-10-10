@@ -1,0 +1,57 @@
+{
+  "Id": 30739,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۸۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۸۲",
+  "FullUrl": "/p389/robghm/sh482",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh482",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در وصل تو دیده بر زمین می‌دوزم\r\nدر باغم و از حسرت گل می‌سوزم\r\nتو در نظر و من به خیالت مشغول\r\nدر وصل، طریق هجر می‌آموزم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در وصل تو دیده بر زمین می‌دوزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در باغم و از حسرت گل می‌سوزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو در نظر و من به خیالت مشغول",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در وصل، طریق هجر می‌آموزم",
+      "CoupletIndex": 1
+    }
+  ]
+}

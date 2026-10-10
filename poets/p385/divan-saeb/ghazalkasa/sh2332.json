@@ -1,0 +1,93 @@
+{
+  "Id": 21405,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۳۳۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۳۳۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2332",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2332",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شام ازان زلف سیه سنبل به دامن می برد\r\nصبح از ان چاک گریبان گل به دامن می برد\r\nآن که بر خار سر دیوار حسرت می کشید\r\nاین زمان از گلشن او گل به دامن می برد\r\nیک سراسر رفت و در گلزار قحط دل فکند\r\nطفل ما از بوستان بلبل به دامن می برد\r\nاز سرکوی دلاویزش صبا در بوستان\r\nخار و خس می آورد، سنبل به دامن می برد\r\nعمرها رفت و صبا از تازگیهای سخن\r\nگل زخاک طالب آمل به دامن می برد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شام ازان زلف سیه سنبل به دامن می برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح از ان چاک گریبان گل به دامن می برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن که بر خار سر دیوار حسرت می کشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این زمان از گلشن او گل به دامن می برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک سراسر رفت و در گلزار قحط دل فکند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طفل ما از بوستان بلبل به دامن می برد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از سرکوی دلاویزش صبا در بوستان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خار و خس می آورد، سنبل به دامن می برد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عمرها رفت و صبا از تازگیهای سخن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گل زخاک طالب آمل به دامن می برد",
+      "CoupletIndex": 4
+    }
+  ]
+}

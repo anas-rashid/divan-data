@@ -1,0 +1,54 @@
+{
+  "Id": 37304,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳۲",
+  "FullUrl": "/p393/robaee/sh132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواهم که به دریای جنون غرق شوم\r\nنی در پی عقل ذوفنون غرق شوم\r\nبا عاقبتم سری نمانده ناصح\r\nدستم بگذار تا به خون غرق شوم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهم که به دریای جنون غرق شوم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی در پی عقل ذوفنون غرق شوم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با عاقبتم سری نمانده ناصح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستم بگذار تا به خون غرق شوم",
+      "CoupletIndex": 1
+    }
+  ]
+}

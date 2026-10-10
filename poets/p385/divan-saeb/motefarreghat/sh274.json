@@ -1,0 +1,57 @@
+{
+  "Id": 26880,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh274",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh274",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کم و بیش جهان در نیستی همسنگ می‌گردد\r\nبه دریا سیل الوان چون رسد یکرنگ می‌گردد\r\nبرآی از قلزم افسرده امکان به چالاکی\r\nکه در یک ساعت اینجا اشک نیسان سنگ می‌گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم و بیش جهان در نیستی همسنگ می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دریا سیل الوان چون رسد یکرنگ می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برآی از قلزم افسرده امکان به چالاکی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در یک ساعت اینجا اشک نیسان سنگ می‌گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

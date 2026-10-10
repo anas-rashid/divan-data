@@ -1,0 +1,60 @@
+{
+  "Id": 36339,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۸۸",
+  "FullUrl": "/p393/natmam/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن روز که یار خواهد آمد\r\nصد فصل بهار خواهد آید\r\nگر دل نرود ز کار در عشق\r\nدیگر بچه کار خواهد آمد\r\nمیرم از ذوق اگر بدانم یارم به مزار خواهد آمد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن روز که یار خواهد آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد فصل بهار خواهد آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دل نرود ز کار در عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیگر بچه کار خواهد آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "میرم از ذوق اگر بدانم یارم به مزار خواهد آمد",
+      "CoupletIndex": 2
+    }
+  ]
+}

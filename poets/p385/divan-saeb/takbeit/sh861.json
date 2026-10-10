@@ -1,0 +1,45 @@
+{
+  "Id": 18392,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۶۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۶۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh861",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh861",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دست هر کس را که می‌گیری درین آشوبگاه\r\nبر چراغ زندگی دست حمایت می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست هر کس را که می‌گیری درین آشوبگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر چراغ زندگی دست حمایت می‌شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

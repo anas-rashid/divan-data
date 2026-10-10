@@ -1,0 +1,54 @@
+{
+  "Id": 37178,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/p393/robaee/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفتم بر یار و قدر نشناخت مرا\r\nوز لطف به یک دو حرف ننواخت مرا\r\nمن گفتهٔ او را ز کری نشنیدم\r\nاین گوش گران طرف سبک ساخت مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتم بر یار و قدر نشناخت مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز لطف به یک دو حرف ننواخت مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من گفتهٔ او را ز کری نشنیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این گوش گران طرف سبک ساخت مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

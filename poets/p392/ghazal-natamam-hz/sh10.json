@@ -1,0 +1,42 @@
+{
+  "Id": 34669,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان افشاند چشمم، بی‌تو، اشک بی‌محابا را\r\nکه ابر امشب، غلط هردم به دریا می‌کند ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان افشاند چشمم، بی‌تو، اشک بی‌محابا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ابر امشب، غلط هردم به دریا می‌کند ما را",
+      "CoupletIndex": 0
+    }
+  ]
+}

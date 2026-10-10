@@ -1,0 +1,57 @@
+{
+  "Id": 37654,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۴۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh140",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh140",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر خون نشود قوت جانم که دهد\r\nده سال به اطلاق زبانم که دهد\r\nدر زندان نهان رایگانم که دهد\r\nآبم متعذرست نانم که دهد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر خون نشود قوت جانم که دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ده سال به اطلاق زبانم که دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در زندان نهان رایگانم که دهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آبم متعذرست نانم که دهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

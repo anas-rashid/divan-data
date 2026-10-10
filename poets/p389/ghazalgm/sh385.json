@@ -1,0 +1,93 @@
+{
+  "Id": 30133,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۸۵",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۸۵",
+  "FullUrl": "/p389/ghazalgm/sh385",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh385",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما جهان را رخ ز آب چشم گریان شسته‌ایم\r\nلوح دلها را ز وصف نوح و طوفان شسته‌ایم\r\nنوعروس عشق را گلگونه‌ای در کار نیست\r\nما ز خون کفر، اول روی ایمان شسته‌ایم\r\nصفحه خاطر ز حرف مرهم آسودگی\r\nاز نم خون جراحت‌های پنهان شسته‌ایم\r\nتا لب زخم دل، از آلایش افشای راز\r\nگاه جذب سر عشق از آب پیکان شسته‌ایم\r\nاز ترشح‌کردن مژگان قدسی تا به روز\r\nرخ به خون، هر شب چو صبح عید قربان شسته‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما جهان را رخ ز آب چشم گریان شسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لوح دلها را ز وصف نوح و طوفان شسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوعروس عشق را گلگونه‌ای در کار نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما ز خون کفر، اول روی ایمان شسته‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صفحه خاطر ز حرف مرهم آسودگی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از نم خون جراحت‌های پنهان شسته‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا لب زخم دل، از آلایش افشای راز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گاه جذب سر عشق از آب پیکان شسته‌ایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از ترشح‌کردن مژگان قدسی تا به روز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رخ به خون، هر شب چو صبح عید قربان شسته‌ایم",
+      "CoupletIndex": 4
+    }
+  ]
+}

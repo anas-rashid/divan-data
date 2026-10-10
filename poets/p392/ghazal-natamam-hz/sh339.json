@@ -1,0 +1,42 @@
+{
+  "Id": 34998,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۳۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۳۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh339",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh339",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بستم چو دل به مهر تو، نامهربان شدی\r\nسرگرم جام لطف شدم، سرگران شدی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بستم چو دل به مهر تو، نامهربان شدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرگرم جام لطف شدم، سرگران شدی",
+      "CoupletIndex": 0
+    }
+  ]
+}

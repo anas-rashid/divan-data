@@ -1,0 +1,57 @@
+{
+  "Id": 34454,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/p392/robaee-hz/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از صومعه تا میکده، پر راهی نیست\r\nاز کعبه به بتخانه شبانگاهی نیست\r\nبخرام به طور عشقبازان و ببین\r\nکس نیست که در ذکر انا اللّهی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از صومعه تا میکده، پر راهی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کعبه به بتخانه شبانگاهی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بخرام به طور عشقبازان و ببین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس نیست که در ذکر انا اللّهی نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

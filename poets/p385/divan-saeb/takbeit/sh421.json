@@ -1,0 +1,45 @@
+{
+  "Id": 17952,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۲۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۲۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh421",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh421",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ می گل گل به طرف دامنم افتاده است\r\nهمچو مینا میکشی بر گردنم افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ می گل گل به طرف دامنم افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو مینا میکشی بر گردنم افتاده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

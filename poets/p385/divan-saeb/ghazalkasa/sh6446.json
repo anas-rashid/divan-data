@@ -1,0 +1,93 @@
+{
+  "Id": 25519,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۴۴۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۴۴۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6446",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6446",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من که در فردوس افتادم به نقد از یاد او\r\nبی نیازم از تمنای بهشت آباد او\r\nاز سر کون و مکان آزاد برخیزد چو سرو\r\nبر سر هر کس که افتد سایه شمشاد او\r\nرتبه بیداد او بالاترست از التفات\r\nوای بر آن کس که دارد شکوه از بیداد او\r\nآدم مسکین به یک خامی که در فردوس کرد\r\nچاک شد چون دانه گندم دل اولاد او\r\nمی تواند داد صائب آسمان را خاکمال\r\nهر که را بر کوه باشد پشت از امداد او",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من که در فردوس افتادم به نقد از یاد او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی نیازم از تمنای بهشت آباد او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سر کون و مکان آزاد برخیزد چو سرو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر سر هر کس که افتد سایه شمشاد او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رتبه بیداد او بالاترست از التفات",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وای بر آن کس که دارد شکوه از بیداد او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آدم مسکین به یک خامی که در فردوس کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چاک شد چون دانه گندم دل اولاد او",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می تواند داد صائب آسمان را خاکمال",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر که را بر کوه باشد پشت از امداد او",
+      "CoupletIndex": 4
+    }
+  ]
+}

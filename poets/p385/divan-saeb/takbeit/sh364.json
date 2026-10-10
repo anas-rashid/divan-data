@@ -1,0 +1,45 @@
+{
+  "Id": 17895,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۶۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۶۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh364",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh364",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفت‌وگوی اهلِ غفلت، قابلِ‌تأویل نیست\r\nخوابِ پای خفته را، تعبیرکردن، مشکل است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفت‌وگوی اهلِ غفلت، قابلِ‌تأویل نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوابِ پای خفته را، تعبیرکردن، مشکل است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

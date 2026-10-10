@@ -1,0 +1,45 @@
+{
+  "Id": 18901,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۷۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۷۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1370",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1370",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاقبت پیر خرابات ز بی‌پروایی\r\nریخت پیش بط می سبحهٔ صد دانهٔ من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقبت پیر خرابات ز بی‌پروایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ریخت پیش بط می سبحهٔ صد دانهٔ من",
+      "CoupletIndex": 0
+    }
+  ]
+}

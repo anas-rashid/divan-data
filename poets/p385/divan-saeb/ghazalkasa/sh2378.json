@@ -1,0 +1,81 @@
+{
+  "Id": 21451,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۳۷۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۳۷۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2378",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2378",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد باد آن بی حقیقت را که یاد ما نکرد\r\nبر فلک شد دود آه ما و سر بالا نکرد\r\nبوسه ها پیچید در مکتوب بهر دیگران\r\nوز تریها نامه خشکی به ما انشا نکرد\r\nگرچه آمد نخلش از دست دعای ما به بار\r\nدر برومندی به برگ سبز یاد ما نکرد\r\nگرچه گردیدیم خاک راهش از روی نیاز\r\nزیر پای خود نگاه از ناز و استغنا نکرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد باد آن بی حقیقت را که یاد ما نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر فلک شد دود آه ما و سر بالا نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوسه ها پیچید در مکتوب بهر دیگران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز تریها نامه خشکی به ما انشا نکرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرچه آمد نخلش از دست دعای ما به بار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در برومندی به برگ سبز یاد ما نکرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گرچه گردیدیم خاک راهش از روی نیاز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زیر پای خود نگاه از ناز و استغنا نکرد",
+      "CoupletIndex": 3
+    }
+  ]
+}

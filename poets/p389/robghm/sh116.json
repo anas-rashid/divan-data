@@ -1,0 +1,57 @@
+{
+  "Id": 30373,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۱۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۱۶",
+  "FullUrl": "/p389/robghm/sh116",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh116",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد تو مقیم دل آگاه به است\r\nور سوی تو هر دل نبرد راه، به است\r\nگر قد تو کوتاه بود، عیبی نیست\r\nای فتنه دهر، فتنه کوتاه به است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد تو مقیم دل آگاه به است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور سوی تو هر دل نبرد راه، به است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر قد تو کوتاه بود، عیبی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای فتنه دهر، فتنه کوتاه به است",
+      "CoupletIndex": 1
+    }
+  ]
+}

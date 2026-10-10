@@ -1,0 +1,57 @@
+{
+  "Id": 38299,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۷۲ - بر فوت محمد علوی",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۷۲ - بر فوت محمد علوی",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر وفات محمد علوی\r\nخواستم زد به شعر یک دو نفس\r\nباز گفتم که در جهان پس ازین\r\nزشت باشد که شعر گوید کس",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر وفات محمد علوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواستم زد به شعر یک دو نفس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باز گفتم که در جهان پس ازین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زشت باشد که شعر گوید کس",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37687,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۷۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh173",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh173",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اکنون که شدی به بتکده عاشق زار\r\nپیش آر صلیب و زود بربند زنار\r\nاکنون که همی قلندری جویی یار\r\nمردانه بزی و از کسی باک مدار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اکنون که شدی به بتکده عاشق زار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش آر صلیب و زود بربند زنار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون که همی قلندری جویی یار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردانه بزی و از کسی باک مدار",
+      "CoupletIndex": 1
+    }
+  ]
+}

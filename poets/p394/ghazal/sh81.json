@@ -1,0 +1,42 @@
+{
+  "Id": 37466,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۸۱",
+  "FullUrl": "/p394/ghazal/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می پرد از اشتیاق ِ سیل ای معمار ما\r\nبرگ کاهی نه به چشم رخنهٔ دیوار را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می پرد از اشتیاق ِ سیل ای معمار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگ کاهی نه به چشم رخنهٔ دیوار را",
+      "CoupletIndex": 0
+    }
+  ]
+}

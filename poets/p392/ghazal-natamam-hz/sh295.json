@@ -1,0 +1,57 @@
+{
+  "Id": 34954,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارم دلی دو نیم، ز تیغ زبان تو\r\nزخمم، نمک چش لب شکرفشان تو\r\nجان رفت از میان و به کین بسته ای کمر\r\nنتوان برید، الفت تیغ از میان تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم دلی دو نیم، ز تیغ زبان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زخمم، نمک چش لب شکرفشان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان رفت از میان و به کین بسته ای کمر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتوان برید، الفت تیغ از میان تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

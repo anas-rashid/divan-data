@@ -1,0 +1,54 @@
+{
+  "Id": 36630,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۰",
+  "FullUrl": "/p393/ghete/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌سبب یار مرا از نظر انداخت دریغ\r\nدل عبث در غم او صبر و خرد باخت دریغ\r\nچون بدانست که من عاشقم و پاک‌نظر\r\nسوخت جان من و با هل هوس ساخت دریغ",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌سبب یار مرا از نظر انداخت دریغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل عبث در غم او صبر و خرد باخت دریغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بدانست که من عاشقم و پاک‌نظر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سوخت جان من و با هل هوس ساخت دریغ",
+      "CoupletIndex": 1
+    }
+  ]
+}

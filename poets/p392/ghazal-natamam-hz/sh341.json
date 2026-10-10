@@ -1,0 +1,66 @@
+{
+  "Id": 35000,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۴۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۴۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh341",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh341",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی می دهد از اصل مقامات صدایی\r\nپیچیده ز کلکم به سماوات صدایی\r\nدر مسجد اگر مست سماعم، عجبی نیست\r\nخورده ست به گوشم، ز خرابات صدایی\r\nدر عین اشارات تو، گویای خموشم\r\nمعنیست مقامات و مقالات، صدایی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی می دهد از اصل مقامات صدایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیچیده ز کلکم به سماوات صدایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در مسجد اگر مست سماعم، عجبی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورده ست به گوشم، ز خرابات صدایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در عین اشارات تو، گویای خموشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "معنیست مقامات و مقالات، صدایی",
+      "CoupletIndex": 2
+    }
+  ]
+}

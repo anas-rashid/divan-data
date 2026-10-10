@@ -1,0 +1,45 @@
+{
+  "Id": 19051,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۲۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۲۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1520",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1520",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش و پس اوراق خزان نیم نفس نیست\r\nخوشدل چه به عمر خود و مرگ دگرانی؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش و پس اوراق خزان نیم نفس نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشدل چه به عمر خود و مرگ دگرانی؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

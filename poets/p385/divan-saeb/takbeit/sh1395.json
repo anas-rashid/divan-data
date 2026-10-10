@@ -1,0 +1,45 @@
+{
+  "Id": 18926,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۹۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۹۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1395",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1395",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلیخا همتی در عرصهٔ عالم نمی‌یابد\r\nبه امیدی که آید یوسف از چاه وطن بیرون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلیخا همتی در عرصهٔ عالم نمی‌یابد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به امیدی که آید یوسف از چاه وطن بیرون",
+      "CoupletIndex": 0
+    }
+  ]
+}

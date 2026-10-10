@@ -1,0 +1,57 @@
+{
+  "Id": 34591,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۹۶",
+  "FullUrl": "/p392/robaee-hz/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ غم آن نگار مهوش دارم\r\nچون شمع، تنی در آب و آتش دارم\r\nالماس به زخم و نشترستان به جگر\r\nبا این همه شادم که دلی خوش دارم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ غم آن نگار مهوش دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع، تنی در آب و آتش دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "الماس به زخم و نشترستان به جگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این همه شادم که دلی خوش دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

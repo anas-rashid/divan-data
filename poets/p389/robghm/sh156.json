@@ -1,0 +1,57 @@
+{
+  "Id": 30413,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۵۶",
+  "FullUrl": "/p389/robghm/sh156",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh156",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در پیش تو دیوانه و فرزانه یکی‌ست\r\nقدر خزف و گوهر یکدانه یکی‌ست\r\nچون آینه با روشنی دیده، چرا\r\nدر چشم تو آشنا و بیگانه یکی‌ست؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در پیش تو دیوانه و فرزانه یکی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قدر خزف و گوهر یکدانه یکی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آینه با روشنی دیده، چرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در چشم تو آشنا و بیگانه یکی‌ست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

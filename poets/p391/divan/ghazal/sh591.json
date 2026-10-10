@@ -1,0 +1,66 @@
+{
+  "Id": 32683,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۹۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۱",
+  "FullUrl": "/p391/divan/ghazal/sh591",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh591",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنگ حسن گل رخان هند را چون ریختند\r\nپرتو مهتاب در پرویزن گل بیختند\r\nمی تواند گردهٔ رنگ بناگوشت شود\r\nبا شمیم گل هوای صبح را آمیختند\r\nداد ازین دشمن مروت دوستان جویا که باز\r\nرشتهٔ پیمان و الفت را ز هم بگسیختند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگ حسن گل رخان هند را چون ریختند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرتو مهتاب در پرویزن گل بیختند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می تواند گردهٔ رنگ بناگوشت شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با شمیم گل هوای صبح را آمیختند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "داد ازین دشمن مروت دوستان جویا که باز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رشتهٔ پیمان و الفت را ز هم بگسیختند",
+      "CoupletIndex": 2
+    }
+  ]
+}

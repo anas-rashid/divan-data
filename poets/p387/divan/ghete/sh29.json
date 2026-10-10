@@ -1,0 +1,93 @@
+{
+  "Id": 28848,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۲۹ - تاریخ فوت یکی از نوادگان شاه",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۲۹ - تاریخ فوت یکی از نوادگان شاه",
+  "FullUrl": "/p387/divan/ghete/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گوهری ارجمند از کف شاه\r\nرفته کز دیده، خون نمی بندد\r\nحاصل هر دو کون شاه جهان\r\nبدهد گر بسلک پیوندد\r\nرخت گلگون شفق نمی پوشد\r\nکه ببر جز سیاه نپسندد\r\nآسمان بر سر از مه و خورشید\r\nچهره زر دگر نمی بندد\r\nگشت تاریخ این مصیبت عام\r\n(صبحدم زین الم نمی خندد)",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گوهری ارجمند از کف شاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفته کز دیده، خون نمی بندد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حاصل هر دو کون شاه جهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدهد گر بسلک پیوندد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رخت گلگون شفق نمی پوشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که ببر جز سیاه نپسندد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آسمان بر سر از مه و خورشید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چهره زر دگر نمی بندد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گشت تاریخ این مصیبت عام",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "(صبحدم زین الم نمی خندد)",
+      "CoupletIndex": 4
+    }
+  ]
+}

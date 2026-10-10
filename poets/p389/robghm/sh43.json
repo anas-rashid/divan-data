@@ -1,0 +1,57 @@
+{
+  "Id": 30300,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/p389/robghm/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکس که کند از تو تمنای گلاب\r\nبر چهره خود آب زند جای گلاب\r\nپیداست که ظرف شیشه‌ای چند بود\r\nاین چشمه آب است، نه مینای گلاب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس که کند از تو تمنای گلاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر چهره خود آب زند جای گلاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیداست که ظرف شیشه‌ای چند بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این چشمه آب است، نه مینای گلاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

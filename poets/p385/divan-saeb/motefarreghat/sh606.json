@@ -1,0 +1,69 @@
+{
+  "Id": 27212,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۰۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۰۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh606",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh606",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست هر آیینه را تاب رخ گلرنگ او\r\nهم مگر آیینه سازند از دل چون سنگ او\r\nدر شب تاریک نتوان دزد را دنبال رفت\r\nدل گرفتن مشکل است از طره شبرنگ او\r\nاز لطافت نسبت رخسار او با گل خطاست\r\nکز نگاه گرم گردد آفتابی، رنگ او",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست هر آیینه را تاب رخ گلرنگ او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم مگر آیینه سازند از دل چون سنگ او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در شب تاریک نتوان دزد را دنبال رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل گرفتن مشکل است از طره شبرنگ او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از لطافت نسبت رخسار او با گل خطاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز نگاه گرم گردد آفتابی، رنگ او",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "Id": 33244,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۸",
+  "FullUrl": "/p391/divan/ghete/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خان والا نژاد ابراهیم\r\nکه علی را به جان و دل بنده است\r\nآنکه نور غلامی مولا\r\nاز جبینش چو مهر تابنده است\r\nبر دل اوست مهر مهر علی\r\nگوهر ذاتش الحق ارزنده است\r\nبر وجودش فنا نیابد دست\r\nبه دم مرتضی علی زنده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خان والا نژاد ابراهیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که علی را به جان و دل بنده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنکه نور غلامی مولا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جبینش چو مهر تابنده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر دل اوست مهر مهر علی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گوهر ذاتش الحق ارزنده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر وجودش فنا نیابد دست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به دم مرتضی علی زنده است",
+      "CoupletIndex": 3
+    }
+  ]
+}

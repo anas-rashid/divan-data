@@ -1,0 +1,57 @@
+{
+  "Id": 30824,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۶۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۶۷",
+  "FullUrl": "/p389/robghm/sh567",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh567",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیوانه رهد ز رنج در ویرانه\r\nجغدست ترانه‌سنج در ویرانه\r\nدر سینه، ز دل، مهر تو شوریده‌ترست\r\nزنجیر گسسته گنج در ویرانه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیوانه رهد ز رنج در ویرانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جغدست ترانه‌سنج در ویرانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سینه، ز دل، مهر تو شوریده‌ترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنجیر گسسته گنج در ویرانه",
+      "CoupletIndex": 1
+    }
+  ]
+}

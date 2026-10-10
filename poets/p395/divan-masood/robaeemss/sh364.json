@@ -1,0 +1,57 @@
+{
+  "Id": 37878,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۶۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۶۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh364",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh364",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مفروق دو دیده ای و مقرون دلی\r\nدل هر چه بیندیشد مضمون دلی\r\nتا ظن نبری که هیچ بیرون دلی\r\nدر خون دلم مشو که در خون دلی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مفروق دو دیده ای و مقرون دلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل هر چه بیندیشد مضمون دلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا ظن نبری که هیچ بیرون دلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خون دلم مشو که در خون دلی",
+      "CoupletIndex": 1
+    }
+  ]
+}

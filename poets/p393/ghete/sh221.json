@@ -1,0 +1,54 @@
+{
+  "Id": 36701,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۲۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۲۱",
+  "FullUrl": "/p393/ghete/sh221",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh221",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی به بزم تو چون گردد آشنای کسی\r\nکه جا نمی‌دهد آنجا کسی برای کسی\r\nبه داغ زخم مرا چاره‌ساز شو ورنه\r\nبه جز تو کیست که نیکی کند به جای کسی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی به بزم تو چون گردد آشنای کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که جا نمی‌دهد آنجا کسی برای کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به داغ زخم مرا چاره‌ساز شو ورنه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به جز تو کیست که نیکی کند به جای کسی",
+      "CoupletIndex": 1
+    }
+  ]
+}

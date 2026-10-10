@@ -1,0 +1,45 @@
+{
+  "Id": 18599,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۶۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۶۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1068",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1068",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سال‌ها در پرده دل خون خود را خورده‌ام\r\nتا درین گلزار چون گل یک دهن خندیده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سال‌ها در پرده دل خون خود را خورده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا درین گلزار چون گل یک دهن خندیده‌ام",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 21039,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۹۶۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۹۶۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1966",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1966",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلفش به هر دو دست عنانم گرفته است\r\nابروی او به پشت کمانم گرفته است\r\nمن چون هدف نمی روم از جای خویشتن\r\nپیکان او عبث به زبانم گرفته است\r\nچون از میان خلق نگیرم کناره ای؟\r\nفکر کنار او به میانم گرفته است\r\nآتش چگونه دست و گریبان شود به خار؟\r\nعشق ستیزه خوی، چنانم گرفته است\r\nصائب چو ابر گریه اگر می کنم رواست\r\nآتش چو برق در رگ جانم گرفته است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفش به هر دو دست عنانم گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابروی او به پشت کمانم گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من چون هدف نمی روم از جای خویشتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیکان او عبث به زبانم گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون از میان خلق نگیرم کناره ای؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فکر کنار او به میانم گرفته است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آتش چگونه دست و گریبان شود به خار؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عشق ستیزه خوی، چنانم گرفته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب چو ابر گریه اگر می کنم رواست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آتش چو برق در رگ جانم گرفته است",
+      "CoupletIndex": 4
+    }
+  ]
+}

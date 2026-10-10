@@ -1,0 +1,45 @@
+{
+  "Id": 17926,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۹۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۹۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh395",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh395",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر حُسنِ زودسِیرِ بهار، اعتماد نیست\r\nشبنم، به روی گُل، به امانت نشسته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر حُسنِ زودسِیرِ بهار، اعتماد نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شبنم، به روی گُل، به امانت نشسته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32052,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/p390/divan/robaee/sh54",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh54",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح است و نوای بلبلی می آید\r\nزان طره نسیم سنبلی می آید\r\nهمچون مژه در دیده ی ما جا دارد\r\nخاری که ازو بوی گلی می آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح است و نوای بلبلی می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان طره نسیم سنبلی می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچون مژه در دیده ی ما جا دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاری که ازو بوی گلی می آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

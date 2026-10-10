@@ -1,0 +1,57 @@
+{
+  "Id": 37551,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مار دو سر چهار چشم است ای دوست\r\nکز پای من و گوشت همی خاید و پوست\r\nزین چرخ که خوش زشت و رویش نیکوست\r\nنالم که چنین مرا همی هدیه اوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مار دو سر چهار چشم است ای دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز پای من و گوشت همی خاید و پوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین چرخ که خوش زشت و رویش نیکوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نالم که چنین مرا همی هدیه اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

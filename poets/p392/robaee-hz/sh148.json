@@ -1,0 +1,57 @@
+{
+  "Id": 34543,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۴۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۴۸",
+  "FullUrl": "/p392/robaee-hz/sh148",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh148",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین پیش فلک چنین دل آزار نبود\r\nهر مفعولی، فاعل مختار نبود\r\nامروز به پشم و پنبه کار افتاده ست\r\nمردی اول به ریش و دستار نبود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین پیش فلک چنین دل آزار نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر مفعولی، فاعل مختار نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز به پشم و پنبه کار افتاده ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردی اول به ریش و دستار نبود",
+      "CoupletIndex": 1
+    }
+  ]
+}

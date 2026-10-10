@@ -1,0 +1,93 @@
+{
+  "Id": 23253,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۱۸۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۱۸۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "معشوق کی زاهل هوس یاد می کند\r\nشکر کجا ز مور ومگس یاد می کند\r\nمرغی که شد زکاهلی از دست دانه خوار\r\nدر آشیان ز کنج قفس یاد می کند\r\nهمت ز عاجزان طلبد ظلم وقت عزل\r\nچون شعله شد ضعیف زخس یاد می کند\r\nپیچد به دست وپای چو زنجیر ناقه را\r\nاز بازماندگان چو جرس یاد می کند\r\nشاخ گلی که می کند از سایه سرکشی\r\nصائب کی از اسیر قفس یاد می کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معشوق کی زاهل هوس یاد می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکر کجا ز مور ومگس یاد می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغی که شد زکاهلی از دست دانه خوار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آشیان ز کنج قفس یاد می کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همت ز عاجزان طلبد ظلم وقت عزل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون شعله شد ضعیف زخس یاد می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پیچد به دست وپای چو زنجیر ناقه را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از بازماندگان چو جرس یاد می کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شاخ گلی که می کند از سایه سرکشی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صائب کی از اسیر قفس یاد می کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

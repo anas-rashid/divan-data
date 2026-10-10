@@ -1,0 +1,93 @@
+{
+  "Id": 24145,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۰۷۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۰۷۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5072",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5072",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از جا نمی روم چو سپند از نوای خویش\r\nآتش زنم به محفل و باشم به جای خویش\r\nزان مطرب بلندنوا در ترانه ام\r\nچون نی نمی زنم نفسی بر هوای خویش\r\nزان ساقی خودم که نیابم درین جهان\r\nمردی سزای باده مردآزمای خویش\r\nچون نیست هیچ کس که به فریاد من رسد\r\nخود رقص می کنم چو سپند از نوای خویش\r\nصائب من آن بلند نوایم که می زنم\r\nدربرگریز جوش بهار از نوای خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جا نمی روم چو سپند از نوای خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش زنم به محفل و باشم به جای خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان مطرب بلندنوا در ترانه ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون نی نمی زنم نفسی بر هوای خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زان ساقی خودم که نیابم درین جهان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مردی سزای باده مردآزمای خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون نیست هیچ کس که به فریاد من رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خود رقص می کنم چو سپند از نوای خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب من آن بلند نوایم که می زنم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دربرگریز جوش بهار از نوای خویش",
+      "CoupletIndex": 4
+    }
+  ]
+}

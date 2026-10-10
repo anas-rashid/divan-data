@@ -1,0 +1,81 @@
+{
+  "Id": 33010,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۱۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۱۸",
+  "FullUrl": "/p391/divan/ghazal/sh918",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh918",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا به معراج فنا یعنی شهادتگاه عشق\r\nبال و پر از شعله مانند شرر می خواستیم\r\nشوخ چشمی را ز حد برداشت شمع بزم یار\r\nما چراغ خلوت از خود چون گهر می خواستیم\r\nحسن پاک آفتابم در خور هر دیده نیست\r\nدیده ای از چشم شبنم شسته تر می خواستیم\r\nتا بکام دل توان خندید جویا غنچه وار\r\nدر بهاران از خدا یک مشت زر می خواستیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا به معراج فنا یعنی شهادتگاه عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بال و پر از شعله مانند شرر می خواستیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شوخ چشمی را ز حد برداشت شمع بزم یار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما چراغ خلوت از خود چون گهر می خواستیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حسن پاک آفتابم در خور هر دیده نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دیده ای از چشم شبنم شسته تر می خواستیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا بکام دل توان خندید جویا غنچه وار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در بهاران از خدا یک مشت زر می خواستیم",
+      "CoupletIndex": 3
+    }
+  ]
+}

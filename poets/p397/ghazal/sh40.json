@@ -1,0 +1,93 @@
+{
+  "Id": 38817,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۴۰",
+  "FullUrl": "/p397/ghazal/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تارها زنار در گردن کنم\r\nخویش را باید که من کافر کنم\r\nراه مسلمانی ندانم راه چیست\r\nزان سبب زنار در گردن کنم\r\nننگ می آید مرا ز ایمان خویش\r\nبالیقین من خویش را کافر کنم\r\nبسته ام زنار کافر گشته ام\r\nمومنان را هر زمان کافر کنم\r\nیار کافر گشت ایمان خود فروخت\r\nوای این زنار در گردن کُنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تارها زنار در گردن کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خویش را باید که من کافر کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راه مسلمانی ندانم راه چیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان سبب زنار در گردن کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ننگ می آید مرا ز ایمان خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بالیقین من خویش را کافر کنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بسته ام زنار کافر گشته ام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مومنان را هر زمان کافر کنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یار کافر گشت ایمان خود فروخت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وای این زنار در گردن کُنم",
+      "CoupletIndex": 4
+    }
+  ]
+}

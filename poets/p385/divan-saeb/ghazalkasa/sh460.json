@@ -1,0 +1,93 @@
+{
+  "Id": 19533,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۶۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۶۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh460",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh460",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر این بار می آید به دستم گردن مینا\r\nچو درد می نخواهم داشت دست از دامن مینا\r\nخرابم می کند بی لعل او در بزم میخواران\r\nتکلف کردن ساقی، تواضع کردن مینا\r\nدو صبح صادقند از یک گریبان سربرآورده\r\nید بیضای ساقی با بیاض گردن مینا\r\nدلم گلگل شکفت از التفات لعل سیرابش\r\nشراب کهنه جان تازه آرد در تن مینا\r\nدو چیز افتاده خوش از بزم میخواران مرا صائب\r\nز پا افتادن ساقی، به سر غلطیدن مینا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر این بار می آید به دستم گردن مینا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو درد می نخواهم داشت دست از دامن مینا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرابم می کند بی لعل او در بزم میخواران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تکلف کردن ساقی، تواضع کردن مینا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دو صبح صادقند از یک گریبان سربرآورده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ید بیضای ساقی با بیاض گردن مینا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دلم گلگل شکفت از التفات لعل سیرابش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شراب کهنه جان تازه آرد در تن مینا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دو چیز افتاده خوش از بزم میخواران مرا صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز پا افتادن ساقی، به سر غلطیدن مینا",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37100,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۹۱",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۹۱",
+  "FullUrl": "/p393/mot/sh391",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh391",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به جست‌وجوی تو کردم ز بس که پیشه دویدن\r\nبه زیر خاک بود کار من چو ریشه دویدن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به جست‌وجوی تو کردم ز بس که پیشه دویدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زیر خاک بود کار من چو ریشه دویدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

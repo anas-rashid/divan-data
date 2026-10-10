@@ -1,0 +1,57 @@
+{
+  "Id": 31975,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۳۷ - هجو پسر تریاکی",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۳۷ - هجو پسر تریاکی",
+  "FullUrl": "/p390/divan/ghete/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم بد دور، خواجه را پسری ست\r\nکه همه زیرکی و ادراک است\r\nچه عجب گر ضعیف و خرد افتاد\r\nکه چو خشخاش، تخم تریاک است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم بد دور، خواجه را پسری ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که همه زیرکی و ادراک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه عجب گر ضعیف و خرد افتاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چو خشخاش، تخم تریاک است",
+      "CoupletIndex": 1
+    }
+  ]
+}

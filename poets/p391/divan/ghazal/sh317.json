@@ -1,0 +1,93 @@
+{
+  "Id": 32409,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۱۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۱۷",
+  "FullUrl": "/p391/divan/ghazal/sh317",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh317",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کمان ابروش از چرب نرمی دلکش است\r\nدر صف مژگان نگاهش تیر روی ترکش است\r\nهر که خالی شد زخود لبریز کیفیت بود\r\nهر حبابی پیش ما جام شراب بیغش است\r\nهر قدر پختم خیالش همچنان خام است خام\r\nکار چشم و دل همانا کار آب و آتش است\r\nهر قدر در راحت افتد نفس طغیان می کند\r\nبستر نرمی چو یابد شعله شعله از خس سرکش است\r\nاز خیال دلبری جویا نیاساید دمی\r\nچشم او از فیض معشوقی است گر عاشق وش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کمان ابروش از چرب نرمی دلکش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در صف مژگان نگاهش تیر روی ترکش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر که خالی شد زخود لبریز کیفیت بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر حبابی پیش ما جام شراب بیغش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر قدر پختم خیالش همچنان خام است خام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کار چشم و دل همانا کار آب و آتش است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر قدر در راحت افتد نفس طغیان می کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بستر نرمی چو یابد شعله شعله از خس سرکش است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از خیال دلبری جویا نیاساید دمی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چشم او از فیض معشوقی است گر عاشق وش است",
+      "CoupletIndex": 4
+    }
+  ]
+}

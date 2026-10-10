@@ -1,0 +1,57 @@
+{
+  "Id": 27230,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۲۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۲۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh624",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh624",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون ز چشم عاشقان بیگناه آمد برون\r\nتا ز رویش آن خط عاشق نگاه آمد برون\r\nدر کنار رحمت دریای بی پایان فتاد\r\nچون حباب آن کس که از قید کلاه آمد برون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون ز چشم عاشقان بیگناه آمد برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ز رویش آن خط عاشق نگاه آمد برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کنار رحمت دریای بی پایان فتاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون حباب آن کس که از قید کلاه آمد برون",
+      "CoupletIndex": 1
+    }
+  ]
+}

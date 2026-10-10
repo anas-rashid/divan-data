@@ -1,0 +1,57 @@
+{
+  "Id": 34575,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۰",
+  "FullUrl": "/p392/robaee-hz/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند نوای آتشین دارد عشق\r\nبشنو که حدیث دلنشین دارد عشق\r\nسرمایه ده حیات دلها، نفسی\r\nدر سینه چو صبح راستین دارد عشق",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند نوای آتشین دارد عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشنو که حدیث دلنشین دارد عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرمایه ده حیات دلها، نفسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سینه چو صبح راستین دارد عشق",
+      "CoupletIndex": 1
+    }
+  ]
+}

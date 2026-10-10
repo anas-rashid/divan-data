@@ -1,0 +1,81 @@
+{
+  "Id": 27774,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳۶۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳۶۶",
+  "FullUrl": "/p386/ghazalor/sh366",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh366",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چگونه سوز غم او دهم به سوز دگر\r\nکه دل فروغ نیابد به دلفروز دگر\r\nشراب عشقم اگر بو کنند محشریان\r\nسؤال روز قیامت فتد به روز دگر\r\nز امر و نهی محبّت رسوم شرع مجو\r\nکه إن یجوز دگر گفت لایجوز دگر\r\nبیار بربط مجنون به مشهد عرفی\r\nکه عشق نوحه طرازی کند به سوز دگر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چگونه سوز غم او دهم به سوز دگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دل فروغ نیابد به دلفروز دگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شراب عشقم اگر بو کنند محشریان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سؤال روز قیامت فتد به روز دگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز امر و نهی محبّت رسوم شرع مجو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که إن یجوز دگر گفت لایجوز دگر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بیار بربط مجنون به مشهد عرفی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که عشق نوحه طرازی کند به سوز دگر",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30781,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۴",
+  "FullUrl": "/p389/robghm/sh524",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh524",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خلق جهان، کناره‌ای ساز وطن\r\nهنگام طلب مباش چون اهل ز من\r\nدرویشان را کمال در تجریدست\r\nکی دانه کند نشو و نما در خرمن؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خلق جهان، کناره‌ای ساز وطن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنگام طلب مباش چون اهل ز من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درویشان را کمال در تجریدست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی دانه کند نشو و نما در خرمن؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

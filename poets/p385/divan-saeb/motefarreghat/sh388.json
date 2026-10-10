@@ -1,0 +1,57 @@
+{
+  "Id": 26994,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh388",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh388",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش ازین سینه ام از چاک گلستانی بود\r\nهر شکاف از دل چاکم لب خندانی بود\r\nروزگاری است نرفتیم به صحرای جنون\r\nیاد مجنون که عجب سلسله جنبانی بود!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش ازین سینه ام از چاک گلستانی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر شکاف از دل چاکم لب خندانی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزگاری است نرفتیم به صحرای جنون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاد مجنون که عجب سلسله جنبانی بود!",
+      "CoupletIndex": 1
+    }
+  ]
+}

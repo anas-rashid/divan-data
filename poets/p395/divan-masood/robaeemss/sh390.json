@@ -1,0 +1,57 @@
+{
+  "Id": 37904,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۹۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۹۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh390",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh390",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد بر من خیال زیبا یاری\r\nگفتم به سلامتت بدیدم باری\r\nتو نیز بدین سمج بدیدی آری\r\nشیری شده حلقه بر دو پایش ماری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد بر من خیال زیبا یاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم به سلامتت بدیدم باری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو نیز بدین سمج بدیدی آری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیری شده حلقه بر دو پایش ماری",
+      "CoupletIndex": 1
+    }
+  ]
+}

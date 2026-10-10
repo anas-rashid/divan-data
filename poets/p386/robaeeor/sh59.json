@@ -1,0 +1,57 @@
+{
+  "Id": 28102,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۹",
+  "FullUrl": "/p386/robaeeor/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که برت سفال و یاقوت یکی است\r\nاعجاز مسیح و سحر هاروت یکی است\r\nگر معرفت روح مجرد داری\r\nزیب تن و آرایش تابوت یکی است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که برت سفال و یاقوت یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اعجاز مسیح و سحر هاروت یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر معرفت روح مجرد داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیب تن و آرایش تابوت یکی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

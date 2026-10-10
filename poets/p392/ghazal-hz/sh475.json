@@ -1,0 +1,93 @@
+{
+  "Id": 33902,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۷۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۷۵",
+  "FullUrl": "/p392/ghazal-hz/sh475",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh475",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهار اسباب شورم را به سامان کرده می آید\r\nشلایین جلوه و سنبل پریشان کرده می آید\r\nحلالم باد مستیها، مبارک سینه چاکیها\r\nقدح پیموده و گل در گریبان کرده می آید\r\nاثر نگذاشت از چشم و دل من گریهٔ مستی\r\nنگارین خانه ها این سیل، ویران کرده می آید\r\nشود حیران چو طوق قمریان چشم تماشایی\r\nسهی بالای من، دل ها نگهبان کرده می آید\r\nحزین امشب نگاه رهزن میخانه پردازش\r\nز مستی تکیه هر جانب، به مژگان کرده می آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار اسباب شورم را به سامان کرده می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شلایین جلوه و سنبل پریشان کرده می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حلالم باد مستیها، مبارک سینه چاکیها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قدح پیموده و گل در گریبان کرده می آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اثر نگذاشت از چشم و دل من گریهٔ مستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نگارین خانه ها این سیل، ویران کرده می آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شود حیران چو طوق قمریان چشم تماشایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سهی بالای من، دل ها نگهبان کرده می آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین امشب نگاه رهزن میخانه پردازش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز مستی تکیه هر جانب، به مژگان کرده می آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

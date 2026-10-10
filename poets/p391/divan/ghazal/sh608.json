@@ -1,0 +1,54 @@
+{
+  "Id": 32700,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۸",
+  "FullUrl": "/p391/divan/ghazal/sh608",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh608",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نخل بلندی است عشق داغ تو بارش بود\r\nعالم دیوانگی جوش بهارش بود\r\nدر ره گم گشتگی در سفر بیخودی\r\nبیدل غمدیده را یاد تو یارش بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخل بلندی است عشق داغ تو بارش بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم دیوانگی جوش بهارش بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ره گم گشتگی در سفر بیخودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیدل غمدیده را یاد تو یارش بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

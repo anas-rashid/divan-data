@@ -1,0 +1,54 @@
+{
+  "Id": 37349,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷۷",
+  "FullUrl": "/p393/robaee/sh177",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh177",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد سحری بر سرم آن جان جهان\r\nجان می‌طلبید و من ماندم حیران\r\nمردم از بس خجالت آن لحظه که گفت\r\nکس از چو منی عزیز می‌دارد جان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد سحری بر سرم آن جان جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان می‌طلبید و من ماندم حیران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردم از بس خجالت آن لحظه که گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس از چو منی عزیز می‌دارد جان",
+      "CoupletIndex": 1
+    }
+  ]
+}

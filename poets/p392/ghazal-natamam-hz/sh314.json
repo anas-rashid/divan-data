@@ -1,0 +1,57 @@
+{
+  "Id": 34973,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۱۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۱۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh314",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh314",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به خاموشی سپندم گفت، در بزم پریزادی\r\nنرنجانی اگر در دل، گره داریم فریادی\r\nسبکباری نه آزادی ست در کیش جوانمردان\r\nتوانی بار اگر از خاطری برداشت، آزادی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به خاموشی سپندم گفت، در بزم پریزادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نرنجانی اگر در دل، گره داریم فریادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سبکباری نه آزادی ست در کیش جوانمردان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "توانی بار اگر از خاطری برداشت، آزادی",
+      "CoupletIndex": 1
+    }
+  ]
+}

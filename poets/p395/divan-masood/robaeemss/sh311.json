@@ -1,0 +1,57 @@
+{
+  "Id": 37825,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh311",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh311",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای برتر من کرده هزاران احسان\r\nیک سعی کن و مرا ز زندان برهان\r\nلیکن ز آنسان گرم نداری پس از آن\r\nوالله که مرا آرزو آید زندان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برتر من کرده هزاران احسان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک سعی کن و مرا ز زندان برهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن ز آنسان گرم نداری پس از آن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "والله که مرا آرزو آید زندان",
+      "CoupletIndex": 1
+    }
+  ]
+}

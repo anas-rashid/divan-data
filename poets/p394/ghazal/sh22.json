@@ -1,0 +1,66 @@
+{
+  "Id": 37407,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۲۲",
+  "FullUrl": "/p394/ghazal/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک سحر از درم ای دولت بیدار بیا\r\nروزم ای ماه شده بی تو شب تار بیا\r\nحلقهٔ در بنگر رخنهٔ دیوار ببین\r\nچشم در راه تو دارد در و دیوار بیا\r\nعذر در راه وفا پیش نخواهد رفتن\r\nبر سر عذر بیا بر سر رفتار بیا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک سحر از درم ای دولت بیدار بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزم ای ماه شده بی تو شب تار بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حلقهٔ در بنگر رخنهٔ دیوار ببین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم در راه تو دارد در و دیوار بیا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عذر در راه وفا پیش نخواهد رفتن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر سر عذر بیا بر سر رفتار بیا",
+      "CoupletIndex": 2
+    }
+  ]
+}

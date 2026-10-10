@@ -1,0 +1,45 @@
+{
+  "Id": 18150,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۱۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۱۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh619",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh619",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرانی می‌کند بر تن، چو سر بی جوش می‌گردد\r\nسبو چون خالی از می گشت، بار دوش می‌گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرانی می‌کند بر تن، چو سر بی جوش می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سبو چون خالی از می گشت، بار دوش می‌گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

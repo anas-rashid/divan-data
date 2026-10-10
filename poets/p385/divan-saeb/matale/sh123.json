@@ -1,0 +1,45 @@
+{
+  "Id": 26211,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دعا در صبح کام دل توان آسان گرفت\r\nدست خود بوسید هر کس دامن پاکان گرفت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دعا در صبح کام دل توان آسان گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست خود بوسید هر کس دامن پاکان گرفت",
+      "CoupletIndex": 0
+    }
+  ]
+}

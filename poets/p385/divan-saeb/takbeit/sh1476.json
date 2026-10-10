@@ -1,0 +1,45 @@
+{
+  "Id": 19007,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۷۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۷۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1476",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1476",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشو زنهار ایمن از خمار بادهٔ عشرت\r\nکه دارد خندهٔ گل، گریهٔ تلخ گلاب از پی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشو زنهار ایمن از خمار بادهٔ عشرت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دارد خندهٔ گل، گریهٔ تلخ گلاب از پی",
+      "CoupletIndex": 0
+    }
+  ]
+}

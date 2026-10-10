@@ -1,0 +1,57 @@
+{
+  "Id": 30363,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/p389/robghm/sh106",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh106",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مهر چه دم زنم، تو را معلوم است\r\nوز شوق چه گویم، از ادا معلوم است\r\nاز بس که به کوچه تو آیم شب و روز\r\nبی‌طاقتی‌ام ز نقش پا معلوم است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مهر چه دم زنم، تو را معلوم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز شوق چه گویم، از ادا معلوم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که به کوچه تو آیم شب و روز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌طاقتی‌ام ز نقش پا معلوم است",
+      "CoupletIndex": 1
+    }
+  ]
+}

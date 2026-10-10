@@ -1,0 +1,57 @@
+{
+  "Id": 30511,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۵۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۵۴",
+  "FullUrl": "/p389/robghm/sh254",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh254",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویند که دستش ز حنا گلگون شد\r\nنی نی ز حنا نیست، بگویم چون شد\r\nچون شانه به زلف خویش دستی می‌زد\r\nناخن به دلم زد و کفش پرخون شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند که دستش ز حنا گلگون شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی نی ز حنا نیست، بگویم چون شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شانه به زلف خویش دستی می‌زد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناخن به دلم زد و کفش پرخون شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

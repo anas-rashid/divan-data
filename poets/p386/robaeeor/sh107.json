@@ -1,0 +1,57 @@
+{
+  "Id": 28150,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۷",
+  "FullUrl": "/p386/robaeeor/sh107",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh107",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر سنگ ملامت به دلم نستیزد\r\nاز هر سر مو چشمهٔ آز انگیزد\r\nریزد می از آن سیه که بشکست ولی\r\nگر نشکند این شیشه می اش می ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر سنگ ملامت به دلم نستیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هر سر مو چشمهٔ آز انگیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ریزد می از آن سیه که بشکست ولی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نشکند این شیشه می اش می ریزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

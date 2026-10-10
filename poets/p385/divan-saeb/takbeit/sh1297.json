@@ -1,0 +1,45 @@
+{
+  "Id": 18828,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۹۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۹۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ همدردی نمی‌یابم سزای خویشتن\r\nمی‌نهم چون بید مجنون سر به پای خویشتن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ همدردی نمی‌یابم سزای خویشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌نهم چون بید مجنون سر به پای خویشتن",
+      "CoupletIndex": 0
+    }
+  ]
+}

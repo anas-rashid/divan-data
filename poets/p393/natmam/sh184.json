@@ -1,0 +1,66 @@
+{
+  "Id": 36335,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۸۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۸۴",
+  "FullUrl": "/p393/natmam/sh184",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh184",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه گویم که حال من از عشق چون شد\r\nدلی داشتم آن هم از درد خون شد\r\n...\r\nز سودای زنجیر زلفت جنون شد\r\nز آزار من دست بردار ای عشق\r\nکه سرپنجهٔ طاقت من زبون شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه گویم که حال من از عشق چون شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلی داشتم آن هم از درد خون شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز سودای زنجیر زلفت جنون شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز آزار من دست بردار ای عشق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که سرپنجهٔ طاقت من زبون شد",
+      "CoupletIndex": 2
+    }
+  ]
+}

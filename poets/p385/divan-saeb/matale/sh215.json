@@ -1,0 +1,42 @@
+{
+  "Id": 26303,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طریق کفر و دین در شاهراه دل یکی گردد\r\nدو راه است این که در نزدیکی منزل یکی گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طریق کفر و دین در شاهراه دل یکی گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دو راه است این که در نزدیکی منزل یکی گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

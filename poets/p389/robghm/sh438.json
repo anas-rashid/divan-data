@@ -1,0 +1,57 @@
+{
+  "Id": 30695,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳۸",
+  "FullUrl": "/p389/robghm/sh438",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh438",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبحم، نیم از شکفته طبعی درویش\r\nدریایم و جلوه می‌دهم موج ز خویش\r\nدر بادیه سخن طرازی، نامم\r\nافتاده ز همرهان چو منزل در پیش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبحم، نیم از شکفته طبعی درویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریایم و جلوه می‌دهم موج ز خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بادیه سخن طرازی، نامم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتاده ز همرهان چو منزل در پیش",
+      "CoupletIndex": 1
+    }
+  ]
+}

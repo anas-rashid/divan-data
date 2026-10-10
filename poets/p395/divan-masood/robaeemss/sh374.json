@@ -1,0 +1,57 @@
+{
+  "Id": 37888,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۷۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۷۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh374",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh374",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بخت مرا سوخته خرمن کردی\r\nبی جرم دو پای من در آهن کردی\r\nدر جمله مرا به کام دشمن کردی\r\nبا سگ نکنند آنچه تو با من کردی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بخت مرا سوخته خرمن کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی جرم دو پای من در آهن کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جمله مرا به کام دشمن کردی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با سگ نکنند آنچه تو با من کردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

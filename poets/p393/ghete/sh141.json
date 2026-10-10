@@ -1,0 +1,54 @@
+{
+  "Id": 36621,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۴۱",
+  "FullUrl": "/p393/ghete/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که بر بمسل شدن‌ها دل نهادم در قفس\r\nبا فراغ بال داد ناله دادم در قفس\r\nکردم از شوق گرفتاری دو منزل را یکی\r\nزاشیان پرواز تا کردم فتادم در قفس",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که بر بمسل شدن‌ها دل نهادم در قفس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با فراغ بال داد ناله دادم در قفس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردم از شوق گرفتاری دو منزل را یکی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زاشیان پرواز تا کردم فتادم در قفس",
+      "CoupletIndex": 1
+    }
+  ]
+}

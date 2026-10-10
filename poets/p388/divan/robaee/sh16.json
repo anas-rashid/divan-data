@@ -1,0 +1,57 @@
+{
+  "Id": 29623,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/p388/divan/robaee/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرشب ز خیال دیده بی خواب ترست\r\nهر روز به سینه ذوق نایاب ترست\r\nزو دست که لب تشنه ببازم جان را\r\nزین چشمه که هر صباح بی آب ترست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرشب ز خیال دیده بی خواب ترست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر روز به سینه ذوق نایاب ترست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زو دست که لب تشنه ببازم جان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین چشمه که هر صباح بی آب ترست",
+      "CoupletIndex": 1
+    }
+  ]
+}

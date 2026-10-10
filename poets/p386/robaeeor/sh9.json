@@ -1,0 +1,57 @@
+{
+  "Id": 28052,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹",
+  "FullUrl": "/p386/robaeeor/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نادان به عمارت بدن مشغول است\r\nدانا به کرشمهٔ سخن مشغول است\r\nصوفی به فریب مرد و زن مشغول است\r\nعاشق به هلاک خویشتن مشغول است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نادان به عمارت بدن مشغول است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانا به کرشمهٔ سخن مشغول است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صوفی به فریب مرد و زن مشغول است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عاشق به هلاک خویشتن مشغول است",
+      "CoupletIndex": 1
+    }
+  ]
+}

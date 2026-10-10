@@ -1,0 +1,54 @@
+{
+  "Id": 34803,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخن چون می‌سرایم، کلک شکربار می‌سوزد\r\nگلوی این نی، از شیرینی گفتار می‌سوزد\r\nدل از خامی چرا بندم، به برق عمر مستعجل؟\r\nنفس در سینه‌ام، از گرمی رفتار می‌سوزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخن چون می‌سرایم، کلک شکربار می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلوی این نی، از شیرینی گفتار می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل از خامی چرا بندم، به برق عمر مستعجل؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نفس در سینه‌ام، از گرمی رفتار می‌سوزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

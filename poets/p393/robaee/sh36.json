@@ -1,0 +1,54 @@
+{
+  "Id": 37208,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/p393/robaee/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از جانب او خشم و عتاب و کین است\r\nما را عجز و نیاز و مهر آیین است\r\nما عهد وفا به آن جفاجو بستیم\r\nدلبر این است گرچه دلبر این است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جانب او خشم و عتاب و کین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را عجز و نیاز و مهر آیین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما عهد وفا به آن جفاجو بستیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلبر این است گرچه دلبر این است",
+      "CoupletIndex": 1
+    }
+  ]
+}

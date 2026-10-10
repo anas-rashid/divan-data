@@ -1,0 +1,42 @@
+{
+  "Id": 37456,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۷۱",
+  "FullUrl": "/p394/ghazal/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تشنهٔ پابوس خود زین بیش مگذار آب را\r\nای نهال باغ حسن از خاک بردار آب را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تشنهٔ پابوس خود زین بیش مگذار آب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای نهال باغ حسن از خاک بردار آب را",
+      "CoupletIndex": 0
+    }
+  ]
+}

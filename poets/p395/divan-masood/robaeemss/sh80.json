@@ -1,0 +1,57 @@
+{
+  "Id": 37594,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh80",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh80",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنی شاها که جز سخا کیش تو نیست\r\nیک شاه ز بیم تو بداندیش تو نیست\r\nای آن ملکی که جز ملک خویش تو نیست\r\nیک شاه چو طاهر علی پیش تو نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی شاها که جز سخا کیش تو نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک شاه ز بیم تو بداندیش تو نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آن ملکی که جز ملک خویش تو نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک شاه چو طاهر علی پیش تو نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18458,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۲۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۲۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh927",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh927",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاصل این مزرع ویران به جز تشویش نیست\r\nاز خراج آسودگی خواهی، به سلطانش گذار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاصل این مزرع ویران به جز تشویش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خراج آسودگی خواهی، به سلطانش گذار",
+      "CoupletIndex": 0
+    }
+  ]
+}

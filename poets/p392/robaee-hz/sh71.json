@@ -1,0 +1,57 @@
+{
+  "Id": 34466,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/p392/robaee-hz/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر خاک شوی، در ره دلدار خوش است\r\nور نازکشی، ناز خریدار خوش است\r\nدر خواری عشق، خودفروشیست، هنر\r\nافسانهٔ ما بر سر بازار خوش است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر خاک شوی، در ره دلدار خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور نازکشی، ناز خریدار خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خواری عشق، خودفروشیست، هنر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسانهٔ ما بر سر بازار خوش است",
+      "CoupletIndex": 1
+    }
+  ]
+}

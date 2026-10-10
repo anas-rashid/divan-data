@@ -1,0 +1,54 @@
+{
+  "Id": 37333,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۶۱",
+  "FullUrl": "/p393/robaee/sh161",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh161",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از طالع تیره بی‌دماغم چه کنم\r\nوز بخت سیاه داغ داغم چه کنم\r\nشب‌ها خجلت ز روی پروانه کشم\r\nدرمانده به روغن چراغم چه کنم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از طالع تیره بی‌دماغم چه کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بخت سیاه داغ داغم چه کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب‌ها خجلت ز روی پروانه کشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درمانده به روغن چراغم چه کنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26437,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۴۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۴۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh349",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh349",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پوچ گو را بر سر گفتار بی حاصل میار\r\nپنبه زنهار از سر مینای خالی برمدار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پوچ گو را بر سر گفتار بی حاصل میار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پنبه زنهار از سر مینای خالی برمدار",
+      "CoupletIndex": 0
+    }
+  ]
+}

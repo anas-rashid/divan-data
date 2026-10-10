@@ -1,0 +1,57 @@
+{
+  "Id": 34484,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/p392/robaee-hz/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتم که به یاد یار خواهی آمد\r\nیا خون شده در کنار خواهی آمد\r\nنه زان اثری نه زین نشانِ نظری\r\nای دل، توکجا به کار خواهی آمد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم که به یاد یار خواهی آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا خون شده در کنار خواهی آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه زان اثری نه زین نشانِ نظری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دل، توکجا به کار خواهی آمد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

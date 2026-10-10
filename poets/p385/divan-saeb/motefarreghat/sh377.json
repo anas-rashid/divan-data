@@ -1,0 +1,93 @@
+{
+  "Id": 26983,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh377",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh377",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی اگر از دل پررخنه صدایی نزند\r\nراه عشاق ترا هیچ نوایی نزند\r\nمی زند مار به هر عضو، ولی نی ماری است\r\nکه به غیر از دل آگاه به جایی نزند\r\nخون ما را که دل آهن ازو جوش کند\r\nجوهر تیغ محال است که خس پوش کند\r\nدل بی طاقت ما صبر ندارد، ورنه\r\nحسن از آیینه محال است فراموش کند\r\nهیچ نفرین به ازین نیست که عاقل گردد\r\nهر که حق نمک عشق فراموش کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی اگر از دل پررخنه صدایی نزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راه عشاق ترا هیچ نوایی نزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می زند مار به هر عضو، ولی نی ماری است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که به غیر از دل آگاه به جایی نزند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خون ما را که دل آهن ازو جوش کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جوهر تیغ محال است که خس پوش کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل بی طاقت ما صبر ندارد، ورنه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حسن از آیینه محال است فراموش کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هیچ نفرین به ازین نیست که عاقل گردد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر که حق نمک عشق فراموش کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

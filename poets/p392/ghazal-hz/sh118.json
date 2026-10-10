@@ -1,0 +1,93 @@
+{
+  "Id": 33545,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۱۸",
+  "FullUrl": "/p392/ghazal-hz/sh118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مزار فیض بخش ماست گلگشت چمن ما را\r\nرگ ابر بهاران است هر تار کفن ما را\r\nبه خاک آستانی آشنا گردید پیشانی\r\nاگر غربت جدا افکند از خاک وطن ما را\r\nمپرس از دل، کباب در نمک خوابانده ای دارم\r\nجگر خون گشتگان بینند در شور سخن ما را\r\nبه انس شاهدان غیب، حاصل شد دل آسایی\r\nچو وحشت برد بیرون زین پریشانی انجمن ما را\r\nحزین امّید می باشد به این عجزی که می بینی\r\nنگاهی از سیه چشمان صحرای ختن ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مزار فیض بخش ماست گلگشت چمن ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رگ ابر بهاران است هر تار کفن ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خاک آستانی آشنا گردید پیشانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر غربت جدا افکند از خاک وطن ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مپرس از دل، کباب در نمک خوابانده ای دارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جگر خون گشتگان بینند در شور سخن ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به انس شاهدان غیب، حاصل شد دل آسایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو وحشت برد بیرون زین پریشانی انجمن ما را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین امّید می باشد به این عجزی که می بینی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نگاهی از سیه چشمان صحرای ختن ما را",
+      "CoupletIndex": 4
+    }
+  ]
+}

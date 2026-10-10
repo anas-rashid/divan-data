@@ -1,0 +1,57 @@
+{
+  "Id": 30440,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۳",
+  "FullUrl": "/p389/robghm/sh183",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh183",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتی که به جز حیله نباشد فن چرخ\r\nیا رام به کس نمی‌شود توسن چرخ\r\nخود بی‌هنری، بر آسمان طعنه مزن\r\nبیهوده مبند گاو در خرمن چرخ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی که به جز حیله نباشد فن چرخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رام به کس نمی‌شود توسن چرخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود بی‌هنری، بر آسمان طعنه مزن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیهوده مبند گاو در خرمن چرخ",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30601,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۴۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۴۴",
+  "FullUrl": "/p389/robghm/sh344",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh344",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا در کف توست دل کی آزاده شود؟\r\nهر دم به خیال دگر آماده شود\r\nدل در نظر تو دارد این نقش و نگار\r\nآیینه چو از نظر رود ساده شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا در کف توست دل کی آزاده شود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دم به خیال دگر آماده شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل در نظر تو دارد این نقش و نگار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه چو از نظر رود ساده شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

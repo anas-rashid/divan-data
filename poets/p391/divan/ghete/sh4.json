@@ -1,0 +1,54 @@
+{
+  "Id": 33240,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۴",
+  "FullUrl": "/p391/divan/ghete/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر قدر خاطرم ز کس رنجد\r\nخامشی پیشهٔ زبان من است\r\nشعر گفتن به کیش من در هجو\r\nهتک ناموس حضرت سخن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر قدر خاطرم ز کس رنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خامشی پیشهٔ زبان من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شعر گفتن به کیش من در هجو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هتک ناموس حضرت سخن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

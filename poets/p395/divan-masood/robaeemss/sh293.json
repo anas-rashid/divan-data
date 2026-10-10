@@ -1,0 +1,57 @@
+{
+  "Id": 37807,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۹۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۹۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر گه که تو را به رهگذاری بینم\r\nاز سایه ت بر زمین نگاری بینم\r\nاز رشگ دلم چو کفته ناری بینم\r\nگر با تو جز از سایه ت یاری بینم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر گه که تو را به رهگذاری بینم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سایه ت بر زمین نگاری بینم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از رشگ دلم چو کفته ناری بینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر با تو جز از سایه ت یاری بینم",
+      "CoupletIndex": 1
+    }
+  ]
+}

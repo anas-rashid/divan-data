@@ -1,0 +1,57 @@
+{
+  "Id": 34805,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh146",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh146",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شراب لعلی آن نوش لب، به ما چه رسد؟\r\nز آب خضر، به ما خون گرفته ها چه رسد؟\r\nچو نی فتاده مرا همدمی، به دم سردان\r\nتن نحیف مرا تا ازین هوا چه رسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شراب لعلی آن نوش لب، به ما چه رسد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آب خضر، به ما خون گرفته ها چه رسد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو نی فتاده مرا همدمی، به دم سردان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن نحیف مرا تا ازین هوا چه رسد",
+      "CoupletIndex": 1
+    }
+  ]
+}

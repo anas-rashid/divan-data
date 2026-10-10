@@ -1,0 +1,57 @@
+{
+  "Id": 37745,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۳۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۳۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh231",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh231",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر روز همی فلک به تیری زندم\r\nپیراهن در سیاه قیری زندم\r\nوین بخت همی همچو اسیری زندم\r\nاز وی سپری خواهم تیری زندم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر روز همی فلک به تیری زندم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیراهن در سیاه قیری زندم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وین بخت همی همچو اسیری زندم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از وی سپری خواهم تیری زندم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30297,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/p389/robghm/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وقت است اگر عنان سپاری به شتاب\r\nبا جاذبه شوق چه دریا، چه سراب\r\nبشتاب به سرعتی که در راه رسد\r\nاول قدمت به منزل آخر به رکاب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت است اگر عنان سپاری به شتاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با جاذبه شوق چه دریا، چه سراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بشتاب به سرعتی که در راه رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اول قدمت به منزل آخر به رکاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

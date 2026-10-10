@@ -1,0 +1,57 @@
+{
+  "Id": 34493,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/p392/robaee-hz/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه غم تو عیش جاوید بود\r\nجاوید، نوید وصلت امّید بود\r\nفرماندهی کشور خوبی از توست\r\nبازیگر میدان تو، خورشید بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه غم تو عیش جاوید بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جاوید، نوید وصلت امّید بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرماندهی کشور خوبی از توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بازیگر میدان تو، خورشید بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

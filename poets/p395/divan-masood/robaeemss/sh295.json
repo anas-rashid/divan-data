@@ -1,0 +1,57 @@
+{
+  "Id": 37809,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۹۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۹۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با خود گفتم که من عیال تو شدم\r\nاو گفت که من ضامن مال تو شدم\r\nای آن که ثناگوی کمال تو شدم\r\nبیشم نکنند چون نهال تو شدم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خود گفتم که من عیال تو شدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او گفت که من ضامن مال تو شدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آن که ثناگوی کمال تو شدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیشم نکنند چون نهال تو شدم",
+      "CoupletIndex": 1
+    }
+  ]
+}

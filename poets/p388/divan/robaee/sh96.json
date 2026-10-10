@@ -1,0 +1,57 @@
+{
+  "Id": 29703,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/p388/divan/robaee/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کعبه به دیر باده‌کش می‌آرم\r\nوز خاک به سوی شعله غش می‌آرم\r\nکو می؟ که بر آتشم فشاند آبی\r\nکز چشمه زمزم العطش می‌آرم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کعبه به دیر باده‌کش می‌آرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خاک به سوی شعله غش می‌آرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو می؟ که بر آتشم فشاند آبی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز چشمه زمزم العطش می‌آرم",
+      "CoupletIndex": 1
+    }
+  ]
+}

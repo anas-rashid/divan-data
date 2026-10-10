@@ -1,0 +1,42 @@
+{
+  "Id": 36740,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۱",
+  "FullUrl": "/p393/mot/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مسی رنگین نمودی تا دهان تنگ را\r\nساختی تاریک در چشمم جهان تنگ را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مسی رنگین نمودی تا دهان تنگ را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساختی تاریک در چشمم جهان تنگ را",
+      "CoupletIndex": 0
+    }
+  ]
+}

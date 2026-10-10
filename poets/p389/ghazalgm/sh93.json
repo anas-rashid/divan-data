@@ -1,0 +1,81 @@
+{
+  "Id": 29841,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۹۳",
+  "FullUrl": "/p389/ghazalgm/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دوران نگر که سینه‌اش از کینه صاف نیست\r\nجز شیشه در میان دگری سینه صاف نیست\r\nتا کی خیال روی تو را در بغل کشد؟\r\nهرگز دلم ز رشک به آیینه صاف نیست\r\nتا دیده‌ام نزاع شب جمعه با شراب\r\nدانسته‌ام که باطن آدینه صاف نیست\r\nآرد همیشه بخیه او را به روی کار\r\nدرویش هم به خرقه پشمینه صاف نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوران نگر که سینه‌اش از کینه صاف نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز شیشه در میان دگری سینه صاف نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کی خیال روی تو را در بغل کشد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز دلم ز رشک به آیینه صاف نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا دیده‌ام نزاع شب جمعه با شراب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دانسته‌ام که باطن آدینه صاف نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آرد همیشه بخیه او را به روی کار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "درویش هم به خرقه پشمینه صاف نیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

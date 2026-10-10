@@ -1,0 +1,57 @@
+{
+  "Id": 30782,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۵",
+  "FullUrl": "/p389/robghm/sh525",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh525",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شد شهره شهر باده‌پیمایی من\r\nمستم من و عالمی تماشایی من\r\nبا هم ز ملامتم نمی‌پردازند\r\nشد پرده عیب خلق، رسوایی من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد شهره شهر باده‌پیمایی من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستم من و عالمی تماشایی من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هم ز ملامتم نمی‌پردازند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد پرده عیب خلق، رسوایی من",
+      "CoupletIndex": 1
+    }
+  ]
+}

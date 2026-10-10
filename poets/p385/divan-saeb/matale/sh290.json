@@ -1,0 +1,42 @@
+{
+  "Id": 26378,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۹۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۹۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh290",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh290",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یوسف از دیدن رخسار تو خودبین نشود\r\nکافرست آن که ترا بیند و بی دین نشود!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یوسف از دیدن رخسار تو خودبین نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کافرست آن که ترا بیند و بی دین نشود!",
+      "CoupletIndex": 0
+    }
+  ]
+}

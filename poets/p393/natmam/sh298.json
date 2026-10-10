@@ -1,0 +1,66 @@
+{
+  "Id": 36449,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۸",
+  "FullUrl": "/p393/natmam/sh298",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh298",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به حکم ناز گهی غمزه را چو تیر بزن\r\nبگو که تیغ نخستین برین اسیر بزن\r\nشنیده‌ام که پر از تیر ترکشی داری\r\nبیا و این همه را بر دل فقیر بزن\r\nچنان مکن که کشد حسرت جفای توام\r\nبه تیغ اگر ننوازی مرا به تیر بزن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به حکم ناز گهی غمزه را چو تیر بزن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگو که تیغ نخستین برین اسیر بزن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شنیده‌ام که پر از تیر ترکشی داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیا و این همه را بر دل فقیر بزن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چنان مکن که کشد حسرت جفای توام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به تیغ اگر ننوازی مرا به تیر بزن",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 20118,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۰۴۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۰۴۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1045",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1045",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن عالمسوز ماه من دو بالای گل است\r\nکج نگه کردن به دستارش چه یارای گل است؟\r\nگلفروش باغ، ناز باغبانان می کشد\r\nلاله چین دشت ایمن را چه پروای گل است؟\r\nبیغمی بنگر که با این داغ های آتشین\r\nچشم کافر نعمت ما را تمنای گل است\r\nاز سر مینای پر می پنبه بردارید زود\r\nشعله را بر گوشه دستارکی جان گل است؟\r\nهر که دارد شیشه ای خود را به گلشن کی کشد؟\r\nوعده گاه دختر رز باز در پای گل است\r\nشوخ چشمی بین که با خصمی چو خورشید بلند\r\nشبنم گستاخ ما محو تماشای گل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن عالمسوز ماه من دو بالای گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کج نگه کردن به دستارش چه یارای گل است؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گلفروش باغ، ناز باغبانان می کشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لاله چین دشت ایمن را چه پروای گل است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیغمی بنگر که با این داغ های آتشین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم کافر نعمت ما را تمنای گل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از سر مینای پر می پنبه بردارید زود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شعله را بر گوشه دستارکی جان گل است؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر که دارد شیشه ای خود را به گلشن کی کشد؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وعده گاه دختر رز باز در پای گل است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شوخ چشمی بین که با خصمی چو خورشید بلند",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "شبنم گستاخ ما محو تماشای گل است",
+      "CoupletIndex": 5
+    }
+  ]
+}

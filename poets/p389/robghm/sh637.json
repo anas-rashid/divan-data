@@ -1,0 +1,57 @@
+{
+  "Id": 30894,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۷",
+  "FullUrl": "/p389/robghm/sh637",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh637",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تقریر ز حالی که نداری چه کنی\r\nآهنگ خیالی که نداری چه کنی\r\nدر هر محفل، با عدم استعداد\r\nاظهار کمالی که نداری چه کنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تقریر ز حالی که نداری چه کنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آهنگ خیالی که نداری چه کنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر محفل، با عدم استعداد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اظهار کمالی که نداری چه کنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

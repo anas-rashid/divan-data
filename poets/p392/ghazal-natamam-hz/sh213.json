@@ -1,0 +1,57 @@
+{
+  "Id": 34872,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۱۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دمهای زنده را، از اجل کی زیان بود؟\r\nگیرم چو خود کناره، سخن در میان بود\r\nکو آن زبان که صرف سپاس زبان کنم؟\r\nمفتاح گنج خانهٔ معنی، زبان بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دمهای زنده را، از اجل کی زیان بود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گیرم چو خود کناره، سخن در میان بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو آن زبان که صرف سپاس زبان کنم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مفتاح گنج خانهٔ معنی، زبان بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

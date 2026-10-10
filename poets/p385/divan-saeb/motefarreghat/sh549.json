@@ -1,0 +1,57 @@
+{
+  "Id": 27155,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۴۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۴۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh549",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh549",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نصیحت دم مزن با خاطر افگار من\r\nکز دوای تلخ بدخوتر شود بیمار من\r\nجوش یکرنگی ز من نام و نشان برداشته است\r\nمی دهد آزار خود، هر کس دهد آزار من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نصیحت دم مزن با خاطر افگار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دوای تلخ بدخوتر شود بیمار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوش یکرنگی ز من نام و نشان برداشته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دهد آزار خود، هر کس دهد آزار من",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26943,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh337",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh337",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مصر روشن ز جمال مه کنعان نشود\r\nتا برافروخته از سیلی اخوان نشود\r\nخواریی هست به دنبال خودآرایی را\r\nپرطاوس محال است مگس ران نشود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مصر روشن ز جمال مه کنعان نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا برافروخته از سیلی اخوان نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواریی هست به دنبال خودآرایی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرطاوس محال است مگس ران نشود",
+      "CoupletIndex": 1
+    }
+  ]
+}

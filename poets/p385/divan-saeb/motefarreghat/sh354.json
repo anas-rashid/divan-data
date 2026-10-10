@@ -1,0 +1,69 @@
+{
+  "Id": 26960,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۵۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۵۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh354",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh354",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخن چو هر دو لب او به یکدگر می خورد\r\nچو رشته غوطه به سرچشمه گهر می خورد\r\nسفر گزین که به چشم جهان شوی شیرین\r\nعزیز مصر شب و روز این شکر می خورد\r\nخوش آن ملال که از آستین مرهمیان\r\nنسیم سوده الماس بر جگر می خورد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخن چو هر دو لب او به یکدگر می خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو رشته غوطه به سرچشمه گهر می خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سفر گزین که به چشم جهان شوی شیرین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عزیز مصر شب و روز این شکر می خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوش آن ملال که از آستین مرهمیان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نسیم سوده الماس بر جگر می خورد",
+      "CoupletIndex": 2
+    }
+  ]
+}

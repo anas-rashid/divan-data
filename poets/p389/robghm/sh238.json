@@ -1,0 +1,57 @@
+{
+  "Id": 30495,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۳۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۳۸",
+  "FullUrl": "/p389/robghm/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "واعظ، نفست ز می خمار انگیزد\r\nدود از دل و جان خاکسار انگیزد\r\nاز من بگذر، کدورت دل بگذار\r\nکز رفتن دی، زمین بخار انگیزد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "واعظ، نفست ز می خمار انگیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دود از دل و جان خاکسار انگیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از من بگذر، کدورت دل بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز رفتن دی، زمین بخار انگیزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

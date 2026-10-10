@@ -1,0 +1,57 @@
+{
+  "Id": 27225,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۱۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۱۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh619",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh619",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درگذشت از خاکساری دشمن از آزار من\r\nشد حصار عافیت کوتاهی دیوار من\r\nسخت جانی داردم از شکوه گردون خموش\r\nخنده کبک است شور سیل در کهسار من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درگذشت از خاکساری دشمن از آزار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد حصار عافیت کوتاهی دیوار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سخت جانی داردم از شکوه گردون خموش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خنده کبک است شور سیل در کهسار من",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18413,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۸۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۸۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh882",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh882",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از در حق کن طلب شکسته‌دلان را\r\nشیشه چو بشکست پیش شیشه گر آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از در حق کن طلب شکسته‌دلان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شیشه چو بشکست پیش شیشه گر آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

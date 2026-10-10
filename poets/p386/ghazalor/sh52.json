@@ -1,0 +1,81 @@
+{
+  "Id": 27460,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۵۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۵۲",
+  "FullUrl": "/p386/ghazalor/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دورم از کوی تو، جا در زیر خاکم بهتر است\r\nزندگی تلخ است با حرمان، هلاکم بهتر است\r\nمن که مجروح خمارم مرهم راحت چه سود\r\nجای مرهم بر جراحت برگ تاکم بهتر است\r\nگر بکشتی از فراقم، سوختی، منت منه\r\nمن که در دوزخ به زندان، هلاکم بهتر است\r\nره به امیدم مده عرفی که بی باکم بسی\r\nمن صلاح خویش دانم، ترسناکم بهتر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دورم از کوی تو، جا در زیر خاکم بهتر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زندگی تلخ است با حرمان، هلاکم بهتر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من که مجروح خمارم مرهم راحت چه سود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جای مرهم بر جراحت برگ تاکم بهتر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر بکشتی از فراقم، سوختی، منت منه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من که در دوزخ به زندان، هلاکم بهتر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ره به امیدم مده عرفی که بی باکم بسی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "من صلاح خویش دانم، ترسناکم بهتر است",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 21161,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۰۸۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۰۸۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2088",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2088",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک تن دل شکسته ز اهل وفا نیافت\r\nصد حرف آشنا زد و یک آشنا نیافت\r\nمحضر به خون بستر گل می کند درست\r\nپهلوی من شکستگی از بوریا نیافت\r\nبر چوب بست غیرت من دست شانه را\r\nدست این چنین به زلف نسیم صبا نیافت\r\nدر پیش غنچه دهن دلفریب او\r\nتا پسته لب گشود، دل خود به جا نیافت\r\nاز دست کوته است، که در زیر سنگ باد!\r\nنخل قدش که جای در آغوش ما نیافت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک تن دل شکسته ز اهل وفا نیافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد حرف آشنا زد و یک آشنا نیافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "محضر به خون بستر گل می کند درست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پهلوی من شکستگی از بوریا نیافت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر چوب بست غیرت من دست شانه را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دست این چنین به زلف نسیم صبا نیافت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در پیش غنچه دهن دلفریب او",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا پسته لب گشود، دل خود به جا نیافت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از دست کوته است، که در زیر سنگ باد!",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نخل قدش که جای در آغوش ما نیافت",
+      "CoupletIndex": 4
+    }
+  ]
+}

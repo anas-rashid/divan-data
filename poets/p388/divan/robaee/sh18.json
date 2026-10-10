@@ -1,0 +1,57 @@
+{
+  "Id": 29625,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/p388/divan/robaee/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درد سر و گردن تو حرز تن تست\r\nاندوه تو صیقل دل روشن تست\r\nگر دردسری کشیده ای نیست عجب\r\nناموس زمانه بر سر و گردن تست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد سر و گردن تو حرز تن تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندوه تو صیقل دل روشن تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دردسری کشیده ای نیست عجب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناموس زمانه بر سر و گردن تست",
+      "CoupletIndex": 1
+    }
+  ]
+}

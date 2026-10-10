@@ -1,0 +1,57 @@
+{
+  "Id": 30304,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/p389/robghm/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که قبول، دور اندازد رخت\r\nنابود شود کمالش از پستی بخت\r\nهر میوه که آن پخته شد و چیده نشد\r\nناچار فتد ز شاخ در پای درخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که قبول، دور اندازد رخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نابود شود کمالش از پستی بخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر میوه که آن پخته شد و چیده نشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناچار فتد ز شاخ در پای درخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

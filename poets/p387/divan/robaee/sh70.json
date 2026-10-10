@@ -1,0 +1,57 @@
+{
+  "Id": 28940,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/p387/divan/robaee/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از باده گذشتیم بپاکان قسم است\r\nشستیم ز جام دست اگر جام جم است\r\nتوفیق ثبات هم خدا خواهد داد\r\nآری تاریخ (هم ثبات قدم) است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از باده گذشتیم بپاکان قسم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شستیم ز جام دست اگر جام جم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "توفیق ثبات هم خدا خواهد داد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری تاریخ (هم ثبات قدم) است",
+      "CoupletIndex": 1
+    }
+  ]
+}

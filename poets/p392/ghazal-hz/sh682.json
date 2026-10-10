@@ -1,0 +1,93 @@
+{
+  "Id": 34109,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۸۲",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۸۲",
+  "FullUrl": "/p392/ghazal-hz/sh682",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh682",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بس غبار حسرت دیدار داشتم\r\nچشمی به رنگ رخنهٔ دیوار داشتم\r\nآتش زدند مغبچگانش به میکده\r\nیک خرقه وار، رشتهٔ زنّار داشتم\r\nشاید غرور سبحه ام از دل برون رود\r\nساغر به دست، بر سر بازار داشتم\r\nاز حیرت جمال تو ای برق خانه سوز\r\nآیینه وار، پشت به دیوار داشتم\r\nهرگز برون ز چاه نمی آمدم حزین\r\nگر من خبر ز ناز خریدار داشتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس غبار حسرت دیدار داشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمی به رنگ رخنهٔ دیوار داشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آتش زدند مغبچگانش به میکده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک خرقه وار، رشتهٔ زنّار داشتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شاید غرور سبحه ام از دل برون رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ساغر به دست، بر سر بازار داشتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از حیرت جمال تو ای برق خانه سوز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آیینه وار، پشت به دیوار داشتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرگز برون ز چاه نمی آمدم حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر من خبر ز ناز خریدار داشتم",
+      "CoupletIndex": 4
+    }
+  ]
+}

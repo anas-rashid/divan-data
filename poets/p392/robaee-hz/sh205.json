@@ -1,0 +1,57 @@
+{
+  "Id": 34600,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۵",
+  "FullUrl": "/p392/robaee-hz/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای هوش به می داده، فدای تو شوم\r\nغارت زدهٔ باده، فدای تو شوم\r\nدر وصل تو هست هر چه می خواهد دل\r\nای جنّت آماده فدای تو شوم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای هوش به می داده، فدای تو شوم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غارت زدهٔ باده، فدای تو شوم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در وصل تو هست هر چه می خواهد دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای جنّت آماده فدای تو شوم",
+      "CoupletIndex": 1
+    }
+  ]
+}

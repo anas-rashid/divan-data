@@ -1,0 +1,105 @@
+{
+  "Id": 20750,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۶۷۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۶۷۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1677",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1677",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حضور خاطر اگر در نماز معتبرست\r\nامید ما به نماز نکرده بیشترست\r\nبه گرمی جگر ما دل که خواهد سوخت؟\r\nدرین بساط که خورشید آتشین جگرم\r\nشرر به آتش و شبنم به بوستان برگشت\r\nحضور خاطر عاشق هنوز در سفرست\r\nز دار و گیر خزان و بهار آسوده است\r\nچو سرو هر که درین روزگار بی ثمرست\r\nحباب کسب هوا می کند ز بی بصری\r\nدرین محیط که کشتی نوح در خطرست\r\nدمید صبح قیامت، رسید روز جزا\r\nهنوز صائب مغرور مست و بیخبرست",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حضور خاطر اگر در نماز معتبرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امید ما به نماز نکرده بیشترست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به گرمی جگر ما دل که خواهد سوخت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درین بساط که خورشید آتشین جگرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شرر به آتش و شبنم به بوستان برگشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حضور خاطر عاشق هنوز در سفرست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز دار و گیر خزان و بهار آسوده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو سرو هر که درین روزگار بی ثمرست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حباب کسب هوا می کند ز بی بصری",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "درین محیط که کشتی نوح در خطرست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دمید صبح قیامت، رسید روز جزا",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هنوز صائب مغرور مست و بیخبرست",
+      "CoupletIndex": 5
+    }
+  ]
+}

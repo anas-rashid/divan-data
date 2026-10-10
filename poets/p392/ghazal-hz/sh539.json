@@ -1,0 +1,93 @@
+{
+  "Id": 33966,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۳۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۳۹",
+  "FullUrl": "/p392/ghazal-hz/sh539",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh539",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر سو به جلوه بردی، صبر و قرار دیگر\r\nهر گوشه ای فکندی، در خون شکار دیگر\r\nنرگس اگر چه خود را مخمور می نماید\r\nچشم سیاه مستت، دارد خمار دیگر\r\nحسنت به کار عاشق یک مو نکرد تقصیر\r\nابرو به تیغ بازی، مژگان به کار دیگر\r\nصد بار اگر بریزی با تیغ غمزه خونم\r\nبازت به معرض آرم، جان فگار دیگر\r\nتا چند سرگرانی، با بیدل حزینت؟\r\nخونش توگر نریزی ، عاشق شکار دیگر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر سو به جلوه بردی، صبر و قرار دیگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر گوشه ای فکندی، در خون شکار دیگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نرگس اگر چه خود را مخمور می نماید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم سیاه مستت، دارد خمار دیگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حسنت به کار عاشق یک مو نکرد تقصیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ابرو به تیغ بازی، مژگان به کار دیگر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صد بار اگر بریزی با تیغ غمزه خونم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بازت به معرض آرم، جان فگار دیگر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا چند سرگرانی، با بیدل حزینت؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خونش توگر نریزی ، عاشق شکار دیگر",
+      "CoupletIndex": 4
+    }
+  ]
+}

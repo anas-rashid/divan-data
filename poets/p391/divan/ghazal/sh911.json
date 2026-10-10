@@ -1,0 +1,54 @@
+{
+  "Id": 33003,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۱۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۱۱",
+  "FullUrl": "/p391/divan/ghazal/sh911",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh911",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بسکه تلخی چشانده هجرانم\r\nمزه گردانده شیرهٔ جانم\r\nریخت دردت چو غنچهٔ لاله\r\nیک بغل داغ در گریبانم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بسکه تلخی چشانده هجرانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مزه گردانده شیرهٔ جانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ریخت دردت چو غنچهٔ لاله",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک بغل داغ در گریبانم",
+      "CoupletIndex": 1
+    }
+  ]
+}

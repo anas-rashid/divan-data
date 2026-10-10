@@ -1,0 +1,45 @@
+{
+  "Id": 18415,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۸۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۸۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh884",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh884",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امید دلگشایی داشتم از گریهٔ خونین\r\nندانستم که چون تر شد گره، دشوار بگشاید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امید دلگشایی داشتم از گریهٔ خونین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ندانستم که چون تر شد گره، دشوار بگشاید",
+      "CoupletIndex": 0
+    }
+  ]
+}

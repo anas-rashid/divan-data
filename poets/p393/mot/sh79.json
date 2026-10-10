@@ -1,0 +1,42 @@
+{
+  "Id": 36788,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۷۹",
+  "FullUrl": "/p393/mot/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نقاب سوز رخ از حسن خود نما این است\r\nاسیر آیینه جز خویش مبتلا این است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نقاب سوز رخ از حسن خود نما این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسیر آیینه جز خویش مبتلا این است",
+      "CoupletIndex": 0
+    }
+  ]
+}

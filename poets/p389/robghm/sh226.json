@@ -1,0 +1,57 @@
+{
+  "Id": 30483,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۲۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۲۶",
+  "FullUrl": "/p389/robghm/sh226",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh226",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز مسکن خویش هر که جایی گیرد\r\nاز مهر فلک دلش صفایی گیرد\r\nبس قطره بی‌بها که در ملک وجود\r\nگیرد صدفش مفت و بهایی گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز مسکن خویش هر که جایی گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از مهر فلک دلش صفایی گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس قطره بی‌بها که در ملک وجود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیرد صدفش مفت و بهایی گیرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

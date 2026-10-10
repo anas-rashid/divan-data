@@ -1,0 +1,57 @@
+{
+  "Id": 26677,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لعل سیراب تو ترخنده به صهبا زده است\r\nنگهت زهر به سرچشمه مینا زده است\r\nگوهر جرات من در صدف طوفان نیست\r\nبارها قطره من بر صف دریا زده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لعل سیراب تو ترخنده به صهبا زده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگهت زهر به سرچشمه مینا زده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گوهر جرات من در صدف طوفان نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بارها قطره من بر صف دریا زده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

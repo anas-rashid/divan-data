@@ -1,0 +1,57 @@
+{
+  "Id": 30488,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۳۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۳۱",
+  "FullUrl": "/p389/robghm/sh231",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh231",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردون که بد و نیک رقم می‌سازد\r\nآن را که دنی‌ست، محترم می‌سازد\r\nاز روز ازل سفله‌نوازست، آری\r\nطاووس ز دم چتر و علم می‌سازد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردون که بد و نیک رقم می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن را که دنی‌ست، محترم می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از روز ازل سفله‌نوازست، آری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طاووس ز دم چتر و علم می‌سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

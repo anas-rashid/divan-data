@@ -1,0 +1,57 @@
+{
+  "Id": 34532,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۳۷",
+  "FullUrl": "/p392/robaee-hz/sh137",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh137",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق تو سواد دیده را جیحون کرد\r\nرشک تو دل از سینهٔ ما بیرون کرد\r\nدر وصل کنیم یاد ایام فراق\r\nاندیشهٔ حرمان، دل ما را خون کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق تو سواد دیده را جیحون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رشک تو دل از سینهٔ ما بیرون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در وصل کنیم یاد ایام فراق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشهٔ حرمان، دل ما را خون کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

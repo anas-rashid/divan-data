@@ -1,0 +1,54 @@
+{
+  "Id": 37177,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/p393/robaee/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتی که مبین تو صورت زیبا را\r\nمشنو زنهار صورت روح‌افزا را\r\nناصح تو خود انصاف بفرما چه کنم\r\nگوش شنوا و دیدهٔ بینا را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی که مبین تو صورت زیبا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشنو زنهار صورت روح‌افزا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناصح تو خود انصاف بفرما چه کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوش شنوا و دیدهٔ بینا را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 20549,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۴۷۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۴۷۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1476",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1476",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چه جز گوهر عشق است درین بحر کف است\r\nهر حیاتی که نه در عشق سرآید تلف است\r\nنعل وارون نکند راست روان را گمراه\r\nچه زیان دارد اگر پشت کمان بر هدف است؟\r\nروی خورشید نباشد به نقابی محتاج\r\nروشنی گوهر بی قیمت ما را صدف است\r\nمی رسد کلفت ایام به ارباب کمال\r\nتا هلال است مه آسوده ز رنج کلف است\r\nمصحف روی بتان را نبود نقطه سهو\r\nکوکب خال به هر جا که بود در شرف است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چه جز گوهر عشق است درین بحر کف است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر حیاتی که نه در عشق سرآید تلف است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نعل وارون نکند راست روان را گمراه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه زیان دارد اگر پشت کمان بر هدف است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روی خورشید نباشد به نقابی محتاج",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روشنی گوهر بی قیمت ما را صدف است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "می رسد کلفت ایام به ارباب کمال",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا هلال است مه آسوده ز رنج کلف است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مصحف روی بتان را نبود نقطه سهو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کوکب خال به هر جا که بود در شرف است",
+      "CoupletIndex": 4
+    }
+  ]
+}

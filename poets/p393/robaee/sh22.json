@@ -1,0 +1,54 @@
+{
+  "Id": 37194,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/p393/robaee/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سوگند به جان تو جان مایی مطرب\r\nولله بگو که از کجایی مطرب\r\nراهی که تو می‌بری رسانی به خدا\r\nهم رهزن و هم راهنمایی مطرب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوگند به جان تو جان مایی مطرب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولله بگو که از کجایی مطرب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راهی که تو می‌بری رسانی به خدا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم رهزن و هم راهنمایی مطرب",
+      "CoupletIndex": 1
+    }
+  ]
+}

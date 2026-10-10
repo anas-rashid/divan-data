@@ -1,0 +1,54 @@
+{
+  "Id": 34756,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۹۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستی چشم یار، ز پیمانه خود است\r\nخواب بهار، پردهٔ افسانهٔ خود است\r\nغمهای مایه دار تو از دل نمی رود\r\nاین گنج شاهوار، به ویرانهٔ خود است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستی چشم یار، ز پیمانه خود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواب بهار، پردهٔ افسانهٔ خود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غمهای مایه دار تو از دل نمی رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این گنج شاهوار، به ویرانهٔ خود است",
+      "CoupletIndex": 1
+    }
+  ]
+}

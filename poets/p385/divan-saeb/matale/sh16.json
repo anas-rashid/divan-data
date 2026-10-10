@@ -1,0 +1,42 @@
+{
+  "Id": 26104,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از ترحم حسن جولان می‌نماید در نقاب\r\nساقی از بی‌ظرفی ما می‌کند در باده آب",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ترحم حسن جولان می‌نماید در نقاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساقی از بی‌ظرفی ما می‌کند در باده آب",
+      "CoupletIndex": 0
+    }
+  ]
+}

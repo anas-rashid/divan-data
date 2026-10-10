@@ -1,0 +1,57 @@
+{
+  "Id": 32907,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۱۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۱۵",
+  "FullUrl": "/p391/divan/ghazal/sh815",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh815",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به محشر تا سری از خاک بیرون آورم چون گل\r\nسراپا پنجه گردم تا گریبانی درم چون گل\r\nز جوش تا توانی می توانم زین چمن خود را\r\nبدامان نسیم آویزم و بیرون برم چون گل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به محشر تا سری از خاک بیرون آورم چون گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سراپا پنجه گردم تا گریبانی درم چون گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جوش تا توانی می توانم زین چمن خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدامان نسیم آویزم و بیرون برم چون گل",
+      "CoupletIndex": 1
+    }
+  ]
+}

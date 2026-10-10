@@ -1,0 +1,57 @@
+{
+  "Id": 37826,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh312",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh312",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در خدمت طاهر علی بارم جان\r\nکز خدمت طاهر علی دارم جان\r\nهر صبحدمی روان نهم بر کف دست\r\nدر خدمت طاهر علی آرم جان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خدمت طاهر علی بارم جان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز خدمت طاهر علی دارم جان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر صبحدمی روان نهم بر کف دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خدمت طاهر علی آرم جان",
+      "CoupletIndex": 1
+    }
+  ]
+}

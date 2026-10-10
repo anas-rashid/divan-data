@@ -1,0 +1,57 @@
+{
+  "Id": 33307,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/p391/divan/robaee/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با عمر دو روز اینهمه رعنایی چیست\r\nمغروری و مستی و تن آسایی چیست\r\nچون صورت دیوار لباسی همه تن\r\nای خانه خراب این خودآرایی چیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با عمر دو روز اینهمه رعنایی چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مغروری و مستی و تن آسایی چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون صورت دیوار لباسی همه تن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای خانه خراب این خودآرایی چیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18410,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۷۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۷۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh879",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh879",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در سلسلهٔ یک جهتان نیست دورنگی\r\nیک ناله ز صد حلقهٔ زنجیر برآید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سلسلهٔ یک جهتان نیست دورنگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک ناله ز صد حلقهٔ زنجیر برآید",
+      "CoupletIndex": 0
+    }
+  ]
+}

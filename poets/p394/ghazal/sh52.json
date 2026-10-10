@@ -1,0 +1,54 @@
+{
+  "Id": 37437,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۵۲",
+  "FullUrl": "/p394/ghazal/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میکند ویران تمول خانهٔ معمور را\r\nانگبین سیلاب باشد خانهٔ زنبور را\r\nچون بر آرد دست چرخ از آستین انقلاب\r\nکاسهٔ دریوزه سازد چینی فغفور را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میکند ویران تمول خانهٔ معمور را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انگبین سیلاب باشد خانهٔ زنبور را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بر آرد دست چرخ از آستین انقلاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاسهٔ دریوزه سازد چینی فغفور را",
+      "CoupletIndex": 1
+    }
+  ]
+}

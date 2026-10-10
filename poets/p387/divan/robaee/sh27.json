@@ -1,0 +1,57 @@
+{
+  "Id": 28897,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/p387/divan/robaee/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در معرکه این تفنگ فریادرس است\r\nخصم افکن و گرم خوی و آتش نفس است\r\nموقوف اشاره ایست در کشتن خصم\r\nسویش نگهی ز گوشه چشم بسست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در معرکه این تفنگ فریادرس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خصم افکن و گرم خوی و آتش نفس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موقوف اشاره ایست در کشتن خصم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سویش نگهی ز گوشه چشم بسست",
+      "CoupletIndex": 1
+    }
+  ]
+}

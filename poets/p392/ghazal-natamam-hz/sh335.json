@@ -1,0 +1,69 @@
+{
+  "Id": 34994,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۳۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۳۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh335",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh335",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌داغ عشق، بر در دل‌ها چه می‌روی؟\r\nاهل نظر نیی، به تماشا چه می‌روی؟\r\nکام نخست سوخت نفس، برق خام را\r\nای نوسفر، تو بر اثر ما چه می‌روی؟\r\nجز نقد جان، بها نپذیرد متاع حسن\r\nدر چارسوی مصر، به سودا چه می‌روی؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌داغ عشق، بر در دل‌ها چه می‌روی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اهل نظر نیی، به تماشا چه می‌روی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کام نخست سوخت نفس، برق خام را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای نوسفر، تو بر اثر ما چه می‌روی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جز نقد جان، بها نپذیرد متاع حسن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در چارسوی مصر، به سودا چه می‌روی؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

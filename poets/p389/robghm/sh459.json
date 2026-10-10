@@ -1,0 +1,57 @@
+{
+  "Id": 30716,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۵۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۵۹",
+  "FullUrl": "/p389/robghm/sh459",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh459",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هنگامه اهل وجد می‌باید و حال\r\nتا مرد برد راه به معنی ز خیال\r\nپرهیز اولی ز صحبت ساختگان\r\nدر مجلس تصویر، فزاید چه کمال",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هنگامه اهل وجد می‌باید و حال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا مرد برد راه به معنی ز خیال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرهیز اولی ز صحبت ساختگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مجلس تصویر، فزاید چه کمال",
+      "CoupletIndex": 1
+    }
+  ]
+}

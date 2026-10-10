@@ -1,0 +1,42 @@
+{
+  "Id": 37000,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۲۹۱",
+  "FullUrl": "/p393/mot/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مانند شیشه هر که بود سرکشی فنش\r\nباید که دیگری بدهد خم به گردنش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مانند شیشه هر که بود سرکشی فنش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید که دیگری بدهد خم به گردنش",
+      "CoupletIndex": 0
+    }
+  ]
+}

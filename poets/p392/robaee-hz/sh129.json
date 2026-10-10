@@ -1,0 +1,57 @@
+{
+  "Id": 34524,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲۹",
+  "FullUrl": "/p392/robaee-hz/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر نوح و دعای غرق، این دم می شد\r\nدنیا یک دم به کام آدم می شد\r\nتا این همه کثرت اندکی کم می شد\r\nطاعون خری، کاش به عالم میشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نوح و دعای غرق، این دم می شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دنیا یک دم به کام آدم می شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا این همه کثرت اندکی کم می شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طاعون خری، کاش به عالم میشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

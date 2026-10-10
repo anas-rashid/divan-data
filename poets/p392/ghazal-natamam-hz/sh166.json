@@ -1,0 +1,54 @@
+{
+  "Id": 34825,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۶۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لب گویای من چون شمع، مقراض سخن‌ها شد\r\nزبان روشنم، افسانه‌ساز انجمن‌ها شد\r\nز بس سر می‌زند ز اندیشه‌ام، یاد خط سبزش\r\nز نقش پای کلکم، صفحه‌ها رشک چمن‌ها شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لب گویای من چون شمع، مقراض سخن‌ها شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زبان روشنم، افسانه‌ساز انجمن‌ها شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بس سر می‌زند ز اندیشه‌ام، یاد خط سبزش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز نقش پای کلکم، صفحه‌ها رشک چمن‌ها شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

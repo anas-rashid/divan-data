@@ -1,0 +1,93 @@
+{
+  "Id": 32305,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۲۱۳",
+  "FullUrl": "/p391/divan/ghazal/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مهربانیهای پنهان را مزاج کاین ازوست\r\nخنده مستانهٔ زخم دل خونین ازوست\r\nچیده ام از بس گل نظاره زان گلزار حسن\r\nپنچهٔ مژگان مرا تا چاک دل رنگین ازوست\r\nدرد او با روی دلها می کند مشتاطکی\r\nزلف آهی هر کجا آشفته شد پرچین از اوست\r\nصد چمن گل یادش از دل تا به مژگان چیده است\r\nدامن صحرا ز اشکم دامن گلچین ازوست\r\nچیست دل جویا چه باشد جان کز او دارم تیغ\r\nدین از او دنیا از او اسلام از او آیین از اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهربانیهای پنهان را مزاج کاین ازوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خنده مستانهٔ زخم دل خونین ازوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چیده ام از بس گل نظاره زان گلزار حسن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پنچهٔ مژگان مرا تا چاک دل رنگین ازوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درد او با روی دلها می کند مشتاطکی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زلف آهی هر کجا آشفته شد پرچین از اوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صد چمن گل یادش از دل تا به مژگان چیده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دامن صحرا ز اشکم دامن گلچین ازوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چیست دل جویا چه باشد جان کز او دارم تیغ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دین از او دنیا از او اسلام از او آیین از اوست",
+      "CoupletIndex": 4
+    }
+  ]
+}

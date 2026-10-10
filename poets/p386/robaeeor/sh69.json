@@ -1,0 +1,57 @@
+{
+  "Id": 28112,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۶۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۹",
+  "FullUrl": "/p386/robaeeor/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل در هوس وصل تسلی طلب است\r\nدر پردهٔ صورت است و معنی طلب است\r\nگفتم که به یأس دل تسلی یابد\r\nفریاد که یأس هم تسلی طلب است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در هوس وصل تسلی طلب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پردهٔ صورت است و معنی طلب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که به یأس دل تسلی یابد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد که یأس هم تسلی طلب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30330,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/p389/robghm/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند کمر به جستجو باید بست\r\nآسان نتوان قرب حق آورد به دست\r\nمقراض ز ترک دو جهان می‌باید\r\nکز خویش توان برید و با او پیوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند کمر به جستجو باید بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسان نتوان قرب حق آورد به دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مقراض ز ترک دو جهان می‌باید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خویش توان برید و با او پیوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

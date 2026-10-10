@@ -1,0 +1,69 @@
+{
+  "Id": 26738,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز نام تو بر لوح دلم هیچ رقم نیست\r\nدر نامه ما یک سر مو سهو قلم نیست\r\nما خود سر طومار شکایت نگشاییم\r\nخودگوی، فراموشی احباب ستم نیست؟\r\nبر نامه سودازدگان نکته نگیرند\r\nداریم جوابی که به دیوانه قلم نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز نام تو بر لوح دلم هیچ رقم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در نامه ما یک سر مو سهو قلم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما خود سر طومار شکایت نگشاییم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خودگوی، فراموشی احباب ستم نیست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر نامه سودازدگان نکته نگیرند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "داریم جوابی که به دیوانه قلم نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

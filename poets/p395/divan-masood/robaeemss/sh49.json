@@ -1,0 +1,57 @@
+{
+  "Id": 37563,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آویخته در هوای جان آویزت\r\nبی رنگ شدم ز عشق رنگ آمیزت\r\nخون شد جگرم ز غمزه خونریزت\r\nتا خود چکند فراق شورانگیزت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آویخته در هوای جان آویزت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی رنگ شدم ز عشق رنگ آمیزت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون شد جگرم ز غمزه خونریزت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا خود چکند فراق شورانگیزت",
+      "CoupletIndex": 1
+    }
+  ]
+}

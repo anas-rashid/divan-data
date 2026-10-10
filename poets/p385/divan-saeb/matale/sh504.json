@@ -1,0 +1,42 @@
+{
+  "Id": 26592,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۰۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۰۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh504",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh504",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد پرده شوخ‌تر بود از چشم خال تو\r\nاین نافه پیش پیش دود از غزال تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد پرده شوخ‌تر بود از چشم خال تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این نافه پیش پیش دود از غزال تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

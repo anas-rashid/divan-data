@@ -1,0 +1,54 @@
+{
+  "Id": 36639,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۹",
+  "FullUrl": "/p393/ghete/sh159",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh159",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خانه بی‌تو دوش به در می‌شتافتم\r\nدر آب دیده تا به کمر می‌شتافتم\r\nامشب ز دوریت به هواداری فنا\r\nآتش به جان به رنگ شرر می‌شتافتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خانه بی‌تو دوش به در می‌شتافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آب دیده تا به کمر می‌شتافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امشب ز دوریت به هواداری فنا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش به جان به رنگ شرر می‌شتافتم",
+      "CoupletIndex": 1
+    }
+  ]
+}

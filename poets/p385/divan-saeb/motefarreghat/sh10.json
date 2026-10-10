@@ -1,0 +1,57 @@
+{
+  "Id": 26616,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست ظرف راز عشق او حریم سینه را\r\nآب این گوهر به طوفان می دهد گنجینه را\r\nدر دل من نقش چون گیرد، که با خود می برد\r\nشوخی عکس تو دام جوهر آیینه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست ظرف راز عشق او حریم سینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب این گوهر به طوفان می دهد گنجینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دل من نقش چون گیرد، که با خود می برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شوخی عکس تو دام جوهر آیینه را",
+      "CoupletIndex": 1
+    }
+  ]
+}

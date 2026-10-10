@@ -1,0 +1,57 @@
+{
+  "Id": 27026,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh420",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh420",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تنها نه کار من به نگاه نخست کرد\r\nهر کس که دید جلوه او پای سست کرد\r\nزلف از متاع فتنه تهیدست گشته بود\r\nخط عاقبت شکسته او را درست کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنها نه کار من به نگاه نخست کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر کس که دید جلوه او پای سست کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف از متاع فتنه تهیدست گشته بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خط عاقبت شکسته او را درست کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30817,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۶۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۶۰",
+  "FullUrl": "/p389/robghm/sh560",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh560",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای همچو خرد در همه فن سنجیده\r\nنام تو کس از من به بدی نشنیده\r\nدشنام نویسی تو و من همچو دعا\r\nبرخوانم و بوسم و نهم بر دیده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای همچو خرد در همه فن سنجیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نام تو کس از من به بدی نشنیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دشنام نویسی تو و من همچو دعا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخوانم و بوسم و نهم بر دیده",
+      "CoupletIndex": 1
+    }
+  ]
+}

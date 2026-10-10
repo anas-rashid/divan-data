@@ -1,0 +1,42 @@
+{
+  "Id": 26302,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh214",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh214",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنین از می گر آن سیب زنخدان لاله گون گردد\r\nسرانگشت سهیل از زخم دندان جوی خون گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنین از می گر آن سیب زنخدان لاله گون گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرانگشت سهیل از زخم دندان جوی خون گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30792,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۵",
+  "FullUrl": "/p389/robghm/sh535",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh535",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بزم شهود، ذکر می‌گویی تو\r\nبا کعبه به راه کعبه می‌پویی تو\r\nیار از رگ گردن به تو نزدیک‌ترست\r\nای هیچ نکرده گم چه می‌جویی تو؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بزم شهود، ذکر می‌گویی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با کعبه به راه کعبه می‌پویی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یار از رگ گردن به تو نزدیک‌ترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای هیچ نکرده گم چه می‌جویی تو؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

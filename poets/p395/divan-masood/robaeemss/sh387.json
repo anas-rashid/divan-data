@@ -1,0 +1,57 @@
+{
+  "Id": 37901,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۸۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۸۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh387",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh387",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نالنده تر از نایم در قلعه نای\r\nهمسایه ماه گشتم از تندی جای\r\nنه طبع مرا به جای و نه دست و نه پای\r\nای شاه جهان رحم کن از بهر خدای",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نالنده تر از نایم در قلعه نای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همسایه ماه گشتم از تندی جای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه طبع مرا به جای و نه دست و نه پای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای شاه جهان رحم کن از بهر خدای",
+      "CoupletIndex": 1
+    }
+  ]
+}

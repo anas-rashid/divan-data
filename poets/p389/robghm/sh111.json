@@ -1,0 +1,57 @@
+{
+  "Id": 30368,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p389/robghm/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پرهیز ز درد، کار بی‌دردان است\r\nبیم از کشتن، شیوه روزردان است\r\nعشاق ندزدند سر از تیغ بلا\r\nآری دزدی عیب جوانمردان است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پرهیز ز درد، کار بی‌دردان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیم از کشتن، شیوه روزردان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشاق ندزدند سر از تیغ بلا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری دزدی عیب جوانمردان است",
+      "CoupletIndex": 1
+    }
+  ]
+}

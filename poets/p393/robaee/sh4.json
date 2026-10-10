@@ -1,0 +1,54 @@
+{
+  "Id": 37176,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/p393/robaee/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردید وداع یار واجب ما را\r\nشد دوری ازان نگار واجب ما را\r\nدارالحزن است از رقیبان کویش\r\nهجرت شده زین دیار واجب ما را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردید وداع یار واجب ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد دوری ازان نگار واجب ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دارالحزن است از رقیبان کویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هجرت شده زین دیار واجب ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

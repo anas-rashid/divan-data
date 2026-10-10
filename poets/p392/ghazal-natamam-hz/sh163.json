@@ -1,0 +1,54 @@
+{
+  "Id": 34822,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۶۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشا چشمی که محو لذّت نظّاره‌ای باشد\r\nز مژگان، شبنم‌افشانِ گل‌رخساره‌ای باشد\r\nمجزّا کرده‌ام دل را، به شورانگیز مکتب‌ها\r\nکه تا در دست هر سیمین‌بری، سی‌پاره‌ای باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشا چشمی که محو لذّت نظّاره‌ای باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز مژگان، شبنم‌افشانِ گل‌رخساره‌ای باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مجزّا کرده‌ام دل را، به شورانگیز مکتب‌ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که تا در دست هر سیمین‌بری، سی‌پاره‌ای باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

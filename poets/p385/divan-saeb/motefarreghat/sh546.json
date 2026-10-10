@@ -1,0 +1,57 @@
+{
+  "Id": 27152,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۴۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۴۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh546",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh546",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر تو با هر خار و خس خواهی چو گل افروختن\r\nاز چراغ غیرتم (گل) می کند واسوختن\r\nما چو گل با سینه صد چاک عادت کرده ایم\r\nبخیه را بر زخم نتوانی به سوزن دوختن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر تو با هر خار و خس خواهی چو گل افروختن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چراغ غیرتم (گل) می کند واسوختن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما چو گل با سینه صد چاک عادت کرده ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بخیه را بر زخم نتوانی به سوزن دوختن",
+      "CoupletIndex": 1
+    }
+  ]
+}

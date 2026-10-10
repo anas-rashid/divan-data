@@ -1,0 +1,57 @@
+{
+  "Id": 28143,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۰",
+  "FullUrl": "/p386/robaeeor/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردیم که آه ما دل شب نگزد\r\nدر جام رود می ای که مشرب نگزد\r\nمردیم ولی نه زود مردیم، نه شاد\r\nغم دست به هم ساید و هم لب نگزد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردیم که آه ما دل شب نگزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جام رود می ای که مشرب نگزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردیم ولی نه زود مردیم، نه شاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم دست به هم ساید و هم لب نگزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

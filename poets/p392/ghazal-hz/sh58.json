@@ -1,0 +1,93 @@
+{
+  "Id": 33485,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۸",
+  "FullUrl": "/p392/ghazal-hz/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از فیض ریزش مژه، تر شد دماغ ما\r\nافتاد سایهٔ رگ ابری به باغ ما\r\nخودکامیی ز تلخی دشنام داشتیم\r\nشیرین تبسّمی نمکی زد به داغ ما\r\nما گر فسرده ایم صبا را چه می شود؟\r\nره گم نکرده بوی گلی، تا دماغ ما\r\nدستش به داغ عشق، همان دور از آتش است\r\nپروانه ای که خویش نزد بر چراغ ما\r\nداغ دلم چو لاله پر از خون بود حزین\r\nیا رب مباد خالی ازین می ایاغ ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از فیض ریزش مژه، تر شد دماغ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاد سایهٔ رگ ابری به باغ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خودکامیی ز تلخی دشنام داشتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیرین تبسّمی نمکی زد به داغ ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما گر فسرده ایم صبا را چه می شود؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ره گم نکرده بوی گلی، تا دماغ ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دستش به داغ عشق، همان دور از آتش است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پروانه ای که خویش نزد بر چراغ ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "داغ دلم چو لاله پر از خون بود حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یا رب مباد خالی ازین می ایاغ ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31807,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۴۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۴۰",
+  "FullUrl": "/p390/divan/ghazal/sh840",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh840",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تنم ز ضعف بود رشته ای ز پیرهنم\r\nکسی چو من نتواند شدن، منم که منم\r\nبرآورم نفسی چون ز سینه ی مجروح\r\nشود چو غنچه لبالب ز لخت دل دهنم\r\nدهد سیاهی آن را چو گرد سرمه به باد\r\nزند چو بر صف مژگان، سرشک صف شکنم\r\nبه گرد خاطر من خرمی نمی گردد\r\nبهار، طوطی رم کرده ای ست از چمنم\r\nسلیم، خصم به من سازگار چون باشد؟\r\nچنین که هر سر مو گشته خار پیرهنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنم ز ضعف بود رشته ای ز پیرهنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کسی چو من نتواند شدن، منم که منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برآورم نفسی چون ز سینه ی مجروح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شود چو غنچه لبالب ز لخت دل دهنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دهد سیاهی آن را چو گرد سرمه به باد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زند چو بر صف مژگان، سرشک صف شکنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به گرد خاطر من خرمی نمی گردد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بهار، طوطی رم کرده ای ست از چمنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم، خصم به من سازگار چون باشد؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چنین که هر سر مو گشته خار پیرهنم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37365,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۳",
+  "FullUrl": "/p393/robaee/sh193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن نرگس پر خار سبحان‌الله\r\nوان سنبل مشکبار سبحان‌الله\r\nآن ناز آن عشوه آن خرام آن قامت\r\nسبحان‌الله هزار سبحان‌الله",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن نرگس پر خار سبحان‌الله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان سنبل مشکبار سبحان‌الله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن ناز آن عشوه آن خرام آن قامت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سبحان‌الله هزار سبحان‌الله",
+      "CoupletIndex": 1
+    }
+  ]
+}

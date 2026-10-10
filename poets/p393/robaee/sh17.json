@@ -1,0 +1,54 @@
+{
+  "Id": 37189,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/p393/robaee/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یارن گویید شوخ طناز مرا\r\nآن دل‌شکن خانه برانداز مرا\r\nاز نالهٔ من اگر به تنگ آمده‌ای\r\nرفتم که دگر نشنوی آواز مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارن گویید شوخ طناز مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن دل‌شکن خانه برانداز مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از نالهٔ من اگر به تنگ آمده‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتم که دگر نشنوی آواز مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

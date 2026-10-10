@@ -1,0 +1,45 @@
+{
+  "Id": 17825,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۹۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۹۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh294",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh294",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی‌بود این‌قَدَر خوابِ غرورِ دِل‌بَران، سنگین\r\nاگر می‌داشت آوازی، شکستِ شیشه‌ی دل‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی‌بود این‌قَدَر خوابِ غرورِ دِل‌بَران، سنگین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر می‌داشت آوازی، شکستِ شیشه‌ی دل‌ها",
+      "CoupletIndex": 0
+    }
+  ]
+}

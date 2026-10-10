@@ -1,0 +1,93 @@
+{
+  "Id": 33640,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۱۳",
+  "FullUrl": "/p392/ghazal-hz/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نخلم از گریه در آب است و ثمر پیدا نیست\r\nتا فلک آتش آه است و اثر پیدا نیست\r\nوعده دل را به دعاهای سحر می دادم\r\nوه چه سازم که شب هجر، سحر پیدا نیست\r\nخط اگر بود، دلم پی به دهانش می برد\r\nخضر راه من تفسیده جگر پیدا نیست\r\nمو شکافان جهان در تب و تابند تمام\r\nدر خم زلف تو آن موی کمر پیدا نیست\r\nدل و دین رفت در اوّل نگه از دست حزین\r\nبه کجا تا بکشدکار نظر، پیدا نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخلم از گریه در آب است و ثمر پیدا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا فلک آتش آه است و اثر پیدا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وعده دل را به دعاهای سحر می دادم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وه چه سازم که شب هجر، سحر پیدا نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خط اگر بود، دلم پی به دهانش می برد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خضر راه من تفسیده جگر پیدا نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مو شکافان جهان در تب و تابند تمام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در خم زلف تو آن موی کمر پیدا نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل و دین رفت در اوّل نگه از دست حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به کجا تا بکشدکار نظر، پیدا نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

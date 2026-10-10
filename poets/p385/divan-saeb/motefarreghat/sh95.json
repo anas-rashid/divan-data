@@ -1,0 +1,57 @@
+{
+  "Id": 26701,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh95",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh95",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کجا قامت دلدار به دعوی برخاست\r\nسرو چون زنگ ز آیینه قمری برخاست\r\nعشق ازان برق که در خرمن مجنون انداخت\r\nدود اول ز سیه خانه لیلی برخاست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کجا قامت دلدار به دعوی برخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو چون زنگ ز آیینه قمری برخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق ازان برق که در خرمن مجنون انداخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دود اول ز سیه خانه لیلی برخاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30757,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۰۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۰۰",
+  "FullUrl": "/p389/robghm/sh500",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh500",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا راز دلت ز دل نیاید به زبان\r\nاز خلق، بد و نیک تو باشد پنهان\r\nاز خم چو به شیشه منتقل گشت شراب\r\nناصافی و صافی شودش زود عیان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا راز دلت ز دل نیاید به زبان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خلق، بد و نیک تو باشد پنهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خم چو به شیشه منتقل گشت شراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناصافی و صافی شودش زود عیان",
+      "CoupletIndex": 1
+    }
+  ]
+}

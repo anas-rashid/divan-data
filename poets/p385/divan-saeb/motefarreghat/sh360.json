@@ -1,0 +1,57 @@
+{
+  "Id": 26966,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۶۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۶۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh360",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh360",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دل علاقه نداریم تا به جان چه رسد\r\nگذشته ایم ز خود تا به دیگران چه رسد\r\nفقیر را ز غنی کاهش است قسمت و بس\r\nز آشنایی گوهر به ریسمان چه رسد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دل علاقه نداریم تا به جان چه رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گذشته ایم ز خود تا به دیگران چه رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فقیر را ز غنی کاهش است قسمت و بس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آشنایی گوهر به ریسمان چه رسد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

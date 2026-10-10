@@ -1,0 +1,57 @@
+{
+  "Id": 30800,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۴۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۴۳",
+  "FullUrl": "/p389/robghm/sh543",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh543",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشتاق جمال را چه بیگاه و چه گاه\r\nپیوسته بود بر مژه، چون شمع، نگاه\r\nبشتاب که از خیال رویت دارم\r\nیک چشم به نظاره و یک چشم به راه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشتاق جمال را چه بیگاه و چه گاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته بود بر مژه، چون شمع، نگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بشتاب که از خیال رویت دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک چشم به نظاره و یک چشم به راه",
+      "CoupletIndex": 1
+    }
+  ]
+}

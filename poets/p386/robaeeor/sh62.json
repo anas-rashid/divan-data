@@ -1,0 +1,57 @@
+{
+  "Id": 28105,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۶۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۲",
+  "FullUrl": "/p386/robaeeor/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آگه نیم از عیش که شهد چه گلوست\r\nراحت نشناسم که چه می، در چه سبوست\r\nزخمی دارم که سینه گوید عشق است\r\nوین دل به فدای او نمک خوردهٔ اوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آگه نیم از عیش که شهد چه گلوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راحت نشناسم که چه می، در چه سبوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زخمی دارم که سینه گوید عشق است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین دل به فدای او نمک خوردهٔ اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

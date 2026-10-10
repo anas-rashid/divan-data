@@ -1,0 +1,69 @@
+{
+  "Id": 26874,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh268",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh268",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز راه چشم، غم در جان غم فرسود می پیچد\r\nز روزن در مصیبت خانه ما دود می پیچد\r\nز شمشیر که دارد صبح این زخم نمایان را؟\r\nکه دردم بر جگر زان رخت خون آلود می پیچد\r\nکسی چون چشم ازان رخسار آتشناک بردارد؟\r\nکه از روزن تماشایش عنان دود می پیچد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز راه چشم، غم در جان غم فرسود می پیچد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز روزن در مصیبت خانه ما دود می پیچد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز شمشیر که دارد صبح این زخم نمایان را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دردم بر جگر زان رخت خون آلود می پیچد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کسی چون چشم ازان رخسار آتشناک بردارد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که از روزن تماشایش عنان دود می پیچد",
+      "CoupletIndex": 2
+    }
+  ]
+}

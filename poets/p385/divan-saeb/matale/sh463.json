@@ -1,0 +1,42 @@
+{
+  "Id": 26551,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۶۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۶۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh463",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh463",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما در جهان قرار اقامت نداده ایم\r\nچون سرو سالهاست به یک پا ستاده ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما در جهان قرار اقامت نداده ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سرو سالهاست به یک پا ستاده ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

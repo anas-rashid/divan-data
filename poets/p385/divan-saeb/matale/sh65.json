@@ -1,0 +1,45 @@
+{
+  "Id": 26153,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۶۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز نقصان گهر باشد گران‌خیزی بزرگان را\r\nکه خودداری میسر نیست گوهرهای غلتان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز نقصان گهر باشد گران‌خیزی بزرگان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خودداری میسر نیست گوهرهای غلتان را",
+      "CoupletIndex": 0
+    }
+  ]
+}

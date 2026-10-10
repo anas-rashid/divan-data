@@ -1,0 +1,57 @@
+{
+  "Id": 26910,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh304",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh304",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طبیب پست فطرت خلق را رنجور می خواهد\r\nگدای دوربین فرزند خود را کور می خواهد\r\nکمال حسن رسوایی تقاضا می کند، ورنه\r\nگل این بوستان را باغبان مستور می خواهد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طبیب پست فطرت خلق را رنجور می خواهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گدای دوربین فرزند خود را کور می خواهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمال حسن رسوایی تقاضا می کند، ورنه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل این بوستان را باغبان مستور می خواهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

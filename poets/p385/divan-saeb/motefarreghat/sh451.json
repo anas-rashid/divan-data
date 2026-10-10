@@ -1,0 +1,57 @@
+{
+  "Id": 27057,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۵۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۵۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh451",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh451",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همت عالی نظر به پست ندارد\r\nخانه گردون غم نشست ندارد\r\nتیر تو از شست صاف، گرد نشانه\r\nچون صف مژگان بلند و پست ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همت عالی نظر به پست ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خانه گردون غم نشست ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیر تو از شست صاف، گرد نشانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون صف مژگان بلند و پست ندارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

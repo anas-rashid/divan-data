@@ -1,0 +1,93 @@
+{
+  "Id": 24931,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۸۵۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۸۵۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5858",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5858",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما همچو آفتاب به هرجا رسیده‌ایم\r\nهر کوچه‌ای که هست به عالم دویده‌ایم\r\nوحشت کنیم ازآن که به خلق است آشنا\r\nما چون غزال، رام زهر خود رمیده‌ایم\r\nگر خون عرق کنیم چو خورشید دور نیست\r\nباری که آسمان نکشد ما کشیده‌ایم\r\nچون میوه پخته گشت گرانی برد ز باغ\r\nما بار نخل چون ثمر نارسیده‌ایم\r\nدل‌های مرده را ز دمی زنده کرده‌ایم\r\nهرجا که همچو صبح قیامت دمیده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما همچو آفتاب به هرجا رسیده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر کوچه‌ای که هست به عالم دویده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وحشت کنیم ازآن که به خلق است آشنا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما چون غزال، رام زهر خود رمیده‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر خون عرق کنیم چو خورشید دور نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باری که آسمان نکشد ما کشیده‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون میوه پخته گشت گرانی برد ز باغ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما بار نخل چون ثمر نارسیده‌ایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل‌های مرده را ز دمی زنده کرده‌ایم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هرجا که همچو صبح قیامت دمیده‌ایم",
+      "CoupletIndex": 4
+    }
+  ]
+}

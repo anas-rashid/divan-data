@@ -1,0 +1,45 @@
+{
+  "Id": 18224,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۹۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۹۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh693",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh693",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز مرگ تلخ پروا نیست بی برگ و نوایان را\r\nچراغ تنگدستان خامشی را از هوا گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز مرگ تلخ پروا نیست بی برگ و نوایان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چراغ تنگدستان خامشی را از هوا گیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30768,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۱۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۱۱",
+  "FullUrl": "/p389/robghm/sh511",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh511",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن صفحه که بایدش سراپا شستن\r\nبر میل تو بسته، شستن و ناشستن\r\nزایل نشود عشق که از معشوق است\r\nنتوان خط موج را به دریا شستن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن صفحه که بایدش سراپا شستن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر میل تو بسته، شستن و ناشستن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زایل نشود عشق که از معشوق است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتوان خط موج را به دریا شستن",
+      "CoupletIndex": 1
+    }
+  ]
+}

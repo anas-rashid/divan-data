@@ -1,0 +1,57 @@
+{
+  "Id": 26714,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزگاری است که پایم ز چمن کوتاه است\r\nدست امیدم ازان سیب ذقن کوتاه است\r\nبی حجابانه به بزم آمد و مستانه نشست\r\nگل بچینید که دیوار چمن کوتاه است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزگاری است که پایم ز چمن کوتاه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست امیدم ازان سیب ذقن کوتاه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی حجابانه به بزم آمد و مستانه نشست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل بچینید که دیوار چمن کوتاه است",
+      "CoupletIndex": 1
+    }
+  ]
+}

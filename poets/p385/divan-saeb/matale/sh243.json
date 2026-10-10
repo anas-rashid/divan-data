@@ -1,0 +1,42 @@
+{
+  "Id": 26331,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۴۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۴۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh243",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh243",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از روی عرقناک تو خورشید کباب است\r\nآتش ز تماشای تو یک چشم پر آب است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از روی عرقناک تو خورشید کباب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش ز تماشای تو یک چشم پر آب است",
+      "CoupletIndex": 0
+    }
+  ]
+}

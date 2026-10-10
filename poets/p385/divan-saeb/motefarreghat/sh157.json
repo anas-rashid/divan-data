@@ -1,0 +1,57 @@
+{
+  "Id": 26763,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۵۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۵۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh157",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh157",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "موج خطر سفینه اهل توکل است\r\nدر رهگذار راست روان تیغ کج پل است\r\nز افتادگی چو شبنم گل نیستم غمین\r\nچون پله ترقی من در تنزل است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "موج خطر سفینه اهل توکل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در رهگذار راست روان تیغ کج پل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز افتادگی چو شبنم گل نیستم غمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون پله ترقی من در تنزل است",
+      "CoupletIndex": 1
+    }
+  ]
+}

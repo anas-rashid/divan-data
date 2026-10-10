@@ -1,0 +1,57 @@
+{
+  "Id": 34517,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲۲",
+  "FullUrl": "/p392/robaee-hz/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بلبل به نوای آشنا می نازد\r\nگلشن به دم پاک صبا می نازد\r\nما گرچه به کلک خود ننازیم حزین\r\nتا هست، سخن به کلک ما می نازد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل به نوای آشنا می نازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلشن به دم پاک صبا می نازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما گرچه به کلک خود ننازیم حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا هست، سخن به کلک ما می نازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

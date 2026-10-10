@@ -1,0 +1,57 @@
+{
+  "Id": 30644,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۸۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۸۷",
+  "FullUrl": "/p389/robghm/sh387",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh387",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از رنگ نفس، هوس شود رنگین‌تر\r\nبی‌آیینان شوند بی‌آیین‌تر\r\nچون تلخ شوند میوه‌های شیرین\r\nرسم است که تلخ‌تر شود شیرین‌تر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از رنگ نفس، هوس شود رنگین‌تر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌آیینان شوند بی‌آیین‌تر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون تلخ شوند میوه‌های شیرین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رسم است که تلخ‌تر شود شیرین‌تر",
+      "CoupletIndex": 1
+    }
+  ]
+}

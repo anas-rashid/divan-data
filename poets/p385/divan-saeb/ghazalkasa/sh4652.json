@@ -1,0 +1,93 @@
+{
+  "Id": 23725,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۶۵۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۶۵۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4652",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4652",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی دانند اهل غفلت انجام شراب آخر\r\nبه آتش می رود این غفلان از راه آب آخر\r\nهواجویی که کشتی در محیط باده اندازد\r\nسرخود در سر می می کند همچون حباب آخر\r\nاگر در آتش افتد پاک طینت فیض می بخشد\r\nکه گل گردد برای رفع درد سر گلاب آخر\r\nزکار افتاد چون ظالم به اهل ظلم پیوندد\r\nکه بال تیر می گردد پرو بال عقاب آخر\r\nمکرر می گزد دل را اگر شهد و شکر باشد\r\nنشد صائب ترا سیری نصیب از خورد و خواب آخر؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی دانند اهل غفلت انجام شراب آخر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به آتش می رود این غفلان از راه آب آخر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هواجویی که کشتی در محیط باده اندازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرخود در سر می می کند همچون حباب آخر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر در آتش افتد پاک طینت فیض می بخشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که گل گردد برای رفع درد سر گلاب آخر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زکار افتاد چون ظالم به اهل ظلم پیوندد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بال تیر می گردد پرو بال عقاب آخر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مکرر می گزد دل را اگر شهد و شکر باشد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نشد صائب ترا سیری نصیب از خورد و خواب آخر؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

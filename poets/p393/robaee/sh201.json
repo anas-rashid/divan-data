@@ -1,0 +1,54 @@
+{
+  "Id": 37373,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۰۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۰۱",
+  "FullUrl": "/p393/robaee/sh201",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh201",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل جگر مرا خراشی تا کی\r\nهردم به هوای تازه باشی تا کی\r\nتو آذرو من خلیل سری دارد\r\nمن بت‌شکنم تو بت‌تراشی تا کی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل جگر مرا خراشی تا کی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هردم به هوای تازه باشی تا کی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو آذرو من خلیل سری دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بت‌شکنم تو بت‌تراشی تا کی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26453,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۶۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۶۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh365",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh365",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یار گندم‌گون جوی نگذاشت در من عقل و هوش\r\nخرمنم را سوخت این گندم‌نمای جوفروش!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار گندم‌گون جوی نگذاشت در من عقل و هوش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرمنم را سوخت این گندم‌نمای جوفروش!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "Id": 36301,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۵۰",
+  "FullUrl": "/p393/natmam/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طاقتم برد هجر تاب نماند\r\nدر دلم چون نگینه آب نماند\r\nیار آمد به پرسشم آن دم\r\nکه مرا طاقت جواب نماند\r\nخوردنم غصه بی‌خودی خواب است\r\nبی‌توام ذوق خورد و خواب نماند\r\nبا چنین روی و موی باغ شدی\r\nبه گل و سنبل آب و تاب نماند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طاقتم برد هجر تاب نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دلم چون نگینه آب نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یار آمد به پرسشم آن دم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که مرا طاقت جواب نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوردنم غصه بی‌خودی خواب است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بی‌توام ذوق خورد و خواب نماند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با چنین روی و موی باغ شدی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به گل و سنبل آب و تاب نماند",
+      "CoupletIndex": 3
+    }
+  ]
+}

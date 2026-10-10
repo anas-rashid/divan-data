@@ -1,0 +1,45 @@
+{
+  "Id": 19062,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۳۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۳۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1531",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1531",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تعمیر خانه‌ای که بود در گذار سیل\r\nای خانمان خراب، برای چه می‌کنی؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تعمیر خانه‌ای که بود در گذار سیل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای خانمان خراب، برای چه می‌کنی؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

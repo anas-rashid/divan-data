@@ -1,0 +1,57 @@
+{
+  "Id": 30615,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵۸",
+  "FullUrl": "/p389/robghm/sh358",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh358",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند تو را عذاب می‌افزاید\r\nمیلت به سوی شراب می‌افزاید\r\nعصیان تو، از دامن تر، روز به روز\r\nچون وزن نمد در آب می‌افزاید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند تو را عذاب می‌افزاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میلت به سوی شراب می‌افزاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عصیان تو، از دامن تر، روز به روز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون وزن نمد در آب می‌افزاید",
+      "CoupletIndex": 1
+    }
+  ]
+}

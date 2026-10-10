@@ -1,0 +1,57 @@
+{
+  "Id": 33342,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/p391/divan/robaee/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکه شوی ار ز خواب غفلت بیدار\r\nهر سوی که بنگری بود جلوهٔ یار\r\nدر هر ذره سرّ الهی پنهان\r\nچون معنی نازک است در خط غبار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکه شوی ار ز خواب غفلت بیدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سوی که بنگری بود جلوهٔ یار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر ذره سرّ الهی پنهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون معنی نازک است در خط غبار",
+      "CoupletIndex": 1
+    }
+  ]
+}

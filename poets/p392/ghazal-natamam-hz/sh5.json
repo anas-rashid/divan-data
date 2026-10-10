@@ -1,0 +1,54 @@
+{
+  "Id": 34664,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو شیشه بود تمنا تن کبود، مرا\r\nفلک به سنگ جفای تو آزمود، مرا\r\nنهفته بود مرا جسم چون شرار به سنگ\r\nوصال سوخته جانی ز خود ربود مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو شیشه بود تمنا تن کبود، مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فلک به سنگ جفای تو آزمود، مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نهفته بود مرا جسم چون شرار به سنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصال سوخته جانی ز خود ربود مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

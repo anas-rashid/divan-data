@@ -1,0 +1,81 @@
+{
+  "Id": 30154,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۰۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۰۶",
+  "FullUrl": "/p389/ghazalgm/sh406",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh406",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از وصل هر گل در چمن، چون غنچه دامان چیده‌ام\r\nجمعیت دل را در آن زلف پریشان چیده‌ام\r\nریزد به دامن دیده خون، من ریزم از دامن برون\r\nاو بهر دامان چیده گل، من گل ز دامان چیده‌ام\r\nتا برده ترک غمزه‌ات، دستی به قربان کمان\r\nچون ترکشت پهلوی هم، در سینه پیکان چیده‌ام\r\nچون دیده آیینه‌ام مژگان نمی‌آید به هم\r\nاز بس که شوق دیدنت در چشم حیران چیده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از وصل هر گل در چمن، چون غنچه دامان چیده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمعیت دل را در آن زلف پریشان چیده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ریزد به دامن دیده خون، من ریزم از دامن برون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او بهر دامان چیده گل، من گل ز دامان چیده‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا برده ترک غمزه‌ات، دستی به قربان کمان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون ترکشت پهلوی هم، در سینه پیکان چیده‌ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون دیده آیینه‌ام مژگان نمی‌آید به هم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از بس که شوق دیدنت در چشم حیران چیده‌ام",
+      "CoupletIndex": 3
+    }
+  ]
+}

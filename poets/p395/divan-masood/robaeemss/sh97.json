@@ -1,0 +1,81 @@
+{
+  "Id": 37611,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر صبر کنم عمر همی باد شود\r\nور ناله کنم عدو همی شاد شود\r\nشادی عدو نجویم و صبر کنم\r\nشاید که فلک در این میان راد شود\r\nگفتم که چو از بند گشایش باشد\r\nزین بند مگر مرا رهایش باشد\r\nاکنون غم را همی فزایش باشد\r\nآری ملک آن کند که رایش باشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر صبر کنم عمر همی باد شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور ناله کنم عدو همی شاد شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شادی عدو نجویم و صبر کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاید که فلک در این میان راد شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتم که چو از بند گشایش باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زین بند مگر مرا رهایش باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اکنون غم را همی فزایش باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آری ملک آن کند که رایش باشد",
+      "CoupletIndex": 3
+    }
+  ]
+}

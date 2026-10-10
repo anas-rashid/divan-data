@@ -1,0 +1,57 @@
+{
+  "Id": 27109,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۰۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۰۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh503",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh503",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(تا به چند از گریه آزار دل جیحون دهم؟\r\nاز دعای بی اثر دردسر گردون دهم)\r\n(آشیانی می توانم ساخت در کنج قفس\r\nگر ز دل این خارخار رشک را بیرون دهم)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(تا به چند از گریه آزار دل جیحون دهم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دعای بی اثر دردسر گردون دهم)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(آشیانی می توانم ساخت در کنج قفس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر ز دل این خارخار رشک را بیرون دهم)",
+      "CoupletIndex": 1
+    }
+  ]
+}

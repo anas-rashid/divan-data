@@ -1,0 +1,54 @@
+{
+  "Id": 37368,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۶",
+  "FullUrl": "/p393/robaee/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل ای دل دگر مکن قصد گناه\r\nاعمال تو از گناه شد سخت تباه\r\nبردار ز مشق معصیت دست اکنون\r\nشد پشت و رخ نامهٔ اعمال سیاه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل ای دل دگر مکن قصد گناه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اعمال تو از گناه شد سخت تباه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بردار ز مشق معصیت دست اکنون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد پشت و رخ نامهٔ اعمال سیاه",
+      "CoupletIndex": 1
+    }
+  ]
+}

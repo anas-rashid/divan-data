@@ -1,0 +1,42 @@
+{
+  "Id": 37063,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۵۴",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۵۴",
+  "FullUrl": "/p393/mot/sh354",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh354",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر دلبر و دلنوازی که دارم\r\nزنم زخمه بر تار سازی که دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر دلبر و دلنوازی که دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنم زخمه بر تار سازی که دارم",
+      "CoupletIndex": 0
+    }
+  ]
+}

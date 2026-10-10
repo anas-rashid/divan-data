@@ -1,0 +1,54 @@
+{
+  "Id": 38260,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۳۳ - سمنزار",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۳۳ - سمنزار",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون به بنفشه ستان کز شب دیجور زاد\r\nتازه سمن ها شکفت ار نفس بامداد\r\nگویی هر زر و سیم که داشت در مغز دل\r\nخاک به رخ برفشاند سنگ به دل در نهاد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون به بنفشه ستان کز شب دیجور زاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تازه سمن ها شکفت ار نفس بامداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی هر زر و سیم که داشت در مغز دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاک به رخ برفشاند سنگ به دل در نهاد",
+      "CoupletIndex": 1
+    }
+  ]
+}

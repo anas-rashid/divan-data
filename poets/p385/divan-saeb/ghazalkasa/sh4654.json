@@ -1,0 +1,81 @@
+{
+  "Id": 23727,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۶۵۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۶۵۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4654",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4654",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا ای محتسب از وادی دردی کشان بگذر\r\nازین یک گل زمین، دانسته ای باد خزان بگذر\r\nنمی گفتم حریفم نیستی کاوش مکن با من ؟\r\nبه چندین کشتی از دریای چشمم این زمان بگذر\r\nازین صحرای کنعان کز حسد چاهی است هرگامش\r\nزلیخا گوش برزنگ است زود ای کاروان بگذر\r\nغبار آلوده اشکی، درخمار سرمه بیتابی\r\nبگیر از گوشه چشمم به خاک اصفهان بگذر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا ای محتسب از وادی دردی کشان بگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازین یک گل زمین، دانسته ای باد خزان بگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی گفتم حریفم نیستی کاوش مکن با من ؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به چندین کشتی از دریای چشمم این زمان بگذر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ازین صحرای کنعان کز حسد چاهی است هرگامش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زلیخا گوش برزنگ است زود ای کاروان بگذر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غبار آلوده اشکی، درخمار سرمه بیتابی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بگیر از گوشه چشمم به خاک اصفهان بگذر",
+      "CoupletIndex": 3
+    }
+  ]
+}

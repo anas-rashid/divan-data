@@ -1,0 +1,57 @@
+{
+  "Id": 27006,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۰۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۰۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh400",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh400",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خطت ز پیش چشم سوادم نمی رود\r\nدلسوزی رخ تو ز یادم نمی رود\r\nهر جلوه ای که دیده ام از سروقامتی\r\nچون مصرع بلند ز یادم نمی رود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خطت ز پیش چشم سوادم نمی رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلسوزی رخ تو ز یادم نمی رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جلوه ای که دیده ام از سروقامتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون مصرع بلند ز یادم نمی رود",
+      "CoupletIndex": 1
+    }
+  ]
+}

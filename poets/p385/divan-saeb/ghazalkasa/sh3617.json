@@ -1,0 +1,93 @@
+{
+  "Id": 22690,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۶۱۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۶۱۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3617",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3617",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر سر حرف، گر آن چشم فسون ساز آید\r\nبا نفس سوختگی سرمه به آواز آید\r\nاز غریبی به وطن می روم و می گویم\r\nوقت آن خوش که به غربت ز وطن باز آید\r\nذوق کاوش اگر این است که من یافته ام\r\nسینه کبک به عذر قدم باز آید\r\nساده دل را نبود بند خموشی به زبان\r\nپرده پوشی کی از آیینه غماز آید؟\r\nرگ جانم هدف نشتر الماس شود\r\nناخن ریشی اگر بر جگر ساز آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سر حرف، گر آن چشم فسون ساز آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با نفس سوختگی سرمه به آواز آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غریبی به وطن می روم و می گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وقت آن خوش که به غربت ز وطن باز آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ذوق کاوش اگر این است که من یافته ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سینه کبک به عذر قدم باز آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ساده دل را نبود بند خموشی به زبان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پرده پوشی کی از آیینه غماز آید؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رگ جانم هدف نشتر الماس شود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ناخن ریشی اگر بر جگر ساز آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

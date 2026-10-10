@@ -1,0 +1,81 @@
+{
+  "Id": 34967,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خدا، یار مرا میل خریدارش ده\r\nور بگیرد کم ما، عاشق بسیارش ده\r\nدل ما را هدف غمزهٔ خونخوارش کن\r\nرگ جان را به کف ناز جفاکارش ده\r\nدرد محرومی عاشق نه همین در هجر است\r\nمحرم وصل چو شد، طاقت دیدارش ده\r\nعمرها رفت که دل، کافر بی سامانی ست\r\nاز خم طرّهٔ آن مغبچه، زنّارش ده",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خدا، یار مرا میل خریدارش ده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور بگیرد کم ما، عاشق بسیارش ده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ما را هدف غمزهٔ خونخوارش کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رگ جان را به کف ناز جفاکارش ده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درد محرومی عاشق نه همین در هجر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "محرم وصل چو شد، طاقت دیدارش ده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عمرها رفت که دل، کافر بی سامانی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از خم طرّهٔ آن مغبچه، زنّارش ده",
+      "CoupletIndex": 3
+    }
+  ]
+}

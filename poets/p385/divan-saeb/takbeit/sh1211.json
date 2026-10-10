@@ -1,0 +1,45 @@
+{
+  "Id": 18742,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۱۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۱۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون کمان و تیر، در وحشت سرای روزگار\r\nتا به هم پیوسته‌ایم از هم جدا افتاده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون کمان و تیر، در وحشت سرای روزگار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به هم پیوسته‌ایم از هم جدا افتاده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

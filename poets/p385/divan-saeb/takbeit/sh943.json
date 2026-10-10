@@ -1,0 +1,45 @@
+{
+  "Id": 18474,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۴۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۴۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh943",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh943",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سنگلاخ دنیا، ای شیشه بار بگذر\r\nچون سیل نو بهاران، زین کوهسار بگذر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سنگلاخ دنیا، ای شیشه بار بگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سیل نو بهاران، زین کوهسار بگذر",
+      "CoupletIndex": 0
+    }
+  ]
+}

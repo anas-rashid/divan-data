@@ -1,0 +1,57 @@
+{
+  "Id": 37828,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh314",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh314",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای پای برنجن من ای بند گران\r\nهستم ز تو روزان و شبان جامه دران\r\nگریان گریان در تو بزاری نگران\r\nکاین محنت من نخواهد آمد به کران",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای پای برنجن من ای بند گران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هستم ز تو روزان و شبان جامه دران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریان گریان در تو بزاری نگران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین محنت من نخواهد آمد به کران",
+      "CoupletIndex": 1
+    }
+  ]
+}

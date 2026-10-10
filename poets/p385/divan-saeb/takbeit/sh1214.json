@@ -1,0 +1,45 @@
+{
+  "Id": 18745,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۱۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۱۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1214",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1214",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خمها چو فیل مست سر خود گرفته‌اند\r\nاز بس که درد سر سوی میخانه برده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خمها چو فیل مست سر خود گرفته‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بس که درد سر سوی میخانه برده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

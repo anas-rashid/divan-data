@@ -1,0 +1,105 @@
+{
+  "Id": 21121,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۰۴۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۰۴۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2048",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2048",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغم چو آفتاب سیاهی پذیر نیست\r\nچون صبح چاک سینه من بخیه گیر نیست\r\nاین شکر چون کنیم که پهلوی خشک ما\r\nدر زیر بار منت نقش حصیر نیست\r\nفکر کمین مکن که تماشایی ترا\r\nپای گریز چون هدف از پیش تیر نیست\r\nآیینه ای کجاست که بر کور باطنان\r\nروشن شود که طوطی ما را نظیر نیست\r\nدر چشم ما که واله ابروی مصرعیم\r\nبین السطور هیچ کم از جوی شیر نیست\r\nصائب در آب سیل بشود دست را ز دل\r\nاین خانه شکسته عمارت پذیر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغم چو آفتاب سیاهی پذیر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون صبح چاک سینه من بخیه گیر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این شکر چون کنیم که پهلوی خشک ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در زیر بار منت نقش حصیر نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فکر کمین مکن که تماشایی ترا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پای گریز چون هدف از پیش تیر نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آیینه ای کجاست که بر کور باطنان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "روشن شود که طوطی ما را نظیر نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در چشم ما که واله ابروی مصرعیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بین السطور هیچ کم از جوی شیر نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صائب در آب سیل بشود دست را ز دل",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "این خانه شکسته عمارت پذیر نیست",
+      "CoupletIndex": 5
+    }
+  ]
+}

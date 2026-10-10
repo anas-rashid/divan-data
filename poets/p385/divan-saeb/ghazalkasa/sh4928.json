@@ -1,0 +1,93 @@
+{
+  "Id": 24001,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۹۲۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۹۲۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4928",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4928",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی تابد ز آتش روی، خط عنبر آلودش\r\nچه شمع است این که چون پروانه گردد گرد سردودش\r\nتماشای گل و شبنم گوارا باد بربلبل\r\nکه بوی گل نمی ارزد به روی گریه آلودش\r\nخدا از وعده دور و دراز او نگه دارد!\r\nکه دارد وعده بافردای محشر وعده زودش\r\nجهان پرتیر و شمشیرست و من پیراهنی دارم\r\nکه تارش رشته جان است و جسم ناتوان پودش\r\nسپند شوخ چشمی نذر آتش کرده ام صائب\r\nکه خواهد چشم مجمرروشنایی یافت ازدودش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی تابد ز آتش روی، خط عنبر آلودش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه شمع است این که چون پروانه گردد گرد سردودش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تماشای گل و شبنم گوارا باد بربلبل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بوی گل نمی ارزد به روی گریه آلودش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خدا از وعده دور و دراز او نگه دارد!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که دارد وعده بافردای محشر وعده زودش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جهان پرتیر و شمشیرست و من پیراهنی دارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که تارش رشته جان است و جسم ناتوان پودش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سپند شوخ چشمی نذر آتش کرده ام صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که خواهد چشم مجمرروشنایی یافت ازدودش",
+      "CoupletIndex": 4
+    }
+  ]
+}

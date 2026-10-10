@@ -1,0 +1,45 @@
+{
+  "Id": 17820,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۸۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۸۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh289",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh289",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مَرا از قیدِ مذهب‌ها، بُرون آوَرْد، عشقِ او\r\nکه چون خورشید طالع شد، نهان گردند، کوکب‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مَرا از قیدِ مذهب‌ها، بُرون آوَرْد، عشقِ او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چون خورشید طالع شد، نهان گردند، کوکب‌ها",
+      "CoupletIndex": 0
+    }
+  ]
+}

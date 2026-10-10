@@ -1,0 +1,54 @@
+{
+  "Id": 36604,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۲۴",
+  "FullUrl": "/p393/ghete/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان جدا شد ز تنم لیک به جانان نرسید\r\nآه از درد جدایی که به درمان نرسید\r\nکلمهٔ زلف تو بسیار دراز افتاد است\r\nعمر آخر شد و این قصه به پایان نرسید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان جدا شد ز تنم لیک به جانان نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آه از درد جدایی که به درمان نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کلمهٔ زلف تو بسیار دراز افتاد است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عمر آخر شد و این قصه به پایان نرسید",
+      "CoupletIndex": 1
+    }
+  ]
+}

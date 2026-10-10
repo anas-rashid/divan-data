@@ -1,0 +1,57 @@
+{
+  "Id": 26663,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز جلوه تو حیاتی است خاکساران را\r\nکه خون مرده شمارند آب حیوان را\r\nچو برق بگذر ازین خاکدان که در یک دم\r\nسفال تشنه کند آه گرم، ریحان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز جلوه تو حیاتی است خاکساران را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خون مرده شمارند آب حیوان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو برق بگذر ازین خاکدان که در یک دم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سفال تشنه کند آه گرم، ریحان را",
+      "CoupletIndex": 1
+    }
+  ]
+}

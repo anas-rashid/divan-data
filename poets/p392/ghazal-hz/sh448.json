@@ -1,0 +1,93 @@
+{
+  "Id": 33875,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۴۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۴۸",
+  "FullUrl": "/p392/ghazal-hz/sh448",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh448",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه تاب دوری و نه طاقت دیدار می باشد\r\nبه دل کار محبت زین سبب دشوار می باشد\r\nدلی کو می پرد در حسرت خورشید رخساری\r\nنصیبش شبنم آسا دیدهٔ بیدار می باشد\r\nشد از خط عذارت روشن این معنی که در عالم\r\nبود گر محرمی آیینه را، زنگار می باشد\r\nعزیز من اگر یوسف بود، از خار خار تو\r\nگریبان پاره چون گل بر سر بازار می باشد\r\nحزین از ناله زحمت می دهی تاکی؟ نمی دانی\r\nکه بر نازک مزاجان نکهت گل بار می باشد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه تاب دوری و نه طاقت دیدار می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دل کار محبت زین سبب دشوار می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلی کو می پرد در حسرت خورشید رخساری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نصیبش شبنم آسا دیدهٔ بیدار می باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شد از خط عذارت روشن این معنی که در عالم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بود گر محرمی آیینه را، زنگار می باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عزیز من اگر یوسف بود، از خار خار تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گریبان پاره چون گل بر سر بازار می باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین از ناله زحمت می دهی تاکی؟ نمی دانی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که بر نازک مزاجان نکهت گل بار می باشد؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

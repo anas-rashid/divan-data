@@ -1,0 +1,57 @@
+{
+  "Id": 30877,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۰",
+  "FullUrl": "/p389/robghm/sh620",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh620",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن رند که در مثل ندارد بدلی\r\nدی گفت برای اهل عرفان مثلی\r\nجز بندگی از خداشناسان نسزد\r\nاز علم چه سود اگر نباشد عملی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن رند که در مثل ندارد بدلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دی گفت برای اهل عرفان مثلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز بندگی از خداشناسان نسزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از علم چه سود اگر نباشد عملی",
+      "CoupletIndex": 1
+    }
+  ]
+}

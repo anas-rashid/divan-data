@@ -1,0 +1,57 @@
+{
+  "Id": 29679,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/p388/divan/robaee/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گوهر ز محیط راز می باید داد\r\nاز تحت سوی فراز می باید داد\r\nدولاب شو ارنه چرخ چون برگردد\r\nهرچیز کشیده باز می باید داد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گوهر ز محیط راز می باید داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تحت سوی فراز می باید داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دولاب شو ارنه چرخ چون برگردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچیز کشیده باز می باید داد",
+      "CoupletIndex": 1
+    }
+  ]
+}

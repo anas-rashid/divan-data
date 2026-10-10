@@ -1,0 +1,57 @@
+{
+  "Id": 26743,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh137",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh137",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل بی درد، آزادی بس است\r\nاین همه آزار ما دادی بس است\r\nسرفرازی میوه آزادگی است\r\nسرو خضر راه این وادی بس است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل بی درد، آزادی بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این همه آزار ما دادی بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرفرازی میوه آزادگی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو خضر راه این وادی بس است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 33300,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/p391/divan/robaee/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای حرص ترا رهبر هر در شده است\r\nبی آرامیت بس مکرر شده است\r\nیکدم بنشین که ته نشین گردد درد\r\nاین آب زلال پر مکدر شده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای حرص ترا رهبر هر در شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی آرامیت بس مکرر شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکدم بنشین که ته نشین گردد درد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این آب زلال پر مکدر شده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

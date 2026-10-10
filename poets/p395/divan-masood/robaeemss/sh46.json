@@ -1,0 +1,57 @@
+{
+  "Id": 37560,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر جان منت جان رهی فرمانست\r\nفرمان تو مرا جان مرا درمانست\r\nجز تو هر کس که باشدم یکسانست\r\nجانست و تویی بتا تویی و جانست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر جان منت جان رهی فرمانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرمان تو مرا جان مرا درمانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز تو هر کس که باشدم یکسانست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانست و تویی بتا تویی و جانست",
+      "CoupletIndex": 1
+    }
+  ]
+}

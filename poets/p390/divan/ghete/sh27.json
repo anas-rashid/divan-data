@@ -1,0 +1,57 @@
+{
+  "Id": 31965,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۲۷ - در هجو شخصی",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۲۷ - در هجو شخصی",
+  "FullUrl": "/p390/divan/ghete/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواجه بشنو حدیث راست ز من\r\nهست مستوره ای ترا به حرم\r\nکه به هرکس رسد، ازو گیرد\r\nهمچو آیینه نطفه ای به شکم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواجه بشنو حدیث راست ز من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هست مستوره ای ترا به حرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که به هرکس رسد، ازو گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو آیینه نطفه ای به شکم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37902,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۸۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۸۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh388",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh388",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاه جهان ز ملک باقی شادی\r\nزیرا که برای ملک باقی زادی\r\nسلطانی را جمال باقی دادی\r\nسلطان سلاطینی باقی بادی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه جهان ز ملک باقی شادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیرا که برای ملک باقی زادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سلطانی را جمال باقی دادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سلطان سلاطینی باقی بادی",
+      "CoupletIndex": 1
+    }
+  ]
+}

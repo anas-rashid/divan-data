@@ -1,0 +1,81 @@
+{
+  "Id": 26850,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh244",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh244",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با دلم آتش نگاهی دستبازی می کند\r\nبرق با عاجز گیاهی دستبازی می کند\r\nشکوه گل را به دیوان مروت می بریم\r\nسخت با طرف کلاهی دستبازی می کند\r\nدر میان قمریان چون طوق بر گردن نهم؟\r\nسرو من با هر گیاهی دستبازی می کند\r\nپیچ و تاب رشته جانم گذشت از حد، مگر\r\nبا عنانش دادخواهی دستبازی می کند؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با دلم آتش نگاهی دستبازی می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برق با عاجز گیاهی دستبازی می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکوه گل را به دیوان مروت می بریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سخت با طرف کلاهی دستبازی می کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در میان قمریان چون طوق بر گردن نهم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سرو من با هر گیاهی دستبازی می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پیچ و تاب رشته جانم گذشت از حد، مگر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با عنانش دادخواهی دستبازی می کند؟",
+      "CoupletIndex": 3
+    }
+  ]
+}

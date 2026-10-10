@@ -1,0 +1,42 @@
+{
+  "Id": 26195,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh107",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh107",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاصل دنیا وَبال جان فارغبال توست\r\nهر چه در کشتی شکستن با تو ماند آن مال توست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاصل دنیا وَبال جان فارغبال توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه در کشتی شکستن با تو ماند آن مال توست",
+      "CoupletIndex": 0
+    }
+  ]
+}

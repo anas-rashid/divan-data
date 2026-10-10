@@ -1,0 +1,69 @@
+{
+  "Id": 26870,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خیال زلف او در دیده خونبار می زیبد\r\nخرام موج در دامان دریا بار می زیبد\r\nز پیش چشم دل بردن، به زیر چشم دل دادن\r\nبه خال گوشه چشم تو ای پرکار می زیبد\r\nبه کار گل نبندد اهل دل را هیچ کس زاهد\r\nترا تسبیح بر گردن، مرا زنار می زیبد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خیال زلف او در دیده خونبار می زیبد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرام موج در دامان دریا بار می زیبد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز پیش چشم دل بردن، به زیر چشم دل دادن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خال گوشه چشم تو ای پرکار می زیبد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به کار گل نبندد اهل دل را هیچ کس زاهد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ترا تسبیح بر گردن، مرا زنار می زیبد",
+      "CoupletIndex": 2
+    }
+  ]
+}

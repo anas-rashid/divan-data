@@ -1,0 +1,57 @@
+{
+  "Id": 30702,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۴۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۴۵",
+  "FullUrl": "/p389/robghm/sh445",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh445",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیدا بود از اشک فروهشته شمع\r\nکز تخم شرر چه بر دهد کشته شمع\r\nآویخته شد بر سر بازار ز دار\r\nشد پنبه حلاج مگر رشته شمع",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیدا بود از اشک فروهشته شمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز تخم شرر چه بر دهد کشته شمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آویخته شد بر سر بازار ز دار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد پنبه حلاج مگر رشته شمع",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 27357,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۲۱",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو داغ لاله مرا در حدیقه هستی\r\nبه پاره دل و لخت جگر مدار گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو داغ لاله مرا در حدیقه هستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به پاره دل و لخت جگر مدار گذشت",
+      "CoupletIndex": 0
+    }
+  ]
+}

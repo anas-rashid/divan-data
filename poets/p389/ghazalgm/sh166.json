@@ -1,0 +1,93 @@
+{
+  "Id": 29914,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۶۶",
+  "FullUrl": "/p389/ghazalgm/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل داشت ز بخت سیه امید، غلط کرد\r\nگل خواست به دامن کند از بید، غلط کرد\r\nبا آمدنت، رفتن شب، دوش یکی بود\r\nگویا که ترا صبح به خورشید غلط کرد\r\nخوش در پی ناکامی‌ام افتاده، مگر بخت\r\nحرمان مرا باز به امید غلط کرد؟\r\nآهنگ محبت نبود ساز فلک را\r\nکو ناله ناقوس، که ناهید غلط کرد\r\nاز تیرگی بخت دمادم دل قدسی\r\nخود را به غم از حسرت جاوید غلط کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل داشت ز بخت سیه امید، غلط کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل خواست به دامن کند از بید، غلط کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با آمدنت، رفتن شب، دوش یکی بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویا که ترا صبح به خورشید غلط کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوش در پی ناکامی‌ام افتاده، مگر بخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حرمان مرا باز به امید غلط کرد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آهنگ محبت نبود ساز فلک را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کو ناله ناقوس، که ناهید غلط کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از تیرگی بخت دمادم دل قدسی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خود را به غم از حسرت جاوید غلط کرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

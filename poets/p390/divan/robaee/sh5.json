@@ -1,0 +1,57 @@
+{
+  "Id": 32003,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/p390/divan/robaee/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می آیی و مطلب دل این بود، بیا\r\nنزدیک شدی و شوق افزود، بیا\r\nاز روزن دیده، چشم دل بر راه است\r\nای روشنی دیده و دل، زود بیا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می آیی و مطلب دل این بود، بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نزدیک شدی و شوق افزود، بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از روزن دیده، چشم دل بر راه است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای روشنی دیده و دل، زود بیا",
+      "CoupletIndex": 1
+    }
+  ]
+}

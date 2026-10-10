@@ -1,0 +1,45 @@
+{
+  "Id": 18869,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۳۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۳۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1338",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1338",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرمه را هم محرم چشم سیاه خود مکن\r\nگر توانی، آشنایی با نگاه خود مکن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمه را هم محرم چشم سیاه خود مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر توانی، آشنایی با نگاه خود مکن",
+      "CoupletIndex": 0
+    }
+  ]
+}

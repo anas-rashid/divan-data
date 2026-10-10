@@ -1,0 +1,42 @@
+{
+  "Id": 26368,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۸۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۸۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh280",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh280",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی تائمل به مقامی دل غافل نرسد\r\nهر که نشمرده نهد گام به منزل نرسد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تائمل به مقامی دل غافل نرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر که نشمرده نهد گام به منزل نرسد",
+      "CoupletIndex": 0
+    }
+  ]
+}

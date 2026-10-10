@@ -1,0 +1,42 @@
+{
+  "Id": 26238,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۵۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پلنگ اگر چه ز خشم آتش فروخته ای است\r\nنظر به گرمی خویت ستاره سوخته ای است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پلنگ اگر چه ز خشم آتش فروخته ای است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظر به گرمی خویت ستاره سوخته ای است",
+      "CoupletIndex": 0
+    }
+  ]
+}

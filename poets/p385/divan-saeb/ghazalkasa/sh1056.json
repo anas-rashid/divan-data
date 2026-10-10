@@ -1,0 +1,93 @@
+{
+  "Id": 20129,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۰۵۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۰۵۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1056",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1056",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مجلس امشب از فروغ لاله رویان روشن است\r\nبی خبر هر سو که می غلطد نگاهم گلشن است\r\nتیره روزان یکدگر را خوب پیدا می کنند\r\nسرمه او گوشه چشمی که دارد با من است\r\nتا به چندی ای آفتاب حسن مستوری کنی؟\r\nچشم ما حیرت نگاهان کم ز چشم روزن است؟\r\nای صبای بی مروت برق تازی واگذار\r\nروح بیمار زلیخا همره پیراهن است\r\nصائب احوال مقام دل چه می پرسی ز من؟\r\nخانه حسرت نصیبان محبت گلخن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مجلس امشب از فروغ لاله رویان روشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی خبر هر سو که می غلطد نگاهم گلشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیره روزان یکدگر را خوب پیدا می کنند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرمه او گوشه چشمی که دارد با من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا به چندی ای آفتاب حسن مستوری کنی؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم ما حیرت نگاهان کم ز چشم روزن است؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای صبای بی مروت برق تازی واگذار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "روح بیمار زلیخا همره پیراهن است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب احوال مقام دل چه می پرسی ز من؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خانه حسرت نصیبان محبت گلخن است",
+      "CoupletIndex": 4
+    }
+  ]
+}

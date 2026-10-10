@@ -1,0 +1,93 @@
+{
+  "Id": 32930,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۳۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۳۸",
+  "FullUrl": "/p391/divan/ghazal/sh838",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh838",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دشت را از جلوه اش رشک گلستان دیده ام\r\nگل به دامان هوا از گرد جولان دیده ام\r\nداشت امشب یاد گرمیهایش دل را در میان\r\nتا سحر پروانه ای را در چراغان دیده ام\r\nگشت در پیری بهار خاطرم یاد کسی\r\nفیض شام وصل را در صبح هجران دیده ام\r\nبر کنار جوی چاک دل به رنگ نخل آه\r\nسرو یاد قامت او را خرامان دیده ام\r\nباز دل را در غم هجران گل پیراهنی\r\nغنچه آسا تکمهٔ چاک گریبان دیده ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دشت را از جلوه اش رشک گلستان دیده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل به دامان هوا از گرد جولان دیده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داشت امشب یاد گرمیهایش دل را در میان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سحر پروانه ای را در چراغان دیده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گشت در پیری بهار خاطرم یاد کسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فیض شام وصل را در صبح هجران دیده ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر کنار جوی چاک دل به رنگ نخل آه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سرو یاد قامت او را خرامان دیده ام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "باز دل را در غم هجران گل پیراهنی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غنچه آسا تکمهٔ چاک گریبان دیده ام",
+      "CoupletIndex": 4
+    }
+  ]
+}

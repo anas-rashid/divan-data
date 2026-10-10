@@ -1,0 +1,57 @@
+{
+  "Id": 34583,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۸",
+  "FullUrl": "/p392/robaee-hz/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعیت خویش را پریشان کردم\r\nدل، بر سر جسم تیره ویران کردم\r\nاز کعبه تمام عمر دزدیدم خشت\r\nتعمیر کلیسیای گبران کردم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعیت خویش را پریشان کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل، بر سر جسم تیره ویران کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کعبه تمام عمر دزدیدم خشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تعمیر کلیسیای گبران کردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

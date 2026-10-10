@@ -1,0 +1,57 @@
+{
+  "Id": 32476,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۴",
+  "FullUrl": "/p391/divan/ghazal/sh384",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh384",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همچو گلبن غرق خون شد سرو آهم بی‌رخت\r\nچون رگ بسمل تپد تار نگاهم بی‌رخت\r\nمی‌چکد خونم ز دل چون می‌روم از خویشتن\r\nمی‌توان چیدن گل حسرت ز آهم بی‌رخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همچو گلبن غرق خون شد سرو آهم بی‌رخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون رگ بسمل تپد تار نگاهم بی‌رخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌چکد خونم ز دل چون می‌روم از خویشتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌توان چیدن گل حسرت ز آهم بی‌رخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

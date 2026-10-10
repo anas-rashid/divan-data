@@ -1,0 +1,93 @@
+{
+  "Id": 29876,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/p389/ghazalgm/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شیشه نه می در دل مخمور فرو ریخت\r\nانوار تجلی‌ست که بر طور فرو ریخت\r\nگلچین چمن دامن گل را ز خجالت\r\nچون دید گل روی تو از دور، فرو ریخت\r\nدر باغ جهان آبله‌های کف دهقان\r\nچون قطره می از دل انگور فرو ریخت\r\nصافش همه در شیشه ما کرد محبت\r\nآن دُرد که در ساغر منصور فرو ریخت\r\nچون لاله بود داغ دل و دامن صحرا\r\nاشکی که ز چشم من محرور فرو ریخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شیشه نه می در دل مخمور فرو ریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انوار تجلی‌ست که بر طور فرو ریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گلچین چمن دامن گل را ز خجالت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون دید گل روی تو از دور، فرو ریخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در باغ جهان آبله‌های کف دهقان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون قطره می از دل انگور فرو ریخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صافش همه در شیشه ما کرد محبت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن دُرد که در ساغر منصور فرو ریخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون لاله بود داغ دل و دامن صحرا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اشکی که ز چشم من محرور فرو ریخت",
+      "CoupletIndex": 4
+    }
+  ]
+}

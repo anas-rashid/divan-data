@@ -1,0 +1,45 @@
+{
+  "Id": 26884,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز فکر قامتی در دل خرامان شعله ای دارم\r\nکه استغنا به صد شمع تجلی می توانم زد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز فکر قامتی در دل خرامان شعله ای دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که استغنا به صد شمع تجلی می توانم زد",
+      "CoupletIndex": 0
+    }
+  ]
+}

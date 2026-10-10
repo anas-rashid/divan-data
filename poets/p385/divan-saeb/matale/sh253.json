@@ -1,0 +1,42 @@
+{
+  "Id": 26341,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۵۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۵۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh253",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh253",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنگ شراب دارد یاقوت درفشانت\r\nبوی امیدواری می آید از دهانت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگ شراب دارد یاقوت درفشانت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی امیدواری می آید از دهانت",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34898,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۳۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۳۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh239",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh239",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک ره درآ به دیده و مستی بهانه ساز\r\nوین اشک لاله رنگ، شراب شبانه ساز\r\nمژگان ز فرقت تو به هم آشنا نشد\r\nیکبار هم در این خس و خار آشیانه ساز",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک ره درآ به دیده و مستی بهانه ساز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین اشک لاله رنگ، شراب شبانه ساز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مژگان ز فرقت تو به هم آشنا نشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکبار هم در این خس و خار آشیانه ساز",
+      "CoupletIndex": 1
+    }
+  ]
+}

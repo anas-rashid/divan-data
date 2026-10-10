@@ -1,0 +1,117 @@
+{
+  "Id": 29845,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۹۷",
+  "FullUrl": "/p389/ghazalgm/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بازآی که سینه‌ام کباب است\r\nبی روی تو حال دل خراب است\r\nدلگرمی من ز دیدن توست\r\nاین آینه رو بر آفتاب است\r\nهر گوشه چشم فتنه‌بارت\r\nطوفان کرشمه و عتاب است\r\nمینای دلم پی شکستن\r\nهم‌بیعت شیشه حباب است\r\nهرگز دلم از تپش نیاسود\r\nسیماب طلسم اضطراب است\r\nپیداست ز شام طره تو\r\nصبحی که سراسر آفتاب است\r\nاز پرده چشم من ز مردم\r\nتا نقش پی تو در نقاب است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بازآی که سینه‌ام کباب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی روی تو حال دل خراب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلگرمی من ز دیدن توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این آینه رو بر آفتاب است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر گوشه چشم فتنه‌بارت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طوفان کرشمه و عتاب است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مینای دلم پی شکستن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هم‌بیعت شیشه حباب است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرگز دلم از تپش نیاسود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سیماب طلسم اضطراب است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پیداست ز شام طره تو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "صبحی که سراسر آفتاب است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از پرده چشم من ز مردم",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا نقش پی تو در نقاب است",
+      "CoupletIndex": 6
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26931,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۲۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh325",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh325",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشک ما آتش حل کرده به دامن دارد\r\nدانه سوختگان برق به خرمن دارد\r\nبا کلاه نمد خویش بسازید که شمع\r\nتاج بر طرف سر و اشک به دامن دارد\r\nآن به سرچشمه مقصود تواند ره برد\r\nکه دلی تنگ تر از چشمه سوزن دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشک ما آتش حل کرده به دامن دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانه سوختگان برق به خرمن دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با کلاه نمد خویش بسازید که شمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاج بر طرف سر و اشک به دامن دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن به سرچشمه مقصود تواند ره برد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که دلی تنگ تر از چشمه سوزن دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

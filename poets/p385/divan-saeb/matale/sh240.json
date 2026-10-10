@@ -1,0 +1,42 @@
+{
+  "Id": 26328,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۴۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۴۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh240",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh240",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمر عزیز قابل سوز و گداز نیست\r\nاین رشته را مسوز که چندان دراز نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر عزیز قابل سوز و گداز نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این رشته را مسوز که چندان دراز نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

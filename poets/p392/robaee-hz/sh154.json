@@ -1,0 +1,57 @@
+{
+  "Id": 34549,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۵۴",
+  "FullUrl": "/p392/robaee-hz/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دستخوش هزار سودا هشدار\r\nای غافل از اندیشهٔ عقبا هشدار\r\nآسوده نشسته ای که جانی داری\r\nتیغ اجل است در تقاضا، هشدار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دستخوش هزار سودا هشدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای غافل از اندیشهٔ عقبا هشدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آسوده نشسته ای که جانی داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغ اجل است در تقاضا، هشدار",
+      "CoupletIndex": 1
+    }
+  ]
+}

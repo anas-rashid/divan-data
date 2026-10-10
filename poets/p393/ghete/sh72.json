@@ -1,0 +1,54 @@
+{
+  "Id": 36552,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۲",
+  "FullUrl": "/p393/ghete/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک خانه ز بیداد تو آباد نمانده است\r\nبس کن که دگر هیچ ز بیداد نمانده است\r\nگیرم که به فریاد ازو داد ستانم\r\nلیکن چه کنم طافت فریاد نمانده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک خانه ز بیداد تو آباد نمانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس کن که دگر هیچ ز بیداد نمانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیرم که به فریاد ازو داد ستانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیکن چه کنم طافت فریاد نمانده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

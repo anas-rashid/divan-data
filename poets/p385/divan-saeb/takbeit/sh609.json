@@ -1,0 +1,45 @@
+{
+  "Id": 18140,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۰۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۰۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh609",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh609",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه از روی بصیرت سایه بال هما افتد\r\nسیه مست است دولت، تا کجا خیزد، کجا افتد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه از روی بصیرت سایه بال هما افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیه مست است دولت، تا کجا خیزد، کجا افتد",
+      "CoupletIndex": 0
+    }
+  ]
+}

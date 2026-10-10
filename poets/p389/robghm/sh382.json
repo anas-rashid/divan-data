@@ -1,0 +1,57 @@
+{
+  "Id": 30639,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۸۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۸۲",
+  "FullUrl": "/p389/robghm/sh382",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh382",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اصل، ز فرع، فکر دوری‌ست فرار\r\nگیرم که ز اصل خویش باشد بیزار\r\nموج از دریا گریختن نتواند\r\nهرچند که دست و پا زند بهر کنار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اصل، ز فرع، فکر دوری‌ست فرار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گیرم که ز اصل خویش باشد بیزار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موج از دریا گریختن نتواند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند که دست و پا زند بهر کنار",
+      "CoupletIndex": 1
+    }
+  ]
+}

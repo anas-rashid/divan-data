@@ -1,0 +1,93 @@
+{
+  "Id": 20205,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۱۳۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۱۳۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که عاشق نیست خون در پیکرش افسرده ست\r\nگفتگو با زاهدان تلقین خون مرده است\r\nپشت سر بسیار خواهد دید عمر خضر را\r\nاز دم تیغ شهادت هر که آبی خورده است\r\nدر غم عاشق بود هر چند بی پرواست حسن\r\nفکر بلبل غنچه را سر در گریبان برده است\r\nبوی خون می آید امروز از لب میگون یار\r\nتا به یاد او که دندان بر جگر افشرده است؟\r\nدر غریبی وا شود صائب دل ارباب درد\r\nغنچه ما تا بود در بوستان پژمرده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که عاشق نیست خون در پیکرش افسرده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتگو با زاهدان تلقین خون مرده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پشت سر بسیار خواهد دید عمر خضر را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دم تیغ شهادت هر که آبی خورده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در غم عاشق بود هر چند بی پرواست حسن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فکر بلبل غنچه را سر در گریبان برده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بوی خون می آید امروز از لب میگون یار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا به یاد او که دندان بر جگر افشرده است؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در غریبی وا شود صائب دل ارباب درد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غنچه ما تا بود در بوستان پژمرده است",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 29735,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/p388/divan/robaee/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ذوق آمده رخت خوش دلی بر در نه\r\nبنما در ناب و داغ بر کوثر نه\r\nزان خنده شیرین و لب گلناری\r\nلخت جگری بخای و بر اخگر نه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ذوق آمده رخت خوش دلی بر در نه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنما در ناب و داغ بر کوثر نه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان خنده شیرین و لب گلناری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لخت جگری بخای و بر اخگر نه",
+      "CoupletIndex": 1
+    }
+  ]
+}

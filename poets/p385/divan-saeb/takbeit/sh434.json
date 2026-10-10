@@ -1,0 +1,45 @@
+{
+  "Id": 17965,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۳۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۳۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh434",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh434",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از باده خشک لب شدن و مردنم یکی است\r\nتا شیشه‌ام تهی شده، پیمانه پر شده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از باده خشک لب شدن و مردنم یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا شیشه‌ام تهی شده، پیمانه پر شده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

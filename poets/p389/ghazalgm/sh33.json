@@ -1,0 +1,81 @@
+{
+  "Id": 29781,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۳",
+  "FullUrl": "/p389/ghazalgm/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لب شود ریش ار برد نام دل افگار ما\r\nآستین سوزد اگر چیند نم از رخسار ما\r\nسبحه بر کف، توبه بر لب، دل پر از ذوق گناه\r\nمعصیت را خنده می‌آید ز استغفار ما\r\nنشکفد در سینه دل بی زخم تیغ غمزه‌ای\r\nتا نگردد خون نخندد غنچه گلزار ما\r\nخویش را قدسی بر آتش نه بسوزان تا به کی\r\nننگ دین و کفر گردد سبحه و زنار ما؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لب شود ریش ار برد نام دل افگار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آستین سوزد اگر چیند نم از رخسار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سبحه بر کف، توبه بر لب، دل پر از ذوق گناه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معصیت را خنده می‌آید ز استغفار ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نشکفد در سینه دل بی زخم تیغ غمزه‌ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا نگردد خون نخندد غنچه گلزار ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خویش را قدسی بر آتش نه بسوزان تا به کی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ننگ دین و کفر گردد سبحه و زنار ما؟",
+      "CoupletIndex": 3
+    }
+  ]
+}

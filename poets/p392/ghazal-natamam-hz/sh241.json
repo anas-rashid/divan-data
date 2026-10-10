@@ -1,0 +1,57 @@
+{
+  "Id": 34900,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۴۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh241",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh241",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون گر نخورد زان لب میگون، چه کند کس؟\r\nمژگان تر و لب تشنه و دل خون، چه کند کس؟\r\nاز دست برون رفته عنان داری اشکم\r\nطوفان بهار است، به جیحون چه کند کس؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون گر نخورد زان لب میگون، چه کند کس؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگان تر و لب تشنه و دل خون، چه کند کس؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست برون رفته عنان داری اشکم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طوفان بهار است، به جیحون چه کند کس؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

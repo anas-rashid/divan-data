@@ -1,0 +1,57 @@
+{
+  "Id": 26681,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل به دام زلف آن مشکین کمند افتاده است\r\nمرغ بی بال و پری در کوچه بند افتاده است\r\nدر حریم خاکساری سرکشی را بار نیست\r\nشعله این بزم در پای سپند افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل به دام زلف آن مشکین کمند افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ بی بال و پری در کوچه بند افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حریم خاکساری سرکشی را بار نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شعله این بزم در پای سپند افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

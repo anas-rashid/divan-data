@@ -1,0 +1,93 @@
+{
+  "Id": 31574,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۰۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۷",
+  "FullUrl": "/p390/divan/ghazal/sh607",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh607",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو گل به آب روان شد، چو می به تاب آمد\r\nچو اشک رفت ز چشم من و چو خواب آمد\r\nچه احتیاج به قاصد نیازمند ترا\r\nکه از صریر قلم، نامه را جواب آمد\r\nخیال می کنی از بس فریب و پرکاری\r\nهزار بار به دنیا چو آفتاب آمد\r\nز بس که خورده دل من فریب تشنه لبی\r\nز موج شعله به گوشم صدای آب آمد\r\nسلیم می برم امشب به پای خم شمعی\r\nکه پیر دیر، شب رفته ام به خواب آمد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو گل به آب روان شد، چو می به تاب آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو اشک رفت ز چشم من و چو خواب آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه احتیاج به قاصد نیازمند ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از صریر قلم، نامه را جواب آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خیال می کنی از بس فریب و پرکاری",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هزار بار به دنیا چو آفتاب آمد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز بس که خورده دل من فریب تشنه لبی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز موج شعله به گوشم صدای آب آمد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم می برم امشب به پای خم شمعی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که پیر دیر، شب رفته ام به خواب آمد",
+      "CoupletIndex": 4
+    }
+  ]
+}

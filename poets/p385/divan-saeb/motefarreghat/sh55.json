@@ -1,0 +1,57 @@
+{
+  "Id": 26661,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی کشد دل غمگین به صبحگاه مرا\r\nکه دل ز چهره خندان شود سیاه مرا\r\nز هرزه خندی گل پاکشیدم از گلزار\r\nدر گشاده نهد چوب پیش راه مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی کشد دل غمگین به صبحگاه مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دل ز چهره خندان شود سیاه مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز هرزه خندی گل پاکشیدم از گلزار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گشاده نهد چوب پیش راه مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

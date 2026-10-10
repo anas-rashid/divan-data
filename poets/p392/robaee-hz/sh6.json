@@ -1,0 +1,57 @@
+{
+  "Id": 34401,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/p392/robaee-hz/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مطرب عاشقان نوای تو کجاست؟\r\nای ساقی جان آب بقای توکجاست؟\r\nگیرم دل ما از نظر افتادهٔ توست\r\nگیرایی مژگان رسای تو کجاست؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مطرب عاشقان نوای تو کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای ساقی جان آب بقای توکجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیرم دل ما از نظر افتادهٔ توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیرایی مژگان رسای تو کجاست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28878,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/p387/divan/robaee/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جا کرده اگر شاخ گلی در دل من\r\nتنگ آمده است از دل بیحاصل من\r\nخاک که شدم که او سر از من نکشید\r\nاز خاک چمن سرشته گوئی گل من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جا کرده اگر شاخ گلی در دل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنگ آمده است از دل بیحاصل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاک که شدم که او سر از من نکشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خاک چمن سرشته گوئی گل من",
+      "CoupletIndex": 1
+    }
+  ]
+}

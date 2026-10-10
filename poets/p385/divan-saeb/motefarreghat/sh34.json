@@ -1,0 +1,81 @@
+{
+  "Id": 26640,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قانع به جرعه نیست لب میگسار ما\r\nمیخانه را به آب رساند خمار ما\r\nای جلوه نسیم ترحم چه کوتهی است\r\nدر غنچه زنگ بست گل اعتبار ما\r\nاز نخل موم صد گل رنگین شکفت و ریخت\r\nیک برگ سبز سر نزد از شاخسار ما\r\nامشب که آمده است به کف سیب آن ذقن\r\nخالی است جای شیشه می در کنار ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قانع به جرعه نیست لب میگسار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میخانه را به آب رساند خمار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای جلوه نسیم ترحم چه کوتهی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در غنچه زنگ بست گل اعتبار ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از نخل موم صد گل رنگین شکفت و ریخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک برگ سبز سر نزد از شاخسار ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "امشب که آمده است به کف سیب آن ذقن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خالی است جای شیشه می در کنار ما",
+      "CoupletIndex": 3
+    }
+  ]
+}

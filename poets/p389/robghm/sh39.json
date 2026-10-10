@@ -1,0 +1,57 @@
+{
+  "Id": 30296,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۹",
+  "FullUrl": "/p389/robghm/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون ساخته شد کار جهان را اسباب\r\nبرداشتن چیزی ازان بود صواب\r\nاز جمله برداشتنی‌ها، اول\r\nبرداشته شد ز پیش چشم تو حجاب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون ساخته شد کار جهان را اسباب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برداشتن چیزی ازان بود صواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جمله برداشتنی‌ها، اول",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برداشته شد ز پیش چشم تو حجاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

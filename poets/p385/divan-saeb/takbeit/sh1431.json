@@ -1,0 +1,45 @@
+{
+  "Id": 18962,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۳۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۳۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1431",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1431",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خصم درونی از برون، بارست بر دل بیشتر\r\nبا دشمنان کن آشتی، با خویشتن در جنگ شو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خصم درونی از برون، بارست بر دل بیشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دشمنان کن آشتی، با خویشتن در جنگ شو",
+      "CoupletIndex": 0
+    }
+  ]
+}

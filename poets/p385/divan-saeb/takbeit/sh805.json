@@ -1,0 +1,45 @@
+{
+  "Id": 18336,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۰۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۰۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh805",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh805",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خانه بر دوشان مشرب از غریبی فارغند\r\nچون کمان در خانهٔ خویشند هر جا می‌روند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خانه بر دوشان مشرب از غریبی فارغند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون کمان در خانهٔ خویشند هر جا می‌روند",
+      "CoupletIndex": 0
+    }
+  ]
+}

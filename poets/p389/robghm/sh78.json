@@ -1,0 +1,57 @@
+{
+  "Id": 30335,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/p389/robghm/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این پرده به روی دیده‌ام درد نبست\r\nوین خار به چشمم مژه تر نشکست\r\nبی روی تو از بس که غبارآلودست\r\nتیر نگهم به دیده در خاک نشست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این پرده به روی دیده‌ام درد نبست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین خار به چشمم مژه تر نشکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی روی تو از بس که غبارآلودست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیر نگهم به دیده در خاک نشست",
+      "CoupletIndex": 1
+    }
+  ]
+}

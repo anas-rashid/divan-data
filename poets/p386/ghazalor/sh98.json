@@ -1,0 +1,93 @@
+{
+  "Id": 27506,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۹۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۹۸",
+  "FullUrl": "/p386/ghazalor/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش می تپم به خون دل و به تیرم چنین زده است\r\nباز این چه ناوک است که از عشق، از کمین زده است\r\nمشکل که مرگ روی به میدان ما نهد\r\nاز بس که فتنه به یسار و یمین زده است\r\nنیشی است زهر داده ی معشوق کاوکاو\r\nمهری که عشق بر لب جان حزین زده است\r\nناقوس عشق می زنم و رقص می کنم\r\nبوی کدام مغبچه بر مغز دین زده است\r\nعرفی نماند هیچ به درویشی اش سری\r\nاز بس که باده با من خلوت نشین زده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش می تپم به خون دل و به تیرم چنین زده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز این چه ناوک است که از عشق، از کمین زده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشکل که مرگ روی به میدان ما نهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که فتنه به یسار و یمین زده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیشی است زهر داده ی معشوق کاوکاو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مهری که عشق بر لب جان حزین زده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ناقوس عشق می زنم و رقص می کنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بوی کدام مغبچه بر مغز دین زده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی نماند هیچ به درویشی اش سری",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از بس که باده با من خلوت نشین زده است",
+      "CoupletIndex": 4
+    }
+  ]
+}

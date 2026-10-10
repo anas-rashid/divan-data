@@ -1,0 +1,69 @@
+{
+  "Id": 26835,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۲۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۲۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh229",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh229",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز آب تیغ او هر بیجگر سربرنمی آرد\r\nز سر تا نگذرد غواص، گوهر برنمی آرد\r\nمگردان صرف در تن پروری عمر گرامی را\r\nکه عیسی را به گردون از زمین خر برنمی آرد\r\nترا چشم قیامت بین ندارد روشنی، ورنه\r\nکدامین صبح سر از جیب محشر برنمی آرد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آب تیغ او هر بیجگر سربرنمی آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز سر تا نگذرد غواص، گوهر برنمی آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگردان صرف در تن پروری عمر گرامی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که عیسی را به گردون از زمین خر برنمی آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ترا چشم قیامت بین ندارد روشنی، ورنه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کدامین صبح سر از جیب محشر برنمی آرد؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

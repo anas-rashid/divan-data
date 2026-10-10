@@ -1,0 +1,66 @@
+{
+  "Id": 36404,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۳",
+  "FullUrl": "/p393/natmam/sh253",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh253",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "احوال خود بتان به شما عرض می‌کنم\r\nرحمی وگرنه پیش خدا عرض می‌کنم\r\nاظهار عیب گر به تو گفتم ز کینه نیست\r\nآیینه‌ام ز روی صفا عرض می‌کنم\r\nبر پای خود نگار ز خون دلم ببند\r\nدارم به دست مشت حنا عرض می‌کنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "احوال خود بتان به شما عرض می‌کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رحمی وگرنه پیش خدا عرض می‌کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اظهار عیب گر به تو گفتم ز کینه نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه‌ام ز روی صفا عرض می‌کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر پای خود نگار ز خون دلم ببند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دارم به دست مشت حنا عرض می‌کنم",
+      "CoupletIndex": 2
+    }
+  ]
+}

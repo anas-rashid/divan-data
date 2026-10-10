@@ -1,0 +1,57 @@
+{
+  "Id": 27241,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۳۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۳۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh635",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh635",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش است چاشنی سود در زیان دیدن\r\nرخ بهار در آیینه خزان دیدن\r\nچه خوب کرد که بلبل خزان ز گلشن رفت\r\nشکسته رنگی گل را نمی توان دیدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش است چاشنی سود در زیان دیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخ بهار در آیینه خزان دیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه خوب کرد که بلبل خزان ز گلشن رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکسته رنگی گل را نمی توان دیدن",
+      "CoupletIndex": 1
+    }
+  ]
+}

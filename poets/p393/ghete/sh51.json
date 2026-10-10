@@ -1,0 +1,54 @@
+{
+  "Id": 36531,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۵۱",
+  "FullUrl": "/p393/ghete/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوبهار آمد به گلشن راه پیداکردنی است\r\nخندهٔ گل گریهٔ بلبل تماشاکردنی است\r\nکوه‌کندن گرچه کار سخت و سنگین است لیک\r\nگر شود شیرین ادای کارفرما کردنی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوبهار آمد به گلشن راه پیداکردنی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خندهٔ گل گریهٔ بلبل تماشاکردنی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوه‌کندن گرچه کار سخت و سنگین است لیک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر شود شیرین ادای کارفرما کردنی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

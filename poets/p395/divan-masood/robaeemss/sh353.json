@@ -1,0 +1,57 @@
+{
+  "Id": 37867,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۵۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۵۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh353",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh353",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چندان داری ز حسن و خوبی مایه\r\nکز حور بهشت برتری صد پایه\r\nپیرایه چرا بنددت ای مه دایه\r\nنورست مه دو هفته را پیرایه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندان داری ز حسن و خوبی مایه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز حور بهشت برتری صد پایه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیرایه چرا بنددت ای مه دایه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نورست مه دو هفته را پیرایه",
+      "CoupletIndex": 1
+    }
+  ]
+}

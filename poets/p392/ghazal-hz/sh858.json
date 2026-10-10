@@ -1,0 +1,93 @@
+{
+  "Id": 34285,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸۵۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸۵۸",
+  "FullUrl": "/p392/ghazal-hz/sh858",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh858",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دوشینه دلم داشت به یاد تو سرودی\r\nکز دیدهٔ مرغان حرم خواب ربودی\r\nهر چشم زدن، دیدهٔ دریا نسبم را\r\nغمهای تو از گریه سبکبار نمودی\r\nغافل ز تو یک دم دل مشتاق نگردد\r\nاذ لیس سوی وجهک فی عین شهودی\r\nوقت است که خورشید رخت جلوه گر آید\r\nقد قام من لبین، ظلامات وجودی\r\nبار غم کونین، حزین افکند از دوش\r\nدر پای خم باده، کند هر که سجودی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوشینه دلم داشت به یاد تو سرودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دیدهٔ مرغان حرم خواب ربودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چشم زدن، دیدهٔ دریا نسبم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غمهای تو از گریه سبکبار نمودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غافل ز تو یک دم دل مشتاق نگردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اذ لیس سوی وجهک فی عین شهودی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وقت است که خورشید رخت جلوه گر آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "قد قام من لبین، ظلامات وجودی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بار غم کونین، حزین افکند از دوش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در پای خم باده، کند هر که سجودی",
+      "CoupletIndex": 4
+    }
+  ]
+}

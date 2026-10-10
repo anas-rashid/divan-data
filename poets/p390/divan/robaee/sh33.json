@@ -1,0 +1,57 @@
+{
+  "Id": 32031,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/p390/divan/robaee/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعند در انجمن چو ارباب عناد\r\nخیزد ز نفس درازی خامه فساد\r\nاز پنج فزون گشت چو ابیات غزل\r\nبر پنجه ی او بود چو انگشت زیاد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعند در انجمن چو ارباب عناد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیزد ز نفس درازی خامه فساد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پنج فزون گشت چو ابیات غزل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر پنجه ی او بود چو انگشت زیاد",
+      "CoupletIndex": 1
+    }
+  ]
+}

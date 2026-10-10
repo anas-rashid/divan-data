@@ -1,0 +1,42 @@
+{
+  "Id": 34735,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای که در کشتن عشاق درنگ است تو را\r\nنیم بسمل شده مگذار که ننگ است تو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای که در کشتن عشاق درنگ است تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیم بسمل شده مگذار که ننگ است تو را",
+      "CoupletIndex": 0
+    }
+  ]
+}

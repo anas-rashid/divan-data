@@ -1,0 +1,54 @@
+{
+  "Id": 36618,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۳۸",
+  "FullUrl": "/p393/ghete/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر دم به جگر خون کندم دلبر دیگر\r\nهر لحظه به من جور کند کافر دیگر\r\nکارم بشد ای شوخ به یک خنجر نازت\r\nقربان جفای تو شوم خنجر دیگر",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم به جگر خون کندم دلبر دیگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر لحظه به من جور کند کافر دیگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارم بشد ای شوخ به یک خنجر نازت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قربان جفای تو شوم خنجر دیگر",
+      "CoupletIndex": 1
+    }
+  ]
+}

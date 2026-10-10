@@ -1,0 +1,54 @@
+{
+  "Id": 34726,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۶۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مپرس از شورش صحرای دل دیوانهٔ ما را\r\nنمک سایی بود در دیده کار، افسانهٔ ما را\r\nشراب آتش آلودی، حریفان در قدح دارم\r\nدر این محفل که می بوسد لب پیمانهٔ ما را؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مپرس از شورش صحرای دل دیوانهٔ ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمک سایی بود در دیده کار، افسانهٔ ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شراب آتش آلودی، حریفان در قدح دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در این محفل که می بوسد لب پیمانهٔ ما را؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

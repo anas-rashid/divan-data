@@ -1,0 +1,54 @@
+{
+  "Id": 26789,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۸۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh183",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh183",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روی دل این خسته به آن چشم سخنگوست\r\nچون عقده مرا چشم به آن گوشه ابروست\r\nتا مهر خموشی زده ام بر لب گفتار\r\nدر چشم من این دایره یک چشم سخنگوست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روی دل این خسته به آن چشم سخنگوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون عقده مرا چشم به آن گوشه ابروست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا مهر خموشی زده ام بر لب گفتار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در چشم من این دایره یک چشم سخنگوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

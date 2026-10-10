@@ -1,0 +1,57 @@
+{
+  "Id": 34428,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/p392/robaee-hz/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساقی، قدحی که دور گلزار گذشت\r\nمطرب، غزلی که وقت گفتارگذشت\r\nای همنفس، از بهر دل زار بگو\r\nافسانهٔ آن شبی که با یارگذشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی، قدحی که دور گلزار گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مطرب، غزلی که وقت گفتارگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای همنفس، از بهر دل زار بگو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسانهٔ آن شبی که با یارگذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

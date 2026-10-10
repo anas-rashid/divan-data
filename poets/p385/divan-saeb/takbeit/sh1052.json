@@ -1,0 +1,45 @@
+{
+  "Id": 18583,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۵۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۵۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1052",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1052",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سبکباران راه عشق خجلت می‌کشم\r\nبر کمر هر چند جای توشه دامن بسته‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سبکباران راه عشق خجلت می‌کشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر کمر هر چند جای توشه دامن بسته‌ام",
+      "CoupletIndex": 0
+    }
+  ]
+}

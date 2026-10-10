@@ -1,0 +1,57 @@
+{
+  "Id": 30444,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۷",
+  "FullUrl": "/p389/robghm/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کشمیر که با بهشت هم‌چشم افتاد\r\nصد حیف که در جای بدی شد بنیاد\r\nکشمیر درین زمین نمی‌کرد وطن\r\nتا این ره بد که پیش کشمیر نهاد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشمیر که با بهشت هم‌چشم افتاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد حیف که در جای بدی شد بنیاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کشمیر درین زمین نمی‌کرد وطن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا این ره بد که پیش کشمیر نهاد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

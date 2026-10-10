@@ -1,0 +1,57 @@
+{
+  "Id": 38350,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۲۳ - در زندان",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۲۳ - در زندان",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزن سمج مرا ز گردش گردون\r\nرنگ سپیده زنند و گونه دوده\r\nآینه او چو رنگ زد ز شب ابر\r\nگردد بی شک ز صبح روز زدوده",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزن سمج مرا ز گردش گردون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رنگ سپیده زنند و گونه دوده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آینه او چو رنگ زد ز شب ابر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردد بی شک ز صبح روز زدوده",
+      "CoupletIndex": 1
+    }
+  ]
+}

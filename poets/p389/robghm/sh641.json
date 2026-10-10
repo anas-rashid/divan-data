@@ -1,0 +1,57 @@
+{
+  "Id": 30898,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۴۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۴۱",
+  "FullUrl": "/p389/robghm/sh641",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh641",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گاهی نخود سبزی هر دیگ شوی\r\nگه در ته جوی این و آن ریگ شوی\r\nبر معرفتت بگو چه خواهد افزود\r\nگیرم که تو نیز خواجه ... شوی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گاهی نخود سبزی هر دیگ شوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه در ته جوی این و آن ریگ شوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر معرفتت بگو چه خواهد افزود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیرم که تو نیز خواجه ... شوی",
+      "CoupletIndex": 1
+    }
+  ]
+}

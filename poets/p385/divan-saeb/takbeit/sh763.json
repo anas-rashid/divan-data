@@ -1,0 +1,45 @@
+{
+  "Id": 18294,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۶۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۶۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh763",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh763",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ماطوطیان مصر شکرخیز غربتیم\r\nما را ز شیر صبح وطن باز کرده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماطوطیان مصر شکرخیز غربتیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را ز شیر صبح وطن باز کرده‌اند",
+      "CoupletIndex": 0
+    }
+  ]
+}

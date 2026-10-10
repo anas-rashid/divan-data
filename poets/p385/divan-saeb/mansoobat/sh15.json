@@ -1,0 +1,42 @@
+{
+  "Id": 27351,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۵",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم خود را داده بود از آب حیوان خضر آب\r\nتا غرور آیینه را از دست اسکندر گرفت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم خود را داده بود از آب حیوان خضر آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا غرور آیینه را از دست اسکندر گرفت",
+      "CoupletIndex": 0
+    }
+  ]
+}

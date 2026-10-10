@@ -1,0 +1,54 @@
+{
+  "Id": 36676,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۹۶",
+  "FullUrl": "/p393/ghete/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مصلحت نیست ز کوی تو جدایی کردن\r\nپادشاهی است به کوی تو گدایی کردن\r\nبر دل خون‌شده‌ام دست که از رحم گذاشت\r\nغرضش بود همین پنجه حنایی کردن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مصلحت نیست ز کوی تو جدایی کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پادشاهی است به کوی تو گدایی کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر دل خون‌شده‌ام دست که از رحم گذاشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غرضش بود همین پنجه حنایی کردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

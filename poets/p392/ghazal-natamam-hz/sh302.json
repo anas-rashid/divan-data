@@ -1,0 +1,57 @@
+{
+  "Id": 34961,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh302",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh302",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آنکه پیماید قدح، چشم جفا پیمان تو\r\nاز خویش بستاند مرا، گیرایی مژگان تو\r\nصبر گران تمکین من، کوه است و می بازد کمر\r\nچون بگذرد دامن کشان، سرو سبک جولان تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آنکه پیماید قدح، چشم جفا پیمان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خویش بستاند مرا، گیرایی مژگان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبر گران تمکین من، کوه است و می بازد کمر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بگذرد دامن کشان، سرو سبک جولان تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18466,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۳۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۳۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh935",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh935",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به پیری، گفتم از دامان دنیا دست بردارم\r\nندانستم که در خشکی شود این خار گیراتر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به پیری، گفتم از دامان دنیا دست بردارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ندانستم که در خشکی شود این خار گیراتر",
+      "CoupletIndex": 0
+    }
+  ]
+}

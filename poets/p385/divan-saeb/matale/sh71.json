@@ -1,0 +1,42 @@
+{
+  "Id": 26159,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه حاصل کز غزالان بزم رنگین است مجنون را؟\r\nسگ لیلی به از آهوی مشکین است مجنون را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه حاصل کز غزالان بزم رنگین است مجنون را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سگ لیلی به از آهوی مشکین است مجنون را",
+      "CoupletIndex": 0
+    }
+  ]
+}

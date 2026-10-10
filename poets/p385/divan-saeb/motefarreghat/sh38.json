@@ -1,0 +1,69 @@
+{
+  "Id": 26644,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بلبل به ثنای تو گشوده است زبان را\r\nگل غنچه به پابوس تو کرده است دهان را\r\nدر بندگی قامت موزون تو بسته است\r\nهر فاخته از طوق کمر سرو روان را\r\nهر شاخ گل آماده به نظاره رویت\r\nاز غنچه و شبنم دل و چشم نگران را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل به ثنای تو گشوده است زبان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل غنچه به پابوس تو کرده است دهان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بندگی قامت موزون تو بسته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر فاخته از طوق کمر سرو روان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر شاخ گل آماده به نظاره رویت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از غنچه و شبنم دل و چشم نگران را",
+      "CoupletIndex": 2
+    }
+  ]
+}

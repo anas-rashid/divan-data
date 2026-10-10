@@ -1,0 +1,69 @@
+{
+  "Id": 27086,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۸۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۸۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh480",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh480",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرقه ای دوختم از داغ جنون بر تن خویش\r\nنیست یک تن به تمامی چو من اندر فن خویش\r\nسر مینای می و همت او را نازم\r\nکه گرفته است گناه همه بر گردن خویش\r\nاین چه بخت است که هر خار که گل کرد از خاک\r\nدر دل آبله من شکند سوزن خویش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرقه ای دوختم از داغ جنون بر تن خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست یک تن به تمامی چو من اندر فن خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر مینای می و همت او را نازم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که گرفته است گناه همه بر گردن خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این چه بخت است که هر خار که گل کرد از خاک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دل آبله من شکند سوزن خویش",
+      "CoupletIndex": 2
+    }
+  ]
+}

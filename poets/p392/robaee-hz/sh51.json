@@ -1,0 +1,57 @@
+{
+  "Id": 34446,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/p392/robaee-hz/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دردانهٔ دریای حقیقت درد است\r\nدرد است که میزان عیار مرد است\r\nای خاک ره یار، عزیزش می دار\r\nاین طفل یتیم اشک، غم پرورد است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردانهٔ دریای حقیقت درد است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درد است که میزان عیار مرد است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای خاک ره یار، عزیزش می دار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این طفل یتیم اشک، غم پرورد است",
+      "CoupletIndex": 1
+    }
+  ]
+}

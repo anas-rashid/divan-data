@@ -1,0 +1,57 @@
+{
+  "Id": 30763,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۰۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۰۶",
+  "FullUrl": "/p389/robghm/sh506",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh506",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌واسطه در مجلس ابنای زمان\r\nروشن نشود چراغ ازین سخت‌دلان\r\nاز آهن و سنگ خانه روشن نشود\r\nتا سوخته‌ای پا نگذارد به میان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌واسطه در مجلس ابنای زمان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روشن نشود چراغ ازین سخت‌دلان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آهن و سنگ خانه روشن نشود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سوخته‌ای پا نگذارد به میان",
+      "CoupletIndex": 1
+    }
+  ]
+}

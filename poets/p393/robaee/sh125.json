@@ -1,0 +1,54 @@
+{
+  "Id": 37297,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/p393/robaee/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاشق شدی و ز من رمیدی ای دل\r\nرفتی و به خاک و خون طپیدی ای دل\r\nتو گفتهٔ من نمی‌شنیدی ای دل\r\nدیدی که ز دلبران چه دیدی ای دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشق شدی و ز من رمیدی ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفتی و به خاک و خون طپیدی ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو گفتهٔ من نمی‌شنیدی ای دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدی که ز دلبران چه دیدی ای دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

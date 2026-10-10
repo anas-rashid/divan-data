@@ -1,0 +1,57 @@
+{
+  "Id": 30879,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۲",
+  "FullUrl": "/p389/robghm/sh622",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh622",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کز ازلش آمده فطرت عالی\r\nکی شکوه به گردون برد از بدحالی\r\nبی‌حوصلگان فلک پرستند، آری\r\nمحتاج به خم بود سبوی خالی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کز ازلش آمده فطرت عالی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی شکوه به گردون برد از بدحالی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی‌حوصلگان فلک پرستند، آری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محتاج به خم بود سبوی خالی",
+      "CoupletIndex": 1
+    }
+  ]
+}

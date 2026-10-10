@@ -1,0 +1,57 @@
+{
+  "Id": 29611,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/p388/divan/robaee/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اسرار گلستان به بصارت دریاب\r\nمرغان بخروشند عبارت دریاب\r\nز آیینه گل کرشمه نرگس را\r\nدریافته سرو باغ اشارت دریاب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اسرار گلستان به بصارت دریاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغان بخروشند عبارت دریاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آیینه گل کرشمه نرگس را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریافته سرو باغ اشارت دریاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

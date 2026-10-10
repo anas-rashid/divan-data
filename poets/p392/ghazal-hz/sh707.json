@@ -1,0 +1,93 @@
+{
+  "Id": 34134,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۰۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۰۷",
+  "FullUrl": "/p392/ghazal-hz/sh707",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh707",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می گریزم ز جهان بار چرا بردارم؟\r\nسر درین معرکه اندازم و پا بردارم\r\nبویگل نیستم از بارگران جانیها\r\nتا پی قافلهٔ باد صبا بردارم\r\nگره از خاطر اگر گریه کند باز چرا\r\nمنت بیهده از عقده گشا بردارم؟\r\nغیرتم تکیه به دیوار که گیرد که هنوز\r\nگر بود کوه به این پشت دو تا بردارم\r\nناتوانم ولی آن مایه نفس هست حزین\r\nکآسمان را به یکی ناله ز جا بردارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می گریزم ز جهان بار چرا بردارم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر درین معرکه اندازم و پا بردارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بویگل نیستم از بارگران جانیها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا پی قافلهٔ باد صبا بردارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گره از خاطر اگر گریه کند باز چرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "منت بیهده از عقده گشا بردارم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غیرتم تکیه به دیوار که گیرد که هنوز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر بود کوه به این پشت دو تا بردارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ناتوانم ولی آن مایه نفس هست حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کآسمان را به یکی ناله ز جا بردارم",
+      "CoupletIndex": 4
+    }
+  ]
+}

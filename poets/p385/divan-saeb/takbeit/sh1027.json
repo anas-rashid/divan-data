@@ -1,0 +1,45 @@
+{
+  "Id": 18558,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۲۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۲۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1027",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1027",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرچه افسانه بود باعث شیرینی خواب\r\nخواب ما سوخت ز شیرینی افسانهٔ عشق",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه افسانه بود باعث شیرینی خواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواب ما سوخت ز شیرینی افسانهٔ عشق",
+      "CoupletIndex": 0
+    }
+  ]
+}

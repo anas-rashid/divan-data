@@ -1,0 +1,93 @@
+{
+  "Id": 23432,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۳۵۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۳۵۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4359",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4359",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در سینه عشاق هوس راه ندارد\r\nدر مجمر ما شعله خس راه ندارد\r\nتسلیم شو آن آینه تیغ چو دیدی\r\nاینجا دم بیراه نفس راه ندارد\r\nاندیشه تکلیف در اقلیم جنون نیست\r\nدر کوچه زنجیر عسس راه ندارد\r\nای هرزه درا در گذر از همرهی ما\r\nدر قافله عشق جرس راه ندارد\r\nصائب من واندیشه آغوش محال است\r\nدر خلوت عشاق هوس راه ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سینه عشاق هوس راه ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مجمر ما شعله خس راه ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تسلیم شو آن آینه تیغ چو دیدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینجا دم بیراه نفس راه ندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اندیشه تکلیف در اقلیم جنون نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در کوچه زنجیر عسس راه ندارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای هرزه درا در گذر از همرهی ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در قافله عشق جرس راه ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب من واندیشه آغوش محال است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در خلوت عشاق هوس راه ندارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

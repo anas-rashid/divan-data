@@ -1,0 +1,45 @@
+{
+  "Id": 18518,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۸۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۸۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh987",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh987",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عیار گفتگوی او نمی‌دانم، همین دانم\r\nکه در فریاد آرد بوسه را لبهای خاموشش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عیار گفتگوی او نمی‌دانم، همین دانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در فریاد آرد بوسه را لبهای خاموشش",
+      "CoupletIndex": 0
+    }
+  ]
+}

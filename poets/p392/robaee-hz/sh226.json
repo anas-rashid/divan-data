@@ -1,0 +1,57 @@
+{
+  "Id": 34621,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۲۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۲۶",
+  "FullUrl": "/p392/robaee-hz/sh226",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh226",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای گل تو به بویی دل خود شاد مکن\r\nبا رنگ پریده جلوه بنیاد مکن\r\nبلبل، تو هم افسانه فروشی بگذار\r\nکار دل ماست عشق، فریاد مکن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای گل تو به بویی دل خود شاد مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با رنگ پریده جلوه بنیاد مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبل، تو هم افسانه فروشی بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کار دل ماست عشق، فریاد مکن",
+      "CoupletIndex": 1
+    }
+  ]
+}

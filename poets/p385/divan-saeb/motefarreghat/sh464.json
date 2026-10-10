@@ -1,0 +1,57 @@
+{
+  "Id": 27070,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۶۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۶۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh464",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh464",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با بخت تیره کوکب ما را چه اعتبار؟\r\nدر روز ابر، بال هما را چه اعتبار؟\r\nدر کوی دوست نرخ دل از خاک کمترست\r\nدر صحن کعبه قبله نما را چه اعتبار؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با بخت تیره کوکب ما را چه اعتبار؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در روز ابر، بال هما را چه اعتبار؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کوی دوست نرخ دل از خاک کمترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در صحن کعبه قبله نما را چه اعتبار؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

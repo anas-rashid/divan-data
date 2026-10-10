@@ -1,0 +1,93 @@
+{
+  "Id": 29945,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۹۷",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۹۷",
+  "FullUrl": "/p389/ghazalgm/sh197",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh197",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رشک نام او زبانم را ز غیرت لال کرد\r\nعشقم از گفت و شنود خلق فارغبال کرد\r\nسرفرازی‌های گردون از تنزل‌های ماست\r\nپستی ما، نام دشمن را بلند اقبال کرد\r\nناله شوریدگان شور آورد، چون عندلیب\r\nخود پریشان بود گل را هم‌پریشان حال کرد\r\n{بیاض}\r\nاز برای امتحان، اول مرا پامال کرد\r\nمن که زیر لب بر افلاطون تمسخر می‌زدم\r\nعشق طفلی آخرم بازیچه اطفال کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رشک نام او زبانم را ز غیرت لال کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشقم از گفت و شنود خلق فارغبال کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرفرازی‌های گردون از تنزل‌های ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پستی ما، نام دشمن را بلند اقبال کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ناله شوریدگان شور آورد، چون عندلیب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خود پریشان بود گل را هم‌پریشان حال کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "{بیاض}",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از برای امتحان، اول مرا پامال کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "من که زیر لب بر افلاطون تمسخر می‌زدم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عشق طفلی آخرم بازیچه اطفال کرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

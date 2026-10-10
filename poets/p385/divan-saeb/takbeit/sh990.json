@@ -1,0 +1,45 @@
+{
+  "Id": 18521,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۹۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۹۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh990",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh990",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به عزم رفتن از گلزار چون قامت برافرازد\r\nگل از بی طاقتی، چون خار آویزد به دامانش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به عزم رفتن از گلزار چون قامت برافرازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل از بی طاقتی، چون خار آویزد به دامانش",
+      "CoupletIndex": 0
+    }
+  ]
+}

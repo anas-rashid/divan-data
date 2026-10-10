@@ -1,0 +1,66 @@
+{
+  "Id": 36245,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۴",
+  "FullUrl": "/p393/natmam/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلا به دست ازان طره نیست یک تارت\r\nاگر تو کافی عشقی کجاست زنارت\r\nتمام شب سر بالین یار می‌سوزی\r\nخدا به من دهد ای شمغ بخت بیدارت\r\nدگر به خواب هم آسودگی نخواهد دید\r\nکسی که گشته پرستار چشم بیمارت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلا به دست ازان طره نیست یک تارت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر تو کافی عشقی کجاست زنارت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تمام شب سر بالین یار می‌سوزی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدا به من دهد ای شمغ بخت بیدارت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دگر به خواب هم آسودگی نخواهد دید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کسی که گشته پرستار چشم بیمارت",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 31999,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/p390/divan/robaee/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یخ بسته جهان ز بس ز تأثیر هوا\r\nشد موجه ی آب همچو موج خارا\r\nدر صفحه به شکل نقطه گردیده الف\r\nاز بس که شده غنچه ز تاب سرما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یخ بسته جهان ز بس ز تأثیر هوا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد موجه ی آب همچو موج خارا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در صفحه به شکل نقطه گردیده الف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که شده غنچه ز تاب سرما",
+      "CoupletIndex": 1
+    }
+  ]
+}

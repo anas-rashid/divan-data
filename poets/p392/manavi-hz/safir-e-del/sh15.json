@@ -1,0 +1,81 @@
+{
+  "Id": 35065,
+  "CatId": 1115,
+  "Title": "بخش ۱۵ - حکایت",
+  "FullTitle": "حزین لاہیجی » مثنویات » صفیر دل » بخش ۱۵ - حکایت",
+  "FullUrl": "/p392/manavi-hz/safir-e-del/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/manavi-hz/safir-e-del/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شنیدم فریدون با فر و هوش\r\nنیاسود چشمش، شب از درد گوش\r\nبه خاصان چنین گفت در بامداد\r\nکه امشب سزای مرا، گوش داد\r\nهمانا که نالیده باشد ز درد\r\nضعیفیّ و نشنیده این خفته مرد\r\nچو غفلت ز مظلوم ورزید گوش\r\nمرا دوش این درد، مالیدگوش",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شنیدم فریدون با فر و هوش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیاسود چشمش، شب از درد گوش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خاصان چنین گفت در بامداد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که امشب سزای مرا، گوش داد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همانا که نالیده باشد ز درد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ضعیفیّ و نشنیده این خفته مرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو غفلت ز مظلوم ورزید گوش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرا دوش این درد، مالیدگوش",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 26163,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بخیل دوربین زان می‌کند وحشت ز صحبت‌ها\r\nکه چون اعداد، رجعت در کمین دارد ضیافت‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخیل دوربین زان می‌کند وحشت ز صحبت‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چون اعداد، رجعت در کمین دارد ضیافت‌ها",
+      "CoupletIndex": 0
+    }
+  ]
+}

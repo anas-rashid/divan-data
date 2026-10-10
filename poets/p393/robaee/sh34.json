@@ -1,0 +1,54 @@
+{
+  "Id": 37206,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/p393/robaee/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیدیم جهان کلفت آن بی‌ریب است\r\nهر صبح طرب شام غمش در جیب است\r\nای بخت بساز با سیاهی کاینجا\r\nمانند برص سپید گشتن عیب است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدیم جهان کلفت آن بی‌ریب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر صبح طرب شام غمش در جیب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای بخت بساز با سیاهی کاینجا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند برص سپید گشتن عیب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

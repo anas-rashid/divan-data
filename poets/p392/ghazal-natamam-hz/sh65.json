@@ -1,0 +1,42 @@
+{
+  "Id": 34724,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۶۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به جان بستیم پیمان محبّت، عشوه سازی را\r\nروان عاقبت محمود ما، دارد ایازی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به جان بستیم پیمان محبّت، عشوه سازی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روان عاقبت محمود ما، دارد ایازی را",
+      "CoupletIndex": 0
+    }
+  ]
+}

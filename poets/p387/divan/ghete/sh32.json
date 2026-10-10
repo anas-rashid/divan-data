@@ -1,0 +1,54 @@
+{
+  "Id": 28851,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۳۲ - تاریخ مسافرت کلیم از هند به عراق",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۳۲ - تاریخ مسافرت کلیم از هند به عراق",
+  "FullUrl": "/p387/divan/ghete/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طالب ز هوای پرستی هند\r\nبرگشت سوی مطالب آمد\r\nتاریخ توجه عراقش\r\n(توفیق رفیق طالب) آمد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طالب ز هوای پرستی هند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگشت سوی مطالب آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاریخ توجه عراقش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "(توفیق رفیق طالب) آمد",
+      "CoupletIndex": 1
+    }
+  ]
+}

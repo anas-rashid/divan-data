@@ -1,0 +1,57 @@
+{
+  "Id": 27282,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۷۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۷۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh676",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh676",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برد تا رنگ حیا را باده از رخسار او\r\nآنچه بسیارست گلچین است در گلزار او\r\nطره دستار او همسایه بال هماست\r\nپادشاهی کرد گل بر گوشه دستار او",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برد تا رنگ حیا را باده از رخسار او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنچه بسیارست گلچین است در گلزار او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طره دستار او همسایه بال هماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پادشاهی کرد گل بر گوشه دستار او",
+      "CoupletIndex": 1
+    }
+  ]
+}

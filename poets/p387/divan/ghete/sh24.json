@@ -1,0 +1,54 @@
+{
+  "Id": 28843,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۲۴ - در تعریف از قبضه خنجر شاه جهان",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۲۴ - در تعریف از قبضه خنجر شاه جهان",
+  "FullUrl": "/p387/divan/ghete/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صاحبقران ثانی شاه جهان که تیغش\r\nتا دسته ابلق از خون در کارزار گردد\r\nاز قبضه خنجر او زان شکل اسب دارد\r\nتا روز جنگ نصرت بروی سوار گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صاحبقران ثانی شاه جهان که تیغش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دسته ابلق از خون در کارزار گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قبضه خنجر او زان شکل اسب دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا روز جنگ نصرت بروی سوار گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

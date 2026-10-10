@@ -1,0 +1,57 @@
+{
+  "Id": 26889,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۸۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۸۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh283",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh283",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نفس را صافی از کلفت خراش سینه می سازد\r\nکه سوهان تیغ ناهموار را آیینه می سازد\r\nز مرگ عاشقان پروا ندارد حسن بی پروا\r\nکه صد طوطی ز موم سبز این آیینه می سازد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفس را صافی از کلفت خراش سینه می سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که سوهان تیغ ناهموار را آیینه می سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز مرگ عاشقان پروا ندارد حسن بی پروا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که صد طوطی ز موم سبز این آیینه می سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

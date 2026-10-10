@@ -1,0 +1,93 @@
+{
+  "Id": 31322,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۵۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۵۵",
+  "FullUrl": "/p390/divan/ghazal/sh355",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh355",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شد باغ از بهار، سفید و سیاه و سرخ\r\nمرغان شاخسار، سفید و سیاه و سرخ\r\nدارم ز گریه در ره شوق تو دیده ای\r\nچون ابر نوبهار، سفید و سیاه و سرخ\r\nصد رنگ موج جلوه درین بحر می کند\r\nچون نقش پشت مار، سفید و سیاه و سرخ\r\nگردیده داغ کهنه و نو جمع در دلم\r\nهمچون زر قمار، سفید و سیاه و سرخ\r\nهر گه سلیم جام ز دشمن گرفت یار\r\nگشتم هزار بار سفید و سیاه و سرخ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد باغ از بهار، سفید و سیاه و سرخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغان شاخسار، سفید و سیاه و سرخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دارم ز گریه در ره شوق تو دیده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ابر نوبهار، سفید و سیاه و سرخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صد رنگ موج جلوه درین بحر می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون نقش پشت مار، سفید و سیاه و سرخ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گردیده داغ کهنه و نو جمع در دلم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همچون زر قمار، سفید و سیاه و سرخ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر گه سلیم جام ز دشمن گرفت یار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گشتم هزار بار سفید و سیاه و سرخ",
+      "CoupletIndex": 4
+    }
+  ]
+}

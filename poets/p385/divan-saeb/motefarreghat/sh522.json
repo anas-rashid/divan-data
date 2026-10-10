@@ -1,0 +1,57 @@
+{
+  "Id": 27128,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۲۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۲۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh522",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh522",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ستم به خویش ز کوتاهی زبان کردیم\r\nبه هر چه شکر نکردیم، یاد آن کردیم\r\nبنای خانه به دوشی بلندکرده ماست\r\nقفس نبود که ما ترک آشیان کردیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ستم به خویش ز کوتاهی زبان کردیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر چه شکر نکردیم، یاد آن کردیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنای خانه به دوشی بلندکرده ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قفس نبود که ما ترک آشیان کردیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

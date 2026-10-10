@@ -1,0 +1,54 @@
+{
+  "Id": 37261,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/p393/robaee/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق آمد و سینهٔ مرا پرخون کرد\r\nهوش از سر و صبر از دلم بیرون کرد\r\nمعذورم اگر تو را بگویم لیلی\r\nجانا چه کنم غرض مرا مجنون کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آمد و سینهٔ مرا پرخون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوش از سر و صبر از دلم بیرون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معذورم اگر تو را بگویم لیلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانا چه کنم غرض مرا مجنون کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

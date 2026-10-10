@@ -1,0 +1,93 @@
+{
+  "Id": 32351,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۲۵۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۲۵۹",
+  "FullUrl": "/p391/divan/ghazal/sh259",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh259",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر غنچه به گلشن دل مأیوس بهار است\r\nهر برگ که بینی کف افسوس بهار است\r\nباد سحری بسکه بر او برگ گل افشاند\r\nهر سرو به بستان دم طاووس بهار است\r\nبگشا رخ و بر باده مده عرض چمن را\r\nپرده به رخت پردهٔ ناموس بهار است\r\nرنگین شده از بسکه ز عکس گل و سوسن\r\nهر موج هوا شهپر طاووس بهار است\r\nهر غنچه که گل گشته سراپا لب خواهش\r\nجویا مگر آمادهٔ پابوس بهار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر غنچه به گلشن دل مأیوس بهار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر برگ که بینی کف افسوس بهار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باد سحری بسکه بر او برگ گل افشاند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سرو به بستان دم طاووس بهار است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بگشا رخ و بر باده مده عرض چمن را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پرده به رخت پردهٔ ناموس بهار است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رنگین شده از بسکه ز عکس گل و سوسن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر موج هوا شهپر طاووس بهار است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر غنچه که گل گشته سراپا لب خواهش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جویا مگر آمادهٔ پابوس بهار است",
+      "CoupletIndex": 4
+    }
+  ]
+}

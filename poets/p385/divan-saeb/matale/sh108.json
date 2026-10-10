@@ -1,0 +1,42 @@
+{
+  "Id": 26196,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاکل او دام در راه صبا انداخته است\r\nزلف او زنجیر را در دست و پا انداخته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاکل او دام در راه صبا انداخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلف او زنجیر را در دست و پا انداخته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

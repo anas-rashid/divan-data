@@ -1,0 +1,42 @@
+{
+  "Id": 26220,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۳۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر سر موی تو در کاوش دل مژگان است\r\nخط ریحان تو گیرنده تر از قرآن است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر سر موی تو در کاوش دل مژگان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط ریحان تو گیرنده تر از قرآن است",
+      "CoupletIndex": 0
+    }
+  ]
+}

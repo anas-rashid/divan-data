@@ -1,0 +1,93 @@
+{
+  "Id": 32851,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۵۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۵۹",
+  "FullUrl": "/p391/divan/ghazal/sh759",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh759",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر قدر غم بیند از گردون بود دانا خموش\r\nغنچه سانم دل پر از خون باشد و لبها خموش\r\nچشم اگر پوشی رود در خلوت آرام دل\r\nموج چون ماند از تپیدن می شود دریا خموش\r\nکی تواند مظهر درد تو شد هر سینه ای\r\nدر دلم آتش فروزان است و در خارا خموش\r\nنسبت به دردم ز مجنون است با فرهاد بیش\r\nنالد از فریاد ما کوه و بود صحرا خموش\r\nمرد را زیباست جویا عشق نه اظهار عشق\r\nدل در افغان است گو باشد زبان ما خموش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر قدر غم بیند از گردون بود دانا خموش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه سانم دل پر از خون باشد و لبها خموش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم اگر پوشی رود در خلوت آرام دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موج چون ماند از تپیدن می شود دریا خموش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کی تواند مظهر درد تو شد هر سینه ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دلم آتش فروزان است و در خارا خموش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نسبت به دردم ز مجنون است با فرهاد بیش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نالد از فریاد ما کوه و بود صحرا خموش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مرد را زیباست جویا عشق نه اظهار عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دل در افغان است گو باشد زبان ما خموش",
+      "CoupletIndex": 4
+    }
+  ]
+}

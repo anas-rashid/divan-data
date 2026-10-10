@@ -1,0 +1,93 @@
+{
+  "Id": 38803,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۲۶",
+  "FullUrl": "/p397/ghazal/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طور سینا چیست، دانی بی خبر\r\nطور سینا سینهءِ خُود را نگر\r\nهمچو موسی مست شو بر طور خویش\r\nرب ارنی گو تجلی حق نگر\r\nگر نداری سوز آتش ای دلا\r\nکی به بینی نور حق را بالبصر\r\nنور حق آنکس به بیند بی حجاب\r\nباصفاتش گشت چون موسی نگر\r\nرب ارنی گو بیا ای نعره زن\r\nتا شوی چو مست موسی بی خبر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طور سینا چیست، دانی بی خبر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طور سینا سینهءِ خُود را نگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچو موسی مست شو بر طور خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رب ارنی گو تجلی حق نگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر نداری سوز آتش ای دلا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کی به بینی نور حق را بالبصر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نور حق آنکس به بیند بی حجاب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "باصفاتش گشت چون موسی نگر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رب ارنی گو بیا ای نعره زن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا شوی چو مست موسی بی خبر",
+      "CoupletIndex": 4
+    }
+  ]
+}

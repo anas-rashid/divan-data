@@ -1,0 +1,45 @@
+{
+  "Id": 30255,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۷",
+  "FullUrl": "/p389/mmgh/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمدی و حسرت وصلم ز دل برداشتی\r\nحسرتی بود از وصال آن هم به من نگذاشتی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمدی و حسرت وصلم ز دل برداشتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حسرتی بود از وصال آن هم به من نگذاشتی",
+      "CoupletIndex": 0
+    }
+  ]
+}

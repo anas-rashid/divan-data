@@ -1,0 +1,57 @@
+{
+  "Id": 37800,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۸۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۸۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای جان جهان تا خبرت یافته ام\r\nدل را همه در رهگذرت یافته ام\r\nپنداری بی درد سرت یافته ام\r\nنه نه که به خون جگرت یافته ام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جان جهان تا خبرت یافته ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را همه در رهگذرت یافته ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پنداری بی درد سرت یافته ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه نه که به خون جگرت یافته ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30618,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۶۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۶۱",
+  "FullUrl": "/p389/robghm/sh361",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh361",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز بتم طرز دگر می‌آید\r\nبر هم زده طورم به نظر می‌آید\r\nگویا سر ره گرفته بودش خاری\r\nکز غنچه، گلم گرفته‌تر می‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز بتم طرز دگر می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر هم زده طورم به نظر می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویا سر ره گرفته بودش خاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز غنچه، گلم گرفته‌تر می‌آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

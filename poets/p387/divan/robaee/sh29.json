@@ -1,0 +1,57 @@
+{
+  "Id": 28899,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/p387/divan/robaee/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر پیل سپیدت که مبیناد گزند\r\nشد بخت بلند هر که او دیده فکند\r\nچون شاه جهان بر آن برآید گوئی\r\nخورشید شد از سپیده صبح بلند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر پیل سپیدت که مبیناد گزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد بخت بلند هر که او دیده فکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شاه جهان بر آن برآید گوئی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید شد از سپیده صبح بلند",
+      "CoupletIndex": 1
+    }
+  ]
+}

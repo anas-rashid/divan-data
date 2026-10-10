@@ -1,0 +1,57 @@
+{
+  "Id": 32045,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/p390/divan/robaee/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن بلبل مستم که خروشم بردند\r\nذوق سخن از لب خموشم بردند\r\nدر عالم غفلتم عجب ذوقی بود\r\nافسوس که آن پنبه ز گوشم بردند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن بلبل مستم که خروشم بردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذوق سخن از لب خموشم بردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عالم غفلتم عجب ذوقی بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس که آن پنبه ز گوشم بردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

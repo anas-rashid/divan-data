@@ -1,0 +1,42 @@
+{
+  "Id": 26156,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۶۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مصیبت می‌کند بر دل گوارا زهر مردن را\r\nدر آتش می‌نهد داغ عزیزان نعل رفتن را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مصیبت می‌کند بر دل گوارا زهر مردن را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آتش می‌نهد داغ عزیزان نعل رفتن را",
+      "CoupletIndex": 0
+    }
+  ]
+}

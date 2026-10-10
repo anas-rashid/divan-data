@@ -1,0 +1,42 @@
+{
+  "Id": 26219,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۳۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که با سنگ ز سختی دل من یکرنگ است\r\nسنگ بر شیشه من، شیشه زدن بر سنگ است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که با سنگ ز سختی دل من یکرنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنگ بر شیشه من، شیشه زدن بر سنگ است",
+      "CoupletIndex": 0
+    }
+  ]
+}

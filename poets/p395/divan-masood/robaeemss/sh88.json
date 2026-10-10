@@ -1,0 +1,57 @@
+{
+  "Id": 37602,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان و دل و دین دست فراهم کردند\r\nوندر بیعت پشت به پشت آوردند\r\nسوگند به جان و سر وصلت خوردند\r\nگر بر گردم ز تو ز من برگردند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان و دل و دین دست فراهم کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وندر بیعت پشت به پشت آوردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوگند به جان و سر وصلت خوردند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بر گردم ز تو ز من برگردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

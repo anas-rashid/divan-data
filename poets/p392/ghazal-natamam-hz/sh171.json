@@ -1,0 +1,57 @@
+{
+  "Id": 34830,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی نشئهٔ صهبا، دل غمناک گشاید؟\r\nمی چون نتواند گره تاک گشاید\r\nکار جگر سنگ، سپرداری دل نیست\r\nچون شست ستم، غمزهٔ بی باک گشاید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی نشئهٔ صهبا، دل غمناک گشاید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می چون نتواند گره تاک گشاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کار جگر سنگ، سپرداری دل نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شست ستم، غمزهٔ بی باک گشاید",
+      "CoupletIndex": 1
+    }
+  ]
+}

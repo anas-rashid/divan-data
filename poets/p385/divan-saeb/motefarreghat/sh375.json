@@ -1,0 +1,57 @@
+{
+  "Id": 26981,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh375",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh375",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساده لوحان که بدآموز به صحبت شده اند\r\nغافل از جنت دربسته خلوت شده اند\r\nبه خوشی چون گذرد عمر بنی آدم را؟\r\nکه ز پشت پدر آواره ز جنت شده اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساده لوحان که بدآموز به صحبت شده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غافل از جنت دربسته خلوت شده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خوشی چون گذرد عمر بنی آدم را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ز پشت پدر آواره ز جنت شده اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

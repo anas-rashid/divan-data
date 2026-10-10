@@ -1,0 +1,54 @@
+{
+  "Id": 34769,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همدم سنجیده گفتاران، لب پیمانه است\r\nآشنا رویی که دیدم، معنی بیگانه است\r\nرَه غلط افتاده مجنون بیابان گرد را\r\nمنزل آرام، صحرای دل دیوانه است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همدم سنجیده گفتاران، لب پیمانه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آشنا رویی که دیدم، معنی بیگانه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رَه غلط افتاده مجنون بیابان گرد را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منزل آرام، صحرای دل دیوانه است",
+      "CoupletIndex": 1
+    }
+  ]
+}

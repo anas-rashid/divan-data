@@ -1,0 +1,57 @@
+{
+  "Id": 34875,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۱۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh216",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh216",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بهاری که مرا بال و پرافشانی بود\r\nبی تو گل در نظرم، لالهٔ پیکانی بود\r\nمن بتخانه نشین را ز چه رو کرد خراب\r\nکفر زلف تو، که آشوب مسلمانی بود؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بهاری که مرا بال و پرافشانی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی تو گل در نظرم، لالهٔ پیکانی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بتخانه نشین را ز چه رو کرد خراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کفر زلف تو، که آشوب مسلمانی بود؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

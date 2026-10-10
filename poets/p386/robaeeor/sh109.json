@@ -1,0 +1,57 @@
+{
+  "Id": 28152,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۹",
+  "FullUrl": "/p386/robaeeor/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رخسار تو باغ را سراسیمه کند\r\nبوی تو دماغ را سراسیمه کند\r\nپروانه به رقص آید و از شوق درون\r\nصد شمع چراغ را سراسیمه کند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخسار تو باغ را سراسیمه کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی تو دماغ را سراسیمه کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانه به رقص آید و از شوق درون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد شمع چراغ را سراسیمه کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

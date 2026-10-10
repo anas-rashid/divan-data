@@ -1,0 +1,42 @@
+{
+  "Id": 37494,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p394/ghazal/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با سیه بختان بتان را التفاتی دیگر است\r\nمی کند خورشید و مه آیینه داری سایه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با سیه بختان بتان را التفاتی دیگر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می کند خورشید و مه آیینه داری سایه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

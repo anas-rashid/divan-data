@@ -1,0 +1,45 @@
+{
+  "Id": 18188,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۵۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۵۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh657",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh657",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل دشمن به تهیدستی من می‌سوزد\r\nبرق ازین مزرعه با دیده‌تر می‌گذرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل دشمن به تهیدستی من می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برق ازین مزرعه با دیده‌تر می‌گذرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

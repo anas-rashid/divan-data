@@ -1,0 +1,45 @@
+{
+  "Id": 18320,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۸۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۸۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh789",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh789",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دامن شادی چو غم آسان نمی‌آید به دست\r\nپسته را خون می‌شود دل، تا لبی خندان کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دامن شادی چو غم آسان نمی‌آید به دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پسته را خون می‌شود دل، تا لبی خندان کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

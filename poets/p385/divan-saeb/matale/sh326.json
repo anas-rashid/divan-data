@@ -1,0 +1,42 @@
+{
+  "Id": 26414,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh326",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh326",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خود گسسته، بار به دنیا نمی شود\r\nمریم گران ز حمل مسیحا نمی شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خود گسسته، بار به دنیا نمی شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مریم گران ز حمل مسیحا نمی شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

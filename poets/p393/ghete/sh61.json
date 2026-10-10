@@ -1,0 +1,54 @@
+{
+  "Id": 36541,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۶۱",
+  "FullUrl": "/p393/ghete/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هلاک نرگس او در زمانه بسیار است\r\nخدنگ غمزهٔ او را بهانه بسیار است\r\nاگر بهشت شود خانه‌ای که من دارم\r\nپی نیامدن او را بهانه بسیار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هلاک نرگس او در زمانه بسیار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خدنگ غمزهٔ او را بهانه بسیار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر بهشت شود خانه‌ای که من دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پی نیامدن او را بهانه بسیار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

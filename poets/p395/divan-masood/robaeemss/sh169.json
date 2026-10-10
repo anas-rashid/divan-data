@@ -1,0 +1,57 @@
+{
+  "Id": 37683,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۶۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق تو همچو ابر می گریم زار\r\nوز درد چو برگ زرد دارم رخسار\r\nاز زردی روی و گریه ای طرفه نگار\r\nدر روی خزان دارم و در دیده بهار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق تو همچو ابر می گریم زار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز درد چو برگ زرد دارم رخسار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از زردی روی و گریه ای طرفه نگار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در روی خزان دارم و در دیده بهار",
+      "CoupletIndex": 1
+    }
+  ]
+}

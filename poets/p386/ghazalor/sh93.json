@@ -1,0 +1,81 @@
+{
+  "Id": 27501,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۹۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۹۳",
+  "FullUrl": "/p386/ghazalor/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تنها نه دلم باده ی نابش همه خون است\r\nمغز قلم و مغز کتابش همه خون است\r\nدل ها شکند وز دل من یاد نیارد\r\nچون بشکند این خم که شرابش همه خون است\r\nاز سوز دل ما مشکن توبه که این نیست\r\nآن می که چنین کرده خرابش همه خون است\r\nعرفی نکنی ترک دل ریش چکیدن\r\nکاین میوه ی طوبی است که آبش همه خون است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنها نه دلم باده ی نابش همه خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مغز قلم و مغز کتابش همه خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ها شکند وز دل من یاد نیارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بشکند این خم که شرابش همه خون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از سوز دل ما مشکن توبه که این نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن می که چنین کرده خرابش همه خون است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عرفی نکنی ترک دل ریش چکیدن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاین میوه ی طوبی است که آبش همه خون است",
+      "CoupletIndex": 3
+    }
+  ]
+}

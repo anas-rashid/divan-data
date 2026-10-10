@@ -1,0 +1,81 @@
+{
+  "Id": 24531,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۴۵۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۴۵۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما ز روی آتشین او نقاب افکنده‌ایم\r\nبار اول ما بر این آتش کباب افکنده‌ایم\r\nنیست چون شبنم و بال دامن گل خون ما\r\nما سر خود در کنار آفتاب افکنده‌ایم\r\nخار این صحرا به آب زندگی خود را رساند\r\nما همان چون موج لنگر در سراب افکنده‌ایم\r\nجلوه در پیراهن دریای وحدت می‌کنیم\r\nپرده از روی نفس تا چون حباب افکنده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما ز روی آتشین او نقاب افکنده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بار اول ما بر این آتش کباب افکنده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست چون شبنم و بال دامن گل خون ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما سر خود در کنار آفتاب افکنده‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خار این صحرا به آب زندگی خود را رساند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما همان چون موج لنگر در سراب افکنده‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جلوه در پیراهن دریای وحدت می‌کنیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پرده از روی نفس تا چون حباب افکنده‌ایم",
+      "CoupletIndex": 3
+    }
+  ]
+}

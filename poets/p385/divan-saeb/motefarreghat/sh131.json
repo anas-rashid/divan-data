@@ -1,0 +1,69 @@
+{
+  "Id": 26737,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز گوشه میخانه مرا جای دگر نیست\r\nچون خم ز خرابات مرا پای سفر نیست\r\nبا تلخی هجران بسرآریم که نی را\r\nجز بند گران حاصلی از قرب شکر نیست\r\nچون آینه آب خضر زنگ نگیرد؟\r\nدر دور عقیق لب او تشنه جگر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز گوشه میخانه مرا جای دگر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون خم ز خرابات مرا پای سفر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با تلخی هجران بسرآریم که نی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز بند گران حاصلی از قرب شکر نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون آینه آب خضر زنگ نگیرد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دور عقیق لب او تشنه جگر نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 21049,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۹۷۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۹۷۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1976",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1976",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خاکمال دام، پرم توتیا شده است\r\nاز مالش استخوان تنم رونما شده است\r\nحال شکاف سینه و پیکان او مپرس\r\nیک مشت استخوان، قفس صد هما شده است\r\nداند چه قسم دولتی از دست داده ام\r\nاز دست هر که دامن پر گل رها شده است\r\nیک آه دردناک به از طاعت دو کون\r\nاین شکر چون کنم که نمازم قضا شده است؟\r\nصائب سفینه ای که زمامش به دست توست\r\nهر تخته، لوح مشهد صد ناخدا شده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خاکمال دام، پرم توتیا شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از مالش استخوان تنم رونما شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حال شکاف سینه و پیکان او مپرس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک مشت استخوان، قفس صد هما شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "داند چه قسم دولتی از دست داده ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از دست هر که دامن پر گل رها شده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یک آه دردناک به از طاعت دو کون",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این شکر چون کنم که نمازم قضا شده است؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب سفینه ای که زمامش به دست توست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر تخته، لوح مشهد صد ناخدا شده است",
+      "CoupletIndex": 4
+    }
+  ]
+}

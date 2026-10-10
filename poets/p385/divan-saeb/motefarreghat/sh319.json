@@ -1,0 +1,57 @@
+{
+  "Id": 26925,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۱۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۱۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh319",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh319",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبنم از روی لطیف تو نظر می دزدد\r\nغنچه از شرم تو سر در ته پر می دزدد\r\nمی کند بیهده دل عیب خود از عشق نهان\r\nگل ز خورشید عبث دامن تر می دزدد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبنم از روی لطیف تو نظر می دزدد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه از شرم تو سر در ته پر می دزدد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می کند بیهده دل عیب خود از عشق نهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل ز خورشید عبث دامن تر می دزدد",
+      "CoupletIndex": 1
+    }
+  ]
+}

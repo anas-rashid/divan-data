@@ -166,39 +166,66 @@ def owned_details(url, kind):
     return out
 
 
-# Persian works from Ganjoor (ganjoor.py): a «فارسی» section under the poet with Ganjoor's books, sub-books and poems.
-# Ids are minted under "ganjoor:<Ganjoor URL>" keys, so they never collide with Divan's and stay stable.
+# Persian works from Ganjoor (ganjoor.py). Ids are minted under "ganjoor:<Ganjoor URL>" keys, so they never collide
+# with Divan's and stay stable.
+def ganjoor_tree(gurl, parent, path, name, cats, poem_idx):
+    """Ganjoor's books, sub-books and poems under a Divan category (the «فارسی» section, or a Persian poet's page)"""
+    g = ganjoor.read(f"{gurl}/_cat.json")
+    for ch in g.get("ChildCats") or []:
+        cid = gid("cat", "ganjoor:" + ch["FullUrl"])
+        c = {"Id": cid, "PoetId": parent["PoetId"], "ParentId": parent["Id"], "Title": ch["Title"],
+             "FullUrl": f"{parent['FullUrl']}/{ch['FullUrl'].rsplit('/', 1)[-1]}", "Description": None,
+             "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}
+        parent["ChildCats"].append({"Id": cid, "Title": c["Title"], "FullUrl": c["FullUrl"]})
+        cats[path + (ch["Title"],)] = c
+        ganjoor_tree(ch["FullUrl"], c, path + (ch["Title"],), name, cats, poem_idx)
+    for ref in g.get("Poems") or []:
+        p = ganjoor.read(f"{ref['FullUrl']}.json")
+        pid = gid("poem", "ganjoor:" + ref["FullUrl"])
+        url = f"{parent['FullUrl']}/{ref['FullUrl'].rsplit('/', 1)[-1]}"
+        obj = ganjoor.poem(p, parent["Id"], pid, url, " » ".join([name, *path, p["Title"]]))
+        own = owned(url)  # a moderator's version in Divan takes precedence, as for Urdu works
+        if own:
+            obj.update({"DivanOwned": True, "Edited": own.get("Edited"), "Title": own.get("Title") or obj["Title"], "Verses": own["Verses"]})
+        write(f"poets{url}.json", obj)
+        parent["Poems"].append({"Id": pid, "Title": obj["Title"], "FullUrl": url})
+        poem_idx[pid] = url
+
+
 def add_persian(gslug, root, name, cats, poem_idx):
-    farsi_path = ("فارسی",)
-    def tree(gurl, parent, path):
-        g = ganjoor.read(f"{gurl}/_cat.json")
-        for ch in g.get("ChildCats") or []:
-            cid = gid("cat", "ganjoor:" + ch["FullUrl"])
-            c = {"Id": cid, "PoetId": root["PoetId"], "ParentId": parent["Id"], "Title": ch["Title"],
-                 "FullUrl": f"{parent['FullUrl']}/{ch['FullUrl'].rsplit('/', 1)[-1]}", "Description": None,
-                 "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}
-            parent["ChildCats"].append({"Id": cid, "Title": c["Title"], "FullUrl": c["FullUrl"]})
-            cats[path + (ch["Title"],)] = c
-            tree(ch["FullUrl"], c, path + (ch["Title"],))
-        for ref in g.get("Poems") or []:
-            p = ganjoor.read(f"{ref['FullUrl']}.json")
-            pid = gid("poem", "ganjoor:" + ref["FullUrl"])
-            url = f"{parent['FullUrl']}/{ref['FullUrl'].rsplit('/', 1)[-1]}"
-            obj = ganjoor.poem(p, parent["Id"], pid, url, " » ".join([name, *path, p["Title"]]))
-            own = owned(url)  # a moderator's version in Divan takes precedence, as for Urdu works
-            if own:
-                obj.update({"DivanOwned": True, "Edited": own.get("Edited"), "Title": own.get("Title") or obj["Title"], "Verses": own["Verses"]})
-            write(f"poets{url}.json", obj)
-            parent["Poems"].append({"Id": pid, "Title": obj["Title"], "FullUrl": url})
-            poem_idx[pid] = url
-        return
+    """a «فارسی» section with the poet's Ganjoor works, after their Urdu works"""
     cid = gid("cat", "ganjoor:/" + gslug)
     farsi = {"Id": cid, "PoetId": root["PoetId"], "ParentId": root["Id"], "Title": "فارسی", "FullUrl": f"{root['FullUrl']}/farsi",
              "Description": None, "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}
     root["ChildCats"].append({"Id": cid, "Title": "فارسی", "FullUrl": farsi["FullUrl"]})
-    cats[farsi_path] = farsi
-    tree("/" + gslug, farsi, farsi_path)
+    cats[("فارسی",)] = farsi
+    ganjoor_tree("/" + gslug, farsi, ("فارسی",), name, cats, poem_idx)
     return sum(1 for u in poem_idx.values() if u.startswith(farsi["FullUrl"] + "/"))
+
+
+def persian_poet(gslug, manifest, cat_idx, poem_idx):
+    """a Persian poet of the Indian tradition (Bedil, Saib…): their own Divan poet page with their Ganjoor works"""
+    g = ganjoor.read(f"/{gslug}/poet.json")
+    pid = gid("poet", "ganjoor:" + gslug)
+    purl, nick = f"/p{pid}", ganjoor.urdu(g["Nickname"])
+    write(f"poets{purl}/poet.json", {
+        "Id": pid, "Name": ganjoor.urdu(g["Name"]), "Nickname": nick, "Description": g.get("Description"), "FullUrl": purl,
+        "ImageUrl": None, "BirthYearInLHijri": g.get("BirthYearInLHijri") or 0, "ValidBirthDate": bool(g.get("ValidBirthDate")),
+        "DeathYearInLHijri": g.get("DeathYearInLHijri") or 0, "ValidDeathDate": bool(g.get("ValidDeathDate")),
+        "BirthYearCE": ganjoor.ce(g.get("BirthYearInLHijri"), g.get("ValidBirthDate")),
+        "DeathYearCE": ganjoor.ce(g.get("DeathYearInLHijri"), g.get("ValidDeathDate")),
+        "BirthPlace": ganjoor.urdu(g.get("BirthPlace")) or None, "DeathPlace": ganjoor.urdu(g.get("DeathPlace")) or None,
+        "Language": "fa-IR", "SourceName": "گنجور", "SourceUrl": ganjoor.SITE + "/" + gslug})
+    manifest.append({"Id": pid, "Nickname": nick, "FullUrl": purl})
+    root = {"Id": gid("cat", "ganjoor:/" + gslug), "PoetId": pid, "ParentId": None, "Title": nick, "FullUrl": purl,
+            "Description": g.get("Description"), "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}
+    cats = {(): root}
+    ganjoor_tree("/" + gslug, root, (), nick, cats, poem_idx)
+    for c in cats.values():
+        owned_order(c)
+        write(f"poets{c['FullUrl']}/_cat.json", c)
+        cat_idx[c["Id"]] = c["FullUrl"]
+    return sum(1 for u in poem_idx.values() if u.startswith(purl + "/"))
 
 
 def main():
@@ -208,7 +235,7 @@ def main():
                           FROM poets p WHERE EXISTS (SELECT 1 FROM works w WHERE w.poet_page=p.page)""").fetchall()
     manifest, cat_idx, poem_idx, poem_count = [], {}, {}, 0
     persian = ganjoor.by_divan_page()
-    if persian:
+    if ganjoor.slugs():
         ganjoor.checkout()
     for page, name, born, died, desc, image in poets:
         pid = gid("poet", page)
@@ -300,6 +327,9 @@ def main():
             owned_order(c)
             write(f"poets{c['FullUrl']}/_cat.json", c)
             cat_idx[c["Id"]] = c["FullUrl"]
+
+    for gslug in ganjoor.persian_poets():
+        poem_count += persian_poet(gslug, manifest, cat_idx, poem_idx)
 
     manifest.sort(key=lambda x: x["Id"])
     write("index/poets-by-id.json", {str(p["Id"]): p["FullUrl"] for p in manifest})

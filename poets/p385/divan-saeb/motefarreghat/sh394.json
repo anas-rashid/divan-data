@@ -1,0 +1,69 @@
+{
+  "Id": 27000,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh394",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh394",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چندان که ممکن است کسی مردمی کند\r\nدم را چرا علم کند و کژدمی کند؟\r\nنان جوی به سفره هر کس که هست ازوست\r\nآدم زبان خویش اگر گندمی کند\r\nطوفان نوح، کودک دریا ندیده ای است\r\nجایی که آب دیده ما قلزمی کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندان که ممکن است کسی مردمی کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دم را چرا علم کند و کژدمی کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نان جوی به سفره هر کس که هست ازوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آدم زبان خویش اگر گندمی کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "طوفان نوح، کودک دریا ندیده ای است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جایی که آب دیده ما قلزمی کند",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18508,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۷۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۷۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh977",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh977",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای صبح مزن خندهٔ بیجا، شب وصل است\r\nگر روشنی چشم منی، پرده‌نشین باش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صبح مزن خندهٔ بیجا، شب وصل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر روشنی چشم منی، پرده‌نشین باش",
+      "CoupletIndex": 0
+    }
+  ]
+}

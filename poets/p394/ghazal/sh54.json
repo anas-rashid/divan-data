@@ -1,0 +1,54 @@
+{
+  "Id": 37439,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۵۴",
+  "FullUrl": "/p394/ghazal/sh54",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh54",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان تمام مسخر ز جام شد جم را\r\nبگیر جام که خواهی گرفت عالم را\r\nغنی چرا صلهٔ شعر از کسی گیرد\r\nهمین بس است که شعرش گرفت عالم را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان تمام مسخر ز جام شد جم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگیر جام که خواهی گرفت عالم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غنی چرا صلهٔ شعر از کسی گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همین بس است که شعرش گرفت عالم را",
+      "CoupletIndex": 1
+    }
+  ]
+}

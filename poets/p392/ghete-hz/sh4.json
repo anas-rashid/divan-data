@@ -1,0 +1,57 @@
+{
+  "Id": 34343,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۴ - ماده تاریخ",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۴ - ماده تاریخ",
+  "FullUrl": "/p392/ghete-hz/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "احرام روضه شیخ، بستیم و شد میّسر\r\nگردید دیده روشن، از نور باهرِ شیخ\r\nسالی که این سعادت، ما را میّسر آمد\r\nتاریخ این زیارت گردید، زایر شیخ",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "احرام روضه شیخ، بستیم و شد میّسر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردید دیده روشن، از نور باهرِ شیخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سالی که این سعادت، ما را میّسر آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریخ این زیارت گردید، زایر شیخ",
+      "CoupletIndex": 1
+    }
+  ]
+}

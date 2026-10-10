@@ -1,0 +1,45 @@
+{
+  "Id": 18792,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۶۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۶۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1261",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1261",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منعمان گر پیش مهمان نعمت الوان کشند\r\nما به جای سفره، خجلت پیش مهمان می‌کشیم!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منعمان گر پیش مهمان نعمت الوان کشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما به جای سفره، خجلت پیش مهمان می‌کشیم!",
+      "CoupletIndex": 0
+    }
+  ]
+}

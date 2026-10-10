@@ -1,0 +1,93 @@
+{
+  "Id": 31318,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۵۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۵۱",
+  "FullUrl": "/p390/divan/ghazal/sh351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آن دمی که لبم گردد آشنای قدح\r\nبه پای خم سر خود را نهم به جای قدح\r\nبنوش می که سری در جهان نمی بینم\r\nکه چون حباب بود خالی از هوای قدح\r\nبه غیر حرف می از می کشان چه می خواهی\r\nکه در نماز نخوانند جز دعای قدح\r\nز دل جفای ترا وصل عذرخواهی کرد\r\nکه بوسه ی لب ساقی ست خونبهای قدح\r\nکنم سلیم وصیت که ساقی از پس مرگ\r\nکند چو توبه به خاکم به زیر پای قدح",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن دمی که لبم گردد آشنای قدح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به پای خم سر خود را نهم به جای قدح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنوش می که سری در جهان نمی بینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چون حباب بود خالی از هوای قدح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به غیر حرف می از می کشان چه می خواهی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که در نماز نخوانند جز دعای قدح",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز دل جفای ترا وصل عذرخواهی کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بوسه ی لب ساقی ست خونبهای قدح",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کنم سلیم وصیت که ساقی از پس مرگ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کند چو توبه به خاکم به زیر پای قدح",
+      "CoupletIndex": 4
+    }
+  ]
+}

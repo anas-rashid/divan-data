@@ -1,0 +1,93 @@
+{
+  "Id": 29944,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۹۶",
+  "FullUrl": "/p389/ghazalgm/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر به صحرا بگذرم از اشک من گلشن شود\r\nدر چراغ لاله آب چشم من روغن شود\r\nسرو جان یابد به باغ، ار سایه اندازی بر او\r\nور قدم بر دیده نرگس نهی روشن شود\r\nسر ز بزمش تافتم چندان که خود را سوختم\r\nسرکشی تا چند چون شمعم وبال تن شود؟\r\nعاشق دیوانه خودداری نمی‌داند که چیست\r\nهرکه شد بیگانه از خود آشنا با من شود\r\nدود غم بیرون نخواهد رفت از کاشانه‌ام\r\nگر سراسر سقف این غمخانه یک روزن شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر به صحرا بگذرم از اشک من گلشن شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در چراغ لاله آب چشم من روغن شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرو جان یابد به باغ، ار سایه اندازی بر او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور قدم بر دیده نرگس نهی روشن شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر ز بزمش تافتم چندان که خود را سوختم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سرکشی تا چند چون شمعم وبال تن شود؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عاشق دیوانه خودداری نمی‌داند که چیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرکه شد بیگانه از خود آشنا با من شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دود غم بیرون نخواهد رفت از کاشانه‌ام",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر سراسر سقف این غمخانه یک روزن شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

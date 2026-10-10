@@ -1,0 +1,54 @@
+{
+  "Id": 36666,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۸۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۸۶",
+  "FullUrl": "/p393/ghete/sh186",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh186",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی بی‌تو جای یک مژه خواب است خانه‌ام\r\nاز درد هجر چشم پرآب است خانه‌ام\r\nای سیل از برای چه تصدیع می‌کشی\r\nتا می‌رسی ز گریه خراب است خانه‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی بی‌تو جای یک مژه خواب است خانه‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از درد هجر چشم پرآب است خانه‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای سیل از برای چه تصدیع می‌کشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا می‌رسی ز گریه خراب است خانه‌ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

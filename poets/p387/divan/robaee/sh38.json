@@ -1,0 +1,57 @@
+{
+  "Id": 28908,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۸",
+  "FullUrl": "/p387/divan/robaee/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حق چو ندا شنید ممتاز محل\r\nزود از همگی برید ممتاز محل\r\nرضوان در خلد بهر تاریخش گفت\r\nفردوس محل گزید ممتاز محل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حق چو ندا شنید ممتاز محل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زود از همگی برید ممتاز محل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رضوان در خلد بهر تاریخش گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فردوس محل گزید ممتاز محل",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36546,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۶۶",
+  "FullUrl": "/p393/ghete/sh66",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh66",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفتم ز پیش پی شهادت\r\nگر کشته شوم زهی سعادت\r\nعقلست و هزار شبه و شک\r\nاز عشق طلب کنم افادت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتم ز پیش پی شهادت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر کشته شوم زهی سعادت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عقلست و هزار شبه و شک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از عشق طلب کنم افادت",
+      "CoupletIndex": 1
+    }
+  ]
+}

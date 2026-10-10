@@ -1,0 +1,45 @@
+{
+  "Id": 18070,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۳۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۳۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh539",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh539",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پشت و روی باغ دنیا را مکرر دیده‌ایم\r\nچون گل رعنا، خزان و نوبهاری بیش نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پشت و روی باغ دنیا را مکرر دیده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گل رعنا، خزان و نوبهاری بیش نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

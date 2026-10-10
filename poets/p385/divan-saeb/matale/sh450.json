@@ -1,0 +1,42 @@
+{
+  "Id": 26538,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۵۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۵۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh450",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh450",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند دل ز اندیشه بیش و کم روزی خوریم؟\r\nدیگران روزی خورند و ما غم روزی خوریم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند دل ز اندیشه بیش و کم روزی خوریم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیگران روزی خورند و ما غم روزی خوریم",
+      "CoupletIndex": 0
+    }
+  ]
+}

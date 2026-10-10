@@ -1,0 +1,57 @@
+{
+  "Id": 30795,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۸",
+  "FullUrl": "/p389/robghm/sh538",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh538",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عمر به رفتن چه شتاب است بگو\r\nبی وجه چه رنجش و عتاب است بگو\r\nیک هفته ز عمر گل نرفته‌ست هنوز\r\nای باد خزان چه اضطراب است بگو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عمر به رفتن چه شتاب است بگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی وجه چه رنجش و عتاب است بگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک هفته ز عمر گل نرفته‌ست هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای باد خزان چه اضطراب است بگو",
+      "CoupletIndex": 1
+    }
+  ]
+}

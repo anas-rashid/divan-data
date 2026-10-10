@@ -1,0 +1,42 @@
+{
+  "Id": 26401,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۱۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۱۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh313",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh313",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از سفید گشتن مو ناامید شد\r\nعالم سیه به چشمم ازین پی سفید شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از سفید گشتن مو ناامید شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم سیه به چشمم ازین پی سفید شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

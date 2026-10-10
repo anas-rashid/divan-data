@@ -1,0 +1,57 @@
+{
+  "Id": 37698,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۸۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۸۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh184",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh184",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر مرگ تو چون نمویم ای جان پدر\r\nرخساره به خون بشویم ای جان پدر\r\nسامان خود از که جویم ای جان پدر\r\nتیمار تو با که گویم ای جان پدر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر مرگ تو چون نمویم ای جان پدر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخساره به خون بشویم ای جان پدر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سامان خود از که جویم ای جان پدر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیمار تو با که گویم ای جان پدر",
+      "CoupletIndex": 1
+    }
+  ]
+}

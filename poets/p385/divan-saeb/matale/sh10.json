@@ -1,0 +1,42 @@
+{
+  "Id": 26098,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیدار کند بانگ نی افسرده دلان را\r\nنی صور سرافیل بود مرده دلان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیدار کند بانگ نی افسرده دلان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی صور سرافیل بود مرده دلان را",
+      "CoupletIndex": 0
+    }
+  ]
+}

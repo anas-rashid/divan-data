@@ -1,0 +1,57 @@
+{
+  "Id": 32044,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/p390/divan/robaee/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شوق تو خون در دل گل می جوشد\r\nشمع از هوست به سوختن می کوشد\r\nاز عکس گل روی تو دایم چون گل\r\nآیینه لباس چهره ای می پوشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شوق تو خون در دل گل می جوشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع از هوست به سوختن می کوشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عکس گل روی تو دایم چون گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه لباس چهره ای می پوشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37614,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا دل به هوای تو گرفتار آمد\r\nجان در تن من تو را خریدار آمد\r\nای آنکه رخت چون گل پربار آمد\r\nاز گلبن تو نصیب من خار آمد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل به هوای تو گرفتار آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان در تن من تو را خریدار آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آنکه رخت چون گل پربار آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گلبن تو نصیب من خار آمد",
+      "CoupletIndex": 1
+    }
+  ]
+}

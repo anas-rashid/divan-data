@@ -1,0 +1,42 @@
+{
+  "Id": 26226,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۳۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز سرمشق جنونم خط نازک رقمی است\r\nکه دو نیم است ز عشقش دل هر جا قلمی است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز سرمشق جنونم خط نازک رقمی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دو نیم است ز عشقش دل هر جا قلمی است",
+      "CoupletIndex": 0
+    }
+  ]
+}

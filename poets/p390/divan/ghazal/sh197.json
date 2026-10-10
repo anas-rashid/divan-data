@@ -1,0 +1,93 @@
+{
+  "Id": 31164,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۱۹۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۷",
+  "FullUrl": "/p390/divan/ghazal/sh197",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh197",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در وادی وفا ره و رفتار نازک است\r\nچون رنگ گل، طبیعت هر خار نازک است\r\nشرم تو کرده با همه کس آشنا ترا\r\nچون برگ لاله، روی تو بسیار نازک است\r\nمی بایدم ز کوچه ی سنگین دلان گذشت\r\nبا شیشه ای که چون دل بیمار نازک است\r\nخود را به پیری از غم عالم نگاه دار\r\nاز گل رسد قصور چو دستار نازک است\r\nوصف متاع خویش مکن هر نفس سلیم\r\nخاموش باش، طبع خریدار نازک است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در وادی وفا ره و رفتار نازک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون رنگ گل، طبیعت هر خار نازک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرم تو کرده با همه کس آشنا ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون برگ لاله، روی تو بسیار نازک است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می بایدم ز کوچه ی سنگین دلان گذشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با شیشه ای که چون دل بیمار نازک است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خود را به پیری از غم عالم نگاه دار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از گل رسد قصور چو دستار نازک است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وصف متاع خویش مکن هر نفس سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خاموش باش، طبع خریدار نازک است",
+      "CoupletIndex": 4
+    }
+  ]
+}

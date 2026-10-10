@@ -1,0 +1,66 @@
+{
+  "Id": 36319,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۸",
+  "FullUrl": "/p393/natmam/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تندخویی ز من نمی‌آید\r\nسرکه‌رویی ز من نمی‌آید\r\nگریه بر این فسردگان چه کنم\r\nمرده‌شویی ز من نمی‌آید\r\nنکنم جست‌وجوی سروقدان\r\nفتنه‌جویی ز من نمی‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تندخویی ز من نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرکه‌رویی ز من نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریه بر این فسردگان چه کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرده‌شویی ز من نمی‌آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نکنم جست‌وجوی سروقدان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فتنه‌جویی ز من نمی‌آید",
+      "CoupletIndex": 2
+    }
+  ]
+}

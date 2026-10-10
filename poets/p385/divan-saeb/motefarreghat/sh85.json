@@ -1,0 +1,57 @@
+{
+  "Id": 26691,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۸۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که تند و تلخ و خشم آلود آن بدخو نشست\r\nچین چو جوهر عاقبت بر تیغ آن ابرو نشست\r\nرو به دیوار آورد هر کس به من آورد روی\r\nبس که گرد کلفت از دوران مرا بر رو نشست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که تند و تلخ و خشم آلود آن بدخو نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چین چو جوهر عاقبت بر تیغ آن ابرو نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رو به دیوار آورد هر کس به من آورد روی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس که گرد کلفت از دوران مرا بر رو نشست",
+      "CoupletIndex": 1
+    }
+  ]
+}

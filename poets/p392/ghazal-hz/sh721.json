@@ -1,0 +1,93 @@
+{
+  "Id": 34148,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۲۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۲۱",
+  "FullUrl": "/p392/ghazal-hz/sh721",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh721",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشد فغان به اثر تا ره جنون نزدم\r\nسخن به نشئه نشد تا نفس به خون نزدم\r\nگرفته است سبوی مرا به سنگ چرا؟\r\nگلی به شیشهٔ این چرخ آبگون نزدم\r\nبه نزد شعبده بازان پیاده فرزین است\r\nمنم که نقش دغل با سپهر دون نزدم\r\nسبک سران پی کلکم روند و افسوس است\r\nکه نعل رخش سخن را چرا نگون نزدم؟\r\nچو سلک نظم جگر پاره ها گسسته حزین\r\nگره به رشته این اشک لاله گون نزدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشد فغان به اثر تا ره جنون نزدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخن به نشئه نشد تا نفس به خون نزدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفته است سبوی مرا به سنگ چرا؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلی به شیشهٔ این چرخ آبگون نزدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به نزد شعبده بازان پیاده فرزین است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "منم که نقش دغل با سپهر دون نزدم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سبک سران پی کلکم روند و افسوس است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که نعل رخش سخن را چرا نگون نزدم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو سلک نظم جگر پاره ها گسسته حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گره به رشته این اشک لاله گون نزدم",
+      "CoupletIndex": 4
+    }
+  ]
+}

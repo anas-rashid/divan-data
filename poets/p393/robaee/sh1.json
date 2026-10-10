@@ -1,0 +1,54 @@
+{
+  "Id": 37173,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/p393/robaee/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یا رب به فقیریم ترحم فرما\r\nیا رب به اسیریم ترحم فرما\r\nدر طفلی و جوانیم کردی رحم\r\nاکنون در پیریم ترحم فرما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب به فقیریم ترحم فرما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رب به اسیریم ترحم فرما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در طفلی و جوانیم کردی رحم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون در پیریم ترحم فرما",
+      "CoupletIndex": 1
+    }
+  ]
+}

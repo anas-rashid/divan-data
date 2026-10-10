@@ -1,0 +1,57 @@
+{
+  "Id": 33344,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/p391/divan/robaee/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرسبز شده جهان ز فیض نوروز\r\nیعنی که رسید روز عشرت اندوز\r\nبنشسته امیر مؤمنان جان نبی\r\nبگرفته قرار حق به مرکز امروز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرسبز شده جهان ز فیض نوروز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی که رسید روز عشرت اندوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنشسته امیر مؤمنان جان نبی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگرفته قرار حق به مرکز امروز",
+      "CoupletIndex": 1
+    }
+  ]
+}

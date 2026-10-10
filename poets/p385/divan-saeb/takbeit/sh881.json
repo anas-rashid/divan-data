@@ -1,0 +1,45 @@
+{
+  "Id": 18412,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۸۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۸۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh881",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh881",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شرم گنه، سرو موزون ز خاکم\r\nسرافکنده چون بید مجنون برآید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شرم گنه، سرو موزون ز خاکم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرافکنده چون بید مجنون برآید",
+      "CoupletIndex": 0
+    }
+  ]
+}

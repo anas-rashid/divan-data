@@ -1,0 +1,93 @@
+{
+  "Id": 32523,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۴۳۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۴۳۱",
+  "FullUrl": "/p391/divan/ghazal/sh431",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh431",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر موج خون به سینه مرا تیغ کین زند\r\nآن تندخو ز ناز چو چین بر جبین زند\r\nدور از تو ذرهٔ من دشمن همند\r\nهر موج خون به شمع دلم آستین زند\r\nممنون نیم زگریه که شبهای هجر او\r\nآبی بر آتش دل اندوهگین زند\r\nچشم سفید من چو کف از سر بدر رود\r\nاشکم چو جوش در جگر آتشین زند\r\nجویا چرا به روی نکو زاهدان بداند\r\nآدم بود که طعن رخ گندمین زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر موج خون به سینه مرا تیغ کین زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن تندخو ز ناز چو چین بر جبین زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دور از تو ذرهٔ من دشمن همند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر موج خون به شمع دلم آستین زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ممنون نیم زگریه که شبهای هجر او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آبی بر آتش دل اندوهگین زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چشم سفید من چو کف از سر بدر رود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اشکم چو جوش در جگر آتشین زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جویا چرا به روی نکو زاهدان بداند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آدم بود که طعن رخ گندمین زند",
+      "CoupletIndex": 4
+    }
+  ]
+}

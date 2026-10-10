@@ -1,0 +1,57 @@
+{
+  "Id": 37796,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۸۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۸۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh282",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh282",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر جا که ز فضل پیشگاهی است منم\r\nو آن کو یک تن شها سپاهی است منم\r\nگر دعوی ملک را گواهی است منم\r\nگر بر سخن از قیاس شاهی است منم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر جا که ز فضل پیشگاهی است منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آن کو یک تن شها سپاهی است منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دعوی ملک را گواهی است منم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بر سخن از قیاس شاهی است منم",
+      "CoupletIndex": 1
+    }
+  ]
+}

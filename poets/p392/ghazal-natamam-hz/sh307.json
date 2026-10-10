@@ -1,0 +1,45 @@
+{
+  "Id": 34966,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh307",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh307",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از وفا به خاطر جانان گران شده\r\nسود محبت است که ما را زیان شده",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از وفا به خاطر جانان گران شده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سود محبت است که ما را زیان شده",
+      "CoupletIndex": 0
+    }
+  ]
+}

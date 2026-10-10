@@ -1,0 +1,57 @@
+{
+  "Id": 27111,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۰۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۰۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh505",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh505",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما به زور اشک، موج از روی جیحون می بریم\r\nچین جوهر از جبین تیغ بیرون می بریم\r\nمنع ما دریاکشان ای زاهدان از ابلهی است\r\nما گلیم خویش را از آب بیرون می بریم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما به زور اشک، موج از روی جیحون می بریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چین جوهر از جبین تیغ بیرون می بریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منع ما دریاکشان ای زاهدان از ابلهی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما گلیم خویش را از آب بیرون می بریم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26113,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاصل ما از نظربازی نگاه حسرت است\r\nکشت ما را خوشه ای گر هست آه حسرت است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاصل ما از نظربازی نگاه حسرت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کشت ما را خوشه ای گر هست آه حسرت است",
+      "CoupletIndex": 0
+    }
+  ]
+}

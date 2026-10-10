@@ -1,0 +1,42 @@
+{
+  "Id": 27348,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۲",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن که بی شیرازه دارد کهنه اوراق مرا\r\nبارها شیرازه دیوان محشر کرده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن که بی شیرازه دارد کهنه اوراق مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بارها شیرازه دیوان محشر کرده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

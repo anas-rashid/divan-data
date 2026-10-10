@@ -1,0 +1,105 @@
+{
+  "Id": 27595,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۸۷",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۸۷",
+  "FullUrl": "/p386/ghazalor/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این صفا حسن و محبت ز هم اندوخته اند\r\nاین دو شمع اند که از یکدگر افروخته اند\r\nعشوه و ناز و تغافل که تراود از تو\r\nشیوه ها را همه گویی ز هم آموخته اند\r\nما فرو رفته به بحر غم بی پایانیم\r\nجامهٔ ما نه به اندازهء ما دوخته اند\r\nدفع لب تشنگی از شعله نکردست کسی\r\nمگر آن جمع که از آتش دل سوخته اند\r\nبندگان تو که درعشق خداوندانند\r\nدو جهان را به تمنای تو بفروخته اند\r\nعرفی آنان که ز تحقیق مسایل مست اند\r\nخون هم خورده از آن چهره برافروخته اند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این صفا حسن و محبت ز هم اندوخته اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این دو شمع اند که از یکدگر افروخته اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشوه و ناز و تغافل که تراود از تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیوه ها را همه گویی ز هم آموخته اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما فرو رفته به بحر غم بی پایانیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جامهٔ ما نه به اندازهء ما دوخته اند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دفع لب تشنگی از شعله نکردست کسی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مگر آن جمع که از آتش دل سوخته اند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بندگان تو که درعشق خداوندانند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دو جهان را به تمنای تو بفروخته اند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی آنان که ز تحقیق مسایل مست اند",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خون هم خورده از آن چهره برافروخته اند",
+      "CoupletIndex": 5
+    }
+  ]
+}

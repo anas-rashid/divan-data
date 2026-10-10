@@ -1,0 +1,57 @@
+{
+  "Id": 37858,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۴۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۴۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh344",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh344",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مادر که مرا بزاد زاد از پی تو\r\nهم ایزد که جان داد داد از پی تو\r\nگر نیستم ای نگار شاد از پی تو\r\nخون شمع دلم تافته باد از پی تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مادر که مرا بزاد زاد از پی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم ایزد که جان داد داد از پی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر نیستم ای نگار شاد از پی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون شمع دلم تافته باد از پی تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

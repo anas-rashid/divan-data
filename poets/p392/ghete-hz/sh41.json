@@ -1,0 +1,57 @@
+{
+  "Id": 34380,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۴۱ - و نیز در مطایبه",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۴۱ - و نیز در مطایبه",
+  "FullUrl": "/p392/ghete-hz/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای فلانی، شگفت نیست مرا\r\nاز عجبهای هند و بنگاله\r\nعجب آید از این که زاییده ست\r\nماچه خر مادر تو، گوساله",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای فلانی، شگفت نیست مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عجبهای هند و بنگاله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عجب آید از این که زاییده ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماچه خر مادر تو، گوساله",
+      "CoupletIndex": 1
+    }
+  ]
+}

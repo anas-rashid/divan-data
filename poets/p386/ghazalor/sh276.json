@@ -1,0 +1,105 @@
+{
+  "Id": 27684,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۷۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۷۶",
+  "FullUrl": "/p386/ghazalor/sh276",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh276",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز چشمم آب حسرت می تراود\r\nز هر مویم شکایت می تراود\r\nچنان در دل خلد گاه نمازم\r\nکه کفرم از عبادت می تراود\r\nزهی بی آبرو آن دل که از وی\r\nبه کاویدن محبت می تراود\r\nبگو تیغ از چه شربت آب دادی\r\nکه از هر زخم لذت می تراود\r\nحذر کن زین دعای آتش آلود\r\n کزین چشمه اجابت می تراود\r\nتراود از دل عرفی سخن ها\r\nولی هنگام فرصت می تراود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز چشمم آب حسرت می تراود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز هر مویم شکایت می تراود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چنان در دل خلد گاه نمازم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که کفرم از عبادت می تراود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زهی بی آبرو آن دل که از وی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به کاویدن محبت می تراود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بگو تیغ از چه شربت آب دادی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که از هر زخم لذت می تراود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حذر کن زین دعای آتش آلود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": " کزین چشمه اجابت می تراود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تراود از دل عرفی سخن ها",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ولی هنگام فرصت می تراود",
+      "CoupletIndex": 5
+    }
+  ]
+}

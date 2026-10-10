@@ -1,0 +1,69 @@
+{
+  "Id": 34979,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۲۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۲۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh320",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh320",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گذشت آن دور کز ساغر، کند یاری مرا یاری\r\nبه اشک لاله گون زین پس، نمایم چهره گلناری\r\nز بار زندگانی، در جهان چندان گران بارم\r\nکه جان ناتوان آمد مرا بر لب به دشواری\r\nشب غفلت فروبست، اختران را دیدهٔ روشن\r\nندانم ازکه باید داشت دیگر، چشم بیداری",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گذشت آن دور کز ساغر، کند یاری مرا یاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به اشک لاله گون زین پس، نمایم چهره گلناری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بار زندگانی، در جهان چندان گران بارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که جان ناتوان آمد مرا بر لب به دشواری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شب غفلت فروبست، اختران را دیدهٔ روشن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ندانم ازکه باید داشت دیگر، چشم بیداری",
+      "CoupletIndex": 2
+    }
+  ]
+}

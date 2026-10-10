@@ -1,0 +1,81 @@
+{
+  "Id": 29865,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۱۷",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۱۷",
+  "FullUrl": "/p389/ghazalgm/sh117",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh117",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایام بهارست و هوای چمنم نیست\r\nشادم به غمت ذوق گل و یاسمنم نیست\r\nگر شور قیامت شود از خاک نخیزم\r\nچون غنچه سر نشو و نما در کفنم نیست\r\nچون گلشن تصویر، گلم بوی ندارد\r\nبا آنکه گل ساخته‌ای در چمنم نیست\r\nچون عکس در آیینه گهی، گاه در آبم\r\nبیرون ز دل صاف‌ضمیران وطنم نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایام بهارست و هوای چمنم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شادم به غمت ذوق گل و یاسمنم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر شور قیامت شود از خاک نخیزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون غنچه سر نشو و نما در کفنم نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون گلشن تصویر، گلم بوی ندارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با آنکه گل ساخته‌ای در چمنم نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون عکس در آیینه گهی، گاه در آبم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بیرون ز دل صاف‌ضمیران وطنم نیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

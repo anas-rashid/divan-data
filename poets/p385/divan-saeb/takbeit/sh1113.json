@@ -1,0 +1,45 @@
+{
+  "Id": 18644,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۱۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۱۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من که بودم گردباد این بیابان، عاقبت\r\nچون ره خوابیده بار خاطر صحرا شدم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من که بودم گردباد این بیابان، عاقبت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون ره خوابیده بار خاطر صحرا شدم",
+      "CoupletIndex": 0
+    }
+  ]
+}

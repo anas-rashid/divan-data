@@ -1,0 +1,54 @@
+{
+  "Id": 37263,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/p393/robaee/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر دل که به روزگار من می‌سوزد\r\nبر جان گناهکار من می‌سوزد\r\nآن سوختنی منم که تا گرم شده است\r\nدوزخ در انتظار من می‌سوزد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دل که به روزگار من می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر جان گناهکار من می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن سوختنی منم که تا گرم شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوزخ در انتظار من می‌سوزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

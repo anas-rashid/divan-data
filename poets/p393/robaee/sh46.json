@@ -1,0 +1,54 @@
+{
+  "Id": 37218,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/p393/robaee/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در حلقهٔ ارباب ورع بارم نیست\r\nدر مردم رند هم کسی یارم نیست\r\nگیرم که به هیچ‌کس تو را کاری نیست\r\nمن هیچ‌کسم به هیچ‌کس کارم نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در حلقهٔ ارباب ورع بارم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مردم رند هم کسی یارم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیرم که به هیچ‌کس تو را کاری نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من هیچ‌کسم به هیچ‌کس کارم نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

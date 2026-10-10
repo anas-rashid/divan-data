@@ -1,0 +1,57 @@
+{
+  "Id": 30693,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳۶",
+  "FullUrl": "/p389/robghm/sh436",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh436",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارد به من اتحاد، یار از من بیش\r\nاو را بینم، آینه گر دارم پیش\r\nبرخاست دویی میان یار و دل ریش\r\nخون است دلم چو غنچه در پنجه خویش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارد به من اتحاد، یار از من بیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او را بینم، آینه گر دارم پیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخاست دویی میان یار و دل ریش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون است دلم چو غنچه در پنجه خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

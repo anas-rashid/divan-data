@@ -1,0 +1,57 @@
+{
+  "Id": 30293,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۶",
+  "FullUrl": "/p389/robghm/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مرحله کذب گذشتم به شتاب\r\nفال ره فقر می‌زنم در همه باب\r\nنزدیک‌ترست ره به افتادگی‌ام\r\nزان ره که فتد عکس در آیینه و آب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مرحله کذب گذشتم به شتاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فال ره فقر می‌زنم در همه باب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نزدیک‌ترست ره به افتادگی‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان ره که فتد عکس در آیینه و آب",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "Id": 33237,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۱",
+  "FullUrl": "/p391/divan/ghete/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفت امام عرش مسند قاسم خلد و جحیم\r\nآنکه بر فرقش برازنده است تاج انما\r\nکادمی در خواب باشد تا به قید زندگی است\r\nمی شود بیدار چون زین قید سازندش رها\r\nاهل تغییر از هر آن چیزی که می بینی به خواب\r\nمی نخواهند ای برادر غیر عکس مدعا\r\nپس چو مکروهی ببینی در جهان اصلا مرنج\r\nعکس آن را منتظر می‌باش از فضل خدا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفت امام عرش مسند قاسم خلد و جحیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنکه بر فرقش برازنده است تاج انما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کادمی در خواب باشد تا به قید زندگی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می شود بیدار چون زین قید سازندش رها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اهل تغییر از هر آن چیزی که می بینی به خواب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می نخواهند ای برادر غیر عکس مدعا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پس چو مکروهی ببینی در جهان اصلا مرنج",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عکس آن را منتظر می‌باش از فضل خدا",
+      "CoupletIndex": 3
+    }
+  ]
+}

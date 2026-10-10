@@ -1,0 +1,57 @@
+{
+  "Id": 30684,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۲۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۲۷",
+  "FullUrl": "/p389/robghm/sh427",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh427",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل عقده چرخ تا گشود، افکندش\r\nبرداشت اگرچه زود، زود افکندش\r\nرهرو گرهی دید به راهی، برداشت\r\nبگشود، در او هیچ نبود، افکندش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل عقده چرخ تا گشود، افکندش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برداشت اگرچه زود، زود افکندش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رهرو گرهی دید به راهی، برداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگشود، در او هیچ نبود، افکندش",
+      "CoupletIndex": 1
+    }
+  ]
+}

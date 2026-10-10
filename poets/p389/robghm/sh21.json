@@ -1,0 +1,57 @@
+{
+  "Id": 30278,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/p389/robghm/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در حضرت دوست انس جان را چه بقا\r\nباقی همه اوست، این و آن را چه بقا\r\nخرسند به جانی و تسلی به جهان\r\nجان را چه ثبات است و جهان را چه بقا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در حضرت دوست انس جان را چه بقا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باقی همه اوست، این و آن را چه بقا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرسند به جانی و تسلی به جهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان را چه ثبات است و جهان را چه بقا",
+      "CoupletIndex": 1
+    }
+  ]
+}

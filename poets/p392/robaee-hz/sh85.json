@@ -1,0 +1,57 @@
+{
+  "Id": 34480,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/p392/robaee-hz/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک چند دل از پی تمنا گردید\r\nجانم هدف طعنه اعدا گردید\r\nگردید ز هر طرف چو راهم بسته\r\nراه سر کوی دوست پیدا گردید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک چند دل از پی تمنا گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانم هدف طعنه اعدا گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردید ز هر طرف چو راهم بسته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "راه سر کوی دوست پیدا گردید",
+      "CoupletIndex": 1
+    }
+  ]
+}

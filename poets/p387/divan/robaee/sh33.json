@@ -1,0 +1,57 @@
+{
+  "Id": 28903,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/p387/divan/robaee/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاها یکره بهر که افتد نظرت\r\nایمن شود از حادثه چون خاک درت\r\nخورشید نیارد که بر آن تیغ کشد\r\nخاکی که برو سایه فتد از سپرت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها یکره بهر که افتد نظرت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایمن شود از حادثه چون خاک درت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید نیارد که بر آن تیغ کشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاکی که برو سایه فتد از سپرت",
+      "CoupletIndex": 1
+    }
+  ]
+}

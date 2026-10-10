@@ -1,0 +1,42 @@
+{
+  "Id": 26138,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از گرانخوابی چو چشم دام آزادیم ما\r\nغفلت ما نیست غفلت، خواب صیادیم ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از گرانخوابی چو چشم دام آزادیم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غفلت ما نیست غفلت، خواب صیادیم ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

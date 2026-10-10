@@ -1,0 +1,69 @@
+{
+  "Id": 26670,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کو باده تا به سنگ زنم جام عقل را؟\r\nاز خط جام، حلقه کنم نام عقل را\r\nعمری که در ملال رود در حساب نیست\r\nچون بشمرم ز عمر خود ایام عقل را؟\r\nتفسیده تر ز ریگ روان است مغز ما\r\nضایع مساز روغن بادام عقل را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کو باده تا به سنگ زنم جام عقل را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خط جام، حلقه کنم نام عقل را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمری که در ملال رود در حساب نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بشمرم ز عمر خود ایام عقل را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تفسیده تر ز ریگ روان است مغز ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ضایع مساز روغن بادام عقل را",
+      "CoupletIndex": 2
+    }
+  ]
+}

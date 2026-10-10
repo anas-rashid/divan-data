@@ -1,0 +1,57 @@
+{
+  "Id": 33363,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۲",
+  "FullUrl": "/p391/divan/robaee/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طعن این همه بر چرخ ستم پیشه مزن\r\nبا دست و زبان سنگ بر این شیشه مزن\r\nزشت است مذمت جهان ز اهل جهان\r\nشاخی که نشسته‌ای بر آن تیشه مزن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طعن این همه بر چرخ ستم پیشه مزن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دست و زبان سنگ بر این شیشه مزن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زشت است مذمت جهان ز اهل جهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاخی که نشسته‌ای بر آن تیشه مزن",
+      "CoupletIndex": 1
+    }
+  ]
+}

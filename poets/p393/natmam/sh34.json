@@ -1,0 +1,66 @@
+{
+  "Id": 36185,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۴",
+  "FullUrl": "/p393/natmam/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا فرود آمدی به خانهٔ ما\r\nسرمه شد خاک آستانهٔ ما\r\nمی‌فشاند نمک به دیدهٔ خواب\r\nطرفه شوری‌ست در فسانهٔ ما\r\nآتش ما نمی‌شود خاموش\r\nنَفِتد از زبان زبانهٔ ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا فرود آمدی به خانهٔ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمه شد خاک آستانهٔ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌فشاند نمک به دیدهٔ خواب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طرفه شوری‌ست در فسانهٔ ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آتش ما نمی‌شود خاموش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نَفِتد از زبان زبانهٔ ما",
+      "CoupletIndex": 2
+    }
+  ]
+}

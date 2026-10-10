@@ -1,0 +1,57 @@
+{
+  "Id": 30874,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۷",
+  "FullUrl": "/p389/robghm/sh617",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh617",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌فیضان را چه باک از بی‌برگی؟\r\nفیّاض شود هلاک از بی‌برگی\r\nدرویشان را بس این خسارت کز نخل\r\nسایه نفتد به خاک از بی‌برگی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌فیضان را چه باک از بی‌برگی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فیّاض شود هلاک از بی‌برگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درویشان را بس این خسارت کز نخل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سایه نفتد به خاک از بی‌برگی",
+      "CoupletIndex": 1
+    }
+  ]
+}

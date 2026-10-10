@@ -1,0 +1,57 @@
+{
+  "Id": 30250,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۲",
+  "FullUrl": "/p389/mmgh/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز دود محبت که بود نور چراغم\r\nآموخته بوی دگر نیست دماغم\r\nبی ساغر اندوه، دلم تازه نگردد\r\nتا خون نشود، وا نشود غنچه باغم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز دود محبت که بود نور چراغم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آموخته بوی دگر نیست دماغم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ساغر اندوه، دلم تازه نگردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا خون نشود، وا نشود غنچه باغم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 31104,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۷",
+  "FullUrl": "/p390/divan/ghazal/sh137",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh137",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوبهار است و چمن در پی سامان گل است\r\nابر بر روی هوا، دود چراغان گل است\r\nبس که گل سر زده از هر سر خار ماهی\r\nکوچه ی موج به دریا چو خیابان گل است\r\nمستی از لاله سر شحنه چراغان کرده ست\r\nمی دلیرانه بنوشید که دوران گل است\r\nباغبان خار عبث بر سر دیوار نهد\r\nرخنه ی این چمن از چاک گریبان گل است\r\nترسم آخر همه اطراف چمن درگیرد\r\nاز چراغی که نهان در ته دامان گل است\r\nگل چو ما نیست که از قصه ی عشاق سلیم\r\nنکته ای چند بر اوراق پریشان گل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوبهار است و چمن در پی سامان گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابر بر روی هوا، دود چراغان گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس که گل سر زده از هر سر خار ماهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوچه ی موج به دریا چو خیابان گل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مستی از لاله سر شحنه چراغان کرده ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می دلیرانه بنوشید که دوران گل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "باغبان خار عبث بر سر دیوار نهد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رخنه ی این چمن از چاک گریبان گل است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ترسم آخر همه اطراف چمن درگیرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از چراغی که نهان در ته دامان گل است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گل چو ما نیست که از قصه ی عشاق سلیم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نکته ای چند بر اوراق پریشان گل است",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27034,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh428",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh428",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آثار عشق در دل چون سنگ من نماند\r\nدر بیستون من اثر از کوهکن نماند\r\nتا رنگ من شکسته خود را درست کرد\r\nگلگونه در بساط سهیل یمن نماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آثار عشق در دل چون سنگ من نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بیستون من اثر از کوهکن نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا رنگ من شکسته خود را درست کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلگونه در بساط سهیل یمن نماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

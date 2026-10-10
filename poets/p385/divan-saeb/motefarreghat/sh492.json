@@ -1,0 +1,57 @@
+{
+  "Id": 27098,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۹۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۹۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh492",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh492",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌تراود وحشت از بوم و بر کاشانه‌ام\r\nدارد از چشم غزالان حلقه در خانه‌ام\r\nدام زیر خاک سازد سیل بی‌زنهار را\r\nبس که باشد گرد کلفت فرش در کاشانه‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌تراود وحشت از بوم و بر کاشانه‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارد از چشم غزالان حلقه در خانه‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دام زیر خاک سازد سیل بی‌زنهار را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس که باشد گرد کلفت فرش در کاشانه‌ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31372,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۰۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۰۵",
+  "FullUrl": "/p390/divan/ghazal/sh405",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh405",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با لطف ساعدت ید بیضا نمی‌رسد\r\nپیش لبت سخن به مسیحا نمی‌رسد\r\nپای برهنه، گرم سراغم که شعله را\r\nاز خار زحمتی به کف پا نمی‌رسد\r\nدایم شریک عشرت این باغ بوده‌ایم\r\nگلشن کنون به بلبل تنها نمی‌رسد\r\nما را ز عیش نیست نصیبی که دست ما\r\nاز کوتهی به گردن مینا نمی‌رسد\r\nخاک ار شویم در ره شوق تو چون سلیم\r\nگردی ز ما به دامن صحرا نمی‌رسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با لطف ساعدت ید بیضا نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش لبت سخن به مسیحا نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پای برهنه، گرم سراغم که شعله را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خار زحمتی به کف پا نمی‌رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دایم شریک عشرت این باغ بوده‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گلشن کنون به بلبل تنها نمی‌رسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما را ز عیش نیست نصیبی که دست ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از کوتهی به گردن مینا نمی‌رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خاک ار شویم در ره شوق تو چون سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گردی ز ما به دامن صحرا نمی‌رسد",
+      "CoupletIndex": 4
+    }
+  ]
+}

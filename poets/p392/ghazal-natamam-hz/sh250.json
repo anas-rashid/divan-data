@@ -1,0 +1,57 @@
+{
+  "Id": 34909,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۵۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۵۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh250",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh250",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه زدی بر قدح، امروز مرا سنگ\r\nفرداست درین راه، کند پای تو را لنگ\r\nدر رهگذر بال فشانان مفکن دام\r\nترسم که تو را سخت فشارد، قفس تنگ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه زدی بر قدح، امروز مرا سنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرداست درین راه، کند پای تو را لنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در رهگذر بال فشانان مفکن دام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که تو را سخت فشارد، قفس تنگ",
+      "CoupletIndex": 1
+    }
+  ]
+}

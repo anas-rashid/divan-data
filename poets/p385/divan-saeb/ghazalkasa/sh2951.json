@@ -1,0 +1,93 @@
+{
+  "Id": 22024,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۹۵۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۹۵۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2951",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2951",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل بی غم نصیب از نقطه سودا نمی دارد\r\nکه هرگز آب شیرین عنبر سارا نمی دارد\r\nبدار ای ناصح بیکار دست از جستجوی ما\r\nکه از خود رفته در دنبال نقش پا نمی دارد\r\nندارد راه در دارالامان خامشی آفت\r\nصدف اندیشه ای از تلخی دریا نمی دارد\r\nبه نور شمع نتوان برد راه از خویشتن بیرون\r\nکه این ظلمت چراغی جز دل بیتا نمی دارد\r\nمکن از بیخودی منع دل سودایی صائب\r\nکه وحشت دیده دست از دامن صحرا نمی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل بی غم نصیب از نقطه سودا نمی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که هرگز آب شیرین عنبر سارا نمی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بدار ای ناصح بیکار دست از جستجوی ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از خود رفته در دنبال نقش پا نمی دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ندارد راه در دارالامان خامشی آفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صدف اندیشه ای از تلخی دریا نمی دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به نور شمع نتوان برد راه از خویشتن بیرون",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که این ظلمت چراغی جز دل بیتا نمی دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مکن از بیخودی منع دل سودایی صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که وحشت دیده دست از دامن صحرا نمی دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

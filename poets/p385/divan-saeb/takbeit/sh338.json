@@ -1,0 +1,45 @@
+{
+  "Id": 17869,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۳۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۳۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh338",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh338",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رَفتن از عالَمِ پُرشور، بِه از آمدن است\r\nغنچه، دل‌تَنگ به باغ آمد و؛ خندان، برخاست!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رَفتن از عالَمِ پُرشور، بِه از آمدن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه، دل‌تَنگ به باغ آمد و؛ خندان، برخاست!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 21114,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۰۴۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۰۴۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2041",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2041",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از فکر زلف یار رهایی امید نیست\r\nسودای او شبی است که صبحش پدید نیست\r\nباشد نصیب بی ثمران حسن عاقبت\r\nشیرازه نبات به جز چوب بید نیست\r\nدر چشم عاشقی که زبان دان ناز شد\r\nچین جبین یار، کم از ماه عید نیست\r\nدر سوختن بلند نشد دود این سپند\r\nچون من کسی ز نشو و نما ناامید نیست\r\nمحرومیم ز دل ز غبار علایق است\r\nاز گرد کاروان رخ یوسف پدید نیست\r\nصائب دلش سیاه ازین صبح کاذب است\r\nهر چند موی نافه ز پیری سفید نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از فکر زلف یار رهایی امید نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودای او شبی است که صبحش پدید نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد نصیب بی ثمران حسن عاقبت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیرازه نبات به جز چوب بید نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در چشم عاشقی که زبان دان ناز شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چین جبین یار، کم از ماه عید نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در سوختن بلند نشد دود این سپند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون من کسی ز نشو و نما ناامید نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "محرومیم ز دل ز غبار علایق است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از گرد کاروان رخ یوسف پدید نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صائب دلش سیاه ازین صبح کاذب است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هر چند موی نافه ز پیری سفید نیست",
+      "CoupletIndex": 5
+    }
+  ]
+}

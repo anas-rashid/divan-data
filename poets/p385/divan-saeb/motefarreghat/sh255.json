@@ -1,0 +1,57 @@
+{
+  "Id": 26861,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۵۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۵۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh255",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh255",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی تو گر ساغر زنم خون در رگم نشتر شود\r\nبی دم تیغت اگر آبی خورم خنجر شود\r\nغیرت ما ناز از معشوق نتواند کشید\r\nبلبل مغرور ما از خنده گل، تر شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تو گر ساغر زنم خون در رگم نشتر شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی دم تیغت اگر آبی خورم خنجر شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غیرت ما ناز از معشوق نتواند کشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلبل مغرور ما از خنده گل، تر شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

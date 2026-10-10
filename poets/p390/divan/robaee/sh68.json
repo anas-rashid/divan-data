@@ -1,0 +1,57 @@
+{
+  "Id": 32066,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۸",
+  "FullUrl": "/p390/divan/robaee/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا افتادی ز صدر زین، ناشادم\r\nاز نسبت مرکب تو خصم بادم\r\nمی خواستم این الم مرا هم باشد\r\nچون اسب نداشتم، ز پا افتادم!",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا افتادی ز صدر زین، ناشادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نسبت مرکب تو خصم بادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می خواستم این الم مرا هم باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون اسب نداشتم، ز پا افتادم!",
+      "CoupletIndex": 1
+    }
+  ]
+}

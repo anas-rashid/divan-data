@@ -1,0 +1,57 @@
+{
+  "Id": 27010,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۰۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۰۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh404",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh404",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمرم به تلخکامی مل خرج می شود\r\nاشکم به رنگ لاله و گل خرج می شود\r\nبا عاشقان همین سخن عاشقی بگوی\r\nدر کشور قفس زر گل خرج می شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمرم به تلخکامی مل خرج می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اشکم به رنگ لاله و گل خرج می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با عاشقان همین سخن عاشقی بگوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کشور قفس زر گل خرج می شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 21247,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۱۷۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۱۷۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2174",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2174",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در هر جگری شوری ازین گرم نفس هست\r\nچون صبح، مرا حق نفس بر همه کس هست\r\nاندیشه آزاد شدن فال غریبی است\r\nآن را که خیابان گل از چاک قفس هست\r\nگلبانگ نشاط از دل مجنون نشود کم\r\nچندان که درین بادیه آواز جرس هست\r\nگر نیست مرا در حرم تنگ شکر، بار\r\nسامان به سر دست زدن همچو مگس هست\r\nصائب نشود پخته به خورشید قیامت\r\nدر میوه هر دل که رگ خام هوس هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هر جگری شوری ازین گرم نفس هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون صبح، مرا حق نفس بر همه کس هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندیشه آزاد شدن فال غریبی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن را که خیابان گل از چاک قفس هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گلبانگ نشاط از دل مجنون نشود کم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چندان که درین بادیه آواز جرس هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر نیست مرا در حرم تنگ شکر، بار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سامان به سر دست زدن همچو مگس هست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب نشود پخته به خورشید قیامت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در میوه هر دل که رگ خام هوس هست",
+      "CoupletIndex": 4
+    }
+  ]
+}

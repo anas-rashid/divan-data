@@ -1,0 +1,57 @@
+{
+  "Id": 34618,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۲۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۲۳",
+  "FullUrl": "/p392/robaee-hz/sh223",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh223",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاران عزیز و نور بینایی من\r\nرفتند چو هوش از سر سودایی من\r\nرفتند و گذاشتند با بی کسیم\r\nاندیشه نکردند ز تنهایی من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران عزیز و نور بینایی من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفتند چو هوش از سر سودایی من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتند و گذاشتند با بی کسیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشه نکردند ز تنهایی من",
+      "CoupletIndex": 1
+    }
+  ]
+}

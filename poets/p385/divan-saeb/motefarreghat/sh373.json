@@ -1,0 +1,57 @@
+{
+  "Id": 26979,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh373",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh373",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فیض در دامن صحرای جنون می باشد\r\nخاک این بادیه آغشته به خون می باشد\r\nاز جوان بیش بود طول امل پیران را\r\nریشه نخل کهنسال فزون می باشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فیض در دامن صحرای جنون می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک این بادیه آغشته به خون می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جوان بیش بود طول امل پیران را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ریشه نخل کهنسال فزون می باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

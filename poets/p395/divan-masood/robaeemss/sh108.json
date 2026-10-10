@@ -1,0 +1,57 @@
+{
+  "Id": 37622,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با من در مهر گرم چون آتش بود\r\nبی من روزش چو دود می بود کبود\r\nچون آتش رود سرد شد بر من زود\r\nشد عیش من از تیزی او تلخ چو دود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با من در مهر گرم چون آتش بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی من روزش چو دود می بود کبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آتش رود سرد شد بر من زود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد عیش من از تیزی او تلخ چو دود",
+      "CoupletIndex": 1
+    }
+  ]
+}

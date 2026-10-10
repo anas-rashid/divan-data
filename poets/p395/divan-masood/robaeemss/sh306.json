@@ -1,0 +1,57 @@
+{
+  "Id": 37820,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۰۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۰۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh306",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh306",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این دیبه دو روی به کلک دو زبان\r\nپرداخته شد به قوت خاطر و جان\r\nبستانش به نام ایزد ای باد وزان\r\nلوهور به نزد خواجه بونصر رسان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این دیبه دو روی به کلک دو زبان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرداخته شد به قوت خاطر و جان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بستانش به نام ایزد ای باد وزان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لوهور به نزد خواجه بونصر رسان",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 32400,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۸",
+  "FullUrl": "/p391/divan/ghazal/sh308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرمهٔ گردون به چشمم گرد راهی بیش نیست\r\nپیش ما آتش نژادان، شعله، آهی بیش نیست\r\nنیست بیرون پای دل از حلقهٔ فرمان زلف\r\nبا وجود آنکه هندوی سیاهی بیش نیست\r\nهر که در گام نخست عشق از خود می رود\r\nبرق پیش همت او گرد راهی بیش نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمهٔ گردون به چشمم گرد راهی بیش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش ما آتش نژادان، شعله، آهی بیش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست بیرون پای دل از حلقهٔ فرمان زلف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با وجود آنکه هندوی سیاهی بیش نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر که در گام نخست عشق از خود می رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برق پیش همت او گرد راهی بیش نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

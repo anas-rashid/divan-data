@@ -1,0 +1,57 @@
+{
+  "Id": 29640,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/p388/divan/robaee/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمعی که فروزان نشود کوکب ماست\r\nبرقی که ضیا نمی دهد مطلب ماست\r\nصبح همه مرغان سحرخیز دمید\r\nمرغی که سحر نمی شناسد شب ماست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمعی که فروزان نشود کوکب ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برقی که ضیا نمی دهد مطلب ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح همه مرغان سحرخیز دمید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغی که سحر نمی شناسد شب ماست",
+      "CoupletIndex": 1
+    }
+  ]
+}

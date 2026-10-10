@@ -1,0 +1,42 @@
+{
+  "Id": 26323,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۳۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۳۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh235",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh235",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسنت هلال را به سر آسمان شکست\r\nمی خواست چله (را) بنشاند، کمان شکست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسنت هلال را به سر آسمان شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می خواست چله (را) بنشاند، کمان شکست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37735,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۲۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۲۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh221",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh221",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای طبع بده ور ندهی بستانم\r\nآن مایه که گرد کرده ای من دانم\r\nای آتش اندیشه چو من درمانم\r\nاندر تو زنم گر نبری فرمانم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای طبع بده ور ندهی بستانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن مایه که گرد کرده ای من دانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آتش اندیشه چو من درمانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندر تو زنم گر نبری فرمانم",
+      "CoupletIndex": 1
+    }
+  ]
+}

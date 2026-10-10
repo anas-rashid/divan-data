@@ -1,0 +1,57 @@
+{
+  "Id": 28119,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۷۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷۶",
+  "FullUrl": "/p386/robaeeor/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کس که عنان تافت ز ما گمره شد\r\nوان کس که عنان سپرد کارآگه شد\r\nیوسف به در آورد و زلیخا گردید\r\nهر کس که به ریسمان ما در چه شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که عنان تافت ز ما گمره شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان کس که عنان سپرد کارآگه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یوسف به در آورد و زلیخا گردید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کس که به ریسمان ما در چه شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

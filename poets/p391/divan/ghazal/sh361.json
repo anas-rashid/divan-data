@@ -1,0 +1,93 @@
+{
+  "Id": 32453,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۶۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۶۱",
+  "FullUrl": "/p391/divan/ghazal/sh361",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh361",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجا روم که به دردم رسید و هیچ نگفت\r\nفغان که نالهٔ زارم شنید و هیچ نگفت\r\nچو دید شوخی شبنم ببرگ گل در باغ\r\nلب از حجاب به دندان گزید و هیچ نگفت\r\nگرفتمش سر راهی به خاک و خون غلطان\r\nرسید بر سرم، آهی کشید و هیچ نگفت\r\nبگفتمش که کباب نگاه کیست دلم\r\nبه خنده جا نب من گرم دید و هیچ نگفت\r\nشنید شکوهٔ اغیار را ز من جویا\r\nز غیر خاطرش از جان رمید و هیچ نگفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجا روم که به دردم رسید و هیچ نگفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فغان که نالهٔ زارم شنید و هیچ نگفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو دید شوخی شبنم ببرگ گل در باغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لب از حجاب به دندان گزید و هیچ نگفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرفتمش سر راهی به خاک و خون غلطان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رسید بر سرم، آهی کشید و هیچ نگفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بگفتمش که کباب نگاه کیست دلم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به خنده جا نب من گرم دید و هیچ نگفت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شنید شکوهٔ اغیار را ز من جویا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز غیر خاطرش از جان رمید و هیچ نگفت",
+      "CoupletIndex": 4
+    }
+  ]
+}

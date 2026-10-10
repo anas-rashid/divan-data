@@ -1,0 +1,42 @@
+{
+  "Id": 36877,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۶۸",
+  "FullUrl": "/p393/mot/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در چمن گر بهار نیست چه سود\r\nور بهار است یار نیست چه سود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در چمن گر بهار نیست چه سود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور بهار است یار نیست چه سود",
+      "CoupletIndex": 0
+    }
+  ]
+}

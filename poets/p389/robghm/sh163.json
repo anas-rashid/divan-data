@@ -1,0 +1,57 @@
+{
+  "Id": 30420,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۶۳",
+  "FullUrl": "/p389/robghm/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون قافله از وادی مجنون بگذشت\r\nمحمل سوی بیستون کشیدیم ز دشت\r\nدیدیم که مرغ روح فرهاد هنوز\r\nبر گرد بنای قصر شیرین می‌گشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون قافله از وادی مجنون بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محمل سوی بیستون کشیدیم ز دشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدیم که مرغ روح فرهاد هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر گرد بنای قصر شیرین می‌گشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

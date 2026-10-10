@@ -1,0 +1,81 @@
+{
+  "Id": 27541,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۳۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۳۳",
+  "FullUrl": "/p386/ghazalor/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر می نخورده ای ز منت انفعال چیست\r\nای خون شرم ریخته این رنگ آل چیست\r\nکی لازم است باده کشیدن ز جام زر\r\nمقصود تو اگر این است، قصور سفال چیست\r\nحسرت نگر که مست نگاه است چشم من\r\nآگه نی ام که شرم چه و انفعال چیست\r\nمردیم عرفی ز غم آن طفل خرد سال\r\nمعلوم ما نشد که بر این ابتهال چیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر می نخورده ای ز منت انفعال چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای خون شرم ریخته این رنگ آل چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی لازم است باده کشیدن ز جام زر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مقصود تو اگر این است، قصور سفال چیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حسرت نگر که مست نگاه است چشم من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آگه نی ام که شرم چه و انفعال چیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مردیم عرفی ز غم آن طفل خرد سال",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "معلوم ما نشد که بر این ابتهال چیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

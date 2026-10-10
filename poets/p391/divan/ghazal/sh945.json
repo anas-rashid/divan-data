@@ -1,0 +1,81 @@
+{
+  "Id": 33037,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۴۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۴۵",
+  "FullUrl": "/p391/divan/ghazal/sh945",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh945",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نخواهد کرد گردون بعد از این آهنگ جنگ من\r\nکه باشد کوکبش بر پیکر آثار خدنگ من\r\nبه صد بی تابی پروانه گرد شمع رخساری\r\nبه بال دل تپیدین می پرد طاووس رنگ من\r\nزداید کلفت از دلم یاد بناگوشی\r\nهوای صبح می خواهد دماغ نیم رنگ من\r\nز هر موج هوا طاووس سرمستی به رقص آرد\r\nچو در پرواز آید گرد راه شوخ و شنگ من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخواهد کرد گردون بعد از این آهنگ جنگ من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که باشد کوکبش بر پیکر آثار خدنگ من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به صد بی تابی پروانه گرد شمع رخساری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بال دل تپیدین می پرد طاووس رنگ من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زداید کلفت از دلم یاد بناگوشی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هوای صبح می خواهد دماغ نیم رنگ من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز هر موج هوا طاووس سرمستی به رقص آرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو در پرواز آید گرد راه شوخ و شنگ من",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27116,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۱۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۱۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh510",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh510",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به بوسی قانع از لبهای شکربار چون گردم؟\r\nازین قند مکرر سیر من یکبار چون گردم؟\r\nز بوی گل گرانی می کشد نازک نهال من\r\nبه چندین کوه غم بر خاطر او بار چون گردم؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به بوسی قانع از لبهای شکربار چون گردم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازین قند مکرر سیر من یکبار چون گردم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بوی گل گرانی می کشد نازک نهال من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به چندین کوه غم بر خاطر او بار چون گردم؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

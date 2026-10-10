@@ -1,0 +1,45 @@
+{
+  "Id": 17608,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh77",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh77",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاش وقت آمدن واقف ز رفتن می‌شدم\r\nتا چو نی در خاک می‌بستم میان خویش را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاش وقت آمدن واقف ز رفتن می‌شدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چو نی در خاک می‌بستم میان خویش را",
+      "CoupletIndex": 0
+    }
+  ]
+}

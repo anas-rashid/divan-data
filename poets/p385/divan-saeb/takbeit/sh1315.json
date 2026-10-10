@@ -1,0 +1,45 @@
+{
+  "Id": 18846,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۱۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۱۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1315",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1315",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کنون که شیشهٔ می‌مالک الرقاب شده است\r\nز عقل نیست سر از خط جام پیچیدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کنون که شیشهٔ می‌مالک الرقاب شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز عقل نیست سر از خط جام پیچیدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

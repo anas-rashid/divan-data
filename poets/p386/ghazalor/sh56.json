@@ -1,0 +1,81 @@
+{
+  "Id": 27464,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۵۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۵۶",
+  "FullUrl": "/p386/ghazalor/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عهد حسنش روزگار دستبرد آتش است\r\nصاف آتش حسن او خورشیدبرد آتش است\r\nخان و نان عالمی از آتش حسنش بسوخت\r\nدر شمار خانه سوز روزبرد آتش است\r\nبستگان عشق را بی دل برد آب حیات\r\nاین متاع آماده بهر دست برد آتش است\r\nعرفی اندر عشق اگر ناقص بود افسرده نیست\r\nصید عشق ار خام باشد نیم خورد آتش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عهد حسنش روزگار دستبرد آتش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صاف آتش حسن او خورشیدبرد آتش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خان و نان عالمی از آتش حسنش بسوخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در شمار خانه سوز روزبرد آتش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بستگان عشق را بی دل برد آب حیات",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این متاع آماده بهر دست برد آتش است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عرفی اندر عشق اگر ناقص بود افسرده نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صید عشق ار خام باشد نیم خورد آتش است",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17699,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۶۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۶۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با چُنین سامانِ حُسن، ای غنچه‌لب، انصاف نیست\r\nاز برای بوسه‌ای خون در جِگر کَردن، مَرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با چُنین سامانِ حُسن، ای غنچه‌لب، انصاف نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از برای بوسه‌ای خون در جِگر کَردن، مَرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

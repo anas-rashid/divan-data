@@ -1,0 +1,57 @@
+{
+  "Id": 34572,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۷۷",
+  "FullUrl": "/p392/robaee-hz/sh177",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh177",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا عشق فکند در دلم تاب چو شمع\r\nیک لمحه ندید دیده‌ام خواب چو شمع\r\nفریاد ز مشرب سمندر زادم\r\nزآتش رگ جان من خورد آب چو شمع",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا عشق فکند در دلم تاب چو شمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک لمحه ندید دیده‌ام خواب چو شمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد ز مشرب سمندر زادم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآتش رگ جان من خورد آب چو شمع",
+      "CoupletIndex": 1
+    }
+  ]
+}

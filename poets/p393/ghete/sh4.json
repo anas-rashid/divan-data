@@ -1,0 +1,54 @@
+{
+  "Id": 36484,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴",
+  "FullUrl": "/p393/ghete/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیم‌جانی مانده است از دوریت در تن بیا\r\nپیش ازین دل بردی اکنون بهر جان‌بردن بیا\r\nگر به بیداری عزیزان مانع‌اند از آمدن\r\nهمچو یوسف ای پسر یک شب به خواب من بیا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیم‌جانی مانده است از دوریت در تن بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش ازین دل بردی اکنون بهر جان‌بردن بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر به بیداری عزیزان مانع‌اند از آمدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو یوسف ای پسر یک شب به خواب من بیا",
+      "CoupletIndex": 1
+    }
+  ]
+}

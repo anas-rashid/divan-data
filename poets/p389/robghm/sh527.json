@@ -1,0 +1,57 @@
+{
+  "Id": 30784,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۷",
+  "FullUrl": "/p389/robghm/sh527",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh527",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دل نرود آه غم‌آلود برون\r\nکو زخم خدنگی که رود زود برون؟\r\nهر خانه که هست، روزنی می‌خواهد\r\nتا نور درآید و رود دود برون",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دل نرود آه غم‌آلود برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کو زخم خدنگی که رود زود برون؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر خانه که هست، روزنی می‌خواهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا نور درآید و رود دود برون",
+      "CoupletIndex": 1
+    }
+  ]
+}

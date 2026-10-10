@@ -1,0 +1,81 @@
+{
+  "Id": 29996,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۴۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۴۸",
+  "FullUrl": "/p389/ghazalgm/sh248",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh248",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ دورانی چو عهد بی‌سرانجامی نبود\r\nحیف ازان عمری که در خونابه آشامی نبود\r\nدر دل گرمم نماند افزون ز یک دوزخ شرر\r\nهرگزم در عشق خوبان دل به این خامی نبود\r\nغیرتم نگذاشت کو را شهره عالم کنم\r\nگر نکردم خویش را رسوا، ز بدنامی نبود\r\nهیچ نوشی را ندیدم کز عقب نیشی نداشت\r\nآزمودم، هیچ کامی همچو ناکامی نبود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ دورانی چو عهد بی‌سرانجامی نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیف ازان عمری که در خونابه آشامی نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دل گرمم نماند افزون ز یک دوزخ شرر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگزم در عشق خوبان دل به این خامی نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غیرتم نگذاشت کو را شهره عالم کنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر نکردم خویش را رسوا، ز بدنامی نبود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هیچ نوشی را ندیدم کز عقب نیشی نداشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آزمودم، هیچ کامی همچو ناکامی نبود",
+      "CoupletIndex": 3
+    }
+  ]
+}

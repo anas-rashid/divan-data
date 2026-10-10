@@ -1,0 +1,57 @@
+{
+  "Id": 30358,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/p389/robghm/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مهر تو، مه ذره صفت رقاص است\r\nاما گهر شناخت، خاص‌الخاص است\r\nعارف دارد گوهر عرفان تو را\r\nغارت‌گر خانه صدف غواص است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مهر تو، مه ذره صفت رقاص است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اما گهر شناخت، خاص‌الخاص است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عارف دارد گوهر عرفان تو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غارت‌گر خانه صدف غواص است",
+      "CoupletIndex": 1
+    }
+  ]
+}

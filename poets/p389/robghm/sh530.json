@@ -1,0 +1,57 @@
+{
+  "Id": 30787,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۰",
+  "FullUrl": "/p389/robghm/sh530",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh530",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلفی شده قید من، نه زنجیرست این\r\nدر دل مژه‌ای خلیده کی تیرست این\r\nدیوانه عشق را نصیحت گویی؟\r\nای عقل، فنا شوی، چه تدبیرست این",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفی شده قید من، نه زنجیرست این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل مژه‌ای خلیده کی تیرست این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیوانه عشق را نصیحت گویی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای عقل، فنا شوی، چه تدبیرست این",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27023,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۱۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۱۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh417",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh417",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رونق ز لاله زار تو خط سیاه برد\r\nاین هاله روشنی ز شبستان ماه برد\r\nای ناخدای موج به فریاد من برس\r\nباد مراد کشتی ما را ز راه برد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رونق ز لاله زار تو خط سیاه برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این هاله روشنی ز شبستان ماه برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای ناخدای موج به فریاد من برس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد مراد کشتی ما را ز راه برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

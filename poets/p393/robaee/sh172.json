@@ -1,0 +1,54 @@
+{
+  "Id": 37344,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷۲",
+  "FullUrl": "/p393/robaee/sh172",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh172",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیدار غنیمت است بنشین بنشین\r\nای یار غنیمت است بنشین بنشین\r\nاین یک دو نفس که ما و تو یکجاییم\r\nبسیار غنیمت است بنشین بنشین",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدار غنیمت است بنشین بنشین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای یار غنیمت است بنشین بنشین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این یک دو نفس که ما و تو یکجاییم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسیار غنیمت است بنشین بنشین",
+      "CoupletIndex": 1
+    }
+  ]
+}

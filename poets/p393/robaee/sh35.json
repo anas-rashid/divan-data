@@ -1,0 +1,54 @@
+{
+  "Id": 37207,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/p393/robaee/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیریست دلا چه موقع ما و من است\r\nکی هنگم تکلف پیرهن است\r\nدامن درکش کنون ز تقطیع لباس\r\nکاین موی سپید تار و پود کفن است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیریست دلا چه موقع ما و من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی هنگم تکلف پیرهن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دامن درکش کنون ز تقطیع لباس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین موی سپید تار و پود کفن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

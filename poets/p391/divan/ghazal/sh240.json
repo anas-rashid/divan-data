@@ -1,0 +1,93 @@
+{
+  "Id": 32332,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۲۴۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۲۴۰",
+  "FullUrl": "/p391/divan/ghazal/sh240",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh240",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نهادی بر دلم ای نازنین دست\r\nازین دست است احوالم ازین دست\r\nسرت درد خمار می مبیناد\r\nمبادا تکیه گاه آن چنین دست\r\nبود چون غنچهٔ نارسته از شاخ\r\nترا پنهان میان آستین دست\r\nچه باشد دل گرم از سینه بربود\r\nبتابد پنجهٔ خورشید این دست\r\nبعینه پنجهٔ خورشید صبح است\r\nبرآرد چون زجیب آن نازنین است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نهادی بر دلم ای نازنین دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازین دست است احوالم ازین دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرت درد خمار می مبیناد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مبادا تکیه گاه آن چنین دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بود چون غنچهٔ نارسته از شاخ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ترا پنهان میان آستین دست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه باشد دل گرم از سینه بربود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بتابد پنجهٔ خورشید این دست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بعینه پنجهٔ خورشید صبح است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برآرد چون زجیب آن نازنین است",
+      "CoupletIndex": 4
+    }
+  ]
+}

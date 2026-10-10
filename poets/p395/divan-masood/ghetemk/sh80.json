@@ -1,0 +1,81 @@
+{
+  "Id": 38307,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۸۰ - برتری قلم به تیغ",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۸۰ - برتری قلم به تیغ",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh80",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh80",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فلک اندر دمید پنداری\r\nباد در آستین ما در تیغ\r\nحکم اختر بدو مهابت از آنک\r\nهم به تیغ اندرست اختر تیغ\r\nبه همه حال ها اجل عرض است\r\nلیک قایم شده به جوهر تیغ\r\nبکند چشم تیغ اگر داری\r\nگوهر کلک را برابر تیغ",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فلک اندر دمید پنداری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد در آستین ما در تیغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حکم اختر بدو مهابت از آنک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم به تیغ اندرست اختر تیغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به همه حال ها اجل عرض است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لیک قایم شده به جوهر تیغ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بکند چشم تیغ اگر داری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گوهر کلک را برابر تیغ",
+      "CoupletIndex": 3
+    }
+  ]
+}

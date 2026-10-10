@@ -1,0 +1,54 @@
+{
+  "Id": 36644,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۶۴",
+  "FullUrl": "/p393/ghete/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جدا از روی او گر زنده مانم\r\nز رویش تا زیم شرمنده مانم\r\nتو خود رفتی ولیکن بوسه‌ای ده\r\nکه تا برگشتن تو زنده مانم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جدا از روی او گر زنده مانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز رویش تا زیم شرمنده مانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو خود رفتی ولیکن بوسه‌ای ده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که تا برگشتن تو زنده مانم",
+      "CoupletIndex": 1
+    }
+  ]
+}

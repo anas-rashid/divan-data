@@ -1,0 +1,57 @@
+{
+  "Id": 37596,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا بار غمت نهاده بر محمل ماست\r\nدر جستن تو باد هوا حاصل ماست\r\nدایم سر کوی عاشقی منزل ماست\r\nرنگ رخ تو گواه درد دل ماست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بار غمت نهاده بر محمل ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جستن تو باد هوا حاصل ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دایم سر کوی عاشقی منزل ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رنگ رخ تو گواه درد دل ماست",
+      "CoupletIndex": 1
+    }
+  ]
+}

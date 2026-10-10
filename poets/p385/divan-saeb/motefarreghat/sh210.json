@@ -1,0 +1,57 @@
+{
+  "Id": 26816,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفت ایام جوانی، شوق در جانم نماند\r\nهایهوی عندلیبان در گلستانم نماند\r\nاز پشیمانی سخن در عهد پیری می زنم\r\nلب به دندان می گزم اکنون که دندانم نماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفت ایام جوانی، شوق در جانم نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هایهوی عندلیبان در گلستانم نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پشیمانی سخن در عهد پیری می زنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لب به دندان می گزم اکنون که دندانم نماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

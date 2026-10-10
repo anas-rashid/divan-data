@@ -1,0 +1,81 @@
+{
+  "Id": 33168,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۷۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۷۶",
+  "FullUrl": "/p391/divan/ghazal/sh1076",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1076",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از چه رو بی وجه با ما اینقدر بیگانگی\r\nچون کند تنها دلم با اینقدر بیگانگی\r\nآشنایی دشمنان تا کی به کار ما کنند\r\nاینقدرها اینقدرها اینقدر بیگانگی\r\nمی کشد هجرانم آخر خون ناحق می کنی\r\nخوش نمی آید خدا را اینقدر بیگانگی\r\nبا وجود آنکه با لعلت نمک ها خورده است\r\nمی کنی در کار جویا اینقدرها بیگانگی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چه رو بی وجه با ما اینقدر بیگانگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون کند تنها دلم با اینقدر بیگانگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشنایی دشمنان تا کی به کار ما کنند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینقدرها اینقدرها اینقدر بیگانگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می کشد هجرانم آخر خون ناحق می کنی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خوش نمی آید خدا را اینقدر بیگانگی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با وجود آنکه با لعلت نمک ها خورده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "می کنی در کار جویا اینقدرها بیگانگی",
+      "CoupletIndex": 3
+    }
+  ]
+}

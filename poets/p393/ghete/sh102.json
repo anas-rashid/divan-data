@@ -1,0 +1,54 @@
+{
+  "Id": 36582,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۲",
+  "FullUrl": "/p393/ghete/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به غم عشق شاد باید مرد\r\nگر همه نامراد باید مرد\r\nعشق دین است عشق ایمان است\r\nبه همین اعتقاد باید مرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به غم عشق شاد باید مرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر همه نامراد باید مرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق دین است عشق ایمان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به همین اعتقاد باید مرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

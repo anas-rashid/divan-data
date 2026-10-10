@@ -1,0 +1,69 @@
+{
+  "Id": 34870,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۱۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۱۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در آن محفل که شمع من، تجلی‌ساز می‌آید\r\nاگر طور است، چون پروانه در پرواز می‌آید\r\nضعیفی‌ها فکنده‌ست از نواسنجی زبانم را\r\nکنون چون نی، همین از گوش من آواز می‌آید\r\nحزین از شعر سرجوش فغانی میگساری کن\r\nکه از گفتار او کار می شیراز می‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در آن محفل که شمع من، تجلی‌ساز می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر طور است، چون پروانه در پرواز می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ضعیفی‌ها فکنده‌ست از نواسنجی زبانم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کنون چون نی، همین از گوش من آواز می‌آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حزین از شعر سرجوش فغانی میگساری کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که از گفتار او کار می شیراز می‌آید",
+      "CoupletIndex": 2
+    }
+  ]
+}

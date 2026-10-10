@@ -1,0 +1,66 @@
+{
+  "Id": 32397,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۰۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۵",
+  "FullUrl": "/p391/divan/ghazal/sh305",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh305",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مهی که مهر رخش در ضمیر ما گرم است\r\nبه التفات کرم سرد و با جفا گرم است\r\nزتاب آه جگر خستگان او خورشید\r\nسربرهنه به سر می برد هوا گرم است\r\nبه دستیاری عشق تو چون فتیلهٔ داغ\r\nبه هر کجا که نشینیم جای ما گرم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهی که مهر رخش در ضمیر ما گرم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به التفات کرم سرد و با جفا گرم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زتاب آه جگر خستگان او خورشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سربرهنه به سر می برد هوا گرم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به دستیاری عشق تو چون فتیلهٔ داغ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به هر کجا که نشینیم جای ما گرم است",
+      "CoupletIndex": 2
+    }
+  ]
+}

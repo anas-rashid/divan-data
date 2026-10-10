@@ -1,0 +1,57 @@
+{
+  "Id": 37864,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۵۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۵۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ملک به دولت تو دارا گشته\r\nوز عدل تو دهر پیر برنا گشته\r\nشمشیر تو قهرمان اعدا گشته\r\nدر جمله تو را ملک مهیا گشته",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ملک به دولت تو دارا گشته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز عدل تو دهر پیر برنا گشته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر تو قهرمان اعدا گشته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جمله تو را ملک مهیا گشته",
+      "CoupletIndex": 1
+    }
+  ]
+}

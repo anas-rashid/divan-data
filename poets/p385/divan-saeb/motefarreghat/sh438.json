@@ -1,0 +1,57 @@
+{
+  "Id": 27044,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۳۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۳۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh438",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh438",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لب تشنه تو، سوخته ای نیست نباشد\r\nشاد از تو غم اندوخته ای نیست نباشد\r\nاندیشه زلف تو چو عزم سفر هند\r\nدر هیچ دل سوخته ای نیست نباشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لب تشنه تو، سوخته ای نیست نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاد از تو غم اندوخته ای نیست نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندیشه زلف تو چو عزم سفر هند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در هیچ دل سوخته ای نیست نباشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

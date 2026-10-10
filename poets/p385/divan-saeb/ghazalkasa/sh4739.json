@@ -1,0 +1,93 @@
+{
+  "Id": 23812,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۷۳۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۷۳۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4739",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4739",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرمایه جنون ز نسیم بهار گیر\r\nداغت اگر کمی کند از لاله زار گیر\r\nداغی که نیست سکه ناسور بر رخش\r\nبی اعتبارتر ز زر کم عیار گیر\r\nباد مراد رفت به طوفان نیستی\r\nای کشتی شکسته ز دریاکنار گیر\r\nدیدی چگونه زد به زمین آفتاب را\r\nاز گردش زمانه دون اعتبار گیر\r\nذوقی است جانفشانی یاران به اتفاق\r\nهم رقص نیستی شو و دست شرارگیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمایه جنون ز نسیم بهار گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغت اگر کمی کند از لاله زار گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داغی که نیست سکه ناسور بر رخش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی اعتبارتر ز زر کم عیار گیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "باد مراد رفت به طوفان نیستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای کشتی شکسته ز دریاکنار گیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دیدی چگونه زد به زمین آفتاب را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از گردش زمانه دون اعتبار گیر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ذوقی است جانفشانی یاران به اتفاق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هم رقص نیستی شو و دست شرارگیر",
+      "CoupletIndex": 4
+    }
+  ]
+}

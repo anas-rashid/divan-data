@@ -1,0 +1,57 @@
+{
+  "Id": 37638,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاها ملکا همه ثناگوی تواند\r\nخوشخو ملکی فتنه خوشخوی تواند\r\nیک شهر به جان و دل هوا جوی تواند\r\nباز آی که در آرزوی روی تواند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها ملکا همه ثناگوی تواند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشخو ملکی فتنه خوشخوی تواند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک شهر به جان و دل هوا جوی تواند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باز آی که در آرزوی روی تواند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37431,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۴۶",
+  "FullUrl": "/p394/ghazal/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نجات از قید و محنت نیست ارباب تلون را\r\nبلی بیخار هرگز کس نبیند پای گلبن را\r\nنیفتد کارسازان را به کس در کار خود حاجت\r\nبخاریدن نباشد احتیاجی پشت ناخن را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نجات از قید و محنت نیست ارباب تلون را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلی بیخار هرگز کس نبیند پای گلبن را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیفتد کارسازان را به کس در کار خود حاجت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بخاریدن نباشد احتیاجی پشت ناخن را",
+      "CoupletIndex": 1
+    }
+  ]
+}

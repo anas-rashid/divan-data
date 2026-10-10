@@ -1,0 +1,93 @@
+{
+  "Id": 29400,
+  "CatId": 1077,
+  "Title": "شمارهٔ ۴۱۶",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » غزلیات » شمارهٔ ۴۱۶",
+  "FullUrl": "/p388/divan/ghazal/sh416",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/ghazal/sh416",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌روم زین کوی و وز رشک محبت می‌روم\r\nبس که با من آشنا گشتی ز غیرت می‌روم\r\nکرد شیرین اشک تلخم را شکرخند وداع\r\nحبیب و دامانی پر از نقل محبت می‌روم\r\nنوحه بر خود می‌کند دیوار و در از رفتنم\r\nمی‌برم ذوق از جهان، از بس به حسرت می‌روم\r\nحالتی دارم به این خواری که از خاک درش\r\nگر به جنت خواندم رضوان، به منت می‌روم\r\nاز حجاب رفتن بی‌جا «نظیری» از درش\r\nبخیه‌ها بر دیده از اشک ندامت می‌روم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌روم زین کوی و وز رشک محبت می‌روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس که با من آشنا گشتی ز غیرت می‌روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرد شیرین اشک تلخم را شکرخند وداع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حبیب و دامانی پر از نقل محبت می‌روم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نوحه بر خود می‌کند دیوار و در از رفتنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می‌برم ذوق از جهان، از بس به حسرت می‌روم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حالتی دارم به این خواری که از خاک درش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر به جنت خواندم رضوان، به منت می‌روم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از حجاب رفتن بی‌جا «نظیری» از درش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بخیه‌ها بر دیده از اشک ندامت می‌روم",
+      "CoupletIndex": 4
+    }
+  ]
+}

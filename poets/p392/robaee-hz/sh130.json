@@ -1,0 +1,57 @@
+{
+  "Id": 34525,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/p392/robaee-hz/sh130",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh130",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگه سخنی برلب اظهار رسد\r\nبی مایه عزیزیش، طلبکار رسد\r\nدزدند ز ما و می فروشند به ما\r\nاین راست بود که حق به حق دار رسد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگه سخنی برلب اظهار رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی مایه عزیزیش، طلبکار رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دزدند ز ما و می فروشند به ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این راست بود که حق به حق دار رسد",
+      "CoupletIndex": 1
+    }
+  ]
+}

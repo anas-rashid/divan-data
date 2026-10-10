@@ -1,0 +1,69 @@
+{
+  "Id": 31956,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۱۸ - در هجو",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۱۸ - در هجو",
+  "FullUrl": "/p390/divan/ghete/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که عیب‌جویی من پیشه کرده‌ای\r\nمن خود حکایت از چه و چونت نمی‌کنم\r\nبر تیغ پاکدامن خویشم چو آفتاب\r\nحیف است، ورنه رحم به خونت نمی‌کنم\r\nچون شعله، قوت روح ز اسفل رسد ترا\r\nگر مرده‌ای، که چوب به ...ونت نمی‌کنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که عیب‌جویی من پیشه کرده‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من خود حکایت از چه و چونت نمی‌کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر تیغ پاکدامن خویشم چو آفتاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حیف است، ورنه رحم به خونت نمی‌کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون شعله، قوت روح ز اسفل رسد ترا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر مرده‌ای، که چوب به ...ونت نمی‌کنم",
+      "CoupletIndex": 2
+    }
+  ]
+}

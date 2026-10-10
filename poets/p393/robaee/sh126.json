@@ -1,0 +1,54 @@
+{
+  "Id": 37298,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۶",
+  "FullUrl": "/p393/robaee/sh126",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh126",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد شکر که از قید خودی وارستم\r\nدر سلسلهٔ اهل جنون پیوستم\r\nرفتم به در از شهر گریبان زده چاک\r\nدامن به دامن بیابان بستم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد شکر که از قید خودی وارستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سلسلهٔ اهل جنون پیوستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتم به در از شهر گریبان زده چاک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامن به دامن بیابان بستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

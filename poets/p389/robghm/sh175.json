@@ -1,0 +1,57 @@
+{
+  "Id": 30432,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۷۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۷۵",
+  "FullUrl": "/p389/robghm/sh175",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh175",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا هست سخن، سخن‌سرا خواهد گفت\r\nخواهد گفتن حرف و به جا خواهد گفت\r\nذوقی ز سخن یافته کز لذت آن\r\nتا هست زبان خامه، وا خواهد گفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا هست سخن، سخن‌سرا خواهد گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواهد گفتن حرف و به جا خواهد گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ذوقی ز سخن یافته کز لذت آن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا هست زبان خامه، وا خواهد گفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

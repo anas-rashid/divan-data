@@ -1,0 +1,57 @@
+{
+  "Id": 27068,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۶۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۶۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh462",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh462",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ز رویت هر نظر محو تماشای دگر\r\nدر دل هر ذره ای خورشید سیمای دگر\r\nچون رود بیرون ز باغ آن یوسف گل پیرهن\r\nمی شود هر شاخ گل دست زلیخای دگر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ز رویت هر نظر محو تماشای دگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل هر ذره ای خورشید سیمای دگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون رود بیرون ز باغ آن یوسف گل پیرهن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می شود هر شاخ گل دست زلیخای دگر",
+      "CoupletIndex": 1
+    }
+  ]
+}

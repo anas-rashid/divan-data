@@ -1,0 +1,42 @@
+{
+  "Id": 27365,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۲۹",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تخم نیکی را زمین پاک، اکسیر بقاست\r\nقطره آبی که نوشد تیغ، جوهر می شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تخم نیکی را زمین پاک، اکسیر بقاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطره آبی که نوشد تیغ، جوهر می شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

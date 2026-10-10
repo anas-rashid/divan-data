@@ -1,0 +1,57 @@
+{
+  "Id": 34503,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p392/robaee-hz/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ماتم تو چرا جگر خون نشود؟\r\nزین واقعه چون دیده، جگرگون نشود؟\r\nآید چو ز دشت کربلا یاد، حزین\r\nعاقل به کدام حیله مجنون نشود؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماتم تو چرا جگر خون نشود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین واقعه چون دیده، جگرگون نشود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آید چو ز دشت کربلا یاد، حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عاقل به کدام حیله مجنون نشود؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

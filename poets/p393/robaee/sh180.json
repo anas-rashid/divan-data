@@ -1,0 +1,54 @@
+{
+  "Id": 37352,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۰",
+  "FullUrl": "/p393/robaee/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "واقف گذری به کوی قاتل کن\r\nقطع نظر از زندگی باطل کن\r\nتیغش به شهادت‌طلبان داد صدا\r\nبشتاب تو هم شهادت حاصل کن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "واقف گذری به کوی قاتل کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطع نظر از زندگی باطل کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیغش به شهادت‌طلبان داد صدا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بشتاب تو هم شهادت حاصل کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

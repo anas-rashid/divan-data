@@ -1,0 +1,45 @@
+{
+  "Id": 18391,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۶۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۶۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh860",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh860",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نسبت به شغل بیهدهٔ ما عبادت است\r\nاز عمر آنچه صرف خور و خواب می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نسبت به شغل بیهدهٔ ما عبادت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عمر آنچه صرف خور و خواب می‌شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

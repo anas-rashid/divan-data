@@ -1,0 +1,57 @@
+{
+  "Id": 28954,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/p387/divan/robaee/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با خویش همیشه ما در جنگ زدیم\r\nصد عقده بکار این دل تنگ زدیم\r\nرفتیم و بیار سنگدل دل بستیم\r\nخود شیشه خود برده و بر سنگ زدیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خویش همیشه ما در جنگ زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد عقده بکار این دل تنگ زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتیم و بیار سنگدل دل بستیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود شیشه خود برده و بر سنگ زدیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

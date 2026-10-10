@@ -1,0 +1,93 @@
+{
+  "Id": 31675,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۰۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۰۸",
+  "FullUrl": "/p390/divan/ghazal/sh708",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh708",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شراب همچو گل و لاله خور ز ساغر خویش\r\nپیاله همچو کدو کن ز کاسه ی سر خویش\r\nتعلق وطنم باعث صد آزار است\r\nاسیر ورطه چو کشتی شدم ز لنگر خویش\r\nغبار غم ز دلم کم نمی شود هرگز\r\nچه خاک بود که کردم ز عشق بر سر خویش\r\nشکایت از که کنم من، که روزگار افکند\r\nمرا چو ماهی خنجر به دام جوهر خویش\r\nز صد سپاه نگردد سلیم روگردان\r\nچو عکس آینه هرکس شود برابر خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شراب همچو گل و لاله خور ز ساغر خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیاله همچو کدو کن ز کاسه ی سر خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تعلق وطنم باعث صد آزار است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسیر ورطه چو کشتی شدم ز لنگر خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غبار غم ز دلم کم نمی شود هرگز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه خاک بود که کردم ز عشق بر سر خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شکایت از که کنم من، که روزگار افکند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرا چو ماهی خنجر به دام جوهر خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز صد سپاه نگردد سلیم روگردان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو عکس آینه هرکس شود برابر خویش",
+      "CoupletIndex": 4
+    }
+  ]
+}

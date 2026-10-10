@@ -1,0 +1,42 @@
+{
+  "Id": 26470,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۸۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۸۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh382",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh382",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از علایق دل ز آب و گل نمی آید برون\r\nپای سرو از گل ز بار دل نمی آید برون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از علایق دل ز آب و گل نمی آید برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پای سرو از گل ز بار دل نمی آید برون",
+      "CoupletIndex": 0
+    }
+  ]
+}

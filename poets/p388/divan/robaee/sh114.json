@@ -1,0 +1,57 @@
+{
+  "Id": 29721,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/p388/divan/robaee/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فرمان تو بشنوم به پرواز آیم\r\nوز فخر به سر نهم سرافراز آیم\r\nتو کوهی و من صوت سخن امیدست\r\nچون در تو رسم زود به جا بازآیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرمان تو بشنوم به پرواز آیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز فخر به سر نهم سرافراز آیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو کوهی و من صوت سخن امیدست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون در تو رسم زود به جا بازآیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

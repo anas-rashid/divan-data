@@ -1,0 +1,45 @@
+{
+  "Id": 18495,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۶۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۶۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh964",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh964",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سر مژگان، نگاه حسرت ما نگذرد\r\nعمر بال افشانی ما تا لب بام است و بس",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سر مژگان، نگاه حسرت ما نگذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عمر بال افشانی ما تا لب بام است و بس",
+      "CoupletIndex": 0
+    }
+  ]
+}

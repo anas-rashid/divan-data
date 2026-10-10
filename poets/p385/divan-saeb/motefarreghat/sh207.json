@@ -1,0 +1,81 @@
+{
+  "Id": 26813,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh207",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh207",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از چمن رفتی و گل با حسرت بسیار ماند\r\nچشم بلبل در پی آن طره دستار ماند\r\nروی حرف طوطیان هر چند با آیینه است\r\nدید تا آیینه ات را طوطی از گفتار ماند\r\nمی سراید زاغ خط او به آواز بلند\r\nکز گلستانش همین خار سر دیوار ماند\r\nپنجه دشمن گریبان مرا از بخت بد\r\nنوبت دامن گرفتن چون رسید از کار ماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چمن رفتی و گل با حسرت بسیار ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم بلبل در پی آن طره دستار ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی حرف طوطیان هر چند با آیینه است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دید تا آیینه ات را طوطی از گفتار ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می سراید زاغ خط او به آواز بلند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز گلستانش همین خار سر دیوار ماند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پنجه دشمن گریبان مرا از بخت بد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نوبت دامن گرفتن چون رسید از کار ماند",
+      "CoupletIndex": 3
+    }
+  ]
+}

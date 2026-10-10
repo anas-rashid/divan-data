@@ -1,0 +1,42 @@
+{
+  "Id": 26259,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۷۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ظرافت آتش افروز جدایی است\r\nادب آب حیات آشنایی است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ظرافت آتش افروز جدایی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ادب آب حیات آشنایی است",
+      "CoupletIndex": 0
+    }
+  ]
+}

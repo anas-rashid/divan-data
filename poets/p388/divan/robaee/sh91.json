@@ -1,0 +1,57 @@
+{
+  "Id": 29698,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۱",
+  "FullUrl": "/p388/divan/robaee/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک قوم مسافر ز سرمایه خجل\r\nجویای تو گشته ایم منزل منزل\r\nنرخ خبر تو نیست هرچند که ما\r\nجان بر سر جان نهیم و دل بر سر دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک قوم مسافر ز سرمایه خجل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جویای تو گشته ایم منزل منزل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نرخ خبر تو نیست هرچند که ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان بر سر جان نهیم و دل بر سر دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

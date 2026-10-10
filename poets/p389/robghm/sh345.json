@@ -1,0 +1,57 @@
+{
+  "Id": 30602,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۴۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۴۵",
+  "FullUrl": "/p389/robghm/sh345",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh345",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زاهد به بهشت عدن، جا می‌خواهد\r\nصوفی، جام جهان‌نما می‌خواهد\r\nپرسند گر از من که چه خواهی ز خدا\r\nمن می‌گویم آن چه خدا می‌خواهد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهد به بهشت عدن، جا می‌خواهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صوفی، جام جهان‌نما می‌خواهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرسند گر از من که چه خواهی ز خدا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من می‌گویم آن چه خدا می‌خواهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

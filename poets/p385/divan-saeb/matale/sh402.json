@@ -1,0 +1,42 @@
+{
+  "Id": 26490,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۰۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۰۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh402",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh402",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای غنچه لب رعایت اهل نیاز کن\r\nگر دل نمی دهی به سخن، گوش باز کن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای غنچه لب رعایت اهل نیاز کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر دل نمی دهی به سخن، گوش باز کن",
+      "CoupletIndex": 0
+    }
+  ]
+}

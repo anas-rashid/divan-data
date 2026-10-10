@@ -1,0 +1,42 @@
+{
+  "Id": 26513,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۲۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۲۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh425",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh425",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در حریمی که لب خود به شکرخنده گشایی\r\nاز لب بام کنند اهل هوس بوسه ربایی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در حریمی که لب خود به شکرخنده گشایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از لب بام کنند اهل هوس بوسه ربایی",
+      "CoupletIndex": 0
+    }
+  ]
+}

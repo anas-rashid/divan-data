@@ -1,0 +1,57 @@
+{
+  "Id": 32050,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/p390/divan/robaee/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خواجه ترا چه پیرهن می باید؟\r\nآن جسم کثیف را کفن می باید\r\nاز بهر اخ و تف تو چاه مبرز\r\nچون چاه زنخ، پیش دهن می باید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه ترا چه پیرهن می باید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن جسم کثیف را کفن می باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بهر اخ و تف تو چاه مبرز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چاه زنخ، پیش دهن می باید",
+      "CoupletIndex": 1
+    }
+  ]
+}

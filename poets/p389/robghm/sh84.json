@@ -1,0 +1,57 @@
+{
+  "Id": 30341,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/p389/robghm/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آیند اگر به مصلحت با هم راست\r\nآمیزش عشق با خرد حرف کجاست\r\nهرچند که جوشند به هم در یک پوست\r\nدر بیضه همان سفیده از زرده جداست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آیند اگر به مصلحت با هم راست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آمیزش عشق با خرد حرف کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که جوشند به هم در یک پوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بیضه همان سفیده از زرده جداست",
+      "CoupletIndex": 1
+    }
+  ]
+}

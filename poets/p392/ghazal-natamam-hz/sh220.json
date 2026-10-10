@@ -1,0 +1,57 @@
+{
+  "Id": 34879,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۲۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۲۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh220",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh220",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شود چون جوهر آیینه پیدا، تار می‌افتد\r\nنگردد روشناس آن کس که جوهردار می‌افتد\r\nکند یغما نگاه ناتوان او توانایی\r\nبه بستر بوی گل، زان نرگس بیمار می‌افتد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شود چون جوهر آیینه پیدا، تار می‌افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگردد روشناس آن کس که جوهردار می‌افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کند یغما نگاه ناتوان او توانایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بستر بوی گل، زان نرگس بیمار می‌افتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

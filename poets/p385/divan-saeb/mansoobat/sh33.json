@@ -1,0 +1,45 @@
+{
+  "Id": 27369,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۳۳",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهای بوسه‌اش سر می‌دهم چون زر نمی‌گیرد\r\nخیالی کرده‌ام با خویش اما سر نمی‌گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهای بوسه‌اش سر می‌دهم چون زر نمی‌گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیالی کرده‌ام با خویش اما سر نمی‌گیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

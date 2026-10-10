@@ -1,0 +1,66 @@
+{
+  "Id": 36445,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۴",
+  "FullUrl": "/p393/natmam/sh294",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh294",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه دیدی ز من ناز پرورد من\r\nکه پوشیده‌ای چشم از گرد من\r\nمرا کار از غم به جای رسید\r\nکه خنند سحر بر دم سرد من\r\nتو بر گریه‌ام گر بخندی رواست\r\nتو را نیست بی‌درد من درد من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه دیدی ز من ناز پرورد من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که پوشیده‌ای چشم از گرد من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا کار از غم به جای رسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خنند سحر بر دم سرد من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تو بر گریه‌ام گر بخندی رواست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تو را نیست بی‌درد من درد من",
+      "CoupletIndex": 2
+    }
+  ]
+}

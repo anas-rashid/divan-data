@@ -1,0 +1,57 @@
+{
+  "Id": 34963,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh304",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh304",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون لب نایی و نی، پرده سرایان من و تو\r\nسر افسانه گشاییم، به دستان من و تو\r\nخرّم آن ساعت و آن روز، که چون بلبل و گل\r\nبنشینیم به گلگشت گلستان من و تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون لب نایی و نی، پرده سرایان من و تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر افسانه گشاییم، به دستان من و تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرّم آن ساعت و آن روز، که چون بلبل و گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنشینیم به گلگشت گلستان من و تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

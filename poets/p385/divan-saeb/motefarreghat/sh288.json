@@ -1,0 +1,69 @@
+{
+  "Id": 26894,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۸۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۸۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh288",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh288",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کشد در خاک و خونم گر غباری در من آویزد\r\nز پا افتم اگر خاری مرا در دامن آویزد\r\nندارد جز ندامت حاصلی آمیزش مردم\r\nنصیب برق گردد دانه چون در خرمن آویزد\r\nبه جان خرسندی از جانان به آن ماند که یعقوبی\r\nدهد از دست یوسف را و در پیراهن آویزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشد در خاک و خونم گر غباری در من آویزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز پا افتم اگر خاری مرا در دامن آویزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ندارد جز ندامت حاصلی آمیزش مردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نصیب برق گردد دانه چون در خرمن آویزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به جان خرسندی از جانان به آن ماند که یعقوبی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دهد از دست یوسف را و در پیراهن آویزد",
+      "CoupletIndex": 2
+    }
+  ]
+}

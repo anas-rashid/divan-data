@@ -1,0 +1,42 @@
+{
+  "Id": 26349,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۶۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۶۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh261",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh261",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زخامی هر کبابی اشک خونین بر زمین ریزد\r\nکباب دل چو گردد پخته اشک آتشین ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زخامی هر کبابی اشک خونین بر زمین ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کباب دل چو گردد پخته اشک آتشین ریزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36588,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p393/ghete/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل یک نفس در آتش هجران طپید و ماند\r\nهمچون سپند ناله‌ای گرمی کشید و ماند\r\nشاید نوید وصل ز جای شنیده است\r\nجان فراق دیده که بر لب رسید و ماند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل یک نفس در آتش هجران طپید و ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچون سپند ناله‌ای گرمی کشید و ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاید نوید وصل ز جای شنیده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان فراق دیده که بر لب رسید و ماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

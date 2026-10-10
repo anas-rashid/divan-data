@@ -1,0 +1,57 @@
+{
+  "Id": 27055,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh449",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh449",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عجب نباشد اگر دل ز آسمان بگریزد\r\nکه تیر راست رو از صحبت کمان بگریزد\r\nگل حمایت (و) مظلوم پروری است شجاعت\r\nوگرنه گرگ چرا از سگ شبان بگریزد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عجب نباشد اگر دل ز آسمان بگریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که تیر راست رو از صحبت کمان بگریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل حمایت (و) مظلوم پروری است شجاعت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وگرنه گرگ چرا از سگ شبان بگریزد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30584,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۲۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۲۷",
+  "FullUrl": "/p389/robghm/sh327",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh327",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صاحب‌نظری کز پی دیدار رود\r\nباید که چو آفتاب بسیار رود\r\nاز یک سوی دیوار گر افتد به زمین\r\nاز سوی دگر بر سر دیوار رود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صاحب‌نظری کز پی دیدار رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید که چو آفتاب بسیار رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از یک سوی دیوار گر افتد به زمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سوی دگر بر سر دیوار رود",
+      "CoupletIndex": 1
+    }
+  ]
+}

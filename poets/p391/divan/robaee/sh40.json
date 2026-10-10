@@ -1,0 +1,57 @@
+{
+  "Id": 33311,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/p391/divan/robaee/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس از وضع خود گریزان گردد\r\nشاید که بری ز نور ایمان گردد\r\nباشد در دیده‌ها به عینه زنار\r\nاز دانه چو تار سبحه عریان گردد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس از وضع خود گریزان گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاید که بری ز نور ایمان گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد در دیده‌ها به عینه زنار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دانه چو تار سبحه عریان گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

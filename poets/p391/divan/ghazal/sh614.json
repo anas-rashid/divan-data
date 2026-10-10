@@ -1,0 +1,57 @@
+{
+  "Id": 32706,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۱۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۴",
+  "FullUrl": "/p391/divan/ghazal/sh614",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh614",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خطش آیینهٔ عارض مکدر می شود\r\nاین کتاب آخر ازین شیرازه ابتر می شود\r\nشعله ور گردد چو از می آتش رخسار یار\r\nعندلیب گلشن حسنش سمندر می شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خطش آیینهٔ عارض مکدر می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کتاب آخر ازین شیرازه ابتر می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شعله ور گردد چو از می آتش رخسار یار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عندلیب گلشن حسنش سمندر می شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

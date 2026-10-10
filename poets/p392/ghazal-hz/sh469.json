@@ -1,0 +1,93 @@
+{
+  "Id": 33896,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۶۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۶۹",
+  "FullUrl": "/p392/ghazal-hz/sh469",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh469",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق آمد و از سینهٔ من دود برآورد\r\nگلزار خلیل، آتش نمرود برآورد\r\nاز آه سریع الاثر خویش چه گویم؟\r\nجانی که به لب بود مرا زود برآورد\r\nیاقوت صفت دود نبود آتش ما را\r\nدود از دلم آن لعل خط آلود برآورد\r\nپیغمبر حُسنیّ و کتاب الله خطّت\r\nاسرار که در پرده نهان بود برآورد\r\nتا رنجه حزین از ستم عشق نگردی\r\nایّام تو را حادثه فرسود، برآورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آمد و از سینهٔ من دود برآورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلزار خلیل، آتش نمرود برآورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آه سریع الاثر خویش چه گویم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانی که به لب بود مرا زود برآورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یاقوت صفت دود نبود آتش ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دود از دلم آن لعل خط آلود برآورد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پیغمبر حُسنیّ و کتاب الله خطّت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اسرار که در پرده نهان بود برآورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا رنجه حزین از ستم عشق نگردی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ایّام تو را حادثه فرسود، برآورد",
+      "CoupletIndex": 4
+    }
+  ]
+}

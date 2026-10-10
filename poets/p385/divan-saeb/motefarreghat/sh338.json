@@ -1,0 +1,45 @@
+{
+  "Id": 26944,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh338",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh338",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رام عاشق نشدن، کام زلیخا دادن\r\nهمه از یوسف بازاری ما می آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رام عاشق نشدن، کام زلیخا دادن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همه از یوسف بازاری ما می آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

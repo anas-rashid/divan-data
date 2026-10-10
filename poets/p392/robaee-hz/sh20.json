@@ -1,0 +1,57 @@
+{
+  "Id": 34415,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/p392/robaee-hz/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دیده به دیده، ناوک اندازی هست\r\nاز سینه به سینه، قاصد رازی هست\r\nخوانده ام رقم دفتر دلها، این بود\r\nما کارگهیم، کارپردازی هست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دیده به دیده، ناوک اندازی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سینه به سینه، قاصد رازی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوانده ام رقم دفتر دلها، این بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما کارگهیم، کارپردازی هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30594,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳۷",
+  "FullUrl": "/p389/robghm/sh337",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh337",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر فرد، به علم، فرد اکبر نشود\r\nآیینه به خورشید برابر نشود\r\nآن کس که به قدر حال، هوشی دارد\r\nداند که گوهرشناس، گوهر نشود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر فرد، به علم، فرد اکبر نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه به خورشید برابر نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کس که به قدر حال، هوشی دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داند که گوهرشناس، گوهر نشود",
+      "CoupletIndex": 1
+    }
+  ]
+}

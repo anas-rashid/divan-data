@@ -1,0 +1,45 @@
+{
+  "Id": 17623,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بوسه را در نامه می‌پیچد برای دیگران\r\nآن که می‌دارد دریغ از عاشقان پیغام را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بوسه را در نامه می‌پیچد برای دیگران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن که می‌دارد دریغ از عاشقان پیغام را",
+      "CoupletIndex": 0
+    }
+  ]
+}

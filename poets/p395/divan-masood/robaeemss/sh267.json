@@ -1,0 +1,57 @@
+{
+  "Id": 37781,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۶۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۶۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh267",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh267",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب ز انده تو همی نیاید خوابم\r\nبر جامه ز غم چو گوی در طبطابم\r\nمن گاه در آتش و گه اندر آبم\r\nسنگم که به من هر چه رسد در یابم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب ز انده تو همی نیاید خوابم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر جامه ز غم چو گوی در طبطابم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من گاه در آتش و گه اندر آبم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سنگم که به من هر چه رسد در یابم",
+      "CoupletIndex": 1
+    }
+  ]
+}

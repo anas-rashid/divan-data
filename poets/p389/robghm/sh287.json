@@ -1,0 +1,57 @@
+{
+  "Id": 30544,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۸۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۸۷",
+  "FullUrl": "/p389/robghm/sh287",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh287",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویند انسان علم ز هم اندوزند\r\nمن می‌گویم همه ز حق آموزند\r\nحق با ایشان بود در آیینه و آب\r\nاز عکس چراغ اگر چراغ افروزند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند انسان علم ز هم اندوزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من می‌گویم همه ز حق آموزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حق با ایشان بود در آیینه و آب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از عکس چراغ اگر چراغ افروزند",
+      "CoupletIndex": 1
+    }
+  ]
+}

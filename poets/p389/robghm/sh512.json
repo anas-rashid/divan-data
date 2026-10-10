@@ -1,0 +1,57 @@
+{
+  "Id": 30769,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۱۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۱۲",
+  "FullUrl": "/p389/robghm/sh512",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh512",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی دنبال نفس سرکش رفتن\r\nدل صاف و پی باده بی‌غش رفتن\r\nبا عشق، دلیل عقل باشد به مثل\r\nدر دست چراغ از پی آتش رفتن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی دنبال نفس سرکش رفتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل صاف و پی باده بی‌غش رفتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با عشق، دلیل عقل باشد به مثل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دست چراغ از پی آتش رفتن",
+      "CoupletIndex": 1
+    }
+  ]
+}

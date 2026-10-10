@@ -1,0 +1,57 @@
+{
+  "Id": 34894,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۳۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۳۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh235",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh235",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با آنکه نیست از تو بتی دلنوازتر\r\nاز روز حشر، شد شب هجرم درازتر\r\nدل شکوه از کدام جفای تو سر کند؟\r\nهر شیوهٔ تو از دگری جانگدازتر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با آنکه نیست از تو بتی دلنوازتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از روز حشر، شد شب هجرم درازتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل شکوه از کدام جفای تو سر کند؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر شیوهٔ تو از دگری جانگدازتر",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 26823,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh217",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh217",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ناله ام ناخن به داغ عندلیبان می زند\r\nگریه گرم من آتش در گلستان می زند\r\nشمع پا در دامن فانوس پیچید و هنوز\r\nشوق بر خاکستر پروانه دامان می زند\r\nنیست در جیب دو عالم خونبهای یک سئوال\r\nهمتم این نغمه بر گوش کریمان می زند\r\nعاشقان را جلوه گل درنمی آرد ز جای\r\nلاله گاهی ناخنی بر داغ ایشان می زند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناله ام ناخن به داغ عندلیبان می زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریه گرم من آتش در گلستان می زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمع پا در دامن فانوس پیچید و هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شوق بر خاکستر پروانه دامان می زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست در جیب دو عالم خونبهای یک سئوال",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همتم این نغمه بر گوش کریمان می زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عاشقان را جلوه گل درنمی آرد ز جای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لاله گاهی ناخنی بر داغ ایشان می زند",
+      "CoupletIndex": 3
+    }
+  ]
+}

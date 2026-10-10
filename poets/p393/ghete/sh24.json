@@ -1,0 +1,54 @@
+{
+  "Id": 36504,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۴",
+  "FullUrl": "/p393/ghete/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تخت و کلاه، تخته‌کلاه است پیش ما\r\nجاه است آنچه پیش تو چاه است پیش ما\r\nما قحط‌دیدگان دیار محبّتیم\r\nتیری که می‌زنی تو نگاه است پیش ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تخت و کلاه، تخته‌کلاه است پیش ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جاه است آنچه پیش تو چاه است پیش ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما قحط‌دیدگان دیار محبّتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیری که می‌زنی تو نگاه است پیش ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

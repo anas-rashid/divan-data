@@ -1,0 +1,45 @@
+{
+  "Id": 18267,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۳۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۳۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh736",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh736",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهار نوجوانی رفت، کی دیوانه خواهی شد؟\r\nچراغ زندگی گل کرد، کی پروانه خواهی شد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار نوجوانی رفت، کی دیوانه خواهی شد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چراغ زندگی گل کرد، کی پروانه خواهی شد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "Id": 33238,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۲",
+  "FullUrl": "/p391/divan/ghete/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پادشاهی است شه رضا امروز\r\nکه نه در فکر تخت و دیهیم است\r\nدر زمینی بنای تکیه گذاشت\r\nکآب و خاکش به از زر و سیم است\r\nدر کنار دل آن مکان شریف\r\nبی تکلف بهشت و تسنیم است\r\nبوی فقر آید از در و بامش\r\nاین مقام رضا و تسلیم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پادشاهی است شه رضا امروز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نه در فکر تخت و دیهیم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در زمینی بنای تکیه گذاشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآب و خاکش به از زر و سیم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در کنار دل آن مکان شریف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بی تکلف بهشت و تسنیم است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بوی فقر آید از در و بامش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این مقام رضا و تسلیم است",
+      "CoupletIndex": 3
+    }
+  ]
+}

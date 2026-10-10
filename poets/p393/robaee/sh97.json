@@ -1,0 +1,54 @@
+{
+  "Id": 37269,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/p393/robaee/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گیریم که پیش خواجه قدر تو فزود\r\nراسخ در بندگی تو را باید بود\r\nبر موقف عجز خویش پا برجا باش\r\nمگذر چو ایاز از مقام محمود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیریم که پیش خواجه قدر تو فزود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راسخ در بندگی تو را باید بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر موقف عجز خویش پا برجا باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگذر چو ایاز از مقام محمود",
+      "CoupletIndex": 1
+    }
+  ]
+}

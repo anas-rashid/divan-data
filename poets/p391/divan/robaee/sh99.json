@@ -1,0 +1,57 @@
+{
+  "Id": 33370,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/p391/divan/robaee/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ماند روش کبک به لغزیدن تو\r\nمنت به زمین نهد خرامیدن تو\r\nلحم و شحم است بسکه سر تا پایت\r\nآغوش نظاره پر شد از دیدن تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماند روش کبک به لغزیدن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منت به زمین نهد خرامیدن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لحم و شحم است بسکه سر تا پایت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آغوش نظاره پر شد از دیدن تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

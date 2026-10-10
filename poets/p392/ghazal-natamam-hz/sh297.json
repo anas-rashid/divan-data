@@ -1,0 +1,57 @@
+{
+  "Id": 34956,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عریان ز صافی طینتی، از پردهٔ نیرنگ شو\r\nچون آب در باغ جهان، با خار وگل همرنگ شو\r\nبشکن به دل تا می توان، نیش زبان دشمنان\r\nبا این سبک مغزان که گفت ای خیره سر همسنگ شو؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عریان ز صافی طینتی، از پردهٔ نیرنگ شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون آب در باغ جهان، با خار وگل همرنگ شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بشکن به دل تا می توان، نیش زبان دشمنان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این سبک مغزان که گفت ای خیره سر همسنگ شو؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

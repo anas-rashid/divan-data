@@ -1,0 +1,54 @@
+{
+  "Id": 37223,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/p393/robaee/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر در پی یار خوبرو باید رفت\r\nهشدار که بر وجه نکو باید رفت\r\nدر غور زنخدان بتان از ره دل\r\nچون چاه به خویشتن فرو باید رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر در پی یار خوبرو باید رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هشدار که بر وجه نکو باید رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در غور زنخدان بتان از ره دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چاه به خویشتن فرو باید رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

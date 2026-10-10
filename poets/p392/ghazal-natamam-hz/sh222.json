@@ -1,0 +1,69 @@
+{
+  "Id": 34881,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۲۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۲۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh222",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh222",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شیرین‌کاری من، بیستون آباد می‌گردد\r\nقلم در پنجهٔ من تیشه فرهاد می‌گردد\r\nصبا بفرست، اگر مکتوب و قاصد نیست رسم تو\r\nبه بوی التفاتی خاطر ما شاد می‌گردد\r\nهوا را گر چنین می‌پرورد نفس هوش پیشه\r\nجهان پروانهٔ ما، آسیای باد می‌گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شیرین‌کاری من، بیستون آباد می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قلم در پنجهٔ من تیشه فرهاد می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبا بفرست، اگر مکتوب و قاصد نیست رسم تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بوی التفاتی خاطر ما شاد می‌گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هوا را گر چنین می‌پرورد نفس هوش پیشه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جهان پروانهٔ ما، آسیای باد می‌گردد",
+      "CoupletIndex": 2
+    }
+  ]
+}

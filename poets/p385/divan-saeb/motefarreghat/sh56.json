@@ -1,0 +1,69 @@
+{
+  "Id": 26662,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سلاح جوهر ذاتی است شیرمردان را\r\nچه حاجت است به شمشیر تیزدستان را؟\r\nز خون هر دو جهان دست عشق مستغنی است\r\nچه احتیاج نگارست دست مرجان را؟\r\nبر آن گروه حلال است دعوی همت\r\nکه چین جبهه شمارند مد احسان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلاح جوهر ذاتی است شیرمردان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه حاجت است به شمشیر تیزدستان را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خون هر دو جهان دست عشق مستغنی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه احتیاج نگارست دست مرجان را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر آن گروه حلال است دعوی همت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که چین جبهه شمارند مد احسان را",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36356,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۰۵",
+  "FullUrl": "/p393/natmam/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر بگردد روزگار از وضع خویش\r\nبرنگردد آن نگار از وضع خویش\r\nغم شکستم می ز مستی ریختم\r\nمی‌کشم اکنون خمار از وضع خویش\r\nپیش او کردم عبث خالی دلی\r\nگشته‌ام پرشرمسار از وضع خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بگردد روزگار از وضع خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برنگردد آن نگار از وضع خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غم شکستم می ز مستی ریختم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌کشم اکنون خمار از وضع خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیش او کردم عبث خالی دلی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گشته‌ام پرشرمسار از وضع خویش",
+      "CoupletIndex": 2
+    }
+  ]
+}

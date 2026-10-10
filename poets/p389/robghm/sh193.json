@@ -1,0 +1,57 @@
+{
+  "Id": 30450,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۹۳",
+  "FullUrl": "/p389/robghm/sh193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گه کار به عشق دلبرت می‌افتد\r\nگه راه به فکر دیگرت می‌افتد\r\nدیوار تو بی‌ثبات و سیلاب قوی\r\nبگریز که خانه بر سرت می‌افتد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه کار به عشق دلبرت می‌افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه راه به فکر دیگرت می‌افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیوار تو بی‌ثبات و سیلاب قوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگریز که خانه بر سرت می‌افتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

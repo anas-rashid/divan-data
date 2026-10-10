@@ -1,0 +1,57 @@
+{
+  "Id": 37702,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۸۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشقت کشتم که غم درودم شب و روز\r\nجان کاستم و رنج فزودم شب و روز\r\nدل را به هوا بیازمودم شب و روز\r\nبی دل بودم که بی تو بودم شب و روز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشقت کشتم که غم درودم شب و روز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان کاستم و رنج فزودم شب و روز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل را به هوا بیازمودم شب و روز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی دل بودم که بی تو بودم شب و روز",
+      "CoupletIndex": 1
+    }
+  ]
+}

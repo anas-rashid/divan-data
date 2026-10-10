@@ -1,0 +1,45 @@
+{
+  "Id": 17655,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فیض صبح زنده‌دل بیش است از دلهای شب\r\nمرگ پیران از جوانان بیشتر سوزد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فیض صبح زنده‌دل بیش است از دلهای شب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرگ پیران از جوانان بیشتر سوزد مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

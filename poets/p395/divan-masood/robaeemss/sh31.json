@@ -1,0 +1,57 @@
+{
+  "Id": 37545,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز آن سوزد چشم تو و زآن ریزد آب\r\nکاندر ابرو بخفته بد مست خراب\r\nابروی تو محراب بسوزد به عذاب\r\nهر مست که او بخسبد اندر محراب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آن سوزد چشم تو و زآن ریزد آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاندر ابرو بخفته بد مست خراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابروی تو محراب بسوزد به عذاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر مست که او بخسبد اندر محراب",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26285,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۹۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۹۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh197",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh197",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دور ساغر بی هوای ابر پا در گل بود\r\nبادبان کشتی می ابر دریا دل بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دور ساغر بی هوای ابر پا در گل بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بادبان کشتی می ابر دریا دل بود",
+      "CoupletIndex": 0
+    }
+  ]
+}

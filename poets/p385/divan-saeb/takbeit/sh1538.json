@@ -1,0 +1,45 @@
+{
+  "Id": 19069,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۳۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۳۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1538",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1538",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صنوبر با تهیدستی به دست آورد صد دل را\r\nتو بی‌پروا برون از عهدهٔ یک دل نمی‌آیی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صنوبر با تهیدستی به دست آورد صد دل را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو بی‌پروا برون از عهدهٔ یک دل نمی‌آیی",
+      "CoupletIndex": 0
+    }
+  ]
+}

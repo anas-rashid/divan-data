@@ -1,0 +1,42 @@
+{
+  "Id": 26241,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۵۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh153",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh153",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه شد که مجلس ما را ز شمع زیور نیست\r\nبیاض گردن مینا ز صبح کمتر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه شد که مجلس ما را ز شمع زیور نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیاض گردن مینا ز صبح کمتر نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

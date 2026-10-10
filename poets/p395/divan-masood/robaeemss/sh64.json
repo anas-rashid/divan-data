@@ -1,0 +1,57 @@
+{
+  "Id": 37578,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوی تو چو رخسار نکوی تو نکوست\r\nبی روی نکوی تو نکویی نه نکوست\r\nچون نار همی پاره کنم بر تن پوست\r\nاز انده هجران تو ای دلبر دوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوی تو چو رخسار نکوی تو نکوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی روی نکوی تو نکویی نه نکوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نار همی پاره کنم بر تن پوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از انده هجران تو ای دلبر دوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26825,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh219",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh219",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اهل دعوی خط به حرف اهل معنی می کشند\r\nاین سگان با آهوان گردن به دعوی می کشند\r\nنیست حسن و عشق را از یکدگر بیگانگی\r\nعاشقان از بید مجنون ناز لیلی می کشند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اهل دعوی خط به حرف اهل معنی می کشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این سگان با آهوان گردن به دعوی می کشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست حسن و عشق را از یکدگر بیگانگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عاشقان از بید مجنون ناز لیلی می کشند",
+      "CoupletIndex": 1
+    }
+  ]
+}

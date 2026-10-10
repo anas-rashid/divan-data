@@ -1,0 +1,57 @@
+{
+  "Id": 30892,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۵",
+  "FullUrl": "/p389/robghm/sh635",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh635",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با فقر و فنا، چون فقرا سر چه کنی؟\r\nاز باده تقلید، گلو تر چه کنی؟\r\nچون نیست تو را ترشح رحمت حق\r\nمانند سحاب، خرقه در بر چه کنی؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با فقر و فنا، چون فقرا سر چه کنی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از باده تقلید، گلو تر چه کنی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نیست تو را ترشح رحمت حق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند سحاب، خرقه در بر چه کنی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

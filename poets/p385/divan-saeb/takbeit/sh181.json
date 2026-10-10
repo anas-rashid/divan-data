@@ -1,0 +1,45 @@
+{
+  "Id": 17712,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۸۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۸۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم عالم فراوان است و من یک غنچه‌دل دارم\r\nچه سان در شیشهٔ ساعت کنم ریگ بیابان را؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم عالم فراوان است و من یک غنچه‌دل دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه سان در شیشهٔ ساعت کنم ریگ بیابان را؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

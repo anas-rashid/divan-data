@@ -1,0 +1,54 @@
+{
+  "Id": 36487,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷",
+  "FullUrl": "/p393/ghete/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ از گریهٔ عشاق اثر نیست تو را\r\nکوه تمکینی و از سیل خبر نیست تو را\r\nگرچه از درد دلم آه خبر می‌آرد\r\nچه ‌کنم آه کزین درد خبر نیست تو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ از گریهٔ عشاق اثر نیست تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوه تمکینی و از سیل خبر نیست تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه از درد دلم آه خبر می‌آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه ‌کنم آه کزین درد خبر نیست تو را",
+      "CoupletIndex": 1
+    }
+  ]
+}

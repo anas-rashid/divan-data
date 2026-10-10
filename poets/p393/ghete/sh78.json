@@ -1,0 +1,54 @@
+{
+  "Id": 36558,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۸",
+  "FullUrl": "/p393/ghete/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون نپیچد ز غصه تاک به خود\r\nدخترش در کشاکش افتاده است\r\nدید چون روی خود در آیینه گفت\r\nوه که در آب آتش افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نپیچد ز غصه تاک به خود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دخترش در کشاکش افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دید چون روی خود در آیینه گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وه که در آب آتش افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

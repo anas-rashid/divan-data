@@ -1,0 +1,54 @@
+{
+  "Id": 33250,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۱۴",
+  "FullUrl": "/p391/divan/ghete/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیخ میرک که از ره دانش\r\nمسند عز و شان مقامش شد\r\nبسکه کوچک دلی کند با خلق\r\nکاف تصغیر جزو نامش شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیخ میرک که از ره دانش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مسند عز و شان مقامش شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسکه کوچک دلی کند با خلق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاف تصغیر جزو نامش شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

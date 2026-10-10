@@ -1,0 +1,57 @@
+{
+  "Id": 26718,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۱۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جوش سودا ز سرم عقل گرانبار گرفت\r\nاین چنین گل نتوان از سر دستار گرفت\r\nچمن آرای مرا حاجت در بستن نیست\r\nجوش گل راه تماشایی گلزار گرفت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جوش سودا ز سرم عقل گرانبار گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این چنین گل نتوان از سر دستار گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چمن آرای مرا حاجت در بستن نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جوش گل راه تماشایی گلزار گرفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26416,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh328",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh328",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از تاج باج خواه فریدون حذر کنید\r\nاز کاسه گدایی وارون حذر کنید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تاج باج خواه فریدون حذر کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کاسه گدایی وارون حذر کنید",
+      "CoupletIndex": 0
+    }
+  ]
+}

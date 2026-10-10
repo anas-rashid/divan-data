@@ -1,0 +1,42 @@
+{
+  "Id": 26251,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۶۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این شور در جهان نه از افلاک و انجم است\r\nهر فتنه ای که هست (به) زیر سر خم است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این شور در جهان نه از افلاک و انجم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر فتنه ای که هست (به) زیر سر خم است",
+      "CoupletIndex": 0
+    }
+  ]
+}

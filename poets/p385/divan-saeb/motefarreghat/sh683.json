@@ -1,0 +1,54 @@
+{
+  "Id": 27289,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۸۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۸۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh683",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh683",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قیامت را به رفتار آورد سرو روان تو\r\nزند مهر خموشی بر لب عیسی زبان تو\r\nصبا را منع می کردم ز گلزارت، چه دانستم\r\nکه زیر دست صد گلچین برآید گلستان تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قیامت را به رفتار آورد سرو روان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زند مهر خموشی بر لب عیسی زبان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبا را منع می کردم ز گلزارت، چه دانستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که زیر دست صد گلچین برآید گلستان تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

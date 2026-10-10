@@ -1,0 +1,42 @@
+{
+  "Id": 26450,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۶۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۶۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh362",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh362",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برنیایی خوش به اهل فکر، ناخوش هم مباش\r\nگر سخن کش نیستی باری سخن کش هم مباش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برنیایی خوش به اهل فکر، ناخوش هم مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر سخن کش نیستی باری سخن کش هم مباش",
+      "CoupletIndex": 0
+    }
+  ]
+}

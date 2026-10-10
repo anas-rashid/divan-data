@@ -1,0 +1,57 @@
+{
+  "Id": 28890,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/p387/divan/robaee/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه دلت زر از غیب آگاهست\r\nبیجائی و برشکال بس جانکاهست\r\nجز خانه زین خانه ندارم آنهم\r\nچون دست بآن رسید پا کوتاهست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه دلت زر از غیب آگاهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیجائی و برشکال بس جانکاهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز خانه زین خانه ندارم آنهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون دست بآن رسید پا کوتاهست",
+      "CoupletIndex": 1
+    }
+  ]
+}

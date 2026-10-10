@@ -1,0 +1,54 @@
+{
+  "Id": 28185,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۱۸ - مهمان وعظ",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۱۸ - مهمان وعظ",
+  "FullUrl": "/p386/ghete-or/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بلهوس که آمده میهمان وعظ\r\nوقتی بیا که زهر بکامت شکر بود\r\nپژمرده دل زبان نگشایم بموعظت\r\nشمشیر رامقابله باجانور بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بلهوس که آمده میهمان وعظ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وقتی بیا که زهر بکامت شکر بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پژمرده دل زبان نگشایم بموعظت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر رامقابله باجانور بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

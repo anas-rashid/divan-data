@@ -1,0 +1,57 @@
+{
+  "Id": 34596,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۱",
+  "FullUrl": "/p392/robaee-hz/sh201",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh201",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حال دل آسوده دلان سوخت دلم\r\nبی دردیِ این بی خبران سوخت دلم\r\nدرد دل هیچکس مرا کار نکرد\r\nبر حال سلامت طلبان سوخت دلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حال دل آسوده دلان سوخت دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی دردیِ این بی خبران سوخت دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد دل هیچکس مرا کار نکرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر حال سلامت طلبان سوخت دلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34661,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آوارهٔ عالم، نگهی، ساخته ما را\r\nآن گوشه نشین، دربه در انداخته ما را\r\nچون مهرهٔ ششدر شده، در هجر تو ماتیم\r\nدریاب که نیرنگ غمت باخته ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آوارهٔ عالم، نگهی، ساخته ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن گوشه نشین، دربه در انداخته ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون مهرهٔ ششدر شده، در هجر تو ماتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب که نیرنگ غمت باخته ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

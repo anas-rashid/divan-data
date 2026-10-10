@@ -1,0 +1,57 @@
+{
+  "Id": 30853,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۹۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۹۶",
+  "FullUrl": "/p389/robghm/sh596",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh596",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق، چه بر سرم ز افسون آری\r\nهر رنگ بری دلم، دگر گون آری\r\nاز رد و قبول تو کس آگاه نشد\r\nکاین خون‌شده را چرا بری، چون آری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق، چه بر سرم ز افسون آری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر رنگ بری دلم، دگر گون آری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از رد و قبول تو کس آگاه نشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین خون‌شده را چرا بری، چون آری",
+      "CoupletIndex": 1
+    }
+  ]
+}

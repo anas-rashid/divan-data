@@ -1,0 +1,66 @@
+{
+  "Id": 36182,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۱",
+  "FullUrl": "/p393/natmam/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوبهار است و ندارم دلِ خشنود بیا\r\nناخن گل گرهِ شوقِ تو نگشود بیا\r\nدل ز دستم به شبستان غمت گم کردند\r\nای چراغت به کف از رنگ حنا زود بیا\r\nوقت آن است که گلزار خلیلش سازی\r\nبه دل افروخته غم آتش نمرود بیا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوبهار است و ندارم دلِ خشنود بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناخن گل گرهِ شوقِ تو نگشود بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ز دستم به شبستان غمت گم کردند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای چراغت به کف از رنگ حنا زود بیا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "وقت آن است که گلزار خلیلش سازی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به دل افروخته غم آتش نمرود بیا",
+      "CoupletIndex": 2
+    }
+  ]
+}

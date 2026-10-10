@@ -1,0 +1,93 @@
+{
+  "Id": 23204,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۱۳۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۱۳۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردان ز جان خویش نه آسان گذشته اند\r\nخون خورده اند تا ز سر جان گذشته اند\r\nگردیده است آب دل رهروان عشق\r\nتا از پل شکسته امکان گذشته اند\r\nفردای باز خواست چه آسوده خاطرند\r\nامروز آن کسان که ز سامان گذشته اند\r\nاز صدر تا رسند بزرگان به آستان\r\nاز عالم آستانه نشینان گذشته اند\r\nپروانه حلاوت افکار صائبند\r\nآن طوطیان که از شکرستان گذشته اند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردان ز جان خویش نه آسان گذشته اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون خورده اند تا ز سر جان گذشته اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردیده است آب دل رهروان عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا از پل شکسته امکان گذشته اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فردای باز خواست چه آسوده خاطرند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "امروز آن کسان که ز سامان گذشته اند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از صدر تا رسند بزرگان به آستان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از عالم آستانه نشینان گذشته اند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پروانه حلاوت افکار صائبند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آن طوطیان که از شکرستان گذشته اند",
+      "CoupletIndex": 4
+    }
+  ]
+}

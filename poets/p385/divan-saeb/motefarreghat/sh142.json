@@ -1,0 +1,57 @@
+{
+  "Id": 26748,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۴۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۴۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh142",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh142",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زهرست بی تبسم شیرین شراب تلخ\r\nبا بخت شور چند توان خورد آب تلخ\r\nبی می نیم شکفته، همانا بریده اند\r\nهمچون پیاله ناف مرا با شراب تلخ",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زهرست بی تبسم شیرین شراب تلخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با بخت شور چند توان خورد آب تلخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی می نیم شکفته، همانا بریده اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون پیاله ناف مرا با شراب تلخ",
+      "CoupletIndex": 1
+    }
+  ]
+}

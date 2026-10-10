@@ -1,0 +1,69 @@
+{
+  "Id": 26883,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh277",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh277",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قضا تا نسخه کفر از خط جانانه می گیرد\r\nجنون هم سر خط داغ از من دیوانه می گیرد\r\nدل بی دست و پای من ازان مجلس چه گل چیند\r\nکه آتش از برون بزم در پروانه می گیرد\r\nچه مشکل خوان خطی دارد سر زلف پریشانش\r\nکه در هر حرف او صد جا زبان شانه می گیرد!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قضا تا نسخه کفر از خط جانانه می گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جنون هم سر خط داغ از من دیوانه می گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل بی دست و پای من ازان مجلس چه گل چیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که آتش از برون بزم در پروانه می گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه مشکل خوان خطی دارد سر زلف پریشانش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که در هر حرف او صد جا زبان شانه می گیرد!",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18813,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۸۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۸۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1282",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1282",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همان از طاعت من بوی کیفیت نمی‌آید\r\nاگر سجادهٔ خود در می گلفام می‌شویم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همان از طاعت من بوی کیفیت نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر سجادهٔ خود در می گلفام می‌شویم",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26307,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh219",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh219",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم روی زمین ما را غبار دل نمی گردد\r\nکه از گرد یتیمی آب گوهر گل نمی گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم روی زمین ما را غبار دل نمی گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از گرد یتیمی آب گوهر گل نمی گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

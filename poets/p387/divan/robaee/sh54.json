@@ -1,0 +1,57 @@
+{
+  "Id": 28924,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/p387/divan/robaee/sh54",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh54",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این تازه بنا که عرش همسایه اوست\r\nرفعت حرفی ز رتبه پایه اوست\r\nباغیست که هر ستون سبزش سرویست\r\nکاسایش خاص و عام در سایه اوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این تازه بنا که عرش همسایه اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفعت حرفی ز رتبه پایه اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باغیست که هر ستون سبزش سرویست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاسایش خاص و عام در سایه اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

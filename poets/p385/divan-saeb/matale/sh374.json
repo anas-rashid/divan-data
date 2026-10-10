@@ -1,0 +1,42 @@
+{
+  "Id": 26462,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۷۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۷۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh374",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh374",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سلیمانی است حسن، انگشتری از حلقه مویش\r\nپریزادی است دست آموز، زلف آشنارویش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلیمانی است حسن، انگشتری از حلقه مویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پریزادی است دست آموز، زلف آشنارویش",
+      "CoupletIndex": 0
+    }
+  ]
+}

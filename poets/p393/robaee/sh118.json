@@ -1,0 +1,54 @@
+{
+  "Id": 37290,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱۸",
+  "FullUrl": "/p393/robaee/sh118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از آمدن تو شد دلم شاد ای عشق\r\nعالم عالم نشاط رو داد ای عشق\r\nکردی از بند نیک نام آزادم\r\nشاباش ای عشق آفرین ای عشق",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از آمدن تو شد دلم شاد ای عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم عالم نشاط رو داد ای عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردی از بند نیک نام آزادم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاباش ای عشق آفرین ای عشق",
+      "CoupletIndex": 1
+    }
+  ]
+}

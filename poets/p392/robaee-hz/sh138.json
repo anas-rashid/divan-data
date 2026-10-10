@@ -1,0 +1,57 @@
+{
+  "Id": 34533,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۳۸",
+  "FullUrl": "/p392/robaee-hz/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وبرانهٔ هند،کز صفا پاک بود\r\nخاکش نمک دیدهٔ ادراک بود\r\nآبش به بغل، شیشهٔ ساعت دارد\r\nمینای حباب او پر از خاک بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وبرانهٔ هند،کز صفا پاک بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاکش نمک دیدهٔ ادراک بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آبش به بغل، شیشهٔ ساعت دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مینای حباب او پر از خاک بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

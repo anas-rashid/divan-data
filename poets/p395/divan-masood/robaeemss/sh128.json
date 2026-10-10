@@ -1,0 +1,57 @@
+{
+  "Id": 37642,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بورشد رشید کز فلک ماه آورد\r\nجان اعدا ز گناه در چاه آورد\r\nآورد برای هر کسی راه آورد\r\nاز بهر ملک ملک ملکشاه آورد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بورشد رشید کز فلک ماه آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان اعدا ز گناه در چاه آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آورد برای هر کسی راه آورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر ملک ملک ملکشاه آورد",
+      "CoupletIndex": 1
+    }
+  ]
+}

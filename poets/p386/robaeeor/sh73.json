@@ -1,0 +1,57 @@
+{
+  "Id": 28116,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۷۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷۳",
+  "FullUrl": "/p386/robaeeor/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عشق شراب نیستی جوید روح\r\nزین می شکند صراحی توبه نصوح\r\nآن جا که محیط عشق توفان خیز است\r\nگهوارهٔ اطفال بود کشتی نوح",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق شراب نیستی جوید روح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین می شکند صراحی توبه نصوح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن جا که محیط عشق توفان خیز است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گهوارهٔ اطفال بود کشتی نوح",
+      "CoupletIndex": 1
+    }
+  ]
+}

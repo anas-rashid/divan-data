@@ -1,0 +1,57 @@
+{
+  "Id": 30802,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۴۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۴۵",
+  "FullUrl": "/p389/robghm/sh545",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh545",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز گفت و شنود زینت هوش مخواه\r\nبحر گوهر، از سکوت، خس پوش مخواه\r\nهنگامه صحبت از سخن گرم شود\r\nبزم‌آرایی ز شمع خاموش مخواه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز گفت و شنود زینت هوش مخواه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحر گوهر، از سکوت، خس پوش مخواه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنگامه صحبت از سخن گرم شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بزم‌آرایی ز شمع خاموش مخواه",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26557,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۶۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۶۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh469",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh469",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما از لب خامش ز سخن داد گرفتیم\r\nبا شیشه سربسته پریزاد گرفتیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما از لب خامش ز سخن داد گرفتیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با شیشه سربسته پریزاد گرفتیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

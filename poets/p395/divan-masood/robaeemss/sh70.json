@@ -1,0 +1,57 @@
+{
+  "Id": 37584,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چند گنهکار است آخر علوی است\r\nفرزند پیمبر است و از آل علی است\r\nزنهار شها که بیش از این مازارش\r\nزیرا که به روز حشر خصمانش قوی است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند گنهکار است آخر علوی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرزند پیمبر است و از آل علی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار شها که بیش از این مازارش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که به روز حشر خصمانش قوی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 34267,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸۴۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸۴۰",
+  "FullUrl": "/p392/ghazal-hz/sh840",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh840",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سوختهٔ عشق چرا کم ز سپندی؟\r\nاز خویش برون آی به یاهوی بلندی\r\nبر خویش نبالیم به درویشی و شاهی\r\nبر دوش نداریم پلاسی و پرندی\r\nبا سوخته جانان چه کند آتش دوزخ\r\nمن ساخته ام با تب هجران تو چندی\r\nمردی بود از نفس خطرناک گذشتن\r\nزبن خندق آتش، بجهانیم سمندی\r\nگفتی که حزین در غم ما، حال دلت چیست؟\r\nآتش به دل سوخته ام باز فکندی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سوختهٔ عشق چرا کم ز سپندی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خویش برون آی به یاهوی بلندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خویش نبالیم به درویشی و شاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر دوش نداریم پلاسی و پرندی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با سوخته جانان چه کند آتش دوزخ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من ساخته ام با تب هجران تو چندی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مردی بود از نفس خطرناک گذشتن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زبن خندق آتش، بجهانیم سمندی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گفتی که حزین در غم ما، حال دلت چیست؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آتش به دل سوخته ام باز فکندی",
+      "CoupletIndex": 4
+    }
+  ]
+}

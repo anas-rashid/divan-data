@@ -1,0 +1,57 @@
+{
+  "Id": 27102,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۹۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۹۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh496",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh496",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند زور آرد جنون بر من، گریبان نیستم\r\nچند بی تابی کنم، آه غریبان نیستم\r\nعهد خوبانم که می غلطم در آغوش شکست\r\nشمع صبحم در پی دلسوزی جان نیستم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند زور آرد جنون بر من، گریبان نیستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چند بی تابی کنم، آه غریبان نیستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عهد خوبانم که می غلطم در آغوش شکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمع صبحم در پی دلسوزی جان نیستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

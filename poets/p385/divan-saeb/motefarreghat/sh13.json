@@ -1,0 +1,57 @@
+{
+  "Id": 26619,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا ز زیر سنگ می آید برون مجنون ما\r\nمحمل لیلی برون رفته است از هامون ما\r\nعارفان را کنج تنهایی بود باغ و بهار\r\nدر خم خالی چو می می جوشد افلاطون ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ز زیر سنگ می آید برون مجنون ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محمل لیلی برون رفته است از هامون ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عارفان را کنج تنهایی بود باغ و بهار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خم خالی چو می می جوشد افلاطون ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

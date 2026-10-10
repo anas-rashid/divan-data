@@ -1,0 +1,57 @@
+{
+  "Id": 37714,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۰۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۰۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh200",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh200",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آتش به سرم همی فرو ریزد عشق\r\nدود از دل من همی برانگیزد عشق\r\nبا دلجویان همی نیامیزد عشق\r\nگویی که ز جان من همی خیزد عشق",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش به سرم همی فرو ریزد عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دود از دل من همی برانگیزد عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دلجویان همی نیامیزد عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی که ز جان من همی خیزد عشق",
+      "CoupletIndex": 1
+    }
+  ]
+}

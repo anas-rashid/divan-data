@@ -1,0 +1,57 @@
+{
+  "Id": 26642,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(مردانه ازین خرقه سالوس برون آ\r\nزن نیستی، از پرده ناموس برون آ)\r\n(پر در پر هم بافته پروانه و بلبل\r\nای شمع گل اندام ز فانوس برون آ)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(مردانه ازین خرقه سالوس برون آ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زن نیستی، از پرده ناموس برون آ)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(پر در پر هم بافته پروانه و بلبل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای شمع گل اندام ز فانوس برون آ)",
+      "CoupletIndex": 1
+    }
+  ]
+}

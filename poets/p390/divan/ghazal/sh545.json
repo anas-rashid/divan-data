@@ -1,0 +1,93 @@
+{
+  "Id": 31512,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۴۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۴۵",
+  "FullUrl": "/p390/divan/ghazal/sh545",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh545",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌نیازی عارفان را کارسازی می‌کند\r\nسرو از آزادی خود سرفرازی می‌کند\r\nمی‌گزد انگشت از ضعف وجود من هلال\r\nشعلهٔ مهر و محبت جانگدازی می‌کند\r\nدوست گر از لطف خواهد بخیه بر زخمم زند\r\nتار زلفش کوتهی با آن درازی می‌کند\r\nگرم آتشبازی‌ام چون دید در طفلی پدر\r\nگفت این بدبخت، مشق عشقبازی می‌کند\r\nمی‌زنم بر سینه سنگ از عشق او دایم سلیم\r\nاین چنین دیوانه خود را دل‌نوازی می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌نیازی عارفان را کارسازی می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو از آزادی خود سرفرازی می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌گزد انگشت از ضعف وجود من هلال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شعلهٔ مهر و محبت جانگدازی می‌کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دوست گر از لطف خواهد بخیه بر زخمم زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تار زلفش کوتهی با آن درازی می‌کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گرم آتشبازی‌ام چون دید در طفلی پدر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گفت این بدبخت، مشق عشقبازی می‌کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می‌زنم بر سینه سنگ از عشق او دایم سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این چنین دیوانه خود را دل‌نوازی می‌کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

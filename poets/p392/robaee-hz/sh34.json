@@ -1,0 +1,57 @@
+{
+  "Id": 34429,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/p392/robaee-hz/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق است که درد من و درمان من است\r\nدین من و پیر من و ایمان من است\r\nخون از بن هر مو نفشانم چه کنم؟\r\nزان نشتر غمزه ای که در جان من است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است که درد من و درمان من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دین من و پیر من و ایمان من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون از بن هر مو نفشانم چه کنم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان نشتر غمزه ای که در جان من است",
+      "CoupletIndex": 1
+    }
+  ]
+}

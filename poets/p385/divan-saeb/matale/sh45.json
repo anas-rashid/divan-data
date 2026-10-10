@@ -1,0 +1,42 @@
+{
+  "Id": 26133,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی سرانجامی صفا بخشد دل دیوانه را\r\nترک رفت و رو بود جاروب این ویرانه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی سرانجامی صفا بخشد دل دیوانه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترک رفت و رو بود جاروب این ویرانه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

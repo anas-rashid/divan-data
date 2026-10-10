@@ -1,0 +1,45 @@
+{
+  "Id": 17746,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۱۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۱۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مَشمُر زِ عمرِ خود، نَفَسِ ناشمرده را\r\nدفتر مَساز، این وَرَقِ بادبُرده را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مَشمُر زِ عمرِ خود، نَفَسِ ناشمرده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دفتر مَساز، این وَرَقِ بادبُرده را",
+      "CoupletIndex": 0
+    }
+  ]
+}

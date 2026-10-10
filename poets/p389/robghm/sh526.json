@@ -1,0 +1,57 @@
+{
+  "Id": 30783,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۶",
+  "FullUrl": "/p389/robghm/sh526",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh526",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر عارض دلبرم بود گندم‌گون\r\nرمزی‌ست، برآید آن، شوم راهنمون\r\nاو دیده عالم است و عیبی‌ست تمام\r\nگر دیده بود سفید از اندازه برون",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر عارض دلبرم بود گندم‌گون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رمزی‌ست، برآید آن، شوم راهنمون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او دیده عالم است و عیبی‌ست تمام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دیده بود سفید از اندازه برون",
+      "CoupletIndex": 1
+    }
+  ]
+}

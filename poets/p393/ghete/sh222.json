@@ -1,0 +1,54 @@
+{
+  "Id": 36702,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۲۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۲۲",
+  "FullUrl": "/p393/ghete/sh222",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh222",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشا روزی که با طور محبت آشنا بودی\r\nبرت می‌آمدم گر دیر می‌گفتی کجا بودی\r\nنه امروزیست اگر در جلوه می‌آیی پس از سالی\r\nچو ماه عید در هنگام طفلی کم‌نما بودی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشا روزی که با طور محبت آشنا بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برت می‌آمدم گر دیر می‌گفتی کجا بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه امروزیست اگر در جلوه می‌آیی پس از سالی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو ماه عید در هنگام طفلی کم‌نما بودی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30888,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۱",
+  "FullUrl": "/p389/robghm/sh631",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh631",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رمزی‌ست حدیث عشق، دریافتنی\r\nاین رشته نیامد ز ازل، تافتنی\r\nای عقل مکن ستیزه با عشق، که نیست\r\nسرپنجه آفتاب برتافتنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رمزی‌ست حدیث عشق، دریافتنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این رشته نیامد ز ازل، تافتنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عقل مکن ستیزه با عشق، که نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرپنجه آفتاب برتافتنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

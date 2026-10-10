@@ -1,0 +1,57 @@
+{
+  "Id": 28874,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/p387/divan/robaee/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوبان که همی رمند ز افسون فلک\r\nرامند به بی تعینان بیشترک\r\nدر صید بتان جامه صیادی پوش\r\nپا تابه و گیوه و کلاه و کپنک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوبان که همی رمند ز افسون فلک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رامند به بی تعینان بیشترک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در صید بتان جامه صیادی پوش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پا تابه و گیوه و کلاه و کپنک",
+      "CoupletIndex": 1
+    }
+  ]
+}

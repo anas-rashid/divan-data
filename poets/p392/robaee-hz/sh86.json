@@ -1,0 +1,57 @@
+{
+  "Id": 34481,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/p392/robaee-hz/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا بر لب عاشق می گلگون ناید\r\nاز دیده نمی شود شط خون ناید\r\nخود را به خم باده درانداز حزین\r\nهر بار، سبو درست بیرون ناید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بر لب عاشق می گلگون ناید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیده نمی شود شط خون ناید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود را به خم باده درانداز حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر بار، سبو درست بیرون ناید",
+      "CoupletIndex": 1
+    }
+  ]
+}

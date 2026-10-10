@@ -1,0 +1,66 @@
+{
+  "Id": 36459,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۰۸",
+  "FullUrl": "/p393/natmam/sh308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرچه شد از عشق حال من تباه\r\nذره‌ای حاصل نکردم انتباه\r\nگرچه می‌پرسد ز حالم دیر دیر\r\nحق تعالی دارد او را دیرگاه\r\nاو که می‌خندد به خار و خس چو گل\r\nوانمی‌گردد به من واحسرتاه",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه شد از عشق حال من تباه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذره‌ای حاصل نکردم انتباه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه می‌پرسد ز حالم دیر دیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حق تعالی دارد او را دیرگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "او که می‌خندد به خار و خس چو گل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وانمی‌گردد به من واحسرتاه",
+      "CoupletIndex": 2
+    }
+  ]
+}

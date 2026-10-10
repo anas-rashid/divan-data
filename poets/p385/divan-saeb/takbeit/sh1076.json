@@ -1,0 +1,45 @@
+{
+  "Id": 18607,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۷۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۷۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1076",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1076",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با گرانقدری سبک در دیده‌هایم چون نماز\r\nبا سبکروحی به خاطرها گران چون روزه‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با گرانقدری سبک در دیده‌هایم چون نماز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سبکروحی به خاطرها گران چون روزه‌ام",
+      "CoupletIndex": 0
+    }
+  ]
+}

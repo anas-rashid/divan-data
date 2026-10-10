@@ -1,0 +1,57 @@
+{
+  "Id": 30613,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵۶",
+  "FullUrl": "/p389/robghm/sh356",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh356",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یار تو غم اندوخته‌ای می‌باید\r\nدل گرم جگرسوخته‌ای می‌باید\r\nاز بهر دلالت صبوحی خیزان\r\nشمع سحر افروخته‌ای می‌باید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار تو غم اندوخته‌ای می‌باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل گرم جگرسوخته‌ای می‌باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بهر دلالت صبوحی خیزان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمع سحر افروخته‌ای می‌باید",
+      "CoupletIndex": 1
+    }
+  ]
+}

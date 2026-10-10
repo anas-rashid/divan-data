@@ -1,0 +1,42 @@
+{
+  "Id": 26515,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۲۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۲۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh427",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh427",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر گردن است خون دو صد کشته چون منش\r\nخون خوردن است بوسه گرفتن ز گردنش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر گردن است خون دو صد کشته چون منش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون خوردن است بوسه گرفتن ز گردنش",
+      "CoupletIndex": 0
+    }
+  ]
+}

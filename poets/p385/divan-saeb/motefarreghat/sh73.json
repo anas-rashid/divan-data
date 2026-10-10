@@ -1,0 +1,57 @@
+{
+  "Id": 26679,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ مشکینم که ناف لاله ها را سوخته است\r\nاز تب غیرت گل خورشید را افروخته است\r\nآنچه بر رخساره او می نماید خال نیست\r\nشبنم نازک دلی در آتش گل سوخته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ مشکینم که ناف لاله ها را سوخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تب غیرت گل خورشید را افروخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنچه بر رخساره او می نماید خال نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شبنم نازک دلی در آتش گل سوخته است",
+      "CoupletIndex": 1
+    }
+  ]
+}

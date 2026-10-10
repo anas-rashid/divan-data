@@ -1,0 +1,42 @@
+{
+  "Id": 26569,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۸۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۸۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh481",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh481",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می کند آتش زبان دفع گزند خویشتن\r\nمصرع برجسته خود باشد سپند خویشتن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می کند آتش زبان دفع گزند خویشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مصرع برجسته خود باشد سپند خویشتن",
+      "CoupletIndex": 0
+    }
+  ]
+}

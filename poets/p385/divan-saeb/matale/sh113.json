@@ -1,0 +1,42 @@
+{
+  "Id": 26201,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا دل بی تاب من گرم طلب گردیده است\r\nخار صحرای ملامت موی آتشدیده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل بی تاب من گرم طلب گردیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خار صحرای ملامت موی آتشدیده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

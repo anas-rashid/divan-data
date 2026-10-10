@@ -1,0 +1,45 @@
+{
+  "Id": 18775,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۴۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۴۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1244",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1244",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ستم به خویش ز کوتاهی زبان کردیم\r\nبه هر چه شکر نکردیم، یاد آن کردیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ستم به خویش ز کوتاهی زبان کردیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر چه شکر نکردیم، یاد آن کردیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

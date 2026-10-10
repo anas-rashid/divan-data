@@ -1,0 +1,57 @@
+{
+  "Id": 30395,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۸",
+  "FullUrl": "/p389/robghm/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مغزم ختن از نسیم پیراهن توست\r\nچشمم روشن به عارض روشن توست\r\nاز عارضه نیست دیده را گر بستم\r\nآزار به دیده‌ام ز نادیدن توست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مغزم ختن از نسیم پیراهن توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمم روشن به عارض روشن توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عارضه نیست دیده را گر بستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آزار به دیده‌ام ز نادیدن توست",
+      "CoupletIndex": 1
+    }
+  ]
+}

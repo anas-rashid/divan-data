@@ -1,0 +1,45 @@
+{
+  "Id": 17636,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زنگیان دشمن آیینهٔ بی‌زنگارند\r\nطمع روی دل از تیره‌دلان نیست مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زنگیان دشمن آیینهٔ بی‌زنگارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طمع روی دل از تیره‌دلان نیست مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

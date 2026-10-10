@@ -1,0 +1,93 @@
+{
+  "Id": 31821,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۵۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۵۴",
+  "FullUrl": "/p390/divan/ghazal/sh854",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh854",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست در حشر محبت گفتگوی کشتگان\r\nلاله ی این باغ دارد رنگ و بوی کشتگان\r\nنیست در مردن هم از قید تو آزادی، که هست\r\nموج آب تیغ، زنجیر گلوی کشتگان\r\nگر هوس را سر نبریده ست در دل عشق او\r\nچیست خون آلوده آهم همچو موی کشتگان\r\nگر ز دامان تو دست آرزو کوته کنند\r\nچون چراغ کشته نتوان دید روی کشتگان\r\nوقت کشتن کام ازو بستان که آن بدخو سلیم\r\nهمچو جان دیگر نمی آید به سوی کشتگان",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست در حشر محبت گفتگوی کشتگان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله ی این باغ دارد رنگ و بوی کشتگان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست در مردن هم از قید تو آزادی، که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موج آب تیغ، زنجیر گلوی کشتگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر هوس را سر نبریده ست در دل عشق او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چیست خون آلوده آهم همچو موی کشتگان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر ز دامان تو دست آرزو کوته کنند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون چراغ کشته نتوان دید روی کشتگان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وقت کشتن کام ازو بستان که آن بدخو سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همچو جان دیگر نمی آید به سوی کشتگان",
+      "CoupletIndex": 4
+    }
+  ]
+}

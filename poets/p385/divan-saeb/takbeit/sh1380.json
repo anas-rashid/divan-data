@@ -1,0 +1,45 @@
+{
+  "Id": 18911,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۸۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۸۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1380",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1380",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حوادث هر که را سنگی به مینا می‌خورد\r\nاز دل خونگرم ما آواز می‌آید برون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حوادث هر که را سنگی به مینا می‌خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دل خونگرم ما آواز می‌آید برون",
+      "CoupletIndex": 0
+    }
+  ]
+}

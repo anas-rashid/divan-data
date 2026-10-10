@@ -1,0 +1,57 @@
+{
+  "Id": 30411,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۵۴",
+  "FullUrl": "/p389/robghm/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر عقل رمید، عشق دلبر باقی‌ست\r\nصد دجله خون بر مژه تر باقی‌ست\r\nدل هست درون سینه گر آه نماند\r\nگر شعله ز پا نشست، اخگر باقی‌ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر عقل رمید، عشق دلبر باقی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد دجله خون بر مژه تر باقی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل هست درون سینه گر آه نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر شعله ز پا نشست، اخگر باقی‌ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

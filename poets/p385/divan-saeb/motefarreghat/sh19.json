@@ -1,0 +1,81 @@
+{
+  "Id": 26625,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز هجران که دارد لاله داغی دلسیاهی را؟\r\nغزال دشت از چشم که دارد خوش نگاهی را؟\r\nمکن در عشق منع دیده بیدار ما ناصح\r\nبه خواب از دست نتوان داد ذوق پادشاهی را\r\nز شوق خال مشکینش به گرد کعبه می گردم\r\nکه ره گم کرده خضری می شمارد هر سیاهی را\r\nاگر فردای محشر عفو میر عدل خواهد شد\r\nکه ثابت می کند بر خود گناه بی گناهی را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز هجران که دارد لاله داغی دلسیاهی را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غزال دشت از چشم که دارد خوش نگاهی را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مکن در عشق منع دیده بیدار ما ناصح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خواب از دست نتوان داد ذوق پادشاهی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز شوق خال مشکینش به گرد کعبه می گردم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که ره گم کرده خضری می شمارد هر سیاهی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اگر فردای محشر عفو میر عدل خواهد شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که ثابت می کند بر خود گناه بی گناهی را",
+      "CoupletIndex": 3
+    }
+  ]
+}

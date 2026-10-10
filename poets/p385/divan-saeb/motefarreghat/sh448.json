@@ -1,0 +1,57 @@
+{
+  "Id": 27054,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh448",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh448",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کدام شوخ که با من سر عتاب ندارد؟\r\nکدام گوشه که چشمم گلی در آب ندارد؟\r\nمرا که تشنه آن لعلم از عتاب چه پروا؟\r\nکه می پرست غم از تلخی شراب ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کدام شوخ که با من سر عتاب ندارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کدام گوشه که چشمم گلی در آب ندارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا که تشنه آن لعلم از عتاب چه پروا؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که می پرست غم از تلخی شراب ندارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

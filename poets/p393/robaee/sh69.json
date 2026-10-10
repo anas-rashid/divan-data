@@ -1,0 +1,54 @@
+{
+  "Id": 37241,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/p393/robaee/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا چند درین غمکده خون باید خورد\r\nوز حسرت جام عیش می‌باید مرد\r\nای کاش فلک بشکند ای کاش که تا\r\nنی صاف درین شیشه بماند نی درد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند درین غمکده خون باید خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز حسرت جام عیش می‌باید مرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای کاش فلک بشکند ای کاش که تا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نی صاف درین شیشه بماند نی درد",
+      "CoupletIndex": 1
+    }
+  ]
+}

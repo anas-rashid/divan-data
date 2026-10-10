@@ -1,0 +1,42 @@
+{
+  "Id": 27356,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۲۰",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تلاش بیهده ای می کند سر خورشید\r\nستاده (فتاده؟) است بلند، آستان حضرت دوست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تلاش بیهده ای می کند سر خورشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ستاده (فتاده؟) است بلند، آستان حضرت دوست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18984,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۵۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۵۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1453",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1453",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیگانگی ز حد رفت، ساقی می صفاده\r\nما را ز خویش بستان، خود را دمی به ما ده",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیگانگی ز حد رفت، ساقی می صفاده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را ز خویش بستان، خود را دمی به ما ده",
+      "CoupletIndex": 0
+    }
+  ]
+}

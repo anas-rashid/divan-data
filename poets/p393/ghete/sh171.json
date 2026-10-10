@@ -1,0 +1,54 @@
+{
+  "Id": 36651,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۷۱",
+  "FullUrl": "/p393/ghete/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سینه را بشکافتم دل یافتم\r\nیافتم گم‌کردهٔ خود یافتم\r\nدل فسرد از سینه بیرون کردمش\r\nمرد بلبل از قفس برتافتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سینه را بشکافتم دل یافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یافتم گم‌کردهٔ خود یافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل فسرد از سینه بیرون کردمش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرد بلبل از قفس برتافتم",
+      "CoupletIndex": 1
+    }
+  ]
+}

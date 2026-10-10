@@ -1,0 +1,93 @@
+{
+  "Id": 31173,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۰۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۰۶",
+  "FullUrl": "/p390/divan/ghazal/sh206",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh206",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خوش آن آزاده ای کو در به روی کام بست\r\nدیده از نظارهٔ این باغ، چون بادام بست\r\nاز ضعیفی، قوت بی طاقتی با من نماند\r\nناتوانی بر من آخر تهمت آرام بست\r\nبا وجود آنکه لبریز شرابم، از خمار\r\nیک دم از خمیازه نتوانم دهن چون جام بست\r\nصید صیادی نگردیدیم، تا کی می توان\r\nخویش را همچون گره بر حلقه ی هر دام بست\r\nما کجا و خوشدلی، هرگز نیاساید سلیم\r\nآنکه بر ما تهمت این آرزوی خام بست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خوش آن آزاده ای کو در به روی کام بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده از نظارهٔ این باغ، چون بادام بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ضعیفی، قوت بی طاقتی با من نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناتوانی بر من آخر تهمت آرام بست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با وجود آنکه لبریز شرابم، از خمار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک دم از خمیازه نتوانم دهن چون جام بست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صید صیادی نگردیدیم، تا کی می توان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خویش را همچون گره بر حلقه ی هر دام بست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ما کجا و خوشدلی، هرگز نیاساید سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آنکه بر ما تهمت این آرزوی خام بست",
+      "CoupletIndex": 4
+    }
+  ]
+}

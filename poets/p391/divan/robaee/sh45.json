@@ -1,0 +1,57 @@
+{
+  "Id": 33316,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/p391/divan/robaee/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حرصت ای شیخ ذوق بریان دارد\r\nدندان نه و میل خوردن نان دارد\r\nمی جاوی نان چو آسیا در شکمت\r\nگویا فم معدهٔ تو دندان دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حرصت ای شیخ ذوق بریان دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دندان نه و میل خوردن نان دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می جاوی نان چو آسیا در شکمت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویا فم معدهٔ تو دندان دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

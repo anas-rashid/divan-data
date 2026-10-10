@@ -1,0 +1,57 @@
+{
+  "Id": 30487,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۳۰",
+  "FullUrl": "/p389/robghm/sh230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلگشت چمن با فقرا کی سازد؟\r\nبا ترک هوس کرده، هوا کی سازد؟\r\nباغ از گل و بلبل همه برگ است و نوا\r\nدرویشی را برگ و نوا کی سازد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلگشت چمن با فقرا کی سازد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ترک هوس کرده، هوا کی سازد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باغ از گل و بلبل همه برگ است و نوا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درویشی را برگ و نوا کی سازد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

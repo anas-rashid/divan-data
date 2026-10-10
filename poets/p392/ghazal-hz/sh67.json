@@ -1,0 +1,93 @@
+{
+  "Id": 33494,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۷",
+  "FullUrl": "/p392/ghazal-hz/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخن از من کشیدی، شعله ورکردی جهانی را\r\nچرا انگشت بر لب می زنی آتش بیانی را؟\r\nکمی نبود خراش سینه ام را ای هلال ابرو\r\nبه داغ دل چه ناخن می زنی آزرده جانی را؟\r\nمبادا پرده از دل، آه خون آغشته بر دارد\r\nبه روی کار مفکن بخیهٔ زخم نهانی را\r\nز داغ لاله پیکر در غبار خاطر تنگم\r\nچمن پیرای عشقت ریخت، طرح گلستانی را\r\nعجب نبود حزین ، از عشق اگر عمر ابد یابم\r\nکه پیوند رگ جان کرده ام، نازک میانی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخن از من کشیدی، شعله ورکردی جهانی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چرا انگشت بر لب می زنی آتش بیانی را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمی نبود خراش سینه ام را ای هلال ابرو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به داغ دل چه ناخن می زنی آزرده جانی را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مبادا پرده از دل، آه خون آغشته بر دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به روی کار مفکن بخیهٔ زخم نهانی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز داغ لاله پیکر در غبار خاطر تنگم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چمن پیرای عشقت ریخت، طرح گلستانی را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عجب نبود حزین ، از عشق اگر عمر ابد یابم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که پیوند رگ جان کرده ام، نازک میانی را",
+      "CoupletIndex": 4
+    }
+  ]
+}

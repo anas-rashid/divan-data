@@ -1,0 +1,42 @@
+{
+  "Id": 32797,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۰۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۰۵",
+  "FullUrl": "/p391/divan/ghazal/sh705",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh705",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه جورها که غمت با دل تباه نکرد\r\nفغان من اثری در دل تو آه نکرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه جورها که غمت با دل تباه نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فغان من اثری در دل تو آه نکرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

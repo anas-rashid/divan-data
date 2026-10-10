@@ -1,0 +1,42 @@
+{
+  "Id": 26116,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کهنسالی ز نسیان شکوه کفر نعمت است\r\nهر چه از دل می برد یاد جوانی رحمت است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کهنسالی ز نسیان شکوه کفر نعمت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه از دل می برد یاد جوانی رحمت است",
+      "CoupletIndex": 0
+    }
+  ]
+}

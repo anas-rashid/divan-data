@@ -1,0 +1,45 @@
+{
+  "Id": 17849,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۱۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۱۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh318",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh318",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خودنمایی نیست کار خاکساران، ور نه من\r\nمشت خونی می‌توانستم به پای دار ریخت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خودنمایی نیست کار خاکساران، ور نه من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشت خونی می‌توانستم به پای دار ریخت",
+      "CoupletIndex": 0
+    }
+  ]
+}

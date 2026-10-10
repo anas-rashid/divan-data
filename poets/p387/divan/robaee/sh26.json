@@ -1,0 +1,57 @@
+{
+  "Id": 28896,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/p387/divan/robaee/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنم که نجویم از غم دهر پناه\r\nتا جور بود نمی کنم ناله و آه\r\nاخلاص غلام کرد در هند مرا\r\nمانند غلام روی اخلاص سیاه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که نجویم از غم دهر پناه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا جور بود نمی کنم ناله و آه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اخلاص غلام کرد در هند مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند غلام روی اخلاص سیاه",
+      "CoupletIndex": 1
+    }
+  ]
+}

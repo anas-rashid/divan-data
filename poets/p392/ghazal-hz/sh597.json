@@ -1,0 +1,93 @@
+{
+  "Id": 34024,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۹۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۹۷",
+  "FullUrl": "/p392/ghazal-hz/sh597",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh597",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همه فیض است می پرستی عشق\r\nبی خمار است ذوق مستی عشق\r\nما کجا دامن وصال کجا؟\r\nدست ما و دراز دستی عشق\r\nعاکفان صوامع قدسیم\r\nطاعت ما، صنم پرستی عشق\r\nصوفی آسا به رقص می آرد\r\nتوبه را، های و هوی مستی عشق\r\nشرری پیش آفتاب، حزین\r\nهستی ماست پیش هستی عشق",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همه فیض است می پرستی عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی خمار است ذوق مستی عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما کجا دامن وصال کجا؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دست ما و دراز دستی عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عاکفان صوامع قدسیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طاعت ما، صنم پرستی عشق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صوفی آسا به رقص می آرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "توبه را، های و هوی مستی عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شرری پیش آفتاب، حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هستی ماست پیش هستی عشق",
+      "CoupletIndex": 4
+    }
+  ]
+}

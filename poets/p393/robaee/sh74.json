@@ -1,0 +1,54 @@
+{
+  "Id": 37246,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/p393/robaee/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خویش به تنگیم خدا می‌داند\r\nبا خویش بجنگیم خدا می‌داند\r\nیعنی که ز دوری تو ای کعبهٔ جان\r\nدر قید فرنگیم خدا می‌داند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خویش به تنگیم خدا می‌داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خویش بجنگیم خدا می‌داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یعنی که ز دوری تو ای کعبهٔ جان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در قید فرنگیم خدا می‌داند",
+      "CoupletIndex": 1
+    }
+  ]
+}

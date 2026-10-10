@@ -1,0 +1,81 @@
+{
+  "Id": 27160,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۵۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۵۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh554",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh554",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زبان شانه را از حرف زلفش کی توان بستن؟\r\nپریشان گوی را نتوان ز غمازی زبان بستن\r\nکسی تا چند ریزد خار در چشم تماشایی؟\r\nخدا فرصت دهد، خواهیم نخل باغبان بستن\r\nز پرکاری نظر می پوشد از عشاق سودایی\r\nدکان داری است در جوش خریداران دکان بستن\r\nغنیمت می شمارم صحبت گل، نیستم بلبل\r\nکه عمرم بگذرد ایام گل در آشیان بستن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زبان شانه را از حرف زلفش کی توان بستن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پریشان گوی را نتوان ز غمازی زبان بستن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کسی تا چند ریزد خار در چشم تماشایی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدا فرصت دهد، خواهیم نخل باغبان بستن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز پرکاری نظر می پوشد از عشاق سودایی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دکان داری است در جوش خریداران دکان بستن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غنیمت می شمارم صحبت گل، نیستم بلبل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که عمرم بگذرد ایام گل در آشیان بستن",
+      "CoupletIndex": 3
+    }
+  ]
+}

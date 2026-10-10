@@ -1,0 +1,45 @@
+{
+  "Id": 26496,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۰۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۰۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh408",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh408",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آشفته می شود ز نصیحت دماغ من\r\nدست حمایت است نفس بر چراغ من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آشفته می شود ز نصیحت دماغ من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست حمایت است نفس بر چراغ من",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 38786,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۹",
+  "FullUrl": "/p397/ghazal/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تارها زلفش چو دیدم مارها\r\nپارها گشته دلم چون پارها\r\nکارهای جمله مشکل مانده است\r\nزارها باید دل خود زارها\r\nصورت حسنش مبین ای بی خبر\r\nنور ها این نیست جمله نارها\r\nیار با خوبان تو هرگز دل مده\r\nتا نباشی همچو ما غمخوارها\r\nدین ز دست خود چو ما بگذاشتیم\r\nتا چه کار آید مرا زنارها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تارها زلفش چو دیدم مارها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پارها گشته دلم چون پارها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارهای جمله مشکل مانده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زارها باید دل خود زارها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صورت حسنش مبین ای بی خبر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نور ها این نیست جمله نارها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یار با خوبان تو هرگز دل مده",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا نباشی همچو ما غمخوارها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دین ز دست خود چو ما بگذاشتیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا چه کار آید مرا زنارها",
+      "CoupletIndex": 4
+    }
+  ]
+}

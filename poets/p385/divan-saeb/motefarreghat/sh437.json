@@ -1,0 +1,69 @@
+{
+  "Id": 27043,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh437",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh437",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دور خط آن سیم ذقن تلخ سخن شد\r\nخط ابجد بی رحمی آن غنچه دهن شد\r\nشد آتش گل اخگر خاکستر بلبل\r\nروزی که گل روی تو پیدا ز چمن شد\r\nاخگر نتواند ز گریبان بدر انداخت\r\nدستی که گرفتار سر زلف سخن شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دور خط آن سیم ذقن تلخ سخن شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط ابجد بی رحمی آن غنچه دهن شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد آتش گل اخگر خاکستر بلبل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی که گل روی تو پیدا ز چمن شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اخگر نتواند ز گریبان بدر انداخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دستی که گرفتار سر زلف سخن شد",
+      "CoupletIndex": 2
+    }
+  ]
+}

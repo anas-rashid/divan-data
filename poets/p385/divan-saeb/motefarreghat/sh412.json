@@ -1,0 +1,45 @@
+{
+  "Id": 27018,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۱۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۱۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh412",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh412",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به جای قطره باران به کشت طالع ما\r\nز آسمان ستم پیشه مور می آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به جای قطره باران به کشت طالع ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آسمان ستم پیشه مور می آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 26350,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۶۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز ماه روزه حسن آن پری پیکر دو چندان شد\r\nاز آن مهر خدایی ماه من خورشید تابان شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز ماه روزه حسن آن پری پیکر دو چندان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آن مهر خدایی ماه من خورشید تابان شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

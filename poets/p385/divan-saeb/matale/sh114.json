@@ -1,0 +1,42 @@
+{
+  "Id": 26202,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که با بی نسبتان گردد طرف، دیوانه است\r\nروی گردانیدن اینجا حمله مردانه است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که با بی نسبتان گردد طرف، دیوانه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی گردانیدن اینجا حمله مردانه است",
+      "CoupletIndex": 0
+    }
+  ]
+}

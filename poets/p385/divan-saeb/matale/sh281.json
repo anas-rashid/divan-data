@@ -1,0 +1,42 @@
+{
+  "Id": 26369,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۸۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۸۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh281",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh281",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سفر با رخ افروخته جانان آمد\r\nرفت چون ماه و چو خورشید درخشان آمد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سفر با رخ افروخته جانان آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفت چون ماه و چو خورشید درخشان آمد",
+      "CoupletIndex": 0
+    }
+  ]
+}

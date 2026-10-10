@@ -1,0 +1,57 @@
+{
+  "Id": 28166,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۲۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲۳",
+  "FullUrl": "/p386/robaeeor/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "توفیق گذشته گر به ما باز آید\r\nاین بخت عجوز بر سر ناز آید\r\nشاهین کرم گر بگشاید پر و بال\r\nبس طایر بسمل که به پرواز آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "توفیق گذشته گر به ما باز آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این بخت عجوز بر سر ناز آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاهین کرم گر بگشاید پر و بال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس طایر بسمل که به پرواز آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

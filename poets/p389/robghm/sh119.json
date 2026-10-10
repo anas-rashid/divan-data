@@ -1,0 +1,57 @@
+{
+  "Id": 30376,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/p389/robghm/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با مهر تو هر جان به تنی آینه است\r\nهر برگ گلی به گلشنی آینه است\r\nهر دل که به فیض آشنا شد ...\r\nروشن چو شود، هر آهنی آینه است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با مهر تو هر جان به تنی آینه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر برگ گلی به گلشنی آینه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دل که به فیض آشنا شد ...",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روشن چو شود، هر آهنی آینه است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26408,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh320",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh320",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشکم همیشه خون به دل آستین کند\r\nهر طفل را که روی دهی این چنین کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشکم همیشه خون به دل آستین کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر طفل را که روی دهی این چنین کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

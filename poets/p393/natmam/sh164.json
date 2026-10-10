@@ -1,0 +1,66 @@
+{
+  "Id": 36315,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۴",
+  "FullUrl": "/p393/natmam/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان ضعیف من که به جانان نمی‌رسد\r\nموریست ناتوان به سلیمان نمی‌رسد\r\nدور از تو دل اگر نخورد خاک چون کند\r\nای وای قطره‌ای که به عمان نمی‌رسید\r\nیار است و گیسوی که به پایان رسیده است\r\nماییم و شکوه‌ای که به پایان نمی‌رسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان ضعیف من که به جانان نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موریست ناتوان به سلیمان نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دور از تو دل اگر نخورد خاک چون کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای وای قطره‌ای که به عمان نمی‌رسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یار است و گیسوی که به پایان رسیده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ماییم و شکوه‌ای که به پایان نمی‌رسد",
+      "CoupletIndex": 2
+    }
+  ]
+}

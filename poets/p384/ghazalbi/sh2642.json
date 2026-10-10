@@ -1,0 +1,57 @@
+{
+  "Id": 17345,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۲۶۴۲",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۲۶۴۲",
+  "FullUrl": "/p384/ghazalbi/sh2642",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh2642",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای امل آواره فرصت را چه رسوا کرده‌ای\r\nنوحه کن در یاد امروزی که فردا کرده‌ای\r\nحسن مطلق را مقید تا کجا خواهی شناخت\r\nآه از آن یوسف که در چاهش تماشا کرده‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای امل آواره فرصت را چه رسوا کرده‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوحه کن در یاد امروزی که فردا کرده‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حسن مطلق را مقید تا کجا خواهی شناخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه از آن یوسف که در چاهش تماشا کرده‌ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

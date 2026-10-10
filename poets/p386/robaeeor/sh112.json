@@ -1,0 +1,57 @@
+{
+  "Id": 28155,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۱۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱۲",
+  "FullUrl": "/p386/robaeeor/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون عشق به کام مشتری کار کند\r\nوز جنس غم آرایش بازار کند\r\nیک جو به هزار جان فروشد از غم\r\nتا زاری ای از پی ات خریدار کند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون عشق به کام مشتری کار کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز جنس غم آرایش بازار کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک جو به هزار جان فروشد از غم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زاری ای از پی ات خریدار کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

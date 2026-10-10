@@ -1,0 +1,45 @@
+{
+  "Id": 17770,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۳۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۳۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh239",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh239",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به امّیدی که چون بادِ بهار از دَر دَرون آیی\r\nچو گُل، در دستِ خود داریم، نقدِ زندگانی را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به امّیدی که چون بادِ بهار از دَر دَرون آیی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گُل، در دستِ خود داریم، نقدِ زندگانی را",
+      "CoupletIndex": 0
+    }
+  ]
+}

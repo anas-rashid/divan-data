@@ -1,0 +1,57 @@
+{
+  "Id": 26940,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh334",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh334",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کجا از خط سبز تو سخن می خیزد\r\nموی از سبزه بر اندام چمن می خیزد\r\nمشرق مصرع برجسته دل پرخون است\r\nاین سهیلی است که از خاک یمن می خیزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کجا از خط سبز تو سخن می خیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موی از سبزه بر اندام چمن می خیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشرق مصرع برجسته دل پرخون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این سهیلی است که از خاک یمن می خیزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

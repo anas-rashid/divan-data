@@ -1,0 +1,54 @@
+{
+  "Id": 37444,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۵۹",
+  "FullUrl": "/p394/ghazal/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر کند تار نفس را رشتهٔ سوزن مسیح\r\nکی تواند دوخت زخم سینه چاکان ترا\r\nبیدلان را گاه گاهی میتوان دادن ولی\r\nای که ایزد صورت دل داد پیکان ترا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر کند تار نفس را رشتهٔ سوزن مسیح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی تواند دوخت زخم سینه چاکان ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیدلان را گاه گاهی میتوان دادن ولی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای که ایزد صورت دل داد پیکان ترا",
+      "CoupletIndex": 1
+    }
+  ]
+}

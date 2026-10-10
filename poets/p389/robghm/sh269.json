@@ -1,0 +1,57 @@
+{
+  "Id": 30526,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۶۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۶۹",
+  "FullUrl": "/p389/robghm/sh269",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh269",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قومی که به محض نام انسان شده‌اند\r\nمشغول به جسم و غافل از جان شده‌اند\r\nمنظور دگر اگر ندارند، چه شد\r\nدر صورت کار خویش حیران شده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قومی که به محض نام انسان شده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشغول به جسم و غافل از جان شده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منظور دگر اگر ندارند، چه شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در صورت کار خویش حیران شده‌اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

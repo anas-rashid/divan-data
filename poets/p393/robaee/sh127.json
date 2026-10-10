@@ -1,0 +1,54 @@
+{
+  "Id": 37299,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/p393/robaee/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سلسله بی‌سر و پایان توایم\r\nاز حلقهٔ بی‌برگ و نوایان توایم\r\nما را محروم مگردان ز درت\r\nشیناً لللّه ما گدایان توایم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سلسله بی‌سر و پایان توایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از حلقهٔ بی‌برگ و نوایان توایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را محروم مگردان ز درت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیناً لللّه ما گدایان توایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

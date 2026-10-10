@@ -1,0 +1,69 @@
+{
+  "Id": 27081,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۷۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۷۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh475",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh475",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاکل او درهم است از شورش سودای خویش\r\nاز پریشانی ندارد زلف او پروای خویش\r\nنشأه مستی ز عمر جاودانی خوشترست\r\nخضر و آب زندگانی، ما و ته مینای خویش\r\nدر میان هر دو موزون آشنایی معنوی است\r\nسرو تا بالای او را دید جست از جای خویش!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاکل او درهم است از شورش سودای خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از پریشانی ندارد زلف او پروای خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشأه مستی ز عمر جاودانی خوشترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خضر و آب زندگانی، ما و ته مینای خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در میان هر دو موزون آشنایی معنوی است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سرو تا بالای او را دید جست از جای خویش!",
+      "CoupletIndex": 2
+    }
+  ]
+}

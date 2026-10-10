@@ -1,0 +1,57 @@
+{
+  "Id": 30884,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۷",
+  "FullUrl": "/p389/robghm/sh627",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh627",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سوز جگرم نمی‌برد درمانی\r\nکی گرمی عشق را بود پایانی؟\r\nچون لاله گر اجزای من از هم پاشد\r\nهر جزو بر آتشم بود دامانی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوز جگرم نمی‌برد درمانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی گرمی عشق را بود پایانی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون لاله گر اجزای من از هم پاشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر جزو بر آتشم بود دامانی",
+      "CoupletIndex": 1
+    }
+  ]
+}

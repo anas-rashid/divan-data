@@ -1,0 +1,54 @@
+{
+  "Id": 32704,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۱۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۲",
+  "FullUrl": "/p391/divan/ghazal/sh612",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh612",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آه اگر از پیش چشم آن سرو قامت بگذرد\r\nچون ز پیشم بگذرد بر من قیامت بگذرد\r\nچون نیاید از زبان هرگز ادای حق شکر\r\nوقت آنکس خوش که عمرش در ندامت بگذرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه اگر از پیش چشم آن سرو قامت بگذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون ز پیشم بگذرد بر من قیامت بگذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نیاید از زبان هرگز ادای حق شکر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وقت آنکس خوش که عمرش در ندامت بگذرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

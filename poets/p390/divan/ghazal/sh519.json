@@ -1,0 +1,93 @@
+{
+  "Id": 31486,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۱۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۱۹",
+  "FullUrl": "/p390/divan/ghazal/sh519",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh519",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نکهت تو باده ره هوش می زند\r\nگل را حدیث روی تو بر گوش می زند\r\nدر آه و ناله مصلحت خویش دیده ایم\r\nاز پختگی ست گر می ما جوش می زند\r\nمغرور صبر خویش مشو در جفای دوست\r\nانگشت، عشق بر لب خاموش می زند\r\nچندان که همچو دف ز جهان ناله می کنم\r\nسیلی همان مرا به بناگوش می زند\r\nزاهد چو حرف توبه به من می زند سلیم\r\nهر دم سبوی باده به من دوش می زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نکهت تو باده ره هوش می زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل را حدیث روی تو بر گوش می زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آه و ناله مصلحت خویش دیده ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پختگی ست گر می ما جوش می زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مغرور صبر خویش مشو در جفای دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "انگشت، عشق بر لب خاموش می زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چندان که همچو دف ز جهان ناله می کنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیلی همان مرا به بناگوش می زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زاهد چو حرف توبه به من می زند سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر دم سبوی باده به من دوش می زند",
+      "CoupletIndex": 4
+    }
+  ]
+}

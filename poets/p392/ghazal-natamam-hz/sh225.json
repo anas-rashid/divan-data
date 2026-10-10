@@ -1,0 +1,69 @@
+{
+  "Id": 34884,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۲۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۲۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh225",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh225",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلف سیهش، آتش بیداد برآورد\r\nدود از شکن طرّهٔ شمشاد برآورد\r\nبرخاست مرا از قفس سینه صفیری\r\nشور از دل مرغان چمن زاد برآورد\r\nرخساره نمودیّ و مرا مردمک چشم\r\nدر دیده سپندی شد و فریاد برآورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلف سیهش، آتش بیداد برآورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دود از شکن طرّهٔ شمشاد برآورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخاست مرا از قفس سینه صفیری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شور از دل مرغان چمن زاد برآورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رخساره نمودیّ و مرا مردمک چشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دیده سپندی شد و فریاد برآورد",
+      "CoupletIndex": 2
+    }
+  ]
+}

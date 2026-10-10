@@ -1,0 +1,57 @@
+{
+  "Id": 34613,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۱۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۱۸",
+  "FullUrl": "/p392/robaee-hz/sh218",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh218",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای رهرو عشق، کاهلی پیشه مکن\r\nدر کالبد فسردگی ریشه مکن\r\nجانان سر وصل پاکبازان دارد\r\nگر جان طلبد بباز و اندیشه مکن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای رهرو عشق، کاهلی پیشه مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کالبد فسردگی ریشه مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانان سر وصل پاکبازان دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر جان طلبد بباز و اندیشه مکن",
+      "CoupletIndex": 1
+    }
+  ]
+}

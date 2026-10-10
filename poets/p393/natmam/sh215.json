@@ -1,0 +1,66 @@
+{
+  "Id": 36366,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۱۵",
+  "FullUrl": "/p393/natmam/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز گریه دامن گل گشته است محشر گل\r\nبیا به سیر که گل ریخت است بر سر گل\r\nتو رنگ و بوی چمن بس که کرده‌ای تاراج\r\nدریدهه پیرهنی مانده است بر سر گل\r\nبه باغ رفتی و چندان خجل شد از بویت\r\nکه شیشه شد به عرق جامهٔ معطر گل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز گریه دامن گل گشته است محشر گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیا به سیر که گل ریخت است بر سر گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو رنگ و بوی چمن بس که کرده‌ای تاراج",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریدهه پیرهنی مانده است بر سر گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به باغ رفتی و چندان خجل شد از بویت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که شیشه شد به عرق جامهٔ معطر گل",
+      "CoupletIndex": 2
+    }
+  ]
+}

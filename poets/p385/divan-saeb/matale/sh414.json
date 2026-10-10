@@ -1,0 +1,42 @@
+{
+  "Id": 26502,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۱۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۱۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh414",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh414",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بوی گل غنچه شود چون تو به گلزار آیی\r\nرنگ یوسف شکند چون تو به بازار آیی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بوی گل غنچه شود چون تو به گلزار آیی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رنگ یوسف شکند چون تو به بازار آیی",
+      "CoupletIndex": 0
+    }
+  ]
+}

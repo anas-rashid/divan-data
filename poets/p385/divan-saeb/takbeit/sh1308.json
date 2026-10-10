@@ -1,0 +1,45 @@
+{
+  "Id": 18839,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۰۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۰۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قسمت خود بین نمی‌گردد زلال زندگی\r\nای سکندر، سنگ بر آیینه می‌باید زدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قسمت خود بین نمی‌گردد زلال زندگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای سکندر، سنگ بر آیینه می‌باید زدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18343,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۱۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۱۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh812",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh812",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر نمی‌دارد زمین خاکساری امتیاز\r\nدر فتادن، سایهٔ شاه و گدا یکسان بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر نمی‌دارد زمین خاکساری امتیاز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در فتادن، سایهٔ شاه و گدا یکسان بود",
+      "CoupletIndex": 0
+    }
+  ]
+}

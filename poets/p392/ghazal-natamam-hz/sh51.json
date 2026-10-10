@@ -1,0 +1,42 @@
+{
+  "Id": 34710,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آن ساعت که، بر بالین خرامی، خاکساری را\r\nبه باد دامنی، از خاک برداری غباری را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن ساعت که، بر بالین خرامی، خاکساری را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به باد دامنی، از خاک برداری غباری را",
+      "CoupletIndex": 0
+    }
+  ]
+}

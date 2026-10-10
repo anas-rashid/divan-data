@@ -1,0 +1,69 @@
+{
+  "Id": 26872,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh266",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh266",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مصفا چون شود دل در غبار تن نمی‌گنجد\r\nکه چون شد صیقلی آیینه در گلخن نمی‌گنجد\r\nبه هم پیچید خرسندی زبان شکوه ما را\r\nدگر در حلقه زنجیر ما شیون نمی‌گنجد\r\nکفن شد جامه فانوس از داغ جگرسوزم\r\nز شوخی شعله من در ته دامن نمی‌گنجد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مصفا چون شود دل در غبار تن نمی‌گنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چون شد صیقلی آیینه در گلخن نمی‌گنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به هم پیچید خرسندی زبان شکوه ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دگر در حلقه زنجیر ما شیون نمی‌گنجد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کفن شد جامه فانوس از داغ جگرسوزم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز شوخی شعله من در ته دامن نمی‌گنجد",
+      "CoupletIndex": 2
+    }
+  ]
+}

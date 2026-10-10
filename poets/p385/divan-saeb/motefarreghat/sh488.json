@@ -1,0 +1,57 @@
+{
+  "Id": 27094,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۸۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۸۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh488",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh488",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس که چون صدف دهن خویش کرد پاک\r\nلبریز می شود ز گهرهای تابناک\r\nبی سجده می کنند نماز جنازه را\r\nمگذار پیش مرده دلان روی خود به خاک",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس که چون صدف دهن خویش کرد پاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لبریز می شود ز گهرهای تابناک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی سجده می کنند نماز جنازه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگذار پیش مرده دلان روی خود به خاک",
+      "CoupletIndex": 1
+    }
+  ]
+}

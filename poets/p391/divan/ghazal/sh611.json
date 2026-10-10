@@ -1,0 +1,54 @@
+{
+  "Id": 32703,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۱۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۱",
+  "FullUrl": "/p391/divan/ghazal/sh611",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh611",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل غافل ز ریاضت به صفایی نرسید\r\nمست چندانکه ز خود ر فت به جایی نرسید\r\nچون پی قربانی من بر زند دامان ناز\r\nگل کند از شش جهت جوش مبارکباد عید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل غافل ز ریاضت به صفایی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مست چندانکه ز خود ر فت به جایی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون پی قربانی من بر زند دامان ناز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل کند از شش جهت جوش مبارکباد عید",
+      "CoupletIndex": 1
+    }
+  ]
+}

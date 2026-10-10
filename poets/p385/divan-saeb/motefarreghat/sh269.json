@@ -1,0 +1,45 @@
+{
+  "Id": 26875,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh269",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh269",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امید وقت خوش از جمع دیوان داشتم، غافل\r\nکه تصحیح دواوین، خونی اوقات من گردد!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امید وقت خوش از جمع دیوان داشتم، غافل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که تصحیح دواوین، خونی اوقات من گردد!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26235,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۴۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh147",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh147",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه سود ازین که کتبخانه جهان از توست؟\r\nز علم هر چه عمل می کنی به آن از توست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه سود ازین که کتبخانه جهان از توست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز علم هر چه عمل می کنی به آن از توست",
+      "CoupletIndex": 0
+    }
+  ]
+}

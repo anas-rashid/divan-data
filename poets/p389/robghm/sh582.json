@@ -1,0 +1,57 @@
+{
+  "Id": 30839,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۸۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۸۲",
+  "FullUrl": "/p389/robghm/sh582",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh582",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خشنود به مژده وصالم کردی\r\nناآمده، مشتاق جمالم کردی\r\nوصل چو تویی مرا نیاید باور\r\nدیوانه سودای محالم کردی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خشنود به مژده وصالم کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناآمده، مشتاق جمالم کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وصل چو تویی مرا نیاید باور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیوانه سودای محالم کردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

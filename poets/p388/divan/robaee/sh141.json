@@ -1,0 +1,57 @@
+{
+  "Id": 29748,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/p388/divan/robaee/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش بوست بس این زلف دو تا بر که زدی؟\r\nبوی تو نمی دهد چرا؟ بر که زدی؟\r\nاین معنی تازه از چه کس دزدیدی؟\r\nاین شعر تو نیست، از کجا؟ بر که زدی؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش بوست بس این زلف دو تا بر که زدی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی تو نمی دهد چرا؟ بر که زدی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این معنی تازه از چه کس دزدیدی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این شعر تو نیست، از کجا؟ بر که زدی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

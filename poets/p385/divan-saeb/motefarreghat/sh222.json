@@ -1,0 +1,57 @@
+{
+  "Id": 26828,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۲۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۲۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh222",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh222",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روح را با تن شکم‌پرور برابر می‌کند\r\nبادبان را کشتی پربار لنگر می‌کند\r\nتخم نیکی را زمین پاک اکسیر بقاست\r\nقطره آبی که نوشد تیغ جوهر می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روح را با تن شکم‌پرور برابر می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بادبان را کشتی پربار لنگر می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تخم نیکی را زمین پاک اکسیر بقاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قطره آبی که نوشد تیغ جوهر می‌کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

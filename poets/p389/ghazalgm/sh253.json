@@ -1,0 +1,105 @@
+{
+  "Id": 30001,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۵۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۵۳",
+  "FullUrl": "/p389/ghazalgm/sh253",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh253",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در طرب ز ازل بر من حزین بستند\r\nگشاد نیست دری را که اینچنین بستند\r\nبریدم از همه عالم برای خاطر دوست\r\nکمر به دشمنی‌ام عالمی ازین بستند\r\nکف بریده ما آشکار شد، ور نه\r\nهزار دست شکسته در آستین بستند\r\nنه کافرم، نه مسلمان، که با ترانه عشق\r\nلبم ز زمزمه صوت کفر و دین بستند\r\nنرست شاخ گلی چون تو از زمین، هرچند\r\nکه آب چشمه خورشید بر زمین بستند\r\nچو غنچه در دل قدسی هزار جا گره است\r\nز هر گره که بر آن زلف عنبرین بستند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در طرب ز ازل بر من حزین بستند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشاد نیست دری را که اینچنین بستند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بریدم از همه عالم برای خاطر دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کمر به دشمنی‌ام عالمی ازین بستند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کف بریده ما آشکار شد، ور نه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هزار دست شکسته در آستین بستند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نه کافرم، نه مسلمان، که با ترانه عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لبم ز زمزمه صوت کفر و دین بستند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نرست شاخ گلی چون تو از زمین، هرچند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که آب چشمه خورشید بر زمین بستند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو غنچه در دل قدسی هزار جا گره است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ز هر گره که بر آن زلف عنبرین بستند",
+      "CoupletIndex": 5
+    }
+  ]
+}

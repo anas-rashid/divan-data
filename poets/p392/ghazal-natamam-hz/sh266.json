@@ -1,0 +1,69 @@
+{
+  "Id": 34925,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۶۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۶۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh266",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh266",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دمد از چاکهای سینه شیون، تا نفس دارم\r\nکه چون دل، بلبل شوریده حالی در قفس دارم\r\nنشد آسودگی حالی، نصیب کاروان ما\r\nبه هر وادی خروش دلخراشی، چون جرس دارم\r\nعجب رسمی ست شهرستان دنیا را تماشا کن\r\nکه تنها من همین هشیارم و از پی عسس دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دمد از چاکهای سینه شیون، تا نفس دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چون دل، بلبل شوریده حالی در قفس دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشد آسودگی حالی، نصیب کاروان ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به هر وادی خروش دلخراشی، چون جرس دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عجب رسمی ست شهرستان دنیا را تماشا کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که تنها من همین هشیارم و از پی عسس دارم",
+      "CoupletIndex": 2
+    }
+  ]
+}

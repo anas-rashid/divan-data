@@ -1,0 +1,54 @@
+{
+  "Id": 37275,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۳",
+  "FullUrl": "/p393/robaee/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اطراف رخت غنیم خط پیدا شد\r\nدر کشور حسن فتنه‌ها برپا شد\r\nاز باد غرور در سرش هیچ نماند\r\nزلفت اکنون کلافهٔ سودا شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اطراف رخت غنیم خط پیدا شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کشور حسن فتنه‌ها برپا شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از باد غرور در سرش هیچ نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زلفت اکنون کلافهٔ سودا شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

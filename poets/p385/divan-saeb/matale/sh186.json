@@ -1,0 +1,42 @@
+{
+  "Id": 26274,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۸۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۸۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh186",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh186",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرد دانست آن که جرم خویش را بیچاره شد\r\nآدم از جنت برای گندمی آواره شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرد دانست آن که جرم خویش را بیچاره شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آدم از جنت برای گندمی آواره شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

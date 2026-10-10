@@ -1,0 +1,42 @@
+{
+  "Id": 27372,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۳۶",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آرزو خار و خسی نیست که آخر گردد\r\nورنه با شعله خوی تو که بس می آید؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آرزو خار و خسی نیست که آخر گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ورنه با شعله خوی تو که بس می آید؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

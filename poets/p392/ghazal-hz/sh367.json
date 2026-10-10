@@ -1,0 +1,93 @@
+{
+  "Id": 33794,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۶۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۶۷",
+  "FullUrl": "/p392/ghazal-hz/sh367",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh367",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گریبان چاکم و جانان مرا دیوانه پندارد\r\nحکایتهای هجران مرا افسانه پندارد\r\nسر و کار است با شوخی مرا، کز ساده لوحیها\r\nبه دستم داغ عشق خویش را پیمانه پندارد\r\nسرا پا بس که لبریز ویم، خود را نمی یابم\r\nهنوزم آن بت دیر آشنا بیگانه پندارد\r\nستم، خنجر به کینم می کشد، مستانه می آید\r\nنگه ساغر ز خونم می زند، میخانه پندارد\r\nحزین ویرانه ما را به طالع نیست تعمیری\r\nدلم را یار از خود بی خبر بتخانه پندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گریبان چاکم و جانان مرا دیوانه پندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حکایتهای هجران مرا افسانه پندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر و کار است با شوخی مرا، کز ساده لوحیها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به دستم داغ عشق خویش را پیمانه پندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرا پا بس که لبریز ویم، خود را نمی یابم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هنوزم آن بت دیر آشنا بیگانه پندارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ستم، خنجر به کینم می کشد، مستانه می آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نگه ساغر ز خونم می زند، میخانه پندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین ویرانه ما را به طالع نیست تعمیری",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دلم را یار از خود بی خبر بتخانه پندارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

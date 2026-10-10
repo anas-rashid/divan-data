@@ -1,0 +1,42 @@
+{
+  "Id": 26598,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۱۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۱۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh510",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh510",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند غم از دل به اشک لاله‌گون شوید کسی؟\r\nتا به کی از ساده‌لوحی خون به خون شوید کسی؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند غم از دل به اشک لاله‌گون شوید کسی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به کی از ساده‌لوحی خون به خون شوید کسی؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

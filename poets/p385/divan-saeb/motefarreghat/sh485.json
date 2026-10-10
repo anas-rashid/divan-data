@@ -1,0 +1,69 @@
+{
+  "Id": 27091,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۸۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۸۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh485",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh485",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در گرد خط نهان شد روی عرق فشانش\r\nخط غبار گردید دیوار گلستانش\r\nکوتاه بود دستم تا داشت اختیاری\r\nقالب چو کرد خالی شد بهله میانش\r\nآن شوخ پاکدامن تا لب ز باده تر ساخت\r\nبوی امیدواری می آید از دهانش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در گرد خط نهان شد روی عرق فشانش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط غبار گردید دیوار گلستانش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوتاه بود دستم تا داشت اختیاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قالب چو کرد خالی شد بهله میانش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن شوخ پاکدامن تا لب ز باده تر ساخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوی امیدواری می آید از دهانش",
+      "CoupletIndex": 2
+    }
+  ]
+}

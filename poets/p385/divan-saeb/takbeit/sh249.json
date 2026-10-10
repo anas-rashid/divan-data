@@ -1,0 +1,45 @@
+{
+  "Id": 17780,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۴۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۴۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh249",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh249",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یارب، که دعا کرد، که چون قافله‌ی موج\r\nآسایشِ منزل نَبُوَد در سَفَرِ ما؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارب، که دعا کرد، که چون قافله‌ی موج",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسایشِ منزل نَبُوَد در سَفَرِ ما؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

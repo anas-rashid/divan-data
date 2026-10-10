@@ -1,0 +1,57 @@
+{
+  "Id": 37835,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۲۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۲۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه روزم هیزم است و نه شب روغن\r\nزین هر دو بفرسود مرا دیده و تن\r\nدر حبس شدم به مهر و مه قانع من\r\nکاین روزم گرم دارد آن شب روشن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه روزم هیزم است و نه شب روغن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین هر دو بفرسود مرا دیده و تن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حبس شدم به مهر و مه قانع من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین روزم گرم دارد آن شب روشن",
+      "CoupletIndex": 1
+    }
+  ]
+}

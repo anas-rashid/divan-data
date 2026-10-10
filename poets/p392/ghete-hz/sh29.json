@@ -1,0 +1,69 @@
+{
+  "Id": 34368,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۲۹ - در تاریخ فوت اسوهٔ عارفان میر محمّد تقی رضوی خراسانی",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۲۹ - در تاریخ فوت اسوهٔ عارفان میر محمّد تقی رضوی خراسانی",
+  "FullUrl": "/p392/ghete-hz/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 21,
+    "Rhythm": "فاعلن مفاعیلن فاعلن مفاعیلن (مقتضب مثمن مطوی مقطوع)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا ز عالم فانی، عارف زمان رفته\r\nاز تن جهان گویی، عمر جاودان رفته\r\nهر که پیشوا دارد، نور شمع ایمان را\r\nبر سرای ظلمانی، آستین فشان رفته\r\nبهر سال تاریخش، خامه ام نشان می جست\r\nدل به خون تپید و گفت: دانش از میان رفته",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ز عالم فانی، عارف زمان رفته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تن جهان گویی، عمر جاودان رفته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر که پیشوا دارد، نور شمع ایمان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر سرای ظلمانی، آستین فشان رفته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بهر سال تاریخش، خامه ام نشان می جست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل به خون تپید و گفت: دانش از میان رفته",
+      "CoupletIndex": 2
+    }
+  ]
+}

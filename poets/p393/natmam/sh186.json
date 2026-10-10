@@ -1,0 +1,66 @@
+{
+  "Id": 36337,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۸۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۸۶",
+  "FullUrl": "/p393/natmam/sh186",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh186",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی تو با این همه زاری به لبم جان نرسد\r\nتا تو بر سر نرسی عمر به پایان نرسد\r\nمی‌رود تند چنان شوخ وفا دشمن من\r\nکه بگرد قدمش عمر شتابان نرسد\r\nرخنه‌های نفسم بسته سراسر صیاد\r\nکه به من نالهٔ مرغان گلستان نرسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تو با این همه زاری به لبم جان نرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا تو بر سر نرسی عمر به پایان نرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌رود تند چنان شوخ وفا دشمن من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بگرد قدمش عمر شتابان نرسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رخنه‌های نفسم بسته سراسر صیاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که به من نالهٔ مرغان گلستان نرسد",
+      "CoupletIndex": 2
+    }
+  ]
+}

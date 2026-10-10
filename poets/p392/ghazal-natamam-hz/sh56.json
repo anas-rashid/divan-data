@@ -1,0 +1,57 @@
+{
+  "Id": 34715,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم دل از می و مطرب مرا فزود اینجا\r\nترانه را چه اثر؟ باده را چه سود اینجا؟\r\nتو در کنار رقیبانی و من آه کشم\r\nعجب که آتشم آنجا فتاده دود اینجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم دل از می و مطرب مرا فزود اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترانه را چه اثر؟ باده را چه سود اینجا؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو در کنار رقیبانی و من آه کشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عجب که آتشم آنجا فتاده دود اینجا",
+      "CoupletIndex": 1
+    }
+  ]
+}

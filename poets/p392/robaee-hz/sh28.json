@@ -1,0 +1,57 @@
+{
+  "Id": 34423,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/p392/robaee-hz/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ازگریهٔ من دیدهٔ اختر شور است\r\nوز ناله ی من دل ملک رنجور است\r\nگردون نبود حریف پیمانهٔ عشق\r\nاین رطل گرانتر از سر مخمور است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازگریهٔ من دیدهٔ اختر شور است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ناله ی من دل ملک رنجور است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردون نبود حریف پیمانهٔ عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این رطل گرانتر از سر مخمور است",
+      "CoupletIndex": 1
+    }
+  ]
+}

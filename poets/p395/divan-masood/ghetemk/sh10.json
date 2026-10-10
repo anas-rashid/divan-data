@@ -1,0 +1,93 @@
+{
+  "Id": 38237,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۰ - ستایشگری",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۰ - ستایشگری",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بزرگی که در همه احوال\r\nناصر تو خدای بیچونست\r\nکمترین پایه ای ز همت تو\r\nبرترین موضعی ز گردونست\r\nخلق تو جسم عنبر ساراست\r\nلفظ تو رشک در مکنونست\r\nروز تأیید تو در اقبال است\r\nماه اقبال تو بر افزونست\r\nسفر تو چو عید فرخنده است\r\nعید تو چون سفر همایونست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بزرگی که در همه احوال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناصر تو خدای بیچونست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمترین پایه ای ز همت تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برترین موضعی ز گردونست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خلق تو جسم عنبر ساراست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لفظ تو رشک در مکنونست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "روز تأیید تو در اقبال است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ماه اقبال تو بر افزونست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سفر تو چو عید فرخنده است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عید تو چون سفر همایونست",
+      "CoupletIndex": 4
+    }
+  ]
+}

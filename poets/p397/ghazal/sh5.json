@@ -1,0 +1,93 @@
+{
+  "Id": 38782,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۵",
+  "FullUrl": "/p397/ghazal/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از ذات حق تعالی اعلام بی نوا را\r\nگر عاشق تو مائی، کن ترک ماسوی را\r\nماذات ذوالجلالیم و از کبریا کمالیم\r\nما شاه با عطائیم از ما بجو تو مارا\r\nمن ذات بی نشانم، فارغ ز این و آنم\r\nکس را غمی ندارم، غمخوار باش مارا\r\nمن با تو مهربانم، بس شوق با تو دارم\r\nذوق دگر ندارم، جز قرب تو گدا را\r\nگر شوق وصل داری، باما بکن تو زاری\r\nجز ما مجو تو یاری، خود یار باش مارا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ذات حق تعالی اعلام بی نوا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر عاشق تو مائی، کن ترک ماسوی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماذات ذوالجلالیم و از کبریا کمالیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما شاه با عطائیم از ما بجو تو مارا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "من ذات بی نشانم، فارغ ز این و آنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کس را غمی ندارم، غمخوار باش مارا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من با تو مهربانم، بس شوق با تو دارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ذوق دگر ندارم، جز قرب تو گدا را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر شوق وصل داری، باما بکن تو زاری",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جز ما مجو تو یاری، خود یار باش مارا",
+      "CoupletIndex": 4
+    }
+  ]
+}

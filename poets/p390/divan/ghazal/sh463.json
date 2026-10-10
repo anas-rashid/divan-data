@@ -1,0 +1,93 @@
+{
+  "Id": 31430,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۶۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۶۳",
+  "FullUrl": "/p390/divan/ghazal/sh463",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh463",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم پرافسون او سحرآفرینی می‌کند\r\nتیر مژگانش ز شوخی دل‌نشینی می‌کند\r\nآخر حسن است و کار او به زلف افتاده است\r\nداده خرمن را به باد و خوشه‌چینی می‌کند\r\nپیش پای خویش را هرکس نمی‌بیند چو شمع\r\nلاف باطل می‌زند گر دوربینی می‌کند\r\nنعمت فغفور را فیضی که در خاصیت است\r\nکاسه چوبین گدا را چوب چینی می‌کند\r\nسایه را با خویشتن همره نمی‌خواهد سلیم\r\nهمچو عنقا هرکه او وحدت‌گزینی می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم پرافسون او سحرآفرینی می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیر مژگانش ز شوخی دل‌نشینی می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آخر حسن است و کار او به زلف افتاده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داده خرمن را به باد و خوشه‌چینی می‌کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیش پای خویش را هرکس نمی‌بیند چو شمع",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لاف باطل می‌زند گر دوربینی می‌کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نعمت فغفور را فیضی که در خاصیت است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاسه چوبین گدا را چوب چینی می‌کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سایه را با خویشتن همره نمی‌خواهد سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همچو عنقا هرکه او وحدت‌گزینی می‌کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

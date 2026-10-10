@@ -1,0 +1,57 @@
+{
+  "Id": 26676,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن که صد شیوه به آن چشم سخنگو داده است\r\nچه اداها که به آن گوشه ابرو داده است\r\nآفتابی است دگر چهره رنگت امروز\r\nسفر آینه ای باز مگر رو داده است؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن که صد شیوه به آن چشم سخنگو داده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه اداها که به آن گوشه ابرو داده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آفتابی است دگر چهره رنگت امروز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سفر آینه ای باز مگر رو داده است؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34888,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۲۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۲۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh229",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh229",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساغر ای عشق به اندازهٔ مخمور بیار\r\nخون به جوش آمده ما را، می منصور بیار\r\nداغ گرمی که کند بر سر خورشید خراج\r\nبه قیامتکدهٔ سینهٔ پرشور بیار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساغر ای عشق به اندازهٔ مخمور بیار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون به جوش آمده ما را، می منصور بیار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داغ گرمی که کند بر سر خورشید خراج",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به قیامتکدهٔ سینهٔ پرشور بیار",
+      "CoupletIndex": 1
+    }
+  ]
+}

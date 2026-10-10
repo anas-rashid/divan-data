@@ -1,0 +1,69 @@
+{
+  "Id": 26844,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آن آزاده کز منت به خاطر بار نگذارد\r\nاگر از پا درآید پشت بر دیوار نگذارد\r\nز هم بالینی دل خواب در چشمم نمی گردد\r\nالهی هیچ کس سر بر سر بیمار نگذارد\r\nز جوش مغز، مو بر فرقم آتش زیر پا دارد\r\nهمان بهتر که ناصح بر سرم دستار نگذارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن آزاده کز منت به خاطر بار نگذارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر از پا درآید پشت بر دیوار نگذارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز هم بالینی دل خواب در چشمم نمی گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الهی هیچ کس سر بر سر بیمار نگذارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز جوش مغز، مو بر فرقم آتش زیر پا دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همان بهتر که ناصح بر سرم دستار نگذارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

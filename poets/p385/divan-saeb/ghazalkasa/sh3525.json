@@ -1,0 +1,81 @@
+{
+  "Id": 22598,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۵۲۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۵۲۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3525",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3525",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون نفس زیر فلک دل به هوس راست کند؟\r\nزیر سرپوش، چراغی چه نفس راست کند؟\r\nچون مگس گیر، ز تسبیح ریایی زاهد\r\nدام تزویر پی صید مگس راست کند\r\nدل افسرده به فریاد نگردد بیدار\r\nره خوابیده کجا قد به جرس راست کند؟\r\nتا به مقصد نرسد شوق نگیرد آرام\r\nسیل در راه محال است نفس راست کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نفس زیر فلک دل به هوس راست کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیر سرپوش، چراغی چه نفس راست کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون مگس گیر، ز تسبیح ریایی زاهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دام تزویر پی صید مگس راست کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل افسرده به فریاد نگردد بیدار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ره خوابیده کجا قد به جرس راست کند؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا به مقصد نرسد شوق نگیرد آرام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیل در راه محال است نفس راست کند",
+      "CoupletIndex": 3
+    }
+  ]
+}

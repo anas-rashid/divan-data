@@ -1,0 +1,54 @@
+{
+  "Id": 37210,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۸",
+  "FullUrl": "/p393/robaee/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "الله تو فریادرسی را بفرست\r\nبی‌کس افتاده‌ام کسی را بفرست\r\nدرد دل من طبیب را کرده مریض\r\nیا رب تو مسیحانفسی را بفرست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الله تو فریادرسی را بفرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌کس افتاده‌ام کسی را بفرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد دل من طبیب را کرده مریض",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب تو مسیحانفسی را بفرست",
+      "CoupletIndex": 1
+    }
+  ]
+}

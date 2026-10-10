@@ -1,0 +1,81 @@
+{
+  "Id": 32909,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۱۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۱۷",
+  "FullUrl": "/p391/divan/ghazal/sh817",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh817",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن سبک مغزی که بر تن پروری بنهاد دل\r\nاز خریت شد اسیر منجلاب آب و گل\r\nمی خورم هر لحظه زخم تازه ای زان چشم شوخ\r\nبسکه از هر جنبش مژگان زند ناخن به دل\r\nاختلاط زاهد افسرده با اهل نشاط\r\nسخت ناچسبان بود چون خنده بر روی خجل\r\nننگ از افعال زشتت می کند دیو رجیم\r\nوای اگر جویا ز کار خود نباشی منفعل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن سبک مغزی که بر تن پروری بنهاد دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خریت شد اسیر منجلاب آب و گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می خورم هر لحظه زخم تازه ای زان چشم شوخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسکه از هر جنبش مژگان زند ناخن به دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اختلاط زاهد افسرده با اهل نشاط",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سخت ناچسبان بود چون خنده بر روی خجل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ننگ از افعال زشتت می کند دیو رجیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وای اگر جویا ز کار خود نباشی منفعل",
+      "CoupletIndex": 3
+    }
+  ]
+}

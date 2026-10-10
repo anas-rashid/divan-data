@@ -1,0 +1,69 @@
+{
+  "Id": 26840,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh234",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh234",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشا دردی که مهرم از لب خاموش بردارد\r\nخوشا جوشی که از سر دیگ را سرپوش بردارد\r\nدرین میخانه از خاکی نهادان چون سبوی می\r\nکه بار دوش می گردد که بار از دوش بردارد؟\r\nدم مشکل گشایی هست با مطرب که گر خواهد\r\nسبک چون پنبه سنگینی مرا از گوش بردارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشا دردی که مهرم از لب خاموش بردارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشا جوشی که از سر دیگ را سرپوش بردارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درین میخانه از خاکی نهادان چون سبوی می",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بار دوش می گردد که بار از دوش بردارد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دم مشکل گشایی هست با مطرب که گر خواهد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سبک چون پنبه سنگینی مرا از گوش بردارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

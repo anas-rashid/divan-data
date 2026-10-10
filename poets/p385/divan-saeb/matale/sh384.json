@@ -1,0 +1,42 @@
+{
+  "Id": 26472,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۸۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۸۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh384",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh384",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در جبین تاک، نور باده بی غش ببین\r\nدر ته بال سمند شعله آتش ببین",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در جبین تاک، نور باده بی غش ببین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در ته بال سمند شعله آتش ببین",
+      "CoupletIndex": 0
+    }
+  ]
+}

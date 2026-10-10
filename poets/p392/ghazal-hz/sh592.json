@@ -1,0 +1,93 @@
+{
+  "Id": 34019,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۹۲",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۹۲",
+  "FullUrl": "/p392/ghazal-hz/sh592",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh592",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کرده عشق شعله خوب ریشه در جانم چو شمع\r\nاز زبان آتشین خود گدازانم چو شمع\r\nآستین نبود حریف دیده خونبار من\r\nکز تف دل آتش‌آلود است مژگانم چو شمع\r\nنیست غیر از تیغ، محرابی، سر تسلیم را\r\nمی‌خورم صد زخم جانفرسا و خندانم چو شمع\r\nدارم از چشم تر خود منت ابر بهار\r\nاشک گرمی می‌کند مژگان به دامانم چو شمع\r\nهمچو من بخت سیه را کس نمی‌پوشد حزین\r\nبا وجود تیره‌روزی‌ها فروزانم چو شمع",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرده عشق شعله خوب ریشه در جانم چو شمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از زبان آتشین خود گدازانم چو شمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آستین نبود حریف دیده خونبار من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز تف دل آتش‌آلود است مژگانم چو شمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست غیر از تیغ، محرابی، سر تسلیم را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می‌خورم صد زخم جانفرسا و خندانم چو شمع",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دارم از چشم تر خود منت ابر بهار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اشک گرمی می‌کند مژگان به دامانم چو شمع",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "همچو من بخت سیه را کس نمی‌پوشد حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با وجود تیره‌روزی‌ها فروزانم چو شمع",
+      "CoupletIndex": 4
+    }
+  ]
+}

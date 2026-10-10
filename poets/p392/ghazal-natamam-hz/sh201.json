@@ -1,0 +1,69 @@
+{
+  "Id": 34860,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۰۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۰۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh201",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh201",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صفای عارضش، رنگ از رخ مهتاب بزداید\r\nخیال خط او، از چشم مخمل خواب بزداید\r\nوصال، از یاد سالک می برد غم های دیرین را\r\nبه دامن بحر، گرد از چهرهٔ سیلاب بزداید\r\nسرت گردم، صبوحی کرده چاک پیرهن بگشا\r\nکه رنگ از سینهٔ خورشید عالمتاب بزداید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صفای عارضش، رنگ از رخ مهتاب بزداید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیال خط او، از چشم مخمل خواب بزداید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وصال، از یاد سالک می برد غم های دیرین را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به دامن بحر، گرد از چهرهٔ سیلاب بزداید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرت گردم، صبوحی کرده چاک پیرهن بگشا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که رنگ از سینهٔ خورشید عالمتاب بزداید",
+      "CoupletIndex": 2
+    }
+  ]
+}

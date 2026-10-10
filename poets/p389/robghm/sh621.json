@@ -1,0 +1,57 @@
+{
+  "Id": 30878,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۱",
+  "FullUrl": "/p389/robghm/sh621",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh621",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عشق که نیست در جهانش بدلی\r\nصد فرد چو غنچه است در هر بغلی\r\nبگذر ز سر صلاح و تقوی در عشق\r\nاین راه به سر نبرد هر کور و شلی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق که نیست در جهانش بدلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد فرد چو غنچه است در هر بغلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگذر ز سر صلاح و تقوی در عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این راه به سر نبرد هر کور و شلی",
+      "CoupletIndex": 1
+    }
+  ]
+}

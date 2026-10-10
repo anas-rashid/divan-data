@@ -1,0 +1,57 @@
+{
+  "Id": 30776,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۱۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۱۹",
+  "FullUrl": "/p389/robghm/sh519",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh519",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون غنچه خراب گردم از خندیدن\r\nپژمردگی‌ام چو گل بود در چیدن\r\nاز تابش دل، تن ضعیفم شده است\r\nاین رشته زبون‌تر شود از تابیدن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون غنچه خراب گردم از خندیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پژمردگی‌ام چو گل بود در چیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تابش دل، تن ضعیفم شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این رشته زبون‌تر شود از تابیدن",
+      "CoupletIndex": 1
+    }
+  ]
+}

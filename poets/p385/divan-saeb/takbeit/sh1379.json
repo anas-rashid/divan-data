@@ -1,0 +1,45 @@
+{
+  "Id": 18910,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۷۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۷۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1379",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1379",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کجا تدبیر می‌چیند بساط مصلحت\r\nاز کمین بازیچهٔ تقدیر می‌آید برون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کجا تدبیر می‌چیند بساط مصلحت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کمین بازیچهٔ تقدیر می‌آید برون",
+      "CoupletIndex": 0
+    }
+  ]
+}

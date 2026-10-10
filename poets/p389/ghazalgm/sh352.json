@@ -1,0 +1,81 @@
+{
+  "Id": 30100,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۵۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۵۲",
+  "FullUrl": "/p389/ghazalgm/sh352",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh352",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عافیت غم را مداوا کرد و زین غم سوختم\r\nهرکسی از داغ سوزد، من ز مرهم سوختم\r\nخنده‌های شادی گل در چمن داغم نکرد\r\nغنچه را دیدم غمی دارد، ازان غم سوختم\r\nدر محبت شعله افزون گردد آتش را ز آب\r\nتا چو شمعم بود در هر قطره‌ای نم، سوختم\r\nبس که دارم ذوق غم، هرجا که دیدم ماتمی‌ست\r\nمن در آن ماتم، فزون از اهل ماتم سوختم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عافیت غم را مداوا کرد و زین غم سوختم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکسی از داغ سوزد، من ز مرهم سوختم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خنده‌های شادی گل در چمن داغم نکرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غنچه را دیدم غمی دارد، ازان غم سوختم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در محبت شعله افزون گردد آتش را ز آب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا چو شمعم بود در هر قطره‌ای نم، سوختم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بس که دارم ذوق غم، هرجا که دیدم ماتمی‌ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "من در آن ماتم، فزون از اهل ماتم سوختم",
+      "CoupletIndex": 3
+    }
+  ]
+}

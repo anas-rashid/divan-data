@@ -1,0 +1,93 @@
+{
+  "Id": 27437,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۹",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۹",
+  "FullUrl": "/p386/ghazalor/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نداد نور شراری چراغ هستی ما\r\nگلی نچید ز شاخ، دراز دستی ما\r\nعنایت صمدی رد کفر ما نکند\r\nاگر کمال به دیر و صنم پرستی ما\r\nسر فتادگی تا به عرش می ساید\r\nکلاه فخر بلندی ربود پستی ما\r\nز نیم مستی ما زآن کرشمه می‌بارد\r\nکه چشم شاهد عشق است نیم مستی ما\r\nدمی که عشق بتازد به قلب ما عرفی\r\nبه تاق عرش نشیند غبار هستی ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نداد نور شراری چراغ هستی ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلی نچید ز شاخ، دراز دستی ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عنایت صمدی رد کفر ما نکند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر کمال به دیر و صنم پرستی ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر فتادگی تا به عرش می ساید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کلاه فخر بلندی ربود پستی ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز نیم مستی ما زآن کرشمه می‌بارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که چشم شاهد عشق است نیم مستی ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دمی که عشق بتازد به قلب ما عرفی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به تاق عرش نشیند غبار هستی ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

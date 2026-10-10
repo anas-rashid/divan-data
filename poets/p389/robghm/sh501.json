@@ -1,0 +1,57 @@
+{
+  "Id": 30758,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۰۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۰۱",
+  "FullUrl": "/p389/robghm/sh501",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh501",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در باب وجودت ای خداوند جهان\r\nهر طایفه گفته صد دلیل و برهان\r\nدر وحدت ذات تو به هنگام بیان\r\nهر دسته، چو کلک مو، یکی کرده زبان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در باب وجودت ای خداوند جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر طایفه گفته صد دلیل و برهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در وحدت ذات تو به هنگام بیان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر دسته، چو کلک مو، یکی کرده زبان",
+      "CoupletIndex": 1
+    }
+  ]
+}

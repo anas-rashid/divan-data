@@ -1,0 +1,57 @@
+{
+  "Id": 37537,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مهمان من آمد آن بت و کرد طرب\r\nشوخی که در او همی بماندم به عجب\r\nچون نرگس و گل نبست نه روز نه شب\r\nاز نظاره دو چشم و از خنده دو لب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهمان من آمد آن بت و کرد طرب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شوخی که در او همی بماندم به عجب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نرگس و گل نبست نه روز نه شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از نظاره دو چشم و از خنده دو لب",
+      "CoupletIndex": 1
+    }
+  ]
+}

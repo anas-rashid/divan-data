@@ -1,0 +1,57 @@
+{
+  "Id": 34598,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۳",
+  "FullUrl": "/p392/robaee-hz/sh203",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh203",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از ظلمت هستی خود آزاده منم\r\nچون شمع به زیرتیغ، استاده منم\r\nپیمانهٔ مشرب حریفان خالی ست\r\nخمخانهء چرخ راکهن باده منم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ظلمت هستی خود آزاده منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع به زیرتیغ، استاده منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمانهٔ مشرب حریفان خالی ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خمخانهء چرخ راکهن باده منم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37278,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/p393/robaee/sh106",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh106",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هجر آمد و در عیش من انداخت فتور\r\nزین درد غم و غصه ضرور است ضرور\r\nمی‌نال ای دل به‌قدر وسع امکان\r\nمی‌کن آب دیده گریه حتی‌المقدور",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هجر آمد و در عیش من انداخت فتور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین درد غم و غصه ضرور است ضرور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌نال ای دل به‌قدر وسع امکان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌کن آب دیده گریه حتی‌المقدور",
+      "CoupletIndex": 1
+    }
+  ]
+}

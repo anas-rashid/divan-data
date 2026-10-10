@@ -1,0 +1,57 @@
+{
+  "Id": 34636,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۴۱",
+  "FullUrl": "/p392/robaee-hz/sh241",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh241",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بشکن قدح سپهر دون ای ساقی\r\nمی نیست درین جام نگون ای ساقی\r\nمُردم ز خمار، بادهٔ ناب کجاست؟\r\nتا چند توان کشید خون ای ساقی؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بشکن قدح سپهر دون ای ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می نیست درین جام نگون ای ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مُردم ز خمار، بادهٔ ناب کجاست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا چند توان کشید خون ای ساقی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

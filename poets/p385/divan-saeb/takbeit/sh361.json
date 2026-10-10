@@ -1,0 +1,45 @@
+{
+  "Id": 17892,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۶۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۶۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh361",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh361",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حفظِ صورت می‌توان کردن، به ظاهر، در نماز\r\nروی دل را، جانبِ محراب کردن، مشکل است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حفظِ صورت می‌توان کردن، به ظاهر، در نماز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی دل را، جانبِ محراب کردن، مشکل است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17791,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۶۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۶۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh260",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh260",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بَر دِلی نَنْشینَد از گفتارِ ما، هرگز، غُبار\r\nماهیانِ بی‌زبانِ عالَمِ آبیم، ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بَر دِلی نَنْشینَد از گفتارِ ما، هرگز، غُبار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماهیانِ بی‌زبانِ عالَمِ آبیم، ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

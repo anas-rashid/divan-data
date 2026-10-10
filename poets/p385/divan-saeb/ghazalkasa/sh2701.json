@@ -1,0 +1,93 @@
+{
+  "Id": 21774,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۷۰۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۷۰۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2701",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2701",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خراب از خندهٔ پنهان آن گل می‌شود\r\nسنگ این مینای خالی پرتو مل می‌شود\r\nساحل دریای آشوب است ترک اختیار\r\nموج بر خاشاک از افتادگی پل می‌شود\r\nدر طریق ما که نعل واژگون خضر ره است\r\nبیشتر خون بر سر تیغ تغافل می‌شود\r\nسیل را کوتاهی دیوار عاجز می‌کند\r\nسد راه دشمن غالب تحمل می‌شود\r\nپاک گردد هر که صائب دامن پاکان گرفت\r\nاشک شبنم سرخ‌رو از دامن گل می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خراب از خندهٔ پنهان آن گل می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنگ این مینای خالی پرتو مل می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساحل دریای آشوب است ترک اختیار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موج بر خاشاک از افتادگی پل می‌شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در طریق ما که نعل واژگون خضر ره است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بیشتر خون بر سر تیغ تغافل می‌شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سیل را کوتاهی دیوار عاجز می‌کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سد راه دشمن غالب تحمل می‌شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پاک گردد هر که صائب دامن پاکان گرفت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اشک شبنم سرخ‌رو از دامن گل می‌شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

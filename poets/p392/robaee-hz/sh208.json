@@ -1,0 +1,57 @@
+{
+  "Id": 34603,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۸",
+  "FullUrl": "/p392/robaee-hz/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از گنج، به مار صلح نتوان کردن\r\nاز باغ، به خار صلح نتوان کردن\r\nدر میکده ای که چرخ، دردی کش اوست\r\nبا رنج خمار صلح نتوان کردن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از گنج، به مار صلح نتوان کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از باغ، به خار صلح نتوان کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در میکده ای که چرخ، دردی کش اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با رنج خمار صلح نتوان کردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

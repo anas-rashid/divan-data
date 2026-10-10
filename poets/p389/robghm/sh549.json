@@ -1,0 +1,57 @@
+{
+  "Id": 30806,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۴۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۴۹",
+  "FullUrl": "/p389/robghm/sh549",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh549",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با مردم روزگار، کم‌جوشی به\r\nگر هوش تو اند خلق، بیهوشی به\r\nاز هرچه نه یاد حق، فراموشی به\r\nوز هرچه نه ذکر اوست، خاموشی به",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با مردم روزگار، کم‌جوشی به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر هوش تو اند خلق، بیهوشی به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هرچه نه یاد حق، فراموشی به",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز هرچه نه ذکر اوست، خاموشی به",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30237,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۹",
+  "FullUrl": "/p389/mmgh/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سنگ در کارست تا دیوانه پیدا می‌شود\r\nهرکجا شمعی‌ست صد پروانه پیدا می‌شود\r\nنیست تاب جلوه آن سروقد، قدسی مرا\r\nمی‌روم از هوش چون مستانه پیدا می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سنگ در کارست تا دیوانه پیدا می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکجا شمعی‌ست صد پروانه پیدا می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست تاب جلوه آن سروقد، قدسی مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌روم از هوش چون مستانه پیدا می‌شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

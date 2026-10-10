@@ -1,0 +1,57 @@
+{
+  "Id": 30659,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۰۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۰۲",
+  "FullUrl": "/p389/robghm/sh402",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh402",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی همه جا چو نیست سودا درگیر\r\nیک جای به آتش رس و یک جا درگیر\r\nچون شام، بدن مکن مرصع ز چراغ\r\nچون صبح، ز یک شعله سراپا درگیر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی همه جا چو نیست سودا درگیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک جای به آتش رس و یک جا درگیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شام، بدن مکن مرصع ز چراغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون صبح، ز یک شعله سراپا درگیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31039,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۲",
+  "FullUrl": "/p390/divan/ghazal/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرفته از علم سروقد او پیش خیلی را\r\nز سبزی داغ دارد چهرهٔ او خال لیلی را\r\nبه باغ ای گل نزاکت را به پیش روی او بگذار\r\nکه چندان اعتباری نیست مهمان طفیلی را\r\nازان مجنون شود از دیدن ماه نو آشفته\r\nکه می بیند به دست دیگری خلخال لیلی را\r\nز بس افسانه ی لعلش جهان را دلنشین افتاد\r\nعقیق آسا در آب انداخت انوار سهیلی را\r\nسلیم آشوب محشر را به چشم خویشتن دیده‌ست\r\nز مظلومان او هر کس شنیده وای ویلی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرفته از علم سروقد او پیش خیلی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز سبزی داغ دارد چهرهٔ او خال لیلی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به باغ ای گل نزاکت را به پیش روی او بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چندان اعتباری نیست مهمان طفیلی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ازان مجنون شود از دیدن ماه نو آشفته",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که می بیند به دست دیگری خلخال لیلی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز بس افسانه ی لعلش جهان را دلنشین افتاد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عقیق آسا در آب انداخت انوار سهیلی را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم آشوب محشر را به چشم خویشتن دیده‌ست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز مظلومان او هر کس شنیده وای ویلی را",
+      "CoupletIndex": 4
+    }
+  ]
+}

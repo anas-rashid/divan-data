@@ -1,0 +1,57 @@
+{
+  "Id": 30261,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/p389/robghm/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواهی که کنی قبله سر کویت را\r\nاز خواهش کس، ترش مکن رویت را\r\nبا خلق، گشاده‌روی شو چون محراب\r\nتا سجده برند طاق ابرویت را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهی که کنی قبله سر کویت را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خواهش کس، ترش مکن رویت را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با خلق، گشاده‌روی شو چون محراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سجده برند طاق ابرویت را",
+      "CoupletIndex": 1
+    }
+  ]
+}

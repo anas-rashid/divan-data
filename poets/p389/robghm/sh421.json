@@ -1,0 +1,57 @@
+{
+  "Id": 30678,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۲۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۲۱",
+  "FullUrl": "/p389/robghm/sh421",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh421",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از یک جنسند گرچه نیک و بد ناس\r\nزین همجنسان بایدت امید و هراس\r\nپیکان و زره، هر دو ز آهن باشند\r\nآن قصد تو دارد، این تو را دارد پاس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از یک جنسند گرچه نیک و بد ناس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین همجنسان بایدت امید و هراس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیکان و زره، هر دو ز آهن باشند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن قصد تو دارد، این تو را دارد پاس",
+      "CoupletIndex": 1
+    }
+  ]
+}

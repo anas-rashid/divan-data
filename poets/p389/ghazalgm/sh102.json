@@ -1,0 +1,81 @@
+{
+  "Id": 29850,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۰۲",
+  "FullUrl": "/p389/ghazalgm/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرم دلی که در خم زلف تو جا گرفت\r\nآسوده آنکه خانه به کوی بلا گرفت\r\nخاک درت ز رشک نهفتم به آب چشم\r\nتا چشم غیر، روشنی از توتیا گرفت\r\nتیر تو سر فرود نیارد به هیچ صید\r\nمرغ دلم خدنگ ترا در هوا گرفت\r\nخلقی اسیر تهمت و من مجرم وفا\r\nدر قید او نماند کسی، تا مرا گرفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرم دلی که در خم زلف تو جا گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسوده آنکه خانه به کوی بلا گرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاک درت ز رشک نهفتم به آب چشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا چشم غیر، روشنی از توتیا گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تیر تو سر فرود نیارد به هیچ صید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مرغ دلم خدنگ ترا در هوا گرفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خلقی اسیر تهمت و من مجرم وفا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در قید او نماند کسی، تا مرا گرفت",
+      "CoupletIndex": 3
+    }
+  ]
+}

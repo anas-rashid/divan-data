@@ -1,0 +1,57 @@
+{
+  "Id": 30318,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/p389/robghm/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک قوم، امیدوار از روز نخست\r\nقومی شده ناامید از همت سست\r\nای عشق، سپرده‌اند خلقی به تو دل\r\nتا کوزه که را برآید از آب، درست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک قوم، امیدوار از روز نخست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قومی شده ناامید از همت سست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عشق، سپرده‌اند خلقی به تو دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کوزه که را برآید از آب، درست",
+      "CoupletIndex": 1
+    }
+  ]
+}

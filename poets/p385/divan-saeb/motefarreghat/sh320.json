@@ -1,0 +1,57 @@
+{
+  "Id": 26926,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۲۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh320",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh320",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بوی گل مژده آشوب جنون می آرد\r\nناله بلبلم از پرده برون می آرد\r\nمرو از راه برون بر اثر نکهت زلف\r\nکه سر از کوچه زنجیر برون می آرد!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بوی گل مژده آشوب جنون می آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناله بلبلم از پرده برون می آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرو از راه برون بر اثر نکهت زلف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سر از کوچه زنجیر برون می آرد!",
+      "CoupletIndex": 1
+    }
+  ]
+}

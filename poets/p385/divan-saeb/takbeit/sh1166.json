@@ -1,0 +1,45 @@
+{
+  "Id": 18697,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۶۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۶۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بعد ایامی که گلها از سفر باز آمدند\r\nچون نسیم صبحدم می‌باید از خود رفتنم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بعد ایامی که گلها از سفر باز آمدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون نسیم صبحدم می‌باید از خود رفتنم",
+      "CoupletIndex": 0
+    }
+  ]
+}

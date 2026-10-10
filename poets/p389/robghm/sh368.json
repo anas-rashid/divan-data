@@ -1,0 +1,57 @@
+{
+  "Id": 30625,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۶۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۶۸",
+  "FullUrl": "/p389/robghm/sh368",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh368",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی رنج خمار، کس به جامی نرسید\r\nبی محنت دهر، دل به کامی نرسید\r\nحق سعی تو را وسیله رزق تو کرد\r\nبی زحمت چاشت، کس به شامی نرسید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی رنج خمار، کس به جامی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی محنت دهر، دل به کامی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حق سعی تو را وسیله رزق تو کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی زحمت چاشت، کس به شامی نرسید",
+      "CoupletIndex": 1
+    }
+  ]
+}

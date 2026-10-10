@@ -1,0 +1,42 @@
+{
+  "Id": 27341,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۵",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه حاجت است به می لعل سیررنگ ترا؟\r\nنظر به پرتو خورشید نیست سنگ ترا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه حاجت است به می لعل سیررنگ ترا؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظر به پرتو خورشید نیست سنگ ترا",
+      "CoupletIndex": 0
+    }
+  ]
+}

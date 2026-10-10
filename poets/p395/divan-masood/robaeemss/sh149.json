@@ -1,0 +1,57 @@
+{
+  "Id": 37663,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۴۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۴۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh149",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh149",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون در تن من که اصل نیروست نماند\r\nوان اصل که طبع و دیده را خوست نماند\r\nبر من به جز از نام تو ای دوست نماند\r\nچون چنگ توام به جز رنگ و پوست نماند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون در تن من که اصل نیروست نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان اصل که طبع و دیده را خوست نماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر من به جز از نام تو ای دوست نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چنگ توام به جز رنگ و پوست نماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

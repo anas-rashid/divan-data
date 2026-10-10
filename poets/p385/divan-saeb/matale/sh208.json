@@ -1,0 +1,42 @@
+{
+  "Id": 26296,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۰۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آسمان افتادگان را غمگساری می شود\r\nگردش پرگار مرکز را حصاری می شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسمان افتادگان را غمگساری می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردش پرگار مرکز را حصاری می شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

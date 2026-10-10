@@ -1,0 +1,57 @@
+{
+  "Id": 32085,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/p390/divan/robaee/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ساغر می اگر گهر می بودی\r\nمقبول جهان کی این قدر می بودی\r\nزین بیش عزیز هر نظر می بودی\r\nای دختر رز اگر پسر می بودی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ساغر می اگر گهر می بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مقبول جهان کی این قدر می بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین بیش عزیز هر نظر می بودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دختر رز اگر پسر می بودی",
+      "CoupletIndex": 1
+    }
+  ]
+}

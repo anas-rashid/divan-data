@@ -1,0 +1,54 @@
+{
+  "Id": 34679,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاسمین بنده شود چاک گریبان تو را\r\nبرگ گل جزیه دهد، شقّهٔ دامان تو را\r\nزاهد، این خرقه به دوشم خنکیهای تو داد\r\nکرد پشمیهٔ من، فکر زمستان تو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاسمین بنده شود چاک گریبان تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگ گل جزیه دهد، شقّهٔ دامان تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد، این خرقه به دوشم خنکیهای تو داد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کرد پشمیهٔ من، فکر زمستان تو را",
+      "CoupletIndex": 1
+    }
+  ]
+}

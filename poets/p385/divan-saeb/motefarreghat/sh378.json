@@ -1,0 +1,57 @@
+{
+  "Id": 26984,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh378",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh378",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل چو آرایش مژگان تر خویش کند\r\nداغ را آینه دار جگر خویش کند\r\nمی برد بخت به ظلمت کده هند مرا\r\nتا چه خاک (سیه) آنجا به سر خویش کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل چو آرایش مژگان تر خویش کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ را آینه دار جگر خویش کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می برد بخت به ظلمت کده هند مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا چه خاک (سیه) آنجا به سر خویش کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

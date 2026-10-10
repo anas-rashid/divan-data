@@ -1,0 +1,69 @@
+{
+  "Id": 26990,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh384",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh384",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشقبازان چو جلای نظر پاک دهند\r\nمنصب برق جهانسوز به خاشاک دهند\r\nمفلسم، حوصله ناز خریدارم نیست\r\nمی فروشم به بهای دل اگر خاک دهند\r\n(در دو روزش چو سر زلف بهم می شکنی\r\nحیف دل نیست که در دست تو بی باک دهند)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشقبازان چو جلای نظر پاک دهند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منصب برق جهانسوز به خاشاک دهند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مفلسم، حوصله ناز خریدارم نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می فروشم به بهای دل اگر خاک دهند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "(در دو روزش چو سر زلف بهم می شکنی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حیف دل نیست که در دست تو بی باک دهند)",
+      "CoupletIndex": 2
+    }
+  ]
+}

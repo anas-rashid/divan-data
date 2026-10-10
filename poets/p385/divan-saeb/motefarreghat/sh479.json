@@ -1,0 +1,57 @@
+{
+  "Id": 27085,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۷۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۷۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh479",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh479",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "موجه ای کو که ز دریا نبود ما و منش؟\r\nیا حبابی که نه از بحر بود پیرهنش\r\nخبر یوسف گم گشته ما بی خبری است\r\nوقت آن خوش که نباشد خبر از خویشتنش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "موجه ای کو که ز دریا نبود ما و منش؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا حبابی که نه از بحر بود پیرهنش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خبر یوسف گم گشته ما بی خبری است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وقت آن خوش که نباشد خبر از خویشتنش",
+      "CoupletIndex": 1
+    }
+  ]
+}

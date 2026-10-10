@@ -1,0 +1,57 @@
+{
+  "Id": 37860,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۴۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۴۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh346",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh346",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوردم همه زهر عشق تو شکر کو\r\nدیدم بتر هوای تو بهتر کو\r\nگر شاخ هوای تو نرفتم بر کو\r\nدر تاریکی سکندرم گوهر کو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوردم همه زهر عشق تو شکر کو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدم بتر هوای تو بهتر کو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر شاخ هوای تو نرفتم بر کو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در تاریکی سکندرم گوهر کو",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37239,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/p393/robaee/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امشب که به من غم تو هم‌منزل بود\r\nکار من بیچاره بسی مشکل بود\r\nهر آه که خاست بود دودی ز جگر\r\nهر اشک که ریخت پارهٔ دل بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب که به من غم تو هم‌منزل بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کار من بیچاره بسی مشکل بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر آه که خاست بود دودی ز جگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر اشک که ریخت پارهٔ دل بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 30073,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۲۵",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۲۵",
+  "FullUrl": "/p389/ghazalgm/sh325",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh325",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌آیم از طوف حرم، بتخانه پنهان در بغل\r\nزنار راهب بر میان، ناقوس گبران در بغل\r\nهرچند صید لاغرم، انکار قتل من مکن\r\nکز غمزه‌ات دارد دلم، صد زخم پیکان در بغل\r\nمژگان ز لخت دل کند، هر لحظه پر گل دامنم\r\nمن گل چو طفلان دم‌بدم، ریزم ز دامان در بغل\r\nهر شب کنم تا صبحدم، طوف مزار کشتگان\r\nگیرم به یاد خنجرت، خون شهیدان در بغل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌آیم از طوف حرم، بتخانه پنهان در بغل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنار راهب بر میان، ناقوس گبران در بغل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند صید لاغرم، انکار قتل من مکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز غمزه‌ات دارد دلم، صد زخم پیکان در بغل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مژگان ز لخت دل کند، هر لحظه پر گل دامنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من گل چو طفلان دم‌بدم، ریزم ز دامان در بغل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر شب کنم تا صبحدم، طوف مزار کشتگان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گیرم به یاد خنجرت، خون شهیدان در بغل",
+      "CoupletIndex": 3
+    }
+  ]
+}

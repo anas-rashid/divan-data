@@ -1,0 +1,93 @@
+{
+  "Id": 25205,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۱۳۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۱۳۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ناله نی از جگرها آه می آرد برون\r\nیوسفی در هر نفس از چاه می آرد برون\r\nرهروی کز کاروان یک بار دور افتاده است\r\nخار را از پا به منزلگاه می آرد برون\r\nاز بهای خویش افتادن، به چاه افتادن است\r\nهرزه یوسف را فلک از چاه می آرد برون\r\nدر تنور رزق چون نوبت به قرص ما رسد\r\nچرخ گویا بیژنی از چاه می آرد برون\r\nآنچه می ریزد ز مژگان کلک صائب نقطه نیست\r\nماه کنعان سر ز جیب چاه می آرد برون",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناله نی از جگرها آه می آرد برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یوسفی در هر نفس از چاه می آرد برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رهروی کز کاروان یک بار دور افتاده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خار را از پا به منزلگاه می آرد برون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از بهای خویش افتادن، به چاه افتادن است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرزه یوسف را فلک از چاه می آرد برون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در تنور رزق چون نوبت به قرص ما رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چرخ گویا بیژنی از چاه می آرد برون",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آنچه می ریزد ز مژگان کلک صائب نقطه نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ماه کنعان سر ز جیب چاه می آرد برون",
+      "CoupletIndex": 4
+    }
+  ]
+}

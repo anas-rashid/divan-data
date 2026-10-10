@@ -1,0 +1,57 @@
+{
+  "Id": 30805,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۴۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۴۸",
+  "FullUrl": "/p389/robghm/sh548",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh548",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر ذره غمت ز عالمی شادی به\r\nویران‌شده تو از هر آبادی به\r\nاز هرکه قبول بندگی کردی ازو\r\nاز بندگی‌اش کدام آزادی به؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر ذره غمت ز عالمی شادی به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ویران‌شده تو از هر آبادی به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هرکه قبول بندگی کردی ازو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بندگی‌اش کدام آزادی به؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

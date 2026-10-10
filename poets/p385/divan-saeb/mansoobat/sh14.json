@@ -1,0 +1,42 @@
+{
+  "Id": 27350,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۴",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست هر چند از لباس گل جدایی رنگ را\r\nجامه گلرنگ بر اندام او زیبنده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست هر چند از لباس گل جدایی رنگ را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جامه گلرنگ بر اندام او زیبنده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32010,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/p390/divan/robaee/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تشویش سفر با دل ناشاد بد است\r\nبا دست تهی چو کار افتاد بد است\r\nراضی شده ام به قرض هم گر باشد\r\nمی دانم اگرچه قرض بغداد بد است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تشویش سفر با دل ناشاد بد است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دست تهی چو کار افتاد بد است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راضی شده ام به قرض هم گر باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دانم اگرچه قرض بغداد بد است",
+      "CoupletIndex": 1
+    }
+  ]
+}

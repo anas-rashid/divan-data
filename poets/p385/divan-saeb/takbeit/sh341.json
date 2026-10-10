@@ -1,0 +1,45 @@
+{
+  "Id": 17872,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۴۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۴۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh341",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh341",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غیر از خدا که هرگز، در فکر او نبودی\r\nهر چیز از تو گم شد، وقت نماز پیداست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر از خدا که هرگز، در فکر او نبودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چیز از تو گم شد، وقت نماز پیداست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18882,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۵۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۵۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به یک خمیازهٔ گل طی شد ایام بهار من\r\nبه یک شبنم نشست از جوش، خون لاله زار من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به یک خمیازهٔ گل طی شد ایام بهار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به یک شبنم نشست از جوش، خون لاله زار من",
+      "CoupletIndex": 0
+    }
+  ]
+}

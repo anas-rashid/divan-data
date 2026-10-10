@@ -1,0 +1,42 @@
+{
+  "Id": 26523,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۳۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۳۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh435",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh435",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برات رزق ترا از زراعت ایزد پاک\r\nبه خط سبز نوشته است بر صحیفه خاک",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برات رزق ترا از زراعت ایزد پاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به خط سبز نوشته است بر صحیفه خاک",
+      "CoupletIndex": 0
+    }
+  ]
+}

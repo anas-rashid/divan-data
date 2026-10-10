@@ -1,0 +1,42 @@
+{
+  "Id": 37143,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۴۳۴",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۴۳۴",
+  "FullUrl": "/p393/mot/sh434",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh434",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو در مکتب غیرم یاد کردی\r\nمرا هم شاد و هم ناشاد کردی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو در مکتب غیرم یاد کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا هم شاد و هم ناشاد کردی",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30718,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۶۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۶۱",
+  "FullUrl": "/p389/robghm/sh461",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh461",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پرهیز کن از راهنمایان فضول\r\nتا بر در دوست، بهره یابی ز قبول\r\nای آن که به حق دلیل و رهبر طلبی\r\nباشد که به از رسول و اولاد رسول؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پرهیز کن از راهنمایان فضول",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا بر در دوست، بهره یابی ز قبول",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آن که به حق دلیل و رهبر طلبی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد که به از رسول و اولاد رسول؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

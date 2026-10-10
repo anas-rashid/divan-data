@@ -1,0 +1,66 @@
+{
+  "Id": 36236,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۸۵",
+  "FullUrl": "/p393/natmam/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندانم عشق غارتگر کجایی است\r\nکه این آفت نه ارضی نی سمایی است\r\nکنم همت طلب از روح ایوب\r\nکه هجران بر سر صبرآزمایی است\r\nنمی‌دانم کجا خون شد دل من\r\nهمین دانم که دست او حنایی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندانم عشق غارتگر کجایی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که این آفت نه ارضی نی سمایی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کنم همت طلب از روح ایوب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که هجران بر سر صبرآزمایی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نمی‌دانم کجا خون شد دل من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همین دانم که دست او حنایی است",
+      "CoupletIndex": 2
+    }
+  ]
+}

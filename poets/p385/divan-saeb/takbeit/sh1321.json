@@ -1,0 +1,45 @@
+{
+  "Id": 18852,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۲۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۲۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه می‌پرسی ز من کیفیت حسن بهاران را؟\r\nکه چون نرگس سر آمد عمر من در چشم مالیدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه می‌پرسی ز من کیفیت حسن بهاران را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چون نرگس سر آمد عمر من در چشم مالیدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

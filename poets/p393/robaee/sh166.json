@@ -1,0 +1,54 @@
+{
+  "Id": 37338,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۶۶",
+  "FullUrl": "/p393/robaee/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خورده خدنگ کاری از شست تو من\r\nوی سینه کباب نرگس مست تو من\r\nاز پا افتاده خاک بر سر کرده\r\nاز دست تو از دست تو از دست تو من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خورده خدنگ کاری از شست تو من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی سینه کباب نرگس مست تو من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پا افتاده خاک بر سر کرده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دست تو از دست تو از دست تو من",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 32477,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۵",
+  "FullUrl": "/p391/divan/ghazal/sh385",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh385",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نونهال من بسی از شاخ گل رعناتر است\r\nسرو من بسیار از شمشاد خوش بالاتر است\r\nهست خوبان را دورنگی در خور حسن و جمال\r\nاز گل رعنا بت زیبای من رعناتر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نونهال من بسی از شاخ گل رعناتر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو من بسیار از شمشاد خوش بالاتر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هست خوبان را دورنگی در خور حسن و جمال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گل رعنا بت زیبای من رعناتر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

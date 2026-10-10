@@ -1,0 +1,57 @@
+{
+  "Id": 30428,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۷۱",
+  "FullUrl": "/p389/robghm/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی گویی فلانی این گوهر سفت\r\nیا بهمانی کرد چنین گفت و شنفت\r\nگر زان که طریق بندگی می‌ورزی\r\nرو پیشه کن آنچه خواجه عالم گفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی گویی فلانی این گوهر سفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا بهمانی کرد چنین گفت و شنفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر زان که طریق بندگی می‌ورزی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رو پیشه کن آنچه خواجه عالم گفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 36741,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۲",
+  "FullUrl": "/p393/mot/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب ز بی‌تابی نیاساید دل بی‌تاب ما\r\nدشمن بیدار ما ای دیدهٔ بی‌خواب ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب ز بی‌تابی نیاساید دل بی‌تاب ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دشمن بیدار ما ای دیدهٔ بی‌خواب ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

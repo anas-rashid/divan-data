@@ -1,0 +1,93 @@
+{
+  "Id": 30028,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۸۰",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۸۰",
+  "FullUrl": "/p389/ghazalgm/sh280",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh280",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آسیب واعظان به ایاغم نمی‌رسد\r\nاز باد، آفتی به چراغم نمی‌رسد\r\nاز بس که باز می‌کنم از کار دل گره\r\nناخن به تازه‌کردن داغم نمی‌رسد\r\nگلشن پر از گل است، ولیکن ز هیچ گل\r\nبوی محبتی به دماغم نمی‌رسد\r\nعشق است نخل میوه باغ دلم، ازان\r\nدست کسی به میوه باغم نمی‌رسد\r\nقدسی ز خیل گمشدگان محبتم\r\nاز جستجو کسی به سراغم نمی‌رسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسیب واعظان به ایاغم نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از باد، آفتی به چراغم نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که باز می‌کنم از کار دل گره",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناخن به تازه‌کردن داغم نمی‌رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گلشن پر از گل است، ولیکن ز هیچ گل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوی محبتی به دماغم نمی‌رسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عشق است نخل میوه باغ دلم، ازان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دست کسی به میوه باغم نمی‌رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "قدسی ز خیل گمشدگان محبتم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از جستجو کسی به سراغم نمی‌رسد",
+      "CoupletIndex": 4
+    }
+  ]
+}

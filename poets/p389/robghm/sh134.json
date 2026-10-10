@@ -1,0 +1,57 @@
+{
+  "Id": 30391,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۴",
+  "FullUrl": "/p389/robghm/sh134",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh134",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پروردن عشق با خرد هر دو نکوست\r\nتا زان دو نتیجه‌ای برد دشمن و دوست\r\nاز نشو و نما به خاک، بی‌بهره بود\r\nهم پوست جدا ز مغز و هم مغز ز پوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پروردن عشق با خرد هر دو نکوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا زان دو نتیجه‌ای برد دشمن و دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از نشو و نما به خاک، بی‌بهره بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم پوست جدا ز مغز و هم مغز ز پوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

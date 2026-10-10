@@ -1,0 +1,54 @@
+{
+  "Id": 36675,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۹۵",
+  "FullUrl": "/p393/ghete/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مجنون نداشت خاطر ناشاد همچون من\r\nهرگز نبود غم‌زده فرهاد همچون من\r\nناصح که دل شکست به سنگ ملامتم\r\nیا رب اسیر سنگ دلی باد همچو من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مجنون نداشت خاطر ناشاد همچون من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز نبود غم‌زده فرهاد همچون من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناصح که دل شکست به سنگ ملامتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب اسیر سنگ دلی باد همچو من",
+      "CoupletIndex": 1
+    }
+  ]
+}

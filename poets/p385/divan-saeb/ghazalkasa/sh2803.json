@@ -1,0 +1,93 @@
+{
+  "Id": 21876,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۸۰۳",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۸۰۳",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2803",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2803",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگو عاقل کجا در محنت ایام می افتد\r\nکه مرغ زیرک اینجا بیشتر در دام می افتد\r\nبه ناسازی سری در حلقه سوداییان دارم\r\nکه در مغز آتشم از روغن بادام می افتد\r\nبه حرف تلخ خود را در نظرها می کند شیرین\r\nبلای جان بود شوخی که خوش دشنام می افتد\r\nچنان دلبستگی دارم به اسباب گرفتاری\r\nکه می سوزم اگر خاری به چشم دام می افتد\r\nمزن فال هم آغوشی به آتش طلعتان صائب\r\nکه در پروانه آتش ز آرزوی خام می افتد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگو عاقل کجا در محنت ایام می افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مرغ زیرک اینجا بیشتر در دام می افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به ناسازی سری در حلقه سوداییان دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در مغز آتشم از روغن بادام می افتد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به حرف تلخ خود را در نظرها می کند شیرین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بلای جان بود شوخی که خوش دشنام می افتد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چنان دلبستگی دارم به اسباب گرفتاری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که می سوزم اگر خاری به چشم دام می افتد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مزن فال هم آغوشی به آتش طلعتان صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که در پروانه آتش ز آرزوی خام می افتد",
+      "CoupletIndex": 4
+    }
+  ]
+}

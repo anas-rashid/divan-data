@@ -1,0 +1,57 @@
+{
+  "Id": 30532,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۷۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۷۵",
+  "FullUrl": "/p389/robghm/sh275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عریان ز لباس معرفت عوری چند\r\nدارند چه حال، زنده در گوری چند\r\nدر تیه ضلالتند بی‌معرفتان\r\nچون خانه بی در و در او کوری چند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عریان ز لباس معرفت عوری چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارند چه حال، زنده در گوری چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تیه ضلالتند بی‌معرفتان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون خانه بی در و در او کوری چند",
+      "CoupletIndex": 1
+    }
+  ]
+}

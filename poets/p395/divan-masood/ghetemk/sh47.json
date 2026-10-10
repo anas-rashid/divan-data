@@ -1,0 +1,69 @@
+{
+  "Id": 38274,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۴۷ - مرثیه",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۴۷ - مرثیه",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بونصر حسن جوان بمیرد\r\nوز عمر ملالتان نگیرد\r\nرد کرده ترین عالم انگار\r\nآن کس که ورا جوان نمیرد\r\nآن به که خود آدمی نزاید\r\nچون زاد همان زمان بمیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بونصر حسن جوان بمیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز عمر ملالتان نگیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رد کرده ترین عالم انگار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن کس که ورا جوان نمیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن به که خود آدمی نزاید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون زاد همان زمان بمیرد",
+      "CoupletIndex": 2
+    }
+  ]
+}

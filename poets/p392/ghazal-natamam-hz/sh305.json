@@ -1,0 +1,69 @@
+{
+  "Id": 34964,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh305",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh305",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طرف نقاب اگر کشی، از رخ نازنین فرو\r\nدل ز تپیدن آورد، خانهٔ عقل و دین فرو\r\nپت ز سرمه چشم تو، طرح فرنگ تازهای\r\nیا شده این غزال را، پای به مشک چین فرو؟\r\nهشته سمن عذار من، طرّهٔ یاسمین فرو\r\nکعبه به ناز افکند، حلّهٔ عنبرین فرو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طرف نقاب اگر کشی، از رخ نازنین فرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل ز تپیدن آورد، خانهٔ عقل و دین فرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پت ز سرمه چشم تو، طرح فرنگ تازهای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا شده این غزال را، پای به مشک چین فرو؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هشته سمن عذار من، طرّهٔ یاسمین فرو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کعبه به ناز افکند، حلّهٔ عنبرین فرو",
+      "CoupletIndex": 2
+    }
+  ]
+}

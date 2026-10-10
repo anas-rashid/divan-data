@@ -1,0 +1,57 @@
+{
+  "Id": 26758,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۵۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترخنده از عرق به می ناب زد رخت\r\nباز این چه نقش بود که بر آب زد رخت\r\nیاقوت های راز نهان رنگ باختند\r\nزین آتشی که در دل احباب زد رخت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترخنده از عرق به می ناب زد رخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز این چه نقش بود که بر آب زد رخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یاقوت های راز نهان رنگ باختند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین آتشی که در دل احباب زد رخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

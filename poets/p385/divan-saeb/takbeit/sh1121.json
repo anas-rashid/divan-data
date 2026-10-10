@@ -1,0 +1,45 @@
+{
+  "Id": 18652,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۲۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۲۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا بیزار کرد از اهل دولت، دیدن دربان\r\nبه یک دیدن، ز صد نادیدنی آزاد گردیدم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا بیزار کرد از اهل دولت، دیدن دربان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به یک دیدن، ز صد نادیدنی آزاد گردیدم",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27193,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۸۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۸۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh587",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh587",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زهاد را به حلقه رندان چه می بری؟\r\nاین خار خشک را به گلستان چه می بری\r\nجنت به چشم مرده دلان نخل ماتمی است\r\nزهاد را به سیر گلستان چه می بری؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زهاد را به حلقه رندان چه می بری؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این خار خشک را به گلستان چه می بری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جنت به چشم مرده دلان نخل ماتمی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زهاد را به سیر گلستان چه می بری؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

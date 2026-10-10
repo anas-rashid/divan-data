@@ -1,0 +1,93 @@
+{
+  "Id": 31876,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۹۰۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۹۰۹",
+  "FullUrl": "/p390/divan/ghazal/sh909",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh909",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل درین بادیه سویی دود و من سویی\r\nخضر شاید که ز یک سوی نماید رویی\r\nهست سررشته ای از عشق هنوزم در دست\r\nمانده در شانهٔ ما از سر مجنون مویی\r\nسخت از بیضهٔ قمری خبری می‌گیرد\r\nباغبان را شده گویا هوس لولویی\r\nعشق او روکش ما گشت پس از مردن هم\r\nصورت شیر ببین بر ورق آهویی\r\nطرفه بحری ست محبت که درو هست سلیم\r\nبه فسون جنبش هر موج، لب جادویی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل درین بادیه سویی دود و من سویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خضر شاید که ز یک سوی نماید رویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هست سررشته ای از عشق هنوزم در دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانده در شانهٔ ما از سر مجنون مویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سخت از بیضهٔ قمری خبری می‌گیرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باغبان را شده گویا هوس لولویی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عشق او روکش ما گشت پس از مردن هم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صورت شیر ببین بر ورق آهویی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طرفه بحری ست محبت که درو هست سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به فسون جنبش هر موج، لب جادویی",
+      "CoupletIndex": 4
+    }
+  ]
+}

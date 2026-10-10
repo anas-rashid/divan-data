@@ -1,0 +1,57 @@
+{
+  "Id": 30267,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/p389/robghm/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردون که به دیده خار افکند مرا\r\nآتش به دل فگار افکند مرا\r\nنی شمع به محفلی، نه گل در چمنی\r\nبنگر به چه روزگار افکند مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردون که به دیده خار افکند مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش به دل فگار افکند مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی شمع به محفلی، نه گل در چمنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنگر به چه روزگار افکند مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 31966,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۲۸ - تعریف شخصی",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۲۸ - تعریف شخصی",
+  "FullUrl": "/p390/divan/ghete/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای که خورشید چو آیینه ز خجلت رو ساخت\r\nخامه چون پرده گشا گشت خیالات ترا\r\nگر ندادند ترا حسن خط آزرده مباش\r\nپای طاووس بود خامه کمالات ترا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای که خورشید چو آیینه ز خجلت رو ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خامه چون پرده گشا گشت خیالات ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ندادند ترا حسن خط آزرده مباش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پای طاووس بود خامه کمالات ترا",
+      "CoupletIndex": 1
+    }
+  ]
+}

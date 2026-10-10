@@ -1,0 +1,42 @@
+{
+  "Id": 26347,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۵۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۵۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh259",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh259",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بس گفتار من از دل غبارآلود می‌خیزد\r\nچو بردارم قلم خط غبار از کلک من ریزد!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بس گفتار من از دل غبارآلود می‌خیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو بردارم قلم خط غبار از کلک من ریزد!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 19034,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۰۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۰۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1503",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1503",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست غیر از گوشهٔ دل در جهان آب و گل\r\nگوشهٔ امنی که یک ساعت بیاساید کسی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست غیر از گوشهٔ دل در جهان آب و گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوشهٔ امنی که یک ساعت بیاساید کسی",
+      "CoupletIndex": 0
+    }
+  ]
+}

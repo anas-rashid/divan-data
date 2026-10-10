@@ -1,0 +1,57 @@
+{
+  "Id": 33286,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/p391/divan/robaee/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی کینه دلم به سینه از فضل خداست\r\nآئینه خاطرم نه محتاج جلاست\r\nاز هر که غباری به دلم جای گرفت\r\nچون گرد یتیمی گهر عین صفاست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی کینه دلم به سینه از فضل خداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آئینه خاطرم نه محتاج جلاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هر که غباری به دلم جای گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون گرد یتیمی گهر عین صفاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

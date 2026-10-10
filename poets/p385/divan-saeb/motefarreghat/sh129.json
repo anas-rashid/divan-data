@@ -1,0 +1,57 @@
+{
+  "Id": 26735,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۲۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اندیشه ز مستی نکند هر که شرابی است\r\nکآبادی این طایفه موقوف خرابی است\r\nآن را که به انگشت توان عیب شمردن\r\nدر عالم انصاف ز مردان حسابی است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندیشه ز مستی نکند هر که شرابی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کآبادی این طایفه موقوف خرابی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که به انگشت توان عیب شمردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عالم انصاف ز مردان حسابی است!",
+      "CoupletIndex": 1
+    }
+  ]
+}

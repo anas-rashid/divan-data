@@ -1,0 +1,57 @@
+{
+  "Id": 34384,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۴۵ - قطعه",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۴۵ - قطعه",
+  "FullUrl": "/p392/ghete-hz/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مژه و غمزه ات، صفدر صاحب قران\r\nخود شکافد به تیغ، درع دَرَد با سنان\r\nمنّت سرو قدت، فصل بهار خطت\r\nبار نهد بر زمین، ناز کند بر زمان",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مژه و غمزه ات، صفدر صاحب قران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود شکافد به تیغ، درع دَرَد با سنان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منّت سرو قدت، فصل بهار خطت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بار نهد بر زمین، ناز کند بر زمان",
+      "CoupletIndex": 1
+    }
+  ]
+}

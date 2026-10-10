@@ -1,0 +1,93 @@
+{
+  "Id": 32964,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۷۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۷۲",
+  "FullUrl": "/p391/divan/ghazal/sh872",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh872",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من که از جوش تجلی رشک نخل ایمنم\r\nپرتو شمع است چون فانوس گرد دامنم\r\nنیست دمسازی ترا مانند من ای عندلیب\r\nیا تویی هنگامه رنگین ساز گلشن یا منم\r\nدرمندی خوی بد را می کند زایل ز طبع\r\nمی شود از فیض عشق آخر پری اهریمنم\r\nمن که می سوزد دلم در یاد شمع عارضی\r\nنیست غیر از نور چون فانوس در پیراهنم\r\nگر خدا ناکرده بگریزم ز دست انداز عشق\r\nجز دهان اژدها جویا مبادا مامنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من که از جوش تجلی رشک نخل ایمنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرتو شمع است چون فانوس گرد دامنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست دمسازی ترا مانند من ای عندلیب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا تویی هنگامه رنگین ساز گلشن یا منم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درمندی خوی بد را می کند زایل ز طبع",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می شود از فیض عشق آخر پری اهریمنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من که می سوزد دلم در یاد شمع عارضی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیست غیر از نور چون فانوس در پیراهنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر خدا ناکرده بگریزم ز دست انداز عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جز دهان اژدها جویا مبادا مامنم",
+      "CoupletIndex": 4
+    }
+  ]
+}

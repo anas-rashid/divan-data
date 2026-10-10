@@ -1,0 +1,57 @@
+{
+  "Id": 28094,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۱",
+  "FullUrl": "/p386/robaeeor/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق که مدح تو همین عشق بس است \r\nبرقی ست که موسی اش یک مشت خس است\r\nنی نی در مستی نزنم، گلزارست\r\nکش موسی عمرا ن گل مشکین نفس است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق که مدح تو همین عشق بس است ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برقی ست که موسی اش یک مشت خس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی نی در مستی نزنم، گلزارست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کش موسی عمرا ن گل مشکین نفس است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34566,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۷۱",
+  "FullUrl": "/p392/robaee-hz/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این خرقهٔ پر زرق و ردای سالوس\r\nای دل به کجا برم؟ کزو به ناقوس\r\nازکشتهٔ خود به کف درین دشت سراب\r\nجز آبلهٔ دانه ندارم، افسوس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این خرقهٔ پر زرق و ردای سالوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای دل به کجا برم؟ کزو به ناقوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازکشتهٔ خود به کف درین دشت سراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز آبلهٔ دانه ندارم، افسوس",
+      "CoupletIndex": 1
+    }
+  ]
+}

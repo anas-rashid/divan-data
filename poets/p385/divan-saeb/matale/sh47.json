@@ -1,0 +1,42 @@
+{
+  "Id": 26135,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوخی راز محبت می شکافد سینه را\r\nآب این گوهر به طوفان می دهد گنجینه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی راز محبت می شکافد سینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب این گوهر به طوفان می دهد گنجینه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

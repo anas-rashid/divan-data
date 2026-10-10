@@ -1,0 +1,60 @@
+{
+  "Id": 36620,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۴۰",
+  "FullUrl": "/p393/ghete/sh140",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh140",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من کی‌ام نالان غریبی از وطن افتاده دور\r\nبلبل حسرت نصیبی از چمن افتاده دور\r\nنی دل از حالم خبر دارد نه من از حال دل\r\nمن ز دل افتاده دور و دل ز من افتاده دور\r\nاشعار متفرق",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من کی‌ام نالان غریبی از وطن افتاده دور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل حسرت نصیبی از چمن افتاده دور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی دل از حالم خبر دارد نه من از حال دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من ز دل افتاده دور و دل ز من افتاده دور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اشعار متفرق",
+      "CoupletIndex": 2
+    }
+  ]
+}

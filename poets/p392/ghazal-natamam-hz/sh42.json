@@ -1,0 +1,66 @@
+{
+  "Id": 34701,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمال کوته است ز دنیا بریده را\r\nکی می رسد کفد، غزال رمیده را؟\r\nدر رهگذار سیل، بود استوار کوه\r\nوحشت حریف نیست، من آرمیده را\r\nگوش گران، علاج لب یاوه گو کند\r\nاین پنبه در خور است دهان دریده را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمال کوته است ز دنیا بریده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی می رسد کفد، غزال رمیده را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در رهگذار سیل، بود استوار کوه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وحشت حریف نیست، من آرمیده را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گوش گران، علاج لب یاوه گو کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این پنبه در خور است دهان دریده را",
+      "CoupletIndex": 2
+    }
+  ]
+}

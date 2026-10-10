@@ -1,0 +1,57 @@
+{
+  "Id": 37625,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنی که ز کبر ما نپسندی مهد\r\nقسمم ز تو خارست ز گل زهر از شهد\r\nدر عشق توام سود نمی دارد جهد\r\nچون لاله سیه دلی و چون گل بد عهد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی که ز کبر ما نپسندی مهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قسمم ز تو خارست ز گل زهر از شهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق توام سود نمی دارد جهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون لاله سیه دلی و چون گل بد عهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

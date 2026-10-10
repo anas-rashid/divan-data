@@ -1,0 +1,57 @@
+{
+  "Id": 34541,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۴۶",
+  "FullUrl": "/p392/robaee-hz/sh146",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh146",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن تو به یک جلوه گرفتارم کرد\r\nوز نرگس مست، عشوه درکارم کرد\r\nبی قدر متاع من خریدار نداشت\r\nعشق تو به این قیمت و مقدارم کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن تو به یک جلوه گرفتارم کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز نرگس مست، عشوه درکارم کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی قدر متاع من خریدار نداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق تو به این قیمت و مقدارم کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

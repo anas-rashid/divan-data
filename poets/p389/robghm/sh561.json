@@ -1,0 +1,57 @@
+{
+  "Id": 30818,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۶۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۶۱",
+  "FullUrl": "/p389/robghm/sh561",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh561",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در غربتم استخوان چو نی نالیده\r\nکاهیده نشاط و محنتم بالیده\r\nمحروم ز ارض طوس صحرای دلم\r\nدشتی‌ست ز سیل غربتم مالیده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در غربتم استخوان چو نی نالیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاهیده نشاط و محنتم بالیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "محروم ز ارض طوس صحرای دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشتی‌ست ز سیل غربتم مالیده",
+      "CoupletIndex": 1
+    }
+  ]
+}

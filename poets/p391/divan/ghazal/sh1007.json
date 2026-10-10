@@ -1,0 +1,57 @@
+{
+  "Id": 33099,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۰۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۰۷",
+  "FullUrl": "/p391/divan/ghazal/sh1007",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1007",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دمیده همچو مهر از مشرق خوبی جمال او\r\nکشیده سر ز آب جوی چاک دل نهال او\r\nشود هر گاه در چشم تصور جلوه گر ترسم\r\nکه تیغ موج خون دیده آید بر خیال او",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دمیده همچو مهر از مشرق خوبی جمال او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کشیده سر ز آب جوی چاک دل نهال او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شود هر گاه در چشم تصور جلوه گر ترسم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که تیغ موج خون دیده آید بر خیال او",
+      "CoupletIndex": 1
+    }
+  ]
+}

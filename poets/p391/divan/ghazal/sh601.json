@@ -1,0 +1,54 @@
+{
+  "Id": 32693,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۱",
+  "FullUrl": "/p391/divan/ghazal/sh601",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh601",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز دل زآتش سودای تو درمی گیرد\r\nسوختن شمع صفت باز ز سر می گیرد\r\nصبح پیری بصد آیین جوانی باشد\r\nدر خزان گلشن ما رنگ دگر می گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز دل زآتش سودای تو درمی گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوختن شمع صفت باز ز سر می گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح پیری بصد آیین جوانی باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خزان گلشن ما رنگ دگر می گیرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

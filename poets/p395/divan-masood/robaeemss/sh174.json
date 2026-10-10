@@ -1,0 +1,57 @@
+{
+  "Id": 37688,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۷۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۷۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh174",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh174",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشکین کله تو گر شبست ای دلدار\r\nخورشید در او چرا گرفته ست قرار\r\nخیره ست در آن کله خرد را دیدار\r\nدیدار بلی خیره بود در شب تار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشکین کله تو گر شبست ای دلدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید در او چرا گرفته ست قرار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیره ست در آن کله خرد را دیدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدار بلی خیره بود در شب تار",
+      "CoupletIndex": 1
+    }
+  ]
+}

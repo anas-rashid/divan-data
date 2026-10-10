@@ -1,0 +1,45 @@
+{
+  "Id": 18217,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۸۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۸۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh686",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh686",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گریه‌ها در پرده دارد عیشهای بی‌گمان\r\nخندهٔ بی اختیار برق، باران آورد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گریه‌ها در پرده دارد عیشهای بی‌گمان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خندهٔ بی اختیار برق، باران آورد",
+      "CoupletIndex": 0
+    }
+  ]
+}

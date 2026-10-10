@@ -1,0 +1,93 @@
+{
+  "Id": 15636,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۹۳۳",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۹۳۳",
+  "FullUrl": "/p384/ghazalbi/sh933",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh933",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به روی عالم‌آرا گر نقاب زلف درپیچد\r\nبیاض صفحهٔ ‌کافور را در مشک تر پیچد\r\nگهی چون طفل اشک‌من درآغوش نگه غلتد\r\nگهی چون سبزهٔ ‌مژگان به ‌دامان نظر پیچد\r\nاگر گویم ز زلف خود رهایی ده دل ما را\r\nچو زلف‌خود سر هر مو ز صدجا بیشترپیچد\r\nبه ‌گاه خنده شکّر ریزد از چاک دل ‌گوهر\r\nبه وقت خامشی موج‌ گهر را درشکر پیچد\r\nنخیزم چون غبار از راه او بیدل که می‌ترسم\r\nعنان توسن ناز از طریق مهر درپیچد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به روی عالم‌آرا گر نقاب زلف درپیچد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیاض صفحهٔ ‌کافور را در مشک تر پیچد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گهی چون طفل اشک‌من درآغوش نگه غلتد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گهی چون سبزهٔ ‌مژگان به ‌دامان نظر پیچد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر گویم ز زلف خود رهایی ده دل ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو زلف‌خود سر هر مو ز صدجا بیشترپیچد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به ‌گاه خنده شکّر ریزد از چاک دل ‌گوهر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به وقت خامشی موج‌ گهر را درشکر پیچد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نخیزم چون غبار از راه او بیدل که می‌ترسم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عنان توسن ناز از طریق مهر درپیچد",
+      "CoupletIndex": 4
+    }
+  ]
+}

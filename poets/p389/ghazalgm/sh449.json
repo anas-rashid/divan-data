@@ -1,0 +1,81 @@
+{
+  "Id": 30197,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۴۹",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۴۹",
+  "FullUrl": "/p389/ghazalgm/sh449",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh449",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوشم ز بس چو باده، ز پیمانه، دوستی\r\nجوشد چو خونم از دل دیوانه، دوستی\r\nاین دلخوشی بسم، که ز من در طریق عشق\r\nآموختند بلبل و پروانه، دوستی\r\nگر دوستی طلب کنی، از من طلب که کرد\r\nنسبت درست با من دیوانه، دوستی\r\nقدسی ترحم است بر آن ساده‌لوح، کو\r\nجوید ز دل شکیب و ز جانانه، دوستی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوشم ز بس چو باده، ز پیمانه، دوستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جوشد چو خونم از دل دیوانه، دوستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این دلخوشی بسم، که ز من در طریق عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آموختند بلبل و پروانه، دوستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر دوستی طلب کنی، از من طلب که کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نسبت درست با من دیوانه، دوستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "قدسی ترحم است بر آن ساده‌لوح، کو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جوید ز دل شکیب و ز جانانه، دوستی",
+      "CoupletIndex": 3
+    }
+  ]
+}

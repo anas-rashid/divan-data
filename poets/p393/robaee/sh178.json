@@ -1,0 +1,54 @@
+{
+  "Id": 37350,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/p393/robaee/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دوست بسی غمین شدم شادم کن\r\nاز بندگی فراق آزادم کن\r\nبسیار خراب گشتم آبادم کن\r\nچندان که فراموش توام شادم کن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست بسی غمین شدم شادم کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بندگی فراق آزادم کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسیار خراب گشتم آبادم کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که فراموش توام شادم کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

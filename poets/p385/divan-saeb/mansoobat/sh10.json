@@ -1,0 +1,42 @@
+{
+  "Id": 27346,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۰",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روز محشر سرخ رویی از خدا دارم امید\r\nنامه اعمال من صائب به مهر کربلاست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روز محشر سرخ رویی از خدا دارم امید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نامه اعمال من صائب به مهر کربلاست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30730,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۷۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۷۳",
+  "FullUrl": "/p389/robghm/sh473",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh473",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زان روز که از مادر گیتی زادم\r\nیک لحظه نرفته حسن و عشق از یادم\r\nصلوات‎فرست جلوه شیرینم\r\nتعویذنویس بازوی فرهادم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان روز که از مادر گیتی زادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک لحظه نرفته حسن و عشق از یادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صلوات‎فرست جلوه شیرینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تعویذنویس بازوی فرهادم",
+      "CoupletIndex": 1
+    }
+  ]
+}

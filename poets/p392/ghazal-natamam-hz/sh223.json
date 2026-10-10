@@ -1,0 +1,69 @@
+{
+  "Id": 34882,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۲۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۲۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh223",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh223",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی دانم چه سودا در سر مخمور می گردد\r\nکه داغم از نگاه تنگ چشمان شور می گردد\r\nاگر یابد کسی از وسعت آباد دل، آگاهی\r\nبه چشمش دامن صحرای امکان گور می گردد\r\nچه شهد است این که در زیر نگاه، ای رخنه گر داری؟\r\nز مژگان تو دل ها خانهٔ زنبور می گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی دانم چه سودا در سر مخمور می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که داغم از نگاه تنگ چشمان شور می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر یابد کسی از وسعت آباد دل، آگاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به چشمش دامن صحرای امکان گور می گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه شهد است این که در زیر نگاه، ای رخنه گر داری؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز مژگان تو دل ها خانهٔ زنبور می گردد",
+      "CoupletIndex": 2
+    }
+  ]
+}

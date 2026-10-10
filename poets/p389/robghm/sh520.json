@@ -1,0 +1,57 @@
+{
+  "Id": 30777,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۰",
+  "FullUrl": "/p389/robghm/sh520",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh520",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کس نبود کدورتم در باطن\r\nدارم ز ازل چو لولوی تر باطن\r\nدل روشنی‌ام ز صافی شعر ترست\r\nشستم چو صدف به آب گوهر باطن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کس نبود کدورتم در باطن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارم ز ازل چو لولوی تر باطن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل روشنی‌ام ز صافی شعر ترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شستم چو صدف به آب گوهر باطن",
+      "CoupletIndex": 1
+    }
+  ]
+}

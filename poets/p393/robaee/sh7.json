@@ -1,0 +1,54 @@
+{
+  "Id": 37179,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/p393/robaee/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوار آنکه تو از نظر فگندی او را\r\nزار آنکه تو از نظر فگندی او را\r\nبرداشتنش کجاست مقدور کسی\r\nیار آنکه تو از نظر فگندی او را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوار آنکه تو از نظر فگندی او را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زار آنکه تو از نظر فگندی او را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برداشتنش کجاست مقدور کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یار آنکه تو از نظر فگندی او را",
+      "CoupletIndex": 1
+    }
+  ]
+}

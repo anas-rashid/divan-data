@@ -1,0 +1,57 @@
+{
+  "Id": 29657,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/p388/divan/robaee/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبحست و خروش بلبلان می‌آید\r\nبرخیز که سنگ در فغان می‌آید\r\nاین ناله مرغان سحر پیغامیست\r\nکز بیداران به خفتگان می‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبحست و خروش بلبلان می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برخیز که سنگ در فغان می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این ناله مرغان سحر پیغامیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز بیداران به خفتگان می‌آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

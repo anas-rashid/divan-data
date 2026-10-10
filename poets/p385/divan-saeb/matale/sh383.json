@@ -1,0 +1,42 @@
+{
+  "Id": 26471,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۸۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۸۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh383",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh383",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آبروی دیده ها باشد ز اشک آتشین\r\nکاسه دریوزه می گردد نگین دان بی نگین",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آبروی دیده ها باشد ز اشک آتشین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاسه دریوزه می گردد نگین دان بی نگین",
+      "CoupletIndex": 0
+    }
+  ]
+}

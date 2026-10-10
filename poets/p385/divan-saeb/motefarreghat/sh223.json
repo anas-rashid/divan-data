@@ -1,0 +1,57 @@
+{
+  "Id": 26829,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۲۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۲۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh223",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh223",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میان نور و ظلمت عالمی دارم، نمی دانم\r\nکه شامم صبح یا صبح امیدم شام می گردد\r\nبه گمنامی قناعت کن دل روشن اگر خواهی\r\nکه در چشم نگین عالم سیاه از نام می گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میان نور و ظلمت عالمی دارم، نمی دانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که شامم صبح یا صبح امیدم شام می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به گمنامی قناعت کن دل روشن اگر خواهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در چشم نگین عالم سیاه از نام می گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

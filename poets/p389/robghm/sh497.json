@@ -1,0 +1,57 @@
+{
+  "Id": 30754,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹۷",
+  "FullUrl": "/p389/robghm/sh497",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh497",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل پیش تو ای دلبر کاشی داریم\r\nدر بزم تو جای بر حواشی داریم\r\nیاران همه میل آب‌پاشان دارند\r\nما با تو سر نیازپاشی داریم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل پیش تو ای دلبر کاشی داریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بزم تو جای بر حواشی داریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یاران همه میل آب‌پاشان دارند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما با تو سر نیازپاشی داریم",
+      "CoupletIndex": 1
+    }
+  ]
+}

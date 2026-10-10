@@ -1,0 +1,66 @@
+{
+  "Id": 32401,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۹",
+  "FullUrl": "/p391/divan/ghazal/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دور از تو درونم همه باغ از گل داغ است\r\nیاد تو نسیمی که سراسر رو باغ است\r\nرفتی و گل از هجر تو افسرده چراغ است\r\nهر لالهٔ خونین جگر از درد تو داغ است\r\nجز در ره رفتن زخودش پی نتوان برد\r\nآسوده هر آنکس چو شرر گرم سراغ است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دور از تو درونم همه باغ از گل داغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یاد تو نسیمی که سراسر رو باغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتی و گل از هجر تو افسرده چراغ است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر لالهٔ خونین جگر از درد تو داغ است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جز در ره رفتن زخودش پی نتوان برد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آسوده هر آنکس چو شرر گرم سراغ است",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26843,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh237",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh237",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگر شمشیر او امروز آب تازه ای دارد؟\r\nکه در هر بخیه زخمم زیر لب خمیازه ای دارد\r\nنشانی هاست غیر از ناله درد عشقبازان را\r\nمیان عاشقان بلبل همین آوازه ای دارد\r\nدرین بستانسرا این شیوه سروم خوش افتاده\r\nکه با دست تهی پیوسته روی تازه ای دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگر شمشیر او امروز آب تازه ای دارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در هر بخیه زخمم زیر لب خمیازه ای دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشانی هاست غیر از ناله درد عشقبازان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میان عاشقان بلبل همین آوازه ای دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درین بستانسرا این شیوه سروم خوش افتاده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که با دست تهی پیوسته روی تازه ای دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

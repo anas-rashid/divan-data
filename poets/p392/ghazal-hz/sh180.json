@@ -1,0 +1,105 @@
+{
+  "Id": 33607,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۸۰",
+  "FullUrl": "/p392/ghazal-hz/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تلقین حجت از لب جانانم آرزوست\r\nمن کافر محبتم، ایمانم آرزوست\r\nکمتر نیم ز شبنم حیران درین چمن\r\nیک چشم، دیدن رخ جانانم آرزوست\r\nچون بهله خاطر از کف بی حاصلم گرفت\r\nدستی حریف چاک گریبانم آرزوست\r\nای ابر فیض بر من آتش جگر ببار\r\nبیش ازگیاه سوخته، بارانم آرزوست\r\nدل را ز مهر تازه جوانان بریده ام\r\nبا پیر دیر، بستن پیمانم آرزوست\r\nناید سرم به سدره و طوبی فرو، حزین\r\nظلّ لوای شاه خراسانم آرزوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تلقین حجت از لب جانانم آرزوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من کافر محبتم، ایمانم آرزوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمتر نیم ز شبنم حیران درین چمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک چشم، دیدن رخ جانانم آرزوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون بهله خاطر از کف بی حاصلم گرفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دستی حریف چاک گریبانم آرزوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای ابر فیض بر من آتش جگر ببار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بیش ازگیاه سوخته، بارانم آرزوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل را ز مهر تازه جوانان بریده ام",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با پیر دیر، بستن پیمانم آرزوست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ناید سرم به سدره و طوبی فرو، حزین",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ظلّ لوای شاه خراسانم آرزوست",
+      "CoupletIndex": 5
+    }
+  ]
+}

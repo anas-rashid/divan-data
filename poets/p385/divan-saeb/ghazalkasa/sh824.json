@@ -1,0 +1,81 @@
+{
+  "Id": 19897,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۸۲۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۸۲۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh824",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh824",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فریاد نخیزد ز دل پر گله ما\r\nنبود چو جرس هرزه درا آبله ما\r\nهر جا که زند نشتر خاری مژه بر هم\r\nخون دشنه کشد از جگر آبله ما\r\nفریاد ازین برق نگاهان که نکردند\r\nرحمی به گل کاغذی حوصله ما\r\nصائب به چه امید گشاییم لب از هم؟\r\nآن چشم سخنگو ندهد گر صله ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فریاد نخیزد ز دل پر گله ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نبود چو جرس هرزه درا آبله ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جا که زند نشتر خاری مژه بر هم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون دشنه کشد از جگر آبله ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فریاد ازین برق نگاهان که نکردند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رحمی به گل کاغذی حوصله ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صائب به چه امید گشاییم لب از هم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن چشم سخنگو ندهد گر صله ما",
+      "CoupletIndex": 3
+    }
+  ]
+}

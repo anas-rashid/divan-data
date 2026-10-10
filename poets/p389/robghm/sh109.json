@@ -1,0 +1,57 @@
+{
+  "Id": 30366,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p389/robghm/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کشور هفت عضو دل سلطان است\r\nاین دعوی را چه حاجت برهان است\r\nهرگز نروند راستان جز پی دل\r\nزان است که تیر پیرو پیکان است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کشور هفت عضو دل سلطان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این دعوی را چه حاجت برهان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگز نروند راستان جز پی دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان است که تیر پیرو پیکان است",
+      "CoupletIndex": 1
+    }
+  ]
+}

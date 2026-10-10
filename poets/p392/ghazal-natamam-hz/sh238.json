@@ -1,0 +1,57 @@
+{
+  "Id": 34897,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۳۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۳۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز خط شده ست عذارش بنفشه زار امروز\r\nکرشمهٔ عجبی می کند بهار امروز\r\nگرفته ام به سخن لعل می چکانش را\r\nبه خون توبه چرا نشکنم خمار امروز؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز خط شده ست عذارش بنفشه زار امروز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرشمهٔ عجبی می کند بهار امروز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفته ام به سخن لعل می چکانش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خون توبه چرا نشکنم خمار امروز؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

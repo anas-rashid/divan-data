@@ -1,0 +1,54 @@
+{
+  "Id": 28186,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۱۹ - بخل بی نهایت",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۱۹ - بخل بی نهایت",
+  "FullUrl": "/p386/ghete-or/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همدمی دارم بسی خوش صحبت اما گرسنه\r\nآنچنان کز بهر سیری زخم تامردن خورد\r\nبا جوال زرمدامش غم بود قوت و هنوز\r\nبسکه باخود بخل ورزد غم زغم خوردن خورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همدمی دارم بسی خوش صحبت اما گرسنه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنچنان کز بهر سیری زخم تامردن خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با جوال زرمدامش غم بود قوت و هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسکه باخود بخل ورزد غم زغم خوردن خورد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 33283,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/p391/divan/robaee/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر عاقل و دیوانه و گر زاهد و مست\r\nباید همه را رخت ز دنیا بر بست\r\nبر دهر مبند دل که مانند حباب\r\nآماده نیستی است هر هست که هست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر عاقل و دیوانه و گر زاهد و مست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید همه را رخت ز دنیا بر بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر دهر مبند دل که مانند حباب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آماده نیستی است هر هست که هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

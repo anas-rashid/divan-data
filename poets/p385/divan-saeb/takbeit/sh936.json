@@ -1,0 +1,45 @@
+{
+  "Id": 18467,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۳۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۳۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh936",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh936",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون زمین نرم از من گرد بر می‌آورند\r\nمی‌کنم هر چند با مردم مدارا بیشتر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون زمین نرم از من گرد بر می‌آورند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌کنم هر چند با مردم مدارا بیشتر",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 34694,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کنم رنگین تر از دامان گلچین، چشم خونین را\r\nکه در آغوش مژگان بینم، آن دست نگارین را\r\nغرورش تیغ عریانی ست، تا کرده ست سنبل گون\r\nخط مشکین آن مشاطه، دشمن برگ نسرین را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کنم رنگین تر از دامان گلچین، چشم خونین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در آغوش مژگان بینم، آن دست نگارین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غرورش تیغ عریانی ست، تا کرده ست سنبل گون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خط مشکین آن مشاطه، دشمن برگ نسرین را",
+      "CoupletIndex": 1
+    }
+  ]
+}

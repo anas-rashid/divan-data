@@ -1,0 +1,66 @@
+{
+  "Id": 32396,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۰۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۴",
+  "FullUrl": "/p391/divan/ghazal/sh304",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh304",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سوز سینه مغز سرم در گرفته است\r\nباز چو شمع سوختن از سر گرفته است\r\nتیر گرفت بر سخنم کی رسد چو تیغ\r\nطبعم زره به دوش زجوهر گرفته است\r\nتا مهر اوست انجمن افروز خاطرم\r\nبا شعله صحبت دل من درگرفته است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سوز سینه مغز سرم در گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز چو شمع سوختن از سر گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیر گرفت بر سخنم کی رسد چو تیغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طبعم زره به دوش زجوهر گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا مهر اوست انجمن افروز خاطرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با شعله صحبت دل من درگرفته است",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 33256,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۲۰-لغز شمع",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۲۰-لغز شمع",
+  "FullUrl": "/p391/divan/ghete/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چیست آن جانور روشن رای\r\nکه بود پاش یکی با گردن\r\nزندگی باعث نابودی اوست\r\nتندرستیش بود در کشتن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چیست آن جانور روشن رای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بود پاش یکی با گردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زندگی باعث نابودی اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تندرستیش بود در کشتن",
+      "CoupletIndex": 1
+    }
+  ]
+}

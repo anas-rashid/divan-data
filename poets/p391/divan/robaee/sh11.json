@@ -1,0 +1,57 @@
+{
+  "Id": 33282,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/p391/divan/robaee/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کم دیدن این چشم سیاهم بگداخت\r\nآزرم تو ترک کج کلاهم بگداخت\r\nچون پرتو شمع بر زمین پهن شده است\r\nاز شرم رخ تو تا نگاهم بگداخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم دیدن این چشم سیاهم بگداخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آزرم تو ترک کج کلاهم بگداخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون پرتو شمع بر زمین پهن شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شرم رخ تو تا نگاهم بگداخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

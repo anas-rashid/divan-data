@@ -1,0 +1,57 @@
+{
+  "Id": 37721,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۰۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۰۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh207",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh207",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عیبم که ز من زمانی ای مشکین خال\r\nعارم که نخواهی که کنم با تو وصال\r\nعودم که کنی مرا به آتش بی هال\r\nعیدم که به من قصد کنی سال به سال",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عیبم که ز من زمانی ای مشکین خال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عارم که نخواهی که کنم با تو وصال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عودم که کنی مرا به آتش بی هال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیدم که به من قصد کنی سال به سال",
+      "CoupletIndex": 1
+    }
+  ]
+}

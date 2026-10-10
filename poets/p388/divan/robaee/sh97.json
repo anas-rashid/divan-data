@@ -1,0 +1,57 @@
+{
+  "Id": 29704,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/p388/divan/robaee/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دامی ز نماز گرد خود بافته‌ام\r\nخود را ز میان آن برون یافته‌ام\r\nاز توبه اگر توبه کنم نیست عجب\r\nدر توبه ز توبه روی برتافته‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دامی ز نماز گرد خود بافته‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را ز میان آن برون یافته‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از توبه اگر توبه کنم نیست عجب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در توبه ز توبه روی برتافته‌ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

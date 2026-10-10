@@ -1,0 +1,42 @@
+{
+  "Id": 26095,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زد غوطه بس که در تن خاکی روان ما\r\nگردید رفته رفته زمین آسمان ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زد غوطه بس که در تن خاکی روان ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردید رفته رفته زمین آسمان ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

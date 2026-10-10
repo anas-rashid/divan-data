@@ -1,0 +1,105 @@
+{
+  "Id": 27471,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۶۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۶۳",
+  "FullUrl": "/p386/ghazalor/sh63",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh63",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آتشین لالهٔ دل صد ورق است\r\nهر ورق مائدهٔ صد طبق است\r\nعشق می‌گویم و می‌گریم زار\r\nطفل نادانم و اول سبق است\r\nحرف مقصود نمی‌ریزد از او\r\nخامهٔ طالع من تنگ شق است\r\nگل غم زآتش من می‌جوشد\r\nشیشهٔ دل ز غمش پر عرق است\r\nاز کتابی که منش در خواندم\r\nلوح محفوظ نخستین ورق است\r\nعرفی ار عیب تو گفتیم مرنج\r\nهرچه در حق تو گویند حق است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتشین لالهٔ دل صد ورق است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر ورق مائدهٔ صد طبق است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق می‌گویم و می‌گریم زار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طفل نادانم و اول سبق است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حرف مقصود نمی‌ریزد از او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خامهٔ طالع من تنگ شق است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گل غم زآتش من می‌جوشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شیشهٔ دل ز غمش پر عرق است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از کتابی که منش در خواندم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لوح محفوظ نخستین ورق است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی ار عیب تو گفتیم مرنج",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هرچه در حق تو گویند حق است",
+      "CoupletIndex": 5
+    }
+  ]
+}

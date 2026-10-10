@@ -1,0 +1,93 @@
+{
+  "Id": 33972,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۴۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۴۵",
+  "FullUrl": "/p392/ghazal-hz/sh545",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh545",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مزد تردستی فرهاد رسید آخر کار\r\nبازوی تیشه به فریاد رسید آخر کار\r\nعشق درکشتن عشاق، مدارا می کرد\r\nتیغ ناز تو به امداد رسید آخر کار\r\nعاقبت کلبه ما جنت جاویدان شد\r\nغم عشقت به دل شاد رسید آخر کار\r\nجان به کف، وحشی ما داشت به ره چشم امید\r\nتیغ بی رحمی صیّاد رسید آخر کار\r\nناله های من مخمور، اثر داشت حزین\r\nغلغل شیشه به فریاد رسید آخر کار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مزد تردستی فرهاد رسید آخر کار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازوی تیشه به فریاد رسید آخر کار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق درکشتن عشاق، مدارا می کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغ ناز تو به امداد رسید آخر کار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عاقبت کلبه ما جنت جاویدان شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غم عشقت به دل شاد رسید آخر کار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جان به کف، وحشی ما داشت به ره چشم امید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تیغ بی رحمی صیّاد رسید آخر کار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ناله های من مخمور، اثر داشت حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غلغل شیشه به فریاد رسید آخر کار",
+      "CoupletIndex": 4
+    }
+  ]
+}

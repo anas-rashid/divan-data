@@ -1,0 +1,105 @@
+{
+  "Id": 31091,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۴",
+  "FullUrl": "/p390/divan/ghazal/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد نشان خاک مرا از اثر عصیان است\r\nیکی از جمله ی آنها گل نافرمان است\r\nزان درین بحر خموشند حقایق دانان\r\nکه حبابی چو برآورد نفس، طوفان است\r\nذوقی از دیدن معشوق به دلگیری نیست\r\nغنچه در چاک قفس، قفل در زندان است\r\nباخبر باش فریبت ندهد ای زاهد\r\nمی دود در رگ و پی، دختر رز شیطان است!\r\nکام دل جلوه گر و دست تصرف کوتاه\r\nنفس ما همچو سگ خانه ی آهوبان است\r\nچهره گلگون نکند جز می انگور، سلیم\r\nرگ تاک است که در هند خطابش پان است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد نشان خاک مرا از اثر عصیان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکی از جمله ی آنها گل نافرمان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان درین بحر خموشند حقایق دانان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که حبابی چو برآورد نفس، طوفان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ذوقی از دیدن معشوق به دلگیری نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غنچه در چاک قفس، قفل در زندان است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "باخبر باش فریبت ندهد ای زاهد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "می دود در رگ و پی، دختر رز شیطان است!",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کام دل جلوه گر و دست تصرف کوتاه",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نفس ما همچو سگ خانه ی آهوبان است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چهره گلگون نکند جز می انگور، سلیم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "رگ تاک است که در هند خطابش پان است",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30797,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۴۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۴۰",
+  "FullUrl": "/p389/robghm/sh540",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh540",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر ماه کنم گر ز سر شوق، نگاه\r\nبر کس نفتد ز سرکشی پرتو ماه\r\nاز خانه برون نیاید از ناز، اگر\r\nچون صبح بر آفتاب گیرم سر راه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر ماه کنم گر ز سر شوق، نگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر کس نفتد ز سرکشی پرتو ماه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خانه برون نیاید از ناز، اگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون صبح بر آفتاب گیرم سر راه",
+      "CoupletIndex": 1
+    }
+  ]
+}

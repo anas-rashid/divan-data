@@ -1,0 +1,57 @@
+{
+  "Id": 30502,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۴۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۴۵",
+  "FullUrl": "/p389/robghm/sh245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر ذات مگو به ذات جاوید رسد\r\nهر سایه کجا به سایه بید رسد\r\nدر پرتو مهر، ذره گردد موجود\r\nاما نتواند که به خورشید رسد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر ذات مگو به ذات جاوید رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سایه کجا به سایه بید رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در پرتو مهر، ذره گردد موجود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما نتواند که به خورشید رسد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 26855,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh249",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh249",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکه تازان جنون چون روی در هامون کنند\r\nخاکها در کاسه بی ظرفی مجنون کنند\r\nبلبلان سوگند بر سی پاره گل خورده اند\r\nکز گلستان شبنم گستاخ را بیرون کنند!\r\nحیرتی دارم که چون در روزگار زلف او\r\nرسم گردیده است مردم شکوه از گردون کنند\r\nسرخ رویی لازم دیبای شرم افتاده است\r\nزین سبب پیراهن فانوس را گلگون کنند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکه تازان جنون چون روی در هامون کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاکها در کاسه بی ظرفی مجنون کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبلان سوگند بر سی پاره گل خورده اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز گلستان شبنم گستاخ را بیرون کنند!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حیرتی دارم که چون در روزگار زلف او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رسم گردیده است مردم شکوه از گردون کنند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرخ رویی لازم دیبای شرم افتاده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زین سبب پیراهن فانوس را گلگون کنند",
+      "CoupletIndex": 3
+    }
+  ]
+}

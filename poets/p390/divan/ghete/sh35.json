@@ -1,0 +1,57 @@
+{
+  "Id": 31973,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۳۵ - هجو خواجه حسن",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۳۵ - هجو خواجه حسن",
+  "FullUrl": "/p390/divan/ghete/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با هرکه نشنید نفسی، خواجه حسن را\r\nاز گاو و ز گوساله ی خود، گفت و شنید است\r\nاز بس که سیاهی زند از ماست به مردم\r\nباور نکنم گوید اگر ماست سفید است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با هرکه نشنید نفسی، خواجه حسن را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گاو و ز گوساله ی خود، گفت و شنید است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که سیاهی زند از ماست به مردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باور نکنم گوید اگر ماست سفید است",
+      "CoupletIndex": 1
+    }
+  ]
+}

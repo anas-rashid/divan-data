@@ -1,8 +1,8 @@
 {
   "SchemaVersion": 1,
-  "GeneratedAtUtc": "2026-10-10T18:41:07Z",
-  "PoetsCount": 382,
-  "PoemsCount": 14703,
+  "GeneratedAtUtc": "2026-10-10T18:59:06Z",
+  "PoetsCount": 396,
+  "PoemsCount": 38831,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
     "Poet": "poets/{poetSlug}/poet.json",
@@ -1922,6 +1922,76 @@
       "Id": 383,
       "Nickname": "یوسف ظفر",
       "FullUrl": "/p383"
+    },
+    {
+      "Id": 384,
+      "Nickname": "بیدل دہلوی",
+      "FullUrl": "/p384"
+    },
+    {
+      "Id": 385,
+      "Nickname": "صائب",
+      "FullUrl": "/p385"
+    },
+    {
+      "Id": 386,
+      "Nickname": "عرفی",
+      "FullUrl": "/p386"
+    },
+    {
+      "Id": 387,
+      "Nickname": "کلیم",
+      "FullUrl": "/p387"
+    },
+    {
+      "Id": 388,
+      "Nickname": "نظیری نیشابوری",
+      "FullUrl": "/p388"
+    },
+    {
+      "Id": 389,
+      "Nickname": "قدسی مشہدی",
+      "FullUrl": "/p389"
+    },
+    {
+      "Id": 390,
+      "Nickname": "سلیم تہرانی",
+      "FullUrl": "/p390"
+    },
+    {
+      "Id": 391,
+      "Nickname": "جویای تبریزی",
+      "FullUrl": "/p391"
+    },
+    {
+      "Id": 392,
+      "Nickname": "حزین لاہیجی",
+      "FullUrl": "/p392"
+    },
+    {
+      "Id": 393,
+      "Nickname": "واقف لاہوری",
+      "FullUrl": "/p393"
+    },
+    {
+      "Id": 394,
+      "Nickname": "غنی کشمیری",
+      "FullUrl": "/p394"
+    },
+    {
+      "Id": 395,
+      "Nickname": "مسعود سعد سلمان",
+      "FullUrl": "/p395"
+    },
+    {
+      "Id": 396,
+      "Nickname": "ہجویری",
+      "FullUrl": "/p396"
+    },
+    {
+      "Id": 397,
+      "Nickname": "سلطان باہو",
+      "FullUrl": "/p397"
     }
   ]
 }

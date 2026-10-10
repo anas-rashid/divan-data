@@ -1,0 +1,42 @@
+{
+  "Id": 26586,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh498",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh498",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجا سرپنجه خورشید گیرد جای دست تو؟\r\nبه غیر از بهله دستی نیست بر بالای دست تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجا سرپنجه خورشید گیرد جای دست تو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به غیر از بهله دستی نیست بر بالای دست تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

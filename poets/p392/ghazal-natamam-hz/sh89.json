@@ -1,0 +1,54 @@
+{
+  "Id": 34748,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۸۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه شد مهر جهان‌آرای من، آن گرم‌جوشی‌ها\r\nخوشا عهدی که با ما داشتی، پیمانه‌نوشی‌ها\r\nلباس پنبه، داغ لاله را در بر نمی‌باشد\r\nز عاشق‌فطرتان، هرگز نیاید پرده‌پوشی‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه شد مهر جهان‌آرای من، آن گرم‌جوشی‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشا عهدی که با ما داشتی، پیمانه‌نوشی‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لباس پنبه، داغ لاله را در بر نمی‌باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز عاشق‌فطرتان، هرگز نیاید پرده‌پوشی‌ها",
+      "CoupletIndex": 1
+    }
+  ]
+}

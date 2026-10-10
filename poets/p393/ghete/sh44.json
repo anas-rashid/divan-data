@@ -1,0 +1,54 @@
+{
+  "Id": 36524,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۴",
+  "FullUrl": "/p393/ghete/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشک مرا پیام کسی بی‌قرار ساخت\r\nاین آب را نسیم عجب موج‌دار ساخت\r\nفردا جواب خون شهیدان چه می‌دهد\r\nآهن‌دلی که تیغ تو را آبدار ساخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشک مرا پیام کسی بی‌قرار ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این آب را نسیم عجب موج‌دار ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فردا جواب خون شهیدان چه می‌دهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آهن‌دلی که تیغ تو را آبدار ساخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

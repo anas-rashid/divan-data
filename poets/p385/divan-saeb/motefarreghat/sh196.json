@@ -1,0 +1,57 @@
+{
+  "Id": 26802,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی تو بر من شش جهت چون خانه زنبور شد\r\nچار دیوار عناصر تنگنای گور شد\r\nاز سر مشق جنون افتاده بودم سالها\r\nنوخطی دیدم که داغ کهنه ام ناسور شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تو بر من شش جهت چون خانه زنبور شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چار دیوار عناصر تنگنای گور شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سر مشق جنون افتاده بودم سالها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوخطی دیدم که داغ کهنه ام ناسور شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

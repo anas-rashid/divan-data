@@ -1,0 +1,57 @@
+{
+  "Id": 30870,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۳",
+  "FullUrl": "/p389/robghm/sh613",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh613",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "محروم ز وصل یار بودن تا کی\r\nنومید و امیدوار بودن تا کی\r\nبی نشئه، گل خمار چیدن تا چند\r\nبی وعده در انتظار بودن تا کی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "محروم ز وصل یار بودن تا کی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نومید و امیدوار بودن تا کی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی نشئه، گل خمار چیدن تا چند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی وعده در انتظار بودن تا کی",
+      "CoupletIndex": 1
+    }
+  ]
+}

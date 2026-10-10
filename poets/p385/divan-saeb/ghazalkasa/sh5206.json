@@ -1,0 +1,93 @@
+{
+  "Id": 24279,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۲۰۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۲۰۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5206",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5206",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زخم ما را بستر آرام باشد از نمک\r\nسرمه خواب کباب خام باشد از نمک\r\nاز ملاحت آن لب میگون چنین نازک شده است\r\nآب می گردد ز می چون جام باشد از نمک\r\nدلپذیر از عشق شورانگیز شد خوان زمین\r\nسفره خوش آغار و خوش انجام باشد از نمک\r\nغفلت بیدرد می گردد زیاد از حرف تلخ\r\nبستر خواب کباب خام باشد از نمک\r\nاز نمک شیرین شود صائب اگر بادام تلخ\r\nتلخی آن چشم چون بادام باشد از نمک",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زخم ما را بستر آرام باشد از نمک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمه خواب کباب خام باشد از نمک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ملاحت آن لب میگون چنین نازک شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب می گردد ز می چون جام باشد از نمک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلپذیر از عشق شورانگیز شد خوان زمین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سفره خوش آغار و خوش انجام باشد از نمک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غفلت بیدرد می گردد زیاد از حرف تلخ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بستر خواب کباب خام باشد از نمک",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از نمک شیرین شود صائب اگر بادام تلخ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تلخی آن چشم چون بادام باشد از نمک",
+      "CoupletIndex": 4
+    }
+  ]
+}

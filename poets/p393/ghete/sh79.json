@@ -1,0 +1,54 @@
+{
+  "Id": 36559,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۹",
+  "FullUrl": "/p393/ghete/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر سر داغم که هم با شمع ماند هم به گل\r\nدر میان بلبل و پروانه جنگ افتاده است\r\nگریه‌ام صد رنگ دارد زان سبب چون رنگریز\r\nداغ‌ها بر دامن من رنگ رنگ افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سر داغم که هم با شمع ماند هم به گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در میان بلبل و پروانه جنگ افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریه‌ام صد رنگ دارد زان سبب چون رنگریز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داغ‌ها بر دامن من رنگ رنگ افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

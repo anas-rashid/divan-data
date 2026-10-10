@@ -1,0 +1,93 @@
+{
+  "Id": 27540,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۳۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۳۲",
+  "FullUrl": "/p386/ghazalor/sh132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل حدیث صبر شنیدن ز بهر چیست\r\nزهر است در پیاله، چشیدن ز بهر چیست\r\nای عیش غم که مرهم آسایش منی\r\n در زخم سینه نرم خلیدن ز بهر چیست\r\nکشت وفا عزیز تر است ای نسیم وصل\r\nچندین به شوره زار وزیدن ز بهر چیست\r\nاین دشت را سموم نسیم است و شعله آب\r\nاین سبزه را امید دمیدن ز بهر چیست\r\nعرفی خمار عشق عذابی است بس الیم\r\nجامی بکش، عذاب کشیدن ز بهر چیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل حدیث صبر شنیدن ز بهر چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهر است در پیاله، چشیدن ز بهر چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عیش غم که مرهم آسایش منی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": " در زخم سینه نرم خلیدن ز بهر چیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کشت وفا عزیز تر است ای نسیم وصل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چندین به شوره زار وزیدن ز بهر چیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این دشت را سموم نسیم است و شعله آب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این سبزه را امید دمیدن ز بهر چیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی خمار عشق عذابی است بس الیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جامی بکش، عذاب کشیدن ز بهر چیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

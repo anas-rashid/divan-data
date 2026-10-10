@@ -1,0 +1,66 @@
+{
+  "Id": 37401,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۱۶",
+  "FullUrl": "/p394/ghazal/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چسان کنم دم بسمل بلند افغان را\r\nز سرمه کرد سیه تاب تیغ مژگان را\r\nکدام باز ندانم در آشیان بندیست\r\nکه هست حکم پر کاه بال مرغان را\r\nغنی ز فاقه چو بندیم بر شکم سنگی\r\nگمان برند که داریم در بغل نان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چسان کنم دم بسمل بلند افغان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز سرمه کرد سیه تاب تیغ مژگان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کدام باز ندانم در آشیان بندیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که هست حکم پر کاه بال مرغان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غنی ز فاقه چو بندیم بر شکم سنگی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گمان برند که داریم در بغل نان را",
+      "CoupletIndex": 2
+    }
+  ]
+}

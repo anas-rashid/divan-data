@@ -1,0 +1,42 @@
+{
+  "Id": 26118,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیوه چشم کبود از چشم ها دلکشترست\r\nخانه چینی نما را آب و تاب دیگرست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیوه چشم کبود از چشم ها دلکشترست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خانه چینی نما را آب و تاب دیگرست",
+      "CoupletIndex": 0
+    }
+  ]
+}

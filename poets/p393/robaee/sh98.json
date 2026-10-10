@@ -1,0 +1,54 @@
+{
+  "Id": 37270,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/p393/robaee/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اهل ملتان که بی‌شعوری چندند\r\nاز راه خود فتاده دوری چندند\r\nاز بی‌بصری طوف مزارات کنند\r\nکوری چنداند گردگوری چندند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اهل ملتان که بی‌شعوری چندند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از راه خود فتاده دوری چندند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بی‌بصری طوف مزارات کنند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوری چنداند گردگوری چندند",
+      "CoupletIndex": 1
+    }
+  ]
+}

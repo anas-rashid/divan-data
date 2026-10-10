@@ -1,0 +1,42 @@
+{
+  "Id": 26108,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روز در جام می آویز که در شب می ناب\r\nهمچو آبی است که لب تشنه بنوشد در خواب",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روز در جام می آویز که در شب می ناب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو آبی است که لب تشنه بنوشد در خواب",
+      "CoupletIndex": 0
+    }
+  ]
+}

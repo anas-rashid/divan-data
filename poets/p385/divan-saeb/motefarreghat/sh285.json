@@ -1,0 +1,45 @@
+{
+  "Id": 26891,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۸۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۸۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh285",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh285",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه لاله (است) این که پای بیستون را در حنا دارد\r\nدل سنگ از برای ماتم فرهاد می سوزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه لاله (است) این که پای بیستون را در حنا دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل سنگ از برای ماتم فرهاد می سوزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

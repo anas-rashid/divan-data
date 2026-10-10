@@ -1,0 +1,57 @@
+{
+  "Id": 30720,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۶۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۶۳",
+  "FullUrl": "/p389/robghm/sh463",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh463",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بس که فسرد از نفس سرد، تنم\r\nدر پیراهن، چو مرده‌ای در کفنم\r\nاین طرفه که لب نبندم از خنده چو گل\r\nبا آنکه چو غنچه، مرده خون در بدم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس که فسرد از نفس سرد، تنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پیراهن، چو مرده‌ای در کفنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این طرفه که لب نبندم از خنده چو گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آنکه چو غنچه، مرده خون در بدم",
+      "CoupletIndex": 1
+    }
+  ]
+}

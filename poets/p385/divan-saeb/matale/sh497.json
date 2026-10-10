@@ -1,0 +1,42 @@
+{
+  "Id": 26585,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh497",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh497",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکی صد شد ز خط کیفیت چشم خراب تو\r\nمگر خط می کند بیهوشدارو در شراب تو؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکی صد شد ز خط کیفیت چشم خراب تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگر خط می کند بیهوشدارو در شراب تو؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

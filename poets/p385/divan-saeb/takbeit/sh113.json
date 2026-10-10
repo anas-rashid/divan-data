@@ -1,0 +1,45 @@
+{
+  "Id": 17644,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌شوم گل، در گریبان خار می‌افتد مرا\r\nغنچه می‌گردم، گره در کار می‌افتد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌شوم گل، در گریبان خار می‌افتد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه می‌گردم، گره در کار می‌افتد مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 31982,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۴۴ - هرچند که تاجریم ای غیر",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۴۴ - هرچند که تاجریم ای غیر",
+  "FullUrl": "/p390/divan/ghete/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند که تاجریم ای غیر\r\nما هر دو درین فسرده بازار\r\nفرق است میان ما، که داریم\r\nمن آینه و تو شیشه دربار",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند که تاجریم ای غیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما هر دو درین فسرده بازار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرق است میان ما، که داریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من آینه و تو شیشه دربار",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30828,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۷۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۷۱",
+  "FullUrl": "/p389/robghm/sh571",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh571",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همت طلبی، به تربت مجنون آی\r\nبا دیده نمناک و دل پرخون آی\r\nخواهی نگذاری دل پروانه ز دست\r\nدر خانه چراغ بر کن و بیرون آی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همت طلبی، به تربت مجنون آی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دیده نمناک و دل پرخون آی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهی نگذاری دل پروانه ز دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانه چراغ بر کن و بیرون آی",
+      "CoupletIndex": 1
+    }
+  ]
+}

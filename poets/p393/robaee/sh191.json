@@ -1,0 +1,54 @@
+{
+  "Id": 37363,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۱",
+  "FullUrl": "/p393/robaee/sh191",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh191",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از مستی خویشتن بسی شرمنده\r\nدل خورده دماغ سوخته جان کنده\r\nگه گریه به حال خود کند گه خنده\r\nمحنت‌کش روزگار یعنی بنده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از مستی خویشتن بسی شرمنده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل خورده دماغ سوخته جان کنده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه گریه به حال خود کند گه خنده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محنت‌کش روزگار یعنی بنده",
+      "CoupletIndex": 1
+    }
+  ]
+}

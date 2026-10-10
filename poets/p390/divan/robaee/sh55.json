@@ -1,0 +1,57 @@
+{
+  "Id": 32053,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/p390/divan/robaee/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکس درِ کینه زد، دل‌آزاری دید\r\nاز کرده‌ی خویشتن بسی خواری دید\r\nنرمی ست علاج کینه‌ی سخت‌دلان\r\nهموار شود سیل چو همواری دید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس درِ کینه زد، دل‌آزاری دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کرده‌ی خویشتن بسی خواری دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نرمی ست علاج کینه‌ی سخت‌دلان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هموار شود سیل چو همواری دید",
+      "CoupletIndex": 1
+    }
+  ]
+}

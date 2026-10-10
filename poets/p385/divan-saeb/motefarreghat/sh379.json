@@ -1,0 +1,57 @@
+{
+  "Id": 26985,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh379",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh379",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق چون شعله کشد اشک دمادم چه کند؟\r\nپیش خورشید صف آرایی شبنم چه کند؟\r\nاز جگر تشنگیم ریگ روان سیراب است\r\nبا چو من سوخته ای چشمه زمزم چه کند؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق چون شعله کشد اشک دمادم چه کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش خورشید صف آرایی شبنم چه کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جگر تشنگیم ریگ روان سیراب است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با چو من سوخته ای چشمه زمزم چه کند؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

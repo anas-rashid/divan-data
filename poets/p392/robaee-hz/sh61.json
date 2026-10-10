@@ -1,0 +1,57 @@
+{
+  "Id": 34456,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/p392/robaee-hz/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن دیده، که بازاری عشاقش خوست\r\nروی طلب راه نوردان با اوست\r\nپرسید که: مِن اَینَ اِلی اینَ تَروحُ\r\nگفتم از دوست، هم روم باز به دوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دیده، که بازاری عشاقش خوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی طلب راه نوردان با اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرسید که: مِن اَینَ اِلی اینَ تَروحُ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتم از دوست، هم روم باز به دوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

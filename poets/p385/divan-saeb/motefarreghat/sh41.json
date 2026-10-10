@@ -1,0 +1,69 @@
+{
+  "Id": 26647,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لعل از کان بدخشان، گوهر از عمان طلب\r\nگنج از ویران، حضور دل ز درویشان طلب\r\nنیست نعمت را درین دریای بی پایان حساب\r\nچون صدف از عالم بالا همین دندان طلب\r\nمی کند کار نمک دَر  مَی، تکلف در سلوک\r\nخانه را پاک از تکلف کن دگر مهمان طلب",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لعل از کان بدخشان، گوهر از عمان طلب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گنج از ویران، حضور دل ز درویشان طلب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست نعمت را درین دریای بی پایان حساب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون صدف از عالم بالا همین دندان طلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می کند کار نمک دَر  مَی، تکلف در سلوک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خانه را پاک از تکلف کن دگر مهمان طلب",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37692,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مهر تو چون چهار طبع اندر خور\r\nوز پنج نماز شکر تو واجب تر\r\nای دشمن تو بمانده اندر ششدر\r\nزیر قدمت باد سر هفت اختر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مهر تو چون چهار طبع اندر خور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز پنج نماز شکر تو واجب تر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دشمن تو بمانده اندر ششدر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیر قدمت باد سر هفت اختر",
+      "CoupletIndex": 1
+    }
+  ]
+}

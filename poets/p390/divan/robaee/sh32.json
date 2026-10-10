@@ -1,0 +1,57 @@
+{
+  "Id": 32030,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/p390/divan/robaee/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوروز شد و زد به گلستان ز فرح\r\nطاووس بهار، چتر از قوس قزح\r\nدر بزم ز جوش گل ز بس جای نماند\r\nاستاده چو لاله بر سر پای، قدح",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوروز شد و زد به گلستان ز فرح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طاووس بهار، چتر از قوس قزح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بزم ز جوش گل ز بس جای نماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "استاده چو لاله بر سر پای، قدح",
+      "CoupletIndex": 1
+    }
+  ]
+}

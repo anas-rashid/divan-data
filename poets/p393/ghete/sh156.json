@@ -1,0 +1,54 @@
+{
+  "Id": 36636,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۶",
+  "FullUrl": "/p393/ghete/sh156",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh156",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شنیدم تا حدیث خوبیت مشتاق گردیدم\r\nچو دیدم روی نیکوی تو از عشاق گردیدم\r\nبگیر از دفتر دل حال آسایش که من عمری\r\nبه آیینی که بایستی برین اوراق گردیدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شنیدم تا حدیث خوبیت مشتاق گردیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو دیدم روی نیکوی تو از عشاق گردیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگیر از دفتر دل حال آسایش که من عمری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به آیینی که بایستی برین اوراق گردیدم",
+      "CoupletIndex": 1
+    }
+  ]
+}

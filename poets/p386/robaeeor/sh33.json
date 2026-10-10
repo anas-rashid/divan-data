@@ -1,0 +1,57 @@
+{
+  "Id": 28076,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۳",
+  "FullUrl": "/p386/robaeeor/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "راهم ندهد سوی حرم زاهد زشت\r\nراند ز کنشت راهب نیک سرشت\r\nگر لذت خواریم بدانند، از رشک\r\nهم آن کشد به کعبه، هم این به کنشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "راهم ندهد سوی حرم زاهد زشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راند ز کنشت راهب نیک سرشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر لذت خواریم بدانند، از رشک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم آن کشد به کعبه، هم این به کنشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

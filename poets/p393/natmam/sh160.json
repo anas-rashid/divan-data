@@ -1,0 +1,66 @@
+{
+  "Id": 36311,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۶۰",
+  "FullUrl": "/p393/natmam/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بشنو که پیر دیر چه ارشاد می‌کند\r\nمی خور که می تو را فرح آباد می‌کند\r\nاز بسکه طبع یار مکرر پسند نیست\r\nهر لحظه جور تازه‌ای ایجاد می‌کند\r\nمشنو حدیث غیر گر از بنده نقل کرد\r\nاکثر دروغ خود به من اسناد می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بشنو که پیر دیر چه ارشاد می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می خور که می تو را فرح آباد می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بسکه طبع یار مکرر پسند نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر لحظه جور تازه‌ای ایجاد می‌کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مشنو حدیث غیر گر از بنده نقل کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اکثر دروغ خود به من اسناد می‌کند",
+      "CoupletIndex": 2
+    }
+  ]
+}

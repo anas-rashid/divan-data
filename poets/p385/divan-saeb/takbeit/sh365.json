@@ -1,0 +1,45 @@
+{
+  "Id": 17896,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۶۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۶۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh365",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh365",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با خیالِ خُشک، تا کِی، سَر به یک بالین نهَم؟\r\nدست در آغوش با تصویر کردن، مشکل است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خیالِ خُشک، تا کِی، سَر به یک بالین نهَم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست در آغوش با تصویر کردن، مشکل است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

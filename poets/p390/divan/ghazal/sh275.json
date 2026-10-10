@@ -1,0 +1,105 @@
+{
+  "Id": 31242,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۷۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۷۵",
+  "FullUrl": "/p390/divan/ghazal/sh275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا کی از سبوی می گزیر است\r\nکه در روز خمارم دستگیر است\r\nبه نامه چون نویسم راز دل را\r\nحدیثم شعله و کاغذ حریر است\r\nدل دیوانه ای در بند دارم\r\nنفس در سینه ام زنجیر شیر است\r\nز سودای دلم او را زیان نیست\r\nندانم از چه زلفش شانه گیر است\r\nغنی خوشدل شود از مرگ محتاج\r\nچو میرد تشنه ای، عید غدیر است\r\nسلیم انفاس او تأثیر دارد\r\nنسیم صبح، فرزند دو پیر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا کی از سبوی می گزیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در روز خمارم دستگیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به نامه چون نویسم راز دل را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حدیثم شعله و کاغذ حریر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل دیوانه ای در بند دارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نفس در سینه ام زنجیر شیر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز سودای دلم او را زیان نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ندانم از چه زلفش شانه گیر است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "غنی خوشدل شود از مرگ محتاج",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو میرد تشنه ای، عید غدیر است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سلیم انفاس او تأثیر دارد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نسیم صبح، فرزند دو پیر است",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 32241,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۴۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۴۹",
+  "FullUrl": "/p391/divan/ghazal/sh149",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh149",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در تن ز بسکه بی تو مرا یافت راه تاب\r\nدر سینه ام چو زلف تو برداشت آه تاب\r\nخوابانده ام به سرمه چو سوسن زبان خویش\r\nدر زنگ خامشی شده تیغم سیاه تاب\r\nبگرفت نور بدر نقاب کلفت به رو\r\nرفت از حجاب عارض او در پناه تاب\r\nطاقت رباست عشق ز جویا توان مجو\r\nنگذاشت با دل آن صنم کج کلاه تاب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در تن ز بسکه بی تو مرا یافت راه تاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سینه ام چو زلف تو برداشت آه تاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوابانده ام به سرمه چو سوسن زبان خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در زنگ خامشی شده تیغم سیاه تاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بگرفت نور بدر نقاب کلفت به رو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رفت از حجاب عارض او در پناه تاب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "طاقت رباست عشق ز جویا توان مجو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نگذاشت با دل آن صنم کج کلاه تاب",
+      "CoupletIndex": 3
+    }
+  ]
+}

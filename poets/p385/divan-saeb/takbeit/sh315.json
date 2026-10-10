@@ -1,0 +1,45 @@
+{
+  "Id": 17846,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۱۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۱۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh315",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh315",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "معیارِ دوستانِ دَغَل، روزِ حاجت است\r\nقرضی، به‌رَسمِ تجربه، از دوستان طلب",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معیارِ دوستانِ دَغَل، روزِ حاجت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قرضی، به‌رَسمِ تجربه، از دوستان طلب",
+      "CoupletIndex": 0
+    }
+  ]
+}

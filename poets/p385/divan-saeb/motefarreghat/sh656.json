@@ -1,0 +1,57 @@
+{
+  "Id": 27262,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۵۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۵۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh656",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh656",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در گریه چشم افشک فشان را ندیده ای\r\nفصل بهار لاله ستان را ندیده ای\r\nای عندلیب این همه تعریف گل مکن\r\nتو حسن نیمرنگ خزان را ندیده ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در گریه چشم افشک فشان را ندیده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فصل بهار لاله ستان را ندیده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عندلیب این همه تعریف گل مکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو حسن نیمرنگ خزان را ندیده ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

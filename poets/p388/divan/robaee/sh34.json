@@ -1,0 +1,57 @@
+{
+  "Id": 29641,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/p388/divan/robaee/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دایم به رهت در دو چشمم بازست\r\nصد تحفه ام از نیاز پااندازست\r\nپیش آی و به مهر دانه عشوه بریز\r\nپر تیز مرو که روح در پروازست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دایم به رهت در دو چشمم بازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد تحفه ام از نیاز پااندازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش آی و به مهر دانه عشوه بریز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر تیز مرو که روح در پروازست",
+      "CoupletIndex": 1
+    }
+  ]
+}

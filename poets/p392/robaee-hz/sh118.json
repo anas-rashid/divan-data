@@ -1,0 +1,57 @@
+{
+  "Id": 34513,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۱۸",
+  "FullUrl": "/p392/robaee-hz/sh118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سامانی و ثروتی نشد جمع، چه شد؟\r\nبازیچهٔ دولتی نشد جمع، چه شد؟\r\nگر عاقلی، از فقر پریشان نشوی\r\nسرمایهٔ حسرتی نشد جمع، چه شد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سامانی و ثروتی نشد جمع، چه شد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازیچهٔ دولتی نشد جمع، چه شد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عاقلی، از فقر پریشان نشوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرمایهٔ حسرتی نشد جمع، چه شد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32032,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/p390/divan/robaee/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای غمزه ی تو نهاده رسم بیداد\r\nمژگان تو خونریز چو تیغ جلاد\r\nاز داغ جدایی تو هفت اعضایم\r\nمچون نی هفت بند، دارد فریاد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای غمزه ی تو نهاده رسم بیداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگان تو خونریز چو تیغ جلاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از داغ جدایی تو هفت اعضایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مچون نی هفت بند، دارد فریاد",
+      "CoupletIndex": 1
+    }
+  ]
+}

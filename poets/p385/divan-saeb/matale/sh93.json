@@ -1,0 +1,42 @@
+{
+  "Id": 26181,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۹۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رخسار آتشین نپذیرد نقاب را\r\nمی سوزد آفتاب قیامت سحاب را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخسار آتشین نپذیرد نقاب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می سوزد آفتاب قیامت سحاب را",
+      "CoupletIndex": 0
+    }
+  ]
+}

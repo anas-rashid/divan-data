@@ -1,0 +1,57 @@
+{
+  "Id": 34514,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/p392/robaee-hz/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاهنشهی خلق جهان نتوان کرد\r\nحمّالی این بار گران نتوان کرد\r\nسر در ره این گنده کسان نتوان کرد\r\nپاکاری این کونِ خران نتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهنشهی خلق جهان نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حمّالی این بار گران نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر در ره این گنده کسان نتوان کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پاکاری این کونِ خران نتوان کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

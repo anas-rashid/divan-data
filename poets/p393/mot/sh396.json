@@ -1,0 +1,42 @@
+{
+  "Id": 37105,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۹۶",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۹۶",
+  "FullUrl": "/p393/mot/sh396",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh396",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با غیر تو را کنایه کردن\r\nظلم است صریح در حق من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با غیر تو را کنایه کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ظلم است صریح در حق من",
+      "CoupletIndex": 0
+    }
+  ]
+}

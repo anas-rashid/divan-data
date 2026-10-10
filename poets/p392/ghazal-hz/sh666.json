@@ -1,0 +1,93 @@
+{
+  "Id": 34093,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۶۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۶۶",
+  "FullUrl": "/p392/ghazal-hz/sh666",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh666",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به این بی‌طاقتی یارب به دنبال که می‌گریم؟\r\nچنین رنگین به یاد چهره آل که می‌گریم؟\r\nدرین بستان‌سرا در سایه سرو سرافرازی\r\nبه حسرت از غم کوتاهی بال که می‌گریم؟\r\nسراپا گشته‌ام یک چشم تر چون ابر و حیرانم\r\nبه این طوفان نمی‌دانم بر احوال که می‌گریم؟\r\nندیدم شمع را بیش از شبی هرگز فرو گرید\r\nمن آتش جگر یارب، به اقبال که می‌گریم؟\r\nحزین آماده شبگیر چون شمع سحرگاهی\r\nدرین محفل به حسرتزار آمال که می‌گریم؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به این بی‌طاقتی یارب به دنبال که می‌گریم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چنین رنگین به یاد چهره آل که می‌گریم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درین بستان‌سرا در سایه سرو سرافرازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به حسرت از غم کوتاهی بال که می‌گریم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سراپا گشته‌ام یک چشم تر چون ابر و حیرانم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به این طوفان نمی‌دانم بر احوال که می‌گریم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ندیدم شمع را بیش از شبی هرگز فرو گرید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "من آتش جگر یارب، به اقبال که می‌گریم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین آماده شبگیر چون شمع سحرگاهی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "درین محفل به حسرتزار آمال که می‌گریم؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

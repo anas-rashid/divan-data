@@ -1,0 +1,57 @@
+{
+  "Id": 33326,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/p391/divan/robaee/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صاحب صورت تا بری از معنی بود\r\nچشم حقیقت سبک و رسوا بود\r\nاهل معنی شکوهٔ دیگر دارند\r\nگر آینه می‌داشت تهی دریا بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صاحب صورت تا بری از معنی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم حقیقت سبک و رسوا بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اهل معنی شکوهٔ دیگر دارند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آینه می‌داشت تهی دریا بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 34700,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عتاب تلخ او شیرین کن جانهاست، مستان را\r\nنهان در پستهٔ او شکرستانهاست مستان را\r\nفزون از شانه، دارد سینه من چاک رسوایی\r\nچوگل در جیب عریانی، گریبانهاست مستان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عتاب تلخ او شیرین کن جانهاست، مستان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نهان در پستهٔ او شکرستانهاست مستان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فزون از شانه، دارد سینه من چاک رسوایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چوگل در جیب عریانی، گریبانهاست مستان را",
+      "CoupletIndex": 1
+    }
+  ]
+}

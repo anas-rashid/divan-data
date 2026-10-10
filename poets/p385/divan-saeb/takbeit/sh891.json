@@ -1,0 +1,45 @@
+{
+  "Id": 18422,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۹۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۹۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh891",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh891",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر آن رخسار نازک از نگاه تند می‌لرزم\r\nکه طفل شوخ، دست خالی از بستان نمی‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر آن رخسار نازک از نگاه تند می‌لرزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که طفل شوخ، دست خالی از بستان نمی‌آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 27113,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۰۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۰۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh507",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh507",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز کویت رفتم و الماس طاقت بر جگر بستم\r\nتو با اغیار خوش بنشین که من بار سفر بستم\r\nهمان بهتر که روگردان شوم از خیل مژگانش\r\nبه غیر از خون دل خوردن چه طرف از نیشتر بستم\r\nبه هر چوب قفس پیوند دیگر بود بالم را\r\nبه زور این قوت پرواز را بر بال و پر بستم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز کویت رفتم و الماس طاقت بر جگر بستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو با اغیار خوش بنشین که من بار سفر بستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همان بهتر که روگردان شوم از خیل مژگانش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به غیر از خون دل خوردن چه طرف از نیشتر بستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به هر چوب قفس پیوند دیگر بود بالم را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به زور این قوت پرواز را بر بال و پر بستم",
+      "CoupletIndex": 2
+    }
+  ]
+}

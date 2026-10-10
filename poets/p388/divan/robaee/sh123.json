@@ -1,0 +1,57 @@
+{
+  "Id": 29730,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/p388/divan/robaee/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فکری کنم و دهم سرانجام سخن\r\nشاداب کنم به مدح تو کام سخن\r\nفرمان تو زنده کرد اگر نام مرا\r\nمن زنده کنم به نام تو نام سخن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فکری کنم و دهم سرانجام سخن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاداب کنم به مدح تو کام سخن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرمان تو زنده کرد اگر نام مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من زنده کنم به نام تو نام سخن",
+      "CoupletIndex": 1
+    }
+  ]
+}

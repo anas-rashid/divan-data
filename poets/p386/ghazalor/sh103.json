@@ -1,0 +1,93 @@
+{
+  "Id": 27511,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۰۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۰۳",
+  "FullUrl": "/p386/ghazalor/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غمگساری در لباس دشمنی محبوبی است\r\nخشم و ناز آرایش بیرون و بزم خوبی است\r\nگر به سختی درد من ظاهر شود کاین اضطراب\r\nهم ترازوی متاع طاقت ایوبی است\r\nاز هوس آزادم اما آن چه دل را می گزد\r\nاشتیاق یوسفی و گریه ی یعقوبی است\r\nسدره ی آب و گلم پژمرده می گردد، ولی\r\nدر نهادم شعله را نشو نمای طوبی است\r\nشرح درد ما نباشد گفتن، ای عرفی خموش\r\nزحمت قاصد مده کاین داستان مکتوبی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمگساری در لباس دشمنی محبوبی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشم و ناز آرایش بیرون و بزم خوبی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر به سختی درد من ظاهر شود کاین اضطراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم ترازوی متاع طاقت ایوبی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از هوس آزادم اما آن چه دل را می گزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اشتیاق یوسفی و گریه ی یعقوبی است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سدره ی آب و گلم پژمرده می گردد، ولی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در نهادم شعله را نشو نمای طوبی است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شرح درد ما نباشد گفتن، ای عرفی خموش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زحمت قاصد مده کاین داستان مکتوبی است",
+      "CoupletIndex": 4
+    }
+  ]
+}

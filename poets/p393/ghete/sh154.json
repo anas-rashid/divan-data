@@ -1,0 +1,54 @@
+{
+  "Id": 36634,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۴",
+  "FullUrl": "/p393/ghete/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌توانم که دل از هر دو جهان بردارم\r\nنتوانم نظر از روی بتان بردارم\r\nپیشم آمد سفر عشق رفیقان خواهم\r\nمشت خاکی به خود از دیر مغان بردارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌توانم که دل از هر دو جهان بردارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نتوانم نظر از روی بتان بردارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیشم آمد سفر عشق رفیقان خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مشت خاکی به خود از دیر مغان بردارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

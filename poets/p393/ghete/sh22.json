@@ -1,0 +1,54 @@
+{
+  "Id": 36502,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۲",
+  "FullUrl": "/p393/ghete/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غزالی آفت آرام من شد از رمیدن‌ها\r\nقیامت می‌کند در سینهٔ من دل‌تپیدن‌ها\r\nتو بودی باعث شور جنون من مگر امشب\r\nصدای خندهٔ گل داشت پیراهن دریدن‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غزالی آفت آرام من شد از رمیدن‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قیامت می‌کند در سینهٔ من دل‌تپیدن‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو بودی باعث شور جنون من مگر امشب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صدای خندهٔ گل داشت پیراهن دریدن‌ها",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31697,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۳۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۳۰",
+  "FullUrl": "/p390/divan/ghazal/sh730",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh730",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سرم کی می رود هرگز برون سودای داغ\r\nهمچو لاله در دلم گرم است دایم جای داغ\r\nهمچو آن منعم که او زر بر سر زر می نهد\r\nدر محبت می گذارم داغ بر بالای داغ\r\nسبزه ای هرگز ز خاک عاشقان سر برنزد\r\nمو نمی روید ازان عضوی که باشد جای داغ\r\nبر سر هرکس گلی دیدم در ایام بهار\r\nدر سر شوریده ی من تازه شد سودای داغ\r\nدر کمال من ندارد هیچ کس حرفی سلیم\r\nمعجز عشق است در دستم ید بیضای داغ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سرم کی می رود هرگز برون سودای داغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو لاله در دلم گرم است دایم جای داغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچو آن منعم که او زر بر سر زر می نهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در محبت می گذارم داغ بر بالای داغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سبزه ای هرگز ز خاک عاشقان سر برنزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مو نمی روید ازان عضوی که باشد جای داغ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر سر هرکس گلی دیدم در ایام بهار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در سر شوریده ی من تازه شد سودای داغ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در کمال من ندارد هیچ کس حرفی سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "معجز عشق است در دستم ید بیضای داغ",
+      "CoupletIndex": 4
+    }
+  ]
+}

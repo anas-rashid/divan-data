@@ -1,0 +1,57 @@
+{
+  "Id": 28915,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/p387/divan/robaee/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افسوس که جمعیت از احوالم رفت\r\nشیرازه اوراق مه و سالم رفت\r\nمن بلبل بینوایم از بی برگی\r\nهم گلشن رفت و هم پر و بالم رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که جمعیت از احوالم رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شیرازه اوراق مه و سالم رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بلبل بینوایم از بی برگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم گلشن رفت و هم پر و بالم رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

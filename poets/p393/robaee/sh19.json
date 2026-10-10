@@ -1,0 +1,54 @@
+{
+  "Id": 37191,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹",
+  "FullUrl": "/p393/robaee/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پروای رخ زرد کسی نیست\r\nباکی ز دم سر کسی نیست تو را\r\nنی رحم به دل کنی و نی لطف به جان\r\nبی‌درد کسی درد کسی نیست تو را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پروای رخ زرد کسی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باکی ز دم سر کسی نیست تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی رحم به دل کنی و نی لطف به جان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌درد کسی درد کسی نیست تو را",
+      "CoupletIndex": 1
+    }
+  ]
+}

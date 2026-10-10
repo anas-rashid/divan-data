@@ -1,0 +1,54 @@
+{
+  "Id": 34807,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh148",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh148",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نقاب آنجا که از رخسارهٔ جانانه برخیزد\r\nبرهمن از سر بت، گبر زآتشخانه برخیزد\r\nبه یک رنگی ز بس خو کرده ام، در کعبه گر میرم\r\nخروش دلخراش شیون، از بتخانه برخیزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نقاب آنجا که از رخسارهٔ جانانه برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برهمن از سر بت، گبر زآتشخانه برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به یک رنگی ز بس خو کرده ام، در کعبه گر میرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خروش دلخراش شیون، از بتخانه برخیزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

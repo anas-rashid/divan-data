@@ -1,0 +1,93 @@
+{
+  "Id": 21800,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۷۲۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۷۲۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2727",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2727",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک دل روشن نگهبان جهانی می‌شود\r\nعصمت یوسف حصار کاروانی می‌شود\r\nقطره تا دارد نظر بر خویش گرداب فناست\r\nاز خودی چون رست بحر بیکرانی می‌شود\r\nنفس ظالم می‌شود مظلوم در پیرانه‌سر\r\nگرگ چون گردید بی‌دندان، شبانی می‌شود\r\nهرکه را بینم سری دارد به پای یار خویش\r\nاز برای تیر آه من کمانی می‌شود\r\nشبنمی سیراب می‌سازد گل نم‌دیده را\r\nبوی می صائب مرا رطل گرانی می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک دل روشن نگهبان جهانی می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عصمت یوسف حصار کاروانی می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قطره تا دارد نظر بر خویش گرداب فناست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خودی چون رست بحر بیکرانی می‌شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نفس ظالم می‌شود مظلوم در پیرانه‌سر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گرگ چون گردید بی‌دندان، شبانی می‌شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هرکه را بینم سری دارد به پای یار خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از برای تیر آه من کمانی می‌شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شبنمی سیراب می‌سازد گل نم‌دیده را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بوی می صائب مرا رطل گرانی می‌شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

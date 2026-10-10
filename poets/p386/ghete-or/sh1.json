@@ -1,0 +1,54 @@
+{
+  "Id": 28168,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۱ - ذوق دریوزه!",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۱ - ذوق دریوزه!",
+  "FullUrl": "/p386/ghete-or/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه از آن دیر بخشد ایزد کام\r\nکه دهد جلوه کبریایی را\r\nزان توقف کند که دریابی\r\nذوق در یوزه گدایی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه از آن دیر بخشد ایزد کام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دهد جلوه کبریایی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان توقف کند که دریابی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ذوق در یوزه گدایی را",
+      "CoupletIndex": 1
+    }
+  ]
+}

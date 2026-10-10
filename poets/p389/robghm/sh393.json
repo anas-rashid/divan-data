@@ -1,0 +1,57 @@
+{
+  "Id": 30650,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۹۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۹۳",
+  "FullUrl": "/p389/robghm/sh393",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh393",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیچاره خرد به سعی باشد مجبور\r\nکز جهل مرکب برهد نفس غیور\r\nآری هرجا خری برآرند از گِل\r\nصاحب خر را دو مرده زورست ضرور",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیچاره خرد به سعی باشد مجبور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز جهل مرکب برهد نفس غیور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آری هرجا خری برآرند از گِل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صاحب خر را دو مرده زورست ضرور",
+      "CoupletIndex": 1
+    }
+  ]
+}

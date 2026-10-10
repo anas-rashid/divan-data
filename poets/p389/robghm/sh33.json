@@ -1,0 +1,57 @@
+{
+  "Id": 30290,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/p389/robghm/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کرد قضا بنای این دیر خراب\r\nتاخیر به کار راستان آمده باب\r\nگر راست روی، مکن به مقصود شتاب\r\nزیرا که رسد پای چپ اول به رکاب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کرد قضا بنای این دیر خراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تاخیر به کار راستان آمده باب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر راست روی، مکن به مقصود شتاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که رسد پای چپ اول به رکاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

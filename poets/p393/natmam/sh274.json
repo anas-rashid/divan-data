@@ -1,0 +1,66 @@
+{
+  "Id": 36425,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۷۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۷۴",
+  "FullUrl": "/p393/natmam/sh274",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh274",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر سر کوی تو پای من شکست\r\nخوب شد آنجا وطن می‌خواستم\r\nچشم حاسد کور گوشم گشته کر\r\nخلوتی در انجمن می‌خواستم\r\nضعف دل امشب ز کارم برده بود\r\nبوی آن سیب ذقن می‌خواستم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سر کوی تو پای من شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوب شد آنجا وطن می‌خواستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم حاسد کور گوشم گشته کر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خلوتی در انجمن می‌خواستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ضعف دل امشب ز کارم برده بود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوی آن سیب ذقن می‌خواستم",
+      "CoupletIndex": 2
+    }
+  ]
+}

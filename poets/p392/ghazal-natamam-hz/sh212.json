@@ -1,0 +1,69 @@
+{
+  "Id": 34871,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۱۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۱۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh212",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh212",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با سفلگان شراکت روزی، زیان بود\r\nسگ دشمن گدایی یک پاره نان بود\r\nدر بزم وصل، طاقت عاشق حریف نیست\r\nربط من و تو، صحبت ماه و کتان بود\r\nمکتوب من به کوی تو، طومار ناله ای ست\r\nمطلب نگار من، قلم استخوان بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با سفلگان شراکت روزی، زیان بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سگ دشمن گدایی یک پاره نان بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بزم وصل، طاقت عاشق حریف نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ربط من و تو، صحبت ماه و کتان بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مکتوب من به کوی تو، طومار ناله ای ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مطلب نگار من، قلم استخوان بود",
+      "CoupletIndex": 2
+    }
+  ]
+}

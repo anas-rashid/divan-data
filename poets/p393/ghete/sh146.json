@@ -1,0 +1,54 @@
+{
+  "Id": 36626,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۴۶",
+  "FullUrl": "/p393/ghete/sh146",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh146",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک صبح درآ از در و جانانهٔ ما باش\r\nآباد کن خانهٔ ویرانهٔ ما باش\r\nمی‌گفت به من زلف تو دوش از سر سودا\r\nما سلسله داریم تو دیوانهٔ ما باش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک صبح درآ از در و جانانهٔ ما باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آباد کن خانهٔ ویرانهٔ ما باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌گفت به من زلف تو دوش از سر سودا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما سلسله داریم تو دیوانهٔ ما باش",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 27266,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۶۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۶۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh660",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh660",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبر مرا حواله به سیماب می کنی\r\nدلداری سفینه به گرداب می کنی\r\nما همچو داغ لاله سیه روزگار و تو\r\nسیر سمن فشانی مهتاب می کنی\r\nبیدار می کنند به آواز بوسه ات\r\nدر دامن فرشته اگر خواب می کنی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبر مرا حواله به سیماب می کنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلداری سفینه به گرداب می کنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما همچو داغ لاله سیه روزگار و تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیر سمن فشانی مهتاب می کنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیدار می کنند به آواز بوسه ات",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دامن فرشته اگر خواب می کنی",
+      "CoupletIndex": 2
+    }
+  ]
+}

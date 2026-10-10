@@ -1,0 +1,105 @@
+{
+  "Id": 23121,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۰۴۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۰۴۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4048",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4048",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هشیار را به مجلس مستان که می‌برد\r\nاز بهر عیب خویش نگهبان که می‌برد\r\nچندین نگاه حسرت و خمیازه دریغ\r\nاز زخم و داغ من به نمکدان که می‌برد\r\nچون دست جوهری شده پایم ز آبله\r\nاین مژده را به خار مغیلان که می‌برد\r\nرنگ شکسته شیشه به رویم شکسته است\r\nپیغام من به باده‌فروشان که می‌برد\r\nچندین هزار قافله تا کعبه امید\r\nغیر از جنون ز راه بیابان که می‌برد\r\nما را به کوچه غلط انداختن چرا\r\nدل را به غیر زلف پریشان که می‌برد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هشیار را به مجلس مستان که می‌برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بهر عیب خویش نگهبان که می‌برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندین نگاه حسرت و خمیازه دریغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از زخم و داغ من به نمکدان که می‌برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون دست جوهری شده پایم ز آبله",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این مژده را به خار مغیلان که می‌برد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رنگ شکسته شیشه به رویم شکسته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پیغام من به باده‌فروشان که می‌برد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چندین هزار قافله تا کعبه امید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غیر از جنون ز راه بیابان که می‌برد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ما را به کوچه غلط انداختن چرا",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دل را به غیر زلف پریشان که می‌برد",
+      "CoupletIndex": 5
+    }
+  ]
+}

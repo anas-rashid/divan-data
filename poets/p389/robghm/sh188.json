@@ -1,0 +1,57 @@
+{
+  "Id": 30445,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۸",
+  "FullUrl": "/p389/robghm/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا علم بود، پیشه کس جهل مباد\r\nجاهل سهل است، آدمی سهل مباد\r\nاز نااهلان به خلق آزار رسد\r\nیا رب سر و کار کس به نااهل مباد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا علم بود، پیشه کس جهل مباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جاهل سهل است، آدمی سهل مباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از نااهلان به خلق آزار رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب سر و کار کس به نااهل مباد",
+      "CoupletIndex": 1
+    }
+  ]
+}

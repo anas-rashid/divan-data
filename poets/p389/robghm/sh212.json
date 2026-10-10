@@ -1,0 +1,57 @@
+{
+  "Id": 30469,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱۲",
+  "FullUrl": "/p389/robghm/sh212",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh212",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با جوهر ذات، هرکه یاری دارد\r\nمردانه زبان به حرف جاری دارد\r\nآن را که قوی‌ست دل، زبانش تیزست\r\nشمشیر به قبض استواری دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با جوهر ذات، هرکه یاری دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مردانه زبان به حرف جاری دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که قوی‌ست دل، زبانش تیزست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر به قبض استواری دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

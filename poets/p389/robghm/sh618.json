@@ -1,0 +1,57 @@
+{
+  "Id": 30875,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۸",
+  "FullUrl": "/p389/robghm/sh618",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh618",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاشق نشود هلاک از بی‌برگی\r\nکی نخل فتد به خاک از بی‌برگی؟\r\nباشد غم سامان خرداندیشان را\r\nمجنون‌شده را چه باک از بی‌برگی؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشق نشود هلاک از بی‌برگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی نخل فتد به خاک از بی‌برگی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد غم سامان خرداندیشان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مجنون‌شده را چه باک از بی‌برگی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

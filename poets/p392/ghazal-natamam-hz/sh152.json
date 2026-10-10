@@ -1,0 +1,54 @@
+{
+  "Id": 34811,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۵۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دنیا قدر ارباب مذلت بیش می‌باشد\r\nکف سائل ز اعضای دگر، در پیش می‌باشد\r\nشکایت نیست مطلب، چون جرس گر ناله پردازم\r\nفغانی در نهاد سینه‌های ریش می‌باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دنیا قدر ارباب مذلت بیش می‌باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کف سائل ز اعضای دگر، در پیش می‌باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکایت نیست مطلب، چون جرس گر ناله پردازم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فغانی در نهاد سینه‌های ریش می‌باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28055,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲",
+  "FullUrl": "/p386/robaeeor/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وصل تو دوایی است که بیمارش نیست\r\nحسن تو متاعی است که بازارش نیست\r\nعشق تو کمندی که گرفتارش نیست\r\nحمد تو زبانی است که گفتارش نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وصل تو دوایی است که بیمارش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حسن تو متاعی است که بازارش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق تو کمندی که گرفتارش نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حمد تو زبانی است که گفتارش نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

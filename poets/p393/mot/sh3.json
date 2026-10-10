@@ -1,0 +1,42 @@
+{
+  "Id": 36712,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳",
+  "FullUrl": "/p393/mot/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب که به یاد آورم حال دل خراب را\r\nداغ فتد ز گریه‌ام چادر مهتاب را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب که به یاد آورم حال دل خراب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ فتد ز گریه‌ام چادر مهتاب را",
+      "CoupletIndex": 0
+    }
+  ]
+}

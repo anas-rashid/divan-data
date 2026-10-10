@@ -1,0 +1,57 @@
+{
+  "Id": 30517,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۶۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۶۰",
+  "FullUrl": "/p389/robghm/sh260",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh260",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی چو قرائتش تمنا می‌شد\r\nبر سوره یوسف نظرش وا می‌شد\r\nگرد سر محبوبی یوسف می‌گشت\r\nقربان محبت زلیخا می‌شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی چو قرائتش تمنا می‌شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سوره یوسف نظرش وا می‌شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرد سر محبوبی یوسف می‌گشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قربان محبت زلیخا می‌شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

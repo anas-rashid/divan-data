@@ -1,0 +1,57 @@
+{
+  "Id": 34625,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۳۰",
+  "FullUrl": "/p392/robaee-hz/sh230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دُرّ یتیم، دیده دریا از تو\r\nآه از تو و ناله سینه فرسا از تو\r\nخندان گذری ز چشم خونبار و خوشیم\r\nدل از تو و دیده ازتو و ما از تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دُرّ یتیم، دیده دریا از تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آه از تو و ناله سینه فرسا از تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خندان گذری ز چشم خونبار و خوشیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل از تو و دیده ازتو و ما از تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

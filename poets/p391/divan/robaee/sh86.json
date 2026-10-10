@@ -1,0 +1,57 @@
+{
+  "Id": 33357,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/p391/divan/robaee/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وقتی گر بود همچو گوهر اشکم\r\nشد ز آتش دل کنون چون اخگر اشکم\r\nزد قطره شب هجر ز بس در طلبت\r\nیک آبله گشت پای تا سر اشکم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقتی گر بود همچو گوهر اشکم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد ز آتش دل کنون چون اخگر اشکم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زد قطره شب هجر ز بس در طلبت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک آبله گشت پای تا سر اشکم",
+      "CoupletIndex": 1
+    }
+  ]
+}

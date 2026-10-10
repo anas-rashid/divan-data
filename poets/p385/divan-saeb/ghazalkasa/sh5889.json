@@ -1,0 +1,93 @@
+{
+  "Id": 24962,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۸۸۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۸۸۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5889",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5889",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در شهر اگر ملول نگردیم چون کنیم؟\r\nدامان دشت نیست که مشق جنون کنیم\r\nما کاسه سرنگون و فلک کاسه سرنگون\r\nدر خانمان خرابی هم سعی چون کنیم؟\r\nچون رود نیل کوچه دهد چرخ آبگون\r\nاز آه سرد چون ید بیضا برون کنیم\r\nما مرد قطع کردن این راه نیستیم\r\nخاری به خون خویش مگر لاله گون کنیم\r\nصائب جدال شیوه ما نیست در مصاف\r\nما خصم را به چرب زبانی زبون کنیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در شهر اگر ملول نگردیم چون کنیم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامان دشت نیست که مشق جنون کنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما کاسه سرنگون و فلک کاسه سرنگون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانمان خرابی هم سعی چون کنیم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون رود نیل کوچه دهد چرخ آبگون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از آه سرد چون ید بیضا برون کنیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما مرد قطع کردن این راه نیستیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خاری به خون خویش مگر لاله گون کنیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب جدال شیوه ما نیست در مصاف",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ما خصم را به چرب زبانی زبون کنیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

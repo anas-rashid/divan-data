@@ -1,0 +1,45 @@
+{
+  "Id": 18481,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۵۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۵۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh950",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh950",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فرصت نمی‌دهد که بشویم ز دیده خواب\r\nاز بس که تند می‌گذرد جویبار عمر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرصت نمی‌دهد که بشویم ز دیده خواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بس که تند می‌گذرد جویبار عمر",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 27414,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۶",
+  "FullUrl": "/p386/ghazalor/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در نو بهار باده ننوشد کسی چرا\r\nمی در پیاله زهد فروشد کسی چرا\r\nمرغان چنین به شوق و بهاران چنین به ذوق\r\nهمراه بلبلان نخروشد کسی چرا\r\nسر رشته ی معامله در دست قسمت است\r\nبا دشمنان به مهر بجوشد کسی چرا\r\nصد دشمنم به خون به حل و تشنه دوست هم\r\nاین بی خمار باده ننوشد کسی چرا\r\nچون دمبدم عنایت توفیق ممکن است\r\nدر تنگنای نزع نکوشد کسی چرا\r\nهم دوستی است عرفی و هم رفع دشمنی\r\nعیب غنیم دوست بپوشد کسی چرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در نو بهار باده ننوشد کسی چرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می در پیاله زهد فروشد کسی چرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغان چنین به شوق و بهاران چنین به ذوق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همراه بلبلان نخروشد کسی چرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر رشته ی معامله در دست قسمت است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با دشمنان به مهر بجوشد کسی چرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صد دشمنم به خون به حل و تشنه دوست هم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این بی خمار باده ننوشد کسی چرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون دمبدم عنایت توفیق ممکن است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در تنگنای نزع نکوشد کسی چرا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هم دوستی است عرفی و هم رفع دشمنی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "عیب غنیم دوست بپوشد کسی چرا",
+      "CoupletIndex": 5
+    }
+  ]
+}

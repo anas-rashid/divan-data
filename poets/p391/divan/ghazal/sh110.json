@@ -1,0 +1,54 @@
+{
+  "Id": 32202,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/p391/divan/ghazal/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آید صدای نالهٔ دل از نگاه ما\r\nچون شاخ ارغوان بچکد خون ز آه ما\r\nدر دیده ای که محو تو شد جلوه گر شوی\r\nباشد نقاب روی تو شرم نگاه ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آید صدای نالهٔ دل از نگاه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شاخ ارغوان بچکد خون ز آه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دیده ای که محو تو شد جلوه گر شوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد نقاب روی تو شرم نگاه ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

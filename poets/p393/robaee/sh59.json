@@ -1,0 +1,54 @@
+{
+  "Id": 37231,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/p393/robaee/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جانا ز دوروزه دوریت دل ریش است\r\nباز آی که جان سپردنم در پیش است\r\nتو سهل گرفته‌ای ولیکن بر ما\r\nزهرست جدای که کم آن بیش است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانا ز دوروزه دوریت دل ریش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز آی که جان سپردنم در پیش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو سهل گرفته‌ای ولیکن بر ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زهرست جدای که کم آن بیش است",
+      "CoupletIndex": 1
+    }
+  ]
+}

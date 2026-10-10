@@ -1,0 +1,57 @@
+{
+  "Id": 29637,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/p388/divan/robaee/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک بلبل خوش نوا و صد انجمن است\r\nیک سرو سرافراز و هزاران چمن است\r\nخوش گویی من بلند آوازه به اوست\r\nزان نوع که سرفرازی او ز من است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک بلبل خوش نوا و صد انجمن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک سرو سرافراز و هزاران چمن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش گویی من بلند آوازه به اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان نوع که سرفرازی او ز من است",
+      "CoupletIndex": 1
+    }
+  ]
+}

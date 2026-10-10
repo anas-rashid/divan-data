@@ -1,0 +1,54 @@
+{
+  "Id": 32677,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۸۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۸۵",
+  "FullUrl": "/p391/divan/ghazal/sh585",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh585",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرخی از لعل تو زایل به مکیدن نشود\r\nهیچ کم لاله ازین باغ به چیدن نشود\r\nپی به مقصد نبری تا نگریزی از خویش\r\nطی این مرحله جز پای بریدن نشود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرخی از لعل تو زایل به مکیدن نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هیچ کم لاله ازین باغ به چیدن نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پی به مقصد نبری تا نگریزی از خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طی این مرحله جز پای بریدن نشود",
+      "CoupletIndex": 1
+    }
+  ]
+}

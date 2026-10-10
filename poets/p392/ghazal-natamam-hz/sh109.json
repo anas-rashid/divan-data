@@ -1,0 +1,54 @@
+{
+  "Id": 34768,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۰۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشئهٔ فیض، در آب و گِل درویشان است\r\nجام جم، کاسه گدای دل درویشان است\r\nما برین در نه عبث تکیهٔ دولت زده ایم\r\nصدرکونین، در منزل درویشان است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشئهٔ فیض، در آب و گِل درویشان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جام جم، کاسه گدای دل درویشان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما برین در نه عبث تکیهٔ دولت زده ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صدرکونین، در منزل درویشان است",
+      "CoupletIndex": 1
+    }
+  ]
+}

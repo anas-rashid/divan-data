@@ -1,0 +1,93 @@
+{
+  "Id": 31072,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/p390/divan/ghazal/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با رسوم جهان دلم جنگی ست\r\nخارج ساز من خوش آهنگی ست\r\nماتم و سور این جهان خراب\r\nگریه ی مست و خنده ی بنگی ست\r\nشعله با آه من اگر خود را\r\nنسبتی می کند، ز یکرنگی ست\r\nعجز و زاری ست کار اهل نیاز\r\nکه درین ره، حنای پا، لنگی ست\r\nچرخ را طبع روشن تو سلیم\r\nهمچو آیینه در کف زنگی ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با رسوم جهان دلم جنگی ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خارج ساز من خوش آهنگی ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماتم و سور این جهان خراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گریه ی مست و خنده ی بنگی ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شعله با آه من اگر خود را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نسبتی می کند، ز یکرنگی ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عجز و زاری ست کار اهل نیاز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که درین ره، حنای پا، لنگی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چرخ را طبع روشن تو سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همچو آیینه در کف زنگی ست",
+      "CoupletIndex": 4
+    }
+  ]
+}

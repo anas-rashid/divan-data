@@ -1,0 +1,54 @@
+{
+  "Id": 34688,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دعوی‌ست با شعر ترم، آن دشمن ادراک را\r\nسگ می‌خورد دایم نجس، آن آب‌های پاک را\r\nمشاطهٔ گلشن منم، با این خمارآلودگی\r\nچشمم حنابندی کند، از اشک دست تاک را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دعوی‌ست با شعر ترم، آن دشمن ادراک را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سگ می‌خورد دایم نجس، آن آب‌های پاک را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشاطهٔ گلشن منم، با این خمارآلودگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشمم حنابندی کند، از اشک دست تاک را",
+      "CoupletIndex": 1
+    }
+  ]
+}

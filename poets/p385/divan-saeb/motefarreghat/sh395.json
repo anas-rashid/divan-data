@@ -1,0 +1,45 @@
+{
+  "Id": 27001,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh395",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh395",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اول به ظالمان اثر ظلم می رسد\r\nپیش از هدف همیشه کمان ناله می کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اول به ظالمان اثر ظلم می رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش از هدف همیشه کمان ناله می کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

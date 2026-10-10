@@ -1,0 +1,93 @@
+{
+  "Id": 29967,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۱۹",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۱۹",
+  "FullUrl": "/p389/ghazalgm/sh219",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh219",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آهم از پیچیدگی، چون رشته، تن را تاب داد\r\nاضطرابم اشک را خاصیت سیماب داد\r\nگرچه اقبالم ضعیف افتاده، ادبارم خوش است\r\nآسمان روز سیاهم را شب مهتاب داد\r\n{بیاض}\r\nباغبان گویی چمن را ز آب چشمم آب داد\r\nبعد چندین شب که دوش آمد خیالش بر سرم\r\nچشم بیدار مرا بختم صلای خواب داد\r\nنرگسش انگیخت نیرنگی که از یادش رود\r\nزلف اگر یادش ز کار درهم احباب داد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آهم از پیچیدگی، چون رشته، تن را تاب داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اضطرابم اشک را خاصیت سیماب داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه اقبالم ضعیف افتاده، ادبارم خوش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آسمان روز سیاهم را شب مهتاب داد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "{بیاض}",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باغبان گویی چمن را ز آب چشمم آب داد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بعد چندین شب که دوش آمد خیالش بر سرم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چشم بیدار مرا بختم صلای خواب داد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نرگسش انگیخت نیرنگی که از یادش رود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زلف اگر یادش ز کار درهم احباب داد",
+      "CoupletIndex": 4
+    }
+  ]
+}

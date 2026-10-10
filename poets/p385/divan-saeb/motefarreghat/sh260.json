@@ -1,0 +1,57 @@
+{
+  "Id": 26866,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh260",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh260",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشوه ها از طالع ناساز می باید کشید\r\nبا کمال بی نیازی ناز می باید کشید\r\nدل چو از کف رفت باز آوردن او مشکل است\r\nاسب سرکش را عنان ز آغاز می باید کشید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشوه ها از طالع ناساز می باید کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با کمال بی نیازی ناز می باید کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل چو از کف رفت باز آوردن او مشکل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسب سرکش را عنان ز آغاز می باید کشید",
+      "CoupletIndex": 1
+    }
+  ]
+}

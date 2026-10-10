@@ -1,0 +1,57 @@
+{
+  "Id": 34506,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p392/robaee-hz/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ماتم تو شیون دلهاست بلند\r\nبا یاد تو، آهِ سینه فرساست، بلند\r\nخونابهٔ اشکی که نمش تا سمک است\r\nاز فرق سماک، نیزه بالاست بلند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماتم تو شیون دلهاست بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با یاد تو، آهِ سینه فرساست، بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خونابهٔ اشکی که نمش تا سمک است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از فرق سماک، نیزه بالاست بلند",
+      "CoupletIndex": 1
+    }
+  ]
+}

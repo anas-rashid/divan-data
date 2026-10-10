@@ -1,0 +1,57 @@
+{
+  "Id": 30504,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۴۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۴۷",
+  "FullUrl": "/p389/robghm/sh247",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh247",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خورشید همین نه ذره پرور باشد\r\nفیضش به همه جهان برابر باشد\r\nآیینه ز هم شاه و گدا نشناسد\r\nسازنده او گرچه سکندر باشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید همین نه ذره پرور باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فیضش به همه جهان برابر باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آیینه ز هم شاه و گدا نشناسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سازنده او گرچه سکندر باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

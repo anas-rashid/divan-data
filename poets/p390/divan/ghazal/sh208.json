@@ -1,0 +1,93 @@
+{
+  "Id": 31175,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۰۸",
+  "FullUrl": "/p390/divan/ghazal/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همچو بلبل دلم غمین گل است\r\nغنچه گردیده در کمین گل است\r\nدر دلم درد، نایب عیش است\r\nبر سرم داغ، جانشین گل است\r\nاز نسیمی شکفته می گردد\r\nخنده گویا در آستین گل است\r\nشادی دهر را شگونی نیست\r\nخندهٔ گل، دم پسین گل است\r\nداد بستان ز جام باده سلیم\r\nکه خزان سخت در کمین گل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همچو بلبل دلم غمین گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه گردیده در کمین گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دلم درد، نایب عیش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر سرم داغ، جانشین گل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از نسیمی شکفته می گردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خنده گویا در آستین گل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شادی دهر را شگونی نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خندهٔ گل، دم پسین گل است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "داد بستان ز جام باده سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که خزان سخت در کمین گل است",
+      "CoupletIndex": 4
+    }
+  ]
+}

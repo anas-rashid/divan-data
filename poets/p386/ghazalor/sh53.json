@@ -1,0 +1,105 @@
+{
+  "Id": 27461,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۵۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۵۳",
+  "FullUrl": "/p386/ghazalor/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیدادگری روی تو اندازه ی راز است\r\nاین رشته به انگشت نپیچی که دراز است\r\nعشق آفت سلطان بود، آرایش بنده\r\nاین مسأله در نسخه ی محمود و ایاز است\r\nیا رب تو نگهدار دل خلوتیان را\r\nکان مغبچه مست است و در صومعه باز است\r\nخونابه ی حسرت چکد از هز مژه هر گاه\r\nبینم که خداوند کسی بنده نواز است\r\nاین قهقهه ی عیش که با کبک دل ماست\r\nباور نتوان کرد که در چنگل باز است\r\nهر چند که عرفی پی تحقیق شتاب است\r\nمشتاب به دنبال، که او بیهده تاز است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیدادگری روی تو اندازه ی راز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این رشته به انگشت نپیچی که دراز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق آفت سلطان بود، آرایش بنده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این مسأله در نسخه ی محمود و ایاز است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یا رب تو نگهدار دل خلوتیان را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کان مغبچه مست است و در صومعه باز است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خونابه ی حسرت چکد از هز مژه هر گاه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بینم که خداوند کسی بنده نواز است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "این قهقهه ی عیش که با کبک دل ماست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "باور نتوان کرد که در چنگل باز است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هر چند که عرفی پی تحقیق شتاب است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "مشتاب به دنبال، که او بیهده تاز است",
+      "CoupletIndex": 5
+    }
+  ]
+}

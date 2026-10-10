@@ -1,0 +1,54 @@
+{
+  "Id": 36612,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۳۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۳۲",
+  "FullUrl": "/p393/ghete/sh132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از اندیشهٔ دارین غم پهلوی غم دارد\r\nز فکر این دو خانه چون کمان پشتم دو خم دارد\r\nگرفتار تو هرجا پا گذارد شور برخیزد\r\nچو شخص پای در زنجیر شیون در قدم دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از اندیشهٔ دارین غم پهلوی غم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز فکر این دو خانه چون کمان پشتم دو خم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفتار تو هرجا پا گذارد شور برخیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو شخص پای در زنجیر شیون در قدم دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

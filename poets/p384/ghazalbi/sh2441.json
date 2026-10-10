@@ -1,0 +1,93 @@
+{
+  "Id": 17144,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۲۴۴۱",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۲۴۴۱",
+  "FullUrl": "/p384/ghazalbi/sh2441",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh2441",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشکم ز بی‌قراری زد بر دَرِ چکیدن\r\nافتادن‌ است آخر اطفال را دویدن\r\nاز تیغِ مرگْ عاشق رنگ بقا نبازد\r\nعمر دوباره گیرد چون ناخن از بریدن\r\nفقر است و نقد تمکین‌، جاه‌ است و موج خفّت\r\nاز بحرْ بی‌قراری‌، از ساحلْ آرمیدن\r\nارباب رنگ دایم محوِ لباس خویش‌اند\r\nاز داغ نیست ممکن طاووس را پریدن\r\nبیدل به جوی شمشیر خون جگر خورد آب\r\nزندان بی‌قراران نبود جز آرمیدن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشکم ز بی‌قراری زد بر دَرِ چکیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتادن‌ است آخر اطفال را دویدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از تیغِ مرگْ عاشق رنگ بقا نبازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عمر دوباره گیرد چون ناخن از بریدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فقر است و نقد تمکین‌، جاه‌ است و موج خفّت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از بحرْ بی‌قراری‌، از ساحلْ آرمیدن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ارباب رنگ دایم محوِ لباس خویش‌اند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از داغ نیست ممکن طاووس را پریدن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بیدل به جوی شمشیر خون جگر خورد آب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زندان بی‌قراران نبود جز آرمیدن",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37821,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۰۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۰۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh307",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh307",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا نسبت کرد اخوت شعر به من\r\nمی فخر کند ابوت شعر به من\r\nبفزود چو کوه قوت شعر به من\r\nشد ختم دگر نبوت شعر به من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا نسبت کرد اخوت شعر به من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می فخر کند ابوت شعر به من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بفزود چو کوه قوت شعر به من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد ختم دگر نبوت شعر به من",
+      "CoupletIndex": 1
+    }
+  ]
+}

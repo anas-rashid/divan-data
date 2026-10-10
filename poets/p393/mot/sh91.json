@@ -1,0 +1,42 @@
+{
+  "Id": 36800,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۹۱",
+  "FullUrl": "/p393/mot/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق آن گل بر دل من باز زور آورده است\r\nبلبل طبع مرا دیگر به‌شور آورده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آن گل بر دل من باز زور آورده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل طبع مرا دیگر به‌شور آورده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

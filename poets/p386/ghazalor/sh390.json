@@ -1,0 +1,69 @@
+{
+  "Id": 27798,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳۹۰",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳۹۰",
+  "FullUrl": "/p386/ghazalor/sh390",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh390",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجاست نشتر مژگان دوست تا دل ریش\r\nهزار چرخ زند بی خودانه بر سر بیش\r\nتو هم ز بتکده آیی و طواف کعبه کنی\r\nاگر نقاب گشایم ز حسن طینت خویش\r\nهمه ز عاقبت اندیش اند سرگردان\r\nمن این فریب نخوردم ز عقل دور اندیش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجاست نشتر مژگان دوست تا دل ریش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هزار چرخ زند بی خودانه بر سر بیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو هم ز بتکده آیی و طواف کعبه کنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر نقاب گشایم ز حسن طینت خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همه ز عاقبت اندیش اند سرگردان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من این فریب نخوردم ز عقل دور اندیش",
+      "CoupletIndex": 2
+    }
+  ]
+}

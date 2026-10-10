@@ -1,0 +1,54 @@
+{
+  "Id": 36521,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۱",
+  "FullUrl": "/p393/ghete/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وانگردید دل غم‌زه یار آمد و رفت\r\nگل نشد غنچهٔ من فصل بهار آمد و رفت\r\nنمکی لطف نفرمود لب خندانت\r\nبارها بر درت این سینه فگار آمد و رفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وانگردید دل غم‌زه یار آمد و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل نشد غنچهٔ من فصل بهار آمد و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمکی لطف نفرمود لب خندانت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بارها بر درت این سینه فگار آمد و رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

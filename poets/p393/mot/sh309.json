@@ -1,0 +1,42 @@
+{
+  "Id": 37018,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۰۹",
+  "FullUrl": "/p393/mot/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من به بزم تو نه بر رغم حسود آمده‌ام\r\nدل من بی‌تو به جان آمده بود آمده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من به بزم تو نه بر رغم حسود آمده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل من بی‌تو به جان آمده بود آمده‌ام",
+      "CoupletIndex": 0
+    }
+  ]
+}

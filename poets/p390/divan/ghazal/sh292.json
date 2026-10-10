@@ -1,0 +1,93 @@
+{
+  "Id": 31259,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۹۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۹۲",
+  "FullUrl": "/p390/divan/ghazal/sh292",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh292",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا که دل ز ورق حرف کینه خواهی شست\r\nسرشک بی تو ز مژگان من سیاهی شست\r\nحدیث کوثر آن لب به خضر رخصت نیست\r\nزبان اگرچه به صد آب همچو ماهی شست\r\nسرشک دیده ی پیران نشان نومیدی ست\r\nبه گریه دست ز خود شمع صبحگاهی شست\r\nز پاس رنگ حنا، دست خود نمی شویی\r\nبه حیرتم که ز دنیا چگونه خواهی شست\r\nسلیم پای غباری چو در میان آید\r\nنمی توان ز دل آن را به عذرخواهی شست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا که دل ز ورق حرف کینه خواهی شست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرشک بی تو ز مژگان من سیاهی شست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حدیث کوثر آن لب به خضر رخصت نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زبان اگرچه به صد آب همچو ماهی شست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرشک دیده ی پیران نشان نومیدی ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به گریه دست ز خود شمع صبحگاهی شست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز پاس رنگ حنا، دست خود نمی شویی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به حیرتم که ز دنیا چگونه خواهی شست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم پای غباری چو در میان آید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نمی توان ز دل آن را به عذرخواهی شست",
+      "CoupletIndex": 4
+    }
+  ]
+}

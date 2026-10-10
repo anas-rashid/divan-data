@@ -1,0 +1,66 @@
+{
+  "Id": 36344,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۹۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۹۳",
+  "FullUrl": "/p393/natmam/sh193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا عیادت من کن قدم دریغ مدار\r\nمسیح‌دم ازین خسته دم دریغ مدار\r\nبگو صبا ز من آن یار بی‌عنایت را\r\nگذشت از سر لطف و ستم دریغ مدار\r\nمساز محو ز لوح ضمیر نام مرا\r\nنوازشی به زبان قلم دریغ مدار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا عیادت من کن قدم دریغ مدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مسیح‌دم ازین خسته دم دریغ مدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگو صبا ز من آن یار بی‌عنایت را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گذشت از سر لطف و ستم دریغ مدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مساز محو ز لوح ضمیر نام مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نوازشی به زبان قلم دریغ مدار",
+      "CoupletIndex": 2
+    }
+  ]
+}

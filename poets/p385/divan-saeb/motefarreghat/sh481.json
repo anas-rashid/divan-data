@@ -1,0 +1,57 @@
+{
+  "Id": 27087,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۸۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۸۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh481",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh481",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به گوشه قفس از آشیانه قانع باش\r\nنه ای حریف میان، با کرانه قانع باش\r\nمریض مصلحت خویش را نمی داند\r\nبه تلخ و شور طبیب زمانه قانع باش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به گوشه قفس از آشیانه قانع باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه ای حریف میان، با کرانه قانع باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مریض مصلحت خویش را نمی داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به تلخ و شور طبیب زمانه قانع باش",
+      "CoupletIndex": 1
+    }
+  ]
+}

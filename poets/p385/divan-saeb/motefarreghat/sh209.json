@@ -1,0 +1,69 @@
+{
+  "Id": 26815,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh209",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh209",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یادگار عشق داغی در دل دیوانه ماند\r\nشمع رفت از انجمن، خاکستر پروانه ماند\r\nگریه ام در دل گره شد، ناله ام بر لب شکست\r\nوای بر قفلی که مفتاحش درون خانه ماند\r\nزیر سقف آسمان نتوان نفس را راست کرد\r\nدر دل ما آرزوی نعره مستانه ماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یادگار عشق داغی در دل دیوانه ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع رفت از انجمن، خاکستر پروانه ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریه ام در دل گره شد، ناله ام بر لب شکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وای بر قفلی که مفتاحش درون خانه ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زیر سقف آسمان نتوان نفس را راست کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دل ما آرزوی نعره مستانه ماند",
+      "CoupletIndex": 2
+    }
+  ]
+}

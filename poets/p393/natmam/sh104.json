@@ -1,0 +1,66 @@
+{
+  "Id": 36255,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۰۴",
+  "FullUrl": "/p393/natmam/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به صفحهٔ رخ او نقش خط نوشته درست\r\nکجا نوشته کسی این‌چنین شکسته درست\r\nبه حیرتم که ز زلف شکسته‌بند بتان\r\nدل شکستهٔ ما را چرا نبسته درست\r\nچنین که از تو فراهم شود جراحت‌ها\r\nز جلوه‌ات شود آیینهٔ شکست درست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به صفحهٔ رخ او نقش خط نوشته درست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجا نوشته کسی این‌چنین شکسته درست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به حیرتم که ز زلف شکسته‌بند بتان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل شکستهٔ ما را چرا نبسته درست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چنین که از تو فراهم شود جراحت‌ها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز جلوه‌ات شود آیینهٔ شکست درست",
+      "CoupletIndex": 2
+    }
+  ]
+}

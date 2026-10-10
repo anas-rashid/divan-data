@@ -1,0 +1,57 @@
+{
+  "Id": 27038,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۳۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۳۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh432",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh432",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این ریش پروران که گرفتار شانه اند\r\nغافل که صد خدنگ بلا را نشانه اند\r\nدر خانمان خرابی دل سعی می کنند\r\nاین غافلان که در پی تعمیر خانه اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این ریش پروران که گرفتار شانه اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غافل که صد خدنگ بلا را نشانه اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خانمان خرابی دل سعی می کنند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این غافلان که در پی تعمیر خانه اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30528,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۷۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۷۱",
+  "FullUrl": "/p389/robghm/sh271",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh271",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر سینه خود به عاریت نیش مبند\r\nالماس به دل بیشتر از ریش مبند\r\nچون آتش اگر سوختنت داعیه نیست\r\nچون شمع، به رشته شعله بر خویش مبند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سینه خود به عاریت نیش مبند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "الماس به دل بیشتر از ریش مبند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آتش اگر سوختنت داعیه نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شمع، به رشته شعله بر خویش مبند",
+      "CoupletIndex": 1
+    }
+  ]
+}

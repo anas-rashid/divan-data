@@ -1,0 +1,66 @@
+{
+  "Id": 36421,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۷۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۷۰",
+  "FullUrl": "/p393/natmam/sh270",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh270",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بند غم فغان چو اساری برآورم\r\nفریاد یا مجیر اجرنا برآورم\r\nفرصت نداد دست که تا در ره طلب\r\nخاری ز پای بادیه‌پیما برآورم\r\nخطش دمید زود امانم نداد حیف\r\nتا از دماغ ریشهٔ سودا برآورم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بند غم فغان چو اساری برآورم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد یا مجیر اجرنا برآورم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرصت نداد دست که تا در ره طلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاری ز پای بادیه‌پیما برآورم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خطش دمید زود امانم نداد حیف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا از دماغ ریشهٔ سودا برآورم",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36566,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۸۶",
+  "FullUrl": "/p393/ghete/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دردا که غم عشق به دامان تو آویخت\r\nدامن چو کشیدم به گریبان من آویخت\r\nدر معرکهٔ عشق تو طفلیست رسن‌باز\r\nهر قطرهٔ اشکی که به مژگان من آویخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که غم عشق به دامان تو آویخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامن چو کشیدم به گریبان من آویخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در معرکهٔ عشق تو طفلیست رسن‌باز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر قطرهٔ اشکی که به مژگان من آویخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

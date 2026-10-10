@@ -1,0 +1,57 @@
+{
+  "Id": 34609,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۱۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۱۴",
+  "FullUrl": "/p392/robaee-hz/sh214",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh214",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش کرمت دست تهی آوردم\r\nنزد تو، کمیّ و کوتهی آوردم\r\nبیماری هجر داشتم، جام وصال\r\nنوشیدم و رویی به بهی آوردم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش کرمت دست تهی آوردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نزد تو، کمیّ و کوتهی آوردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماری هجر داشتم، جام وصال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوشیدم و رویی به بهی آوردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

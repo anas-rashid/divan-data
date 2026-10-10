@@ -1,0 +1,57 @@
+{
+  "Id": 27075,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۶۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۶۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh469",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh469",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنگ من کرده به بال و پر عنقا پرواز\r\nنیست ممکن که به چندین بط می آید باز\r\nمی شود صاحب آوازه ز یکدستی، شعر\r\nاین چه حرف است که یک دست ندارد آواز؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگ من کرده به بال و پر عنقا پرواز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست ممکن که به چندین بط می آید باز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می شود صاحب آوازه ز یکدستی، شعر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این چه حرف است که یک دست ندارد آواز؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

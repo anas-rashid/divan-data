@@ -1,0 +1,57 @@
+{
+  "Id": 37703,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh189",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh189",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای فقر بخاست روز بازار تو خیز\r\nدر کوکبه سپاه سالار آویز\r\nای نصرت دین بخیر بگشای نخیز\r\nای کفر زریر بوحلیم است گریز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای فقر بخاست روز بازار تو خیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کوکبه سپاه سالار آویز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای نصرت دین بخیر بگشای نخیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای کفر زریر بوحلیم است گریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

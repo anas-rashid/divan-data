@@ -1,0 +1,57 @@
+{
+  "Id": 37824,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh310",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh310",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کفر کشد زریر شیبانی کین\r\nآباد کند زریر شیبانی دین\r\nبر چرخ نهد زریر شیبانی زین\r\nاین مرتبت زریر شیبانی بین",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کفر کشد زریر شیبانی کین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آباد کند زریر شیبانی دین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر چرخ نهد زریر شیبانی زین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این مرتبت زریر شیبانی بین",
+      "CoupletIndex": 1
+    }
+  ]
+}

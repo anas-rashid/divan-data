@@ -1,0 +1,57 @@
+{
+  "Id": 26715,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشک خالی کن دلهای غم اندوخته است\r\nسخن سرد نسیم جگر سوخته است\r\nدر بیابان تمنا اثر از منزل نیست\r\nمی کند آنچه سیاهی، نفس سوخته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشک خالی کن دلهای غم اندوخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخن سرد نسیم جگر سوخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بیابان تمنا اثر از منزل نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می کند آنچه سیاهی، نفس سوخته است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 32720,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۲۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۲۸",
+  "FullUrl": "/p391/divan/ghazal/sh628",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh628",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غنچه در صحن چمن دل را نه آسان واکند\r\nاین گره را قطرهٔ شبنم به دندان واکند\r\nآفتاب من به نقد جان چو شد جولان فروش\r\nصبح را پیش از دو دم نگذاشت دکان واکند\r\nبسکه می چسبند لبهایش ز شیرینی بهم\r\nدر شکفتن چون زهم آن لعل خندان واکند\r\nمی تواند گوهر مقصود را در عقد داشت\r\nعقدهٔ تن را کسی کز رشتهٔ جان واکند\r\nفتح ابواب است در بدن کلید موج می\r\nبر رخ احباب درهای گلستان واکند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غنچه در صحن چمن دل را نه آسان واکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این گره را قطرهٔ شبنم به دندان واکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آفتاب من به نقد جان چو شد جولان فروش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبح را پیش از دو دم نگذاشت دکان واکند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بسکه می چسبند لبهایش ز شیرینی بهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در شکفتن چون زهم آن لعل خندان واکند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "می تواند گوهر مقصود را در عقد داشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عقدهٔ تن را کسی کز رشتهٔ جان واکند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "فتح ابواب است در بدن کلید موج می",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر رخ احباب درهای گلستان واکند",
+      "CoupletIndex": 4
+    }
+  ]
+}

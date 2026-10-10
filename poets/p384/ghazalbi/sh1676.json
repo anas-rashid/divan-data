@@ -1,0 +1,45 @@
+{
+  "Id": 16379,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۱۶۷۶",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۱۶۷۶",
+  "FullUrl": "/p384/ghazalbi/sh1676",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh1676",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شد نظر واکردنی خواب فراموش شرار\r\nلغزش پای نگاهی داشت مدهوش شرار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد نظر واکردنی خواب فراموش شرار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لغزش پای نگاهی داشت مدهوش شرار",
+      "CoupletIndex": 0
+    }
+  ]
+}

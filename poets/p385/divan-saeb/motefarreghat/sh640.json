@@ -1,0 +1,45 @@
+{
+  "Id": 27246,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۴۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۴۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh640",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh640",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه شیرینی است با لبهای آن شیرین پسر یارب\r\nکه پیغام زبانی را کند مکتوب سربسته!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه شیرینی است با لبهای آن شیرین پسر یارب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که پیغام زبانی را کند مکتوب سربسته!",
+      "CoupletIndex": 0
+    }
+  ]
+}

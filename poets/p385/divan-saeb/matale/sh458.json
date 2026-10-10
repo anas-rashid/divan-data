@@ -1,0 +1,42 @@
+{
+  "Id": 26546,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۵۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۵۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجاست مشت زری تا چو گل به باد دهیم\r\nگهر کجاست که ریزش به ابر یاد دهیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجاست مشت زری تا چو گل به باد دهیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گهر کجاست که ریزش به ابر یاد دهیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

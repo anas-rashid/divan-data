@@ -1,0 +1,57 @@
+{
+  "Id": 30317,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/p389/robghm/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق، اجل چیست بر شمشیرت؟\r\nبر فرق فلک خورد سر شمشیرت\r\nاز بخیه به زخم پرده‌پوشم، تا غیر\r\nآگه نشود ز جوهر شمشیرت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق، اجل چیست بر شمشیرت؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر فرق فلک خورد سر شمشیرت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بخیه به زخم پرده‌پوشم، تا غیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آگه نشود ز جوهر شمشیرت",
+      "CoupletIndex": 1
+    }
+  ]
+}

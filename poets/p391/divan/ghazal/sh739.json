@@ -1,0 +1,81 @@
+{
+  "Id": 32831,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۳۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۳۹",
+  "FullUrl": "/p391/divan/ghazal/sh739",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh739",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل عاشق زفغان سیر نگردد هرگز\r\nجرس از ناله گلوگیر نگردد هرگز\r\nراستان هیچگه از عزم پشیمان نشوند\r\nبی رسیدن به نشان تیر نگردد هنوز\r\nلذت گریه نه هتر تیره دلی دریابد\r\nآب در دیدهٔ زنجیر نگردد هنوز\r\nنرود از دل جویا هوس لعل لبش\r\nچشم پیمانه ز می سیر نگردد هنوز",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل عاشق زفغان سیر نگردد هرگز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جرس از ناله گلوگیر نگردد هرگز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راستان هیچگه از عزم پشیمان نشوند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی رسیدن به نشان تیر نگردد هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "لذت گریه نه هتر تیره دلی دریابد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آب در دیدهٔ زنجیر نگردد هنوز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نرود از دل جویا هوس لعل لبش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چشم پیمانه ز می سیر نگردد هنوز",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 37445,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۶۰",
+  "FullUrl": "/p394/ghazal/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آن سالک که گیرد پیش راه دلستانی را\r\nقلم باشد به جای شمع بزم اهل معانی را\r\nبه نامحرم نشاید گفت اسرار نهانی را\r\nبپیچم چون قلم در نامه پیغام زبانی را\r\nچرا خم گشته میگردند پیران جهاندیده\r\nمگر در خاک می جویند ایام جوانی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن سالک که گیرد پیش راه دلستانی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قلم باشد به جای شمع بزم اهل معانی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به نامحرم نشاید گفت اسرار نهانی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بپیچم چون قلم در نامه پیغام زبانی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چرا خم گشته میگردند پیران جهاندیده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگر در خاک می جویند ایام جوانی را",
+      "CoupletIndex": 2
+    }
+  ]
+}

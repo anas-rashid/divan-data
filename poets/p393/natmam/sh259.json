@@ -1,0 +1,66 @@
+{
+  "Id": 36410,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۹",
+  "FullUrl": "/p393/natmam/sh259",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh259",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین گلستان به خاطر دلگیر می‌روم\r\nدلگیرتر ز غنچهٔ تصویر می‌روم\r\nهم‌ داغ من به گلشن هندوستان چو نیست\r\nزین پس به سیر لالهٔ کشمیر می‌روم\r\nآسان نمی‌روم ره خونخوار عشق را\r\nحالم مپرس بر دم شمشیر می‌روم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین گلستان به خاطر دلگیر می‌روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلگیرتر ز غنچهٔ تصویر می‌روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم‌ داغ من به گلشن هندوستان چو نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین پس به سیر لالهٔ کشمیر می‌روم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آسان نمی‌روم ره خونخوار عشق را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حالم مپرس بر دم شمشیر می‌روم",
+      "CoupletIndex": 2
+    }
+  ]
+}

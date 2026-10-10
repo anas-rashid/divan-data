@@ -1,0 +1,57 @@
+{
+  "Id": 37792,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۷۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمری بدو کف دو رخ نگارا خستم\r\nنومیدی جان به درد دل در بستم\r\nاکنون ز نشاط وصل تو برجستم\r\nاز پای درافتم ار نگیری دستم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمری بدو کف دو رخ نگارا خستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نومیدی جان به درد دل در بستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون ز نشاط وصل تو برجستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پای درافتم ار نگیری دستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

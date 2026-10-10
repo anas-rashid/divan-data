@@ -1,0 +1,66 @@
+{
+  "Id": 37429,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۴۴",
+  "FullUrl": "/p394/ghazal/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صفای حسن بتان می تراود از دل ما\r\nبآب آینه گویی سرشته شد گل ما\r\nچنان بباد سر زلف او گرفتاریم\r\nکه غیر خانهٔ زنجیر نیست منزل ما\r\nشدیم خاک ز بس در خیال عارض او\r\nسزد اگر گل خورشید روید از گل ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صفای حسن بتان می تراود از دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بآب آینه گویی سرشته شد گل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چنان بباد سر زلف او گرفتاریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که غیر خانهٔ زنجیر نیست منزل ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شدیم خاک ز بس در خیال عارض او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سزد اگر گل خورشید روید از گل ما",
+      "CoupletIndex": 2
+    }
+  ]
+}

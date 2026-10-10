@@ -1,0 +1,57 @@
+{
+  "Id": 30310,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/p389/robghm/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان نیست که در آتش جانانه نسوخت\r\nبی گرمی باده هیچ پیمانه نسوخت\r\nعاشق همه آن کند که معشوق کند\r\nتا درنگرفت شمع، پروانه نسوخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان نیست که در آتش جانانه نسوخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی گرمی باده هیچ پیمانه نسوخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق همه آن کند که معشوق کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا درنگرفت شمع، پروانه نسوخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

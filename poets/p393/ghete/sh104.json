@@ -1,0 +1,54 @@
+{
+  "Id": 36584,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۴",
+  "FullUrl": "/p393/ghete/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفتی از گلشن و گل‌ها همه دلگیر شدند\r\nدر فراغ تو جوانان چمن پیر شدند\r\nکرد سودای تو دیوانه خردمندان را\r\nزلف بگشا که همه قابل زنجیر شدند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتی از گلشن و گل‌ها همه دلگیر شدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در فراغ تو جوانان چمن پیر شدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرد سودای تو دیوانه خردمندان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زلف بگشا که همه قابل زنجیر شدند",
+      "CoupletIndex": 1
+    }
+  ]
+}

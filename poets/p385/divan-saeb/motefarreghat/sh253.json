@@ -1,0 +1,57 @@
+{
+  "Id": 26859,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۵۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۵۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh253",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh253",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمع دل را روشنی در وقت خاموشی بود\r\nراحتی گر هست در خواب فراموشی بود\r\nلب چو کردی آشنای می، لب پیمانه باش\r\nدر سر مستی سخن داروی بیهوشی بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع دل را روشنی در وقت خاموشی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راحتی گر هست در خواب فراموشی بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب چو کردی آشنای می، لب پیمانه باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سر مستی سخن داروی بیهوشی بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

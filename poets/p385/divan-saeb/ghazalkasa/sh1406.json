@@ -1,0 +1,93 @@
+{
+  "Id": 20479,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۴۰۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۴۰۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1406",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1406",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشو از می گران، ترسم سبکدستان ربایندت\r\nبه زور می چو مینا از میان مستان ربایندت\r\nفریب عالم آب از سبک مغزی مخور چون کف\r\nکه از آغوش هم، چون موج، تردستان ربایندت\r\nمشو چون غنچه از افسون باد صبحدم خندان\r\nکه کودک مشربان چون گل ازین بستان ربایندت\r\nاگر از باده گلگون چنین سرشار خواهی شد\r\nز دست یکدگر چون جام می مستان ربایندت\r\nازان بی پرده چون صائب نصیحت می کنم انشا\r\nکه می ترسم به مکر و حیله و دستان ربایندت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشو از می گران، ترسم سبکدستان ربایندت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زور می چو مینا از میان مستان ربایندت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریب عالم آب از سبک مغزی مخور چون کف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از آغوش هم، چون موج، تردستان ربایندت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مشو چون غنچه از افسون باد صبحدم خندان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که کودک مشربان چون گل ازین بستان ربایندت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اگر از باده گلگون چنین سرشار خواهی شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز دست یکدگر چون جام می مستان ربایندت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ازان بی پرده چون صائب نصیحت می کنم انشا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که می ترسم به مکر و حیله و دستان ربایندت",
+      "CoupletIndex": 4
+    }
+  ]
+}

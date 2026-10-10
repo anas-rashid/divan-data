@@ -1,0 +1,69 @@
+{
+  "Id": 27261,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۵۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۵۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh655",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh655",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غافل ز سیر عالم انوار مانده ای\r\nدر عقده بزرگی دستار مانده ای\r\nگم کرده ای چو شعله ره بازگشت خویش\r\nدر زیر دست و پای خس و خار مانده ای\r\nشبنم به آفتاب رسانید خویش را\r\nدر دام رنگ و بو چه گرفتار مانده ای؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غافل ز سیر عالم انوار مانده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عقده بزرگی دستار مانده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گم کرده ای چو شعله ره بازگشت خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در زیر دست و پای خس و خار مانده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شبنم به آفتاب رسانید خویش را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دام رنگ و بو چه گرفتار مانده ای؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

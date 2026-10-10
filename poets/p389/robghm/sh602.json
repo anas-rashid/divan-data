@@ -1,0 +1,57 @@
+{
+  "Id": 30859,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۰۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۰۲",
+  "FullUrl": "/p389/robghm/sh602",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh602",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمعی تو، ولی ز انجمن پرهیزی\r\nجانی و ز صحبت بدن پرهیزی\r\nمن با تو یکیّ و تو ز من پرهیزی\r\nمن بعد مگر ز خویشتن پرهیزی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمعی تو، ولی ز انجمن پرهیزی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانی و ز صحبت بدن پرهیزی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من با تو یکیّ و تو ز من پرهیزی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بعد مگر ز خویشتن پرهیزی",
+      "CoupletIndex": 1
+    }
+  ]
+}

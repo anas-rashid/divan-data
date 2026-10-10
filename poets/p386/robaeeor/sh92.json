@@ -1,0 +1,57 @@
+{
+  "Id": 28135,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۹۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۲",
+  "FullUrl": "/p386/robaeeor/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی دل و طبع تو ستمگار مباد\r\nنیش تو به سینهٔ کس کار مباد\r\nشیرین منشان جلوه کنندت به ضمیر\r\nاین چشمهٔ نوش نیشتر زار مباد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی دل و طبع تو ستمگار مباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیش تو به سینهٔ کس کار مباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیرین منشان جلوه کنندت به ضمیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این چشمهٔ نوش نیشتر زار مباد",
+      "CoupletIndex": 1
+    }
+  ]
+}

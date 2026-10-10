@@ -1,0 +1,57 @@
+{
+  "Id": 34435,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/p392/robaee-hz/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هستی بزمی ست، انجمن سازی هست\r\nعالم نطعی ست، پنج و شش بازی هست\r\nدر جام جم و مهر سلیمان این بود\r\nما کارگهیم، کارپردازی هست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هستی بزمی ست، انجمن سازی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم نطعی ست، پنج و شش بازی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جام جم و مهر سلیمان این بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما کارگهیم، کارپردازی هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

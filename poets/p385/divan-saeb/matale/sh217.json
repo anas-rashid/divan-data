@@ -1,0 +1,45 @@
+{
+  "Id": 26305,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh217",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh217",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلی دارم که از یاد طرب غمناک می گردد\r\nسری دارم که بر گرد سر فتراک می گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلی دارم که از یاد طرب غمناک می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سری دارم که بر گرد سر فتراک می گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

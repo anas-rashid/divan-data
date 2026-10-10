@@ -1,0 +1,45 @@
+{
+  "Id": 18235,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۰۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۰۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh704",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh704",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کند معشوق را بی دست و پا، بیتابی عاشق\r\nبلرزد شمع بر خود، چون ز جا پروانه برخیزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کند معشوق را بی دست و پا، بیتابی عاشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلرزد شمع بر خود، چون ز جا پروانه برخیزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

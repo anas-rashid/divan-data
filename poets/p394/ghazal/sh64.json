@@ -1,0 +1,42 @@
+{
+  "Id": 37449,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۶۴",
+  "FullUrl": "/p394/ghazal/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از ناز چو پوشی رخ آیینه نما را\r\nچون قبله نما چشم پزد آیینه ها را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از ناز چو پوشی رخ آیینه نما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون قبله نما چشم پزد آیینه ها را",
+      "CoupletIndex": 0
+    }
+  ]
+}

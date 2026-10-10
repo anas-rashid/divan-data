@@ -1,0 +1,45 @@
+{
+  "Id": 34940,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۸۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۸۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh281",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh281",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نکرد عشق تو، مطلب روای خویشتنم\r\nستاره‌سوختهٔ داغ‌های خویشتنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نکرد عشق تو، مطلب روای خویشتنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ستاره‌سوختهٔ داغ‌های خویشتنم",
+      "CoupletIndex": 0
+    }
+  ]
+}

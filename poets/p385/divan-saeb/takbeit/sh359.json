@@ -1,0 +1,45 @@
+{
+  "Id": 17890,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۵۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۵۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh359",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh359",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در پایهٔ خود، هیچ کسی خرد نباشد\r\nتا جغد بود ساکن ویرانه، بزرگ است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در پایهٔ خود، هیچ کسی خرد نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا جغد بود ساکن ویرانه، بزرگ است",
+      "CoupletIndex": 0
+    }
+  ]
+}

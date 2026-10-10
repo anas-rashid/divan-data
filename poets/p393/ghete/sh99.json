@@ -1,0 +1,54 @@
+{
+  "Id": 36579,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۹۹",
+  "FullUrl": "/p393/ghete/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرگ در هجر دوست از من باد\r\nزندگانی نصیب دشمن باد\r\nماه بی‌مهر من ز دوری تو\r\nتیره شد حال بر تو روشن باد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرگ در هجر دوست از من باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زندگانی نصیب دشمن باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماه بی‌مهر من ز دوری تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیره شد حال بر تو روشن باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

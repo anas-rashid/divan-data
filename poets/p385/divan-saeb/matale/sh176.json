@@ -1,0 +1,42 @@
+{
+  "Id": 26264,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۷۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh176",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh176",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خشکی زهد از دماغم ابرهای تر نبرد\r\nصندلی شد آبها و توبه در سر نبرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خشکی زهد از دماغم ابرهای تر نبرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صندلی شد آبها و توبه در سر نبرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

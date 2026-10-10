@@ -1,0 +1,54 @@
+{
+  "Id": 36614,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۳۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۳۴",
+  "FullUrl": "/p393/ghete/sh134",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh134",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل چه گویم که کجا دور ز من می‌گردد\r\nتشنه گرد سر آن چاه ذقن می‌گردد\r\nمن در زنجیر زدم حرف تو از طرهٔ خویش\r\nکه سخن سلسله‌جنبان سخن می‌گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل چه گویم که کجا دور ز من می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تشنه گرد سر آن چاه ذقن می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من در زنجیر زدم حرف تو از طرهٔ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سخن سلسله‌جنبان سخن می‌گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

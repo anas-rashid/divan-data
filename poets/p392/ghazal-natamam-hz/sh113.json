@@ -1,0 +1,45 @@
+{
+  "Id": 34772,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر لبم حرف دهان تنگ یار افتاده است\r\nبخیهٔ راز نهان، بر روی کار افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر لبم حرف دهان تنگ یار افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخیهٔ راز نهان، بر روی کار افتاده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

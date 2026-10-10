@@ -1,0 +1,54 @@
+{
+  "Id": 37316,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/p393/robaee/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن روز که می‌رفت ز کف مفت دلم\r\nهر چند که دادم نپذیرفت دلم\r\nلا حول و لا قوة را می‌خواندیم\r\nما شاءالله کان می‌گفت دلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن روز که می‌رفت ز کف مفت دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چند که دادم نپذیرفت دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لا حول و لا قوة را می‌خواندیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما شاءالله کان می‌گفت دلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

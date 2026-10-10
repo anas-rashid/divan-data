@@ -1,0 +1,57 @@
+{
+  "Id": 34464,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/p392/robaee-hz/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حوصلهٔ صبر، غمت بیرون است\r\nهر لحظه دل از فراق، دیگرگون است\r\nبا دیده چه سازیم که چون شب باز است؟\r\nاز شوق چه گوییم که روزافزون است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حوصلهٔ صبر، غمت بیرون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر لحظه دل از فراق، دیگرگون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دیده چه سازیم که چون شب باز است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شوق چه گوییم که روزافزون است",
+      "CoupletIndex": 1
+    }
+  ]
+}

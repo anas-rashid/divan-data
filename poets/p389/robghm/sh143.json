@@ -1,0 +1,57 @@
+{
+  "Id": 30400,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۴۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۴۳",
+  "FullUrl": "/p389/robghm/sh143",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh143",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قومی که شناسند تعلق با کیست\r\nدانند که بی علاقه‌ای نتوان زیست\r\nآنها که به آزادگی خود نازند\r\nگر آزادند، قید آزادی چیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قومی که شناسند تعلق با کیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانند که بی علاقه‌ای نتوان زیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنها که به آزادگی خود نازند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آزادند، قید آزادی چیست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

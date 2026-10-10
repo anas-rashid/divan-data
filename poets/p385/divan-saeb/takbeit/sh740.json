@@ -1,0 +1,45 @@
+{
+  "Id": 18271,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۴۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۴۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh740",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh740",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ره ندارد جلوهٔ آزادگی در کوی عشق\r\nسرو اگر کارند این‌جا بید مجنون می‌دمد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ره ندارد جلوهٔ آزادگی در کوی عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو اگر کارند این‌جا بید مجنون می‌دمد",
+      "CoupletIndex": 0
+    }
+  ]
+}

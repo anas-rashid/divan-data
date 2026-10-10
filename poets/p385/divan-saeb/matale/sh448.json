@@ -1,0 +1,42 @@
+{
+  "Id": 26536,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۴۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۴۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh448",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh448",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما به رنجش اکتفا از تندخویان کرده ایم\r\nما به پشت کار صلح از زشت رویان کرده ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما به رنجش اکتفا از تندخویان کرده ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما به پشت کار صلح از زشت رویان کرده ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

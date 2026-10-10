@@ -1,0 +1,45 @@
+{
+  "Id": 17697,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۶۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۶۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حِرصی که داشتم به شِکارِ پَری‌رُخان\r\nچون باز، بیش شد ز نظردوختن، مَرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حِرصی که داشتم به شِکارِ پَری‌رُخان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون باز، بیش شد ز نظردوختن، مَرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

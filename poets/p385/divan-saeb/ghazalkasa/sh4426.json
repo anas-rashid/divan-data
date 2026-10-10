@@ -1,0 +1,93 @@
+{
+  "Id": 23499,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۴۲۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۴۲۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4426",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4426",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن خرمن گل چون ز در باغ درآید\r\nسرو از لب جو چند قدم پیشتر آید\r\nگر در بغل غنچه فردوس درآیم\r\nچون چاک گریبان قفس در نظر آید\r\nبا آه جگر سوختگان اشک نباشد\r\nغواص چو تعجیل کند بی گهر آید\r\nهشدار که چون بلبل ما بال فشاند\r\nاز صدقفس آواز پروبال برآید\r\nبابی هنران اختر بدکار ندارد\r\nاین سنگ برآیینه اهل هنر آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن خرمن گل چون ز در باغ درآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو از لب جو چند قدم پیشتر آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر در بغل غنچه فردوس درآیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چاک گریبان قفس در نظر آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با آه جگر سوختگان اشک نباشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غواص چو تعجیل کند بی گهر آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هشدار که چون بلبل ما بال فشاند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از صدقفس آواز پروبال برآید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بابی هنران اختر بدکار ندارد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این سنگ برآیینه اهل هنر آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

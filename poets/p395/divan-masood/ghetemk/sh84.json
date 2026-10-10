@@ -1,0 +1,57 @@
+{
+  "Id": 38311,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۸۴ - با این همه شهرت",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۸۴ - با این همه شهرت",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "معروف تر از من به جهان نیست خردمند\r\nپس بسته چراام به چنین جایی مجهول\r\nنه خفته نه بیدار نه دیوانه نه هشیار\r\nنه مرده و نه زنده نه بر کار و نه معزول",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معروف تر از من به جهان نیست خردمند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پس بسته چراام به چنین جایی مجهول",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه خفته نه بیدار نه دیوانه نه هشیار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه مرده و نه زنده نه بر کار و نه معزول",
+      "CoupletIndex": 1
+    }
+  ]
+}

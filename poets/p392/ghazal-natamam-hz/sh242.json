@@ -1,0 +1,69 @@
+{
+  "Id": 34901,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۴۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۴۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh242",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh242",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بسته پای چو من بی پر و بالی که مپرس\r\nزیر لب دارم ازین عقده، سؤالی که مپرس\r\nجلوهٔ شمع تجلّی، شب هجران تو داشت\r\nبا خیال تو، مرا بود وصالی که مپرس\r\nرخت از آن کوی پی عزم سفر می بستم\r\nدل به دامان من آویخت، به حالی که مپرس",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بسته پای چو من بی پر و بالی که مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیر لب دارم ازین عقده، سؤالی که مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جلوهٔ شمع تجلّی، شب هجران تو داشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با خیال تو، مرا بود وصالی که مپرس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رخت از آن کوی پی عزم سفر می بستم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل به دامان من آویخت، به حالی که مپرس",
+      "CoupletIndex": 2
+    }
+  ]
+}

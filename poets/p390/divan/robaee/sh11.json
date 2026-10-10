@@ -1,0 +1,57 @@
+{
+  "Id": 32009,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/p390/divan/robaee/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاسد که همه دعوی لافش پوچ است\r\nاز مغز حیا، چو نافش پوچ است\r\nاز طبع زبان دراز، معنی مطلب\r\nشمشیر کشیده را غلافش پوچ است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاسد که همه دعوی لافش پوچ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از مغز حیا، چو نافش پوچ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از طبع زبان دراز، معنی مطلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر کشیده را غلافش پوچ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37233,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۱",
+  "FullUrl": "/p393/robaee/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خود را ز هوس گاه می‌باید داشت\r\nاز ناکس و کس نگاه می‌بایدداشت\r\nدر دام کسی مباد افتد ناگاه\r\nدل را به قفس نگاه می‌باید داشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خود را ز هوس گاه می‌باید داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ناکس و کس نگاه می‌بایدداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دام کسی مباد افتد ناگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل را به قفس نگاه می‌باید داشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36230,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۷۹",
+  "FullUrl": "/p393/natmam/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرو کی همچون قدت ناز مجسم برخاست\r\nراست گویم که به این ناز کسی کم برخاست\r\nجامه گلگون من آن لحظه که برخاست به رقص\r\nشعله از آتش من یک قد آدم برخاست\r\nنیست ممکن که شود موم حریف آتش\r\nدید تا داغ مرا دود ز مرهم برخاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو کی همچون قدت ناز مجسم برخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راست گویم که به این ناز کسی کم برخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جامه گلگون من آن لحظه که برخاست به رقص",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شعله از آتش من یک قد آدم برخاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست ممکن که شود موم حریف آتش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دید تا داغ مرا دود ز مرهم برخاست",
+      "CoupletIndex": 2
+    }
+  ]
+}

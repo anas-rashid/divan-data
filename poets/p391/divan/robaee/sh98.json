@@ -1,0 +1,57 @@
+{
+  "Id": 33369,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/p391/divan/robaee/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای پشت پناه اهل ایمان در تو\r\nتو قنبر قنبری و من قنبر تو\r\nباشد از سایه‌ات هما فیض‌اندوز\r\nتا سایهٔ مرتضی بود بر سر تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای پشت پناه اهل ایمان در تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو قنبر قنبری و من قنبر تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد از سایه‌ات هما فیض‌اندوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سایهٔ مرتضی بود بر سر تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

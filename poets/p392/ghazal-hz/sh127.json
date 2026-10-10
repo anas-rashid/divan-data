@@ -1,0 +1,42 @@
+{
+  "Id": 33554,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/p392/ghazal-hz/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جنون را کارها باقی ست با مشت غبار ما\r\nکه بان بکاه طفلان می‌شود خاک مزار ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جنون را کارها باقی ست با مشت غبار ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بان بکاه طفلان می‌شود خاک مزار ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18482,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۵۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۵۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh951",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh951",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل می‌شود سیاه ز فانوس بی چراغ\r\nدر روز ابر، بادهٔ چون آفتاب‌گیر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل می‌شود سیاه ز فانوس بی چراغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در روز ابر، بادهٔ چون آفتاب‌گیر",
+      "CoupletIndex": 0
+    }
+  ]
+}

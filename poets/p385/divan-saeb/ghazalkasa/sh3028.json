@@ -1,0 +1,93 @@
+{
+  "Id": 22101,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۰۲۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۰۲۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3028",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3028",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا صد آه یکبار از دل صد چاک می خیزد\r\nبه قدر شق سیاهی از زبان خامه می ریزد\r\nصفای ظاهر از دل کی زداید زنگ باطن را؟\r\nهمان دود از نهاد شمع کافوری سیه خیزد\r\nبه تردستی زبان خصم را کوتاه کن از خود\r\nکه خار تر به دامن راهرو را کمتر آویزد\r\nسیاهی کی برد رخت سفید از طینت زاهد؟\r\nهمان دود از نهاد شمع کافوری سیه خیزد\r\nنظر بر صبح دارد گریه شبخیز من صائب\r\nکه انجم تخم خود را در زمین پاک می ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا صد آه یکبار از دل صد چاک می خیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به قدر شق سیاهی از زبان خامه می ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صفای ظاهر از دل کی زداید زنگ باطن را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همان دود از نهاد شمع کافوری سیه خیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به تردستی زبان خصم را کوتاه کن از خود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که خار تر به دامن راهرو را کمتر آویزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سیاهی کی برد رخت سفید از طینت زاهد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همان دود از نهاد شمع کافوری سیه خیزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نظر بر صبح دارد گریه شبخیز من صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که انجم تخم خود را در زمین پاک می ریزد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 27680,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۷۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۷۲",
+  "FullUrl": "/p386/ghazalor/sh272",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh272",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس که در بهار به صحرا برون رود\r\nعیش آن گهی کند که به ذوق جنون رود\r\nعارف به خار و گل چو ببیند به روی دوست\r\nروزی دری گشاید و بیخود درون رود\r\nحربا مجوی، بر اثر عشق رو، که گل\r\nرویش به مطلب است، ولی واژگون رود\r\nسرچشمهٔ تراوش دشنام همت است\r\nهر ماجراکه بر سر دنیای دون رود\r\nدریافتم ز بوی تو عرفی، که بهر گام\r\nصد ره دمی به خانهٔ عرفی زبون رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس که در بهار به صحرا برون رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عیش آن گهی کند که به ذوق جنون رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عارف به خار و گل چو ببیند به روی دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی دری گشاید و بیخود درون رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حربا مجوی، بر اثر عشق رو، که گل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رویش به مطلب است، ولی واژگون رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرچشمهٔ تراوش دشنام همت است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر ماجراکه بر سر دنیای دون رود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دریافتم ز بوی تو عرفی، که بهر گام",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صد ره دمی به خانهٔ عرفی زبون رود",
+      "CoupletIndex": 4
+    }
+  ]
+}

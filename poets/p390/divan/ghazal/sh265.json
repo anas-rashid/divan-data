@@ -1,0 +1,105 @@
+{
+  "Id": 31232,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۶۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۶۵",
+  "FullUrl": "/p390/divan/ghazal/sh265",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh265",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من تشنه ی آن چشمه که آبش همه خون است\r\nسرگرم سبویی که شرابش همه خون است\r\nمستی که کند عیش ز پهلوی دل ما\r\nتنها نه شرابش، که کبابش همه خون است\r\nساقی بده آن جام که چون شهد محبت\r\nاز لب چو فرورفت شرابش، همه خون است\r\nدر راه تو بر هر لب جویی که رسیدم\r\nچون جدول زخم دلم آبش همه خون است\r\nبر اسب حنا بسته ز نخجیر فکندن\r\nصیاد مرا تا به رکابش همه خون است\r\nچون موج، سلیم است در انداز کناری\r\nزین بحر که در جام حبابش همه خون است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من تشنه ی آن چشمه که آبش همه خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرگرم سبویی که شرابش همه خون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستی که کند عیش ز پهلوی دل ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنها نه شرابش، که کبابش همه خون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساقی بده آن جام که چون شهد محبت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از لب چو فرورفت شرابش، همه خون است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در راه تو بر هر لب جویی که رسیدم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون جدول زخم دلم آبش همه خون است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر اسب حنا بسته ز نخجیر فکندن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صیاد مرا تا به رکابش همه خون است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چون موج، سلیم است در انداز کناری",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "زین بحر که در جام حبابش همه خون است",
+      "CoupletIndex": 5
+    }
+  ]
+}

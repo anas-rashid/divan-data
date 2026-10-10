@@ -1,0 +1,42 @@
+{
+  "Id": 26499,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۱۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۱۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh411",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh411",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زبان در کام کش تا خامشان را همزبان بینی\r\nبپوشان چشم تا پوشیده رویان را عیان بینی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زبان در کام کش تا خامشان را همزبان بینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بپوشان چشم تا پوشیده رویان را عیان بینی",
+      "CoupletIndex": 0
+    }
+  ]
+}

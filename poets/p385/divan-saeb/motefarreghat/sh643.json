@@ -1,0 +1,69 @@
+{
+  "Id": 27249,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۴۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۴۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh643",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh643",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پا چو مجنون جمع اگر در دامن صحرا کنی\r\nمی توانی رام لیلی را ز استغنا کنی\r\nبی تأمل می کنی در کار باطل عمر صرف\r\nچون به کار حق رسی امروز را فردا کنی\r\nکار خود را راست کن با قامت همچون الف\r\nبا قد خم چون میسر نیست سر بالا کنی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پا چو مجنون جمع اگر در دامن صحرا کنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می توانی رام لیلی را ز استغنا کنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی تأمل می کنی در کار باطل عمر صرف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون به کار حق رسی امروز را فردا کنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کار خود را راست کن با قامت همچون الف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با قد خم چون میسر نیست سر بالا کنی",
+      "CoupletIndex": 2
+    }
+  ]
+}

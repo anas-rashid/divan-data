@@ -1,0 +1,57 @@
+{
+  "Id": 30703,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۴۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۴۶",
+  "FullUrl": "/p389/robghm/sh446",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh446",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی گریه، بود دیده چو بی باده ایاغ\r\nاز شبنم خون تازه نماید گل داغ\r\nچون گریه شود تمام، چشمم سوزد\r\nروغن چو نماند، آتش افتد به چراغ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی گریه، بود دیده چو بی باده ایاغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شبنم خون تازه نماید گل داغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون گریه شود تمام، چشمم سوزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روغن چو نماند، آتش افتد به چراغ",
+      "CoupletIndex": 1
+    }
+  ]
+}

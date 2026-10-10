@@ -1,0 +1,93 @@
+{
+  "Id": 32344,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۲۵۲",
+  "FullUrl": "/p391/divan/ghazal/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرتاسر آفاق به فرمان خط اوست\r\nدور فلک از حلقه بگوشان خط اوست\r\nدر شیشه پری کرد نهان جوش صفایش\r\nرخ آینهٔ جلوهٔ پنهان خط اوست\r\nدل را که به زنجیر کشد سبزهٔ لعلش\r\nیک مطلع برجستهٔ دیوان خط اوست\r\nتنها نه ز خط لعل لبش یافته زینت\r\nیاقوت هم از حلقه بگوشان خط اوست\r\nبی سبزهٔ خط هست لبش بادهٔ نارس\r\nجویا سر صد زلف بقربان خط اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرتاسر آفاق به فرمان خط اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دور فلک از حلقه بگوشان خط اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در شیشه پری کرد نهان جوش صفایش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رخ آینهٔ جلوهٔ پنهان خط اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل را که به زنجیر کشد سبزهٔ لعلش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک مطلع برجستهٔ دیوان خط اوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تنها نه ز خط لعل لبش یافته زینت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یاقوت هم از حلقه بگوشان خط اوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی سبزهٔ خط هست لبش بادهٔ نارس",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جویا سر صد زلف بقربان خط اوست",
+      "CoupletIndex": 4
+    }
+  ]
+}

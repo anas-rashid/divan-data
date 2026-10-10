@@ -1,0 +1,57 @@
+{
+  "Id": 29676,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/p388/divan/robaee/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکس ز خودی و خودستایی گردید\r\nاز کبر گذشت و کبریایی گردید\r\nهر مرد که سر به حلقه عجز سپرد\r\nسرحلقه مردان خدایی گردید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس ز خودی و خودستایی گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از کبر گذشت و کبریایی گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر مرد که سر به حلقه عجز سپرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرحلقه مردان خدایی گردید",
+      "CoupletIndex": 1
+    }
+  ]
+}

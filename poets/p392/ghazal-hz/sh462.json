@@ -1,0 +1,93 @@
+{
+  "Id": 33889,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۶۲",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۶۲",
+  "FullUrl": "/p392/ghazal-hz/sh462",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh462",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی توان ز عمر، فریب سراب خورد؟\r\nباید نهاد لب به لب تیغ و آب خورد\r\nپیمانهٔ نگاه تو از ما اثر نهشت\r\nاین طرفه مجلسی ست که ما را شراب خورد\r\nکوته تر است از نگه نارسای ما\r\nدور از تو بس که رشتهٔ جان پیج و تاب خورد\r\nبر هر چه تافت نور محبّت صفا گرفت\r\nپاک است هر زمین نجس، کآفتاب خورد\r\nعشق از ازل بلای دل و جان بود حزین\r\nآتش غریب نیست که خون کباب خورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی توان ز عمر، فریب سراب خورد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید نهاد لب به لب تیغ و آب خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمانهٔ نگاه تو از ما اثر نهشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این طرفه مجلسی ست که ما را شراب خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کوته تر است از نگه نارسای ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دور از تو بس که رشتهٔ جان پیج و تاب خورد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر هر چه تافت نور محبّت صفا گرفت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پاک است هر زمین نجس، کآفتاب خورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عشق از ازل بلای دل و جان بود حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آتش غریب نیست که خون کباب خورد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27280,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۷۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۷۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh674",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh674",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز لباس تن برون آ به گه نیاز کردن\r\nکه به جامه های صورت نتوان نماز کردن\r\nقد همچو تیر خود را به سجود حق کمان کن\r\nکه به این کلید بتوان در خلد باز کردن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز لباس تن برون آ به گه نیاز کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که به جامه های صورت نتوان نماز کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قد همچو تیر خود را به سجود حق کمان کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که به این کلید بتوان در خلد باز کردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

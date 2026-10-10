@@ -1,0 +1,57 @@
+{
+  "Id": 26963,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۵۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۵۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh357",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh357",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غریب کوی تو در هر کجا وطن سازد\r\nز پاره های دل آن خاک را یمن سازد\r\nوفا مجوی ز مصر وجود، هیهات است\r\nکه بوی پیرهن اینجا به پیرهن سازد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غریب کوی تو در هر کجا وطن سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز پاره های دل آن خاک را یمن سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وفا مجوی ز مصر وجود، هیهات است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بوی پیرهن اینجا به پیرهن سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

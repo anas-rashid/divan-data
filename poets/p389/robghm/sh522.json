@@ -1,0 +1,57 @@
+{
+  "Id": 30779,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۲",
+  "FullUrl": "/p389/robghm/sh522",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh522",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عشق حقیقی، اثری پیدا کن\r\nزین بحر مجازی، گذری پیدا کن\r\nای دل، تو چو آشیانه مرغ به بام\r\nاز سقف به این خانه دری پیدا کن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق حقیقی، اثری پیدا کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین بحر مجازی، گذری پیدا کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دل، تو چو آشیانه مرغ به بام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سقف به این خانه دری پیدا کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

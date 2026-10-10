@@ -1,0 +1,57 @@
+{
+  "Id": 30344,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/p389/robghm/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رخسار تو هر کجاست، صبح طرب است\r\nگر شام غمی ره برد آنجا، عجب است\r\nآنجا که سر زلف دراز تو نشست\r\nپاس نفس صبح، کمال ادب است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخسار تو هر کجاست، صبح طرب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر شام غمی ره برد آنجا، عجب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنجا که سر زلف دراز تو نشست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پاس نفس صبح، کمال ادب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

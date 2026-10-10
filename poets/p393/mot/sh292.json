@@ -1,0 +1,42 @@
+{
+  "Id": 37001,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۲۹۲",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۲۹۲",
+  "FullUrl": "/p393/mot/sh292",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh292",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز مشت استخوان من هما رزق تو حرمان شد\r\nبرو این قرعه افتادست بر نام سگ کویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز مشت استخوان من هما رزق تو حرمان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برو این قرعه افتادست بر نام سگ کویش",
+      "CoupletIndex": 0
+    }
+  ]
+}

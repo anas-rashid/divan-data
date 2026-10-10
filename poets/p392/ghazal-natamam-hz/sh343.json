@@ -1,0 +1,54 @@
+{
+  "Id": 35002,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۴۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۴۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh343",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh343",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکیبایی بود کار دلم، با گرمی خویی\r\nنمی گردد کباب من، ز پهلویی به پهلویی\r\nسری آن زلف دارد با کف پای نگارینش\r\nرخ اخلاص می ساید، به آتشخانه هندویی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکیبایی بود کار دلم، با گرمی خویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمی گردد کباب من، ز پهلویی به پهلویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سری آن زلف دارد با کف پای نگارینش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رخ اخلاص می ساید، به آتشخانه هندویی",
+      "CoupletIndex": 1
+    }
+  ]
+}

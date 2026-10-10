@@ -1,0 +1,93 @@
+{
+  "Id": 31135,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۱۶۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۸",
+  "FullUrl": "/p390/divan/ghazal/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان ز بی خبران چون مکان گله شده ست\r\nغنیمت است که غم پاسبان گله شده ست\r\nفغان ز پرورش آسمان که این قصاب\r\nبرای مصلحتی مهربان گله شده ست\r\nفغان من ز رکاب هلال پای کشید\r\nکه از ستاره رهش در میان گله شده ست\r\nبتان فتاده همه مست و پاسبان ساقی ست\r\nکجاست گرگ، که یوسف شبان گله شده ست\r\nسلیم این قدر از گرگ غم خبر دارم\r\nکه روی دشت پر از استخوان گله شده ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان ز بی خبران چون مکان گله شده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنیمت است که غم پاسبان گله شده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فغان ز پرورش آسمان که این قصاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برای مصلحتی مهربان گله شده ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فغان من ز رکاب هلال پای کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که از ستاره رهش در میان گله شده ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بتان فتاده همه مست و پاسبان ساقی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کجاست گرگ، که یوسف شبان گله شده ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم این قدر از گرگ غم خبر دارم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که روی دشت پر از استخوان گله شده ست",
+      "CoupletIndex": 4
+    }
+  ]
+}

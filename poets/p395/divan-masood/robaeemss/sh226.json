@@ -1,0 +1,57 @@
+{
+  "Id": 37740,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۲۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۲۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh226",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh226",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای زرین نام لعبت سیم اندام\r\nزر تو و سیم تو نه پخته ست و نه خام\r\nدر کس منگر به بی نیازی بخرام\r\nزیرا که توانگری به اندام و به نام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زرین نام لعبت سیم اندام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زر تو و سیم تو نه پخته ست و نه خام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کس منگر به بی نیازی بخرام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که توانگری به اندام و به نام",
+      "CoupletIndex": 1
+    }
+  ]
+}

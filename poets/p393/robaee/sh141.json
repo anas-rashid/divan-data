@@ -1,0 +1,54 @@
+{
+  "Id": 37313,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/p393/robaee/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرگشتهٔ روزگار واقع شده‌ام\r\nآواره هر دیار واقع شده‌ام\r\nاز واقعهٔ خودم غم نیست که من\r\nدور از سر کوی یار واقع شده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرگشتهٔ روزگار واقع شده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آواره هر دیار واقع شده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از واقعهٔ خودم غم نیست که من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور از سر کوی یار واقع شده‌ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

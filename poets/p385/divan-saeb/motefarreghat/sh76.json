@@ -1,0 +1,57 @@
+{
+  "Id": 26682,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بخت ما چون بیدمجنون سرنگون افتاده است\r\nهمچو داغ لاله نان ما به خون افتاده است\r\nهر چه می گیریم صرف بینوانان می کنیم\r\nکاسه دریوزه ما سرنگون افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخت ما چون بیدمجنون سرنگون افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو داغ لاله نان ما به خون افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چه می گیریم صرف بینوانان می کنیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاسه دریوزه ما سرنگون افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 25324,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۲۵۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۲۵۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6251",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6251",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شنیدم دختر رز را ز محفل کرده ای بیرون\r\nبه جان خود بگو جانا که از دل کرده ای بیرون؟\r\nاگر در پرده فانوس، اگر در غنچه می بینم\r\nتو از شوخی سری از جیب محمل کرده ای بیرون\r\nهمیشه مردم چشم من از خون جگر پوشد\r\nلباسی را که پنداری ز بسمل کرده ای بیرون\r\nدم عیسی به استقبال روحت جان فشان آید\r\nگر از خود جامه آلوده گل کرده ای بیرون\r\nنرفتی نعره واری راه و خرسندی چنان صائب\r\nکه پنداری سر از انجام منزل کرده ای بیرون",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شنیدم دختر رز را ز محفل کرده ای بیرون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جان خود بگو جانا که از دل کرده ای بیرون؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر در پرده فانوس، اگر در غنچه می بینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو از شوخی سری از جیب محمل کرده ای بیرون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همیشه مردم چشم من از خون جگر پوشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لباسی را که پنداری ز بسمل کرده ای بیرون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دم عیسی به استقبال روحت جان فشان آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر از خود جامه آلوده گل کرده ای بیرون",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نرفتی نعره واری راه و خرسندی چنان صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که پنداری سر از انجام منزل کرده ای بیرون",
+      "CoupletIndex": 4
+    }
+  ]
+}

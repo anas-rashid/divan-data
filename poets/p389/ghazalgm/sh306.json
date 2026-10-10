@@ -1,0 +1,81 @@
+{
+  "Id": 30054,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۰۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۰۶",
+  "FullUrl": "/p389/ghazalgm/sh306",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh306",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کرد آه من از اثر فراموش\r\nشد شام مرا سحر فراموش\r\nگر خاک شود وجودم، از دل\r\nکی می‌شود آن پسر فراموش\r\nبگذشت ز سینه گرچه تیرت\r\nپیکان شده در جگر فراموش\r\nآن را که تو در نظر نیایی\r\nدر دیده شود نظر فراموش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرد آه من از اثر فراموش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد شام مرا سحر فراموش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خاک شود وجودم، از دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی می‌شود آن پسر فراموش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بگذشت ز سینه گرچه تیرت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیکان شده در جگر فراموش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آن را که تو در نظر نیایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در دیده شود نظر فراموش",
+      "CoupletIndex": 3
+    }
+  ]
+}

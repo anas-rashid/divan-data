@@ -1,0 +1,42 @@
+{
+  "Id": 26260,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۷۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh172",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh172",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در چمن روزگار فال شکفتن خطاست\r\nاره نخل حیات خنده دندان نماست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در چمن روزگار فال شکفتن خطاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اره نخل حیات خنده دندان نماست",
+      "CoupletIndex": 0
+    }
+  ]
+}

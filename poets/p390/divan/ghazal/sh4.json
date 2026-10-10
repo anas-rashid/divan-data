@@ -1,0 +1,93 @@
+{
+  "Id": 30971,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴",
+  "FullUrl": "/p390/divan/ghazal/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما را سپرده است به ساقی حبیب ما\r\nنیکو خلیفه ای ست که دارد ادیب ما\r\nمخمور شوق را می وصل است سازگار\r\nما خسته ایم و ساقی کوثر طبیب ما\r\nمعشوق ماست ساقی گلچهره ای که هست\r\nدر عشق او خدا و پیمبر رقیب ما\r\nناقوس بت پرستی ما زنگ حیدری ست\r\nاز شوق اوست در پی گل عندلیب ما\r\nیارب سلیم لعل و گهر را چه می کند\r\nیک پاره ای ز درّ نجف کن نصیب ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را سپرده است به ساقی حبیب ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیکو خلیفه ای ست که دارد ادیب ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مخمور شوق را می وصل است سازگار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما خسته ایم و ساقی کوثر طبیب ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "معشوق ماست ساقی گلچهره ای که هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در عشق او خدا و پیمبر رقیب ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ناقوس بت پرستی ما زنگ حیدری ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از شوق اوست در پی گل عندلیب ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یارب سلیم لعل و گهر را چه می کند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک پاره ای ز درّ نجف کن نصیب ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

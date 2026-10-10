@@ -1,0 +1,42 @@
+{
+  "Id": 26449,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۶۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۶۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh361",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh361",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مخور فریب محبت ز ناله همه کس\r\nمشو چو شیشه می هم پیاله همه کس",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مخور فریب محبت ز ناله همه کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشو چو شیشه می هم پیاله همه کس",
+      "CoupletIndex": 0
+    }
+  ]
+}

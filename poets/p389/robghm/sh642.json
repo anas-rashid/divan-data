@@ -1,0 +1,57 @@
+{
+  "Id": 30899,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۴۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۴۲",
+  "FullUrl": "/p389/robghm/sh642",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh642",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر سوخته آتش بی دود شوی\r\nهرچند زیانی، همه سر سود شوی\r\nکنجی بنشین و نیستی جوی و مترس\r\nبود تو کدام است که نابود شوی؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر سوخته آتش بی دود شوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرچند زیانی، همه سر سود شوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کنجی بنشین و نیستی جوی و مترس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بود تو کدام است که نابود شوی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

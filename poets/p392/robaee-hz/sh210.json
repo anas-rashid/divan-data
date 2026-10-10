@@ -1,0 +1,57 @@
+{
+  "Id": 34605,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۱۰",
+  "FullUrl": "/p392/robaee-hz/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تدبیر به کار من چه خواهد کردن؟\r\nساغر به خمار من چه خواهد کردن؟\r\nگر عشق هزار شمع داغ افروزد\r\nبا این شب تار من چه خواهد کردن؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تدبیر به کار من چه خواهد کردن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساغر به خمار من چه خواهد کردن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر عشق هزار شمع داغ افروزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با این شب تار من چه خواهد کردن؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

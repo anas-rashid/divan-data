@@ -1,0 +1,54 @@
+{
+  "Id": 37244,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/p393/robaee/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوبان به من آنچه می‌شنیدم کردند\r\nبا تیغ ستم قطع امیدم کردند\r\nبازی بازی مرا نشاندند به خون\r\nآخر این کافران شهیدم کردند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوبان به من آنچه می‌شنیدم کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با تیغ ستم قطع امیدم کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازی بازی مرا نشاندند به خون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر این کافران شهیدم کردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

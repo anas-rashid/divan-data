@@ -1,0 +1,57 @@
+{
+  "Id": 27002,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh396",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh396",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در خشت خم به چشم حقارت نظر مکن\r\nخورشید ساغر از لب این بام شد بلند\r\nپرواز مرغ بسمل ازو بیشتر مخواه\r\nبال و پری که در شکن دام شد بلند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خشت خم به چشم حقارت نظر مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید ساغر از لب این بام شد بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرواز مرغ بسمل ازو بیشتر مخواه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بال و پری که در شکن دام شد بلند",
+      "CoupletIndex": 1
+    }
+  ]
+}

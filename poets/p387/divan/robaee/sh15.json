@@ -1,0 +1,57 @@
+{
+  "Id": 28885,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/p387/divan/robaee/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شوخ بغمزه بر سر جنگ مباش\r\nوی گل ز خزان حسن بیرنگ مباش\r\nشمشیر که زنگش بزدایند خوشست\r\nابروی تو گر ریخته دلتنگ مباش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شوخ بغمزه بر سر جنگ مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی گل ز خزان حسن بیرنگ مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر که زنگش بزدایند خوشست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ابروی تو گر ریخته دلتنگ مباش",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30642,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۸۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۸۵",
+  "FullUrl": "/p389/robghm/sh385",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh385",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم ترم از گریه ندارد آزار\r\nوز درد نیفتاده به روز شب تار\r\nتا چشم تو اش از نظر انداخته است\r\nبر عینک دیده‌ام نشسته‌ست غبار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم ترم از گریه ندارد آزار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز درد نیفتاده به روز شب تار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا چشم تو اش از نظر انداخته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر عینک دیده‌ام نشسته‌ست غبار",
+      "CoupletIndex": 1
+    }
+  ]
+}

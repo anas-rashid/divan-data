@@ -1,0 +1,57 @@
+{
+  "Id": 26771,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۶۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۶۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh165",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh165",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در جوش خلق کعبه حاجات گم شده است\r\nدر توبه شکسته خرابات گم شده است\r\nآن طفل مشربیم که در مشت خاک ما\r\nبس گوهر گرامی اوقات گم شده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در جوش خلق کعبه حاجات گم شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در توبه شکسته خرابات گم شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن طفل مشربیم که در مشت خاک ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس گوهر گرامی اوقات گم شده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34853,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۹۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh194",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh194",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این باخته نقشان که درین خانهٔ تنگند\r\nچون مهره شطرنج به همسایه، به جنگند\r\nبرداشت صبا طرف نقاب تو، همانا\r\nپیداست که گل های چمن باخته رنگند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این باخته نقشان که درین خانهٔ تنگند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون مهره شطرنج به همسایه، به جنگند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برداشت صبا طرف نقاب تو، همانا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیداست که گل های چمن باخته رنگند",
+      "CoupletIndex": 1
+    }
+  ]
+}

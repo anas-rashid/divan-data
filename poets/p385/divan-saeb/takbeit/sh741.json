@@ -1,0 +1,45 @@
+{
+  "Id": 18272,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۴۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۴۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh741",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh741",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوق من قاصد بیدرد کجا می‌داند؟\r\nآنقدر شوق تو دارم که خدا می‌داند!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوق من قاصد بیدرد کجا می‌داند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنقدر شوق تو دارم که خدا می‌داند!",
+      "CoupletIndex": 0
+    }
+  ]
+}

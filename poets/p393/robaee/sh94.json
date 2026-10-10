@@ -1,0 +1,54 @@
+{
+  "Id": 37266,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/p393/robaee/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز غم این جان حسرت‌اندوز ندید\r\nجز داغ فراق هیچ دلسوز ندید\r\nدر هجر تو آن غم‌زده‌ام کز عمرش\r\nصد سال گذشت و عید و نوروز ندید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز غم این جان حسرت‌اندوز ندید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز داغ فراق هیچ دلسوز ندید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هجر تو آن غم‌زده‌ام کز عمرش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد سال گذشت و عید و نوروز ندید",
+      "CoupletIndex": 1
+    }
+  ]
+}

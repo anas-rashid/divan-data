@@ -1,0 +1,45 @@
+{
+  "Id": 17758,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۲۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۲۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh227",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh227",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مِیلِ دل، با طاقِ اَبروی بُتان، امروز نیست\r\nکَج بنا کردند از اوّل، قبله‌ی این خانه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مِیلِ دل، با طاقِ اَبروی بُتان، امروز نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کَج بنا کردند از اوّل، قبله‌ی این خانه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

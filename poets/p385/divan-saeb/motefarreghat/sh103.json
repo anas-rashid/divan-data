@@ -1,0 +1,69 @@
+{
+  "Id": 26709,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۰۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا به کام است فلک، خار گل پیرهن است\r\nبخت تا سبز بود ساحت گلخن چمن است\r\nیوسف از خواری اخوان سر کنعانش نیست\r\nهر کجا بخت عزیزی دهد آنجا وطن است\r\nجوی شیر از جگر سنگ بریدن سهل است\r\nهر که بر پای هوس تیشه زند کوهکن است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا به کام است فلک، خار گل پیرهن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخت تا سبز بود ساحت گلخن چمن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یوسف از خواری اخوان سر کنعانش نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کجا بخت عزیزی دهد آنجا وطن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جوی شیر از جگر سنگ بریدن سهل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر که بر پای هوس تیشه زند کوهکن است",
+      "CoupletIndex": 2
+    }
+  ]
+}

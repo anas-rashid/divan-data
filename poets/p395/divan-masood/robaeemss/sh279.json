@@ -1,0 +1,57 @@
+{
+  "Id": 37793,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۷۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۷۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh279",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh279",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتی خبرت کنم کسی بفرستم\r\nبا دل گفتم ز انده دل رستم\r\nمن دل همه بر وعده خوبت بستم\r\nشادم کن اگر سزای شادی هستم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی خبرت کنم کسی بفرستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با دل گفتم ز انده دل رستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من دل همه بر وعده خوبت بستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شادم کن اگر سزای شادی هستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

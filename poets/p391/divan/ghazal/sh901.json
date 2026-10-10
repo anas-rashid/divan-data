@@ -1,0 +1,66 @@
+{
+  "Id": 32993,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۰۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۰۱",
+  "FullUrl": "/p391/divan/ghazal/sh901",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh901",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در سراغ تو غبار رم عنقا گشتیم\r\nعاقبت در طلب افسوس که رسوا گشتیم\r\nخاطری نیست که محنتکدهٔ دردت نیست\r\nدر سراغ تو بسی در دلها گشتیم\r\nمنصب محرمی یاد تو داریم امروز\r\nساکن غمکدهٔ دل چو سویدا گشتیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سراغ تو غبار رم عنقا گشتیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عاقبت در طلب افسوس که رسوا گشتیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاطری نیست که محنتکدهٔ دردت نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سراغ تو بسی در دلها گشتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "منصب محرمی یاد تو داریم امروز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ساکن غمکدهٔ دل چو سویدا گشتیم",
+      "CoupletIndex": 2
+    }
+  ]
+}

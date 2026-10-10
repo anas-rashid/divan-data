@@ -1,0 +1,93 @@
+{
+  "Id": 31231,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۶۴",
+  "FullUrl": "/p390/divan/ghazal/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون دلم چو لاله، آرایش ایاغ است\r\nبوی گل جنونم، مشاطه ی دماغ است\r\nخسرو خبر ندارد از درد عشق شیرین\r\nمعلوم می توان کرد فرهاد سنگداغ است\r\nز آشفتگی دلم را سودای ناصحان نیست\r\nطفلان خموش باشید، دیوانه بی دماغ است\r\nگر خوب گشت خود هیچ، ور بد شود بسی طعن\r\nشغل سخن گزاری چون خدمت چراغ است\r\nنتوان سلیم در عشق همچشم خویش را دید\r\nسوزم که شمع سوزد، داغم که لاله داغ است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون دلم چو لاله، آرایش ایاغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی گل جنونم، مشاطه ی دماغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خسرو خبر ندارد از درد عشق شیرین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معلوم می توان کرد فرهاد سنگداغ است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز آشفتگی دلم را سودای ناصحان نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طفلان خموش باشید، دیوانه بی دماغ است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر خوب گشت خود هیچ، ور بد شود بسی طعن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شغل سخن گزاری چون خدمت چراغ است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نتوان سلیم در عشق همچشم خویش را دید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سوزم که شمع سوزد، داغم که لاله داغ است",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37028,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۱۹",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۱۹",
+  "FullUrl": "/p393/mot/sh319",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh319",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حال دل زار چون نویسم\r\nغم‌نامه مگر به خون نویسم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حال دل زار چون نویسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم‌نامه مگر به خون نویسم",
+      "CoupletIndex": 0
+    }
+  ]
+}

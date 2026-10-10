@@ -1,0 +1,45 @@
+{
+  "Id": 17549,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مکن تکلیف همراهی به ما ای سیل پا در گل\r\nکه دست از جان خود شستن به دریا می‌برد ما را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مکن تکلیف همراهی به ما ای سیل پا در گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دست از جان خود شستن به دریا می‌برد ما را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 33277,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶",
+  "FullUrl": "/p391/divan/robaee/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تخمی است غمت بدل فشاندیم او را\r\nوز آب دو دیده بردماندیم او را\r\nبالید چنان که ما در او گم شده ایم\r\nبنگر کآخر کجا رساندیم او را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تخمی است غمت بدل فشاندیم او را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز آب دو دیده بردماندیم او را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالید چنان که ما در او گم شده ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنگر کآخر کجا رساندیم او را",
+      "CoupletIndex": 1
+    }
+  ]
+}

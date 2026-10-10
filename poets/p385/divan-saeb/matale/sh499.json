@@ -1,0 +1,42 @@
+{
+  "Id": 26587,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh499",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh499",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکر را نی به ناخن می کند دشنام تلخ تو\r\nبه شور حشر چشمک می زند بادام تلخ تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکر را نی به ناخن می کند دشنام تلخ تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به شور حشر چشمک می زند بادام تلخ تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

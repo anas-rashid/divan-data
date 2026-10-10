@@ -1,0 +1,57 @@
+{
+  "Id": 30426,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۶۹",
+  "FullUrl": "/p389/robghm/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نتوان گهر راز به هر مثقب سفت\r\nدوزند زبان و گوش ازین گفت و شنفت\r\nاظهار مکن آنچه نمی‌شاید کرد\r\nزنهار مگو آن چه نمی‌باید گفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نتوان گهر راز به هر مثقب سفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دوزند زبان و گوش ازین گفت و شنفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اظهار مکن آنچه نمی‌شاید کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار مگو آن چه نمی‌باید گفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18840,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۰۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۰۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین بیابان می‌برم خود را برون چون گردباد\r\nبیش ازین نتوان غبار خاطر صحرا شدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین بیابان می‌برم خود را برون چون گردباد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیش ازین نتوان غبار خاطر صحرا شدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

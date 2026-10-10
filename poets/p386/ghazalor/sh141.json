@@ -1,0 +1,93 @@
+{
+  "Id": 27549,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۴۱",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۴۱",
+  "FullUrl": "/p386/ghazalor/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اصلاح پریشانی ام اندازه ی کس نیست\r\nاجزای مرا نسبت شیرازه ی کس نیست\r\nسلمی طلبی چشم قدم شو که در این دشت\r\nغماز جرس همره جمازه ی کس نیست \r\nما شیونیان نغمه ندانیم که ما را \r\nگوشی است که بربسته ی آوازه ی کس نیست\r\nماییم و کهن برگ و بر باغچه ی عشق\r\nچشم دل ما بر ثمر تازه ی کس نیست\r\nعرفی مرو از میکده در صومعه، کانجا\r\nکس را غم مخموری و خمیازه ی کس نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اصلاح پریشانی ام اندازه ی کس نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اجزای مرا نسبت شیرازه ی کس نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سلمی طلبی چشم قدم شو که در این دشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غماز جرس همره جمازه ی کس نیست ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما شیونیان نغمه ندانیم که ما را ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گوشی است که بربسته ی آوازه ی کس نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ماییم و کهن برگ و بر باغچه ی عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چشم دل ما بر ثمر تازه ی کس نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی مرو از میکده در صومعه، کانجا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کس را غم مخموری و خمیازه ی کس نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37472,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۸۷",
+  "FullUrl": "/p394/ghazal/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست زهرآب فنا صهبای ما\r\nزهرهٔ شیران بود مینای ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست زهرآب فنا صهبای ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهرهٔ شیران بود مینای ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

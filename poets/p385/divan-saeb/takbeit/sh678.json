@@ -1,0 +1,45 @@
+{
+  "Id": 18209,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۷۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۷۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh678",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh678",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صفحهٔ روی ترا دید و ورق برگرداند\r\nساده لوحی که به من دوش نصیحت می‌کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صفحهٔ روی ترا دید و ورق برگرداند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساده لوحی که به من دوش نصیحت می‌کرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

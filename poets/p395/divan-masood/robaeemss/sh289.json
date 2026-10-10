@@ -1,0 +1,57 @@
+{
+  "Id": 37803,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۸۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۸۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh289",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh289",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از هر چه بگفته اند پندی دارم\r\nوز هر چه بگفته ام گزندی دارم\r\nگه بر گردن چو سگ کلندی دارم\r\nبر پای گهی چو پیل بندی دارم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از هر چه بگفته اند پندی دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز هر چه بگفته ام گزندی دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه بر گردن چو سگ کلندی دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر پای گهی چو پیل بندی دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

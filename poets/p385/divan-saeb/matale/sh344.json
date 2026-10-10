@@ -1,0 +1,42 @@
+{
+  "Id": 26432,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۴۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۴۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh344",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh344",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ شریفی خسیس رای نباشد\r\nآتش یاقوت ژاژخای نباشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ شریفی خسیس رای نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش یاقوت ژاژخای نباشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

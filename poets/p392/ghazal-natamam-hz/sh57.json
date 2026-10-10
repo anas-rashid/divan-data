@@ -1,0 +1,42 @@
+{
+  "Id": 34716,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخنور چون شدی، خاموش بنشین چون نگین اینجا\r\nگل شهرت بود، چون حرف باشد دلنشین اینجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخنور چون شدی، خاموش بنشین چون نگین اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل شهرت بود، چون حرف باشد دلنشین اینجا",
+      "CoupletIndex": 0
+    }
+  ]
+}

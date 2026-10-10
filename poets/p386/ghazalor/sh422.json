@@ -1,0 +1,93 @@
+{
+  "Id": 27830,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۴۲۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۴۲۲",
+  "FullUrl": "/p386/ghazalor/sh422",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh422",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دردی که به افسانه و افسون رود از دل\r\nصد شعبده انگیز که بیرون رود از دل\r\nممنونم از این شیوه که هر جور که کردی\r\nاندیشه نکردی که مرا چون رود از دل\r\nآن به که به دل ره ندهم روز سلامت\r\nآن ها که در آشوب شبیخون رود از دل\r\nاز بس که دل سوخته ام تشنهٔ صلح است\r\nهر جور که فردا کنی، اکنون رود از دل\r\nعرفی ره مجنون مرو، این درد نه دردی است\r\nکز بیهده گردیدن هامون رود از دل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردی که به افسانه و افسون رود از دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد شعبده انگیز که بیرون رود از دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ممنونم از این شیوه که هر جور که کردی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشه نکردی که مرا چون رود از دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن به که به دل ره ندهم روز سلامت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن ها که در آشوب شبیخون رود از دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از بس که دل سوخته ام تشنهٔ صلح است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر جور که فردا کنی، اکنون رود از دل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی ره مجنون مرو، این درد نه دردی است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کز بیهده گردیدن هامون رود از دل",
+      "CoupletIndex": 4
+    }
+  ]
+}

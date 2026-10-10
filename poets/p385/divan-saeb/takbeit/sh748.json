@@ -1,0 +1,45 @@
+{
+  "Id": 18279,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۴۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۴۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh748",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh748",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از جوانی نیست غیر از آه حسرت در دلم\r\nنقش پایی چند ازان طاوس زرین بال ماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جوانی نیست غیر از آه حسرت در دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقش پایی چند ازان طاوس زرین بال ماند",
+      "CoupletIndex": 0
+    }
+  ]
+}

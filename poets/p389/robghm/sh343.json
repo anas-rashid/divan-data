@@ -1,0 +1,57 @@
+{
+  "Id": 30600,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۴۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۴۳",
+  "FullUrl": "/p389/robghm/sh343",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh343",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خود نامه مژده گر گشایی چه شود؟\r\nتعجیل در آمدن نمایی چه شود؟\r\nتا آمدنت، نه صبر ماند نه شکیب\r\nگر پیشتر از آمدن آیی چه شود؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خود نامه مژده گر گشایی چه شود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تعجیل در آمدن نمایی چه شود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا آمدنت، نه صبر ماند نه شکیب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر پیشتر از آمدن آیی چه شود؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

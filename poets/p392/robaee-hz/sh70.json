@@ -1,0 +1,57 @@
+{
+  "Id": 34465,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/p392/robaee-hz/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرحند که حسن و عشق، مستور به است\r\nآیات نیاز و ناز، مشهور به است\r\nهر سینه که داغ نیست، خشت لحد است\r\nزان لب که ننالید، لب گور به است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرحند که حسن و عشق، مستور به است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیات نیاز و ناز، مشهور به است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سینه که داغ نیست، خشت لحد است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان لب که ننالید، لب گور به است",
+      "CoupletIndex": 1
+    }
+  ]
+}

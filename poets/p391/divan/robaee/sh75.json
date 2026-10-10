@@ -1,0 +1,57 @@
+{
+  "Id": 33346,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/p391/divan/robaee/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زان عارض لاله گون و آن خال بنفش\r\nنه فکر کلاه دارم و نه غم کفش\r\nبا آن سر مژگان دل خونین مرا\r\nباشد پیوسته صحبت مشت و درفش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان عارض لاله گون و آن خال بنفش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه فکر کلاه دارم و نه غم کفش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با آن سر مژگان دل خونین مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد پیوسته صحبت مشت و درفش",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30808,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۵۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۵۱",
+  "FullUrl": "/p389/robghm/sh551",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh551",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون مهرش اگر بود سپر در پنجه\r\nور پنجه کند چو پنجه‌ور در پنجه\r\nآن را که چو غنچه نیست زر در پنجه\r\nچون تیغ چه سودش از هنر در پنجه؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون مهرش اگر بود سپر در پنجه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور پنجه کند چو پنجه‌ور در پنجه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که چو غنچه نیست زر در پنجه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون تیغ چه سودش از هنر در پنجه؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

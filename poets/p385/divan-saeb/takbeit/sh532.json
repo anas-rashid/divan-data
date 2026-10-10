@@ -1,0 +1,45 @@
+{
+  "Id": 18063,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۳۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۳۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh532",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh532",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اختلافی نیست در گفتار ما دیوانگان\r\nبیش از یک ناله در صد حلقهٔ زنجیر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اختلافی نیست در گفتار ما دیوانگان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیش از یک ناله در صد حلقهٔ زنجیر نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

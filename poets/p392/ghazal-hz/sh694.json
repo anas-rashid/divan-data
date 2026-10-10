@@ -1,0 +1,93 @@
+{
+  "Id": 34121,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۹۴",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۹۴",
+  "FullUrl": "/p392/ghazal-hz/sh694",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh694",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دل سخت تو حرفی ز دل تنگ زدم\r\nحیف این گوهر یکدانه که بر سنگ زدم\r\nسر این حوصله نازم که به یک عمر، چو گل\r\nخون دل را به نشاط می گلرنگ زدم\r\nکارم امروز به افسرده دلان افتادهست\r\nای خوش آن نغمه که با مرغ شب آهنگ زدم\r\nنفس آشوب طلب با همه کس در همه حال\r\nصلح کل کرد چو با خویش در جنگ زدم\r\nبر نمی خاست صدایی ز دل زار حزین\r\nزخمه از خامه خود بر رگ این چنگ زدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دل سخت تو حرفی ز دل تنگ زدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیف این گوهر یکدانه که بر سنگ زدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر این حوصله نازم که به یک عمر، چو گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون دل را به نشاط می گلرنگ زدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کارم امروز به افسرده دلان افتادهست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای خوش آن نغمه که با مرغ شب آهنگ زدم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نفس آشوب طلب با همه کس در همه حال",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صلح کل کرد چو با خویش در جنگ زدم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر نمی خاست صدایی ز دل زار حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زخمه از خامه خود بر رگ این چنگ زدم",
+      "CoupletIndex": 4
+    }
+  ]
+}

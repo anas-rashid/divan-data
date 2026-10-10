@@ -1,0 +1,57 @@
+{
+  "Id": 27139,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۳۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۳۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh533",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh533",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شرم عشق دیده خونبار بسته ایم\r\nسدی میان دیده و دیدار بسته ایم\r\nجز آه، تخم سوخته را نیست خوشه ای\r\nما دل عبث به خال لب یار بسته ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شرم عشق دیده خونبار بسته ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سدی میان دیده و دیدار بسته ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز آه، تخم سوخته را نیست خوشه ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما دل عبث به خال لب یار بسته ایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

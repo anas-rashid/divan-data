@@ -1,0 +1,81 @@
+{
+  "Id": 29800,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۵۲",
+  "FullUrl": "/p389/ghazalgm/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب شود روز از خیال عارض جانان ما\r\nشمع گو منت منه بر کلبه احزان ما\r\nبر لب استغفار و در دل نقش روی و زلف یار\r\nبت درون پیرهن می‌پرورد ایمان ما\r\nدست ما تا با گریبان پاره‌کردن کرده خو\r\nتار و پود پیرهن بر تن بود زندان ما\r\nگلشن ما جای عشرت نیست ای بلبل برو\r\nجز دل پرخون گلی نشکفته در بستان ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب شود روز از خیال عارض جانان ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع گو منت منه بر کلبه احزان ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر لب استغفار و در دل نقش روی و زلف یار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بت درون پیرهن می‌پرورد ایمان ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دست ما تا با گریبان پاره‌کردن کرده خو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تار و پود پیرهن بر تن بود زندان ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گلشن ما جای عشرت نیست ای بلبل برو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جز دل پرخون گلی نشکفته در بستان ما",
+      "CoupletIndex": 3
+    }
+  ]
+}

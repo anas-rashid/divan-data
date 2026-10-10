@@ -1,0 +1,54 @@
+{
+  "Id": 32707,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۱۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۵",
+  "FullUrl": "/p391/divan/ghazal/sh615",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh615",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از آن گلگشت با غم بر سر فریاد می آرد\r\nکه سیر اومرا از خندهٔ گل یاد می آرد\r\nبه حسرت لخت دل از جیب آهم بر زمین آید\r\nچو آن برگ گلی کز بوستانش باد می آرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از آن گلگشت با غم بر سر فریاد می آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که سیر اومرا از خندهٔ گل یاد می آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به حسرت لخت دل از جیب آهم بر زمین آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو آن برگ گلی کز بوستانش باد می آرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

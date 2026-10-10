@@ -1,0 +1,57 @@
+{
+  "Id": 30370,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۱۳",
+  "FullUrl": "/p389/robghm/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا شاهد عشق تو در آغوش من است\r\nبر چرخ، هلال، حلقه در گوش من است\r\nپامال بود نه فلکم در ته پای\r\nتا غاشیه عشق تو بر دوش من است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا شاهد عشق تو در آغوش من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر چرخ، هلال، حلقه در گوش من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پامال بود نه فلکم در ته پای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا غاشیه عشق تو بر دوش من است",
+      "CoupletIndex": 1
+    }
+  ]
+}

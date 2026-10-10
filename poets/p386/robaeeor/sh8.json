@@ -1,0 +1,57 @@
+{
+  "Id": 28051,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۸",
+  "FullUrl": "/p386/robaeeor/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنم که قفای من جبین طلب است\r\nهر موی سرم دست گزین طلب است\r\nدستم دست است، کوششم کوشش، لیکن\r\nدامان تو فوق آستین طلب است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که قفای من جبین طلب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر موی سرم دست گزین طلب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دستم دست است، کوششم کوشش، لیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامان تو فوق آستین طلب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 27384,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۴۸",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شوخی ها به برق نوبهاران نسبتی دارد\r\nکه می ریزد چو باران خون و خندان است شمشیرش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شوخی ها به برق نوبهاران نسبتی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که می ریزد چو باران خون و خندان است شمشیرش",
+      "CoupletIndex": 0
+    }
+  ]
+}

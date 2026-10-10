@@ -1,0 +1,42 @@
+{
+  "Id": 26300,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh212",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh212",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به جز دندان کز آب زندگی چون آسیا گردد\r\nکدامین آسیا دیدی که از آب بقا گردد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به جز دندان کز آب زندگی چون آسیا گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کدامین آسیا دیدی که از آب بقا گردد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

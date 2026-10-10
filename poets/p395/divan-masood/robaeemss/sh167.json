@@ -1,0 +1,57 @@
+{
+  "Id": 37681,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۶۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۶۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh167",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh167",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد به وداعم آن نگار دلبر\r\nگریان و زنان دو دست بر یکدیگر\r\nپر خون رخش از زخم و رخ از گریه چو زر\r\nبر لاله کامگار و بر لؤلؤی تر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد به وداعم آن نگار دلبر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریان و زنان دو دست بر یکدیگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر خون رخش از زخم و رخ از گریه چو زر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر لاله کامگار و بر لؤلؤی تر",
+      "CoupletIndex": 1
+    }
+  ]
+}

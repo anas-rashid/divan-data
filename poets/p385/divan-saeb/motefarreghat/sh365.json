@@ -1,0 +1,57 @@
+{
+  "Id": 26971,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۶۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۶۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh365",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh365",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سحر که پرده ز رخ گلرخان براندازند\r\n( ) زلزله در ملک خاور اندازند\r\nحذر ز گرمی این ره مکن که آبله ها\r\nبه هر قدم که نهی فرش گوهر اندازند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سحر که پرده ز رخ گلرخان براندازند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "( ) زلزله در ملک خاور اندازند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حذر ز گرمی این ره مکن که آبله ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به هر قدم که نهی فرش گوهر اندازند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37273,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/p393/robaee/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه گذر به کربلا خواهی کرد\r\nوز صدق طواف شهدا خواهی کرد\r\nهرگاه که خواهی از خدا حاجت خویش\r\nدربارهٔ ما نیز دعا خواهی کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه گذر به کربلا خواهی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز صدق طواف شهدا خواهی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرگاه که خواهی از خدا حاجت خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دربارهٔ ما نیز دعا خواهی کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

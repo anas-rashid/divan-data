@@ -1,0 +1,42 @@
+{
+  "Id": 26318,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۳۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من آن سیلم که منزل پیش راه من نمی گیرد\r\nغبار از گرم رفتاری مرا دامن نمی گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من آن سیلم که منزل پیش راه من نمی گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار از گرم رفتاری مرا دامن نمی گیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

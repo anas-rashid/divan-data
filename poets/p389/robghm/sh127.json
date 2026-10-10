@@ -1,0 +1,57 @@
+{
+  "Id": 30384,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/p389/robghm/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که به وحدت خردت راهبرست\r\nطی کردن این راه به پای دگرست\r\nهر گام درین بادیه چندین خطرست\r\nترک دو جهان، علاوه ترک سرست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که به وحدت خردت راهبرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طی کردن این راه به پای دگرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گام درین بادیه چندین خطرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترک دو جهان، علاوه ترک سرست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 34773,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روشن از حیرت دل شد که دلارایی هست\r\nدر بر این آینه را، آینه سیمایی هست\r\nپای آوارگیم، رهبر دامن نشود\r\nگر بجز کوی تو، پنداشته ام، جایی هست\r\nوسعت آباد دل، افتاده حزین در پیشت\r\nبرو از خویش که خوش دامن صحرایی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روشن از حیرت دل شد که دلارایی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بر این آینه را، آینه سیمایی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پای آوارگیم، رهبر دامن نشود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بجز کوی تو، پنداشته ام، جایی هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "وسعت آباد دل، افتاده حزین در پیشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برو از خویش که خوش دامن صحرایی هست",
+      "CoupletIndex": 2
+    }
+  ]
+}

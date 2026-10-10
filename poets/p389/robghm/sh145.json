@@ -1,0 +1,57 @@
+{
+  "Id": 30402,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۴۵",
+  "FullUrl": "/p389/robghm/sh145",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh145",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهتر ز نبی ز سر حق آگه کیست\r\nای دوست چنان زی که رسول‌الله زیست\r\nپیغمبر ما ز رفرف آمد رنگین\r\nصوفی تو بگو دعوی بی‌رنگی چیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهتر ز نبی ز سر حق آگه کیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای دوست چنان زی که رسول‌الله زیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیغمبر ما ز رفرف آمد رنگین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صوفی تو بگو دعوی بی‌رنگی چیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

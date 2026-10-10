@@ -1,0 +1,54 @@
+{
+  "Id": 32481,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۹",
+  "FullUrl": "/p391/divan/ghazal/sh389",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh389",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خودآرا ترسم از پهلوی دلآزاریت\r\nدود برخیزد چو شمع از طرهٔ زرتاریت\r\nهمچو آن چشمی که مژگان باز در دیدن کند\r\nبرتنم بگسیخت تار بخیه زخم کاریت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خودآرا ترسم از پهلوی دلآزاریت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دود برخیزد چو شمع از طرهٔ زرتاریت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچو آن چشمی که مژگان باز در دیدن کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برتنم بگسیخت تار بخیه زخم کاریت",
+      "CoupletIndex": 1
+    }
+  ]
+}

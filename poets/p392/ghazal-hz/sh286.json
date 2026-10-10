@@ -1,0 +1,93 @@
+{
+  "Id": 33713,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۸۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۸۶",
+  "FullUrl": "/p392/ghazal-hz/sh286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهل آهنگ سلطانی درین کاخ\r\nسرآور با پریشانی درین کاخ\r\nاگر شیری،که از موری زبونی\r\nمزن طبل سلیمانی درین کاخ\r\nدرخشان می شود مانند خورشید\r\nجبین، از سجده افشانی درین کاخ\r\nبهار غنچه ای کش بی خزان نیست\r\nبود سر درگریبانی درین کاخ\r\nنیفشانی حزین تخم امیدی\r\nکه بار آرد پشیمانی درین کاخ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهل آهنگ سلطانی درین کاخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرآور با پریشانی درین کاخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر شیری،که از موری زبونی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مزن طبل سلیمانی درین کاخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درخشان می شود مانند خورشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جبین، از سجده افشانی درین کاخ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بهار غنچه ای کش بی خزان نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بود سر درگریبانی درین کاخ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نیفشانی حزین تخم امیدی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که بار آرد پشیمانی درین کاخ",
+      "CoupletIndex": 4
+    }
+  ]
+}

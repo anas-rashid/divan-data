@@ -1,0 +1,93 @@
+{
+  "Id": 22682,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۶۰۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۶۰۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3609",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3609",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به سخن دعوی بی اصل مبرهن نشود\r\nحرف کج راست به زور رگ گردن نشود\r\nمی توان دید ز صد پرده دل روشن را\r\nاین چراغی است که پوشیده به دامن نشود\r\nنشود رهزن روشن گهران نقش و نگار\r\nآب را سیر چمن مانع رفتن نشود\r\nخصمیی نیست ضعیفان جهان را باهم\r\nآتش سنگ خموش از نم آهن نشود\r\nاز تن زارم اگر رشته سرانجام دهند\r\nمانع روشنی دیده سوزان نشود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به سخن دعوی بی اصل مبرهن نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حرف کج راست به زور رگ گردن نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می توان دید ز صد پرده دل روشن را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این چراغی است که پوشیده به دامن نشود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نشود رهزن روشن گهران نقش و نگار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آب را سیر چمن مانع رفتن نشود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خصمیی نیست ضعیفان جهان را باهم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آتش سنگ خموش از نم آهن نشود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از تن زارم اگر رشته سرانجام دهند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مانع روشنی دیده سوزان نشود",
+      "CoupletIndex": 4
+    }
+  ]
+}

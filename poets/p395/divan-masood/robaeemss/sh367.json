@@ -1,0 +1,57 @@
+{
+  "Id": 37881,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۶۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۶۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh367",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh367",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شیرینی چون به سخن بنشینی\r\nاز دو لب خود شکر به دامن چینی\r\nدر بوسه لب تو گویدم می بینی\r\nهرگز شکر سرخ بدین شیرینی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شیرینی چون به سخن بنشینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دو لب خود شکر به دامن چینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بوسه لب تو گویدم می بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز شکر سرخ بدین شیرینی",
+      "CoupletIndex": 1
+    }
+  ]
+}

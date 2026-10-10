@@ -1,0 +1,45 @@
+{
+  "Id": 18099,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۶۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۶۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh568",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh568",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خو به هجران کرده را ظرف شراب وصل نیست\r\nخشک لب می‌بایدم چون کشتی از دریا گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خو به هجران کرده را ظرف شراب وصل نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشک لب می‌بایدم چون کشتی از دریا گذشت",
+      "CoupletIndex": 0
+    }
+  ]
+}

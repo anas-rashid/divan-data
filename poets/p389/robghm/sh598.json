@@ -1,0 +1,57 @@
+{
+  "Id": 30855,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۹۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۹۸",
+  "FullUrl": "/p389/robghm/sh598",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh598",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پُر پیش فتاده‌ای، قفایی نخوری\r\nپای غلط از چون و چرایی نخوری\r\nجمع است ز مهربانی عشق، دلت\r\nیا رب ز فریب عقل، پایی نخوری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پُر پیش فتاده‌ای، قفایی نخوری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پای غلط از چون و چرایی نخوری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جمع است ز مهربانی عشق، دلت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب ز فریب عقل، پایی نخوری",
+      "CoupletIndex": 1
+    }
+  ]
+}

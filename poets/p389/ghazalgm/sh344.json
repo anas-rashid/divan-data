@@ -1,0 +1,93 @@
+{
+  "Id": 30092,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۴۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۴۴",
+  "FullUrl": "/p389/ghazalgm/sh344",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh344",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمعیم و تن ز اشک دمادم گداختیم\r\nداغیم و از تبسم مرهم گداختیم\r\nاز بس که کرده‌ایم به غم، خویش را غلط\r\nغم ناتوان و ما ز تب غم گداختیم\r\nای جان برو، چو عهد دلم تازه کرد غم\r\nکز اختلاط ساخته هم، گداختیم\r\nدر مهر شعله ز آتش پروانه سوختیم\r\nدر عشق گل ز غیرت شبنم گداختیم\r\nکس تهمت شفا ننهد بر مریض عشق\r\nقدسی ز لاف عیسی مریم گداختیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمعیم و تن ز اشک دمادم گداختیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغیم و از تبسم مرهم گداختیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که کرده‌ایم به غم، خویش را غلط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم ناتوان و ما ز تب غم گداختیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای جان برو، چو عهد دلم تازه کرد غم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز اختلاط ساخته هم، گداختیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در مهر شعله ز آتش پروانه سوختیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در عشق گل ز غیرت شبنم گداختیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کس تهمت شفا ننهد بر مریض عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "قدسی ز لاف عیسی مریم گداختیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

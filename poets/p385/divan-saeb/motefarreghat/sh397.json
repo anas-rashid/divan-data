@@ -1,0 +1,57 @@
+{
+  "Id": 27003,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh397",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh397",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این ناقصان که فخر به انساب می کنند\r\nپس پس سفر چو طفل رسن تاب می کنند\r\nاسلاف را هم از نسب خود کنند خوار\r\nبس نیست این ستم که به اعقاب می کنند؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این ناقصان که فخر به انساب می کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پس پس سفر چو طفل رسن تاب می کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اسلاف را هم از نسب خود کنند خوار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس نیست این ستم که به اعقاب می کنند؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

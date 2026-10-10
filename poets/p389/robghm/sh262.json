@@ -1,0 +1,57 @@
+{
+  "Id": 30519,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۶۲",
+  "FullUrl": "/p389/robghm/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آسوده ز صید عام کی خواهی شد\r\nفارغ ز خیال خام کی خواهی شد\r\nعمرت همه صرف علم شد، کو علمت؟\r\nانگاره شدی، تمام کی خواهی شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسوده ز صید عام کی خواهی شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فارغ ز خیال خام کی خواهی شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمرت همه صرف علم شد، کو علمت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انگاره شدی، تمام کی خواهی شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

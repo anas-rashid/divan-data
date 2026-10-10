@@ -1,0 +1,93 @@
+{
+  "Id": 27457,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۴۹",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۴۹",
+  "FullUrl": "/p386/ghazalor/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کوکبه ی رحمت جاوید بلند است\r\nبخت طلب و طالع امید بلند است\r\nآوازه ی رندی به جهان پست نگردد\r\nتا زمزمه ی جام ز جمشید بلند است\r\nما گلخنی یان بس که ز بد نامی راحت\r\nاز سایه نشینان گل بید بلند است\r\nچون شیونی یان همدمی ما نگرفتند \r\nاز محفل ما نغمه ی ناهید بلند است\r\nعرفی خبر از جلوه ی معشوق ندارد\r\nبا ذره بگویند که خورشید بلند است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کوکبه ی رحمت جاوید بلند است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخت طلب و طالع امید بلند است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آوازه ی رندی به جهان پست نگردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زمزمه ی جام ز جمشید بلند است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما گلخنی یان بس که ز بد نامی راحت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از سایه نشینان گل بید بلند است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون شیونی یان همدمی ما نگرفتند ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از محفل ما نغمه ی ناهید بلند است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی خبر از جلوه ی معشوق ندارد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با ذره بگویند که خورشید بلند است",
+      "CoupletIndex": 4
+    }
+  ]
+}

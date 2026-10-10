@@ -1,0 +1,57 @@
+{
+  "Id": 28888,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/p387/divan/robaee/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خاک در تو سرمه بینائی\r\nافسوس که بعد از این جهان پیمائی\r\nلشکر همه در شهر فرود آمد و من\r\nدر خانه زین بماندم از بیجائی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خاک در تو سرمه بینائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسوس که بعد از این جهان پیمائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لشکر همه در شهر فرود آمد و من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانه زین بماندم از بیجائی",
+      "CoupletIndex": 1
+    }
+  ]
+}

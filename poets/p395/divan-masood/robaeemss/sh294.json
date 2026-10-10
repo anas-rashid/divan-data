@@ -1,0 +1,57 @@
+{
+  "Id": 37808,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۹۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۹۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh294",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh294",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیده همه شب ز خواب خوش بردوزم\r\nبر تن گریم چو شمع و از دل سوزم\r\nاز آرزوی خیال جان افروزم\r\nدر آرزوی خواب شبی تا روزم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیده همه شب ز خواب خوش بردوزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر تن گریم چو شمع و از دل سوزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آرزوی خیال جان افروزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آرزوی خواب شبی تا روزم",
+      "CoupletIndex": 1
+    }
+  ]
+}

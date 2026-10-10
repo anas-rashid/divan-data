@@ -1,0 +1,57 @@
+{
+  "Id": 37723,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۰۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۰۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh209",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh209",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن دل که نخواستت چه نامست آن دل\r\nنه از در پرسش و سلامست آن دل\r\nدیوانه و ابله تمامست آن دل\r\nبیزارم از آن دل و کدامست آن دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن دل که نخواستت چه نامست آن دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه از در پرسش و سلامست آن دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیوانه و ابله تمامست آن دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیزارم از آن دل و کدامست آن دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

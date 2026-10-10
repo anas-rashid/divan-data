@@ -1,0 +1,57 @@
+{
+  "Id": 32027,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/p390/divan/robaee/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دردا که ز دست، یار بگزیده برفت\r\nآرام و قرار دل غمدیده برفت\r\nشد دیده سفید و دل سیاه است، که گفت؟\r\nکز دل برود هر آنچه از دیده برفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که ز دست، یار بگزیده برفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آرام و قرار دل غمدیده برفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد دیده سفید و دل سیاه است، که گفت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز دل برود هر آنچه از دیده برفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

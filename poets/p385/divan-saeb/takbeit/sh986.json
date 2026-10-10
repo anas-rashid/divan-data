@@ -1,0 +1,45 @@
+{
+  "Id": 18517,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۸۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۸۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh986",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh986",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برهمن از حضور بت، دل آسوده‌ای دارد\r\nنباشد دل به جا آن را که در غیب است معبودش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برهمن از حضور بت، دل آسوده‌ای دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نباشد دل به جا آن را که در غیب است معبودش",
+      "CoupletIndex": 0
+    }
+  ]
+}

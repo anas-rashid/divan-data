@@ -1,0 +1,54 @@
+{
+  "Id": 37272,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/p393/robaee/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبرم به دل تو هیچ تأثیر نکرد\r\nکس حال مرا پیش تو تقریر نکرد\r\nکردم بسیار جهد افسوس افسوس\r\nتدبیر موافقت به تقدیر نکرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبرم به دل تو هیچ تأثیر نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کس حال مرا پیش تو تقریر نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردم بسیار جهد افسوس افسوس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تدبیر موافقت به تقدیر نکرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

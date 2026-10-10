@@ -1,0 +1,57 @@
+{
+  "Id": 26987,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh381",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh381",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خلد تسخیر دل اهل محبت نکند\r\nبرق در بوته خاشاک اقامت نکند\r\nکرد دلگیر سفرپای گرانخواب، مرا\r\nهیچ کس با قلم کند کتابت نکند!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خلد تسخیر دل اهل محبت نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برق در بوته خاشاک اقامت نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرد دلگیر سفرپای گرانخواب، مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هیچ کس با قلم کند کتابت نکند!",
+      "CoupletIndex": 1
+    }
+  ]
+}

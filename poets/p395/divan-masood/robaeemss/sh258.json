@@ -1,0 +1,57 @@
+{
+  "Id": 37772,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۵۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۵۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر روی تو مهربان و دلسوز منم\r\nپیش تو به مهرگان و نوروز منم\r\nبر لشگر هجران تو پیروز منم\r\nسر دفتر عاشقان امروز منم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر روی تو مهربان و دلسوز منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش تو به مهرگان و نوروز منم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر لشگر هجران تو پیروز منم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر دفتر عاشقان امروز منم",
+      "CoupletIndex": 1
+    }
+  ]
+}

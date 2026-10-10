@@ -1,0 +1,66 @@
+{
+  "Id": 36450,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۹",
+  "FullUrl": "/p393/natmam/sh299",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh299",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عبث بی‌عشق عمری زیستم من\r\nنه فرهادم نه مجنون کیستم من\r\nبه بزمت آمدم حکمی بفرما\r\nنشینم یا روم یا ایستم من\r\nشنیدم نالهٔ مرغ قفس را\r\nبه یاد دل بسی بگریستم من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عبث بی‌عشق عمری زیستم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه فرهادم نه مجنون کیستم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به بزمت آمدم حکمی بفرما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشینم یا روم یا ایستم من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شنیدم نالهٔ مرغ قفس را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به یاد دل بسی بگریستم من",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37874,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۶۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۶۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh360",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh360",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ابر ز بحر تا هوایی شده ای\r\nگویی که کف حاتم طایی شده ای\r\nنه نه که کف دست علایی شده ای\r\nزان مایه رحمت خدایی شده ای",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ابر ز بحر تا هوایی شده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که کف حاتم طایی شده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه نه که کف دست علایی شده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان مایه رحمت خدایی شده ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

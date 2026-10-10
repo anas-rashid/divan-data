@@ -1,0 +1,45 @@
+{
+  "Id": 17692,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۶۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۶۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh161",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh161",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که می‌بیند چو کشتی بر لب ساحل مرا\r\nمی‌نهد از دوش خود، بار گران بر دل مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که می‌بیند چو کشتی بر لب ساحل مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌نهد از دوش خود، بار گران بر دل مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

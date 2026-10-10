@@ -1,0 +1,57 @@
+{
+  "Id": 32063,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/p390/divan/robaee/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا بلبل طبع دارد آهنگ غزل\r\nتا دل خواند قصیده ی طول امل\r\nباشد به بیاض گردن دشمن تو\r\nشمشیر تو پیش مصرع تیغ اجل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بلبل طبع دارد آهنگ غزل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دل خواند قصیده ی طول امل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد به بیاض گردن دشمن تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر تو پیش مصرع تیغ اجل",
+      "CoupletIndex": 1
+    }
+  ]
+}

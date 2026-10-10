@@ -1,0 +1,42 @@
+{
+  "Id": 26184,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۹۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زخم زبان به جوش نیارد فسرده را\r\nنشتر سبک عنان نکند خون مرده را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زخم زبان به جوش نیارد فسرده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشتر سبک عنان نکند خون مرده را",
+      "CoupletIndex": 0
+    }
+  ]
+}

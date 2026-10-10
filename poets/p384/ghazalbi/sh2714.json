@@ -1,0 +1,93 @@
+{
+  "Id": 17417,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۲۷۱۴",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۲۷۱۴",
+  "FullUrl": "/p384/ghazalbi/sh2714",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh2714",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگه از مستی چشم تو با ساغر کند بازی\r\nحیا از رنگ تمکین تو با گوهر کند بازی\r\nاگر بیند هجوم خط به دور شکّر لعلش\r\nز حسرت مور جوهر در دم خنجر کند بازی\r\nبه دوران تو گردون مهرهٔ سیاره می‌چیند\r\nبفرما چشم فتان را که تا ابتر کند بازی\r\nبه بزم بیقراری مشرب عیش شرر دارم\r\nمن و اشکی ‌که چون اطفال با اخگر کند بازی\r\nاگر تحریر خط دلفریبش سر کنم بیدل\r\nزبان ‌کلک خشک من به مشک تر کند بازی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگه از مستی چشم تو با ساغر کند بازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیا از رنگ تمکین تو با گوهر کند بازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر بیند هجوم خط به دور شکّر لعلش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز حسرت مور جوهر در دم خنجر کند بازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به دوران تو گردون مهرهٔ سیاره می‌چیند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بفرما چشم فتان را که تا ابتر کند بازی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به بزم بیقراری مشرب عیش شرر دارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "من و اشکی ‌که چون اطفال با اخگر کند بازی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر تحریر خط دلفریبش سر کنم بیدل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زبان ‌کلک خشک من به مشک تر کند بازی",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33727,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۰۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۰۰",
+  "FullUrl": "/p392/ghazal-hz/sh300",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh300",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبی ز هجر تو ما را به سر نمی‌آید\r\nکه پارهٔ جگر از چشم تر نمی‌آید\r\nبه رنگ مو، ز سرم خار پا برون آمد\r\nچه‌ها که در ره عشقت به سر نمی‌آید\r\nنکوست هرچه کند با من فلک‌زده دوست\r\nکه بد، به دیدهٔ صاحب‌نظر نمی‌آید\r\nمگر به رنگ سبو، می به کام ما ریزند\r\nز دست بستهٔ ما کار بر نمی‌آید\r\nحزین بی‌خبر از خود، ز خود خبردار است\r\nتو را که با خودی، از خود خبر نمی‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبی ز هجر تو ما را به سر نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که پارهٔ جگر از چشم تر نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رنگ مو، ز سرم خار پا برون آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه‌ها که در ره عشقت به سر نمی‌آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نکوست هرچه کند با من فلک‌زده دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که بد، به دیدهٔ صاحب‌نظر نمی‌آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مگر به رنگ سبو، می به کام ما ریزند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز دست بستهٔ ما کار بر نمی‌آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین بی‌خبر از خود، ز خود خبردار است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تو را که با خودی، از خود خبر نمی‌آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

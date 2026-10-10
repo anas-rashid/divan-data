@@ -1,0 +1,54 @@
+{
+  "Id": 34828,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۶۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساقی مباد عیدی ما کوتهی شود\r\nپیمانهٔ هلال پر از می، تهی شود\r\nخود در عزای خویش نشیند به زندگی\r\nبیمار عشق را، چو امید بهی شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی مباد عیدی ما کوتهی شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیمانهٔ هلال پر از می، تهی شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود در عزای خویش نشیند به زندگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیمار عشق را، چو امید بهی شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

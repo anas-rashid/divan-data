@@ -1,0 +1,45 @@
+{
+  "Id": 34784,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دو نان، به دل زنند سنان از زبان بحث\r\nزه کرده اند از رگ گردن کمان بحث",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو نان، به دل زنند سنان از زبان بحث",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زه کرده اند از رگ گردن کمان بحث",
+      "CoupletIndex": 0
+    }
+  ]
+}

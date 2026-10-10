@@ -1,0 +1,66 @@
+{
+  "Id": 31963,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۲۵ - طلب شراب",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۲۵ - طلب شراب",
+  "FullUrl": "/p390/divan/ghete/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سحاب حدیقه ی احسان\r\nاز تو در خوشاب می خواهم\r\nهر گدایی چراغ می طلبد\r\nاز تو من آفتاب می خواهم\r\nصبح خورشید در شکم، یعنی\r\nشیشه ی پر شراب می خواهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سحاب حدیقه ی احسان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تو در خوشاب می خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گدایی چراغ می طلبد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از تو من آفتاب می خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صبح خورشید در شکم، یعنی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شیشه ی پر شراب می خواهم",
+      "CoupletIndex": 2
+    }
+  ]
+}

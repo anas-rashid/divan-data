@@ -1,0 +1,54 @@
+{
+  "Id": 31961,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۲۳",
+  "FullUrl": "/p390/divan/ghete/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فراوان تاجداران را که از مرگ\r\nز ملک و مملکت شد دست کوتاه\r\nجهان را خاتم فیروزه ای دان\r\nکه نقش او بود الملک لله",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فراوان تاجداران را که از مرگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز ملک و مملکت شد دست کوتاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جهان را خاتم فیروزه ای دان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نقش او بود الملک لله",
+      "CoupletIndex": 1
+    }
+  ]
+}

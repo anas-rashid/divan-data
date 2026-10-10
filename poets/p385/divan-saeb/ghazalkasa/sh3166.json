@@ -1,0 +1,93 @@
+{
+  "Id": 22239,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۱۶۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۱۶۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از غش صاف چون گردید در دنیا نمی ماند\r\nچو خرمن پاک شد در دامن صحرا نمی ماند\r\nنباشد چشم در دنبال ارواح مقدس را\r\nزعیسی سوزنی بر جای در دنیا نمی ماند\r\nسخن کش می کند خالی دل ارباب معنی را\r\nزغواصان گهر در سینه دریا نمی ماند\r\nحدیث پوچ گویان بی تأمل بر زبان آید\r\nکف بی مغز هرگز در دل دریا نمی ماند\r\nحذر کن چون عقاب از سایه بال هما صائب\r\nکه در یک جا دو ساعت دولت دنیا نمی ماند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از غش صاف چون گردید در دنیا نمی ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو خرمن پاک شد در دامن صحرا نمی ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نباشد چشم در دنبال ارواح مقدس را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زعیسی سوزنی بر جای در دنیا نمی ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سخن کش می کند خالی دل ارباب معنی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زغواصان گهر در سینه دریا نمی ماند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حدیث پوچ گویان بی تأمل بر زبان آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کف بی مغز هرگز در دل دریا نمی ماند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حذر کن چون عقاب از سایه بال هما صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که در یک جا دو ساعت دولت دنیا نمی ماند",
+      "CoupletIndex": 4
+    }
+  ]
+}

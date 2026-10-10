@@ -1,0 +1,54 @@
+{
+  "Id": 36577,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۹۷",
+  "FullUrl": "/p393/ghete/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کجا آن قد و قامت باشد\r\nراستی را که قیامت باشد\r\nنیست ما را سر گلزار بهشت\r\nسر کوی تو سلامت باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کجا آن قد و قامت باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راستی را که قیامت باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست ما را سر گلزار بهشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر کوی تو سلامت باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

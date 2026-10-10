@@ -1,0 +1,66 @@
+{
+  "Id": 36327,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۷۶",
+  "FullUrl": "/p393/natmam/sh176",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh176",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم افزون شد نپرسیدی چرا شد\r\nدلم خون شد نپرسیدی چرا شد\r\nسرشکم بود بس بی‌رنگ اکنون\r\nجگرگون شد نپرسیدی چرا شد\r\nفغان من که بد زندانی دل\r\nبه گردون شد نپرسیدی چرا شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم افزون شد نپرسیدی چرا شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلم خون شد نپرسیدی چرا شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرشکم بود بس بی‌رنگ اکنون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جگرگون شد نپرسیدی چرا شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فغان من که بد زندانی دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به گردون شد نپرسیدی چرا شد",
+      "CoupletIndex": 2
+    }
+  ]
+}

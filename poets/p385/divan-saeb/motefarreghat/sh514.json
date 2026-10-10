@@ -1,0 +1,57 @@
+{
+  "Id": 27120,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۱۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۱۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh514",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh514",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر سر خوان امل دست هوس می‌بندم\r\nدر شکرزار، پر و بال مگس می‌بندم\r\nشوق در هیچ مقامی نکند آسایش\r\nدر گلستانم و احرام قفس می‌بندم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر سر خوان امل دست هوس می‌بندم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در شکرزار، پر و بال مگس می‌بندم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شوق در هیچ مقامی نکند آسایش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گلستانم و احرام قفس می‌بندم",
+      "CoupletIndex": 1
+    }
+  ]
+}

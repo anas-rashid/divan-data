@@ -1,0 +1,57 @@
+{
+  "Id": 37844,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۳۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشک از سر زلفین تو بویم پس ازین\r\nگرد در تو بدیده پویم پس از این\r\nپیوسته رضای تو بجویم پس ازین\r\nجز با تو حدیث کس نگویم پس ازین",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشک از سر زلفین تو بویم پس ازین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد در تو بدیده پویم پس از این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیوسته رضای تو بجویم پس ازین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز با تو حدیث کس نگویم پس ازین",
+      "CoupletIndex": 1
+    }
+  ]
+}

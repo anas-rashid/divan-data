@@ -1,0 +1,45 @@
+{
+  "Id": 27143,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh537",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh537",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خط به مهربانی ما بدگمان مشو\r\nما با لبت نمک به حرامی نخورده ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خط به مهربانی ما بدگمان مشو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما با لبت نمک به حرامی نخورده ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

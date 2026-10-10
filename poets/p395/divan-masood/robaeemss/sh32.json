@@ -1,0 +1,57 @@
+{
+  "Id": 37546,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بودم صنما چو رفته هوشان همه شب\r\nوز آتش اندوه تو جوشان همه شب\r\nبا لشگر هجران تو کوشان همه شب\r\nرخساره خراشان و خروشان همه شب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بودم صنما چو رفته هوشان همه شب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز آتش اندوه تو جوشان همه شب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با لشگر هجران تو کوشان همه شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رخساره خراشان و خروشان همه شب",
+      "CoupletIndex": 1
+    }
+  ]
+}

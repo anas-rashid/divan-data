@@ -1,0 +1,57 @@
+{
+  "Id": 34798,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۳۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh139",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh139",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با داغ محبت، دل دیوانه نسازد\r\nدریاکش مخمور به پیمانه نسازد\r\nخاطر نکند عشق، ز معموری ما جمع\r\nتا جغد، به وبرانهٔ ما خانه نسازد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با داغ محبت، دل دیوانه نسازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریاکش مخمور به پیمانه نسازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاطر نکند عشق، ز معموری ما جمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا جغد، به وبرانهٔ ما خانه نسازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

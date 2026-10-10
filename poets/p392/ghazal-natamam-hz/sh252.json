@@ -1,0 +1,69 @@
+{
+  "Id": 34911,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۵۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بتکده نامحرم و در کعبه غریبم\r\nآیا که حوالت به کجا کرده نصیبم؟\r\nمفتی، ز اصول و ز فروعم خبری نیست\r\nیک مسأله جز عشق، نیاموخت ادیبم\r\nمن حوصله ساز ستم عشق نبودم\r\nاز عشوه دلم دادی و از جلوه، فریبم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بتکده نامحرم و در کعبه غریبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیا که حوالت به کجا کرده نصیبم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مفتی، ز اصول و ز فروعم خبری نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک مسأله جز عشق، نیاموخت ادیبم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "من حوصله ساز ستم عشق نبودم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از عشوه دلم دادی و از جلوه، فریبم",
+      "CoupletIndex": 2
+    }
+  ]
+}

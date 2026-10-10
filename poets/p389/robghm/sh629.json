@@ -1,0 +1,57 @@
+{
+  "Id": 30886,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۹",
+  "FullUrl": "/p389/robghm/sh629",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh629",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در شعر شوی گر انوری را ثانی\r\nتحسین تو کس نمی‌کند تا دانی\r\nآن به، که چو اطفال به مکتب‌خانه\r\nخود خوانی و بر خویش سری جنبانی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در شعر شوی گر انوری را ثانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تحسین تو کس نمی‌کند تا دانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن به، که چو اطفال به مکتب‌خانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود خوانی و بر خویش سری جنبانی",
+      "CoupletIndex": 1
+    }
+  ]
+}

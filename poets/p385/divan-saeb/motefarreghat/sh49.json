@@ -1,0 +1,57 @@
+{
+  "Id": 26655,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیوه ما گرد جانان بی خبر گردیدن است\r\nگرد دل گردیدن ما گرد سر گردیدن است\r\nدر محرم تا چه خونها در دل مردم کند\r\nمحنت آبادی که عیدش دربدر گردیدن است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیوه ما گرد جانان بی خبر گردیدن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد دل گردیدن ما گرد سر گردیدن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در محرم تا چه خونها در دل مردم کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محنت آبادی که عیدش دربدر گردیدن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

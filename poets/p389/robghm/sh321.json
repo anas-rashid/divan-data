@@ -1,0 +1,57 @@
+{
+  "Id": 30578,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۲۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۲۱",
+  "FullUrl": "/p389/robghm/sh321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بوده در آنچه بوده و هست و بوَد\r\nمعبود بر آن چه بوده و هست و بود\r\nهر موجودی که هست فانی گردد\r\nهستی تو هر آن چه بوده و هست و بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بوده در آنچه بوده و هست و بوَد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معبود بر آن چه بوده و هست و بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر موجودی که هست فانی گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هستی تو هر آن چه بوده و هست و بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

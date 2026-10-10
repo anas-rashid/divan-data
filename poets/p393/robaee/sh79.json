@@ -1,0 +1,54 @@
+{
+  "Id": 37251,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/p393/robaee/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زاهد گل‌گشت باغ می‌باید کرد\r\nکسب فرح از ایاغ می‌باید کرد\r\nاصلاح مزاج از ضروریات است\r\nیک تنقیه دماغ می‌باید کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهد گل‌گشت باغ می‌باید کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کسب فرح از ایاغ می‌باید کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اصلاح مزاج از ضروریات است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک تنقیه دماغ می‌باید کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

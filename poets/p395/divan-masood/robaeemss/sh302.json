@@ -1,0 +1,57 @@
+{
+  "Id": 37816,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۰۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۰۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh302",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh302",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنگم به چهار شاخ زد پیراهن\r\nچنگست مگر چهار شاخ از آهن\r\nدر اشک چهار شاخ آن شاخ سمن\r\nشد باز چهار شاخ کفته رخ من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنگم به چهار شاخ زد پیراهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چنگست مگر چهار شاخ از آهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در اشک چهار شاخ آن شاخ سمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد باز چهار شاخ کفته رخ من",
+      "CoupletIndex": 1
+    }
+  ]
+}

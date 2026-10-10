@@ -1,0 +1,57 @@
+{
+  "Id": 30689,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳۲",
+  "FullUrl": "/p389/robghm/sh432",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh432",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خورشید که از پی بروند افلاکش\r\nباید جستن به دیده نمناکش\r\nخاکش ارزد به خون صد چشمه خضر\r\nآبی که خورد به راه دریا، خاکش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید که از پی بروند افلاکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید جستن به دیده نمناکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاکش ارزد به خون صد چشمه خضر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آبی که خورد به راه دریا، خاکش",
+      "CoupletIndex": 1
+    }
+  ]
+}
