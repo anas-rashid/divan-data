@@ -68,6 +68,9 @@ Persian (فارسی) works come from Ganjoor's public data, [ganjoor/ganjoor-dat
 at the commit pinned in `ganjoor.json`: Muhammad Iqbal, Mirza Ghalib and Amir Khusrow so far. `ganjoor.py` checks out
 only those poets and `export_divan.py` adds a «فارسی» section under each of them (`poets/<poet>/farsi/`). Every poem
 keeps its link to ganjoor.net (`SourceUrl`), its metre, and Ganjoor's text; Ganjoor's AI-written summaries are left out.
+Once a month the Divan server runs `ganjoor_update.py --commit`: when Ganjoor's newer data changes any of these poets,
+it moves the pin and commits that, and the nightly sync rebuilds their works. `python3 ganjoor_update.py` alone only
+reports.
 These texts are Ganjoor's: credit *"Ganjoor (ganjoor.net)"* when reusing them.
 Divan is an independent project: it is not an official Ganjoor app, and it is not affiliated with or endorsed by Ganjoor.
 
