@@ -52,6 +52,12 @@ The repo root also holds the data in the [ganjoor-data](https://github.com/ganjo
 
 It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorService) through its "public data import" page: give it the base URL above. Poets are `/p{id}`, categories are a genre slug (`ghazal`, `nazm`, …) or `c{id}`, and poems are `sh{id}`. Ids stay stable across syncs. Poet years are converted to approximate Hijri, following Ganjoor's convention.
 
+## How it is built
+
+The scripts here, and the Divan site that publishes this data, are built by Muhammad Anas Rashid with the help of AI
+agents and coding tools. The texts are not AI-generated: they come from Urdu Wikisource and Wikipedia, and Divan's
+own versions are written and reviewed by its human moderators.
+
 ## License
 
 - **Data: [CC BY-SA 4.0](LICENSE).** Everything this repository publishes: `divan.db`, `manifest.json`, `poets/`, `index/`, `export/`, and `divan/` (Divan's own moderated versions, arrangements, tags and e-book records). The literary works themselves are in the public domain; the compilation comes from Urdu Wikisource, Wikipedia and Divan's moderators. When reusing it, credit *"Urdu Wikisource and Wikipedia contributors, and Divan"* and share alike. Every record keeps its source `url`.
