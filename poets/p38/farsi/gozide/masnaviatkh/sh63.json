@@ -1,0 +1,69 @@
+{
+  "Id": 11156,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۶۳ - تنسیق الصفات",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۶۳ - تنسیق الصفات",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh63",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh63",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باد! همه وقت، به شادی و ناز\r\nباده کش و خصم کش و بزم ساز\r\nلشکر مشرق «زاودهٔ» تا به بنگ\r\nچیره دل و خیره کش و تیز چنگ\r\nچند هزارش ز سواران کار\r\nتیغ زن و کینه کش و نامدار",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باد! همه وقت، به شادی و ناز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باده کش و خصم کش و بزم ساز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لشکر مشرق «زاودهٔ» تا به بنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چیره دل و خیره کش و تیز چنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چند هزارش ز سواران کار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تیغ زن و کینه کش و نامدار",
+      "CoupletIndex": 2
+    }
+  ]
+}

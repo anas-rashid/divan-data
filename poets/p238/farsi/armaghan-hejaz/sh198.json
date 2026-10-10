@@ -1,0 +1,57 @@
+{
+  "Id": 14062,
+  "CatId": 1045,
+  "Title": "بخش ۱۹۷ - ز رومی گیر اسرار فقیری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۹۷ - ز رومی گیر اسرار فقیری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh198",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh198",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز رومی گیر اسرار فقیری \r\nکهن فقر است محسود امیری\r\nحذر زان فقر و درویشی که از وی\r\nرسیدی بر مقام سر بزیری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز رومی گیر اسرار فقیری ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کهن فقر است محسود امیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حذر زان فقر و درویشی که از وی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رسیدی بر مقام سر بزیری",
+      "CoupletIndex": 1
+    }
+  ]
+}

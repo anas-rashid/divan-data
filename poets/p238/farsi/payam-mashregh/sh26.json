@@ -1,0 +1,57 @@
+{
+  "Id": 13363,
+  "CatId": 1041,
+  "Title": "بخش ۲۶ - سحر در شاخسار بوستانی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۶ - سحر در شاخسار بوستانی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سحر در شاخسار بوستانی\r\nچه خوش میگفت مرغ نغمه خوانی\r\nبر آور هر چه اندر سینه داری\r\nسرودی ، ناله ئی ، آهی فغانی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سحر در شاخسار بوستانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه خوش میگفت مرغ نغمه خوانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر آور هر چه اندر سینه داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرودی ، ناله ئی ، آهی فغانی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14599,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/p266/farsi/divan/robaee/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غالب چو ز ناسازی فرجام نصیب\r\nهم بیم عدو دارم و هم ذوق حبیب\r\nتاریخ ولادت من از عالم قدس\r\nهم شورش شوق آمد و هم لفظ غریب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غالب چو ز ناسازی فرجام نصیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم بیم عدو دارم و هم ذوق حبیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاریخ ولادت من از عالم قدس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم شورش شوق آمد و هم لفظ غریب",
+      "CoupletIndex": 1
+    }
+  ]
+}

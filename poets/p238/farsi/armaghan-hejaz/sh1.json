@@ -1,0 +1,57 @@
+{
+  "Id": 13866,
+  "CatId": 1045,
+  "Title": "بخش ۱ - دل ما بی‌دلان بردند و رفتند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱ - دل ما بی‌دلان بردند و رفتند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل ما، بی‌دلان بردند و رفتند \r\nمثال شعله، افسردند و رفتند\r\nبیا یک لحظه با عامان درآمیز\r\nکه خاصان، باده‌ها خوردند و رفتند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل ما، بی‌دلان بردند و رفتند ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مثال شعله، افسردند و رفتند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیا یک لحظه با عامان درآمیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خاصان، باده‌ها خوردند و رفتند",
+      "CoupletIndex": 1
+    }
+  ]
+}

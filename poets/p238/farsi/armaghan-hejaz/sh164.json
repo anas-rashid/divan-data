@@ -1,0 +1,57 @@
+{
+  "Id": 14028,
+  "CatId": 1045,
+  "Title": "بخش ۱۶۳ - چو موج از بحر خود بالیده ام من",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۶۳ - چو موج از بحر خود بالیده ام من",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو موج از بحر خود بالیده ام من\r\nبخود مثل گهر پیچیده ام من\r\nاز آن نمرود با من سر گران است\r\nبه تعمیر حرم کوشیده ام من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو موج از بحر خود بالیده ام من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخود مثل گهر پیچیده ام من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن نمرود با من سر گران است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به تعمیر حرم کوشیده ام من",
+      "CoupletIndex": 1
+    }
+  ]
+}

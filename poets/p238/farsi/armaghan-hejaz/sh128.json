@@ -1,0 +1,57 @@
+{
+  "Id": 13993,
+  "CatId": 1045,
+  "Title": "بخش ۱۲۸ - طلسم علم حاضر را شکستم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲۸ - طلسم علم حاضر را شکستم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طلسم علم حاضر را شکستم\r\nربودم دانه و دامش گسستم\r\nخدا داند که مانند براهیم\r\nبه نار او چه بی پروا نشستم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طلسم علم حاضر را شکستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ربودم دانه و دامش گسستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خدا داند که مانند براهیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به نار او چه بی پروا نشستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

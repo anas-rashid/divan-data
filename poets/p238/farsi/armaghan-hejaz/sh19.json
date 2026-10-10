@@ -1,0 +1,57 @@
+{
+  "Id": 13884,
+  "CatId": 1045,
+  "Title": "بخش ۱۹ - چه می‌خواهی از این مرد تن‌آسای",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۹ - چه می‌خواهی از این مرد تن‌آسای",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه می‌خواهی از این مرد تن‌آسای؟\r\nبه هر بادی که آمد رفتم از جای\r\nسحر جاوید را در سجده دیدم\r\nبه صبحش، چهرهٔ شامم بیارای",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه می‌خواهی از این مرد تن‌آسای؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر بادی که آمد رفتم از جای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سحر جاوید را در سجده دیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به صبحش، چهرهٔ شامم بیارای",
+      "CoupletIndex": 1
+    }
+  ]
+}

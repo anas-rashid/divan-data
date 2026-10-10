@@ -1,0 +1,105 @@
+{
+  "Id": 11148,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۵۵ - تجنیس",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۵۵ - تجنیس",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باش به کامم که به کام توام\r\nزنده و نازنده به نام توام\r\nحکمت و حکمش که ندارد زوال\r\nهم ز خلل خالی و هم از خیال\r\nبر در تو آمده‌ام شرمسار\r\nاز شر من در گذر و در گزار\r\nاشتر پویندهٔ پولاد پای\r\nکوه نما از تن کوهان نمای\r\nابر شده کوه بلند از شکوه\r\nبرق شده بر سر او تیغ کوه\r\nآب معانی ز دلم زاد زود\r\nآتش طبعم به قلم داد دود",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باش به کامم که به کام توام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنده و نازنده به نام توام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حکمت و حکمش که ندارد زوال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم ز خلل خالی و هم از خیال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر در تو آمده‌ام شرمسار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از شر من در گذر و در گزار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اشتر پویندهٔ پولاد پای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کوه نما از تن کوهان نمای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ابر شده کوه بلند از شکوه",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برق شده بر سر او تیغ کوه",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آب معانی ز دلم زاد زود",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آتش طبعم به قلم داد دود",
+      "CoupletIndex": 5
+    }
+  ]
+}

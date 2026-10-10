@@ -1,0 +1,57 @@
+{
+  "Id": 13973,
+  "CatId": 1045,
+  "Title": "بخش ۱۰۸ - درون ما بجز دود نفس نیست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰۸ - درون ما بجز دود نفس نیست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درون ما به جز دود نفس نیست\r\nبجز دست تو ما را دست رس نیست\r\nدگر افسانه غم با که گویم؟\r\nکه اندر سینه ها غیر از تو کس نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درون ما به جز دود نفس نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بجز دست تو ما را دست رس نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دگر افسانه غم با که گویم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که اندر سینه ها غیر از تو کس نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

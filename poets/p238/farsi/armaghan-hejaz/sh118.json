@@ -1,0 +1,57 @@
+{
+  "Id": 13983,
+  "CatId": 1045,
+  "Title": "بخش ۱۱۸ - سر منبر کلامش نیشدار است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۱۸ - سر منبر کلامش نیشدار است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سر منبر کلامش نیشدار است\r\nکه او را صد کتاب اندر کنار است\r\nحضور تو من از خجلت نگفتم\r\nز خود پنهان و بر ما آشکار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سر منبر کلامش نیشدار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که او را صد کتاب اندر کنار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حضور تو من از خجلت نگفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز خود پنهان و بر ما آشکار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

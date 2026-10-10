@@ -1,0 +1,93 @@
+{
+  "Id": 11437,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh153",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh153",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل امشب آخر شب مست برخاست\r\nبه جام لاله گون مجلس بیاراست\r\nنشسته سبزه زین سو، پای در بند\r\nستاده سرو ازان سو جانب راست\r\nصبا می رفت و نرگس از غنودن\r\nبه هر سویی همی افتاد و می خاست\r\nمن اندر باغ بودم خفته با یار\r\nبنامیزد چو ماهی بی کم و کاست\r\nچو رفتن خواست از پهلوی خسرو\r\nبر آمد از دلم فریاد بی خواست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل امشب آخر شب مست برخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جام لاله گون مجلس بیاراست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشسته سبزه زین سو، پای در بند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ستاده سرو ازان سو جانب راست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صبا می رفت و نرگس از غنودن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به هر سویی همی افتاد و می خاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من اندر باغ بودم خفته با یار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بنامیزد چو ماهی بی کم و کاست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو رفتن خواست از پهلوی خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر آمد از دلم فریاد بی خواست",
+      "CoupletIndex": 4
+    }
+  ]
+}

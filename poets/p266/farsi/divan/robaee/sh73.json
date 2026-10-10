@@ -1,0 +1,57 @@
+{
+  "Id": 14664,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۷۳",
+  "FullUrl": "/p266/farsi/divan/robaee/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این رسم که بخشیده شاهی هر سال\r\nآید به کفم ز جواجه تاشان به سؤال\r\nماناست بدان که هر چه افشاند ابر\r\nاز شاخ رسد به سبزه پای نهال",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این رسم که بخشیده شاهی هر سال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آید به کفم ز جواجه تاشان به سؤال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماناست بدان که هر چه افشاند ابر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شاخ رسد به سبزه پای نهال",
+      "CoupletIndex": 1
+    }
+  ]
+}

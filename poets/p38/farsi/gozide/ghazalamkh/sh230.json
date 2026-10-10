@@ -1,0 +1,93 @@
+{
+  "Id": 11514,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۳۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باد نوروز چو دنباله جان ما داشت\r\nدل ما را اثری بوی کسی شیدا داشت\r\nاز کجا گشت پدید، این همه خوبان، یارب\r\nآسمان، این چه بلا بود که بهر ما داشت؟\r\nعشق بنشست به جان، خانه دل کرد خراب\r\nکه من سوخته را بر سر این سودا داشت؟\r\nخلق گویند که گر جانت به کار است، مبین\r\nچه کنم چون نتوانم دل خود بر جا داشت\r\nنرود باغ، کزان دیده که دیدت خسرو\r\nنتواند به گل و لاله نازیبا داشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باد نوروز چو دنباله جان ما داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل ما را اثری بوی کسی شیدا داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کجا گشت پدید، این همه خوبان، یارب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آسمان، این چه بلا بود که بهر ما داشت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق بنشست به جان، خانه دل کرد خراب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که من سوخته را بر سر این سودا داشت؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خلق گویند که گر جانت به کار است، مبین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه کنم چون نتوانم دل خود بر جا داشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نرود باغ، کزان دیده که دیدت خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نتواند به گل و لاله نازیبا داشت",
+      "CoupletIndex": 4
+    }
+  ]
+}

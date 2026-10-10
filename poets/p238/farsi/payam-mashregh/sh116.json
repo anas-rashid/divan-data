@@ -1,0 +1,57 @@
+{
+  "Id": 13453,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۶ - جهان یک نغمه زار آرزوئی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۶ - جهان یک نغمه زار آرزوئی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh116",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh116",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان یک نغمه زار آرزوئی\r\nبم و زیرش ز تار آرزوئی\r\nبه چشمم هر چه هست و بود و باشد\r\nدمی از روزگار آرزوئی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان یک نغمه زار آرزوئی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بم و زیرش ز تار آرزوئی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به چشمم هر چه هست و بود و باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دمی از روزگار آرزوئی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13878,
+  "CatId": 1045,
+  "Title": "بخش ۱۳ - جهانی تیره‌تر با آفتابی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۳ - جهانی تیره‌تر با آفتابی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهانی تیره‌تر با آفتابی\r\nصَواب او سراپا ناصَوابی\r\nندانم تا کجا ویرانه‌ای را\r\nدهی از خونِ آدم، رنگ‌ و آبی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهانی تیره‌تر با آفتابی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صَواب او سراپا ناصَوابی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ندانم تا کجا ویرانه‌ای را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دهی از خونِ آدم، رنگ‌ و آبی",
+      "CoupletIndex": 1
+    }
+  ]
+}

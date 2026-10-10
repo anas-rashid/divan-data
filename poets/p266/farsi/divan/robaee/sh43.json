@@ -1,0 +1,57 @@
+{
+  "Id": 14634,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/p266/farsi/divan/robaee/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز شراره ای به داغم زده اند\r\nنشتر به رگ صبر و فراغم زده اند\r\nاز کثرت شور عطسه مغزم ریش ست\r\nتا عطر چه فتنه بر دماغم زده اند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز شراره ای به داغم زده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشتر به رگ صبر و فراغم زده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کثرت شور عطسه مغزم ریش ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا عطر چه فتنه بر دماغم زده اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

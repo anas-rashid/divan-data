@@ -1,0 +1,57 @@
+{
+  "Id": 13371,
+  "CatId": 1041,
+  "Title": "بخش ۳۴ - سکندر با خضر خوش نکته ئی گفت",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۴ - سکندر با خضر خوش نکته ئی گفت",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سکندر با خضر خوش نکته ئی گفت\r\nشریک سوز و ساز بحر و بر شو\r\nتو این جنگ از کنار عرصه بینی\r\nبمیر اندر نبرد و زنده تر شو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سکندر با خضر خوش نکته ئی گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شریک سوز و ساز بحر و بر شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو این جنگ از کنار عرصه بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بمیر اندر نبرد و زنده تر شو",
+      "CoupletIndex": 1
+    }
+  ]
+}

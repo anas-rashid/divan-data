@@ -1,0 +1,141 @@
+{
+  "Id": 12869,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۵۸۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۸۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1585",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1585",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز باز شکل دگرگشت یار من\r\nیادی نکرد از من و از روزگار من\r\nصد ره فتاده بر ره خویشم بدید و هیچ\r\nرحمت نکرد بر دل امیدوار من\r\nمردم در آرزوی کناری و بخت بد\r\nننهاد آرزوی من اندر کنار من\r\nعمرم در انتظار شد و یک دم آن حریف\r\nنآمد که وای بر من و بر انتظار من!\r\nگه آه و گاه گریه و زاری و گه نفیر\r\nیارب، کجا شد آن همه صبر و قرار من؟\r\nگر من به کوی می دوم از بهر یک نظر\r\nتا به که گشت می زند آن شهسوار من\r\nای مردمان، به زهره و مه بنگرید، لیک\r\nزنهار منگرید به سوی نگار من\r\nایزد کجات بهر هلاک من آفرید\r\nای آفت دل من و آشوب کار من\r\nدشمن بدید گریه خسرو، دلش بسوخت\r\nهرگز نگفتیش که بس، ای دوستدار من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز باز شکل دگرگشت یار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یادی نکرد از من و از روزگار من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد ره فتاده بر ره خویشم بدید و هیچ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رحمت نکرد بر دل امیدوار من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مردم در آرزوی کناری و بخت بد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ننهاد آرزوی من اندر کنار من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عمرم در انتظار شد و یک دم آن حریف",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نآمد که وای بر من و بر انتظار من!",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گه آه و گاه گریه و زاری و گه نفیر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یارب، کجا شد آن همه صبر و قرار من؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گر من به کوی می دوم از بهر یک نظر",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا به که گشت می زند آن شهسوار من",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای مردمان، به زهره و مه بنگرید، لیک",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "زنهار منگرید به سوی نگار من",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ایزد کجات بهر هلاک من آفرید",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ای آفت دل من و آشوب کار من",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دشمن بدید گریه خسرو، دلش بسوخت",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هرگز نگفتیش که بس، ای دوستدار من",
+      "CoupletIndex": 8
+    }
+  ]
+}

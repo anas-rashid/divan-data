@@ -1,0 +1,69 @@
+{
+  "Id": 13545,
+  "CatId": 1041,
+  "Title": "بخش ۲۰۸ - چیستان شمشیر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۰۸ - چیستان شمشیر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن سخت‌کوش چیست که گیرد ز سنگ آب\r\nمحتاج خضر مثل سکندر نمی‌شود\r\nمثل نگاه دیدهٔ نمناک پاک رو\r\nدر جوی آب و دامن او تر نمی‌شود\r\nمضمون او به مصرع برجسته‌ای تمام\r\nمنت‌پذیر مصرع دیگر نمی‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن سخت‌کوش چیست که گیرد ز سنگ آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محتاج خضر مثل سکندر نمی‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مثل نگاه دیدهٔ نمناک پاک رو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جوی آب و دامن او تر نمی‌شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مضمون او به مصرع برجسته‌ای تمام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "منت‌پذیر مصرع دیگر نمی‌شود",
+      "CoupletIndex": 2
+    }
+  ]
+}

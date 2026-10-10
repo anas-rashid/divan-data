@@ -1,0 +1,57 @@
+{
+  "Id": 13943,
+  "CatId": 1045,
+  "Title": "بخش ۷۸ - مسلمان زاده و نامحرم مرگ",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۷۸ - مسلمان زاده و نامحرم مرگ",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمان زاده و نامحرم مرگ\r\nز بیم مرگ لرزان تا دم مرگ\r\nدلی در سینه چاکش ندیدم\r\nدم بگسسته ئی بود و غم مرگ",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمان زاده و نامحرم مرگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز بیم مرگ لرزان تا دم مرگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلی در سینه چاکش ندیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دم بگسسته ئی بود و غم مرگ",
+      "CoupletIndex": 1
+    }
+  ]
+}

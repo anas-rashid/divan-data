@@ -1,0 +1,105 @@
+{
+  "Id": 11419,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما را چه غم امروز که معشوقه به کام است\r\nعالم به مراد دل و اقبال غلام است\r\nصیدی که دل خلق جهان بود به دامش\r\nالمنت لله که امروز به دام است\r\nچون طالع آن نیست که بوسم لب لعلت\r\nما را نظری از مه روی تو تمام است\r\nاز طاق دو ابروی تو، ای کعبه مقصود\r\nخلقی به گمانند که تا کعبه کدام است\r\nچشم تو اگر خون دلم ریخت، عجب نیست\r\nاو را چه توان گفت که او مست مدام است\r\nخسرو که سلامت نکند عیب مگیرش\r\nعاشق که ترا دید چه پروای سلام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را چه غم امروز که معشوقه به کام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم به مراد دل و اقبال غلام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صیدی که دل خلق جهان بود به دامش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "المنت لله که امروز به دام است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون طالع آن نیست که بوسم لب لعلت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما را نظری از مه روی تو تمام است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از طاق دو ابروی تو، ای کعبه مقصود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خلقی به گمانند که تا کعبه کدام است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چشم تو اگر خون دلم ریخت، عجب نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "او را چه توان گفت که او مست مدام است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خسرو که سلامت نکند عیب مگیرش",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "عاشق که ترا دید چه پروای سلام است",
+      "CoupletIndex": 5
+    }
+  ]
+}

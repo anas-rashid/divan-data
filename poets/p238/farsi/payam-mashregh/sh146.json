@@ -1,0 +1,57 @@
+{
+  "Id": 13483,
+  "CatId": 1041,
+  "Title": "بخش ۱۴۶ - ز شاخ آرزو بر خورده ام من",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۴۶ - ز شاخ آرزو بر خورده ام من",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh146",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh146",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شاخ آرزو بر خورده ام من\r\nبه راز زندگی پی برده ام من\r\nبترس از باغبان ای ناوک انداز\r\nکه پیغام بهار آورده ام من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شاخ آرزو بر خورده ام من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به راز زندگی پی برده ام من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بترس از باغبان ای ناوک انداز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که پیغام بهار آورده ام من",
+      "CoupletIndex": 1
+    }
+  ]
+}

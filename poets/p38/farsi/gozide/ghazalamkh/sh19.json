@@ -1,0 +1,93 @@
+{
+  "Id": 11303,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر چه از ما واگسستی صحبت دیرینه را\r\nجا مده باری تو در دل دوستان دینه را\r\nخورد عاشق چیست پیکانهای زهرآلود هجر\r\nوصل چون یار تو باشد بازجو لوزینه را\r\nبسکه خوشدل با غمم شبهای درد خویش را\r\nدوست می دارم چو طفل کور دل آدینه را\r\nمحتسب گو تا چو من صوفی رسوا را به شهر\r\nگشت فرماید به گردن بسته این پشمینه را\r\nطعنه زد بر بیدلان خسرو که شد زینسان خراب\r\nفرقتت از جان او خوش می کشد این کینه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چه از ما واگسستی صحبت دیرینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جا مده باری تو در دل دوستان دینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورد عاشق چیست پیکانهای زهرآلود هجر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصل چون یار تو باشد بازجو لوزینه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بسکه خوشدل با غمم شبهای درد خویش را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دوست می دارم چو طفل کور دل آدینه را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "محتسب گو تا چو من صوفی رسوا را به شهر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گشت فرماید به گردن بسته این پشمینه را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طعنه زد بر بیدلان خسرو که شد زینسان خراب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فرقتت از جان او خوش می کشد این کینه را",
+      "CoupletIndex": 4
+    }
+  ]
+}

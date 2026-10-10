@@ -1,0 +1,93 @@
+{
+  "Id": 11108,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۱۵ - نعت",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۱۵ - نعت",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش رو کوکبه انبیاء\r\nکوکبش از منزلت کبریاء\r\nاز حد ناسوت برون تاخته\r\nبر خط لاهوت وطن ساخته\r\nنور نخستش چو علم بر کشید\r\nشام عدم را سحرآمد پدید\r\nهستی او تا به عدم خانه بود\r\nنقش وجود از همه بیگانه بود\r\nبی خط و قرطاس زعلم ازل\r\nمشکل لوح و قلمش گشته حل",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش رو کوکبه انبیاء",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کوکبش از منزلت کبریاء",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از حد ناسوت برون تاخته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر خط لاهوت وطن ساخته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نور نخستش چو علم بر کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شام عدم را سحرآمد پدید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هستی او تا به عدم خانه بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نقش وجود از همه بیگانه بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی خط و قرطاس زعلم ازل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مشکل لوح و قلمش گشته حل",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14628,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/p266/farsi/divan/robaee/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وقت ست که آسمان موجه نازد\r\nمهر آینه پیش رخ نهد مه نازد\r\nاین خود شرف دگر بود نیست عجب\r\nگر مهر به پابوس شهنشه نازد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت ست که آسمان موجه نازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مهر آینه پیش رخ نهد مه نازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این خود شرف دگر بود نیست عجب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر مهر به پابوس شهنشه نازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13416,
+  "CatId": 1041,
+  "Title": "بخش ۷۹ - نوا در ساز جان از زخمهٔ تو",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۹ - نوا در ساز جان از زخمهٔ تو",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوا در ساز جان از زخمهٔ تو\r\nچسان در جانی و از جان برونی\r\nچراغم ، با تو سوزم بی تو میرم\r\nتو ای بیچون من بی من چگونی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوا در ساز جان از زخمهٔ تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چسان در جانی و از جان برونی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چراغم ، با تو سوزم بی تو میرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ای بیچون من بی من چگونی",
+      "CoupletIndex": 1
+    }
+  ]
+}

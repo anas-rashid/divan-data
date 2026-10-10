@@ -1,0 +1,57 @@
+{
+  "Id": 14686,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۹۵",
+  "FullUrl": "/p266/farsi/divan/robaee/sh95",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh95",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای تیره زمین که بوده ای بستر من\r\nهر خاک که با تست همه بر سر من\r\nزر بهر کسان و بهر من دانه و دام\r\nای مادر دیگران و مادندر من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تیره زمین که بوده ای بستر من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر خاک که با تست همه بر سر من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زر بهر کسان و بهر من دانه و دام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای مادر دیگران و مادندر من",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14078,
+  "CatId": 1045,
+  "Title": "بخش ۲۱۳ - مسلمان بنده مولا صفات است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۱۳ - مسلمان بنده مولا صفات است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh214",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh214",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمان بنده مولا صفات است\r\nدل او سری از اسرار ذات است\r\nجمالش جز به نور حق نه بینی\r\nکه اصلش در ضمیر کائنات است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمان بنده مولا صفات است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل او سری از اسرار ذات است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جمالش جز به نور حق نه بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که اصلش در ضمیر کائنات است",
+      "CoupletIndex": 1
+    }
+  ]
+}

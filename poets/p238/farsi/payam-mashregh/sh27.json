@@ -1,0 +1,57 @@
+{
+  "Id": 13364,
+  "CatId": 1041,
+  "Title": "بخش ۲۷ - ترا یک نکتهٔ سر بسته گویم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷ - ترا یک نکتهٔ سر بسته گویم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترا یک نکتهٔ سر بسته گویم\r\nاگر درس حیات از من بگیری\r\nبمیری گر به تن جانی نداری\r\nوگر جانی به تن داری نمیری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا یک نکتهٔ سر بسته گویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر درس حیات از من بگیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بمیری گر به تن جانی نداری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وگر جانی به تن داری نمیری",
+      "CoupletIndex": 1
+    }
+  ]
+}

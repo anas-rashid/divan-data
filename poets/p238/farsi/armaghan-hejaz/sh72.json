@@ -1,0 +1,57 @@
+{
+  "Id": 13937,
+  "CatId": 1045,
+  "Title": "بخش ۷۲ - بروی او در دل ناگشاد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۷۲ - بروی او در دل ناگشاد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بروی او در دل ناگشاد \r\nخودی اندر کف خاکش نزاده\r\nضمیر او تهی از بانگ تکبیر\r\nحریم ذکر او از پا فتاده",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بروی او در دل ناگشاد ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خودی اندر کف خاکش نزاده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ضمیر او تهی از بانگ تکبیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حریم ذکر او از پا فتاده",
+      "CoupletIndex": 1
+    }
+  ]
+}

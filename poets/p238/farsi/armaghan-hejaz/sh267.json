@@ -1,0 +1,57 @@
+{
+  "Id": 14131,
+  "CatId": 1045,
+  "Title": "بخش ۲۶۶ - نوا از سینه مرغ چمن برد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۶۶ - نوا از سینه مرغ چمن برد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh267",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh267",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوا از سینه مرغ چمن برد\r\nز خون لالهن سوز کهن برد\r\nبه این مکتب ، به این دانش چه نازی\r\nکه نان در کف نداد و جان ز تن برد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوا از سینه مرغ چمن برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خون لالهن سوز کهن برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به این مکتب ، به این دانش چه نازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نان در کف نداد و جان ز تن برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

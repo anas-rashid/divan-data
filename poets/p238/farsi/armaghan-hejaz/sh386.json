@@ -1,0 +1,57 @@
+{
+  "Id": 14250,
+  "CatId": 1045,
+  "Title": "بخش ۳۸۵ - نه هرکس خود گردهم خود گد از است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۸۵ - نه هرکس خود گردهم خود گد از است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh386",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh386",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه هرکس خود گردهم خود گد از است\r\nنه هرکس مست ناز اندر نیاز است\r\nقبای لا اله خونین قبانی است\r\nکه بربالای نامردان درا راست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه هرکس خود گردهم خود گد از است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه هرکس مست ناز اندر نیاز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قبای لا اله خونین قبانی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بربالای نامردان درا راست",
+      "CoupletIndex": 1
+    }
+  ]
+}

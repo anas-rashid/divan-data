@@ -1,0 +1,57 @@
+{
+  "Id": 13347,
+  "CatId": 1041,
+  "Title": "بخش ۱۰ - سحر می گفت بلبل باغبان را",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۰ - سحر می گفت بلبل باغبان را",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سحر می گفت بلبل باغبان را\r\nدرین گِل جز نهال غم نگیرد\r\nبه پیری میرسد خار بیابان\r\nولی گل چون جوان گردد بمیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سحر می گفت بلبل باغبان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درین گِل جز نهال غم نگیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به پیری میرسد خار بیابان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولی گل چون جوان گردد بمیرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

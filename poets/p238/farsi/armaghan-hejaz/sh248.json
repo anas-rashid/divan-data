@@ -1,0 +1,57 @@
+{
+  "Id": 14112,
+  "CatId": 1045,
+  "Title": "بخش ۲۴۷ - اگر پندی ز درویشی پذیری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۴۷ - اگر پندی ز درویشی پذیری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh248",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh248",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر پندی ز درویشی پذیری \r\nهزار امت بمیرد تو نمیری\r\nبتولی باش و پنهان شو ازین عصر\r\nکه درآغوش شب گیری بگیری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر پندی ز درویشی پذیری ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هزار امت بمیرد تو نمیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بتولی باش و پنهان شو ازین عصر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که درآغوش شب گیری بگیری",
+      "CoupletIndex": 1
+    }
+  ]
+}

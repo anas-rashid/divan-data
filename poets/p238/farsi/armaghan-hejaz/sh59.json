@@ -1,0 +1,57 @@
+{
+  "Id": 13924,
+  "CatId": 1045,
+  "Title": "بخش ۵۹ - غم راهی نشاط آمیزتر کن",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۵۹ - غم راهی نشاط آمیزتر کن",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم راهی نشاط آمیزتر کن\r\nفغانش را جنون انگیزتر کن\r\nبگیر ای ساربان راه درازی\r\nمرا سوز جدائی تیز تر کن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم راهی نشاط آمیزتر کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فغانش را جنون انگیزتر کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگیر ای ساربان راه درازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا سوز جدائی تیز تر کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

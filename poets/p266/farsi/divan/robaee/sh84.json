@@ -1,0 +1,57 @@
+{
+  "Id": 14675,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/p266/farsi/divan/robaee/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غالب به گهر ز دوده زاد شمم\r\nزان رو به صفای دم تیغ ست دمم\r\nچون رفت سپهبدی زدم چنگ به شعر\r\nشد تیر شکسته نیاکان قلمم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غالب به گهر ز دوده زاد شمم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان رو به صفای دم تیغ ست دمم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون رفت سپهبدی زدم چنگ به شعر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد تیر شکسته نیاکان قلمم",
+      "CoupletIndex": 1
+    }
+  ]
+}

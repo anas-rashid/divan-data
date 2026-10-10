@@ -1,0 +1,105 @@
+{
+  "Id": 11813,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۲۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۲۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh529",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh529",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس که تقرب ز وصال تو نجوید\r\nواندر ره ادراک جمال تو نپوید\r\nفردا که شب وعده دیدار سر آید\r\nرهبر نبود سوی تو چندان که نجوید\r\nفردا که تو در گلشن فردوس خرامی\r\nطوبی، ادب آنست، که در راه نروید\r\nشک نیست که چرخ از پی صد دور بیاید\r\nمهر تو ز هر ذره خاکم که ببوید\r\nفریاد ز غوغای رقیبان که نمانند\r\nتا با تو کسی درد دل خویش بگوید\r\nدیدار حرام است کسی را که چو خسرو\r\nاز دیده به خون دل خود دست بشوید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس که تقرب ز وصال تو نجوید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واندر ره ادراک جمال تو نپوید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فردا که شب وعده دیدار سر آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رهبر نبود سوی تو چندان که نجوید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فردا که تو در گلشن فردوس خرامی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طوبی، ادب آنست، که در راه نروید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شک نیست که چرخ از پی صد دور بیاید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مهر تو ز هر ذره خاکم که ببوید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "فریاد ز غوغای رقیبان که نمانند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا با تو کسی درد دل خویش بگوید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دیدار حرام است کسی را که چو خسرو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از دیده به خون دل خود دست بشوید",
+      "CoupletIndex": 5
+    }
+  ]
+}

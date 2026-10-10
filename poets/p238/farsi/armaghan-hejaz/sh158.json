@@ -1,0 +1,57 @@
+{
+  "Id": 14023,
+  "CatId": 1045,
+  "Title": "بخش ۱۵۸ - ترا اندر بیابانی مقام است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۵۸ - ترا اندر بیابانی مقام است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh158",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh158",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترا اندر بیابانی مقام است\r\nکه شامش چون سحر آئینه فام است\r\nبهرجائی که خواهی خیمه گستر\r\nطناب از دیگران جستن حرام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا اندر بیابانی مقام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که شامش چون سحر آئینه فام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهرجائی که خواهی خیمه گستر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طناب از دیگران جستن حرام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

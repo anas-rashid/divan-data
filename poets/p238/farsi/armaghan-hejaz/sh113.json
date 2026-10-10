@@ -1,0 +1,57 @@
+{
+  "Id": 13978,
+  "CatId": 1045,
+  "Title": "بخش ۱۱۳ - به افرنگی بتان دل باختم من",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۱۳ - به افرنگی بتان دل باختم من",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به افرنگی بتان دل باختم من\r\nز تاب دیریان بگداختم من\r\nچنان از خویشتن بیگانه بودم\r\nچو دیدم خویش را نشناختم من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به افرنگی بتان دل باختم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز تاب دیریان بگداختم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چنان از خویشتن بیگانه بودم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو دیدم خویش را نشناختم من",
+      "CoupletIndex": 1
+    }
+  ]
+}

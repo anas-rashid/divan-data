@@ -1,0 +1,45 @@
+{
+  "Id": 11145,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۵۲ - لف و نشر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۵۲ - لف و نشر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آب در از تاج و قبا و کمر\r\nتا به کمر تا به گلو تا بسر",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آب در از تاج و قبا و کمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به کمر تا به گلو تا بسر",
+      "CoupletIndex": 0
+    }
+  ]
+}

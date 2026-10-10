@@ -1,0 +1,57 @@
+{
+  "Id": 13345,
+  "CatId": 1041,
+  "Title": "بخش ۸ - درین گلشن پریشان مثل بویم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۸ - درین گلشن پریشان مثل بویم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین گلشن پریشان مثل بویم\r\nنمیدانم چه میخواهم چه جویم\r\nبرآید آرزو یا بر نیاید\r\nشهید سوز و ساز آرزویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین گلشن پریشان مثل بویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمیدانم چه میخواهم چه جویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برآید آرزو یا بر نیاید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شهید سوز و ساز آرزویم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13445,
+  "CatId": 1041,
+  "Title": "بخش ۱۰۸ - ز آغاز خودی کس را خبر نیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۰۸ - ز آغاز خودی کس را خبر نیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز آغاز خودی کس را خبر نیست\r\nخودی در حلقهٔ شام و سحر نیست\r\nز خضر این نکتهٔ نادر شنیدم\r\nکه بحر از موج خود دیرینه تر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آغاز خودی کس را خبر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خودی در حلقهٔ شام و سحر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خضر این نکتهٔ نادر شنیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بحر از موج خود دیرینه تر نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

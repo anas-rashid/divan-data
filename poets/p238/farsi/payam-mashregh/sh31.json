@@ -1,0 +1,57 @@
+{
+  "Id": 13368,
+  "CatId": 1041,
+  "Title": "بخش ۳۱ - برون از ورطهٔ بود و عدم شو",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۱ - برون از ورطهٔ بود و عدم شو",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برون از ورطهٔ بود و عدم شو\r\nفزونتر زین جهان کیف و کم شو\r\nخودی تعمیر کن در پیکر خویش\r\nچو ابراهیم معمار حرم شو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برون از ورطهٔ بود و عدم شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فزونتر زین جهان کیف و کم شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خودی تعمیر کن در پیکر خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو ابراهیم معمار حرم شو",
+      "CoupletIndex": 1
+    }
+  ]
+}

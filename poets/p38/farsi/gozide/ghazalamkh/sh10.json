@@ -1,0 +1,105 @@
+{
+  "Id": 11294,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل من سبزه زاری کرد پیدا\r\nزمانه نوبهاری کرد پیدا\r\nدر این موسم که از تأثیر نوروز\r\nجهان نو روزگاری کرد پیدا\r\nز کوه ابر سنگ ژاله افتاد\r\nزر گل را، عیاری کرد پیدا\r\nشدم موی و فرو رفتم به رویش\r\nهمانم خارخاری کرد پیدا\r\nنهانی خارخاری داشت آن شوخ\r\nبه حمدالله که باری کرد پیدا\r\nببین خسرو، اگر جانت به کار است\r\nکه جان را باز کاری کرد پیدا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل من سبزه زاری کرد پیدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زمانه نوبهاری کرد پیدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در این موسم که از تأثیر نوروز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهان نو روزگاری کرد پیدا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز کوه ابر سنگ ژاله افتاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زر گل را، عیاری کرد پیدا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شدم موی و فرو رفتم به رویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همانم خارخاری کرد پیدا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نهانی خارخاری داشت آن شوخ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به حمدالله که باری کرد پیدا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ببین خسرو، اگر جانت به کار است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که جان را باز کاری کرد پیدا",
+      "CoupletIndex": 5
+    }
+  ]
+}

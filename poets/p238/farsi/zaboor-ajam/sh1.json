@@ -1,0 +1,69 @@
+{
+  "Id": 13638,
+  "CatId": 1042,
+  "Title": "بخش ۱ - به خوانندهٔ کتاب زبور",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۱ - به خوانندهٔ کتاب زبور",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌شود پردهٔ چشمم پر کاهی گاهی\r\nدیده‌ام هردو جهان را به نگاهی گاهی\r\nوادی عشق بسی دور و دراز است ولی\r\nطی شود جادهٔ صدساله به آهی گاهی\r\nدر طلب کوش و مده دامن امید ز دست\r\nدولتی هست که یابی سر راهی گاهی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌شود پردهٔ چشمم پر کاهی گاهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده‌ام هردو جهان را به نگاهی گاهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وادی عشق بسی دور و دراز است ولی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طی شود جادهٔ صدساله به آهی گاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در طلب کوش و مده دامن امید ز دست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دولتی هست که یابی سر راهی گاهی",
+      "CoupletIndex": 2
+    }
+  ]
+}

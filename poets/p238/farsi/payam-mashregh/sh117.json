@@ -1,0 +1,57 @@
+{
+  "Id": 13454,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۷ - دل من بی قرار آرزوئی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۷ - دل من بی قرار آرزوئی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh117",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh117",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل من بی قرار آرزوئی\r\nدرون سینهٔ من های و هوئی\r\nسخن ای همنشین از من چه خواهی\r\nکه من با خویش دارم گفتگوئی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل من بی قرار آرزوئی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درون سینهٔ من های و هوئی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سخن ای همنشین از من چه خواهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من با خویش دارم گفتگوئی",
+      "CoupletIndex": 1
+    }
+  ]
+}

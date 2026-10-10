@@ -1,0 +1,57 @@
+{
+  "Id": 13491,
+  "CatId": 1041,
+  "Title": "بخش ۱۵۴ - به گوشم آمد از خاک مزاری",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۵۴ - به گوشم آمد از خاک مزاری",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به گوشم آمد از خاک مزاری\r\nکه در زیر زمین هم میتوان زیست\r\nنفس دارد ولیکن جان ندارد\r\nکسی کو بر مراد دیگران زیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به گوشم آمد از خاک مزاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در زیر زمین هم میتوان زیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نفس دارد ولیکن جان ندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کسی کو بر مراد دیگران زیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 11870,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۸۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۸۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh586",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh586",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فریاد، ز غمزه تو فریاد\r\nکز وی شغبی به عالم افتاد\r\nفریاد رسی که رفت بر چرخ\r\nما را ز کرشمه تو فریاد\r\nتو مردم چشم ما و ما را\r\nبر گوشه دل نیاوردی یاد\r\nدریاب مرا که آهم از غم\r\nچون صور صدای حشر درداد\r\nگر واسطه وصال نبود\r\nآن کیست که نیست با غمت شاد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فریاد، ز غمزه تو فریاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز وی شغبی به عالم افتاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد رسی که رفت بر چرخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را ز کرشمه تو فریاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تو مردم چشم ما و ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر گوشه دل نیاوردی یاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دریاب مرا که آهم از غم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون صور صدای حشر درداد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر واسطه وصال نبود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آن کیست که نیست با غمت شاد؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

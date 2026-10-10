@@ -1,0 +1,57 @@
+{
+  "Id": 14152,
+  "CatId": 1045,
+  "Title": "بخش ۲۸۷ - کبوتر بچه خود را چه خوش گفت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۸۷ - کبوتر بچه خود را چه خوش گفت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh288",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh288",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کبوتر بچه خود را چه خوش گفت\r\nکه نتوان زیست با خوی حریری\r\nاگر «یاهو» زنی از مستی شوق\r\nکله را از سر شاهین بگیری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کبوتر بچه خود را چه خوش گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نتوان زیست با خوی حریری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر «یاهو» زنی از مستی شوق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کله را از سر شاهین بگیری",
+      "CoupletIndex": 1
+    }
+  ]
+}

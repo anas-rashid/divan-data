@@ -1,0 +1,45 @@
+{
+  "Id": 11146,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۵۳ - جمع تفریق تقسیم",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۵۳ - جمع تفریق تقسیم",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تیغ خوش و تیغ زبان ناخوش است\r\nتیغ چو آبست و زبان آتش است",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تیغ خوش و تیغ زبان ناخوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیغ چو آبست و زبان آتش است",
+      "CoupletIndex": 0
+    }
+  ]
+}

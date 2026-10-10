@@ -1,0 +1,57 @@
+{
+  "Id": 14650,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/p266/farsi/divan/robaee/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بازی خور روزگار بودم همه عمر\r\nاز بخت امیدوار بودم همه عمر\r\nبی مایه به فکر سود ماندم همه جا\r\nبی وعده در انتظار بودم همه عمر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بازی خور روزگار بودم همه عمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بخت امیدوار بودم همه عمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی مایه به فکر سود ماندم همه جا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی وعده در انتظار بودم همه عمر",
+      "CoupletIndex": 1
+    }
+  ]
+}

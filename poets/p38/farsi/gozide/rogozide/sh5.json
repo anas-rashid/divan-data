@@ -1,0 +1,57 @@
+{
+  "Id": 13285,
+  "CatId": 1037,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » چند رباعی » شمارهٔ ۵",
+  "FullUrl": "/p38/farsi/gozide/rogozide/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/rogozide/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای صوفی سیمی به صفایی نرسی\r\nتا جان ندهی به خونبهایی نرسی\r\nتو رهرو و منزلت در خواجه و میر\r\nاین ره که تو می‌روی به جایی نرسی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صوفی سیمی به صفایی نرسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا جان ندهی به خونبهایی نرسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو رهرو و منزلت در خواجه و میر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این ره که تو می‌روی به جایی نرسی",
+      "CoupletIndex": 1
+    }
+  ]
+}

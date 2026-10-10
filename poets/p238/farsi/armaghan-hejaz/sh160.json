@@ -1,0 +1,57 @@
+{
+  "Id": 14025,
+  "CatId": 1045,
+  "Title": "بخش ۱۶۰ - ز افرنگی صنم بیگانه تر شو",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۶۰ - ز افرنگی صنم بیگانه تر شو",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز افرنگی صنم بیگانه تر شو\r\nکه پیمانش نمی‌ارزد به یک جو\r\nنگاهی وام کن از چشم فاروق\r\nقدم بی‌باک نه در عالم نو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز افرنگی صنم بیگانه تر شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که پیمانش نمی‌ارزد به یک جو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگاهی وام کن از چشم فاروق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قدم بی‌باک نه در عالم نو",
+      "CoupletIndex": 1
+    }
+  ]
+}

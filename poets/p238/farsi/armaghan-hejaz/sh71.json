@@ -1,0 +1,57 @@
+{
+  "Id": 13936,
+  "CatId": 1045,
+  "Title": "بخش ۷۱ - دل خود را اسیر رنگ و بو کرد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۷۱ - دل خود را اسیر رنگ و بو کرد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خود را اسیر رنگ و بو کرد\r\nتهی از ذوق و شوق و آرزو کرد\r\nصفیر شاهبازان کم شناسد\r\nکه گوشش با طنین پشه خو کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خود را اسیر رنگ و بو کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تهی از ذوق و شوق و آرزو کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صفیر شاهبازان کم شناسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که گوشش با طنین پشه خو کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14048,
+  "CatId": 1045,
+  "Title": "بخش ۱۸۳ - بجام نو کهن می از سبو ریز",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۸۳ - بجام نو کهن می از سبو ریز",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh184",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh184",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بجام نو کهن می از سبو ریز\r\nفروغ خویش را بر کاخ و کو ریز\r\nاگر خواهی ثمر از شاخ منصور\r\nبه دل «لا غالب الا الله» فرو ریز",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بجام نو کهن می از سبو ریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فروغ خویش را بر کاخ و کو ریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر خواهی ثمر از شاخ منصور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به دل «لا غالب الا الله» فرو ریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

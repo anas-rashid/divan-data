@@ -1,0 +1,93 @@
+{
+  "Id": 12129,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۴۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۴۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh845",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh845",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دریاب کز فراق تو جانم به لب رسید\r\nدر آرزوی روی تو روزم به شب رسید\r\nروزم به غم گذشت و شبم تا چسان رود؟\r\nروزی عجب گذشت و شبی بوالعجب رسید\r\nباز آی تا به بوسه فشانم به پای تو\r\nکز عشق پای بوس تو جانم به لب رسید\r\nزین پس به جان غمزدگان از کجا رسد؟\r\nکان رفته بازگشت و زمان طرب رسید\r\nخسرو ندیده بود ادب روزگار هیچ\r\nاینک ز حادثات جهانش ادب رسید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دریاب کز فراق تو جانم به لب رسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آرزوی روی تو روزم به شب رسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزم به غم گذشت و شبم تا چسان رود؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی عجب گذشت و شبی بوالعجب رسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "باز آی تا به بوسه فشانم به پای تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز عشق پای بوس تو جانم به لب رسید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زین پس به جان غمزدگان از کجا رسد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کان رفته بازگشت و زمان طرب رسید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو ندیده بود ادب روزگار هیچ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اینک ز حادثات جهانش ادب رسید",
+      "CoupletIndex": 4
+    }
+  ]
+}

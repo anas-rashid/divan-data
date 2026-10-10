@@ -1,0 +1,69 @@
+{
+  "Id": 11152,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۵۹ - مراعات النظیر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۵۹ - مراعات النظیر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آهوی مشکین و سرش باد شاخ\r\nوز دم او مشک به صحرا فراخ\r\nچشم چو بر گلشن بختش فتاد\r\nگشت پیاده چو گل از پشت باد\r\nروی چو گل بود به پشت زمین\r\nگشت زمین پر سمن و یاسمین",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آهوی مشکین و سرش باد شاخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دم او مشک به صحرا فراخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم چو بر گلشن بختش فتاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گشت پیاده چو گل از پشت باد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روی چو گل بود به پشت زمین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گشت زمین پر سمن و یاسمین",
+      "CoupletIndex": 2
+    }
+  ]
+}

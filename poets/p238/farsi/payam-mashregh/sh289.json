@@ -1,0 +1,45 @@
+{
+  "Id": 13626,
+  "CatId": 1041,
+  "Title": "بخش ۲۸۹ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۸۹ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh289",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh289",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخنگو طفلک و برنا و پیر است\r\nسخن را سالی و ماهی نباشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخنگو طفلک و برنا و پیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخن را سالی و ماهی نباشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

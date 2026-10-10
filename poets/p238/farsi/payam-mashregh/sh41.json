@@ -1,0 +1,57 @@
+{
+  "Id": 13378,
+  "CatId": 1041,
+  "Title": "بخش ۴۱ - کنشت و مسجد و بتخانه و دیر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۴۱ - کنشت و مسجد و بتخانه و دیر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کنشت و مسجد و بتخانه و دیر\r\nجز این مشت گلی پیدا نکردی\r\nز حکم غیر نتوان جز بدل رست\r\nتو ای غافل دلی پیدا نکردی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کنشت و مسجد و بتخانه و دیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز این مشت گلی پیدا نکردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز حکم غیر نتوان جز بدل رست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ای غافل دلی پیدا نکردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

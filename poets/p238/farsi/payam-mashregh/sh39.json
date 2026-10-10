@@ -1,0 +1,57 @@
+{
+  "Id": 13376,
+  "CatId": 1041,
+  "Title": "بخش ۳۹ - چه میپرسی میان سینه دل چیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۹ - چه میپرسی میان سینه دل چیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه میپرسی میان سینه دل چیست\r\nخرد چون سوز پیدا کرد دل شد\r\nدل از ذوق تپش دل بود لیکن\r\nچو یک دم از تپش افتاد گل شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه میپرسی میان سینه دل چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرد چون سوز پیدا کرد دل شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل از ذوق تپش دل بود لیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو یک دم از تپش افتاد گل شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

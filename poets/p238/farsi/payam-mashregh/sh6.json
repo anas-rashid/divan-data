@@ -1,0 +1,57 @@
+{
+  "Id": 13343,
+  "CatId": 1041,
+  "Title": "بخش ۶ - ببرگ لاله رنگ آمیزی عشق",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۶ - ببرگ لاله رنگ آمیزی عشق",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به برگ لاله رنگ آمیزی عشق\r\nبه جان ما بلا انگیزی عشق\r\nاگر این خاکدان را واشگافی\r\nدرونش بنگری خونریزی عشق",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به برگ لاله رنگ آمیزی عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جان ما بلا انگیزی عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر این خاکدان را واشگافی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درونش بنگری خونریزی عشق",
+      "CoupletIndex": 1
+    }
+  ]
+}

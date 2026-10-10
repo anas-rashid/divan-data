@@ -1,0 +1,57 @@
+{
+  "Id": 14030,
+  "CatId": 1045,
+  "Title": "بخش ۱۶۵ - بیا ساقی نقاب از رخ برافکن",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۶۵ - بیا ساقی نقاب از رخ برافکن",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا ساقی نقاب از رخ برافکن\r\nچکید از چشم من خون دل من\r\nبه آن لحنی که نه شرقی نه غربی است\r\nنوائی از مقام «لاتخف» زن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا ساقی نقاب از رخ برافکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چکید از چشم من خون دل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به آن لحنی که نه شرقی نه غربی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوائی از مقام «لاتخف» زن",
+      "CoupletIndex": 1
+    }
+  ]
+}

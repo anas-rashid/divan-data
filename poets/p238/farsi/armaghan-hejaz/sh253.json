@@ -1,0 +1,57 @@
+{
+  "Id": 14117,
+  "CatId": 1045,
+  "Title": "بخش ۲۵۲ - مسلمان فقر و سلطانی بهم کرد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۵۲ - مسلمان فقر و سلطانی بهم کرد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh253",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh253",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمان فقر و سلطانی بهم کرد\r\nضمیرش باقی و فانی بهم کرد\r\nولیکن الامان از عصر حاضر\r\nکه سلطانی به شیطانی بهم کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمان فقر و سلطانی بهم کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ضمیرش باقی و فانی بهم کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن الامان از عصر حاضر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سلطانی به شیطانی بهم کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 11804,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۲۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۲۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh520",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh520",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان تشنگی از شربت عناب تو دارد\r\nدلبستگی از سنبل پرتاب تو دارد\r\nشبها همه بیدار بود مردم چشمم\r\nتا چشم بر آن نرگس پر خواب تو دارد\r\nچون دفتر گل باز کند مرغ سحر خوان\r\nشرح شکن طره پرتاب تو دارد\r\nمسکین چه کند بر گل صد برگ نیازی؟\r\nگر دست دگر نی همه از ناب تو دارد\r\nدر عشق نماز آنکه درو نیست نیازی\r\nسر بر خط ابروی چو محراب تو دارد\r\nخورشید جهانتابی و من ذره خاکی\r\nهر ذره سرگشته کجا تاب تو دارد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان تشنگی از شربت عناب تو دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلبستگی از سنبل پرتاب تو دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبها همه بیدار بود مردم چشمم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا چشم بر آن نرگس پر خواب تو دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون دفتر گل باز کند مرغ سحر خوان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شرح شکن طره پرتاب تو دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مسکین چه کند بر گل صد برگ نیازی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر دست دگر نی همه از ناب تو دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در عشق نماز آنکه درو نیست نیازی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سر بر خط ابروی چو محراب تو دارد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خورشید جهانتابی و من ذره خاکی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هر ذره سرگشته کجا تاب تو دارد؟",
+      "CoupletIndex": 5
+    }
+  ]
+}

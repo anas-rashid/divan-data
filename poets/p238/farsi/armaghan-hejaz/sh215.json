@@ -1,0 +1,57 @@
+{
+  "Id": 14079,
+  "CatId": 1045,
+  "Title": "بخش ۲۱۴ - بده با خاک اون سوز و تابی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۱۴ - بده با خاک اون سوز و تابی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بده با خاک اون سوز و تابی\r\nکه زاید از شب اوفتابی\r\nنوان زن که از فیض تو او را\r\nدگر بخشند ذوق انقلابی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بده با خاک اون سوز و تابی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که زاید از شب اوفتابی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوان زن که از فیض تو او را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دگر بخشند ذوق انقلابی",
+      "CoupletIndex": 1
+    }
+  ]
+}

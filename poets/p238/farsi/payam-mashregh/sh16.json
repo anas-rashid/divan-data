@@ -1,0 +1,57 @@
+{
+  "Id": 13353,
+  "CatId": 1041,
+  "Title": "بخش ۱۶ - ز آب و گل خدا خوش پیکری ساخت",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶ - ز آب و گل خدا خوش پیکری ساخت",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز آب و گل خدا خوش پیکری ساخت\r\nجهانی از ارم زیبا تری ساخت\r\nولی ساقی به آن آتش که دارد\r\nز خاک من جهان دیگری ساخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آب و گل خدا خوش پیکری ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جهانی از ارم زیبا تری ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولی ساقی به آن آتش که دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز خاک من جهان دیگری ساخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

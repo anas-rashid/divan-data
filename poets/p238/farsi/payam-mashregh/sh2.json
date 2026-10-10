@@ -1,0 +1,57 @@
+{
+  "Id": 13339,
+  "CatId": 1041,
+  "Title": "بخش ۲ - شهید ناز او بزم وجود است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲ - شهید ناز او بزم وجود است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شهید ناز او بزم وجود است\r\nنیاز اندر نهاد هست و بود است\r\nنمی بینی که از مهر فلک تاب\r\nبه سیمای سحر داغ سجود است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شهید ناز او بزم وجود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیاز اندر نهاد هست و بود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی بینی که از مهر فلک تاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به سیمای سحر داغ سجود است",
+      "CoupletIndex": 1
+    }
+  ]
+}

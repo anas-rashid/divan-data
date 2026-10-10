@@ -1,0 +1,93 @@
+{
+  "Id": 12419,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۱۳۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۳۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر جمالت همچنان من عاشق زارم هنوز\r\nناله ای کز سوز عشقت داشتم دارم هنوز\r\nای طبیب مهربان، چون رنجه فرمودی قدم\r\nاز سر بالین من مگذر که بیمارم هنوز\r\nای به قول دشمنان کوشیده در آزار من\r\nدوستم، با من مشو دشمن که من یارم هنوز\r\nمرده ام بی یار و پندارم که دارم زندگی\r\nجان من رفته ست و من با خود نمی آرم هنوز\r\nخلق گویندم که خسرو، جامه شیخی بپوش\r\nچون بپوشم، کز میان نگشوده زنارم هنوز",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر جمالت همچنان من عاشق زارم هنوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناله ای کز سوز عشقت داشتم دارم هنوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای طبیب مهربان، چون رنجه فرمودی قدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سر بالین من مگذر که بیمارم هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای به قول دشمنان کوشیده در آزار من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دوستم، با من مشو دشمن که من یارم هنوز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرده ام بی یار و پندارم که دارم زندگی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جان من رفته ست و من با خود نمی آرم هنوز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خلق گویندم که خسرو، جامه شیخی بپوش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون بپوشم، کز میان نگشوده زنارم هنوز",
+      "CoupletIndex": 4
+    }
+  ]
+}

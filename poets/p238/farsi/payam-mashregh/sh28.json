@@ -1,0 +1,57 @@
+{
+  "Id": 13365,
+  "CatId": 1041,
+  "Title": "بخش ۲۸ - بهل افسانهٔ آن پا چراغی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۸ - بهل افسانهٔ آن پا چراغی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهل افسانهٔ آن پا چراغی\r\nحدیث سوز او آزار گوش است\r\nمن آن پروانه را پروانه دانم\r\nکه جانش سخت کوش و شعله نوش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهل افسانهٔ آن پا چراغی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حدیث سوز او آزار گوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من آن پروانه را پروانه دانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که جانش سخت کوش و شعله نوش است",
+      "CoupletIndex": 1
+    }
+  ]
+}

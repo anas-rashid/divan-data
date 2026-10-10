@@ -1,0 +1,105 @@
+{
+  "Id": 13150,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۸۶۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۶۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1866",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1866",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد آن شادی جان بر ما دی\r\nشادی افزود مرا بر شادی\r\nپایش افتادم و لب بگرفتم\r\nگفت، بگذار، کجا افتادی؟\r\nگفتم آن کردم، چون باد صبا\r\nاز دل غنچه گره نگشادی\r\nسرو در آرزوی بندگیت\r\nگله ها می کند از آزادی\r\nیاد داری که از این پیش ز لطف\r\nباده بر یاد خودم می دادی\r\nکرد بیداد تو بر خسرو جور\r\nنستد دارویی از بیدادی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد آن شادی جان بر ما دی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شادی افزود مرا بر شادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پایش افتادم و لب بگرفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفت، بگذار، کجا افتادی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتم آن کردم، چون باد صبا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از دل غنچه گره نگشادی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرو در آرزوی بندگیت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گله ها می کند از آزادی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یاد داری که از این پیش ز لطف",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "باده بر یاد خودم می دادی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کرد بیداد تو بر خسرو جور",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نستد دارویی از بیدادی",
+      "CoupletIndex": 5
+    }
+  ]
+}

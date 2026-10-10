@@ -1,0 +1,57 @@
+{
+  "Id": 14163,
+  "CatId": 1045,
+  "Title": "بخش ۲۹۸ - دو گیتی را بخود باید کشیدن",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۹۸ - دو گیتی را بخود باید کشیدن",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh299",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh299",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دو گیتی را بخود باید کشیدن\r\nنباید از حضور خود رمیدن\r\nبه نور دوش بین امروز خود را\r\nز دوش امروز را نتوان ربودن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو گیتی را بخود باید کشیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نباید از حضور خود رمیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به نور دوش بین امروز خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز دوش امروز را نتوان ربودن",
+      "CoupletIndex": 1
+    }
+  ]
+}

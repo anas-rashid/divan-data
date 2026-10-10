@@ -1,0 +1,57 @@
+{
+  "Id": 13981,
+  "CatId": 1045,
+  "Title": "بخش ۱۱۶ - نه با ملا نه با صوفی نشینم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۱۶ - نه با ملا نه با صوفی نشینم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh116",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh116",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه با ملا نه با صوفی نشینم\r\nتو میدانی که من آنم ، نه اینم\r\nنویس «الله» بر لوح دل من\r\nکه هم خود را هم او را فاش بینم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه با ملا نه با صوفی نشینم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو میدانی که من آنم ، نه اینم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نویس «الله» بر لوح دل من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که هم خود را هم او را فاش بینم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14181,
+  "CatId": 1045,
+  "Title": "بخش ۳۱۶ - من و تو کشت یزدان ، حاصل است این",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۱۶ - من و تو کشت یزدان ، حاصل است این",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh317",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh317",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من و تو کشت یزدان ، حاصل است این\r\nعروس زندگی را محمل است این\r\nغبار راه شد دانای اسرار\r\nنپنداری که عقل است این ، دل است این",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من و تو کشت یزدان ، حاصل است این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عروس زندگی را محمل است این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غبار راه شد دانای اسرار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نپنداری که عقل است این ، دل است این",
+      "CoupletIndex": 1
+    }
+  ]
+}

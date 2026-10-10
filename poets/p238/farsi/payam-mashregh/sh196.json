@@ -1,0 +1,93 @@
+{
+  "Id": 13533,
+  "CatId": 1041,
+  "Title": "بخش ۱۹۶ - زندگی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۹۶ - زندگی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پرسیدم از بلند نگاهی حیات چیست\r\nگفتا مئی که تلخ تر او نکوتر است\r\nگفتم که کرمک است و ز کل سر برون زند\r\nگفتا که شعله زاد مثال سمندر است\r\nگفتم که شر بفطرت خامش نهاده اند\r\nگفتا که خیر او نشناسی همین شر است\r\nگفتم که شوق سیر نبردش بمنزلی\r\nگفتا که منزلش بهمین شوق مضمر است\r\nگفتم که خاکی است و بخاکش همی دهند\r\nگفتا چو دانه خاک شکافد گل تر است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پرسیدم از بلند نگاهی حیات چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتا مئی که تلخ تر او نکوتر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم که کرمک است و ز کل سر برون زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفتا که شعله زاد مثال سمندر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتم که شر بفطرت خامش نهاده اند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گفتا که خیر او نشناسی همین شر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گفتم که شوق سیر نبردش بمنزلی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گفتا که منزلش بهمین شوق مضمر است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گفتم که خاکی است و بخاکش همی دهند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گفتا چو دانه خاک شکافد گل تر است",
+      "CoupletIndex": 4
+    }
+  ]
+}

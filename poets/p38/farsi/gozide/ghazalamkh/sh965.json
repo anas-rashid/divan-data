@@ -1,0 +1,93 @@
+{
+  "Id": 12249,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۹۶۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۹۶۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh965",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh965",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش روی تو یاسمین که بود؟\r\nپیش لعل تو انگبین که بود؟\r\nهر کجا نام طره تو برند\r\nنافه خام پوستین که بود\r\nگل که بو می برد ز باد صبا\r\nبا چنان روی نازنین که بود\r\nچون ببینم که پا نهی به زمین\r\nسر نهم من به هر زمین که بود\r\nخسروت شد غلام و بنده، ولیک\r\nبه جز از بند اینچنین که بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش روی تو یاسمین که بود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش لعل تو انگبین که بود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کجا نام طره تو برند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نافه خام پوستین که بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل که بو می برد ز باد صبا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با چنان روی نازنین که بود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون ببینم که پا نهی به زمین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سر نهم من به هر زمین که بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسروت شد غلام و بنده، ولیک",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به جز از بند اینچنین که بود",
+      "CoupletIndex": 4
+    }
+  ]
+}

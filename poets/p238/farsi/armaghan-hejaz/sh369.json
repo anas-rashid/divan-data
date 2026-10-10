@@ -1,0 +1,57 @@
+{
+  "Id": 14233,
+  "CatId": 1045,
+  "Title": "بخش ۳۶۸ - چو دیدم جوهر آیینهٔ خویش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶۸ - چو دیدم جوهر آیینهٔ خویش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh369",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh369",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو دیدم جوهر آیینهٔ خویش\r\nگرفتم خلوت اندر سینهٔ خویش\r\nازین دانشوران کور و بی‌ذوق\r\nرمیدم با غم دیرینهٔ خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو دیدم جوهر آیینهٔ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرفتم خلوت اندر سینهٔ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازین دانشوران کور و بی‌ذوق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رمیدم با غم دیرینهٔ خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

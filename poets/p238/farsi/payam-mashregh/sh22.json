@@ -1,0 +1,57 @@
+{
+  "Id": 13359,
+  "CatId": 1041,
+  "Title": "بخش ۲۲ - شنیدم در عدم پروانه میگفت",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۲ - شنیدم در عدم پروانه میگفت",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شنیدم در عدم پروانه میگفت\r\nدمی از زندگی تاب تبم بخش\r\nپریشان کن سحر خاکسترم را\r\nولیکن سوز و ساز یک شبم بخش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شنیدم در عدم پروانه میگفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دمی از زندگی تاب تبم بخش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پریشان کن سحر خاکسترم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکن سوز و ساز یک شبم بخش",
+      "CoupletIndex": 1
+    }
+  ]
+}

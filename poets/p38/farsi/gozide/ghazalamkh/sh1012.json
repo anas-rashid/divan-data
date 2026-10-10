@@ -1,0 +1,93 @@
+{
+  "Id": 12296,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰۱۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۱۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1012",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1012",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اشک من به کویت جز سرخ گل نروید\r\nزان گل که بویت آید، میرد کسی که بوید\r\nجایی که از لب تو باران بوسه بارد\r\nدل غنچه غنچه خیزد، جان خوشه خوشه روید\r\nچشمم که خورد خونم، از بس که خون گرفتش\r\nخود ریخت خون خود را بی آنکه کس نجوید\r\nجانم فداش، چون او خود را به خشم سازد\r\nبا جمله در حکایت با من سخن نگوید\r\nزین غم که از جدایی خسرو به سینه دارد\r\nشاید که بر تن او هر موی او بموید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اشک من به کویت جز سرخ گل نروید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان گل که بویت آید، میرد کسی که بوید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جایی که از لب تو باران بوسه بارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل غنچه غنچه خیزد، جان خوشه خوشه روید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشمم که خورد خونم، از بس که خون گرفتش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خود ریخت خون خود را بی آنکه کس نجوید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جانم فداش، چون او خود را به خشم سازد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با جمله در حکایت با من سخن نگوید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زین غم که از جدایی خسرو به سینه دارد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شاید که بر تن او هر موی او بموید",
+      "CoupletIndex": 4
+    }
+  ]
+}

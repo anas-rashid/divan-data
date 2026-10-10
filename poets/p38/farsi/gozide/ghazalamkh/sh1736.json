@@ -1,0 +1,105 @@
+{
+  "Id": 13020,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۳۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۳۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1736",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1736",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان من بر دست بیدادم مده\r\nدم به دم هر روز بر بادم مده\r\nناله من نیست بی دردسری\r\nگوش را ره سوی فریادم مده\r\nداد اگر خواهم، بخواهی کشتنم\r\nور نخواهی کشتنم، دادم مده\r\nجان که در محنت بپروردم بخواه\r\nدل که در خدمت فرستادم مده\r\nدوست گر دشمن شود رفت ای خیال\r\nتو همم دشمن شوی، یادم مده\r\nمی دهی کوهی ز غم جان مرا\r\nخسروم آخر، نه فرهادم، مده",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان من بر دست بیدادم مده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دم به دم هر روز بر بادم مده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناله من نیست بی دردسری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوش را ره سوی فریادم مده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "داد اگر خواهم، بخواهی کشتنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ور نخواهی کشتنم، دادم مده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جان که در محنت بپروردم بخواه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل که در خدمت فرستادم مده",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دوست گر دشمن شود رفت ای خیال",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تو همم دشمن شوی، یادم مده",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "می دهی کوهی ز غم جان مرا",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خسروم آخر، نه فرهادم، مده",
+      "CoupletIndex": 5
+    }
+  ]
+}

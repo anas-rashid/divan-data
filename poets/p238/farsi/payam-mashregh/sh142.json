@@ -1,0 +1,57 @@
+{
+  "Id": 13479,
+  "CatId": 1041,
+  "Title": "بخش ۱۴۲ - عجم از نغمه ام آتش بجان است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۴۲ - عجم از نغمه ام آتش بجان است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh142",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh142",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عجم از نغمه ام آتش بجان است\r\nصدای من درای کاروان است\r\nحدی را تیز تر خوانم چو عرفی\r\nکه ره خوابیده و محمل گران است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عجم از نغمه ام آتش بجان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صدای من درای کاروان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حدی را تیز تر خوانم چو عرفی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ره خوابیده و محمل گران است",
+      "CoupletIndex": 1
+    }
+  ]
+}

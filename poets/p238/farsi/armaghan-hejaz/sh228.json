@@ -1,0 +1,57 @@
+{
+  "Id": 14092,
+  "CatId": 1045,
+  "Title": "بخش ۲۲۷ - خوشآن قومی پریشان روزگاری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۲۷ - خوشآن قومی پریشان روزگاری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشن قومی پریشان روزگاری\r\nکه زاید از ضمیرش پخته کاری\r\nنمودش سری از اسرار غیب است\r\nز هر گردی برون ناید سواری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشن قومی پریشان روزگاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که زاید از ضمیرش پخته کاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمودش سری از اسرار غیب است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز هر گردی برون ناید سواری",
+      "CoupletIndex": 1
+    }
+  ]
+}

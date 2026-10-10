@@ -1,0 +1,45 @@
+{
+  "Id": 13641,
+  "CatId": 1042,
+  "Title": "بخش ۴ - عشق شور انگیز را هر جاده در کوی تو برد",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۴ - عشق شور انگیز را هر جاده در کوی تو برد",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "«عشق شور انگیز را هر جاده در کوی تو برد»\r\n«بر تلاش خود چه مینا زد که ره سوی تو برد»",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "«عشق شور انگیز را هر جاده در کوی تو برد»",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "«بر تلاش خود چه مینا زد که ره سوی تو برد»",
+      "CoupletIndex": 0
+    }
+  ]
+}

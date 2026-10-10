@@ -1,0 +1,105 @@
+{
+  "Id": 12690,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۴۰۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۴۰۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1406",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1406",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگز ز دور چرخ وفایی نیافتم\r\nوز گلشن مراد صفایی نیافتم\r\nگر همچو نای در شغب آیم، عجب مدار\r\nکز چنگ روزگار نوایی یافتم\r\nایام ناشتا صفت آمد از این قبل\r\nبر خوانچه امید صلایی نیافتم\r\nدردم ز حد گشت و صفایی نشد پدید\r\nکارم به جان رسید و دوایی نیافتم\r\nخونم بریخت عالم و خون دگر ز چشم\r\nعمدا بریختم که بهایی نیافتم\r\nسلطانیا، به صحبت دشمن گذار عمر\r\nکز دوستان عهد وفایی نیافتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز ز دور چرخ وفایی نیافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گلشن مراد صفایی نیافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر همچو نای در شغب آیم، عجب مدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز چنگ روزگار نوایی یافتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ایام ناشتا صفت آمد از این قبل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر خوانچه امید صلایی نیافتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دردم ز حد گشت و صفایی نشد پدید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کارم به جان رسید و دوایی نیافتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خونم بریخت عالم و خون دگر ز چشم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عمدا بریختم که بهایی نیافتم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سلطانیا، به صحبت دشمن گذار عمر",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کز دوستان عهد وفایی نیافتم",
+      "CoupletIndex": 5
+    }
+  ]
+}

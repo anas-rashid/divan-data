@@ -1,0 +1,93 @@
+{
+  "Id": 12660,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۳۷۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۷۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1376",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1376",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز با درد جدایی چون کنم؟\r\nباز با هجر آشنایی چون کنم؟\r\nدل ز جان چون بر کنم روز وداع\r\nترک آن ترک ختایی چون کنم\r\nعقل گوید «پارسایی پیشه کن »\r\nمست عشقم، پارسایی چون کنم؟\r\nگفتمش روز وداع دوستان\r\nگر به زودی باز نایی، چون کنم؟\r\nگفت «کای مستغرق دریای عشق\r\nخسروم من، بی وفایی چون کنم؟»",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز با درد جدایی چون کنم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باز با هجر آشنایی چون کنم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ز جان چون بر کنم روز وداع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترک آن ترک ختایی چون کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عقل گوید «پارسایی پیشه کن »",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مست عشقم، پارسایی چون کنم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گفتمش روز وداع دوستان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر به زودی باز نایی، چون کنم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گفت «کای مستغرق دریای عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خسروم من، بی وفایی چون کنم؟»",
+      "CoupletIndex": 4
+    }
+  ]
+}

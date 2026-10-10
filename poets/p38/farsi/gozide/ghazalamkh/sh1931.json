@@ -1,0 +1,153 @@
+{
+  "Id": 13215,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹۳۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۳۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1931",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1931",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای زلف تو هر گره گشادی\r\nوی خط تو خطه و سوادی\r\nای چشم مرا چراغ خانه\r\nدر سر مکن از کرشمه بادی\r\nدر راه نیاز می نهی پای\r\nخوش راهی و بوالعجب نهادی\r\nشب چشم تو خلق را همی کشت\r\nچونست ز ما نکرد یادی؟\r\nیک فوج ز غمزه نامزد کن\r\nتا با صف غم کنم جهادی\r\nسر می دادم به هر نگاری\r\nگر تیغ غمت زیان ندادی\r\nسرگشته نبودی، ار دل من\r\nدر دست خط تو چون فتادی\r\nپرگار اگر به دست خویش است\r\nاز دایره پا برون نهادی\r\nتو تیر ستم گشاده و من\r\nدل بسته بر اینچنین گشادی\r\nگر از ستم تو بد گریزان\r\nایام چو خسروی نزادی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زلف تو هر گره گشادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی خط تو خطه و سوادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای چشم مرا چراغ خانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سر مکن از کرشمه بادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در راه نیاز می نهی پای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خوش راهی و بوالعجب نهادی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شب چشم تو خلق را همی کشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چونست ز ما نکرد یادی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یک فوج ز غمزه نامزد کن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا با صف غم کنم جهادی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سر می دادم به هر نگاری",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گر تیغ غمت زیان ندادی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سرگشته نبودی، ار دل من",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در دست خط تو چون فتادی",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "پرگار اگر به دست خویش است",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از دایره پا برون نهادی",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "تو تیر ستم گشاده و من",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دل بسته بر اینچنین گشادی",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گر از ستم تو بد گریزان",
+      "CoupletIndex": 9
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ایام چو خسروی نزادی",
+      "CoupletIndex": 9
+    }
+  ]
+}

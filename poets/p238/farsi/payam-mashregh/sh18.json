@@ -1,0 +1,57 @@
+{
+  "Id": 13355,
+  "CatId": 1041,
+  "Title": "بخش ۱۸ - گذشتی تیز گام ای اختر صبح",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۸ - گذشتی تیز گام ای اختر صبح",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گذشتی تیز گام ای اختر صبح\r\nمگر از خواب ما بیزار رفتی\r\nمن از ناآگهی گم کرده راهم\r\nتو بیدار آمدی بیدار رفتی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گذشتی تیز گام ای اختر صبح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگر از خواب ما بیزار رفتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من از ناآگهی گم کرده راهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو بیدار آمدی بیدار رفتی",
+      "CoupletIndex": 1
+    }
+  ]
+}

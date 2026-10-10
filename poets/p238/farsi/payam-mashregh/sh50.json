@@ -1,0 +1,57 @@
+{
+  "Id": 13387,
+  "CatId": 1041,
+  "Title": "بخش ۵۰ - خرد بر چهرهٔ تو پرده ها بافت",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵۰ - خرد بر چهرهٔ تو پرده ها بافت",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرد بر چهرهٔ تو پرده ها بافت\r\nنگاهی تشنهٔ دیدار دارم\r\nدر افتد هر زمان اندیشه با شوق\r\nچه آشوب افکنی در جان زارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرد بر چهرهٔ تو پرده ها بافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاهی تشنهٔ دیدار دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در افتد هر زمان اندیشه با شوق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه آشوب افکنی در جان زارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

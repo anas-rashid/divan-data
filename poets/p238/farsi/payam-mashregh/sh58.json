@@ -1,0 +1,57 @@
+{
+  "Id": 13395,
+  "CatId": 1041,
+  "Title": "بخش ۵۸ - تو ای شیخ حرم شاید ندانی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵۸ - تو ای شیخ حرم شاید ندانی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو ای شیخ حرم شاید ندانی\r\nجهان عشق را هم محشری هست\r\nگناه و نامه و میزان ندارد\r\nنه او را مسلمی نی کافری هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو ای شیخ حرم شاید ندانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جهان عشق را هم محشری هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گناه و نامه و میزان ندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه او را مسلمی نی کافری هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

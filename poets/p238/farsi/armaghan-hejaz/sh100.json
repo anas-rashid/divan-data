@@ -1,0 +1,57 @@
+{
+  "Id": 13965,
+  "CatId": 1045,
+  "Title": "بخش ۱۰۰ - مرا تنهائی و آه و فغان به",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰۰ - مرا تنهائی و آه و فغان به",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا تنهائی و آه و فغان به\r\nسوی یثرب سفر بی کاروان به\r\nکجا مکتب ، کجا میخانه شوق\r\nتو خود فرما مرا این به که آن به",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا تنهائی و آه و فغان به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوی یثرب سفر بی کاروان به",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کجا مکتب ، کجا میخانه شوق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو خود فرما مرا این به که آن به",
+      "CoupletIndex": 1
+    }
+  ]
+}

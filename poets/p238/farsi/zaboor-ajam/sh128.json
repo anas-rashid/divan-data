@@ -1,0 +1,69 @@
+{
+  "Id": 13765,
+  "CatId": 1042,
+  "Title": "بخش ۱۲۸ - بهار آمد نگه می غلطد اندر آتش لاله",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۱۲۸ - بهار آمد نگه می غلطد اندر آتش لاله",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهار آمد نگه می غلطد اندر آتش لاله\r\nهزاران ناله خیزد از دل پرکاله پرکاله\r\nفشان یک جرعه بر خاک چمن از بادهٔ لعلی\r\nکه از بیم خزان بیگانه روید نرگس و لاله\r\nجهان رنگ و بو دانی ولی دل چیست میدانی\r\nمهی کز حلقهٔ آفاق سازد گرد خود هاله",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار آمد نگه می غلطد اندر آتش لاله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هزاران ناله خیزد از دل پرکاله پرکاله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فشان یک جرعه بر خاک چمن از بادهٔ لعلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از بیم خزان بیگانه روید نرگس و لاله",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جهان رنگ و بو دانی ولی دل چیست میدانی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مهی کز حلقهٔ آفاق سازد گرد خود هاله",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13396,
+  "CatId": 1041,
+  "Title": "بخش ۵۹ - چو تاب از خود بگیرد قطرهٔ آب",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵۹ - چو تاب از خود بگیرد قطرهٔ آب",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو تاب از خود بگیرد قطرهٔ آب\r\nمیان صد گهر یک دانه گردد\r\nبه بزم همنوایان آنچنان زی\r\nکه گلشن بر تو خلوت خانه گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو تاب از خود بگیرد قطرهٔ آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میان صد گهر یک دانه گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به بزم همنوایان آنچنان زی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که گلشن بر تو خلوت خانه گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

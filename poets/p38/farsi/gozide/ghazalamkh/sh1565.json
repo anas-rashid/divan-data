@@ -1,0 +1,93 @@
+{
+  "Id": 12849,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۵۶۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۶۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1565",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1565",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی، ای مه روی، کین انگیختن؟\r\nخون ما بر خاک عمدا ریختن\r\nتنگ بر بستن کمیت فتنه را\r\nدر شکارستان عشق انگیختن\r\nکی روا باشد به کوی عاشقان،\r\nدل ز ما دزدیدن و بگریختن\r\nجان به مهر خویش بستن، وانگهی\r\nکشته خود را به زلف آویختن\r\nگشت خسرو مویی، از خود مگسلش\r\nسهل باشد موی را انگیختن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی، ای مه روی، کین انگیختن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون ما بر خاک عمدا ریختن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنگ بر بستن کمیت فتنه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در شکارستان عشق انگیختن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کی روا باشد به کوی عاشقان،",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل ز ما دزدیدن و بگریختن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جان به مهر خویش بستن، وانگهی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کشته خود را به زلف آویختن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گشت خسرو مویی، از خود مگسلش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سهل باشد موی را انگیختن",
+      "CoupletIndex": 4
+    }
+  ]
+}

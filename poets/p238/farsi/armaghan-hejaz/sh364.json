@@ -1,0 +1,57 @@
+{
+  "Id": 14228,
+  "CatId": 1045,
+  "Title": "بخش ۳۶۳ - نگاهیفرین جان در بدن بین",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶۳ - نگاهیفرین جان در بدن بین",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh364",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh364",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگاهیفرین جان در بدن بین\r\nبشاخان نادمیده یاسمن بین\r\nوگرنه مثل تیری در کمانی\r\nهدف را با نگاه تیر زن بین",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگاهیفرین جان در بدن بین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشاخان نادمیده یاسمن بین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وگرنه مثل تیری در کمانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هدف را با نگاه تیر زن بین",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13880,
+  "CatId": 1045,
+  "Title": "بخش ۱۵ - دلی در سینه دارم بی‌سروری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۵ - دلی در سینه دارم بی‌سروری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلی در سینه دارم بی‌سروری\r\nنه سوزی در کفِ خاکم، نه نوری\r\nبگیر از من که بر من، بارِ دوش است\r\nثوابِ این نمازِ بی‌حضوری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلی در سینه دارم بی‌سروری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه سوزی در کفِ خاکم، نه نوری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگیر از من که بر من، بارِ دوش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ثوابِ این نمازِ بی‌حضوری",
+      "CoupletIndex": 1
+    }
+  ]
+}

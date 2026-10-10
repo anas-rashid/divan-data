@@ -60,7 +60,17 @@ It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorS
 - **The code** (the scripts here, and the [Divan site and services](https://github.com/anas-rashid/divan)) is
   maintained by Muhammad Anas Rashid with the help of AI agents and coding tools; every change is reviewed by him.
 
+## Persian works (from Ganjoor)
+
+Several poets wrote in Urdu and Persian. For poets who are in both Divan and [Ganjoor](https://ganjoor.net), their
+Persian (فارسی) works come from Ganjoor's public data, [ganjoor/ganjoor-data](https://github.com/ganjoor/ganjoor-data),
+at the commit pinned in `ganjoor.json`: Muhammad Iqbal, Mirza Ghalib and Amir Khusrow so far. `ganjoor.py` checks out
+only those poets and `export_divan.py` adds a «فارسی» section under each of them (`poets/<poet>/farsi/`). Every poem
+keeps its link to ganjoor.net (`SourceUrl`), its metre, and Ganjoor's text; Ganjoor's AI-written summaries are left out.
+These texts are Ganjoor's: credit *"Ganjoor (ganjoor.net)"* when reusing them.
+Divan is an independent project: it is not an official Ganjoor app, and it is not affiliated with or endorsed by Ganjoor.
+
 ## License
 
-- **Data: [CC BY-SA 4.0](LICENSE).** Everything this repository publishes: `divan.db`, `manifest.json`, `poets/`, `index/`, `export/`, and `divan/` (Divan's own moderated versions, arrangements, tags and e-book records). The literary works themselves are in the public domain; the compilation comes from Urdu Wikisource, Wikipedia and Divan's moderators. When reusing it, credit *"Urdu Wikisource and Wikipedia contributors, and Divan"* and share alike. Every record keeps its source `url`.
+- **Data: [CC BY-SA 4.0](LICENSE).** Everything this repository publishes: `divan.db`, `manifest.json`, `poets/`, `index/`, `export/`, and `divan/` (Divan's own moderated versions, arrangements, tags and e-book records). The literary works themselves are in the public domain; the compilation comes from Urdu Wikisource, Wikipedia and Divan's moderators; the Persian works in `poets/*/farsi/` from Ganjoor (see above). When reusing it, credit *"Urdu Wikisource and Wikipedia contributors, and Divan"* and share alike. Every record keeps its source `url`.
 - **Code: [MIT](LICENSE-CODE).** The scripts (`*.py`, `*.sh`) and the sync workflow.

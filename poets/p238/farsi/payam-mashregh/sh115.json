@@ -1,0 +1,57 @@
+{
+  "Id": 13452,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۵ - مزاج لالهٔ خود رو شناسم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۵ - مزاج لالهٔ خود رو شناسم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مزاج لالهٔ خود رو شناسم\r\nبشاخ اندر گلان را بو شناسم\r\nاز آن دارد مرا مرغ چمن دوست\r\nمقام نغمه های او شناسم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مزاج لالهٔ خود رو شناسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشاخ اندر گلان را بو شناسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن دارد مرا مرغ چمن دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مقام نغمه های او شناسم",
+      "CoupletIndex": 1
+    }
+  ]
+}

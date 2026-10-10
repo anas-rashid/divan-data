@@ -1,0 +1,57 @@
+{
+  "Id": 11141,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۴۸ - صبح",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۴۸ - صبح",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون دل شب حاملهٔ مهر گشت\r\nبر شب حامل مه کامل گذشت\r\nحامل یک ماهه نه بل یکشبه\r\nتاجوری زاد در آن کوکبه",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دل شب حاملهٔ مهر گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر شب حامل مه کامل گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حامل یک ماهه نه بل یکشبه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاجوری زاد در آن کوکبه",
+      "CoupletIndex": 1
+    }
+  ]
+}

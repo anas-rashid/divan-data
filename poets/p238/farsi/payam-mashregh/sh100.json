@@ -1,0 +1,57 @@
+{
+  "Id": 13437,
+  "CatId": 1041,
+  "Title": "بخش ۱۰۰ - چسان زاید تمنا در دل ما",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۰۰ - چسان زاید تمنا در دل ما",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چسان زاید تمنا در دل ما\r\nچسان سوزد چراغ منزل ما\r\nبچشم ما که می بیند چه بیند\r\nچسان گنجید دل اندر گل ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چسان زاید تمنا در دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چسان سوزد چراغ منزل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بچشم ما که می بیند چه بیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چسان گنجید دل اندر گل ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

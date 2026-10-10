@@ -1,0 +1,93 @@
+{
+  "Id": 13187,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹۰۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۰۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1903",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1903",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای جان ز تن رفته، به تن باز کی آیی؟\r\nوی سرو خرامان، به چمن باز کی آیی؟\r\nجانی تو که از دوری روی تو بمردم\r\nتا زنده شوم باز، به من باز کی آیی؟\r\nشد جان هوایی به عنان گیری تو، لیک\r\nزان باد تو، ای ترک به من، باز کی آیی؟\r\nما را وطن تنگ و تو خو کرده به صحرا\r\nدر ظلمت زندان وطن باز کی آیی؟\r\nسرمایه خسرو به جهان جز سختی نیست\r\nعمری که تو رفتی به سخن، باز کی آیی؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جان ز تن رفته، به تن باز کی آیی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی سرو خرامان، به چمن باز کی آیی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانی تو که از دوری روی تو بمردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زنده شوم باز، به من باز کی آیی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شد جان هوایی به عنان گیری تو، لیک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زان باد تو، ای ترک به من، باز کی آیی؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما را وطن تنگ و تو خو کرده به صحرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در ظلمت زندان وطن باز کی آیی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سرمایه خسرو به جهان جز سختی نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عمری که تو رفتی به سخن، باز کی آیی؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13489,
+  "CatId": 1041,
+  "Title": "بخش ۱۵۲ - میان لاله و گل آشیان گیر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۵۲ - میان لاله و گل آشیان گیر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میان لاله و گل آشیان گیر\r\nز مرغ نغمه خوان درس فغان گیر\r\nاگر از ناتوانی گشته ئی پیر\r\nنصیبی از شباب این جهان گیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میان لاله و گل آشیان گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز مرغ نغمه خوان درس فغان گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر از ناتوانی گشته ئی پیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نصیبی از شباب این جهان گیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13960,
+  "CatId": 1045,
+  "Title": "بخش ۹۵ - شبی پیش خدا بگریستم زار",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۹۵ - شبی پیش خدا بگریستم زار",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh95",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh95",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبی پیش خدا بگریستم زار\r\nمسلمانان چرا زارند و خوارند\r\nندا آمد ، نمیدانی که این قوم\r\nدلی دارند و محبوبی ندارند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبی پیش خدا بگریستم زار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مسلمانان چرا زارند و خوارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ندا آمد ، نمیدانی که این قوم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلی دارند و محبوبی ندارند",
+      "CoupletIndex": 1
+    }
+  ]
+}

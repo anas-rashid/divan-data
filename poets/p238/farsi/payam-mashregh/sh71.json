@@ -1,0 +1,57 @@
+{
+  "Id": 13408,
+  "CatId": 1041,
+  "Title": "بخش ۷۱ - نماید آنچه هست این وادی گل",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۱ - نماید آنچه هست این وادی گل",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نماید آنچه هست این وادی گل؟\r\nدرون لالهٔ آتش بجان چیست؟\r\nبچشم ما چمن یک موج رنگ است\r\nکه می داند به چشم بلبلان چیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نماید آنچه هست این وادی گل؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درون لالهٔ آتش بجان چیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بچشم ما چمن یک موج رنگ است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که می داند به چشم بلبلان چیست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

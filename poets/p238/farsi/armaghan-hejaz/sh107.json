@@ -1,0 +1,57 @@
+{
+  "Id": 13972,
+  "CatId": 1045,
+  "Title": "بخش ۱۰۷ - خودی دادم ز خود نامحرمی را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰۷ - خودی دادم ز خود نامحرمی را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh107",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh107",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خودی دادم ز خود نامحرمی را\r\nگشادم در گل او زمزمی را\r\nبده آن نالهء گرمی که از وی\r\nبسوزم جز غم دین هر غمی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خودی دادم ز خود نامحرمی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشادم در گل او زمزمی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بده آن نالهء گرمی که از وی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسوزم جز غم دین هر غمی را",
+      "CoupletIndex": 1
+    }
+  ]
+}

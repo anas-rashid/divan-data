@@ -1,0 +1,57 @@
+{
+  "Id": 14016,
+  "CatId": 1045,
+  "Title": "بخش ۱۵۱ - ز شوق آموختم آن های و هوئی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۵۱ - ز شوق آموختم آن های و هوئی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh151",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh151",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شوق آموختم آن های و هوئی\r\nکه از سنگی گشاید آب جوئی\r\nهمین یک آرزو دارم که جاوید \r\nز عشق تو بگیرد رنگ و بوئی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شوق آموختم آن های و هوئی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از سنگی گشاید آب جوئی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همین یک آرزو دارم که جاوید ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز عشق تو بگیرد رنگ و بوئی",
+      "CoupletIndex": 1
+    }
+  ]
+}

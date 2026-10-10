@@ -1,0 +1,57 @@
+{
+  "Id": 13875,
+  "CatId": 1045,
+  "Title": "بخش ۱۰ - می من از تنک‌جامان نگه دار",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰ - می من از تنک‌جامان نگه دار",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میِ من از تُنُک‌جامان نگه دار\r\nشرابِ پخته از خامان نگه دار\r\nشَرَر از نیستانی دورتر به\r\nبه خاصان بخش و از عامان نگه دار",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میِ من از تُنُک‌جامان نگه دار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرابِ پخته از خامان نگه دار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شَرَر از نیستانی دورتر به",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خاصان بخش و از عامان نگه دار",
+      "CoupletIndex": 1
+    }
+  ]
+}

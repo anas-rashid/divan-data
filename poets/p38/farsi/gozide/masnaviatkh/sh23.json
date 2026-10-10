@@ -1,0 +1,69 @@
+{
+  "Id": 11116,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۲۳ - جواب پسر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۲۳ - جواب پسر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داد جوابی ادب آمیخته\r\nتعبیه‌های عجب آمیخته\r\nکای به رخم چشم جفا کرده باز\r\nدیدهٔ مهر تو برویم فراز\r\nگر گهر صلح پذیرد نظام\r\nحلقه بگوشم، به رضای تمام",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داد جوابی ادب آمیخته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تعبیه‌های عجب آمیخته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کای به رخم چشم جفا کرده باز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیدهٔ مهر تو برویم فراز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر گهر صلح پذیرد نظام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حلقه بگوشم، به رضای تمام",
+      "CoupletIndex": 2
+    }
+  ]
+}

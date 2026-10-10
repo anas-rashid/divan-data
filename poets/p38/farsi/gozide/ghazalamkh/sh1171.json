@@ -1,0 +1,93 @@
+{
+  "Id": 12455,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۱۷۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۷۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رغم آن دل که نگه دارندش\r\nزیر آن زلف سیه دارندش\r\nمشک بی‌زلف تو نتواند بود\r\nگر به شمشیر نگه دارندش\r\nبر رخ خوب تو ماند چیزی\r\nمه اگر زیر کله دارندش\r\nدر زمان سر بنهد بر پایت\r\nپایت ار بر سر مه دارندش\r\nچشم خسرو به گه آمدنت\r\nمنتظر بر سر ره دارندش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رغم آن دل که نگه دارندش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیر آن زلف سیه دارندش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشک بی‌زلف تو نتواند بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر به شمشیر نگه دارندش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر رخ خوب تو ماند چیزی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مه اگر زیر کله دارندش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در زمان سر بنهد بر پایت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پایت ار بر سر مه دارندش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چشم خسرو به گه آمدنت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "منتظر بر سر ره دارندش",
+      "CoupletIndex": 4
+    }
+  ]
+}

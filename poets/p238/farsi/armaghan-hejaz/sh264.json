@@ -1,0 +1,57 @@
+{
+  "Id": 14128,
+  "CatId": 1045,
+  "Title": "بخش ۲۶۳ - ادب پیرایه نادان و داناست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۶۳ - ادب پیرایه نادان و داناست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ادب پیرایه نادان و داناست\r\nخوشنکو از ادب خود را بیاراست\r\nندارمن مسلمان زاده را دوست\r\nکه در دانش فزو دود رادب کاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ادب پیرایه نادان و داناست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشنکو از ادب خود را بیاراست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ندارمن مسلمان زاده را دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در دانش فزو دود رادب کاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

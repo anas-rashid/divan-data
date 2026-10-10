@@ -1,0 +1,57 @@
+{
+  "Id": 13967,
+  "CatId": 1045,
+  "Title": "بخش ۱۰۲ - به آن رازی که گفتم پی نبردند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰۲ - به آن رازی که گفتم پی نبردند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به آن رازی که گفتم پی نبردند\r\nز شاخ نخل من خرما نخوردند\r\nمن ای میر امم داد از تو خواهم\r\nمرا یاران غزلخوانی شمردند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به آن رازی که گفتم پی نبردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز شاخ نخل من خرما نخوردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من ای میر امم داد از تو خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا یاران غزلخوانی شمردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

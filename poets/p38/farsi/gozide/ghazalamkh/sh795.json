@@ -1,0 +1,105 @@
+{
+  "Id": 12079,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۹۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۹۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh795",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh795",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردمی نرگس او می داند\r\nجادویی غمزه او می خواند\r\nزلف او پهلوی خال لب او\r\nگویی از شهد مگس می راند\r\nکار عاشق که چو ما باریک است\r\nهمه زان زلف همی پیچاند\r\nشیوه غمزه تو بدخویی ست\r\nهمه آفاق نکو می داند\r\nگر دلم بستد، و گر باز دهد\r\nصد دیگر ز کسان بستاند\r\nخسرو از بهر دو بوسه پیشت\r\nنیست زر، لیک سری افشاند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردمی نرگس او می داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جادویی غمزه او می خواند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف او پهلوی خال لب او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی از شهد مگس می راند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کار عاشق که چو ما باریک است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همه زان زلف همی پیچاند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شیوه غمزه تو بدخویی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همه آفاق نکو می داند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر دلم بستد، و گر باز دهد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صد دیگر ز کسان بستاند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خسرو از بهر دو بوسه پیشت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نیست زر، لیک سری افشاند",
+      "CoupletIndex": 5
+    }
+  ]
+}

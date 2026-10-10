@@ -1,0 +1,93 @@
+{
+  "Id": 12614,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۳۳۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۳۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر شبی چون یاد آن رخسار گلناری کنم\r\nتا به وقت صبح از مژگان گهرباری کنم\r\nگاه از تف دهان دامن بسوزم زهد را\r\nگه ز دود سینه سقف آسمان تاری کنم\r\nتیر مژگانش به جانم تا رسید از نوک آه\r\nزخمها هر صبح در نه طاق زنگاری کنم\r\nگر تمنای جفای او به خونریزم بود\r\nشحنه غم را به خون خویش هم یاری کنم\r\nضربت غم می خورم سلطانی آسا تا به کی\r\nقبله جان روی آن رخسار گلناری کنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شبی چون یاد آن رخسار گلناری کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به وقت صبح از مژگان گهرباری کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گاه از تف دهان دامن بسوزم زهد را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه ز دود سینه سقف آسمان تاری کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تیر مژگانش به جانم تا رسید از نوک آه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زخمها هر صبح در نه طاق زنگاری کنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر تمنای جفای او به خونریزم بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شحنه غم را به خون خویش هم یاری کنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ضربت غم می خورم سلطانی آسا تا به کی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "قبله جان روی آن رخسار گلناری کنم",
+      "CoupletIndex": 4
+    }
+  ]
+}

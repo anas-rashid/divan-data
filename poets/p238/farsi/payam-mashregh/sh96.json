@@ -1,0 +1,57 @@
+{
+  "Id": 13433,
+  "CatId": 1041,
+  "Title": "بخش ۹۶ - تو میگوئی که آدم خاکزاد است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۹۶ - تو میگوئی که آدم خاکزاد است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو میگوئی که آدم خاکزاد است\r\nاسیر عالم کون و فساد است\r\nولی فطرت ز اعجازی که دارد\r\nبنای بحر بر جویش نهاد است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو میگوئی که آدم خاکزاد است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسیر عالم کون و فساد است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولی فطرت ز اعجازی که دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنای بحر بر جویش نهاد است",
+      "CoupletIndex": 1
+    }
+  ]
+}

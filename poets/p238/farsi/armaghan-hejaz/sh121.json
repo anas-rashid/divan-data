@@ -1,0 +1,57 @@
+{
+  "Id": 13986,
+  "CatId": 1045,
+  "Title": "بخش ۱۲۱ - دل خود را بدست کس ندادم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲۱ - دل خود را بدست کس ندادم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خود را بدست کس ندادم \r\nگره از روی کار خود گشادم\r\nبه غیر الله کردم تکیه یک بار\r\nدو صد بار از مقام خود فتادم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خود را بدست کس ندادم ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گره از روی کار خود گشادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به غیر الله کردم تکیه یک بار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو صد بار از مقام خود فتادم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14060,
+  "CatId": 1045,
+  "Title": "بخش ۱۹۵ - سراپا درد و سوز شنائی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۹۵ - سراپا درد و سوز شنائی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سراپا درد و سوز آشنائی\r\nوصال او زبان دان جدائی\r\nجمال عشق گیرد از نی او\r\nنصیبی از جلال کبریائی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سراپا درد و سوز آشنائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وصال او زبان دان جدائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جمال عشق گیرد از نی او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نصیبی از جلال کبریائی",
+      "CoupletIndex": 1
+    }
+  ]
+}

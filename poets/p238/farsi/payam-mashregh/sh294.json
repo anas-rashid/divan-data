@@ -1,0 +1,57 @@
+{
+  "Id": 13631,
+  "CatId": 1041,
+  "Title": "بخش ۲۹۴ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹۴ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh294",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh294",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در جهان مانند جوی کوهسار \r\nاز نشیب و هم فراز آگاه شو\r\nیا مثال سیل بی زنهار خیز\r\nفارغ از پست و بلند راه شو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در جهان مانند جوی کوهسار ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نشیب و هم فراز آگاه شو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا مثال سیل بی زنهار خیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فارغ از پست و بلند راه شو",
+      "CoupletIndex": 1
+    }
+  ]
+}

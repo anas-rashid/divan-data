@@ -1,0 +1,93 @@
+{
+  "Id": 13268,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹۸۴",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۸۴",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1984",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1984",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای به هر موی شده بسته زلف دل من\r\nوی به هر کوی شده در طلبت منزل من\r\nاین چنین در هم و پیچان ز چه گشته ست دلم\r\nسایه زلف تو افتاد مگر در دل من\r\nکارم از شکل سر زلف تو مشکل شده است\r\nمشکل امروز که بگشاید ازو مشکل من\r\nلب تو آب حیات ست و خطت ظلمت شب\r\nجز همه تنگی و تاریکی ازو حاصل من\r\nخسرو بی خبرم تا به غمت افتادم\r\nخبرت هست ازین واقعه مشکل من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای به هر موی شده بسته زلف دل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی به هر کوی شده در طلبت منزل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این چنین در هم و پیچان ز چه گشته ست دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سایه زلف تو افتاد مگر در دل من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کارم از شکل سر زلف تو مشکل شده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مشکل امروز که بگشاید ازو مشکل من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "لب تو آب حیات ست و خطت ظلمت شب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جز همه تنگی و تاریکی ازو حاصل من",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو بی خبرم تا به غمت افتادم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خبرت هست ازین واقعه مشکل من",
+      "CoupletIndex": 4
+    }
+  ]
+}

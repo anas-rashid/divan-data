@@ -1,0 +1,141 @@
+{
+  "Id": 11679,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۳۹۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۳۹۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh395",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh395",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با این جمال روی صنم دیدنم خطاست\r\nکایینه مراد نه بهر جمال ماست\r\nدرویش بین به کلبه خود می برد هوس\r\nزان شمع کش ملایکه پروانه ضیاست\r\nعقل است و لاف صبر یکی پرده برفگن\r\nتا بنگری که فایده عقل تا کجاست\r\nچشمش برون کشم ز سرش آنکه بیندت\r\nصدق است این مثل که گدا دشمن گداست\r\nهر کس ز باد بوی تو جوید، من آن نیم\r\nما را همین بس است که این باد از آن هواست\r\nرویم به قبله و دل گمره به سوی بت\r\nباری چرا کنیم نمازی که نارواست\r\nشبهای خویش روز کنم ز آه شب فروز\r\nبد روز چون منی که بدین روز مبتلاست\r\nضایع مکن دعای خود، ای پارسای وقت\r\nدر حق بیدلی که نه در خورد این دعاست\r\nخسرو، منال بهر دل گم شده به درد\r\nکالاش کن ملال که درد تو آشناست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با این جمال روی صنم دیدنم خطاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کایینه مراد نه بهر جمال ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درویش بین به کلبه خود می برد هوس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان شمع کش ملایکه پروانه ضیاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عقل است و لاف صبر یکی پرده برفگن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا بنگری که فایده عقل تا کجاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چشمش برون کشم ز سرش آنکه بیندت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صدق است این مثل که گدا دشمن گداست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر کس ز باد بوی تو جوید، من آن نیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ما را همین بس است که این باد از آن هواست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "رویم به قبله و دل گمره به سوی بت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "باری چرا کنیم نمازی که نارواست",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "شبهای خویش روز کنم ز آه شب فروز",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بد روز چون منی که بدین روز مبتلاست",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ضایع مکن دعای خود، ای پارسای وقت",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "در حق بیدلی که نه در خورد این دعاست",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "خسرو، منال بهر دل گم شده به درد",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کالاش کن ملال که درد تو آشناست",
+      "CoupletIndex": 8
+    }
+  ]
+}

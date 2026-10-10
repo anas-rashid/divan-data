@@ -1,0 +1,57 @@
+{
+  "Id": 14212,
+  "CatId": 1045,
+  "Title": "بخش ۳۴۷ - ز جانم نغمهء «الله هو» ریخت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۴۷ - ز جانم نغمهء «الله هو» ریخت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh348",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh348",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز جانم نغمهء «الله هو» ریخت\r\nچو کرد از رخت هستی چار سو ریخت\r\nبگیر از دست من سازی که تارش\r\nز سوز زخمه چون اشکم فرو ریخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز جانم نغمهء «الله هو» ریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو کرد از رخت هستی چار سو ریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگیر از دست من سازی که تارش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز سوز زخمه چون اشکم فرو ریخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

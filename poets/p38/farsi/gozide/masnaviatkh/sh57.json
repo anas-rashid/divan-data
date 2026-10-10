@@ -1,0 +1,57 @@
+{
+  "Id": 11150,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۵۷ - اشتقاق و شبه اشتقاق",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۵۷ - اشتقاق و شبه اشتقاق",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیده که نادیدهٔ دیدار تست\r\nدیده و نادیده گرفتار تست\r\nچون اثر شوق ز غایت گذشت\r\nکفهٔ دانش ز کفایت گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیده که نادیدهٔ دیدار تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده و نادیده گرفتار تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون اثر شوق ز غایت گذشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کفهٔ دانش ز کفایت گذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

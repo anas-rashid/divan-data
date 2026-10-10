@@ -1,0 +1,57 @@
+{
+  "Id": 14224,
+  "CatId": 1045,
+  "Title": "بخش ۳۵۹ - بچشم من جهان جز رهگذر نیست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۵۹ - بچشم من جهان جز رهگذر نیست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh360",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh360",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بچشم من جهان جز رهگذر نیست\r\nهزاران رهرو و یک همسفر نیست\r\nگذشتم از هجوم خویش و پیوند\r\nکه از خویشان کسی بیگانه تر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بچشم من جهان جز رهگذر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هزاران رهرو و یک همسفر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گذشتم از هجوم خویش و پیوند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از خویشان کسی بیگانه تر نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

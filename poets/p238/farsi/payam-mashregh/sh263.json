@@ -1,0 +1,129 @@
+{
+  "Id": 13600,
+  "CatId": 1041,
+  "Title": "بخش ۲۶۳ - شوپنهاور و نیچه",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۶۳ - شوپنهاور و نیچه",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh263",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh263",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرغی ز آشیانه به سیر چمن پرید\r\nخاری ز شاخ گل بتن نازکش خلید\r\nبد گفت فطرتِ چمنِ روزگار را\r\nاز درد خویش و هم ز غم دیگران تپید\r\nداغی ز خون بی‌گنهی لاله را شمرد\r\nاندر طلسمِ غنچه فریبِ بهار دید\r\nگفت اندرین سرا که بنایش فتاده کج\r\nصبحی کجا که چرخ درو شامها نچید\r\nنالید تا به حوصلهٔ آن نوا طراز\r\nخون گشت نغمه و ز دو چشمش فرو چکید\r\nسوز فغان او بدل هدهدی گرفت\r\nبا نوک خویش خار ز اندام او کشید\r\nگفتش که سود خویش ز جیب زیان برآر\r\nگل از شکاف سینه زرِ ناب آفرید\r\nدرمان ز درد ساز اگر خسته تن شوی\r\nخوگر به خار شو که سراپا چمن شوی",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرغی ز آشیانه به سیر چمن پرید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاری ز شاخ گل بتن نازکش خلید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بد گفت فطرتِ چمنِ روزگار را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از درد خویش و هم ز غم دیگران تپید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "داغی ز خون بی‌گنهی لاله را شمرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اندر طلسمِ غنچه فریبِ بهار دید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گفت اندرین سرا که بنایش فتاده کج",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صبحی کجا که چرخ درو شامها نچید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نالید تا به حوصلهٔ آن نوا طراز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خون گشت نغمه و ز دو چشمش فرو چکید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سوز فغان او بدل هدهدی گرفت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "با نوک خویش خار ز اندام او کشید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گفتش که سود خویش ز جیب زیان برآر",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گل از شکاف سینه زرِ ناب آفرید",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "CenteredVerse1",
+      "Text": "درمان ز درد ساز اگر خسته تن شوی",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "CenteredVerse2",
+      "Text": "خوگر به خار شو که سراپا چمن شوی",
+      "CoupletIndex": 7
+    }
+  ]
+}

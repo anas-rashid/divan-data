@@ -1,0 +1,57 @@
+{
+  "Id": 14056,
+  "CatId": 1045,
+  "Title": "بخش ۱۹۱ - پسر را گفت پیری خرقه بازی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۹۱ - پسر را گفت پیری خرقه بازی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh192",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh192",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پسر را گفت پیری خرقه بازی\r\nترا این نکته باید حرز جان کرد\r\nبه نمرودان این دور آشنا باش\r\nز فیض شان براهیمی توان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پسر را گفت پیری خرقه بازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترا این نکته باید حرز جان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به نمرودان این دور آشنا باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز فیض شان براهیمی توان کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

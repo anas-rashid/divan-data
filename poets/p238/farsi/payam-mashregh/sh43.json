@@ -1,0 +1,57 @@
+{
+  "Id": 13380,
+  "CatId": 1041,
+  "Title": "بخش ۴۳ - به خود باز آورد رند کهن را",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۴۳ - به خود باز آورد رند کهن را",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به خود باز آورد رند کهن را\r\nمی برنا که من در جام کردم\r\nمن این می چون مغان دور پیشین\r\nز چشم مست ساقی وام کردم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به خود باز آورد رند کهن را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می برنا که من در جام کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من این می چون مغان دور پیشین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز چشم مست ساقی وام کردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14226,
+  "CatId": 1045,
+  "Title": "بخش ۳۶۱ - کهن پروردهء این خاکدانم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶۱ - کهن پروردهء این خاکدانم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh362",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh362",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کهن پروردهء این خاکدانم\r\nدلی از منزل خود دل گرانم\r\nدمیدم گرچه از فیض نم او\r\nزمین راسمان خود ندانم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کهن پروردهء این خاکدانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلی از منزل خود دل گرانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دمیدم گرچه از فیض نم او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زمین راسمان خود ندانم",
+      "CoupletIndex": 1
+    }
+  ]
+}

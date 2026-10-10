@@ -1,0 +1,57 @@
+{
+  "Id": 13412,
+  "CatId": 1041,
+  "Title": "بخش ۷۵ - صنوبر بندهٔ آزادهٔ او",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۵ - صنوبر بندهٔ آزادهٔ او",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صنوبر بندهٔ آزادهٔ او\r\nفروغ روی گل از بادهٔ او\r\nحریمش آفتاب و ماه و انجم\r\nدل آدم در نگشادهٔ او",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صنوبر بندهٔ آزادهٔ او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فروغ روی گل از بادهٔ او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حریمش آفتاب و ماه و انجم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل آدم در نگشادهٔ او",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14241,
+  "CatId": 1045,
+  "Title": "بخش ۳۷۶ - به ساحل گفت موج بیقراری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۷۶ - به ساحل گفت موج بیقراری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh377",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh377",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به ساحل گفت موج بیقراری\r\nبه فرعونی کنم خود را عیاری\r\nگهی بر خویش می پیچم چو ماری\r\nگهی رقصم به ذوق انتظاری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به ساحل گفت موج بیقراری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به فرعونی کنم خود را عیاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گهی بر خویش می پیچم چو ماری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گهی رقصم به ذوق انتظاری",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13599,
+  "CatId": 1041,
+  "Title": "بخش ۲۶۲ - جمعیت الاقوام",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۶۲ - جمعیت الاقوام",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بَرفِتَد تا روشِ رزم درین بزم کهن\r\nدردمندان جهان طرح نو انداخته‌اند\r\nمن ازین بیش ندانم که کفن دزدی چند\r\nبهرِ تقسیم قبور انجمنی ساخته‌اند!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بَرفِتَد تا روشِ رزم درین بزم کهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردمندان جهان طرح نو انداخته‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من ازین بیش ندانم که کفن دزدی چند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهرِ تقسیم قبور انجمنی ساخته‌اند!",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 11129,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۳۶ - صفت حوض",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۳۶ - صفت حوض",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کمر سنگ میان دو کوه\r\nآب گهر صفوة و دریا شکوه\r\nساخته سلطان سکندر صفات\r\nدر سد کوه ، آیینه ز آب حیات\r\nشهر گر از وی نبود آب کش\r\nکس نخورد، در همه شهر ، آب خوش\r\nدر نخورد آب وی اندر زمین\r\nکی به زمین در خورد آبی چنین\r\nنیم فلک هست به زیر زمین\r\nچون تهش نیست زمین آن ببین\r\nحوض نه گویم که حبابی ز نور\r\nنور ، کزو دیدهٔ بد باد دور !",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کمر سنگ میان دو کوه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب گهر صفوة و دریا شکوه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساخته سلطان سکندر صفات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سد کوه ، آیینه ز آب حیات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شهر گر از وی نبود آب کش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کس نخورد، در همه شهر ، آب خوش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در نخورد آب وی اندر زمین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کی به زمین در خورد آبی چنین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نیم فلک هست به زیر زمین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون تهش نیست زمین آن ببین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "حوض نه گویم که حبابی ز نور",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نور ، کزو دیدهٔ بد باد دور !",
+      "CoupletIndex": 5
+    }
+  ]
+}

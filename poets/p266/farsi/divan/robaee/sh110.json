@@ -1,0 +1,57 @@
+{
+  "Id": 14701,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/p266/farsi/divan/robaee/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویند جهانیان دورویند، مگوی\r\nگر بد منکوه ور نکویند، مگوی\r\nهر چند که بد زیستم و بد مردم\r\nنیکان پس مرده بد نگویند، مگوی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند جهانیان دورویند، مگوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر بد منکوه ور نکویند، مگوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند که بد زیستم و بد مردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نیکان پس مرده بد نگویند، مگوی",
+      "CoupletIndex": 1
+    }
+  ]
+}

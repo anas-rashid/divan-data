@@ -3,12 +3,13 @@
 "public data import" and any ganjoor-data client can read it unchanged.
 Format: https://github.com/ganjoor/ganjoor-data/blob/main/API.md"""
 import json, os, re, shutil, sqlite3, time
+import ganjoor
 
 D = os.path.dirname(os.path.abspath(__file__))
 SHARD = 2000
 GENRES = {"غزل": "ghazal", "نظم": "nazm", "رباعی": "rubai", "رباعیات": "rubai", "قطعہ": "qita", "قطعات": "qita",
           "مرثیہ": "marsiya", "مثنوی": "masnavi", "قصیدہ": "qasida", "نثر": "nasr", "شاعری": "shaeri",
-          "مضمون": "mazmoon", "خطوط": "khutoot", "سلام": "salam", "نعت": "naat", "حمد": "hamd"}
+          "مضمون": "mazmoon", "خطوط": "khutoot", "سلام": "salam", "نعت": "naat", "حمد": "hamd", "فارسی": "farsi"}
 
 db = sqlite3.connect(f"{D}/divan.db")
 # ids are minted once and kept forever, so URLs/ids stay stable across daily syncs
@@ -165,12 +166,50 @@ def owned_details(url, kind):
     return out
 
 
+# Persian works from Ganjoor (ganjoor.py): a «فارسی» section under the poet with Ganjoor's books, sub-books and poems.
+# Ids are minted under "ganjoor:<Ganjoor URL>" keys, so they never collide with Divan's and stay stable.
+def add_persian(gslug, root, name, cats, poem_idx):
+    farsi_path = ("فارسی",)
+    def tree(gurl, parent, path):
+        g = ganjoor.read(f"{gurl}/_cat.json")
+        for ch in g.get("ChildCats") or []:
+            cid = gid("cat", "ganjoor:" + ch["FullUrl"])
+            c = {"Id": cid, "PoetId": root["PoetId"], "ParentId": parent["Id"], "Title": ch["Title"],
+                 "FullUrl": f"{parent['FullUrl']}/{ch['FullUrl'].rsplit('/', 1)[-1]}", "Description": None,
+                 "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}
+            parent["ChildCats"].append({"Id": cid, "Title": c["Title"], "FullUrl": c["FullUrl"]})
+            cats[path + (ch["Title"],)] = c
+            tree(ch["FullUrl"], c, path + (ch["Title"],))
+        for ref in g.get("Poems") or []:
+            p = ganjoor.read(f"{ref['FullUrl']}.json")
+            pid = gid("poem", "ganjoor:" + ref["FullUrl"])
+            url = f"{parent['FullUrl']}/{ref['FullUrl'].rsplit('/', 1)[-1]}"
+            obj = ganjoor.poem(p, parent["Id"], pid, url, " » ".join([name, *path, p["Title"]]))
+            own = owned(url)  # a moderator's version in Divan takes precedence, as for Urdu works
+            if own:
+                obj.update({"DivanOwned": True, "Edited": own.get("Edited"), "Title": own.get("Title") or obj["Title"], "Verses": own["Verses"]})
+            write(f"poets{url}.json", obj)
+            parent["Poems"].append({"Id": pid, "Title": obj["Title"], "FullUrl": url})
+            poem_idx[pid] = url
+        return
+    cid = gid("cat", "ganjoor:/" + gslug)
+    farsi = {"Id": cid, "PoetId": root["PoetId"], "ParentId": root["Id"], "Title": "فارسی", "FullUrl": f"{root['FullUrl']}/farsi",
+             "Description": None, "DescriptionHtml": None, "BookName": None, "ChildCats": [], "Poems": []}
+    root["ChildCats"].append({"Id": cid, "Title": "فارسی", "FullUrl": farsi["FullUrl"]})
+    cats[farsi_path] = farsi
+    tree("/" + gslug, farsi, farsi_path)
+    return sum(1 for u in poem_idx.values() if u.startswith(farsi["FullUrl"] + "/"))
+
+
 def main():
     for p in ("poets", "index"):
         shutil.rmtree(os.path.join(D, p), ignore_errors=True)
     poets = db.execute("""SELECT p.page, p.name, p.birth_year, p.death_year, coalesce(p.intro, p.description), p.image
                           FROM poets p WHERE EXISTS (SELECT 1 FROM works w WHERE w.poet_page=p.page)""").fetchall()
     manifest, cat_idx, poem_idx, poem_count = [], {}, {}, 0
+    persian = ganjoor.by_divan_page()
+    if persian:
+        ganjoor.checkout()
     for page, name, born, died, desc, image in poets:
         pid = gid("poet", page)
         purl = f"/p{pid}"
@@ -242,7 +281,15 @@ def main():
             poem_idx[wid] = purl_
             poem_count += 1
 
+        if page in persian:  # after the Urdu works, so the Persian section comes last on the poet's page
+            poem_count += add_persian(persian[page], cats[()], name, cats, poem_idx)
+
         for path, c in cats.items():
+            if path[:1] == ("فارسی",):  # Ganjoor's own order; the radif letters are Urdu's
+                owned_order(c)
+                write(f"poets{c['FullUrl']}/_cat.json", c)
+                cat_idx[c["Id"]] = c["FullUrl"]
+                continue
             if page not in PUBLISHED_ORDER and any("غزل" in p for p in path):
                 c["Poems"].sort(key=lambda p: radif_rank(first_line[p["Id"]]))  # stable: ties keep source order
                 for p in c["Poems"]:  # divan extension: contents grouped "ردیف الف … ی"

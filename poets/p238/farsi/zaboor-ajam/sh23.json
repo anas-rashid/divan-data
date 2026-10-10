@@ -1,0 +1,81 @@
+{
+  "Id": 13660,
+  "CatId": 1042,
+  "Title": "بخش ۲۳ - عقل هم عشق است و از ذوق نگه بیگانه نیست",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۲۳ - عقل هم عشق است و از ذوق نگه بیگانه نیست",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عقل هم عشق است و از ذوق نگه بیگانه نیست\r\nلیکن این بیچاره را آن جرأت رندانه نیست\r\nگرچه می دانم خیال منزل ایجاد من است\r\nدر سفر از پا نشستن همت مردانه نیست\r\nهر زمان یک تازه جولانگاه میخواهم ازو\r\nتا جنون فرمای من گوید دگر ویرانه نیست\r\nبا چنین زور جنون پاس گریبان داشتم\r\nدر جنون از خود نرفتن کار هر دیوانه نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عقل هم عشق است و از ذوق نگه بیگانه نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیکن این بیچاره را آن جرأت رندانه نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه می دانم خیال منزل ایجاد من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سفر از پا نشستن همت مردانه نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر زمان یک تازه جولانگاه میخواهم ازو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا جنون فرمای من گوید دگر ویرانه نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با چنین زور جنون پاس گریبان داشتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در جنون از خود نرفتن کار هر دیوانه نیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

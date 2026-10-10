@@ -1,0 +1,57 @@
+{
+  "Id": 13439,
+  "CatId": 1041,
+  "Title": "بخش ۱۰۲ - جهان ما که جز انگاره ئی نیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۰۲ - جهان ما که جز انگاره ئی نیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان ما که جز انگاره ئی نیست\r\nاسیر انقلاب صبح و شام است\r\nز سوهان قضا هموار گردد\r\nهنوز این پیکر گل ناتمام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان ما که جز انگاره ئی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسیر انقلاب صبح و شام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز سوهان قضا هموار گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هنوز این پیکر گل ناتمام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

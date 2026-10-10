@@ -1,0 +1,57 @@
+{
+  "Id": 13456,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۹ - مرنج از برهمن ای واعظ شهر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۹ - مرنج از برهمن ای واعظ شهر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرنج از برهمن ای واعظ شهر\r\nگر از ما سجده ئی پیش بتان خواست\r\nخدای ما که خود صورتگری کرد\r\nبتی را سجده ئی از قدسیان خواست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرنج از برهمن ای واعظ شهر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر از ما سجده ئی پیش بتان خواست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خدای ما که خود صورتگری کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بتی را سجده ئی از قدسیان خواست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 11118,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۲۵ - جواب پسر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۲۵ - جواب پسر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شه مشرق شده چون آفتاب\r\nوز تو جهان در حد مغرب به تاب\r\nگر همه بر ماه رسد افسرم\r\nهم به ته پای تو باشد سرم\r\nرو تو چو خورشید ز مشرق برآی\r\nمن بسم، اسکندر مغرب گشای\r\nتا تو به مشرق بوی و من به غرب\r\nحربه خورد هرکه درآید به حرب\r\nور به ملاقات رهی رای تست\r\nافسر من خدمتی پای تست",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شه مشرق شده چون آفتاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز تو جهان در حد مغرب به تاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر همه بر ماه رسد افسرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم به ته پای تو باشد سرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رو تو چو خورشید ز مشرق برآی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من بسم، اسکندر مغرب گشای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا تو به مشرق بوی و من به غرب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حربه خورد هرکه درآید به حرب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ور به ملاقات رهی رای تست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "افسر من خدمتی پای تست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13366,
+  "CatId": 1041,
+  "Title": "بخش ۲۹ - ترا از خویشتن بیگانه سازد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹ - ترا از خویشتن بیگانه سازد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترا از خویشتن بیگانه سازد\r\nمن آن آبی طربناکی ندارم\r\nبه بازارم مجو دیگر متاعی\r\nچو گل جز سینهٔ چاکی ندارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا از خویشتن بیگانه سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من آن آبی طربناکی ندارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به بازارم مجو دیگر متاعی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو گل جز سینهٔ چاکی ندارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14699,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p266/farsi/divan/robaee/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کلبه من اگر غباری بینی\r\nپیچیده به خویش همچو ماری بینی\r\nتنگ ست چنان که دایم از صحن سرای\r\nاز جرم فلک ستاره واری بینی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کلبه من اگر غباری بینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیچیده به خویش همچو ماری بینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنگ ست چنان که دایم از صحن سرای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جرم فلک ستاره واری بینی",
+      "CoupletIndex": 1
+    }
+  ]
+}

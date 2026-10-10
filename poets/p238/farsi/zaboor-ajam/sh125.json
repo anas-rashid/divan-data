@@ -1,0 +1,57 @@
+{
+  "Id": 13762,
+  "CatId": 1042,
+  "Title": "بخش ۱۲۵ - از داغ فراق او در دل چمنی دارم",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۱۲۵ - از داغ فراق او در دل چمنی دارم",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از داغ فراق او در دل چمنی دارم\r\nای لالهٔ صحرائی با تو سخنی دارم\r\nاین آه جگر سوزی در خلوت صحرا به\r\nلیکن چکنم کاری با انجمنی دارم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از داغ فراق او در دل چمنی دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای لالهٔ صحرائی با تو سخنی دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این آه جگر سوزی در خلوت صحرا به",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیکن چکنم کاری با انجمنی دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

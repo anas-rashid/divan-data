@@ -1,0 +1,57 @@
+{
+  "Id": 13465,
+  "CatId": 1041,
+  "Title": "بخش ۱۲۸ - تو ای دل تا نشینی در کنارم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۲۸ - تو ای دل تا نشینی در کنارم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو ای دل تا نشینی در کنارم\r\nز تشریف شهان خوشتر گلیمم\r\nدرون سینه ام باشی پس از مرگ؟\r\nمن از دست تو در امید و بیمم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو ای دل تا نشینی در کنارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز تشریف شهان خوشتر گلیمم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درون سینه ام باشی پس از مرگ؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من از دست تو در امید و بیمم",
+      "CoupletIndex": 1
+    }
+  ]
+}

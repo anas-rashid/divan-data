@@ -1,0 +1,57 @@
+{
+  "Id": 14249,
+  "CatId": 1045,
+  "Title": "بخش ۳۸۴ - به افرنگی بتان خود را سپردی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۸۴ - به افرنگی بتان خود را سپردی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh385",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh385",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به افرنگی بتان خود را سپردی \r\nچه نامردانه در تبخانه مردی \r\nخرد بیگانه دل سینه بی سوز\r\nکه از تاک یناکان می نخوردی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به افرنگی بتان خود را سپردی ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه نامردانه در تبخانه مردی ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرد بیگانه دل سینه بی سوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از تاک یناکان می نخوردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

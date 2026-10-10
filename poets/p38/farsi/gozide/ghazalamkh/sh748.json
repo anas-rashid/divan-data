@@ -1,0 +1,93 @@
+{
+  "Id": 12032,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۴۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۴۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh748",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh748",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر خم طره ز روی تو جدا خواهد شد\r\nنام رخساره تو نام سما خواهد شد\r\nجعد زنجیر نمای تو بلایی ست کز او\r\nپای دل بسته به زنجیر بلا خواهد شد\r\nزلف هم چون رسنت ماه سما را بگرفت\r\nمن ندانم که درین ماه چها خواهد شد\r\nحاجت آن است که من بر در تو کشته شوم\r\nهیچگه حاجت این خسته روا خواهد شد؟\r\nزین کشاکش که تنت راست ببینی، خسرو\r\nناگهان بند ز بند تو جدا خواهد شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر خم طره ز روی تو جدا خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نام رخساره تو نام سما خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جعد زنجیر نمای تو بلایی ست کز او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پای دل بسته به زنجیر بلا خواهد شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زلف هم چون رسنت ماه سما را بگرفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من ندانم که درین ماه چها خواهد شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حاجت آن است که من بر در تو کشته شوم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هیچگه حاجت این خسته روا خواهد شد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زین کشاکش که تنت راست ببینی، خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ناگهان بند ز بند تو جدا خواهد شد",
+      "CoupletIndex": 4
+    }
+  ]
+}

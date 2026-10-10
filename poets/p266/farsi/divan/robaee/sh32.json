@@ -1,0 +1,57 @@
+{
+  "Id": 14623,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/p266/farsi/divan/robaee/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردیدن زاهدان به جنت گستاخ\r\nوین دست درازی به ثمر شاخ به شاخ\r\nچون نیک نظر کنی ز روی تشبیه\r\nماند به بهایم و علفزار فراخ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردیدن زاهدان به جنت گستاخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین دست درازی به ثمر شاخ به شاخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نیک نظر کنی ز روی تشبیه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماند به بهایم و علفزار فراخ",
+      "CoupletIndex": 1
+    }
+  ]
+}

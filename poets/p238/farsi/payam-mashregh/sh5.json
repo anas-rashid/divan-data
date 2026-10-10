@@ -1,0 +1,57 @@
+{
+  "Id": 13342,
+  "CatId": 1041,
+  "Title": "بخش ۵ - عقابان را بهای کم نهد عشق",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵ - عقابان را بهای کم نهد عشق",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عقابان را بهای کم نهد عشق\r\nتذروان را ببازان سر دهد عشق\r\nنگه دارد دل ما خویشتن را\r\nولیکن از کمینش بر جهد عشق",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عقابان را بهای کم نهد عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تذروان را ببازان سر دهد عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگه دارد دل ما خویشتن را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکن از کمینش بر جهد عشق",
+      "CoupletIndex": 1
+    }
+  ]
+}

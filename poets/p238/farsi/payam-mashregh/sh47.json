@@ -1,0 +1,57 @@
+{
+  "Id": 13384,
+  "CatId": 1041,
+  "Title": "بخش ۴۷ - گدای جلوه رفتی بر سر طور",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۴۷ - گدای جلوه رفتی بر سر طور",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گدای جلوه رفتی بر سر طور\r\nکه جان تو ز خود نامحرمی هست\r\nقدم در جستجوی آدمی زن\r\nخدا هم در تلاش آدمی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گدای جلوه رفتی بر سر طور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که جان تو ز خود نامحرمی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قدم در جستجوی آدمی زن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدا هم در تلاش آدمی هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

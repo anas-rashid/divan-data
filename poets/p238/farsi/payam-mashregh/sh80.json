@@ -1,0 +1,57 @@
+{
+  "Id": 13417,
+  "CatId": 1041,
+  "Title": "بخش ۸۰ - نفس آشفته موجی از یم اوست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۸۰ - نفس آشفته موجی از یم اوست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh80",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh80",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نفس آشفته موجی از یم اوست\r\nنی ما نغمهٔ ما از دم اوست\r\nلب جوی ابد چون سبزه رستیم\r\nرگ ما ریشهٔ ما از نم اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفس آشفته موجی از یم اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی ما نغمهٔ ما از دم اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب جوی ابد چون سبزه رستیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رگ ما ریشهٔ ما از نم اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 13605,
+  "CatId": 1041,
+  "Title": "بخش ۲۶۸ - بایرن",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۶۸ - بایرن",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh268",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh268",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مثال لاله و گل شعله از زمین روید\r\nاگر به خاکِ گلستان تراود از جامش\r\nنبود درخورِ طبعش هوای سرد فرنگ\r\nتپید پیک محبت ز سوز پیغامش\r\nخیال او چه پریخانه ئی بنا کرد است\r\nشباب غش کند از جلوه لب بامش\r\nگذاشت طایر معنی نشیمنِ خود را\r\nکه سازگار تر افتاد حلقهٔ دامش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مثال لاله و گل شعله از زمین روید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر به خاکِ گلستان تراود از جامش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نبود درخورِ طبعش هوای سرد فرنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تپید پیک محبت ز سوز پیغامش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خیال او چه پریخانه ئی بنا کرد است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شباب غش کند از جلوه لب بامش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گذاشت طایر معنی نشیمنِ خود را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که سازگار تر افتاد حلقهٔ دامش",
+      "CoupletIndex": 3
+    }
+  ]
+}

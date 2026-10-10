@@ -1,0 +1,57 @@
+{
+  "Id": 14041,
+  "CatId": 1045,
+  "Title": "بخش ۱۷۶ - دل تو داغ پنهانی ندارد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷۶ - دل تو داغ پنهانی ندارد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh177",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh177",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل تو داغ پنهانی ندارد\r\nتب و تاب مسلمانی ندارد\r\nخیابان خودی را داده ئی آب\r\nاز آن دریا که طوفانی ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل تو داغ پنهانی ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تب و تاب مسلمانی ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیابان خودی را داده ئی آب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آن دریا که طوفانی ندارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

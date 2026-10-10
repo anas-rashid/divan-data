@@ -1,0 +1,57 @@
+{
+  "Id": 14697,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۶",
+  "FullUrl": "/p266/farsi/divan/robaee/sh106",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh106",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبحست و همای فیض و گیتی دامی\r\nصبحست و هوای شوق و گردون بامی\r\nبرخیز و به روزگار همرنگ برآی\r\nبا باده نابی و بلورین جامی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبحست و همای فیض و گیتی دامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبحست و هوای شوق و گردون بامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز و به روزگار همرنگ برآی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با باده نابی و بلورین جامی",
+      "CoupletIndex": 1
+    }
+  ]
+}

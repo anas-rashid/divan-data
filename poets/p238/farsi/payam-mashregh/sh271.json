@@ -1,0 +1,69 @@
+{
+  "Id": 13608,
+  "CatId": 1041,
+  "Title": "بخش ۲۷۱ - پتوفی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷۱ - پتوفی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh271",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh271",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نفسی درین گلستان ز عروس گل سرودی\r\nبدلی غمی فزودی ز دلی غمی ربودی\r\nتو بخون خویش بستی کف لاله را نگاری\r\nتو به آه صبحگاهی دل غنچه را گشودی\r\nبه نوای خود گم استی سخن تو مرقد تو\r\nبه زمین نه باز رفتی که تو از زمین نبودی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفسی درین گلستان ز عروس گل سرودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدلی غمی فزودی ز دلی غمی ربودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو بخون خویش بستی کف لاله را نگاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو به آه صبحگاهی دل غنچه را گشودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به نوای خود گم استی سخن تو مرقد تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به زمین نه باز رفتی که تو از زمین نبودی",
+      "CoupletIndex": 2
+    }
+  ]
+}

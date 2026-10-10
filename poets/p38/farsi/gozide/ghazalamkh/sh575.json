@@ -1,0 +1,93 @@
+{
+  "Id": 11859,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۷۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۷۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh575",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh575",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگارا، از من مسکین چه خیزد؟\r\nچرا هجر تو با ما می ستیزد؟\r\nهمی خیزد ز زلفت ناله دل\r\nچو آن آواز کز زنجیز خیزد\r\nمپوشان روی را بگذار، کز شرم\r\nشود گل آب و در پیشت بریزد\r\nمنم خاک تو چندینم چه بیزی؟\r\nکسی خود خاک را چندین نبیزد\r\nچو جا در سینه خسرو گرفتی\r\nدرون او ز جان بیرون گریزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگارا، از من مسکین چه خیزد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چرا هجر تو با ما می ستیزد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همی خیزد ز زلفت ناله دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو آن آواز کز زنجیز خیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مپوشان روی را بگذار، کز شرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شود گل آب و در پیشت بریزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "منم خاک تو چندینم چه بیزی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کسی خود خاک را چندین نبیزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو جا در سینه خسرو گرفتی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "درون او ز جان بیرون گریزد",
+      "CoupletIndex": 4
+    }
+  ]
+}

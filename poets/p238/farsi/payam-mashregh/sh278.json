@@ -1,0 +1,87 @@
+{
+  "Id": 13615,
+  "CatId": 1041,
+  "Title": "بخش ۲۷۸ - حکما",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷۸ - حکما",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لاک: \r\nساغرش را سحر از بادهٔ خورشید افروخت\r\nورنه در محفل گل لاله تهی جام آمد\r\nکانت: \r\nفطرتش ذوق می آینه فامی آورد\r\nاز شبستان ازل کوکب جامی آورد\r\nبرگسن: \r\nنه مئی از ازل آورد نه جامی آورد\r\nلاله از داغ جگر سوز دوامی آورد",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "CenteredVerse1",
+      "Text": "لاک: ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "ساغرش را سحر از بادهٔ خورشید افروخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "ورنه در محفل گل لاله تهی جام آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "CenteredVerse1",
+      "Text": "کانت: ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فطرتش ذوق می آینه فامی آورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از شبستان ازل کوکب جامی آورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse1",
+      "Text": "برگسن: ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 8,
+      "Position": "Right",
+      "Text": "نه مئی از ازل آورد نه جامی آورد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Left",
+      "Text": "لاله از داغ جگر سوز دوامی آورد",
+      "CoupletIndex": 5
+    }
+  ]
+}

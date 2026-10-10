@@ -1,0 +1,57 @@
+{
+  "Id": 14167,
+  "CatId": 1045,
+  "Title": "بخش ۳۰۲ - اگر خاک تو از جان محرمی نیست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۰۲ - اگر خاک تو از جان محرمی نیست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh303",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh303",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر خاک تو از جان محرمی نیست\r\nبشاخ تو هم از نیسان نمی نیست\r\nز غمزاد شودم را نگهدار\r\nکه اندر سینهٔ پردم غمی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر خاک تو از جان محرمی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشاخ تو هم از نیسان نمی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز غمزاد شودم را نگهدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که اندر سینهٔ پردم غمی نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

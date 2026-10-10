@@ -1,0 +1,105 @@
+{
+  "Id": 13069,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۸۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۸۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1785",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1785",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز بر خونم کمر بربسته ای\r\nوان دو ابروی سر بر بسته ای\r\nمن میان بر بستنت را بنده ام\r\nموی را گویی کمر بر بسته ای\r\nمی روی چون تیر و در دل می خلی\r\nتا خود از شست که بیرون جسته ای\r\nازتری آب از لبانت می چکد\r\nبس که اندر چشم من بنشسته ای\r\nتازه کردستی ز نم بر روی خود\r\nهم به خون تازه در پیوسته ای\r\nبر زمین پهلو نمی یارم نهاد\r\nبس که خسرو را به مژگان خسته ای",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز بر خونم کمر بربسته ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وان دو ابروی سر بر بسته ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من میان بر بستنت را بنده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موی را گویی کمر بر بسته ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می روی چون تیر و در دل می خلی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا خود از شست که بیرون جسته ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ازتری آب از لبانت می چکد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بس که اندر چشم من بنشسته ای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تازه کردستی ز نم بر روی خود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هم به خون تازه در پیوسته ای",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بر زمین پهلو نمی یارم نهاد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بس که خسرو را به مژگان خسته ای",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 12677,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۳۹۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۹۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1393",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1393",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون نارم آنکه فارغ زان آشنا گریزم\r\nگه در فسون نشینم، گه در دعا گریزم\r\nبوی کشندهٔ او خود همره صبا شد\r\nخلق از سموم وادی، من از صبا گریزم\r\nشمشیر بر کشیده عشق و مرا در آن کوی\r\nپای خرد شکسته چون از بلا گریزم\r\nهر جانور که باشد بگریزد از بلایی\r\nمن خود بلای خویشم، از خود کجا گریزم؟\r\nخسرو، مگوی در کش پا از طواف کویش\r\nکو نیست آن حریفی کز وی به پا گریزم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نارم آنکه فارغ زان آشنا گریزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه در فسون نشینم، گه در دعا گریزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوی کشندهٔ او خود همره صبا شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خلق از سموم وادی، من از صبا گریزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شمشیر بر کشیده عشق و مرا در آن کوی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پای خرد شکسته چون از بلا گریزم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر جانور که باشد بگریزد از بلایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "من خود بلای خویشم، از خود کجا گریزم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو، مگوی در کش پا از طواف کویش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کو نیست آن حریفی کز وی به پا گریزم",
+      "CoupletIndex": 4
+    }
+  ]
+}

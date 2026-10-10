@@ -1,0 +1,57 @@
+{
+  "Id": 13393,
+  "CatId": 1041,
+  "Title": "بخش ۵۶ - ز من با شاعر رنگین بیان گوی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵۶ - ز من با شاعر رنگین بیان گوی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز من با شاعر رنگین بیان گوی\r\nچه سود از سوز اگر چون لاله سوزی\r\nنه خود را می گدازی ز آتش خویش\r\nنه شام دردمندی بر فروزی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز من با شاعر رنگین بیان گوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه سود از سوز اگر چون لاله سوزی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه خود را می گدازی ز آتش خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه شام دردمندی بر فروزی",
+      "CoupletIndex": 1
+    }
+  ]
+}

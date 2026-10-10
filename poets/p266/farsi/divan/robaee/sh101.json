@@ -1,0 +1,57 @@
+{
+  "Id": 14692,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/p266/farsi/divan/robaee/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر پرورش مهر نه زان دل بودی\r\nدر دهر شیوع مهر مشکل بودی\r\nوز صدق ز جمله رسائل بودی\r\nبسم الله آن رساله بسمل بودی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر پرورش مهر نه زان دل بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دهر شیوع مهر مشکل بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وز صدق ز جمله رسائل بودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسم الله آن رساله بسمل بودی",
+      "CoupletIndex": 1
+    }
+  ]
+}

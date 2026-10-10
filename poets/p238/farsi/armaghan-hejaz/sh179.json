@@ -1,0 +1,57 @@
+{
+  "Id": 14043,
+  "CatId": 1045,
+  "Title": "بخش ۱۷۸ - به آن ملت اناالحق سازگار است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷۸ - به آن ملت اناالحق سازگار است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh179",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh179",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به آن ملت اناالحق سازگار است\r\nکه از خونش نم هر شاخسار است\r\nنهان اندر جلال او جمالی\r\nکه او را نه سپهر آئینه دار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به آن ملت اناالحق سازگار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از خونش نم هر شاخسار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نهان اندر جلال او جمالی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که او را نه سپهر آئینه دار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

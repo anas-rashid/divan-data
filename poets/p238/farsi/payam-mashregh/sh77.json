@@ -1,0 +1,57 @@
+{
+  "Id": 13414,
+  "CatId": 1041,
+  "Title": "بخش ۷۷ - بپای خود مزن زنجیر تقدیر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۷ - بپای خود مزن زنجیر تقدیر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh77",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh77",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بپای خود مزن زنجیر تقدیر\r\nته این گنبد گردان رهی هست\r\nاگر باور نداری خیز و دریاب\r\nکه چون پا وا کنی جولانگهی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بپای خود مزن زنجیر تقدیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ته این گنبد گردان رهی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر باور نداری خیز و دریاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چون پا وا کنی جولانگهی هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

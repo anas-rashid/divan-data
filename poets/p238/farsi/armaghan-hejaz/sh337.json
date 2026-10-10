@@ -1,0 +1,57 @@
+{
+  "Id": 14201,
+  "CatId": 1045,
+  "Title": "بخش ۳۳۶ - بیا تا نرد را شاهانه بازیم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۳۶ - بیا تا نرد را شاهانه بازیم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh337",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh337",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا تا نرد را شاهانه بازیم\r\nجهان چار سو را درگدازیم \r\nبه افسون هنر از برگ کاهش\r\nبهشتی این سوی گردون بسازیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا تا نرد را شاهانه بازیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جهان چار سو را درگدازیم ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به افسون هنر از برگ کاهش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهشتی این سوی گردون بسازیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

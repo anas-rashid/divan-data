@@ -1,0 +1,105 @@
+{
+  "Id": 12580,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۹۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۹۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1296",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1296",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی داند مه نامهربانم\r\nکه دور از روی خوبش بر چه سانم؟\r\nچو زلف بیقرارش بیقرارم\r\nچو چشم ناتوانش ناتوانم\r\nبرو باد و گدایی کن به کویش\r\nبگو با آن مه نامهربانم\r\n«که گرچه می نهی بار فراقم\r\nوگرچه می زنی تیغ زبانم\r\nهنوزم مهرت اندر سینه باشد\r\nاگر در خاک ریزد استخوانم »\r\nبپرس از شمع حال سوز خسرو\r\nکه تا گوید که شبها بر چه سانم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی داند مه نامهربانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دور از روی خوبش بر چه سانم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو زلف بیقرارش بیقرارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو چشم ناتوانش ناتوانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برو باد و گدایی کن به کویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بگو با آن مه نامهربانم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "«که گرچه می نهی بار فراقم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وگرچه می زنی تیغ زبانم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هنوزم مهرت اندر سینه باشد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر در خاک ریزد استخوانم »",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بپرس از شمع حال سوز خسرو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که تا گوید که شبها بر چه سانم",
+      "CoupletIndex": 5
+    }
+  ]
+}

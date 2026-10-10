@@ -1,0 +1,57 @@
+{
+  "Id": 14681,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/p266/farsi/divan/robaee/sh90",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh90",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نازم به نشاط این چنین برگشتن\r\nرمزیست نهفته اندرین برگشتن\r\nسرمایه نازش ست و پیرایه حسن\r\nبرگشتن مژگان بود این برگشتن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نازم به نشاط این چنین برگشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رمزیست نهفته اندرین برگشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرمایه نازش ست و پیرایه حسن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برگشتن مژگان بود این برگشتن",
+      "CoupletIndex": 1
+    }
+  ]
+}

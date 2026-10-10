@@ -1,0 +1,57 @@
+{
+  "Id": 14018,
+  "CatId": 1045,
+  "Title": "بخش ۱۵۳ - بده دستی ز پا افتادگان را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۵۳ - بده دستی ز پا افتادگان را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh153",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh153",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بده دستی ز پا افتادگان را\r\nبه غیرالله دل نادادگان را\r\nاز آن آتش که جان من بر افروخت\r\nنصیبی ده مسلمان زادگان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بده دستی ز پا افتادگان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به غیرالله دل نادادگان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن آتش که جان من بر افروخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نصیبی ده مسلمان زادگان را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13939,
+  "CatId": 1045,
+  "Title": "بخش ۷۴ - حق آن ده که « مسکین و اسیر» است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۷۴ - حق آن ده که « مسکین و اسیر» است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حق آن ده که « مسکین و اسیر» است\r\nفقیر و غیرت او دیر میر است\r\nبروی او در میخانه بستند \r\nدر این کشور مسلمان تشنه میر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حق آن ده که « مسکین و اسیر» است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فقیر و غیرت او دیر میر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بروی او در میخانه بستند ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در این کشور مسلمان تشنه میر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

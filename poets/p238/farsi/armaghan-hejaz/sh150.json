@@ -1,0 +1,57 @@
+{
+  "Id": 14015,
+  "CatId": 1045,
+  "Title": "بخش ۱۵۰ - بکوی تو گداز یک نوا بس",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۵۰ - بکوی تو گداز یک نوا بس",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بکوی تو گداز یک نوا بس\r\nمرا این ابتدا این انتها بس\r\nخراب جرأت آن رند پاکم\r\nخدا را گفت ما را مصطفی بس",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بکوی تو گداز یک نوا بس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا این ابتدا این انتها بس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خراب جرأت آن رند پاکم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدا را گفت ما را مصطفی بس",
+      "CoupletIndex": 1
+    }
+  ]
+}

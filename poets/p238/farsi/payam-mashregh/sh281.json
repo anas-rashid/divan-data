@@ -1,0 +1,81 @@
+{
+  "Id": 13618,
+  "CatId": 1041,
+  "Title": "بخش ۲۸۱ - خطاب به انگلستان",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۸۱ - خطاب به انگلستان",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh281",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh281",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشرقی باده چشیده است ز مینای فرنگ\r\nعجبی نیست اگر توبهٔ دیرینه شکست\r\nفکر نوزادهٔ او شیوهٔ تدبیر آموخت\r\nجوش زد خون به رگ بندهٔ تقدیر پرست\r\nساقیا تنگ دل از شورش مستان نشوی\r\nخود تو انصاف بده اینهمه هنگامه که بست؟\r\n«بوی گل خود به چمن راه نما شد ز نخست\r\nورنه بلبل چه خبر داشت که گلزاری هست»",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشرقی باده چشیده است ز مینای فرنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عجبی نیست اگر توبهٔ دیرینه شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فکر نوزادهٔ او شیوهٔ تدبیر آموخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جوش زد خون به رگ بندهٔ تقدیر پرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساقیا تنگ دل از شورش مستان نشوی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خود تو انصاف بده اینهمه هنگامه که بست؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "«بوی گل خود به چمن راه نما شد ز نخست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ورنه بلبل چه خبر داشت که گلزاری هست»",
+      "CoupletIndex": 3
+    }
+  ]
+}

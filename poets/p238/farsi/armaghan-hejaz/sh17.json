@@ -1,0 +1,57 @@
+{
+  "Id": 13882,
+  "CatId": 1045,
+  "Title": "بخش ۱۷ - مسلمانی که در بند فرنگ است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷ - مسلمانی که در بند فرنگ است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمانی که در بندِ فرنگ است\r\nدلش در دستِ او آسان نیاید\r\nز سیمایی که سودم بر درِ غیر\r\nسجودِ بوذر و سلمان نیاید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمانی که در بندِ فرنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلش در دستِ او آسان نیاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز سیمایی که سودم بر درِ غیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سجودِ بوذر و سلمان نیاید",
+      "CoupletIndex": 1
+    }
+  ]
+}

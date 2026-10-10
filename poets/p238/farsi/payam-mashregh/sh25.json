@@ -1,0 +1,57 @@
+{
+  "Id": 13362,
+  "CatId": 1041,
+  "Title": "بخش ۲۵ - رهی در سینهٔ انجم گشائی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۵ - رهی در سینهٔ انجم گشائی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رهی در سینهٔ انجم گشائی\r\nولی از خویشتن ناآشنائی\r\nیکی بر خود گشا چون دانه چشمی\r\nکه از زیر زمین نخلی بر آئی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رهی در سینهٔ انجم گشائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولی از خویشتن ناآشنائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکی بر خود گشا چون دانه چشمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از زیر زمین نخلی بر آئی",
+      "CoupletIndex": 1
+    }
+  ]
+}

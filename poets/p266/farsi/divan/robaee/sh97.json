@@ -1,0 +1,57 @@
+{
+  "Id": 14688,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/p266/farsi/divan/robaee/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که گرفته ام به کوی تو پناه\r\nرانی چو به عنف از در خویشم ناگاه\r\nتا کعبه روم ز درگهت رو به قفا\r\nچون بگذرم از کعبه نهم روی به راه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که گرفته ام به کوی تو پناه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رانی چو به عنف از در خویشم ناگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کعبه روم ز درگهت رو به قفا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بگذرم از کعبه نهم روی به راه",
+      "CoupletIndex": 1
+    }
+  ]
+}

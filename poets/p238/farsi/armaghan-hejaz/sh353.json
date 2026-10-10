@@ -1,0 +1,57 @@
+{
+  "Id": 14217,
+  "CatId": 1045,
+  "Title": "بخش ۳۵۲ - بگو از من به پرویزان این عصر",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۵۲ - بگو از من به پرویزان این عصر",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh353",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh353",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بگو از من به پرویزان این عصر\r\nنه فرهادم که گیرم تیشه در دست\r\nز خاری کو خلد در سینهٔ من\r\nدل صد بیستون را میتوان خست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگو از من به پرویزان این عصر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه فرهادم که گیرم تیشه در دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خاری کو خلد در سینهٔ من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل صد بیستون را میتوان خست",
+      "CoupletIndex": 1
+    }
+  ]
+}

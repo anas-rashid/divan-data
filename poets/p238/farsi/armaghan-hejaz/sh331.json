@@ -1,0 +1,57 @@
+{
+  "Id": 14195,
+  "CatId": 1045,
+  "Title": "بخش ۳۳۰ - ثباتش ده که میر شش جهات است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۳۰ - ثباتش ده که میر شش جهات است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh331",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh331",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ثباتش ده که میر شش جهات است\r\nبدست او زمام کائنات است\r\nنگردد شرمسار از خواری مرگ\r\nکه نامحرم ز ناموس حیات است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ثباتش ده که میر شش جهات است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدست او زمام کائنات است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگردد شرمسار از خواری مرگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نامحرم ز ناموس حیات است",
+      "CoupletIndex": 1
+    }
+  ]
+}

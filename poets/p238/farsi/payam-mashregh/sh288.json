@@ -1,0 +1,57 @@
+{
+  "Id": 13625,
+  "CatId": 1041,
+  "Title": "بخش ۲۸۸ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۸۸ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh288",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh288",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل گفت که عیش نو بهاری خوشتر\r\nیک صبح چمن ز روزگاری خوشتر\r\nزان پیش که کس ترا بدستار زند\r\nمردن بکنار شاخساری خوشتر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل گفت که عیش نو بهاری خوشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک صبح چمن ز روزگاری خوشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان پیش که کس ترا بدستار زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مردن بکنار شاخساری خوشتر",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14012,
+  "CatId": 1045,
+  "Title": "بخش ۱۴۷ - بهرحالی که بودم خوش سرودم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۴۷ - بهرحالی که بودم خوش سرودم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh147",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh147",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهرحالی که بودم خوش سرودم\r\nنقاب از روی هر معنی گشودم\r\nمپرس از اضطراب من که با دوست\r\nدمی بودم دمی دیگر نبودم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهرحالی که بودم خوش سرودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقاب از روی هر معنی گشودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مپرس از اضطراب من که با دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دمی بودم دمی دیگر نبودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

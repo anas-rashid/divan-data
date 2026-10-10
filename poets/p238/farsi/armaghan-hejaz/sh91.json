@@ -1,0 +1,57 @@
+{
+  "Id": 13956,
+  "CatId": 1045,
+  "Title": "بخش ۹۱ - بدست می کشان خالی ایاغ است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۹۱ - بدست می کشان خالی ایاغ است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بدست می کشان خالی ایاغ است\r\nکه ساقی را به بزم من فراغ است\r\nنگه دارم درون سینه آهی \r\nکه اصل او ز دود آن چراغ است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدست می کشان خالی ایاغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ساقی را به بزم من فراغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگه دارم درون سینه آهی ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که اصل او ز دود آن چراغ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

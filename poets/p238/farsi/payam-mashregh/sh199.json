@@ -1,0 +1,57 @@
+{
+  "Id": 13536,
+  "CatId": 1041,
+  "Title": "بخش ۱۹۹ - زندگی و عمل در جواب هاینه موسوم به «سؤالات»",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۹۹ - زندگی و عمل در جواب هاینه موسوم به «سؤالات»",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh199",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh199",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساحلِ افتاده گفت گرچه بسی زیستم\r\nهیچ نه معلوم شد آه که من چیستم\r\nموجِ ز خود رفته‌ای تیز خرامید و گفت\r\nهستم اگر می‌روم گر نروم نیستم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساحلِ افتاده گفت گرچه بسی زیستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هیچ نه معلوم شد آه که من چیستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موجِ ز خود رفته‌ای تیز خرامید و گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هستم اگر می‌روم گر نروم نیستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

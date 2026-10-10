@@ -1,0 +1,105 @@
+{
+  "Id": 12284,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰۰۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۰۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1000",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1000",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر دلبری چون تو جایی برآید\r\nبه هر جا که شنید بلایی برآید\r\nقد تست چون در گلستان در آیی\r\nاگر سروی اندر قبایی برآید\r\nبرآید به هر جا گل، اما چو رویت\r\nبه نزدیک ما دور جایی برآید\r\nبه کوی تو هر سال از خون خلقی\r\nزهر سبزه مردم گیایی بر آید\r\nرسد ناله من ز پیشت به جایی\r\nکه از هفت گنبد صدایی برآید\r\nعنایت کن اندر حق بنده خسرو\r\nمگر از تو کار گدایی برآید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر دلبری چون تو جایی برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر جا که شنید بلایی برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قد تست چون در گلستان در آیی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر سروی اندر قبایی برآید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برآید به هر جا گل، اما چو رویت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به نزدیک ما دور جایی برآید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به کوی تو هر سال از خون خلقی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زهر سبزه مردم گیایی بر آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رسد ناله من ز پیشت به جایی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که از هفت گنبد صدایی برآید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عنایت کن اندر حق بنده خسرو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "مگر از تو کار گدایی برآید",
+      "CoupletIndex": 5
+    }
+  ]
+}

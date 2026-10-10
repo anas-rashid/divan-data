@@ -1,0 +1,105 @@
+{
+  "Id": 13130,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۸۴۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۴۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1846",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1846",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نفسی که با نگاری گذرد به شادمانی\r\nمفروش لذتش را به حیات جاودانی\r\nز طرب مباش خالی می و رود خواه وساقی\r\nکه غنیمت است و دولت دو سه روز زندگانی\r\nغم نیستی و هستی نخورد کسی که داند\r\nکه گذشت عمر و باقی نبود جهان فانی\r\nمکن، ای امام مسجد، من رند را ملامت\r\nچو به شهر می پرستان نرسیده ای، چه دانی؟\r\nچه شوی به زهد غره که ز دیر می پرستان\r\nبه خدا رسید بتوان به تضرع نهانی\r\nتو و زهد خرقه پوشان، من و دیر دردنوشان\r\nبه تو حال ما نماند، تو به حال ما نمانی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفسی که با نگاری گذرد به شادمانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مفروش لذتش را به حیات جاودانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز طرب مباش خالی می و رود خواه وساقی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که غنیمت است و دولت دو سه روز زندگانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غم نیستی و هستی نخورد کسی که داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که گذشت عمر و باقی نبود جهان فانی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مکن، ای امام مسجد، من رند را ملامت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو به شهر می پرستان نرسیده ای، چه دانی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه شوی به زهد غره که ز دیر می پرستان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به خدا رسید بتوان به تضرع نهانی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تو و زهد خرقه پوشان، من و دیر دردنوشان",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به تو حال ما نماند، تو به حال ما نمانی",
+      "CoupletIndex": 5
+    }
+  ]
+}

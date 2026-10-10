@@ -1,0 +1,105 @@
+{
+  "Id": 12160,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۷۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۷۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh876",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh876",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حال مات هیچ حکایت نمی‌رسد\r\nدر کار مات بیش عنایت نمی‌رسد\r\nگویند بگسلد چو به غایت رسید عشق\r\nجانم گسست و عشق به غایت نمی‌رسد\r\nگمره چنان شده‌ست دلم با دهان تو\r\nکش از کتاب صبر هدایت نمی‌رسد\r\nبگذشت دوش زلف و رخت پیش چشم من\r\nماهی گذشت و شب به نهایت نمی‌رسد\r\nاز خون نوشته قصهٔ دردت رسولِ اشک\r\nهر روز در کدام ولایت نمی‌رسد\r\nای عقل، بگذر از سرِ خسرو که مر تو را\r\nدر کار اهل عشق، کفایت نمی‌رسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حال مات هیچ حکایت نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کار مات بیش عنایت نمی‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند بگسلد چو به غایت رسید عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانم گسست و عشق به غایت نمی‌رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گمره چنان شده‌ست دلم با دهان تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کش از کتاب صبر هدایت نمی‌رسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بگذشت دوش زلف و رخت پیش چشم من",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ماهی گذشت و شب به نهایت نمی‌رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از خون نوشته قصهٔ دردت رسولِ اشک",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر روز در کدام ولایت نمی‌رسد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای عقل، بگذر از سرِ خسرو که مر تو را",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در کار اهل عشق، کفایت نمی‌رسد",
+      "CoupletIndex": 5
+    }
+  ]
+}

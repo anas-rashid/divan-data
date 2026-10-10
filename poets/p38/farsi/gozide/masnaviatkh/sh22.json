@@ -1,0 +1,105 @@
+{
+  "Id": 11115,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۲۲ - پیام پدر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۲۲ - پیام پدر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سر از آئین وفا تافته !\r\nوز تو دلم تافتگی یافته !\r\nگر چه به غیبت شدئی کینه توز\r\nرنجه چه‌داری به حضورم هنوز\r\nبا چو منی ، دور کن از سر منی\r\nچون به صفت من توام و تو منی\r\nگر کمر کینه کنی استوار\r\nپیش تو بیش از تو درایم به کار\r\nور به مدارا کشد این گفت و گوی\r\nنیز نتابم ز وفای تو روی\r\nلیک بشرطی که درین رای من\r\nجای پدر گیرم و تو جای من",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سر از آئین وفا تافته !",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز تو دلم تافتگی یافته !",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر چه به غیبت شدئی کینه توز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رنجه چه‌داری به حضورم هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با چو منی ، دور کن از سر منی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون به صفت من توام و تو منی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر کمر کینه کنی استوار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پیش تو بیش از تو درایم به کار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ور به مدارا کشد این گفت و گوی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نیز نتابم ز وفای تو روی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "لیک بشرطی که درین رای من",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جای پدر گیرم و تو جای من",
+      "CoupletIndex": 5
+    }
+  ]
+}

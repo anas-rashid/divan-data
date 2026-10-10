@@ -1,0 +1,69 @@
+{
+  "Id": 13766,
+  "CatId": 1042,
+  "Title": "بخش ۱۲۹ - صورت گری که پیکر روز و شب آفرید",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۱۲۹ - صورت گری که پیکر روز و شب آفرید",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صورت گری که پیکر روز و شب آفرید\r\nاز نقش این و آن بتماشای خود رسید\r\nصوفی! برون ز بنگه تاریک پا بنه\r\nفطرت متاع خویش به سوداگری کشید\r\nصبح و ستاره و شفق و ماه و آفتاب\r\nبی پرده جلوه ها به نگاهی توان خرید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صورت گری که پیکر روز و شب آفرید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نقش این و آن بتماشای خود رسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صوفی! برون ز بنگه تاریک پا بنه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فطرت متاع خویش به سوداگری کشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صبح و ستاره و شفق و ماه و آفتاب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بی پرده جلوه ها به نگاهی توان خرید",
+      "CoupletIndex": 2
+    }
+  ]
+}

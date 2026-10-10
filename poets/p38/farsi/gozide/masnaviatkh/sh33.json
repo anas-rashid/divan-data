@@ -1,0 +1,81 @@
+{
+  "Id": 11126,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۳۳ - صفت دهلی",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۳۳ - صفت دهلی",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حضرت دهلی کنف دین و داد\r\nجنت عدن ست که آباد باد\r\nهست چو ذات ارم اندر صفات\r\nحرسها الله عن الحادثات\r\nاز سه حصارش دو جهان یک مقام\r\nو از دو جهان یک نفسش ده سلام\r\nقبه اسلام شده در جهان\r\nبسته او قبه هفت آسمان",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حضرت دهلی کنف دین و داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جنت عدن ست که آباد باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هست چو ذات ارم اندر صفات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حرسها الله عن الحادثات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از سه حصارش دو جهان یک مقام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "و از دو جهان یک نفسش ده سلام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "قبه اسلام شده در جهان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بسته او قبه هفت آسمان",
+      "CoupletIndex": 3
+    }
+  ]
+}

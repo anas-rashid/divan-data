@@ -1,0 +1,105 @@
+{
+  "Id": 11346,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۶۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز خدنگ شوق زد عشق در آب و خاک ما\r\nنطع حریف پاک شد دامن چشم پاک ما\r\nهر طرفی و قصه‌ای، ورچه که پوشم آستین\r\nپردهٔ رازکی شود دامن چاک‌چاک ما\r\nشاهد مست بی‌خبر خفته، چه دارد آگهی\r\nتا همه شب چه می‌رود بر دل دردناک ما\r\nگر کُشیم به تیغ کُش، نه به نمودن رخت\r\nزانکه نباشد این قدر مرتبهٔ هلاک ما\r\nجان و دلی‌ست در تنم، بذل سگان خویش کن\r\nتا نبود به ملک تو زحمت اشتراک ما\r\nای که بکشتی از جفا خسرو مستمند را\r\nپای وفا چه، ار گهی رنجه کنی به خاک ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز خدنگ شوق زد عشق در آب و خاک ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نطع حریف پاک شد دامن چشم پاک ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر طرفی و قصه‌ای، ورچه که پوشم آستین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پردهٔ رازکی شود دامن چاک‌چاک ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شاهد مست بی‌خبر خفته، چه دارد آگهی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا همه شب چه می‌رود بر دل دردناک ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر کُشیم به تیغ کُش، نه به نمودن رخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زانکه نباشد این قدر مرتبهٔ هلاک ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جان و دلی‌ست در تنم، بذل سگان خویش کن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا نبود به ملک تو زحمت اشتراک ما",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای که بکشتی از جفا خسرو مستمند را",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پای وفا چه، ار گهی رنجه کنی به خاک ما",
+      "CoupletIndex": 5
+    }
+  ]
+}

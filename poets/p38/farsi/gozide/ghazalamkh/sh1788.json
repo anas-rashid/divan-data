@@ -1,0 +1,93 @@
+{
+  "Id": 13072,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۸۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۸۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1788",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1788",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشک بر اطراف مه آورده ای\r\nتوبه به زیر گنه آورده ای\r\nبر رخ تو کآفت جان من است\r\nاز شب یلدا سپه آورده ای\r\nشانه کو گم کرده بر فرق تو ره\r\nمو کشانش رو به ره آورده ای\r\nداده ام از دیده خون، دل خسته ای\r\nخواستم یک بوسه، نه آورده ای\r\nرسم تو آزردن خسرو شده\r\nباز چه رسم تبه آورده ای؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشک بر اطراف مه آورده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توبه به زیر گنه آورده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر رخ تو کآفت جان من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شب یلدا سپه آورده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شانه کو گم کرده بر فرق تو ره",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مو کشانش رو به ره آورده ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "داده ام از دیده خون، دل خسته ای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خواستم یک بوسه، نه آورده ای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رسم تو آزردن خسرو شده",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "باز چه رسم تبه آورده ای؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

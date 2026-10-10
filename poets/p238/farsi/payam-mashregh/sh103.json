@@ -1,0 +1,57 @@
+{
+  "Id": 13440,
+  "CatId": 1041,
+  "Title": "بخش ۱۰۳ - چسان ای آفتاب آسمان گرد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۰۳ - چسان ای آفتاب آسمان گرد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چسان ای آفتاب آسمان گرد\r\nباین دوری به چشم من در آئی؟\r\nبخاکی واصل و از خاکدان دور\r\nتو ای مژگان گسل آخر کجائی؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چسان ای آفتاب آسمان گرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باین دوری به چشم من در آئی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بخاکی واصل و از خاکدان دور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ای مژگان گسل آخر کجائی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 11410,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh126",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh126",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تقدیر که یک چند مرا از تو جدا داشت\r\nاز جان گله دارم که مرا زنده چرا داشت\r\nاندوه جدایی ز کسی پرس که یک چند\r\nدور فلک از صبحت یارانش جدا داشت\r\nدیوار ترا من حله خار نخواهم\r\nهجرت به دلم گر چه که صد رخنه روا داشت\r\nداغی دگر اینست که از گریه بشستم\r\nآن داغ که دامانت ز خون دل ما داشت\r\nصوفی که خرامیدن تو دیده به صد صدق\r\nبدرید مصلا و کله در ته پا داشت\r\nخسرو به وفای تو دهد جان که در آفاق\r\nگویند همه کان سگ دیوانه وفا داشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تقدیر که یک چند مرا از تو جدا داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از جان گله دارم که مرا زنده چرا داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندوه جدایی ز کسی پرس که یک چند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور فلک از صبحت یارانش جدا داشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دیوار ترا من حله خار نخواهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هجرت به دلم گر چه که صد رخنه روا داشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "داغی دگر اینست که از گریه بشستم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن داغ که دامانت ز خون دل ما داشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صوفی که خرامیدن تو دیده به صد صدق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بدرید مصلا و کله در ته پا داشت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خسرو به وفای تو دهد جان که در آفاق",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گویند همه کان سگ دیوانه وفا داشت",
+      "CoupletIndex": 5
+    }
+  ]
+}

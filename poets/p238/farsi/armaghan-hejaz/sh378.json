@@ -1,0 +1,57 @@
+{
+  "Id": 14242,
+  "CatId": 1045,
+  "Title": "بخش ۳۷۷ - اگر اینب و جاهی از فرنگ است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۷۷ - اگر اینب و جاهی از فرنگ است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh378",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh378",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر اینب و جاهی از فرنگ است\r\nجبین خود منه جز بر در او\r\nسرین را هم بچوبش ده کهخر\r\nحقی دارد به خر پالان گر او",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر اینب و جاهی از فرنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جبین خود منه جز بر در او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرین را هم بچوبش ده کهخر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حقی دارد به خر پالان گر او",
+      "CoupletIndex": 1
+    }
+  ]
+}

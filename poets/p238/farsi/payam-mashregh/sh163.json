@@ -1,0 +1,57 @@
+{
+  "Id": 13500,
+  "CatId": 1041,
+  "Title": "بخش ۱۶۳ - مرا ذوق سخن خون در جگر کرد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶۳ - مرا ذوق سخن خون در جگر کرد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا ذوق سخن خون در جگر کرد\r\nغبار راه را مشت شرر کرد\r\nبه گفتار محبت لب گشودم\r\nبیان این راز را پوشیده تر کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا ذوق سخن خون در جگر کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار راه را مشت شرر کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به گفتار محبت لب گشودم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیان این راز را پوشیده تر کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

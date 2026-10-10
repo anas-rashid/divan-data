@@ -1,0 +1,57 @@
+{
+  "Id": 13283,
+  "CatId": 1037,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » چند رباعی » شمارهٔ ۳",
+  "FullUrl": "/p38/farsi/gozide/rogozide/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/rogozide/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خشخاش که آرایش حلواش کنند\r\nگه در کف و گاه در دهن جاش کنند\r\nبرند برای ریزهٔ چند سرش\r\nوانگه سر زیر و پای بالاش کنند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خشخاش که آرایش حلواش کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه در کف و گاه در دهن جاش کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برند برای ریزهٔ چند سرش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگه سر زیر و پای بالاش کنند",
+      "CoupletIndex": 1
+    }
+  ]
+}

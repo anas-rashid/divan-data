@@ -1,0 +1,57 @@
+{
+  "Id": 14003,
+  "CatId": 1045,
+  "Title": "بخش ۱۳۸ - حضور ملت بیضا تپیدم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۳۸ - حضور ملت بیضا تپیدم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حضور ملت بیضا تپیدم\r\nنوای دل گدازی آفریدم\r\nادب گوید سخن را مختصر گوی\r\nتپیدم ، آفریدم ، آرمیدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حضور ملت بیضا تپیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوای دل گدازی آفریدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ادب گوید سخن را مختصر گوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تپیدم ، آفریدم ، آرمیدم",
+      "CoupletIndex": 1
+    }
+  ]
+}

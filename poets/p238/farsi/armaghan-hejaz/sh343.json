@@ -1,0 +1,57 @@
+{
+  "Id": 14207,
+  "CatId": 1045,
+  "Title": "بخش ۳۴۲ - مشو نخچیر ابلیسان این عصر",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۴۲ - مشو نخچیر ابلیسان این عصر",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh343",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh343",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشو نخچیر ابلیسان این عصر \r\nخسان را غمزهٔ شان سازگار است\r\nاصیلان را همان ابلیس خوشتر\r\nکه یزدان دیده و کامل عیار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشو نخچیر ابلیسان این عصر ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خسان را غمزهٔ شان سازگار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اصیلان را همان ابلیس خوشتر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که یزدان دیده و کامل عیار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

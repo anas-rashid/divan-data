@@ -1,0 +1,93 @@
+{
+  "Id": 12477,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۱۹۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۹۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سوار من از من عنان در مکش\r\nیک امروز از گفت من سر مکش\r\nز دل نقش ابروی خود برمگیر\r\nبه کشتن ز قربان کمان برمکش\r\nاگر خنجر غمزه بهر سزاست\r\nسر اینک فدای تو، خنجر مکش\r\nچو سلطان شدی بر دلم خط میار\r\nولایت به فرمانست، لشکر مکش\r\nمژه تیز بر جان خسرو مزن\r\nچنان تیر بر صید لاغر مکش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوار من از من عنان در مکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک امروز از گفت من سر مکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز دل نقش ابروی خود برمگیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به کشتن ز قربان کمان برمکش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر خنجر غمزه بهر سزاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سر اینک فدای تو، خنجر مکش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو سلطان شدی بر دلم خط میار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ولایت به فرمانست، لشکر مکش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مژه تیز بر جان خسرو مزن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چنان تیر بر صید لاغر مکش",
+      "CoupletIndex": 4
+    }
+  ]
+}

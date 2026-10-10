@@ -1,0 +1,81 @@
+{
+  "Id": 13050,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۶۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۶۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1766",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1766",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای گل که چنین در بغلت تنگ گرفته\r\nکز خون دلت پیرهنت رنگ گرفته\r\nآن سوختگی جگر لاله ازان است\r\nکز آه من آتش به دل سنگ گرفته\r\nتا دست تظلم نزند کس به عنانش\r\nتن داده به مستی و عنان تنگ گرفته\r\nاز سوزن زنگار گرفته بشناسد\r\nبس کز نم گریه مژه ام زنگ گرفته",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای گل که چنین در بغلت تنگ گرفته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز خون دلت پیرهنت رنگ گرفته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن سوختگی جگر لاله ازان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز آه من آتش به دل سنگ گرفته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا دست تظلم نزند کس به عنانش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تن داده به مستی و عنان تنگ گرفته",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از سوزن زنگار گرفته بشناسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بس کز نم گریه مژه ام زنگ گرفته",
+      "CoupletIndex": 3
+    }
+  ]
+}

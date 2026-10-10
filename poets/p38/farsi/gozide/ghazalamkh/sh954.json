@@ -1,0 +1,105 @@
+{
+  "Id": 12238,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۹۵۴",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۹۵۴",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh954",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh954",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا رخ تو زلف ترا پیش کرد\r\nزلف تو مه را به پس خویش کرد\r\nچشم تو دی ملک جهان می گرفت\r\nمست شد آن غمزه و فرویش کرد\r\nدوش دهانت نمکی می فشاند\r\nقطره چکید و جگرم ریش کرد\r\nکرد دلم پاره و دانی که کرد\r\nتیر تو، ای کافر بدکیش، کرد\r\nچشم تو در خواب شد او را بگوی\r\nدر نتوان بر سگ خود پیش کرد\r\nخامه خسرو نتواند نوشت\r\nآنچه غمت بر من درویش کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا رخ تو زلف ترا پیش کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلف تو مه را به پس خویش کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم تو دی ملک جهان می گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مست شد آن غمزه و فرویش کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دوش دهانت نمکی می فشاند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "قطره چکید و جگرم ریش کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کرد دلم پاره و دانی که کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تیر تو، ای کافر بدکیش، کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چشم تو در خواب شد او را بگوی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در نتوان بر سگ خود پیش کرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خامه خسرو نتواند نوشت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آنچه غمت بر من درویش کرد",
+      "CoupletIndex": 5
+    }
+  ]
+}

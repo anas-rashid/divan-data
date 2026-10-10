@@ -1,0 +1,57 @@
+{
+  "Id": 13282,
+  "CatId": 1037,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » چند رباعی » شمارهٔ ۲",
+  "FullUrl": "/p38/farsi/gozide/rogozide/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/rogozide/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایزد که به زلفت شکن و تاب نهاد\r\nدر لعل لبت لولوی خوشاب نهاد\r\nوان خال سیاه برسر ابرویت\r\nهندوست که پا بر سر محراب نهاد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایزد که به زلفت شکن و تاب نهاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در لعل لبت لولوی خوشاب نهاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وان خال سیاه برسر ابرویت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هندوست که پا بر سر محراب نهاد",
+      "CoupletIndex": 1
+    }
+  ]
+}

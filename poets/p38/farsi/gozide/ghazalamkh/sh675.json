@@ -1,0 +1,81 @@
+{
+  "Id": 11959,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۶۷۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۶۷۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh675",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh675",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر به کوی عاشقان آن ماه گاهی بگذرد\r\nبر گدایان همچنان باشد که شاهی بگذرد\r\nسالها شد تا به کویش اوفتادم روز و شب\r\nبر امید آنکه ماهم به ماهی بگذرد\r\nسیل اشکم چون خیالش دید در دل جا گرفت\r\nروز باران کس نخواهد کز پناهی بگذرد\r\nآب دیده می زنم هر دم بران خاک رهش\r\nتا غباری بر نیاید، گر به راهی بگذرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر به کوی عاشقان آن ماه گاهی بگذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر گدایان همچنان باشد که شاهی بگذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سالها شد تا به کویش اوفتادم روز و شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر امید آنکه ماهم به ماهی بگذرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سیل اشکم چون خیالش دید در دل جا گرفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روز باران کس نخواهد کز پناهی بگذرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آب دیده می زنم هر دم بران خاک رهش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا غباری بر نیاید، گر به راهی بگذرد",
+      "CoupletIndex": 3
+    }
+  ]
+}

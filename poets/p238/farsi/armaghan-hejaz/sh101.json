@@ -1,0 +1,57 @@
+{
+  "Id": 13966,
+  "CatId": 1045,
+  "Title": "بخش ۱۰۱ - پریدم در فضای دلپذیرش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰۱ - پریدم در فضای دلپذیرش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پریدم در فضای دلپذیرش\r\nپرم تر گشت از ابر مطیرش\r\nحرم تا در ضمیر من فرو رفت\r\nسرودم آنچه بود اندر ضمیرش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریدم در فضای دلپذیرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرم تر گشت از ابر مطیرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حرم تا در ضمیر من فرو رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرودم آنچه بود اندر ضمیرش",
+      "CoupletIndex": 1
+    }
+  ]
+}

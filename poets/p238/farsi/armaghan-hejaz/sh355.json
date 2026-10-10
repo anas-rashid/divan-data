@@ -1,0 +1,57 @@
+{
+  "Id": 14219,
+  "CatId": 1045,
+  "Title": "بخش ۳۵۴ - در دل را بروی کس نبستم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۵۴ - در دل را بروی کس نبستم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh355",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh355",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دل را بروی کس نبستم \r\nنه از خویشان نه از یاران گسستم\r\nنشیمن ساختم در سینهٔ خویش\r\nته این چرخ گردان خوش نشستم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دل را بروی کس نبستم ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه از خویشان نه از یاران گسستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشیمن ساختم در سینهٔ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ته این چرخ گردان خوش نشستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

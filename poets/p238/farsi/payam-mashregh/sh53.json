@@ -1,0 +1,57 @@
+{
+  "Id": 13390,
+  "CatId": 1041,
+  "Title": "بخش ۵۳ - مرا فرمود پیر نکته دانی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵۳ - مرا فرمود پیر نکته دانی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا فرمود پیر نکته دانی\r\nهر امروز تو از فردا پیام است\r\nدل از خوبان بی پروا نگهدار\r\nحریمش جز به او دادن حرام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا فرمود پیر نکته دانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر امروز تو از فردا پیام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل از خوبان بی پروا نگهدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حریمش جز به او دادن حرام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

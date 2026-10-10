@@ -1,0 +1,57 @@
+{
+  "Id": 13961,
+  "CatId": 1045,
+  "Title": "بخش ۹۶ - نگویم از فرو فالی که بگذشت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۹۶ - نگویم از فرو فالی که بگذشت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگویم از فرو فالی که بگذشت\r\nچه سود از شرح احوالی که بگذشت\r\nچراغی داشتم در سینهٔ خویش\r\nفسرد اندر دو صد سالی که بگذشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگویم از فرو فالی که بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه سود از شرح احوالی که بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چراغی داشتم در سینهٔ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فسرد اندر دو صد سالی که بگذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 13642,
+  "CatId": 1042,
+  "Title": "بخش ۵ - درون سینهٔ ما سوز آرزو ز کجاست؟",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۵ - درون سینهٔ ما سوز آرزو ز کجاست؟",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درونِ سینهٔ ما سوزِ آرزو ز کجاست؟\r\nسبو ز ماست ولی باده در سبو ز کجاست؟\r\nگرفتم اینکه جهان خاک و ما کفِ خاکیم\r\nبه ذره ذرهٔ ما دردِ جستجو ز کجاست؟\r\nنگاهِ ما به گریبانِ کهکشان اُفتد\r\nجنونِ ما ز کجا، شورِ های و هو ز کجاست؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درونِ سینهٔ ما سوزِ آرزو ز کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سبو ز ماست ولی باده در سبو ز کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفتم اینکه جهان خاک و ما کفِ خاکیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به ذره ذرهٔ ما دردِ جستجو ز کجاست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نگاهِ ما به گریبانِ کهکشان اُفتد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جنونِ ما ز کجا، شورِ های و هو ز کجاست؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13899,
+  "CatId": 1045,
+  "Title": "بخش ۳۴ - جهان تست در دست خسی چند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۴ - جهان تست در دست خسی چند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان تست در دست خسی چند\r\nکسان او به بند ناکسی چند\r\nهنرور میان کارگاهان\r\nکشد خود را به عیش کرکسی چند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان تست در دست خسی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کسان او به بند ناکسی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنرور میان کارگاهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کشد خود را به عیش کرکسی چند",
+      "CoupletIndex": 1
+    }
+  ]
+}

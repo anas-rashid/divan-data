@@ -1,0 +1,57 @@
+{
+  "Id": 14685,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/p266/farsi/divan/robaee/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چند توان بی سر و سامان بودن\r\nبازیچه خوی زشت نتوان بودن\r\nبالله که ز دشنه بر جگر سخت ترست\r\nاز کرده خویشتن پشیمان بودن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند توان بی سر و سامان بودن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازیچه خوی زشت نتوان بودن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالله که ز دشنه بر جگر سخت ترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از کرده خویشتن پشیمان بودن",
+      "CoupletIndex": 1
+    }
+  ]
+}

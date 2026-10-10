@@ -1,0 +1,57 @@
+{
+  "Id": 14017,
+  "CatId": 1045,
+  "Title": "بخش ۱۵۲ - یکی بنگرد فرنگی کج کلاهان",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۵۲ - یکی بنگرد فرنگی کج کلاهان",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکی بنگرد فرنگی کج کلاهان\r\nتو گوئی آفتابانند و ماهان\r\nجوان ساده من گرم خون است\r\nنگه دارش ازین کافر نگاهان",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکی بنگرد فرنگی کج کلاهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو گوئی آفتابانند و ماهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جوان ساده من گرم خون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگه دارش ازین کافر نگاهان",
+      "CoupletIndex": 1
+    }
+  ]
+}

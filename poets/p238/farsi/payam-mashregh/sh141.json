@@ -1,0 +1,57 @@
+{
+  "Id": 13478,
+  "CatId": 1041,
+  "Title": "بخش ۱۴۱ - عجم از نغمه های من جوان شد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۴۱ - عجم از نغمه های من جوان شد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عجم از نغمه های من جوان شد\r\nز سودایم متاع او گران شد\r\nهجومی بود ره گم کرده در دشت\r\nز آواز درایم کاروان شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عجم از نغمه های من جوان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز سودایم متاع او گران شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هجومی بود ره گم کرده در دشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز آواز درایم کاروان شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13989,
+  "CatId": 1045,
+  "Title": "بخش ۱۲۴ - نگاهم زآنچه بینم بی نیاز است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲۴ - نگاهم زآنچه بینم بی نیاز است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگاهم زآنچه بینم بی نیاز است\r\nدل از سوز درونم در گداز است\r\nمن و این عصر بی اخلاص و بی سوز\r\nبگو با من که آخر این چه راز است؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگاهم زآنچه بینم بی نیاز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل از سوز درونم در گداز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من و این عصر بی اخلاص و بی سوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگو با من که آخر این چه راز است؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

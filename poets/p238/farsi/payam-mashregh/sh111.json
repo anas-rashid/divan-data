@@ -1,0 +1,57 @@
+{
+  "Id": 13448,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۱ - ز خاک نرگسستان غنچه ئی رست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۱ - ز خاک نرگسستان غنچه ئی رست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز خاک نرگسستان غنچه ئی رست\r\nکه خواب از چشم او شبنم فرو شست\r\nخودی از بیخودی آمد پدیدار\r\nجهان دریافت آخر آنچه می جست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز خاک نرگسستان غنچه ئی رست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خواب از چشم او شبنم فرو شست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خودی از بیخودی آمد پدیدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهان دریافت آخر آنچه می جست",
+      "CoupletIndex": 1
+    }
+  ]
+}

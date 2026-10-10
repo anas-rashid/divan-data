@@ -1,0 +1,57 @@
+{
+  "Id": 14037,
+  "CatId": 1045,
+  "Title": "بخش ۱۷۲ - خدا آن ملتی را سروری داد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷۲ - خدا آن ملتی را سروری داد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh173",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh173",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خدا آن ملتی را سروری داد\r\nکه تقدیرش به دست خویش بنوشت\r\nبه آن ملت سروکاری ندارد\r\nکه دهقانش برای دیگران کشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خدا آن ملتی را سروری داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که تقدیرش به دست خویش بنوشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به آن ملت سروکاری ندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دهقانش برای دیگران کشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

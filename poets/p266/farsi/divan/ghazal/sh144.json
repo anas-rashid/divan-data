@@ -1,0 +1,153 @@
+{
+  "Id": 14401,
+  "CatId": 1048,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/p266/farsi/divan/ghazal/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/ghazal/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویم سخنی گرچه شنیدن نشناسد\r\nصبحی ست شبم را که دمیدن نشناسد\r\nاز بند چه بگشاید و از دام چه خیزد؟\r\nماییم و غزالی که رمیدن نشناسد\r\nگوهر چه شکایت کند از بی سر و پایی\r\nماییم و سرشکی که چکیدن نشناسد\r\nساقی چه شگرفی کند و باده چه تندی\r\nخون باد دماغی که رسیدن نشناسد\r\nما لذت دیدار ز پیغام گرفتیم\r\nمشتاق تو دیدن ز شنیدن نشناسد\r\nبی پرده شو از ناز و میندیش که ما را\r\nچون آینه چشمی ست که دیدن نشناسد\r\nبینم چه بلا بر سر جیب و کفن آرد\r\nدستی که به جز خامه دریدن نشناسد\r\nپیوسته روان از مژه خون جگرستم\r\nرنگی ست رخم را که پریدن نشناسد\r\nشوقم می گلگون به سبو می زند امشب\r\nپیمانه ز ساقی طلبیدن نشناسد\r\nبا لذت اندوه تو در ساخته غالب\r\nگویی همه دل گشت و تپیدن نشناسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویم سخنی گرچه شنیدن نشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبحی ست شبم را که دمیدن نشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بند چه بگشاید و از دام چه خیزد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماییم و غزالی که رمیدن نشناسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گوهر چه شکایت کند از بی سر و پایی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ماییم و سرشکی که چکیدن نشناسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ساقی چه شگرفی کند و باده چه تندی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خون باد دماغی که رسیدن نشناسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ما لذت دیدار ز پیغام گرفتیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مشتاق تو دیدن ز شنیدن نشناسد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بی پرده شو از ناز و میندیش که ما را",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چون آینه چشمی ست که دیدن نشناسد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بینم چه بلا بر سر جیب و کفن آرد",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دستی که به جز خامه دریدن نشناسد",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "پیوسته روان از مژه خون جگرستم",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "رنگی ست رخم را که پریدن نشناسد",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "شوقم می گلگون به سبو می زند امشب",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "پیمانه ز ساقی طلبیدن نشناسد",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "با لذت اندوه تو در ساخته غالب",
+      "CoupletIndex": 9
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گویی همه دل گشت و تپیدن نشناسد",
+      "CoupletIndex": 9
+    }
+  ]
+}

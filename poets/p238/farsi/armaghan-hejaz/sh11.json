@@ -1,0 +1,57 @@
+{
+  "Id": 13876,
+  "CatId": 1045,
+  "Title": "بخش ۱۱ - تو را این کشمکش اندر طلب نیست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۱ - تو را این کشمکش اندر طلب نیست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو را این کشمکش اندر طلب نیست\r\nتو را این درد و داغ و تاب و تب نیست\r\nاز آن از لامکان بگریختم من\r\nکه آنجا ناله‌های نیم‌شب نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو را این کشمکش اندر طلب نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو را این درد و داغ و تاب و تب نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن از لامکان بگریختم من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که آنجا ناله‌های نیم‌شب نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

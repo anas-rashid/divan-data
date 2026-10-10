@@ -1,0 +1,93 @@
+{
+  "Id": 12529,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۴۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۴۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همیشه در فراقت با دل افگار می گریم\r\nغمت را اندکی می گویم و بسیار می گریم\r\nشبی کاندر حریمت ره نمی یابم به صد زاری\r\nبه حسرت می نشینم در پس دیوار می گریم\r\nاگر مردم به مستی، گاه گاهی گریه ای دارند\r\nچه حال است این که من هم مست و هم هشیار می گریم؟\r\nگهی در خلوت تاریک از هجر تو می نالم\r\nگهی در فرقتت در کوچه و بازار می گریم\r\nچه سوز است این نمی دانم به جان خسرو مسکین؟\r\nکه چون ابر بهار اندر سر کهسار می گریم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همیشه در فراقت با دل افگار می گریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غمت را اندکی می گویم و بسیار می گریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبی کاندر حریمت ره نمی یابم به صد زاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به حسرت می نشینم در پس دیوار می گریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر مردم به مستی، گاه گاهی گریه ای دارند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه حال است این که من هم مست و هم هشیار می گریم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گهی در خلوت تاریک از هجر تو می نالم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گهی در فرقتت در کوچه و بازار می گریم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه سوز است این نمی دانم به جان خسرو مسکین؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که چون ابر بهار اندر سر کهسار می گریم",
+      "CoupletIndex": 4
+    }
+  ]
+}

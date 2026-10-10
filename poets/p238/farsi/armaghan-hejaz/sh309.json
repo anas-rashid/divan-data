@@ -1,0 +1,57 @@
+{
+  "Id": 14173,
+  "CatId": 1045,
+  "Title": "بخش ۳۰۸ - سحرها در گریبان شب اوست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۰۸ - سحرها در گریبان شب اوست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سحرها در گریبان شب اوست\r\nدو گیتی را فروغ از کوکب اوست\r\nنشان مرد حق دیگر چه گویم\r\nچو مرگ آید تبسم بر لب اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سحرها در گریبان شب اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دو گیتی را فروغ از کوکب اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشان مرد حق دیگر چه گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو مرگ آید تبسم بر لب اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

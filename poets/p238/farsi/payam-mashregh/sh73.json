@@ -1,0 +1,57 @@
+{
+  "Id": 13410,
+  "CatId": 1041,
+  "Title": "بخش ۷۳ - خیال او درون دیده خوشتر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۳ - خیال او درون دیده خوشتر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خیال او درون دیده خوشتر\r\nغمش افزوده جان کاهیده خوشتر\r\nمرا صاحبدلی این نکته آموخت\r\nز منزل جادهٔ پیچیده خوشتر",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خیال او درون دیده خوشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غمش افزوده جان کاهیده خوشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا صاحبدلی این نکته آموخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز منزل جادهٔ پیچیده خوشتر",
+      "CoupletIndex": 1
+    }
+  ]
+}

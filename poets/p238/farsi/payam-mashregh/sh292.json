@@ -1,0 +1,57 @@
+{
+  "Id": 13629,
+  "CatId": 1041,
+  "Title": "بخش ۲۹۲ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹۲ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh292",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh292",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طاقت عفو در تو نیست اگر\r\nخیز و با دشمنان در آ به ستیز\r\nسینه را کارگاه کینه بساز\r\nسرکه در انگبین خویش مریز",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طاقت عفو در تو نیست اگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیز و با دشمنان در آ به ستیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سینه را کارگاه کینه بساز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرکه در انگبین خویش مریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

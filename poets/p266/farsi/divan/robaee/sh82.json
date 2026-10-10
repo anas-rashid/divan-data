@@ -1,0 +1,57 @@
+{
+  "Id": 14673,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p266/farsi/divan/robaee/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی رمدم شفق تراشد از چشم\r\nهر دم مژه خون به روی پاشد از چشم\r\nقطع نظر از چشم دلی نیزم هست\r\nبینید که خسته تر نباشد از چشم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی رمدم شفق تراشد از چشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دم مژه خون به روی پاشد از چشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قطع نظر از چشم دلی نیزم هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بینید که خسته تر نباشد از چشم",
+      "CoupletIndex": 1
+    }
+  ]
+}

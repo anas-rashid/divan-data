@@ -1,0 +1,93 @@
+{
+  "Id": 13029,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۴۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۴۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1745",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1745",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزی به لاغ گفتم کت نسبتی ست با مه\r\nمن بد لست حیا من شدة الندامه\r\nگاهی کشد به تیغم، گاهی زند به تیرم\r\nفی کل ما یعری حلافنا ادامه\r\nچون حال خویش گویم با ظالمی که پیشش\r\nلم تعتبر حدیثی والعجم فی التهامه\r\nماییم و کعبه جان مردن به وادی غم\r\nوالله فر منی یا طالب السلامه\r\nخسرو ز طعن ترسی، اینجاست بازی جان\r\nبالحیف لحقه من خافه ملامه",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی به لاغ گفتم کت نسبتی ست با مه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من بد لست حیا من شدة الندامه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گاهی کشد به تیغم، گاهی زند به تیرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فی کل ما یعری حلافنا ادامه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون حال خویش گویم با ظالمی که پیشش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لم تعتبر حدیثی والعجم فی التهامه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ماییم و کعبه جان مردن به وادی غم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "والله فر منی یا طالب السلامه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو ز طعن ترسی، اینجاست بازی جان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بالحیف لحقه من خافه ملامه",
+      "CoupletIndex": 4
+    }
+  ]
+}

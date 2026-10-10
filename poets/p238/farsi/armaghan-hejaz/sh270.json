@@ -1,0 +1,57 @@
+{
+  "Id": 14134,
+  "CatId": 1045,
+  "Title": "بخش ۲۶۹ - چو می بینی که رهزن کاروان کشت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۶۹ - چو می بینی که رهزن کاروان کشت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh270",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh270",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو می بینی که رهزن کاروان کشت\r\nچه پرسی کاروانی را چسان کشت\r\nمباش ایمن ازن علمی که خوانی\r\nکه از وی روح قومی میتوان کشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو می بینی که رهزن کاروان کشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه پرسی کاروانی را چسان کشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مباش ایمن ازن علمی که خوانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از وی روح قومی میتوان کشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

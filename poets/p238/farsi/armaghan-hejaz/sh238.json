@@ -1,0 +1,57 @@
+{
+  "Id": 14102,
+  "CatId": 1045,
+  "Title": "بخش ۲۳۷ - محبت از نگاهش پایدار است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۳۷ - محبت از نگاهش پایدار است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "محبت از نگاهش پایدار است\r\nسلوکش عشق و مستی را عیار است\r\nمقامش عبده‘مد ولیکن\r\nجهان شوق را پروردگار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "محبت از نگاهش پایدار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سلوکش عشق و مستی را عیار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مقامش عبده‘مد ولیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهان شوق را پروردگار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

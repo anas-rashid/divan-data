@@ -1,0 +1,57 @@
+{
+  "Id": 14237,
+  "CatId": 1045,
+  "Title": "بخش ۳۷۲ - شیندم بیتکی از مرد پیری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۷۲ - شیندم بیتکی از مرد پیری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh373",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh373",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیندم بیتکی از مرد پیری\r\nکهن فرزانهٔ روشن ضمیری\r\nاگر خود را بناداری نگه داشت\r\nدو گیتی را بگیردن فقیری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیندم بیتکی از مرد پیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کهن فرزانهٔ روشن ضمیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر خود را بناداری نگه داشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو گیتی را بگیردن فقیری",
+      "CoupletIndex": 1
+    }
+  ]
+}

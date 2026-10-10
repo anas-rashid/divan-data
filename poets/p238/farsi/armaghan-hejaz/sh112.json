@@ -1,0 +1,57 @@
+{
+  "Id": 13977,
+  "CatId": 1045,
+  "Title": "بخش ۱۱۲ - مران از در که مشتاق حضوریم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۱۲ - مران از در که مشتاق حضوریم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مران از در که مشتاق حضوریم\r\nاز آن دردی که دادی نا صبوریم\r\nبفرما هر چه میخواهی به جز صبر\r\nکه ما از وی دو صد فرسنگ دوریم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مران از در که مشتاق حضوریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از آن دردی که دادی نا صبوریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بفرما هر چه میخواهی به جز صبر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ما از وی دو صد فرسنگ دوریم",
+      "CoupletIndex": 1
+    }
+  ]
+}

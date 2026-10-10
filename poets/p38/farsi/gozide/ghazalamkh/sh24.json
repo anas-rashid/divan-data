@@ -1,0 +1,93 @@
+{
+  "Id": 11308,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۴",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گم شدم در سر آن کوی، مجویید مرا\r\nاو مرا کشت شدم زنده، ممویید مرا\r\nعمری از گم شدنم رفت و نمی آیم باز\r\nچون چنین است، شما نیز مجویید مرا\r\nبر درش مردم و آن خاک بر اعضای منست\r\nهم بدان خاک در آرید و مشویید مرا\r\nعاشق و مستم و رسوایی خویشم هوس است\r\nهر چه خواهم که کنم، هیچ مگویید مرا\r\nخسروم من گلی از خون دل خود رسته\r\nبوی من هست جگر سوز، مبویید مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گم شدم در سر آن کوی، مجویید مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او مرا کشت شدم زنده، ممویید مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمری از گم شدنم رفت و نمی آیم باز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون چنین است، شما نیز مجویید مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر درش مردم و آن خاک بر اعضای منست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هم بدان خاک در آرید و مشویید مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عاشق و مستم و رسوایی خویشم هوس است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر چه خواهم که کنم، هیچ مگویید مرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسروم من گلی از خون دل خود رسته",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بوی من هست جگر سوز، مبویید مرا",
+      "CoupletIndex": 4
+    }
+  ]
+}

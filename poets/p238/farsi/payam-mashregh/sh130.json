@@ -1,0 +1,57 @@
+{
+  "Id": 13467,
+  "CatId": 1041,
+  "Title": "بخش ۱۳۰ - چو نرگس این چمن نادیده مگذر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۳۰ - چو نرگس این چمن نادیده مگذر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh130",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh130",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو نرگس این چمن نادیده مگذر\r\nچو بو در غنچهٔ پیچیده مگذر\r\nترا حق دیدهٔ روشنتری داد\r\nخرد بیدار و دل خوابیده مگذر",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو نرگس این چمن نادیده مگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو بو در غنچهٔ پیچیده مگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترا حق دیدهٔ روشنتری داد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خرد بیدار و دل خوابیده مگذر",
+      "CoupletIndex": 1
+    }
+  ]
+}

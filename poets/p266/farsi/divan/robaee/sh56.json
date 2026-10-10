@@ -1,0 +1,57 @@
+{
+  "Id": 14647,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۵۶",
+  "FullUrl": "/p266/farsi/divan/robaee/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باید که دلت ز غصه در هم نشود\r\nاز رفتن زر دستخوش غم نشود\r\nاین سیم و زرست خواجه این سیم و زرست\r\nغم نیست که هر چند خوری کم نشود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باید که دلت ز غصه در هم نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رفتن زر دستخوش غم نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این سیم و زرست خواجه این سیم و زرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم نیست که هر چند خوری کم نشود",
+      "CoupletIndex": 1
+    }
+  ]
+}

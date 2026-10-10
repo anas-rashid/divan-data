@@ -1,0 +1,57 @@
+{
+  "Id": 14183,
+  "CatId": 1045,
+  "Title": "بخش ۳۱۸ - جهان دل ، جهان رنگ و بو نیست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۱۸ - جهان دل ، جهان رنگ و بو نیست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh319",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh319",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان دل ، جهان رنگ و بو نیست\r\nدرو پست و بلند و کاخ و کو نیست \r\nزمین وسمان و چار سو نیست\r\nدرین عالم به جز «الله هو» نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان دل ، جهان رنگ و بو نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درو پست و بلند و کاخ و کو نیست ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زمین وسمان و چار سو نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درین عالم به جز «الله هو» نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

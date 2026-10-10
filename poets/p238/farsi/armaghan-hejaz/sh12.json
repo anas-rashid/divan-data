@@ -1,0 +1,57 @@
+{
+  "Id": 13877,
+  "CatId": 1045,
+  "Title": "بخش ۱۲ - ز من هنگامه‌ای وه این جهان را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲ - ز من هنگامه‌ای وه این جهان را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز من هنگامه‌ای وه این جهان را\r\nدگرگون کن زمین و آسمان را\r\nز خاکِ ما دگر آدم برانگیز\r\nبِکُش این بندهٔ سود و زیان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز من هنگامه‌ای وه این جهان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دگرگون کن زمین و آسمان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خاکِ ما دگر آدم برانگیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بِکُش این بندهٔ سود و زیان را",
+      "CoupletIndex": 1
+    }
+  ]
+}

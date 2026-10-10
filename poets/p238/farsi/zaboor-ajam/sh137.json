@@ -1,0 +1,57 @@
+{
+  "Id": 13774,
+  "CatId": 1042,
+  "Title": "بخش ۱۳۷ - آغاز گلشن راز جدید",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۱۳۷ - آغاز گلشن راز جدید",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh137",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh137",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به سواد دیدهٔ تو نظر آفریده‌ام من\r\nبه ضمیر تو جهانی دگر آفریده‌ام من\r\nهمه خاوران به خوابی که نهان ز چشم انجم\r\nبه سرود زندگانی سحر آفریده‌ام من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به سواد دیدهٔ تو نظر آفریده‌ام من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به ضمیر تو جهانی دگر آفریده‌ام من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همه خاوران به خوابی که نهان ز چشم انجم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به سرود زندگانی سحر آفریده‌ام من",
+      "CoupletIndex": 1
+    }
+  ]
+}

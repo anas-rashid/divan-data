@@ -1,0 +1,57 @@
+{
+  "Id": 14122,
+  "CatId": 1045,
+  "Title": "بخش ۲۵۷ - برهمن گفت برخیز از در غیر",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۵۷ - برهمن گفت برخیز از در غیر",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برهمن گفت برخیز از در غیر\r\nز یاران وطن ناید به جز خیر\r\nبیک مسجد دو ملا می نگنجد\r\nز افسون بتان گنجد بیک دیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برهمن گفت برخیز از در غیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز یاران وطن ناید به جز خیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیک مسجد دو ملا می نگنجد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز افسون بتان گنجد بیک دیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

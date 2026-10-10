@@ -1,0 +1,105 @@
+{
+  "Id": 12000,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۱۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۱۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh716",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh716",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر شکر خنده که آن لعل شکر خنده کند\r\nبر دل زیرک و بر جان خردمند کند\r\nزلف ازان می برد آن شوخ که شبهای غمم\r\nگر شود کوته، از آنجا همه پیوند کند\r\nآن خیال است که آیینه نماید چو تویی\r\nآینه ماه شما را به که مانند کند؟\r\nنیم شب ز آتش دل روز کنم در تو، ولی\r\nدل چه داند که چنین روز شبی چند کند؟\r\nگیسوی پر گرهت رشته بت را ماند\r\nکه دل گرم من سوخته را بند کند\r\nچون وفا نیست ترا، خسرو مسکین چه کند؟\r\nدل ضرورت به جفاهای تو خرسند کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شکر خنده که آن لعل شکر خنده کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دل زیرک و بر جان خردمند کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف ازان می برد آن شوخ که شبهای غمم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر شود کوته، از آنجا همه پیوند کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن خیال است که آیینه نماید چو تویی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آینه ماه شما را به که مانند کند؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیم شب ز آتش دل روز کنم در تو، ولی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل چه داند که چنین روز شبی چند کند؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گیسوی پر گرهت رشته بت را ماند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که دل گرم من سوخته را بند کند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چون وفا نیست ترا، خسرو مسکین چه کند؟",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دل ضرورت به جفاهای تو خرسند کند",
+      "CoupletIndex": 5
+    }
+  ]
+}

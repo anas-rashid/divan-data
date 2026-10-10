@@ -1,0 +1,57 @@
+{
+  "Id": 14074,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۹ - بگو از من نواخوان عرب را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۹ - بگو از من نواخوان عرب را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بگو از من نواخوان عرب را\r\nبهای کم نهادم لعل لب را\r\nازن نوری که از قر ن گرفتم\r\nسحر کردم صد و سی ساله شب را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگو از من نواخوان عرب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهای کم نهادم لعل لب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازن نوری که از قر ن گرفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سحر کردم صد و سی ساله شب را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13927,
+  "CatId": 1045,
+  "Title": "بخش ۶۲ - جهان چار سو اندر بر من",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۶۲ - جهان چار سو اندر بر من",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان چار سو اندر بر من\r\nهوای لامکان اندر سر من\r\nچو بگذشتم ازین بام بلندی\r\nچو گرد افتاد پرواز از پر من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان چار سو اندر بر من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوای لامکان اندر سر من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو بگذشتم ازین بام بلندی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو گرد افتاد پرواز از پر من",
+      "CoupletIndex": 1
+    }
+  ]
+}

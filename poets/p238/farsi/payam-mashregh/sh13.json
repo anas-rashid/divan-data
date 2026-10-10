@@ -1,0 +1,57 @@
+{
+  "Id": 13350,
+  "CatId": 1041,
+  "Title": "بخش ۱۳ - نه من انجام و نی آغاز جویم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۳ - نه من انجام و نی آغاز جویم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه من انجام و نی آغاز جویم\r\nهمه رازم جهان راز جویم\r\nگر از روی حقیقت پرده گیرند\r\nهمان بوک و مگر را باز جویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه من انجام و نی آغاز جویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همه رازم جهان راز جویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر از روی حقیقت پرده گیرند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همان بوک و مگر را باز جویم",
+      "CoupletIndex": 1
+    }
+  ]
+}

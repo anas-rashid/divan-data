@@ -1,0 +1,57 @@
+{
+  "Id": 13911,
+  "CatId": 1045,
+  "Title": "بخش ۴۶ - به این پیری ره یثرب گرفتم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۴۶ - به این پیری ره یثرب گرفتم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به این پیری ره یثرب گرفتم\r\nنوا خوان از سرود عاشقانه\r\nچو آن مرغی که در صحرا سر شام\r\nگشاید پر به فکر آشیانه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به این پیری ره یثرب گرفتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوا خوان از سرود عاشقانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو آن مرغی که در صحرا سر شام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گشاید پر به فکر آشیانه",
+      "CoupletIndex": 1
+    }
+  ]
+}

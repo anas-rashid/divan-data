@@ -1,0 +1,57 @@
+{
+  "Id": 13497,
+  "CatId": 1041,
+  "Title": "بخش ۱۶۰ - بحرف اندر نگیری لامکانرا",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶۰ - بحرف اندر نگیری لامکانرا",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بحرف اندر نگیری لامکانرا\r\nدرون خود نگر این نکته پیداست\r\nبه تن جان آنچنان دارد نشیمن\r\nکه نتوان گفت اینجا نیست آنجاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بحرف اندر نگیری لامکانرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درون خود نگر این نکته پیداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به تن جان آنچنان دارد نشیمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نتوان گفت اینجا نیست آنجاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

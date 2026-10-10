@@ -1,0 +1,57 @@
+{
+  "Id": 13504,
+  "CatId": 1041,
+  "Title": "بخش ۱۶۷ - هلال عید",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶۷ - هلال عید",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh167",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh167",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نتوان ز چشم شوق رمید ای هلال عید\r\nاز صد نگه براه تو دامی نهاده اند\r\nبر خود نظر گشا ز تهی دامنی مرنج\r\nدر سینهٔ تو ماه تمامی نهاده اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نتوان ز چشم شوق رمید ای هلال عید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از صد نگه براه تو دامی نهاده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خود نظر گشا ز تهی دامنی مرنج",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سینهٔ تو ماه تمامی نهاده اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

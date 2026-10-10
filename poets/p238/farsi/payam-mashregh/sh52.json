@@ -1,0 +1,57 @@
+{
+  "Id": 13389,
+  "CatId": 1041,
+  "Title": "بخش ۵۲ - ز پیوند تن و جانم چه پرسی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۵۲ - ز پیوند تن و جانم چه پرسی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز پیوند تن و جانم چه پرسی\r\nبه دام چند و چون در می نیایم\r\nدم آشفته ام در پیچ و تابم\r\nچو از آغوش نی خیزم نوایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز پیوند تن و جانم چه پرسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دام چند و چون در می نیایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دم آشفته ام در پیچ و تابم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو از آغوش نی خیزم نوایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

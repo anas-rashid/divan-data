@@ -1,0 +1,93 @@
+{
+  "Id": 12853,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۵۶۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۶۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1569",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1569",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از شب گیسوی تست روشنی روز من\r\nاز رخ چون انجمت روشنی انجمن\r\nتا که شکسته‌دلم صحبت زلفت گزید\r\nصحبت دل کرد اثر، زلف تو شد پرشکن\r\nاز سر زلفت نخاست این دل گردن‌زده\r\nمن ز سرش خواستم، گردن او را بزن\r\nمن همه سر می‌نهم پیش تو بی‌گفت‌ ِ تو\r\nتو همه سر می‌کشی پیش من از گفت من\r\nبر رخ خسرو بماند نقش ز خوبان دل\r\nتا دل پرخون اوست نقش رُخت را وطن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از شب گیسوی تست روشنی روز من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رخ چون انجمت روشنی انجمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا که شکسته‌دلم صحبت زلفت گزید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صحبت دل کرد اثر، زلف تو شد پرشکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از سر زلفت نخاست این دل گردن‌زده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من ز سرش خواستم، گردن او را بزن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من همه سر می‌نهم پیش تو بی‌گفت‌ ِ تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تو همه سر می‌کشی پیش من از گفت من",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر رخ خسرو بماند نقش ز خوبان دل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا دل پرخون اوست نقش رُخت را وطن",
+      "CoupletIndex": 4
+    }
+  ]
+}

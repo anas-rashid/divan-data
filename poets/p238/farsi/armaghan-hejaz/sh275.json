@@ -1,0 +1,57 @@
+{
+  "Id": 14139,
+  "CatId": 1045,
+  "Title": "بخش ۲۷۴ - نهنگی بچه خود را چه خوش گفت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۷۴ - نهنگی بچه خود را چه خوش گفت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نهنگی بچه خود را چه خوش گفت\r\nبه دین ما حرام آمد کرانه\r\nبه موج آویز و از ساحل بپرهیز\r\nهمه دریاست ما را آشیانه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نهنگی بچه خود را چه خوش گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دین ما حرام آمد کرانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به موج آویز و از ساحل بپرهیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همه دریاست ما را آشیانه",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "Id": 13286,
+  "CatId": 1039,
+  "Title": "بخش ۱ - اسرار خودی",
+  "FullTitle": "محمد اقبال » فارسی » اسرار خودی » بخش ۱ - اسرار خودی",
+  "FullUrl": "/p238/farsi/asrar-khodi/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/asrar-khodi/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دی شیخ با چراغ همی‌گشت گرد شهر\r\nکز دام و دد ملولم و انسانم آرزوست\r\nزاین همرهان سست‌عناصر دلم گرفت\r\nشیر خدا و رستم دستانم آرزوست\r\nگفتم که یافت می‌نشود جسته‌ایم ما\r\nگفت آنچه یافت می‌نشود آنم آرزوست\r\nمولانا جلال الدین رومی",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی شیخ با چراغ همی‌گشت گرد شهر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دام و دد ملولم و انسانم آرزوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاین همرهان سست‌عناصر دلم گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیر خدا و رستم دستانم آرزوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتم که یافت می‌نشود جسته‌ایم ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گفت آنچه یافت می‌نشود آنم آرزوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse1",
+      "Text": "مولانا جلال الدین رومی",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13375,
+  "CatId": 1041,
+  "Title": "بخش ۳۸ - چو ذوق نغمه ام در جلوت آرد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۸ - چو ذوق نغمه ام در جلوت آرد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو ذوق نغمه ام در جلوت آرد\r\nقیامت افکنم در محفل خویش\r\nچو می خواهم دمی خلوت بگیرم\r\nجهان را گم کنم اندر دل خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو ذوق نغمه ام در جلوت آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قیامت افکنم در محفل خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو می خواهم دمی خلوت بگیرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهان را گم کنم اندر دل خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14039,
+  "CatId": 1045,
+  "Title": "بخش ۱۷۴ - کسی کو بر خودی زد «لااله» را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷۴ - کسی کو بر خودی زد «لااله» را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh175",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh175",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی کو بر خودی زد «لااله» را\r\nز خاک مرده رویاند نگه را\r\nمده از دست دامان چنین مرد\r\nکه دیدم در کمندش مهر و مه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی کو بر خودی زد «لااله» را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خاک مرده رویاند نگه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مده از دست دامان چنین مرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دیدم در کمندش مهر و مه را",
+      "CoupletIndex": 1
+    }
+  ]
+}

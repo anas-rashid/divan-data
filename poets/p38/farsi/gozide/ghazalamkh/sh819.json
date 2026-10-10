@@ -1,0 +1,105 @@
+{
+  "Id": 12103,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۱۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۱۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh819",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh819",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در شهر فتنه ای شد، می دانم از که باشد\r\nترکی ست صید افگن، پنهانم از که باشد؟\r\nهر روز اندرین شهر خلقی ز دل برآیند\r\nگر دیگری نداند، من دانم از که باشد؟\r\nدردم گذشت از حد، معلوم نیست تا خود\r\nسامانم از که خیزد، درمانم از که باشد؟\r\nدرمان درمندان در هجر تو تو باشی\r\nگر من به درد هجران درمانم از که باشد\r\nهرگز بر محبان یکدم نمی نشینی\r\nگر آتش محبت بنشانم، از که باشد؟\r\nچون کرد طره تو غارت قرار خسرو\r\nمن بعد اگر صبوری نتوانم، از که باشد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در شهر فتنه ای شد، می دانم از که باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترکی ست صید افگن، پنهانم از که باشد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر روز اندرین شهر خلقی ز دل برآیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دیگری نداند، من دانم از که باشد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دردم گذشت از حد، معلوم نیست تا خود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سامانم از که خیزد، درمانم از که باشد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "درمان درمندان در هجر تو تو باشی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر من به درد هجران درمانم از که باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرگز بر محبان یکدم نمی نشینی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر آتش محبت بنشانم، از که باشد؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چون کرد طره تو غارت قرار خسرو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "من بعد اگر صبوری نتوانم، از که باشد؟",
+      "CoupletIndex": 5
+    }
+  ]
+}

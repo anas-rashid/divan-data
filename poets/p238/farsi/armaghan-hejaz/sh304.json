@@ -1,0 +1,57 @@
+{
+  "Id": 14168,
+  "CatId": 1045,
+  "Title": "بخش ۳۰۳ - پریشان هر دم ما از غمی چند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۰۳ - پریشان هر دم ما از غمی چند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh304",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh304",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پریشان هر دم ما از غمی چند\r\nشریک هر غمی نامحرمی چند\r\nولیکن طرح فردائی توان ریخت\r\nاگر دانی بهای این دمی چند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریشان هر دم ما از غمی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شریک هر غمی نامحرمی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن طرح فردائی توان ریخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر دانی بهای این دمی چند",
+      "CoupletIndex": 1
+    }
+  ]
+}

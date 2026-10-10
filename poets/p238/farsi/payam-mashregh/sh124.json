@@ -1,0 +1,57 @@
+{
+  "Id": 13461,
+  "CatId": 1041,
+  "Title": "بخش ۱۲۴ - درونم جلوهٔ افکار این چیست؟",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۲۴ - درونم جلوهٔ افکار این چیست؟",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درونم جلوهٔ افکار این چیست؟\r\nبرون من همه اسرار این چیست؟\r\nبفرما ای حکیم نکته پرداز\r\nبدن آسوده ، جان سیار ، این چیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درونم جلوهٔ افکار این چیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برون من همه اسرار این چیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بفرما ای حکیم نکته پرداز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدن آسوده ، جان سیار ، این چیست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

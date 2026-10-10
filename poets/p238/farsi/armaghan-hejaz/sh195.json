@@ -1,0 +1,57 @@
+{
+  "Id": 14059,
+  "CatId": 1045,
+  "Title": "بخش ۱۹۴ - نصیبی بردم از تاب و تب او",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۹۴ - نصیبی بردم از تاب و تب او",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نصیبی بردم از تاب و تب او\r\nشبم مانند روز از کوکب او\r\nغزالی در بیابان حرم بین\r\nکه ریزد خنده شیر از لب او",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نصیبی بردم از تاب و تب او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شبم مانند روز از کوکب او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غزالی در بیابان حرم بین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ریزد خنده شیر از لب او",
+      "CoupletIndex": 1
+    }
+  ]
+}

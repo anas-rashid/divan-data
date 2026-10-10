@@ -1,0 +1,93 @@
+{
+  "Id": 11786,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۰۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۰۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh502",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh502",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزی مگر این بسته در ما بگشایند\r\nوز لطف من گشمده را راه نمایند\r\nگر خلق جهان حال من خسته بدانند\r\nاز عین تحیر سرانگشت بخایند\r\nعمری ست که از جور فلک با غم و دردم\r\nزین بیش مگر درد به دردم بیفزایند\r\nتا کی در بخت من بیچاره ببندند\r\nوقتی ست که از روی ترحم بگشایند\r\nزنهار که دل در فلک و دهر نبندی\r\nکایشان ز جهان یکسره بی مهر و وفایند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی مگر این بسته در ما بگشایند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز لطف من گشمده را راه نمایند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر خلق جهان حال من خسته بدانند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از عین تحیر سرانگشت بخایند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عمری ست که از جور فلک با غم و دردم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زین بیش مگر درد به دردم بیفزایند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا کی در بخت من بیچاره ببندند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وقتی ست که از روی ترحم بگشایند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زنهار که دل در فلک و دهر نبندی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کایشان ز جهان یکسره بی مهر و وفایند",
+      "CoupletIndex": 4
+    }
+  ]
+}
