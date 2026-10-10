@@ -30,7 +30,8 @@ python3 build_index.py   # full-text index + export/poets.jsonl, export/works.js
 
 Python 3.9+ standard library only. (Search needs FTS5. Python's `sqlite3` has it; Apple's built-in `sqlite3` command does not, so use Python or `brew install sqlite`.)
 
-A Gitea Actions workflow (`.gitea/workflows/sync.yml`) runs `update.sh` daily. It commits only when the data changed.
+The Divan server runs `update.sh` every night (its `divan-sync` service, with `DIVAN_DATA_PUSH=1`). It commits and pushes only
+when the data changed.
 
 ```sql
 -- Iqbal's Bang-e-Dra
