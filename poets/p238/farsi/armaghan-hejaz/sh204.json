@@ -1,0 +1,57 @@
+{
+  "Id": 14068,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۳ - جوانمردی که خود را فاش بیند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۳ - جوانمردی که خود را فاش بیند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جوانمردی که خود را فاش بیند\r\nجهان کهنه را بازفریند\r\nهزاران انجمن اندر طوافش\r\nکه او با خویشتن خلوت گزیند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جوانمردی که خود را فاش بیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جهان کهنه را بازفریند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هزاران انجمن اندر طوافش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که او با خویشتن خلوت گزیند",
+      "CoupletIndex": 1
+    }
+  ]
+}

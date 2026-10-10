@@ -1,0 +1,57 @@
+{
+  "Id": 13935,
+  "CatId": 1045,
+  "Title": "بخش ۷۰ - نماند آن تاب و تب در خون نابش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۷۰ - نماند آن تاب و تب در خون نابش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نماند آن تاب و تب در خون نابش\r\nنروید لاله از کشت خرابش\r\nنیام او تهی چون کیسئه او \r\nبه طاق خانه ویران کتابش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نماند آن تاب و تب در خون نابش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نروید لاله از کشت خرابش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیام او تهی چون کیسئه او ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به طاق خانه ویران کتابش",
+      "CoupletIndex": 1
+    }
+  ]
+}

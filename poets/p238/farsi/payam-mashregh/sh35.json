@@ -1,0 +1,57 @@
+{
+  "Id": 13372,
+  "CatId": 1041,
+  "Title": "بخش ۳۵ - سریر کیقباد ، اکلیل جم خاک",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۵ - سریر کیقباد ، اکلیل جم خاک",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سریر کیقباد ، اکلیل جم خاک\r\nکلیسا و بتستان و حرم خاک\r\nولیکن من ندانم گوهرم چیست\r\nنگاهم برتر از گردون تنم خاک",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سریر کیقباد ، اکلیل جم خاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کلیسا و بتستان و حرم خاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن من ندانم گوهرم چیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگاهم برتر از گردون تنم خاک",
+      "CoupletIndex": 1
+    }
+  ]
+}

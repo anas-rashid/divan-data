@@ -1,0 +1,57 @@
+{
+  "Id": 13432,
+  "CatId": 1041,
+  "Title": "بخش ۹۵ - کمال زندگی خواهی بیاموز",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۹۵ - کمال زندگی خواهی بیاموز",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh95",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh95",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کمال زندگی خواهی بیاموز\r\nگشادن چشم و جز بر خود نبستن\r\nفرو بردن جهان را چون دم آب\r\nطلسم زیر و بالا در شکستن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کمال زندگی خواهی بیاموز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشادن چشم و جز بر خود نبستن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرو بردن جهان را چون دم آب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طلسم زیر و بالا در شکستن",
+      "CoupletIndex": 1
+    }
+  ]
+}

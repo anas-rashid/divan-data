@@ -1,0 +1,57 @@
+{
+  "Id": 13990,
+  "CatId": 1045,
+  "Title": "بخش ۱۲۵ - مرا در عصر بی سوز آفریدند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲۵ - مرا در عصر بی سوز آفریدند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا در عصر بی سوز آفریدند\r\nبخاکم جان پر شوری دمیدند\r\nچو نخ در گردن من زندگانی\r\nتو گوئی بر سر دارم کشیدند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا در عصر بی سوز آفریدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخاکم جان پر شوری دمیدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو نخ در گردن من زندگانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو گوئی بر سر دارم کشیدند",
+      "CoupletIndex": 1
+    }
+  ]
+}

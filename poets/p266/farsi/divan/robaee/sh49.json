@@ -1,0 +1,57 @@
+{
+  "Id": 14640,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/p266/farsi/divan/robaee/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این خواب که روشناس روزش گویند\r\nچون صبح مراد دلفروزش گویند\r\nزان رو که به روز دیده خسرو چه عجب\r\nگر خسرو ملک نیمروزش گویند؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این خواب که روشناس روزش گویند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون صبح مراد دلفروزش گویند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان رو که به روز دیده خسرو چه عجب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر خسرو ملک نیمروزش گویند؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

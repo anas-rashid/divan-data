@@ -1,0 +1,93 @@
+{
+  "Id": 11738,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۴۵۴",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۴۵۴",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh454",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh454",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مهش گویم، و لیکن مه سخن گفتن نمی داند\r\nگلش گویم، ولیکن گل گهر سفتن نمی داند\r\nز شب بیداری من تا سحر چشمش کجا داند؟\r\nکه او شب تا سحر کاری به جز خفتن نمی داند\r\nاگر گویم که حال من کسی آنجا نمی گوید\r\nصبا دانم که می داند، ولی گفتن نمی داند\r\nبه پاش افتاد زلف و یافت دستی بر لبش، لیکن\r\nزمین رفته ست پیوسته، شکر گفتن نمی داند\r\nهمه آشفتگی خواهد سر زلف پریشانش\r\nز خسرو، گو، بیاموزد، گر آشفتن نمی داند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مهش گویم، و لیکن مه سخن گفتن نمی داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلش گویم، ولیکن گل گهر سفتن نمی داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز شب بیداری من تا سحر چشمش کجا داند؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که او شب تا سحر کاری به جز خفتن نمی داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر گویم که حال من کسی آنجا نمی گوید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صبا دانم که می داند، ولی گفتن نمی داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به پاش افتاد زلف و یافت دستی بر لبش، لیکن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زمین رفته ست پیوسته، شکر گفتن نمی داند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "همه آشفتگی خواهد سر زلف پریشانش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز خسرو، گو، بیاموزد، گر آشفتن نمی داند",
+      "CoupletIndex": 4
+    }
+  ]
+}

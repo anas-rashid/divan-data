@@ -1,0 +1,105 @@
+{
+  "Id": 11425,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل کازاد باشد آن من نیست\r\nکسی کوشاد باشد جان من نیست\r\nگدایان جان نهندش، لیک این سهل\r\nخراج دولت سلطان من نیست\r\nخوش آن شوخی که تیرم زد، پس آن گه\r\nکشید و گفت کاین پیکان من نیست\r\nکدامین منت است از سوز شوقش\r\nکه بر جان و دل بریان من نیست\r\nز غم هم پیش غم نالم که شبها\r\nجز از کس مونس زندان من نیست\r\nبکش هر سان که خواهی چون منی را\r\nکه زان تست خسرو، زان من نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل کازاد باشد آن من نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کسی کوشاد باشد جان من نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گدایان جان نهندش، لیک این سهل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خراج دولت سلطان من نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوش آن شوخی که تیرم زد، پس آن گه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کشید و گفت کاین پیکان من نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کدامین منت است از سوز شوقش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بر جان و دل بریان من نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز غم هم پیش غم نالم که شبها",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جز از کس مونس زندان من نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بکش هر سان که خواهی چون منی را",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که زان تست خسرو، زان من نیست",
+      "CoupletIndex": 5
+    }
+  ]
+}

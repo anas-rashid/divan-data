@@ -1,0 +1,57 @@
+{
+  "Id": 13985,
+  "CatId": 1045,
+  "Title": "بخش ۱۲۰ - غریبم در میان محفل خویش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲۰ - غریبم در میان محفل خویش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غریبم در میان محفل خویش\r\nتو خود گو با که گویم مشکل خویش\r\nاز آن ترسم که پنهانم شود فاش\r\nغم خود را نگویم با دل خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غریبم در میان محفل خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو خود گو با که گویم مشکل خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن ترسم که پنهانم شود فاش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم خود را نگویم با دل خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

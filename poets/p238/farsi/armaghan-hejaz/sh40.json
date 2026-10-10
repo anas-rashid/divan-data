@@ -1,0 +1,57 @@
+{
+  "Id": 13905,
+  "CatId": 1045,
+  "Title": "بخش ۴۰ - به پایان چون رسد این عالم پیر",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۴۰ - به پایان چون رسد این عالم پیر",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به پایان چون رسد این عالَمِ پیر\r\nشود بی‌پرده هر پوشیده تقدیر\r\nمکن رسوا حضور خواجه، ما را\r\nحسابِ من ز چشمِ او نهان گیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به پایان چون رسد این عالَمِ پیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شود بی‌پرده هر پوشیده تقدیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مکن رسوا حضور خواجه، ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسابِ من ز چشمِ او نهان گیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

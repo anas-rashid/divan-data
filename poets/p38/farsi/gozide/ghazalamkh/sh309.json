@@ -1,0 +1,93 @@
+{
+  "Id": 11593,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بند زلف غمزدگان را سبب فرست\r\nوز قند لعل دلشدگان را طرب فرست\r\nاز من به فن لب آمده جانی ربوده ای\r\nیک بوسه نامزد کن و بازم به لب فرست\r\nتو ماه و من چو تار قصب در غمت ضعیف\r\nای ماهتاب، نور به تار قصب فرست\r\nامروز چون به خنده رطب لب گشوده ای\r\nما را خبر از آن رطب بوالعجب فرست\r\nسلطانی از پی تو فرستاد جان، تو نیز\r\nاز وعده وصال به جانش طرب فرست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بند زلف غمزدگان را سبب فرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز قند لعل دلشدگان را طرب فرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از من به فن لب آمده جانی ربوده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک بوسه نامزد کن و بازم به لب فرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تو ماه و من چو تار قصب در غمت ضعیف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای ماهتاب، نور به تار قصب فرست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "امروز چون به خنده رطب لب گشوده ای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما را خبر از آن رطب بوالعجب فرست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلطانی از پی تو فرستاد جان، تو نیز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از وعده وصال به جانش طرب فرست",
+      "CoupletIndex": 4
+    }
+  ]
+}

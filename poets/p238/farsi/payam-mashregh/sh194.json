@@ -1,0 +1,105 @@
+{
+  "Id": 13531,
+  "CatId": 1041,
+  "Title": "بخش ۱۹۴ - اگر خواهی حیات اندر خطر زی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۹۴ - اگر خواهی حیات اندر خطر زی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh194",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh194",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غزالی با غزالی درد دل گفت\r\nازین پس در حرم گیرم کنامی\r\nبصحرا صید بندان در کمین اند\r\nبکام آهو ان صبحی نه شامی\r\nامان از فتنهٔ صیاد خواهم\r\nدلی ز اندیشه ها آزاد خواهم\r\nرفیقش گفت ای یار خردمند\r\nاگر خواهی حیات اندر خطر زی\r\nدمادم خویشتن را بر فسان زن\r\nز تیغ پاک گوهر تیز تر زی\r\nخطر تاب و توان را امتحان است\r\nعیار ممکنات جسم و جان است",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غزالی با غزالی درد دل گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازین پس در حرم گیرم کنامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بصحرا صید بندان در کمین اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بکام آهو ان صبحی نه شامی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "CenteredVerse1",
+      "Text": "امان از فتنهٔ صیاد خواهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse2",
+      "Text": "دلی ز اندیشه ها آزاد خواهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رفیقش گفت ای یار خردمند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اگر خواهی حیات اندر خطر زی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دمادم خویشتن را بر فسان زن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز تیغ پاک گوهر تیز تر زی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "CenteredVerse1",
+      "Text": "خطر تاب و توان را امتحان است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "CenteredVerse2",
+      "Text": "عیار ممکنات جسم و جان است",
+      "CoupletIndex": 5
+    }
+  ]
+}

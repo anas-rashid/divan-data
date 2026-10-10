@@ -1,0 +1,57 @@
+{
+  "Id": 14209,
+  "CatId": 1045,
+  "Title": "بخش ۳۴۴ - ز فهم دون نهادان گرچه دور است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۴۴ - ز فهم دون نهادان گرچه دور است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh345",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh345",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز فهم دون نهادان گرچه دور است\r\nولی این نکته را گفتن ضرور است\r\nبه این نو زاده ابلیسان نسازد\r\nگنهگاری که طبع او غیور است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز فهم دون نهادان گرچه دور است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولی این نکته را گفتن ضرور است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به این نو زاده ابلیسان نسازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گنهگاری که طبع او غیور است",
+      "CoupletIndex": 1
+    }
+  ]
+}

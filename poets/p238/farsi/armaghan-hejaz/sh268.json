@@ -1,0 +1,57 @@
+{
+  "Id": 14132,
+  "CatId": 1045,
+  "Title": "بخش ۲۶۷ - خدایا وقتن درویش خوش باد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۶۷ - خدایا وقتن درویش خوش باد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh268",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh268",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خدایا وقتن درویش خوش باد\r\nکه دلها از دمش چون غنچه بگشاد\r\nبه طفل مکتب ما این دعا گفت\r\nپی نانی به بند کس میفتاد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خدایا وقتن درویش خوش باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دلها از دمش چون غنچه بگشاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به طفل مکتب ما این دعا گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پی نانی به بند کس میفتاد",
+      "CoupletIndex": 1
+    }
+  ]
+}

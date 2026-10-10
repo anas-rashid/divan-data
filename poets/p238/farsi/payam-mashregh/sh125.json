@@ -1,0 +1,57 @@
+{
+  "Id": 13462,
+  "CatId": 1041,
+  "Title": "بخش ۱۲۵ - بخود نازم گدای بی نیازم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۲۵ - بخود نازم گدای بی نیازم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بخود نازم گدای بی نیازم\r\nتپم ، سوزم ، گدازم، نی نوازم\r\nترا از نغمه در آتش نشاندم\r\nسکندر فطرتم ، آئینه سازم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بخود نازم گدای بی نیازم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تپم ، سوزم ، گدازم، نی نوازم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترا از نغمه در آتش نشاندم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سکندر فطرتم ، آئینه سازم",
+      "CoupletIndex": 1
+    }
+  ]
+}

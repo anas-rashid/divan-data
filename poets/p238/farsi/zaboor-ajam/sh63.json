@@ -1,0 +1,57 @@
+{
+  "Id": 13700,
+  "CatId": 1042,
+  "Title": "بخش ۶۳ - مه و ستاره که در راه شوق هم سفرند",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۶۳ - مه و ستاره که در راه شوق هم سفرند",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh63",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh63",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مه و ستاره که در راه شوق هم سفرند\r\nکرشمه سنج و ادا فهم و صاحب نظرند\r\nچه جلوه هاست که دیدند در کف خاکی\r\nقفا بجانب افلاک سوی ما نگرند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مه و ستاره که در راه شوق هم سفرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرشمه سنج و ادا فهم و صاحب نظرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه جلوه هاست که دیدند در کف خاکی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قفا بجانب افلاک سوی ما نگرند",
+      "CoupletIndex": 1
+    }
+  ]
+}

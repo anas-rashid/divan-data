@@ -1,0 +1,45 @@
+{
+  "Id": 13632,
+  "CatId": 1041,
+  "Title": "بخش ۲۹۵ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹۵ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایکه گل چیدی منال از نیش خار\r\nخار هم می روید از باد بهار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایکه گل چیدی منال از نیش خار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خار هم می روید از باد بهار",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13699,
+  "CatId": 1042,
+  "Title": "بخش ۶۲ - بر خیز که آدم را هنگام نمود آمد",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۶۲ - بر خیز که آدم را هنگام نمود آمد",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر خیز که آدم را هنگام نمود آمد\r\nاین مشت غباری را انجم به سجود آمد\r\nآن راز که پوشیده در سینهٔ هستی بود\r\nاز شوخی آب و گل در گفت و شنود آمد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر خیز که آدم را هنگام نمود آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این مشت غباری را انجم به سجود آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن راز که پوشیده در سینهٔ هستی بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شوخی آب و گل در گفت و شنود آمد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13449,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۲ - جهان کز خود ندارد دستگاهی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۲ - جهان کز خود ندارد دستگاهی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان کز خود ندارد دستگاهی\r\nبه کوی آرزو می جست راهی\r\nز آغوش عدم دزدیده بگريخت\r\nگرفت اندر دل آدم پناهی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان کز خود ندارد دستگاهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به کوی آرزو می جست راهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آغوش عدم دزدیده بگريخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گرفت اندر دل آدم پناهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

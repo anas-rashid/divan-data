@@ -1,0 +1,93 @@
+{
+  "Id": 11155,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۶۲ - ذوقا فیتین",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۶۲ - ذوقا فیتین",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تن ز غنیمت به هزیمت سپرد\r\nبردن جان را به غنیمت شمرد\r\nچرخ ز بیداد عنان تافته\r\nمملکت از ظلم امان یافته\r\nچنگ نوا زن به هوا سر کشید\r\nچنگ نوا زنده نوا بر کشید\r\nخوشهٔ چرخ از علف خانه خیز\r\nبهر عروسان سحر دانه ریز\r\nاتش از آن جا که به دل جای کرد\r\nدود برآمد ز نفس های سرد",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تن ز غنیمت به هزیمت سپرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بردن جان را به غنیمت شمرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چرخ ز بیداد عنان تافته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مملکت از ظلم امان یافته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چنگ نوا زن به هوا سر کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چنگ نوا زنده نوا بر کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خوشهٔ چرخ از علف خانه خیز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بهر عروسان سحر دانه ریز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اتش از آن جا که به دل جای کرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دود برآمد ز نفس های سرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

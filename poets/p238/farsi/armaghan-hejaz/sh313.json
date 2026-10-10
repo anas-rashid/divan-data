@@ -1,0 +1,57 @@
+{
+  "Id": 14177,
+  "CatId": 1045,
+  "Title": "بخش ۳۱۲ - زمانه کار او را میبرد پیش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۱۲ - زمانه کار او را میبرد پیش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh313",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh313",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زمانه کار او را میبرد پیش\r\nکه مرد خود نگهدار است درویش\r\nهمین فقر است و سلطانی که دل را\r\nنگه داری چو دریا گوهر خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زمانه کار او را میبرد پیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مرد خود نگهدار است درویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همین فقر است و سلطانی که دل را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگه داری چو دریا گوهر خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

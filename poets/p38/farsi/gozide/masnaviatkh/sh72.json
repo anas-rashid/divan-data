@@ -1,0 +1,57 @@
+{
+  "Id": 11165,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۷۲ - سرگذشت",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۷۲ - سرگذشت",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شه آن را دان که گفت از جان آزاد\r\nبه ترک بخل و خشم لهو و بیداد\r\nشهی کش چارترکش در کله نیست\r\nبباید ترک او گفتن که شه نیست",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شه آن را دان که گفت از جان آزاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به ترک بخل و خشم لهو و بیداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شهی کش چارترکش در کله نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بباید ترک او گفتن که شه نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 12171,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۸۷",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۸۷",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh887",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh887",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک روز یار اگر قدمی سوی من زند\r\nبخت رمیده خیمه به پهلوی من زند\r\nخواهم هزار جان ز خدا تا کنم نثار\r\nدر هر قدم که سرو سمن بوی من زند\r\nدر خورد دوست نیست مگر اشک چشم من\r\nدر پیش مردمان همه در روی من زند\r\nمردم در انتظار که کی حلقه بر درم\r\nزلف نگار سلسله گیسوی من زند\r\nچشمش هزار قلب شکست، از مژه هنوز\r\nلشکر کشد که بر دل بدخوی من زند\r\nخسرو، ز باد صبح رخش دم زنیم و بس\r\nلاف محبتش سر هر موی من زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک روز یار اگر قدمی سوی من زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخت رمیده خیمه به پهلوی من زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم هزار جان ز خدا تا کنم نثار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در هر قدم که سرو سمن بوی من زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در خورد دوست نیست مگر اشک چشم من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در پیش مردمان همه در روی من زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مردم در انتظار که کی حلقه بر درم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زلف نگار سلسله گیسوی من زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چشمش هزار قلب شکست، از مژه هنوز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لشکر کشد که بر دل بدخوی من زند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خسرو، ز باد صبح رخش دم زنیم و بس",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "لاف محبتش سر هر موی من زند",
+      "CoupletIndex": 5
+    }
+  ]
+}

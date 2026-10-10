@@ -1,0 +1,57 @@
+{
+  "Id": 13901,
+  "CatId": 1045,
+  "Title": "بخش ۳۶ - دگرگون کشور هندوستان است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶ - دگرگون کشور هندوستان است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دگرگون کشور هندوستان است\r\nدگرگون آن زمین و آسمان است\r\nمجو از ما نمازِ پنج‌گانه\r\nغلامان را صف‌آرایی گران است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دگرگون کشور هندوستان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دگرگون آن زمین و آسمان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مجو از ما نمازِ پنج‌گانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غلامان را صف‌آرایی گران است",
+      "CoupletIndex": 1
+    }
+  ]
+}

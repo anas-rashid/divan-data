@@ -1,0 +1,45 @@
+{
+  "Id": 13633,
+  "CatId": 1041,
+  "Title": "بخش ۲۹۶ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹۶ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh296",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh296",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مزن وسمه بر ریش و ابروی خویش\r\nجوانی ز دزدیدن سال نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مزن وسمه بر ریش و ابروی خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جوانی ز دزدیدن سال نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

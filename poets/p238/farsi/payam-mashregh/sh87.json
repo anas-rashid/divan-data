@@ -1,0 +1,57 @@
+{
+  "Id": 13424,
+  "CatId": 1041,
+  "Title": "بخش ۸۷ - چه گویم نکتهٔ زشت و نکو چیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۸۷ - چه گویم نکتهٔ زشت و نکو چیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه گویم نکتهٔ زشت و نکو چیست\r\nزبان لرزد که معنی پیچدار است\r\nبرون از شاخ بینی خار و گل را\r\nدرون او نه گل پیدا نه خار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه گویم نکتهٔ زشت و نکو چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زبان لرزد که معنی پیچدار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برون از شاخ بینی خار و گل را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درون او نه گل پیدا نه خار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

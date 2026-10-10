@@ -1,0 +1,105 @@
+{
+  "Id": 11842,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۵۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۵۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh558",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh558",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بتی کز دیدنش جان مست گردد\r\nدرون جان من پیوست گردد\r\nمگو کز دیدن من، چیست حالت؟\r\nچو دیوانه که از می مست گردد\r\nچو در گیسو گره بندی، بسا دل\r\nکه اقطاع ترا دربست گردد\r\nدلی کز سنگ صد بار آهنین تر\r\nز یک پیکان چشمت پست گردد\r\nببین در جان من، مخرام، جانا\r\nکه دیده زیر پایت پست گردد\r\nاگر خامه کند وصف جمالت\r\nکه خسرو را قلم در دست گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بتی کز دیدنش جان مست گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درون جان من پیوست گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگو کز دیدن من، چیست حالت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو دیوانه که از می مست گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو در گیسو گره بندی، بسا دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که اقطاع ترا دربست گردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دلی کز سنگ صد بار آهنین تر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز یک پیکان چشمت پست گردد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ببین در جان من، مخرام، جانا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که دیده زیر پایت پست گردد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "اگر خامه کند وصف جمالت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که خسرو را قلم در دست گردد",
+      "CoupletIndex": 5
+    }
+  ]
+}

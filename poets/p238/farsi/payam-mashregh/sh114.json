@@ -1,0 +1,57 @@
+{
+  "Id": 13451,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۴ - گل رعنا چو من در مشکلی هست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۴ - گل رعنا چو من در مشکلی هست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل رعنا چو من در مشکلی هست\r\nگرفتار طلسم محفلی هست\r\nزبان برگ او گویا نکردند\r\nولی در سینهٔ چاکش دلی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل رعنا چو من در مشکلی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرفتار طلسم محفلی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زبان برگ او گویا نکردند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولی در سینهٔ چاکش دلی هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

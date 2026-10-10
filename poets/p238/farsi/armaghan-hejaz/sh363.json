@@ -1,0 +1,57 @@
+{
+  "Id": 14227,
+  "CatId": 1045,
+  "Title": "بخش ۳۶۲ - ندانی تا نباشی محرم مرد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶۲ - ندانی تا نباشی محرم مرد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh363",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh363",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندانی تا نباشی محرم مرد\r\nکه دلها زنده گردد از دم مرد\r\nنگهدارد زه و ناله خود را\r\nکه خود دار است چون مردان ، غم مرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندانی تا نباشی محرم مرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دلها زنده گردد از دم مرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگهدارد زه و ناله خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خود دار است چون مردان ، غم مرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

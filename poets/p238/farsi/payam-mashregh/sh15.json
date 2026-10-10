@@ -1,0 +1,57 @@
+{
+  "Id": 13352,
+  "CatId": 1041,
+  "Title": "بخش ۱۵ - تنی پیدا کن از مشت غباری",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۵ - تنی پیدا کن از مشت غباری",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تنی پیدا کن از مشت غباری\r\nتنی محکم تر از سنگین حصاری\r\nدرون او دل درد آشنائی\r\nچو جوئی در کنار کوهساری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنی پیدا کن از مشت غباری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنی محکم تر از سنگین حصاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درون او دل درد آشنائی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو جوئی در کنار کوهساری",
+      "CoupletIndex": 1
+    }
+  ]
+}

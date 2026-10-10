@@ -1,0 +1,45 @@
+{
+  "Id": 11281,
+  "CatId": 1034,
+  "Title": "بخش ۴ - آغاز اسکندر نامه",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » آیینه سکندری » بخش ۴ - آغاز اسکندر نامه",
+  "FullUrl": "/p38/farsi/gozide/ayeene-sekandari/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ayeene-sekandari/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان پادشاها خدایی تراست\r\nازل تا ابد پادشاهی تراست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان پادشاها خدایی تراست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازل تا ابد پادشاهی تراست",
+      "CoupletIndex": 0
+    }
+  ]
+}

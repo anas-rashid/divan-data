@@ -1,0 +1,57 @@
+{
+  "Id": 14232,
+  "CatId": 1045,
+  "Title": "بخش ۳۶۷ - ترا با خرقه و عمامه کاری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶۷ - ترا با خرقه و عمامه کاری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh368",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh368",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترا با خرقه و عمامه کاری\r\nمن از خود یافتم بوی نگاری\r\nهمین یک چوب نی سرمایهٔ من\r\nنه چوب منبری نی چوب داری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا با خرقه و عمامه کاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من از خود یافتم بوی نگاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همین یک چوب نی سرمایهٔ من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه چوب منبری نی چوب داری",
+      "CoupletIndex": 1
+    }
+  ]
+}

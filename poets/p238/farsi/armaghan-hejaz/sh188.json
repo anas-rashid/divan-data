@@ -1,0 +1,57 @@
+{
+  "Id": 14052,
+  "CatId": 1045,
+  "Title": "بخش ۱۸۷ - ز قرآن پیش خود آئینه آویز!",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۸۷ - ز قرآن پیش خود آئینه آویز!",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز قرآن پیش خود آئینه آویز\r\nدگرگون گشته‌ای از خویش بگریز\r\nترازویی بنه کردار خود را\r\nقیامتهای پیشین را برانگیز",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز قرآن پیش خود آئینه آویز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دگرگون گشته‌ای از خویش بگریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترازویی بنه کردار خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قیامتهای پیشین را برانگیز",
+      "CoupletIndex": 1
+    }
+  ]
+}

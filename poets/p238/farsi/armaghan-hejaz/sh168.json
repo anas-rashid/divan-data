@@ -1,0 +1,57 @@
+{
+  "Id": 14032,
+  "CatId": 1045,
+  "Title": "بخش ۱۶۷ - مسلمان از خودی مرد تمام است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۶۷ - مسلمان از خودی مرد تمام است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh168",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh168",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمان از خودی مرد تمام است\r\nبخاکش تا خودی میرد غلام است\r\nاگر خود را متاع خویش دانی\r\nنگه را جز بخود بستن حرام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمان از خودی مرد تمام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخاکش تا خودی میرد غلام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر خود را متاع خویش دانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگه را جز بخود بستن حرام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14639,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/p266/farsi/divan/robaee/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "او راست اگر هزار چیزم بخشند\r\nاو راست اگر بهشت نیزم بخشند\r\nبر دوست فدا کنم به صد گونه نشاط\r\nجانی که به روز رستخیزم بخشند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "او راست اگر هزار چیزم بخشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او راست اگر بهشت نیزم بخشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر دوست فدا کنم به صد گونه نشاط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانی که به روز رستخیزم بخشند",
+      "CoupletIndex": 1
+    }
+  ]
+}

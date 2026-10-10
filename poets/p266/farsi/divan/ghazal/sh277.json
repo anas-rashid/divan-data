@@ -1,0 +1,153 @@
+{
+  "Id": 14534,
+  "CatId": 1048,
+  "Title": "شمارهٔ ۲۷۷",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۷۷",
+  "FullUrl": "/p266/farsi/divan/ghazal/sh277",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/ghazal/sh277",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شمع رود شب همه شب دود ز سرمان\r\nزین گونه کرا روز به سر رفت؟ مگرمان\r\nآذر بپرستیم و رخ از شعله نتابیم\r\nای خوانده به سوی خود ازین راهگذرمان\r\nدر عشق تو ضرب المثل راهروانیم\r\nبگذار به ره خفته و از بیشه مبرمان\r\nاز بی خردی کوی ترا خلد شمردیم\r\nچونست که در کوی تو ره نیست دگرمان\r\nمستیم بیا تن زن و لب بر لب ما نه\r\nحاشا که بود تفرقه لب ز شکرمان\r\nطول شب هجران بود اندر حق ما خاص\r\nاز همنفسان کس نشناسد به سحرمان\r\nبی وجه می آشفته و خواریم بدا ما\r\nدر میکده از ما نستانند اگرمان\r\nاز ارزش ما بی هنران مانده شگفتی\r\nدر بند غم انداخته گردون به هنرمان\r\nچون تازگی حوصله خویش نداند\r\nداند که بود ناله به امید اثرمان\r\nغالب چه زیان ناله اگر گرمروی کرد\r\nسوزی به دل اندر نه و داغی به جگرمان",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع رود شب همه شب دود ز سرمان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین گونه کرا روز به سر رفت؟ مگرمان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آذر بپرستیم و رخ از شعله نتابیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای خوانده به سوی خود ازین راهگذرمان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در عشق تو ضرب المثل راهروانیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بگذار به ره خفته و از بیشه مبرمان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از بی خردی کوی ترا خلد شمردیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چونست که در کوی تو ره نیست دگرمان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مستیم بیا تن زن و لب بر لب ما نه",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "حاشا که بود تفرقه لب ز شکرمان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "طول شب هجران بود اندر حق ما خاص",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از همنفسان کس نشناسد به سحرمان",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بی وجه می آشفته و خواریم بدا ما",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در میکده از ما نستانند اگرمان",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از ارزش ما بی هنران مانده شگفتی",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "در بند غم انداخته گردون به هنرمان",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چون تازگی حوصله خویش نداند",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "داند که بود ناله به امید اثرمان",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "غالب چه زیان ناله اگر گرمروی کرد",
+      "CoupletIndex": 9
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "سوزی به دل اندر نه و داغی به جگرمان",
+      "CoupletIndex": 9
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13610,
+  "CatId": 1041,
+  "Title": "بخش ۲۷۳ - هگل",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷۳ - هگل",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حکمتش معقول و با محسوس در خلوت نرفت\r\nگرچه بکر فکر او پیرایه پوشد چون عروس\r\nطایر عقل فلک پرواز او دانی که چیست؟\r\n«ماکیان کز زور مستی خایه گیرد بی خروس»",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حکمتش معقول و با محسوس در خلوت نرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرچه بکر فکر او پیرایه پوشد چون عروس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طایر عقل فلک پرواز او دانی که چیست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "«ماکیان کز زور مستی خایه گیرد بی خروس»",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14186,
+  "CatId": 1045,
+  "Title": "بخش ۳۲۱ - خودی روشن ز نور کبریائی است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۲۱ - خودی روشن ز نور کبریائی است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh322",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh322",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خودی روشن ز نور کبریائی است\r\nرسائی های او از نارسائی است\r\nجدائی از مقامات وصالش\r\nوصالش از مقامات جدائی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خودی روشن ز نور کبریائی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رسائی های او از نارسائی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جدائی از مقامات وصالش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصالش از مقامات جدائی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

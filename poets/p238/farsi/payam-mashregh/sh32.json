@@ -1,0 +1,57 @@
+{
+  "Id": 13369,
+  "CatId": 1041,
+  "Title": "بخش ۳۲ - ز مرغان چمن نا آشنایم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۲ - ز مرغان چمن نا آشنایم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز مرغان چمن نا آشنایم\r\nبه شاخ آشیان تنها سرایم\r\nاگر نازک دلی از من کران گیر\r\nکه خونم می تراود از نوایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز مرغان چمن نا آشنایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به شاخ آشیان تنها سرایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر نازک دلی از من کران گیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خونم می تراود از نوایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

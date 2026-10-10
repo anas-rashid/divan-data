@@ -1,0 +1,93 @@
+{
+  "Id": 11392,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خط خوش از مشک تر انگیخته مه را\r\nبر دفتر طاعت رقمی رانده گنه را\r\nافگند دل ما همه در چاه زنخدان\r\nوانگاه بپوشید به سبزه سر چه را\r\nهر چند که زلف تو سپاهیست جهانگیر\r\nهر روز پریشان نتوان کرد سپه را\r\nپیراهن یک شهر ز دست تو قبا شد\r\nیک بار چنین کج منه، ای شوخ، کله را\r\nخسرو نگرفت از تب عشق تو قراری\r\nچه جای قرارست در آتشکده که را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خط خوش از مشک تر انگیخته مه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دفتر طاعت رقمی رانده گنه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افگند دل ما همه در چاه زنخدان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگاه بپوشید به سبزه سر چه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر چند که زلف تو سپاهیست جهانگیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر روز پریشان نتوان کرد سپه را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پیراهن یک شهر ز دست تو قبا شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک بار چنین کج منه، ای شوخ، کله را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو نگرفت از تب عشق تو قراری",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه جای قرارست در آتشکده که را",
+      "CoupletIndex": 4
+    }
+  ]
+}

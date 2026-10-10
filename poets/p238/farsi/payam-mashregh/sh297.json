@@ -1,0 +1,45 @@
+{
+  "Id": 13634,
+  "CatId": 1041,
+  "Title": "بخش ۲۹۷ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹۷ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندارد کار با دون همتان عشق\r\nتذرو مرده را شاهین نگیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندارد کار با دون همتان عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تذرو مرده را شاهین نگیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

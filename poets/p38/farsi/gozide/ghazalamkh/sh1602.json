@@ -1,0 +1,141 @@
+{
+  "Id": 12886,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۶۰۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۰۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1602",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1602",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روی ترش کرده به یاران مبین\r\nسرکه فروشی مکن، ای انگبین\r\nچاه مزن زیر لب چون سمن\r\nرخنه مکن در شکم یاسمین\r\nروی زمین را تویی آب حیات\r\nتشنه ز تو هر که به روی زمین\r\nزلف که شد طوق گلوی تو، کرد\r\nسلسله در گردن ماء معین\r\nبی گنهی چشم ز ما برمگیر\r\nبی سببی چهره ز ما در مچین\r\nلیک از آن چشم کمین می کنی\r\nدیده بد نیز ببین در کمین\r\nپای برین دیده پر خون منه\r\nبیهده در خون و دلم در مشین\r\nای که ز روی تو جهان روشن است\r\nآه من سوخته را هم ببین\r\nخسرو آخر چو سگ از خود مران\r\nچند چو رو به کنیم پوستین",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روی ترش کرده به یاران مبین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرکه فروشی مکن، ای انگبین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چاه مزن زیر لب چون سمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رخنه مکن در شکم یاسمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روی زمین را تویی آب حیات",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تشنه ز تو هر که به روی زمین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زلف که شد طوق گلوی تو، کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سلسله در گردن ماء معین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی گنهی چشم ز ما برمگیر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بی سببی چهره ز ما در مچین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "لیک از آن چشم کمین می کنی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دیده بد نیز ببین در کمین",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پای برین دیده پر خون منه",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بیهده در خون و دلم در مشین",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ای که ز روی تو جهان روشن است",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "آه من سوخته را هم ببین",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "خسرو آخر چو سگ از خود مران",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چند چو رو به کنیم پوستین",
+      "CoupletIndex": 8
+    }
+  ]
+}

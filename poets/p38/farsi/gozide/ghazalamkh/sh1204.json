@@ -1,0 +1,93 @@
+{
+  "Id": 12488,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۰۴",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۰۴",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیده را زان سبزه نو رسته نوروزی ببخش\r\nسینه را زان غمزه خون خواره دلدوزی ببخش\r\nیک طرف بنما ز روی و یک گره بگشا ز زلف\r\nمرده ام، از زندگانی یک شبانروزی ببخش\r\nاز پس سالی نمودی رو، مکش تا بنگرم\r\nور حقیقت خواهیم کشتن، یک امروزی ببخش\r\nخامی آن کس که دید آن روی چون آتش نسوخت\r\nیارب، افسرده دلان را در جگر سوزی ببخش\r\nگر بد آموزی کند چشمت که بستان جان خلق\r\nجان خسرو را علی الرغم بدآموزی ببخش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیده را زان سبزه نو رسته نوروزی ببخش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سینه را زان غمزه خون خواره دلدوزی ببخش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک طرف بنما ز روی و یک گره بگشا ز زلف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرده ام، از زندگانی یک شبانروزی ببخش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از پس سالی نمودی رو، مکش تا بنگرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ور حقیقت خواهیم کشتن، یک امروزی ببخش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خامی آن کس که دید آن روی چون آتش نسوخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یارب، افسرده دلان را در جگر سوزی ببخش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر بد آموزی کند چشمت که بستان جان خلق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جان خسرو را علی الرغم بدآموزی ببخش",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14071,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۶ - چه خوش زد ترک ملاحی سرودی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۶ - چه خوش زد ترک ملاحی سرودی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh207",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh207",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه خوش زد ترک ملاحی سرودی\r\nرخ او احمری چشمش کبودی\r\nبه دریا گر گره افتد به کارم\r\nبجز طوفان نمیخواهم گشودی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه خوش زد ترک ملاحی سرودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخ او احمری چشمش کبودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دریا گر گره افتد به کارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بجز طوفان نمیخواهم گشودی",
+      "CoupletIndex": 1
+    }
+  ]
+}

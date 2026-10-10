@@ -1,0 +1,57 @@
+{
+  "Id": 14175,
+  "CatId": 1045,
+  "Title": "بخش ۳۱۰ - دلن بحر است کو ساحل نورزد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۱۰ - دلن بحر است کو ساحل نورزد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh311",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh311",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلن بحر است کو ساحل نورزد\r\nنهنگ از هیبت موجش بلرزد\r\nازن سیلی که صد هامون بگیرد\r\nفلک با یک حباب او نیرزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلن بحر است کو ساحل نورزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نهنگ از هیبت موجش بلرزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازن سیلی که صد هامون بگیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فلک با یک حباب او نیرزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

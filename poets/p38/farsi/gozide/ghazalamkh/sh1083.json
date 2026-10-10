@@ -1,0 +1,93 @@
+{
+  "Id": 12367,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰۸۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۸۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1083",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1083",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای به تپیدن از تو دل، هوش که می بری مبر\r\nوی به خرابی از تو جان، باده که می خوری مخور\r\nخوردن غم ز دل بود، چند به خلق غم دهی\r\nگر غرض اینست، از کسان دل که همی بری مبر\r\nکبک روانی و رهت هست درون سینه ها\r\nدانه دل بخور، ولی دور که می پری مپر\r\nشاه بتانی و بتان بنده تو ز بنده کم\r\nغاشیه نه به فرق شان، بنده که می خری مخر\r\nخسرو خسته را ز تو پرده دل دریده شد\r\nیار، از آن دیگران پرده که می دری مدر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای به تپیدن از تو دل، هوش که می بری مبر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی به خرابی از تو جان، باده که می خوری مخور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوردن غم ز دل بود، چند به خلق غم دهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر غرض اینست، از کسان دل که همی بری مبر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کبک روانی و رهت هست درون سینه ها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دانه دل بخور، ولی دور که می پری مپر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شاه بتانی و بتان بنده تو ز بنده کم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غاشیه نه به فرق شان، بنده که می خری مخر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو خسته را ز تو پرده دل دریده شد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یار، از آن دیگران پرده که می دری مدر",
+      "CoupletIndex": 4
+    }
+  ]
+}

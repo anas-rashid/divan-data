@@ -1,0 +1,141 @@
+{
+  "Id": 13053,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۶۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۶۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1769",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1769",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به باغ سایه ابرست و آب در سایه\r\nازین سبب من و جانان و خواب در سایه\r\nبه سایه خفته بدم دی که یارم آمد و گفت\r\nچه خفته ای که رسید آفتاب در سایه\r\nفروغ روی تو تیزست، زلف بر لب نوش\r\nز آفتاب نهد آن شراب در سایه\r\nمه منی و دل از روی تو به خط زان رفت\r\nکه سوخته رود از ماهتاب در سایه\r\nکنون چو باد بیاید پیش از صبح\r\nبه گلشنی که درو باشد آب در سایه\r\nبه بانگ چنگ مگر ساقیم کند بیدار\r\nچو خفته باشم مست و خراب در سایه\r\nبه بوستان منم امروز مجلسی و گلی\r\nروانه کرده میی چون گلاب در سایه\r\nدر آفتاب همین ساقی است از رخ خویش\r\nدگر صراحی و نقل و شراب در سایه\r\nهوای گرم و تو نازک، برون مرو، جانا\r\nبنوش با من میهای ناب در سایه",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به باغ سایه ابرست و آب در سایه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازین سبب من و جانان و خواب در سایه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به سایه خفته بدم دی که یارم آمد و گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه خفته ای که رسید آفتاب در سایه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فروغ روی تو تیزست، زلف بر لب نوش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز آفتاب نهد آن شراب در سایه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مه منی و دل از روی تو به خط زان رفت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که سوخته رود از ماهتاب در سایه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کنون چو باد بیاید پیش از صبح",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به گلشنی که درو باشد آب در سایه",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به بانگ چنگ مگر ساقیم کند بیدار",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چو خفته باشم مست و خراب در سایه",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به بوستان منم امروز مجلسی و گلی",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "روانه کرده میی چون گلاب در سایه",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در آفتاب همین ساقی است از رخ خویش",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "دگر صراحی و نقل و شراب در سایه",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "هوای گرم و تو نازک، برون مرو، جانا",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بنوش با من میهای ناب در سایه",
+      "CoupletIndex": 8
+    }
+  ]
+}

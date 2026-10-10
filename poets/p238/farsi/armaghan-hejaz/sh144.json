@@ -1,0 +1,57 @@
+{
+  "Id": 14009,
+  "CatId": 1045,
+  "Title": "بخش ۱۴۴ - که گفت او را که آید بوی یاری؟",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۴۴ - که گفت او را که آید بوی یاری؟",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "که گفت او را که آید بوی یاری؟\r\nکه داد او را امید نوبهاری؟\r\nچون آن سوز کهن رفت از دم او\r\nکه زد بر نیستان او شراری؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "که گفت او را که آید بوی یاری؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که داد او را امید نوبهاری؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آن سوز کهن رفت از دم او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که زد بر نیستان او شراری؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

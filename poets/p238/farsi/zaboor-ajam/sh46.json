@@ -1,0 +1,57 @@
+{
+  "Id": 13683,
+  "CatId": 1042,
+  "Title": "بخش ۴۶ - این دل که مرا دادی لبریز یقین بادا",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۴۶ - این دل که مرا دادی لبریز یقین بادا",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این دل که مرا دادی لبریز یقین بادا\r\nاین جام جهان بینم روشن تر ازین بادا\r\nتلخی که فرو ریزد گردون به سفال من\r\nدر کام کهن رندی آنهم شکرین بادا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این دل که مرا دادی لبریز یقین بادا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این جام جهان بینم روشن تر ازین بادا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تلخی که فرو ریزد گردون به سفال من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کام کهن رندی آنهم شکرین بادا",
+      "CoupletIndex": 1
+    }
+  ]
+}

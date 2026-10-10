@@ -1,0 +1,93 @@
+{
+  "Id": 12694,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۴۱۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۴۱۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1410",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1410",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تلخاب حسرت است هر آبی که من خورم\r\nخونابه دل است شرابی که من خورم\r\nاز خوردن جگر جگر من کباب شد\r\nنبود سزای خورد کبابی که من خورم\r\nهرگز نخوردم آب خوش خویش در جگر\r\nتیغ است بی تو قطره آبی که من خورم\r\nاز خون خورم به یاد لبت قطره ای که نیست\r\nطوفان آفت این می نابی که من خورم\r\nسنگ است خسرو، ار نه کجا طاقت آورد؟\r\nاز شعله های دل تف و تابی که من خورم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تلخاب حسرت است هر آبی که من خورم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونابه دل است شرابی که من خورم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خوردن جگر جگر من کباب شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبود سزای خورد کبابی که من خورم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هرگز نخوردم آب خوش خویش در جگر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تیغ است بی تو قطره آبی که من خورم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از خون خورم به یاد لبت قطره ای که نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "طوفان آفت این می نابی که من خورم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سنگ است خسرو، ار نه کجا طاقت آورد؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از شعله های دل تف و تابی که من خورم",
+      "CoupletIndex": 4
+    }
+  ]
+}

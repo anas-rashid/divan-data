@@ -1,0 +1,57 @@
+{
+  "Id": 13996,
+  "CatId": 1045,
+  "Title": "بخش ۱۳۱ - درین عالم بهشت خرمی هست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۳۱ - درین عالم بهشت خرمی هست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین عالم بهشت خرمی هست\r\nبشاخ او ز اشک من نمی هست\r\nنصیب او هنوز آن های و هو نیست\r\nکه او در انتظار آدمی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین عالم بهشت خرمی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشاخ او ز اشک من نمی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نصیب او هنوز آن های و هو نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که او در انتظار آدمی هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

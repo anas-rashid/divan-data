@@ -1,0 +1,57 @@
+{
+  "Id": 13488,
+  "CatId": 1041,
+  "Title": "بخش ۱۵۱ - قبای زندگانی چاک تا کی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۵۱ - قبای زندگانی چاک تا کی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh151",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh151",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قبای زندگانی چاک تا کی\r\nچو موران آشیان در خاک تا کی\r\nبپرواز آ و شاهینی بیاموز\r\nتلاش دانه در خاشاک تا کی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قبای زندگانی چاک تا کی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو موران آشیان در خاک تا کی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بپرواز آ و شاهینی بیاموز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلاش دانه در خاشاک تا کی",
+      "CoupletIndex": 1
+    }
+  ]
+}

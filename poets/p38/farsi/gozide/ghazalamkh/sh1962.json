@@ -1,0 +1,93 @@
+{
+  "Id": 13246,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹۶۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۶۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1962",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1962",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلی دارم، اما جز افگار نی\r\nغم از حد گذشته ست و غمخوار نی\r\nدل خویش خواهم سپردن به یار\r\nکه بیدل توان بود و بی یار نی\r\nنگارا، تماشا می کنم در خیال\r\nرخ تست دل سوی گلزار نی\r\nز خونم که چشمت چو من می خورد\r\nشبان روز مست است و هشیار نی\r\nترا کارگر کرد حسن و مرا\r\nبجز خوردن غم دگر کار نی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلی دارم، اما جز افگار نی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم از حد گذشته ست و غمخوار نی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل خویش خواهم سپردن به یار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بیدل توان بود و بی یار نی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نگارا، تماشا می کنم در خیال",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رخ تست دل سوی گلزار نی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز خونم که چشمت چو من می خورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شبان روز مست است و هشیار نی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ترا کارگر کرد حسن و مرا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بجز خوردن غم دگر کار نی",
+      "CoupletIndex": 4
+    }
+  ]
+}

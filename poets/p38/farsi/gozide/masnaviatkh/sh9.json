@@ -1,0 +1,57 @@
+{
+  "Id": 11102,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۹ - محض به سخن شناسان حق خورده گیری را قایل است:",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۹ - محض به سخن شناسان حق خورده گیری را قایل است:",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن که شناسندهٔ این گوهرست\r\nگر همه نفرین کندم در خورست\r\nوان که به تقلید نشست اندر این\r\nنشنوم، ار خود کندم آفرین !",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن که شناسندهٔ این گوهرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر همه نفرین کندم در خورست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وان که به تقلید نشست اندر این",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشنوم، ار خود کندم آفرین !",
+      "CoupletIndex": 1
+    }
+  ]
+}

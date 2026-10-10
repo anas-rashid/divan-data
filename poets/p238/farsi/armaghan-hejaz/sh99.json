@@ -1,0 +1,57 @@
+{
+  "Id": 13964,
+  "CatId": 1045,
+  "Title": "بخش ۹۹ - گهی افتم گهی مستانه خیزم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۹۹ - گهی افتم گهی مستانه خیزم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گهی افتم گهی مستانه خیزم\r\nچو خون بی تیغ و شمشیری بریزم\r\nنگاه التفاتی بر سر بام\r\nکه من با عصر خویش اندر ستیزم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گهی افتم گهی مستانه خیزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو خون بی تیغ و شمشیری بریزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگاه التفاتی بر سر بام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من با عصر خویش اندر ستیزم",
+      "CoupletIndex": 1
+    }
+  ]
+}

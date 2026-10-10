@@ -1,0 +1,57 @@
+{
+  "Id": 14001,
+  "CatId": 1045,
+  "Title": "بخش ۱۳۶ - درین بتخانه دل با کس نبستم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۳۶ - درین بتخانه دل با کس نبستم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh136",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh136",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین بتخانه دل با کس نبستم\r\nولیکن از مقام خود گسستم\r\nز من امروز میخواهد سجودی\r\nخداوندی که دی او را شکستم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین بتخانه دل با کس نبستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولیکن از مقام خود گسستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز من امروز میخواهد سجودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خداوندی که دی او را شکستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

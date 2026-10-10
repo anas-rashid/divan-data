@@ -1,0 +1,57 @@
+{
+  "Id": 13367,
+  "CatId": 1041,
+  "Title": "بخش ۳۰ - زیان بینی ز سیر بوستانم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۳۰ - زیان بینی ز سیر بوستانم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زیان بینی ز سیر بوستانم\r\nاگر جانت شهید جستجو نیست\r\nنمایم آنچه هست اندر رگ گل\r\nبهار من طلسم رنگ و بو نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زیان بینی ز سیر بوستانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر جانت شهید جستجو نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمایم آنچه هست اندر رگ گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهار من طلسم رنگ و بو نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

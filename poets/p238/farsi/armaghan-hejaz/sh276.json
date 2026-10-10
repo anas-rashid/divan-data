@@ -1,0 +1,57 @@
+{
+  "Id": 14140,
+  "CatId": 1045,
+  "Title": "بخش ۲۷۵ - تو در دریا نئی او در بر تست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۷۵ - تو در دریا نئی او در بر تست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh276",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh276",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو در دریا نئی او در بر تست\r\nبه طوفان در فتادن جوهر تست \r\nچو یک دم از تلاطم ها بیاسود\r\nهمین دریای تو غارتگر تست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو در دریا نئی او در بر تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به طوفان در فتادن جوهر تست ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو یک دم از تلاطم ها بیاسود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همین دریای تو غارتگر تست",
+      "CoupletIndex": 1
+    }
+  ]
+}

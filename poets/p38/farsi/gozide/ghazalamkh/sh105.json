@@ -1,0 +1,93 @@
+{
+  "Id": 11389,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بگشاد صبح عید ز رخ چون نقاب را\r\nبنمود ساقی آن رخ چون آفتاب را\r\nاینک رسید وقت که مردان آب کار\r\nگردان کنند هر طرفی کار آب را\r\nساقی، ازان دو چشم که در بند خفتن است\r\nصد چشم بندی است که آموخت خواب را\r\nعید مبارک آمد و از بهر دوستان\r\nساقی نکرد شیشه پر و زد گلاب را\r\nمطرب به پرده ای که تو داری بگو به چنگ\r\nکای پیر کوژپشت چه کردی شراب را؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگشاد صبح عید ز رخ چون نقاب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنمود ساقی آن رخ چون آفتاب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اینک رسید وقت که مردان آب کار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردان کنند هر طرفی کار آب را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساقی، ازان دو چشم که در بند خفتن است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صد چشم بندی است که آموخت خواب را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عید مبارک آمد و از بهر دوستان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ساقی نکرد شیشه پر و زد گلاب را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مطرب به پرده ای که تو داری بگو به چنگ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کای پیر کوژپشت چه کردی شراب را؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

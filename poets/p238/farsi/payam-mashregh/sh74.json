@@ -1,0 +1,57 @@
+{
+  "Id": 13411,
+  "CatId": 1041,
+  "Title": "بخش ۷۴ - دماغم کافر زنار دار است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۴ - دماغم کافر زنار دار است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دماغم کافر زنار دار است\r\nبتان را بنده و پروردگار است\r\nدلم را بین که نالد از غم عشق\r\nترا با دین و آئینم چه کار است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دماغم کافر زنار دار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بتان را بنده و پروردگار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلم را بین که نالد از غم عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترا با دین و آئینم چه کار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

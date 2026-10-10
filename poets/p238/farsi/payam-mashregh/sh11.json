@@ -1,0 +1,57 @@
+{
+  "Id": 13348,
+  "CatId": 1041,
+  "Title": "بخش ۱۱ - جهان ما که نابود است بودش",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱ - جهان ما که نابود است بودش",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان ما که نابود است بودش\r\nزیان توام همی زاید بسودش\r\nکهن را نو کن و طرح دگر ریز\r\nدل ما بر نتابد دیر و زودش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان ما که نابود است بودش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیان توام همی زاید بسودش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کهن را نو کن و طرح دگر ریز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل ما بر نتابد دیر و زودش",
+      "CoupletIndex": 1
+    }
+  ]
+}

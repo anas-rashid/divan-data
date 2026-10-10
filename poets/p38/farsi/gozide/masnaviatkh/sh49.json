@@ -1,0 +1,81 @@
+{
+  "Id": 11142,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۴۹ - دیگر صنایع بدیعی:",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۴۹ - دیگر صنایع بدیعی:",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستی او مایهٔ هشیاریش\r\nخفته همه خلق ز بیداریش\r\nکردی بزرگی به حق کهتران\r\nداد سبک جامه به قیمت گران\r\nاین همه بیداری ما خفتن ست\r\nکامدن ما ز پی رفتن ست\r\nاز پی نامی که مبادش امید،\r\nنامه سیه کردی و دیده سپید!",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستی او مایهٔ هشیاریش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خفته همه خلق ز بیداریش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردی بزرگی به حق کهتران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داد سبک جامه به قیمت گران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این همه بیداری ما خفتن ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کامدن ما ز پی رفتن ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از پی نامی که مبادش امید،",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نامه سیه کردی و دیده سپید!",
+      "CoupletIndex": 3
+    }
+  ]
+}

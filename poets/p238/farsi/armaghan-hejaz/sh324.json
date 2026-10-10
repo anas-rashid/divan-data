@@ -1,0 +1,57 @@
+{
+  "Id": 14188,
+  "CatId": 1045,
+  "Title": "بخش ۳۲۳ - خودی را از وجود حق وجودی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۲۳ - خودی را از وجود حق وجودی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh324",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh324",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خودی را از وجود حق وجودی\r\nخودی را از نمود حق نمودی\r\nنمی دانم که این تابنده گوهر\r\nکجا بودی اگر دریا نبودی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خودی را از وجود حق وجودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خودی را از نمود حق نمودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی دانم که این تابنده گوهر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کجا بودی اگر دریا نبودی",
+      "CoupletIndex": 1
+    }
+  ]
+}

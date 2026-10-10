@@ -1,0 +1,117 @@
+{
+  "Id": 12096,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۱۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۱۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh812",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh812",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل به تماشای چمن می رود\r\nباد به گلگشت سمن می رود\r\nآینه گشته ست ز عکس سمن\r\nآب که در زیر سمن می رود\r\nدوش شنیدم که به هر مجلسی\r\nاز دهن غنچه سخن می رود\r\nوقت بهار آمد و ایام گل\r\nآه که یار از بر من می رود\r\nراحت روح است رخش، چون کنم\r\nروح دل و راحت تن می رود\r\nعهد شکسته ست و به هنگام صبر\r\nآن صنم عهد شکن می رود\r\nخسرو دلسوخته را در غمش\r\nعمر در اندوه و حزن می رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل به تماشای چمن می رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد به گلگشت سمن می رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آینه گشته ست ز عکس سمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب که در زیر سمن می رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دوش شنیدم که به هر مجلسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از دهن غنچه سخن می رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وقت بهار آمد و ایام گل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آه که یار از بر من می رود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "راحت روح است رخش، چون کنم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روح دل و راحت تن می رود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عهد شکسته ست و به هنگام صبر",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آن صنم عهد شکن می رود",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "خسرو دلسوخته را در غمش",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "عمر در اندوه و حزن می رود",
+      "CoupletIndex": 6
+    }
+  ]
+}

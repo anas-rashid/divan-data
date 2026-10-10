@@ -1,0 +1,81 @@
+{
+  "Id": 11960,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۶۷۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۶۷۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh676",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh676",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من نمی خواهم که چشمم غیر آن رو بنگرد\r\nچشم بد حیف است کاندر روی نیکو بنگرد\r\nحاجت تیر و کمان نبود، فتد مرغ از هوا\r\nیا شب اندر روزن آید ماه و آن رو بنگرد\r\nباد در چشمش ز تیر غمزه میل آتشین\r\nهر که در رویت به نقصان یک سر مو بنگرد\r\nحرز بازو کرد خسرو نام میمون ترا\r\nشوق چون غالب شود در حرز بازو بنگرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من نمی خواهم که چشمم غیر آن رو بنگرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم بد حیف است کاندر روی نیکو بنگرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حاجت تیر و کمان نبود، فتد مرغ از هوا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا شب اندر روزن آید ماه و آن رو بنگرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "باد در چشمش ز تیر غمزه میل آتشین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر که در رویت به نقصان یک سر مو بنگرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حرز بازو کرد خسرو نام میمون ترا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شوق چون غالب شود در حرز بازو بنگرد",
+      "CoupletIndex": 3
+    }
+  ]
+}

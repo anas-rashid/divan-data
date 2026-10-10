@@ -1,0 +1,57 @@
+{
+  "Id": 14137,
+  "CatId": 1045,
+  "Title": "بخش ۲۷۲ - پریدن از سر بامی به بامی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۷۲ - پریدن از سر بامی به بامی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پریدن از سر بامی به بامی\r\nنبخشد جره بازان را مقامی\r\nز نخچیری که جز مشت پری نیست\r\nهمان بهتر که میری درکنامی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریدن از سر بامی به بامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نبخشد جره بازان را مقامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز نخچیری که جز مشت پری نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همان بهتر که میری درکنامی",
+      "CoupletIndex": 1
+    }
+  ]
+}

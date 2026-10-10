@@ -1,0 +1,57 @@
+{
+  "Id": 14197,
+  "CatId": 1045,
+  "Title": "بخش ۳۳۲ - جهان تا از عدم بیرون کشیدند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۳۲ - جهان تا از عدم بیرون کشیدند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh333",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh333",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان تا از عدم بیرون کشیدند\r\nضمیرش سرد و بی هنگامه دیدند\r\nبغیر از جان ما سوزی کجا بود\r\nتو را از آتش ما آفریدند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان تا از عدم بیرون کشیدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ضمیرش سرد و بی هنگامه دیدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بغیر از جان ما سوزی کجا بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو را از آتش ما آفریدند",
+      "CoupletIndex": 1
+    }
+  ]
+}

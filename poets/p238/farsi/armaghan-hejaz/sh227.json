@@ -1,0 +1,57 @@
+{
+  "Id": 14091,
+  "CatId": 1045,
+  "Title": "بخش ۲۲۶ - پریشانم چو گرد ره گذاری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۲۶ - پریشانم چو گرد ره گذاری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh227",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh227",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پریشانم چو گرد ره گذاری\r\nکه بر دوش هوا گیرد قراری\r\nخوشا بختی و خرم روزگاری\r\nکه بیرون آید از من شهسواری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریشانم چو گرد ره گذاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بر دوش هوا گیرد قراری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوشا بختی و خرم روزگاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بیرون آید از من شهسواری",
+      "CoupletIndex": 1
+    }
+  ]
+}

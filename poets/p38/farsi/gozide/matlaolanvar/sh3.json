@@ -1,0 +1,105 @@
+{
+  "Id": 11196,
+  "CatId": 1031,
+  "Title": "بخش ۳ - وصف سخن",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مطلع‌الانوار » بخش ۳ - وصف سخن",
+  "FullUrl": "/p38/farsi/gozide/matlaolanvar/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/matlaolanvar/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چه درین چره کهن ساختند\r\nقالبی از بهر سخن ساختند\r\nلیک نیفتاد به روی ز می\r\nقالب این سکه به از آدمی\r\nزنده به جز آدمیان نیست کس\r\nکادمی از ناطقه زنده است و بس\r\nپس چو چنین است سخن جان ماست\r\nوانکه بد و زنده بود زان ماست\r\nاین خرد و نطق که زان تواند\r\nهر دو به هم شیرهٔ جان تواند\r\nگر به خرد گنج نهان داده‌اند\r\nلیک کلیدش به زبان داده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چه درین چره کهن ساختند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قالبی از بهر سخن ساختند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیک نیفتاد به روی ز می",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قالب این سکه به از آدمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زنده به جز آدمیان نیست کس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کادمی از ناطقه زنده است و بس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پس چو چنین است سخن جان ماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وانکه بد و زنده بود زان ماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "این خرد و نطق که زان تواند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر دو به هم شیرهٔ جان تواند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گر به خرد گنج نهان داده‌اند",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "لیک کلیدش به زبان داده‌اند",
+      "CoupletIndex": 5
+    }
+  ]
+}

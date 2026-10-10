@@ -1,0 +1,57 @@
+{
+  "Id": 13987,
+  "CatId": 1045,
+  "Title": "بخش ۱۲۲ - همان سوز جنون اندر سر من",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۲۲ - همان سوز جنون اندر سر من",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همان سوز جنون اندر سر من\r\nهمان هنگامه ها اندر بر من\r\nهنوز از جوش طوفانی که بگذشت \r\nنیاسود است موج گوهر من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همان سوز جنون اندر سر من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همان هنگامه ها اندر بر من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنوز از جوش طوفانی که بگذشت ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نیاسود است موج گوهر من",
+      "CoupletIndex": 1
+    }
+  ]
+}

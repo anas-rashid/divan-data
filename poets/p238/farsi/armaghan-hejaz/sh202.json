@@ -1,0 +1,57 @@
+{
+  "Id": 14066,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۱ - تو ای باد بیابان از عرب خیز",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۱ - تو ای باد بیابان از عرب خیز",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh202",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh202",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو ای باد بیابان از عرب خیز\r\nز نیل مصریان موجی برانگیز\r\nبگو فاروق را پیغام فاروق\r\nکه خود در فقر و سلطانی بیامیز",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو ای باد بیابان از عرب خیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز نیل مصریان موجی برانگیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگو فاروق را پیغام فاروق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خود در فقر و سلطانی بیامیز",
+      "CoupletIndex": 1
+    }
+  ]
+}

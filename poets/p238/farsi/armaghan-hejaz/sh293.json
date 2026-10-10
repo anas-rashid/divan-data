@@ -1,0 +1,57 @@
+{
+  "Id": 14157,
+  "CatId": 1045,
+  "Title": "بخش ۲۹۲ - مرا یاد است از دانای افرنگ",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۹۲ - مرا یاد است از دانای افرنگ",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا یاد است از دانای افرنگ\r\nبسا رازی که از بود و عدم گفت\r\nولیکن با تو گویم این دو حرفی\r\nکه با من پیر مردی از عجم گفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا یاد است از دانای افرنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسا رازی که از بود و عدم گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن با تو گویم این دو حرفی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که با من پیر مردی از عجم گفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

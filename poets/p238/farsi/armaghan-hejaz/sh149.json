@@ -1,0 +1,57 @@
+{
+  "Id": 14014,
+  "CatId": 1045,
+  "Title": "بخش ۱۴۹ - هنوز این خاک دارای شرر هست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۴۹ - هنوز این خاک دارای شرر هست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh149",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh149",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هنوز این خاک دارای شرر هست\r\nهنوز این سینه را آه سحر هست\r\nتجلی ریز بر چشمم که بینی\r\nباین پیری مرا تاب نظر هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هنوز این خاک دارای شرر هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنوز این سینه را آه سحر هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تجلی ریز بر چشمم که بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باین پیری مرا تاب نظر هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

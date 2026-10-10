@@ -1,0 +1,57 @@
+{
+  "Id": 13916,
+  "CatId": 1045,
+  "Title": "بخش ۵۱ - نم اشک است در چشم سیاهش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۵۱ - نم اشک است در چشم سیاهش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نم اشک است در چشم سیاهش\r\nدلم سوزد ز آه صبحگاهش\r\nهمان می کو ضمیرم را برافروخت\r\nپیاپی ریزد از موج نگاهش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نم اشک است در چشم سیاهش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلم سوزد ز آه صبحگاهش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همان می کو ضمیرم را برافروخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیاپی ریزد از موج نگاهش",
+      "CoupletIndex": 1
+    }
+  ]
+}

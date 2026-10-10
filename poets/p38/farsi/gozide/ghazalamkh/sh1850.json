@@ -1,0 +1,81 @@
+{
+  "Id": 13134,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۸۵۰",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۵۰",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1850",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1850",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بختم از خواب در آمد چو تو با من خفتی\r\nنه در آغوش که در دیده روشن خفتی\r\nهر دمی گردی و در دیده ناخفته دوست\r\nدوستانه ز پی کوری دشمن خفتی\r\nیاد داری که شبی هر دو به بستان بودیم\r\nمن به خار و خس و تو در گل و گلشن خفتی\r\nاین چه عید است که خسرو ز تو قدری دریافت\r\nکه تو با او همه شب دست به گردن خفتی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بختم از خواب در آمد چو تو با من خفتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه در آغوش که در دیده روشن خفتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دمی گردی و در دیده ناخفته دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوستانه ز پی کوری دشمن خفتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یاد داری که شبی هر دو به بستان بودیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من به خار و خس و تو در گل و گلشن خفتی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این چه عید است که خسرو ز تو قدری دریافت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که تو با او همه شب دست به گردن خفتی",
+      "CoupletIndex": 3
+    }
+  ]
+}

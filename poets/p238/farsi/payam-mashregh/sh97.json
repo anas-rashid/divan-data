@@ -1,0 +1,57 @@
+{
+  "Id": 13434,
+  "CatId": 1041,
+  "Title": "بخش ۹۷ - دل بیباک را ضرغام رنگ است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۹۷ - دل بیباک را ضرغام رنگ است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل بیباک را ضرغام رنگ است\r\nدل ترسنده را آهو پلنگ است\r\nاگر بیمی نداری بحر صحراست\r\nاگر ترسی بهر موجش نهنگ است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل بیباک را ضرغام رنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل ترسنده را آهو پلنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر بیمی نداری بحر صحراست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر ترسی بهر موجش نهنگ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

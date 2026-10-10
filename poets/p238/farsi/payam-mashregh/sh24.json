@@ -1,0 +1,57 @@
+{
+  "Id": 13361,
+  "CatId": 1041,
+  "Title": "بخش ۲۴ - به کویش رهسپاری ای دل ای دل",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۴ - به کویش رهسپاری ای دل ای دل",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به کویش رهسپاری ای دل ای دل\r\nمرا تنها گذاری ای دل ای دل\r\nدمادم آرزوها آفرینی\r\nمگر کاری نداری ای دل ای دل",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به کویش رهسپاری ای دل ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا تنها گذاری ای دل ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دمادم آرزوها آفرینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگر کاری نداری ای دل ای دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13464,
+  "CatId": 1041,
+  "Title": "بخش ۱۲۷ - چه غم داری ، حیات دل ز دم نیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۲۷ - چه غم داری ، حیات دل ز دم نیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه غم داری ، حیات دل ز دم نیست\r\nکه دل در حلقه بود و عدم نیست\r\nمخور ای کم نظر اندیشهٔ مرگ\r\nاگر دم رفت دل باقی است غم نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه غم داری ، حیات دل ز دم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دل در حلقه بود و عدم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مخور ای کم نظر اندیشهٔ مرگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر دم رفت دل باقی است غم نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

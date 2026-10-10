@@ -1,0 +1,57 @@
+{
+  "Id": 13450,
+  "CatId": 1041,
+  "Title": "بخش ۱۱۳ - دل من رازدان جسم و جان است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۱۳ - دل من رازدان جسم و جان است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل من رازدان جسم و جان است\r\nنپنداری اجل بر من گران است\r\nچه غم گر یک جهان گم شد ز چشمم\r\nهنوز اندر ضمیرم صد جهان است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل من رازدان جسم و جان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نپنداری اجل بر من گران است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه غم گر یک جهان گم شد ز چشمم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هنوز اندر ضمیرم صد جهان است",
+      "CoupletIndex": 1
+    }
+  ]
+}

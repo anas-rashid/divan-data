@@ -1,0 +1,141 @@
+{
+  "Id": 12159,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۷۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۷۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh875",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh875",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتی دلت مرا شد و از من جدا نشد\r\nگو شو از آن هر که شود، گر مرا نشد\r\nخورشید من خیال تو از من گهی نرفت\r\nمانند سایه ای که ز مردم جدا نشد\r\nروزی صبا نرفت به کویت که هردمی\r\nصد جان پاک همره باد صبا نشد\r\nپرسی مرا که از چه چنین مبتلا شدی؟\r\nآن کیست کو بدین ترا مبتلا نشد؟\r\nبسیار داشتم دل آباد را خراب\r\nمانا رها شود تپش من، رها نشد\r\nدر گردن من، آن همه خونها که می کند\r\nخونریز ما که هیچ خدنگش خطا نشد\r\nدی گرم راند رخش بسی دیده خاک گشت\r\nبدبختیم که چشم منش زیر پا نشد\r\nکردم میان خون جگر آشنا بسی\r\nکان آشنای خون دلم آشنا نشد\r\nچشم وصال نیست در این چون رضای دوست\r\nشک خدا که حاجت خسرو روا نشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتی دلت مرا شد و از من جدا نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گو شو از آن هر که شود، گر مرا نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خورشید من خیال تو از من گهی نرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند سایه ای که ز مردم جدا نشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روزی صبا نرفت به کویت که هردمی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صد جان پاک همره باد صبا نشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پرسی مرا که از چه چنین مبتلا شدی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن کیست کو بدین ترا مبتلا نشد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بسیار داشتم دل آباد را خراب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مانا رها شود تپش من، رها نشد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در گردن من، آن همه خونها که می کند",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خونریز ما که هیچ خدنگش خطا نشد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دی گرم راند رخش بسی دیده خاک گشت",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بدبختیم که چشم منش زیر پا نشد",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کردم میان خون جگر آشنا بسی",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کان آشنای خون دلم آشنا نشد",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چشم وصال نیست در این چون رضای دوست",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "شک خدا که حاجت خسرو روا نشد",
+      "CoupletIndex": 8
+    }
+  ]
+}

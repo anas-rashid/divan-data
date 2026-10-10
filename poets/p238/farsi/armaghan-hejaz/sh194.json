@@ -1,0 +1,57 @@
+{
+  "Id": 14058,
+  "CatId": 1045,
+  "Title": "بخش ۱۹۳ - بگیر از ساغرشن لاله رنگی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۹۳ - بگیر از ساغرشن لاله رنگی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh194",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh194",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بگیر از ساغرشن لاله رنگی\r\nکه تاثیرش دهد لعلی به سنگی\r\nغزالی را دل شیری ببخشد\r\nبشوید داغ از پشت پلنگی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگیر از ساغرشن لاله رنگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که تاثیرش دهد لعلی به سنگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غزالی را دل شیری ببخشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بشوید داغ از پشت پلنگی",
+      "CoupletIndex": 1
+    }
+  ]
+}

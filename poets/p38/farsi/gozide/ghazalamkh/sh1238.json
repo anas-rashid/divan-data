@@ -1,0 +1,93 @@
+{
+  "Id": 12522,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۳۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۳۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من آن خاکم که در راه وفا رو بر زمین دارم\r\nز سودای بتان داغ غلامی بر جبین دارم\r\nز مردن غم ندارم، لیک روزی کز غمت میرم\r\nفراموشت شود از من به عالم غم، همین دارم\r\nفدا کردیم در عشقت دل و دین و ز من مانده\r\nهمین جانی که آن هم بهر روز واپسین دارم\r\nمرا گویند کاندر وصل او خوش باش، چون باشم؟\r\nکه چون هجران شبان روزی بلایی در کمین دارم\r\nبسی گفتند خسرو را دل از مهر بتان بر کن\r\nسخن نشنوده ام اکنون، نه دل دارم، نه دین دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من آن خاکم که در راه وفا رو بر زمین دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز سودای بتان داغ غلامی بر جبین دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز مردن غم ندارم، لیک روزی کز غمت میرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فراموشت شود از من به عالم غم، همین دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فدا کردیم در عشقت دل و دین و ز من مانده",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همین جانی که آن هم بهر روز واپسین دارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرا گویند کاندر وصل او خوش باش، چون باشم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که چون هجران شبان روزی بلایی در کمین دارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بسی گفتند خسرو را دل از مهر بتان بر کن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سخن نشنوده ام اکنون، نه دل دارم، نه دین دارم",
+      "CoupletIndex": 4
+    }
+  ]
+}

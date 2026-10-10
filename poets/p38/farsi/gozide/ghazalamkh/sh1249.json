@@ -1,0 +1,93 @@
+{
+  "Id": 12533,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۴۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۴۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1249",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1249",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو سر مستی و من عاشق، بیا تا با تو در غلتم\r\nز دست لعل تو تا چند در خون جگر غلتم\r\nبغلتم هر زمان در زیر پایت باز برخیزم\r\nچو رویت بنگرم بار دگر از پای در غلتم\r\nچنان گشته ست حال عیش من از تلخی هجران\r\nمگس بر من نیارد شست، اگر اندر شکر غلتم\r\nسرشکم گفت در وقتی که می غلتید بر رویم\r\nچو مروارید غلتانم که بر بالای زر غلتم\r\nبه کار عیش در خون دو چشم خویش می غلتم\r\nچه بهتر زان بود خسرو که در کار دگر غلتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو سر مستی و من عاشق، بیا تا با تو در غلتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز دست لعل تو تا چند در خون جگر غلتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بغلتم هر زمان در زیر پایت باز برخیزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو رویت بنگرم بار دگر از پای در غلتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چنان گشته ست حال عیش من از تلخی هجران",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگس بر من نیارد شست، اگر اندر شکر غلتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرشکم گفت در وقتی که می غلتید بر رویم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو مروارید غلتانم که بر بالای زر غلتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به کار عیش در خون دو چشم خویش می غلتم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه بهتر زان بود خسرو که در کار دگر غلتم",
+      "CoupletIndex": 4
+    }
+  ]
+}

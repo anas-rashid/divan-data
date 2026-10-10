@@ -1,0 +1,45 @@
+{
+  "Id": 11138,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۴۵ - نمونهٔ کامل صنایع لفظی و معنوی در اشعار قران السعدین ایجاز",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۴۵ - نمونهٔ کامل صنایع لفظی و معنوی در اشعار قران السعدین ایجاز",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر چه پدر بر سر تختش کشید\r\nشست و فرود آمد و پیشش دوید",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چه پدر بر سر تختش کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شست و فرود آمد و پیشش دوید",
+      "CoupletIndex": 0
+    }
+  ]
+}

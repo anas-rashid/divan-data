@@ -1,0 +1,93 @@
+{
+  "Id": 11562,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۷۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکه مزاج دلش باز ندانم که چیست\r\nرفتن او کشتن است، باز ندانم که چیست\r\nاین منم از پشت کوژ چنگ حریفان عشق\r\nزار بنالم، ولی خار ندانم که چیست\r\nمست شبانه است یار خواب خماری به سر\r\nبوی لبش از می است، گاز ندانم که چیست\r\nیار بهانه طلب با من شوریده بخت\r\nنیست بدانسان که بود باز ندانم که چیست\r\nخسرو مسکین ازو شهره هر کوی شد\r\nوان دل او را هنوز راز ندانم که چیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکه مزاج دلش باز ندانم که چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفتن او کشتن است، باز ندانم که چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این منم از پشت کوژ چنگ حریفان عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زار بنالم، ولی خار ندانم که چیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مست شبانه است یار خواب خماری به سر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوی لبش از می است، گاز ندانم که چیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یار بهانه طلب با من شوریده بخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیست بدانسان که بود باز ندانم که چیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو مسکین ازو شهره هر کوی شد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وان دل او را هنوز راز ندانم که چیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13354,
+  "CatId": 1041,
+  "Title": "بخش ۱۷ - به یزدان روز محشر برهمن گفت",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۷ - به یزدان روز محشر برهمن گفت",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به یزدان روز محشر برهمن گفت\r\nفروغ زندگی تاب شرر بود\r\nولیکن گر نرنجی با تو گویم\r\nصنم از آدمی پاینده تر بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به یزدان روز محشر برهمن گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فروغ زندگی تاب شرر بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن گر نرنجی با تو گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صنم از آدمی پاینده تر بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

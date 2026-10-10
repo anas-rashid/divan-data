@@ -1,0 +1,93 @@
+{
+  "Id": 11130,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۳۷ - صفت مردم شهر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۳۷ - صفت مردم شهر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردم او جمله فرشته سرشت\r\nخوش دل و خوش خوی چو اهل بهشت\r\nهر چه ز صنعت به همه عالم است\r\nهست در ایشان و زیادت هم است\r\nبیشتراز علم و ادب بهره مند\r\nاهل سخن خود که شمارد که چند\r\nهر طرفی سحر بیانی نوست\r\nریزهٔ چین کمتر شان خسروست\r\nپنج هزار از ملک نامدار\r\nلشکر شان بیشتر از صد هزار",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردم او جمله فرشته سرشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش دل و خوش خوی چو اهل بهشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چه ز صنعت به همه عالم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هست در ایشان و زیادت هم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیشتراز علم و ادب بهره مند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اهل سخن خود که شمارد که چند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر طرفی سحر بیانی نوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ریزهٔ چین کمتر شان خسروست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پنج هزار از ملک نامدار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لشکر شان بیشتر از صد هزار",
+      "CoupletIndex": 4
+    }
+  ]
+}

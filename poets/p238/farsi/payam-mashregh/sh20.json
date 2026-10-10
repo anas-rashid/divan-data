@@ -1,0 +1,57 @@
+{
+  "Id": 13357,
+  "CatId": 1041,
+  "Title": "بخش ۲۰ - ترا ای تازه پرواز آفریدند",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۰ - ترا ای تازه پرواز آفریدند",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترا ای تازه پرواز آفریدند\r\nسراپا لذت بال آزمائی\r\nهوس ما را گران پرواز دارد\r\nتو از ذوق پریدن پر گشائی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا ای تازه پرواز آفریدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سراپا لذت بال آزمائی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هوس ما را گران پرواز دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو از ذوق پریدن پر گشائی",
+      "CoupletIndex": 1
+    }
+  ]
+}

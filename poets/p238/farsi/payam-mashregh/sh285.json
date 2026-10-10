@@ -1,0 +1,57 @@
+{
+  "Id": 13622,
+  "CatId": 1041,
+  "Title": "بخش ۲۸۵ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۸۵ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh285",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh285",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میخورد هر ذره ما پیچ و تاب\r\nمحشری در هر دم ما مضمر است\r\nبا سکندر خضر در ظلمات گفت\r\nمرگ مشکل ، زندگی مشکل تر است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میخورد هر ذره ما پیچ و تاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محشری در هر دم ما مضمر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با سکندر خضر در ظلمات گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرگ مشکل ، زندگی مشکل تر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

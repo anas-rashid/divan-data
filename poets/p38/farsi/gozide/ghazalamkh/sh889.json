@@ -1,0 +1,93 @@
+{
+  "Id": 12173,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۸۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۸۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh889",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh889",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبی که دلبرم از بام همچو ماه برآید\r\nز جان سوخته ام صد هزار آه بر آید\r\nبه منزلی که گذشتی ز آب دیده ام، ای جان\r\nهزار لاله خونین ز خاک راه برآید\r\nز پرده چون به در آیی برای دیدن رویت\r\nهزار یوسف کنعان ز قعر چاه برآید\r\nچه عشوه، و چه کرشمه، چه دلبریست که چشمت؟\r\nهمه به مردم مسکین بیگناه برآید\r\nز حال خسرو مسکین نظر دریغ مفرما\r\nکه کار ما ز تو، ای جان، به یک نگاه برآید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبی که دلبرم از بام همچو ماه برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز جان سوخته ام صد هزار آه بر آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به منزلی که گذشتی ز آب دیده ام، ای جان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هزار لاله خونین ز خاک راه برآید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز پرده چون به در آیی برای دیدن رویت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هزار یوسف کنعان ز قعر چاه برآید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه عشوه، و چه کرشمه، چه دلبریست که چشمت؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همه به مردم مسکین بیگناه برآید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز حال خسرو مسکین نظر دریغ مفرما",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که کار ما ز تو، ای جان، به یک نگاه برآید",
+      "CoupletIndex": 4
+    }
+  ]
+}

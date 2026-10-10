@@ -1,0 +1,57 @@
+{
+  "Id": 13974,
+  "CatId": 1045,
+  "Title": "بخش ۱۰۹ - غریبی دردمندی نی نوازی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۰۹ - غریبی دردمندی نی نوازی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غریبی دردمندی نی نوازی\r\nز سوز نغمهء خود در گدازی\r\nتو میدانی چه میجوید ، چه خواهد\r\nدلی از هر دو عالم بی نیازی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غریبی دردمندی نی نوازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز سوز نغمهء خود در گدازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو میدانی چه میجوید ، چه خواهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلی از هر دو عالم بی نیازی",
+      "CoupletIndex": 1
+    }
+  ]
+}

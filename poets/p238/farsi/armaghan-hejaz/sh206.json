@@ -1,0 +1,57 @@
+{
+  "Id": 14070,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۵ - خنکن ملتی بر خود رسیده",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۵ - خنکن ملتی بر خود رسیده",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh206",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh206",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خنکن ملتی بر خود رسیده\r\nز درد جستجو نارمیده\r\nدرخش او ته این نیلگون چرخ\r\nچو تیغی از میان بیرون کشیده",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خنکن ملتی بر خود رسیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز درد جستجو نارمیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درخش او ته این نیلگون چرخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو تیغی از میان بیرون کشیده",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13402,
+  "CatId": 1041,
+  "Title": "بخش ۶۵ - وفا ناآشنا بیگانه خو بود",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۶۵ - وفا ناآشنا بیگانه خو بود",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وفا ناآشنا بیگانه خو بود\r\nنگاهش بیقرار از جستجو بود\r\nچو دید او را پرید از سینهٔ من\r\nندانستم که دست آموز او بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وفا ناآشنا بیگانه خو بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاهش بیقرار از جستجو بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو دید او را پرید از سینهٔ من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ندانستم که دست آموز او بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

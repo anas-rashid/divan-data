@@ -1,0 +1,69 @@
+{
+  "Id": 13612,
+  "CatId": 1041,
+  "Title": "بخش ۲۷۵ - پیغام برگسن",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷۵ - پیغام برگسن",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا بر تو آشکار شود راز زندگی\r\nخود را جدا ز شعله مثالِ شرر مکن\r\nبهرِ نظاره جز نگهِ آشنا میار\r\nدر مرز و بومِ خود چو غریبان گذر مکن\r\nنقشی که بسته ئی همه اوهام باطل است\r\nعقلی بهم رسان که ادب خوردهٔ دل است",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بر تو آشکار شود راز زندگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را جدا ز شعله مثالِ شرر مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهرِ نظاره جز نگهِ آشنا میار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مرز و بومِ خود چو غریبان گذر مکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "CenteredVerse1",
+      "Text": "نقشی که بسته ئی همه اوهام باطل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse2",
+      "Text": "عقلی بهم رسان که ادب خوردهٔ دل است",
+      "CoupletIndex": 2
+    }
+  ]
+}

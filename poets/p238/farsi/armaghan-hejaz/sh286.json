@@ -1,0 +1,57 @@
+{
+  "Id": 14150,
+  "CatId": 1045,
+  "Title": "بخش ۲۸۵ - بیا بر خویش پیچیدن بیاموز",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۸۵ - بیا بر خویش پیچیدن بیاموز",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا بر خویش پیچیدن بیاموز\r\nبناخن سینه کاویدن بیاموز\r\nاگر خواهی خدا را فاش بینی\r\nخودی را فاش تر دیدن بیاموز",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا بر خویش پیچیدن بیاموز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بناخن سینه کاویدن بیاموز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر خواهی خدا را فاش بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خودی را فاش تر دیدن بیاموز",
+      "CoupletIndex": 1
+    }
+  ]
+}

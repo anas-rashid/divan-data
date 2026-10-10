@@ -1,0 +1,93 @@
+{
+  "Id": 13149,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۸۶۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۶۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1865",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1865",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا فراقت تاخت بر من بارگی\r\nساختم با محنت و آوارگی\r\nدل ز ما بردی، زهی جان پروری\r\nخون ما خوردی، خهی غمخوارگی\r\nچار و ناچارت چو ما فرمان بریم\r\nچاره ما ساز در بیچارگی\r\nچون عنان صبر بردی از کفم\r\nیک زمان در کش عنان بارگی\r\nوارهان یکدم از این بیداد و غم\r\nزانکه شد بیداد غم یکبارگی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا فراقت تاخت بر من بارگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساختم با محنت و آوارگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ز ما بردی، زهی جان پروری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون ما خوردی، خهی غمخوارگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چار و ناچارت چو ما فرمان بریم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چاره ما ساز در بیچارگی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون عنان صبر بردی از کفم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک زمان در کش عنان بارگی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وارهان یکدم از این بیداد و غم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زانکه شد بیداد غم یکبارگی",
+      "CoupletIndex": 4
+    }
+  ]
+}

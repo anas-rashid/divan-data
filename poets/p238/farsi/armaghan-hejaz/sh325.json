@@ -1,0 +1,57 @@
+{
+  "Id": 14189,
+  "CatId": 1045,
+  "Title": "بخش ۳۲۴ - دلی چون صحبت گل می پذیرد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۲۴ - دلی چون صحبت گل می پذیرد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh325",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh325",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلی چون صحبت گل می پذیرد\r\nهمان دم لذت خوابش بگیرد\r\nشود بیدار چون «من»فریند\r\nچو «من» محکوم تن گردد بمیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلی چون صحبت گل می پذیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همان دم لذت خوابش بگیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شود بیدار چون «من»فریند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو «من» محکوم تن گردد بمیرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

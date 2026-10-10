@@ -1,0 +1,57 @@
+{
+  "Id": 14133,
+  "CatId": 1045,
+  "Title": "بخش ۲۶۸ - کسی کو «لا اله» را در گره بست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۶۸ - کسی کو «لا اله» را در گره بست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh269",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh269",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی کو «لا اله» را در گره بست\r\nز بند مکتب و ملا برون جست\r\nبهن دین و بهن دانش مپرداز\r\nکه از ما میبرد چشم و دل و دست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی کو «لا اله» را در گره بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز بند مکتب و ملا برون جست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهن دین و بهن دانش مپرداز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از ما میبرد چشم و دل و دست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14108,
+  "CatId": 1045,
+  "Title": "بخش ۲۴۳ - ضمیر عصر حاضر بی نقاب است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۴۳ - ضمیر عصر حاضر بی نقاب است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh244",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh244",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ضمیر عصر حاضر بی نقاب است\r\nگشادش در نمود رنگ وب است\r\nجهانتابی ز نور حق بیاموز\r\nکه او با صد تجلی در حجاب است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ضمیر عصر حاضر بی نقاب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشادش در نمود رنگ وب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جهانتابی ز نور حق بیاموز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که او با صد تجلی در حجاب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

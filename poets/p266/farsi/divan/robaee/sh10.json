@@ -1,0 +1,57 @@
+{
+  "Id": 14601,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/p266/farsi/divan/robaee/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشتر بود آب سوهن از قند و نبات\r\nبا وی چه سخن ز نیل و جیحون و فرات\r\nاین پاره عالمی که هندش نامند\r\nگویی ظلمات و سوهن ست آب حیات",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشتر بود آب سوهن از قند و نبات",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با وی چه سخن ز نیل و جیحون و فرات",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این پاره عالمی که هندش نامند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی ظلمات و سوهن ست آب حیات",
+      "CoupletIndex": 1
+    }
+  ]
+}

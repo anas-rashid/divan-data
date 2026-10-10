@@ -1,0 +1,81 @@
+{
+  "Id": 11249,
+  "CatId": 1033,
+  "Title": "بخش ۳ - نعت خاتم انبیا که لوح محفوظ نگین راستین اوست، و کلام الله نقش نگین او، زین الله خاتم امورنا، بایادیه",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مجنون و لیلی » بخش ۳ - نعت خاتم انبیا که لوح محفوظ نگین راستین اوست، و کلام الله نقش نگین او، زین الله خاتم امورنا، بایادیه",
+  "FullUrl": "/p38/farsi/gozide/majnoon-leyli/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/majnoon-leyli/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاه رسل و شفیع مرسل\r\nخورشید پسین و نور اول\r\nجاروب زنان بارگاهش\r\nازپر فرشتهٔ رفته راهش\r\nشمشیر سیاستش سرانداز\r\nشمشیر زبانش گوهر انداز\r\nخورشید به نیلگون عماری\r\nدربان درش به پرده داری",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاه رسل و شفیع مرسل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید پسین و نور اول",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جاروب زنان بارگاهش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ازپر فرشتهٔ رفته راهش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شمشیر سیاستش سرانداز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شمشیر زبانش گوهر انداز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خورشید به نیلگون عماری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دربان درش به پرده داری",
+      "CoupletIndex": 3
+    }
+  ]
+}

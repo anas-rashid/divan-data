@@ -1,0 +1,57 @@
+{
+  "Id": 14081,
+  "CatId": 1045,
+  "Title": "بخش ۲۱۶ - کسی کو فاش دید اسرار جانرا",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۱۶ - کسی کو فاش دید اسرار جانرا",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh217",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh217",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی کو فاش دید اسرار جانرا\r\nنبیند جز به چشم خود جهان را\r\nنوائیفرین در سینه خویش\r\nبهاری میتوان کردن خزان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی کو فاش دید اسرار جانرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نبیند جز به چشم خود جهان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوائیفرین در سینه خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهاری میتوان کردن خزان را",
+      "CoupletIndex": 1
+    }
+  ]
+}

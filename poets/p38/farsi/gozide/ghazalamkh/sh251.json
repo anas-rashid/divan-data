@@ -1,0 +1,105 @@
+{
+  "Id": 11535,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۵۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۵۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh251",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh251",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بار عشقت بر دلم باری خوش است\r\nکار من عشق است و این کاری خوش است\r\nجان دهم در پاش، ار چه بی وفاست\r\nدل بدو بخشم که دلداری خوش است\r\nبلبل شوریده را از عشق گل\r\nدر چمن با صحبت خاری خوش است\r\nراستی را سرو در نشو و نماست\r\nاز قد یارم نموداری خوش است\r\nهیچ بیماری نباشد خوش، ولی\r\nچشم جادوی تو بیماری خوش است\r\nتیر چشم او جهان در خون گرفت\r\nلیک از دستت کمان داری خوش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بار عشقت بر دلم باری خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کار من عشق است و این کاری خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان دهم در پاش، ار چه بی وفاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل بدو بخشم که دلداری خوش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بلبل شوریده را از عشق گل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در چمن با صحبت خاری خوش است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "راستی را سرو در نشو و نماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از قد یارم نموداری خوش است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هیچ بیماری نباشد خوش، ولی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چشم جادوی تو بیماری خوش است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تیر چشم او جهان در خون گرفت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "لیک از دستت کمان داری خوش است",
+      "CoupletIndex": 5
+    }
+  ]
+}

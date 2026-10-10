@@ -1,0 +1,57 @@
+{
+  "Id": 14651,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/p266/farsi/divan/robaee/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شرطست که روی دل خراشم همه عمر\r\nخونابه به رخ ز دیده پاشم همه عمر\r\nکافر باشم اگر به مرگ مؤمن\r\nچون کعبه سیه پوش نباشم همه عمر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شرطست که روی دل خراشم همه عمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونابه به رخ ز دیده پاشم همه عمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کافر باشم اگر به مرگ مؤمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون کعبه سیه پوش نباشم همه عمر",
+      "CoupletIndex": 1
+    }
+  ]
+}

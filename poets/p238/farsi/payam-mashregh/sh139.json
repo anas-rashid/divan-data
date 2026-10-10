@@ -1,0 +1,57 @@
+{
+  "Id": 13476,
+  "CatId": 1041,
+  "Title": "بخش ۱۳۹ - مرا از پردهٔ ساز آگهی نیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۳۹ - مرا از پردهٔ ساز آگهی نیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh139",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh139",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا از پردهٔ ساز آگهی نیست\r\nولی دانم نوای زندگی چیست\r\nسرودم آنچنان در شاخساران\r\nگل از مرغ چمن پرسد که این کیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا از پردهٔ ساز آگهی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولی دانم نوای زندگی چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرودم آنچنان در شاخساران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل از مرغ چمن پرسد که این کیست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

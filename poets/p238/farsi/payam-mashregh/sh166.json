@@ -1,0 +1,69 @@
+{
+  "Id": 13503,
+  "CatId": 1041,
+  "Title": "بخش ۱۶۶ - دعا",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶۶ - دعا",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایکه از خمخانه فطرت بجامم ریختی\r\nز آتش صهبای من بگداز مینای مرا\r\nعشق را سرمایه ساز از گرمی فریاد من\r\nشعلهٔ بیباک گردان خاک سینای مرا\r\nچون بمیرم از غبار من چراغ لاله ساز\r\nتازه کن داغ مرا سوزان بصحرای مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایکه از خمخانه فطرت بجامم ریختی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آتش صهبای من بگداز مینای مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق را سرمایه ساز از گرمی فریاد من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شعلهٔ بیباک گردان خاک سینای مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون بمیرم از غبار من چراغ لاله ساز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تازه کن داغ مرا سوزان بصحرای مرا",
+      "CoupletIndex": 2
+    }
+  ]
+}

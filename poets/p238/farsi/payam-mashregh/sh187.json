@@ -1,0 +1,117 @@
+{
+  "Id": 13524,
+  "CatId": 1041,
+  "Title": "بخش ۱۸۷ - محاورهٔ ما بین خدا و انسان",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۸۷ - محاورهٔ ما بین خدا و انسان",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خدا:\r\nجهان را ز یک آب و گل آفریدم\r\nتو ایران و تاتار و زنگ آفریدی\r\nمن از خاک پولاد ناب آفریدم\r\nتو شمشیر و تیر و تفنگ آفریدی\r\nتبر آفریدی نهال چمن را\r\nقفس ساختی طایر نغمه زن را\r\nانسان:\r\nتو شب آفریدی چراغ آفریدم\r\nسفال آفریدی ایاغ آفریدم\r\nبیابان و کهسار و راغ آفریدی\r\nخیابان و گلزار و باغ آفریدم\r\nمن آنم که از سنگ آئینه سازم\r\nمن آنم که از زهر نوشینه سازم",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "خدا:",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "جهان را ز یک آب و گل آفریدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "تو ایران و تاتار و زنگ آفریدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "من از خاک پولاد ناب آفریدم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "تو شمشیر و تیر و تفنگ آفریدی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse1",
+      "Text": "تبر آفریدی نهال چمن را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse2",
+      "Text": "قفس ساختی طایر نغمه زن را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Paragraph",
+      "Text": "انسان:",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تو شب آفریدی چراغ آفریدم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سفال آفریدی ایاغ آفریدم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بیابان و کهسار و راغ آفریدی",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خیابان و گلزار و باغ آفریدم",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 13,
+      "Position": "CenteredVerse1",
+      "Text": "من آنم که از سنگ آئینه سازم",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 14,
+      "Position": "CenteredVerse2",
+      "Text": "من آنم که از زهر نوشینه سازم",
+      "CoupletIndex": 7
+    }
+  ]
+}

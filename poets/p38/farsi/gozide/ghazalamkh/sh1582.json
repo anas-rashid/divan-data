@@ -1,0 +1,93 @@
+{
+  "Id": 12866,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۵۸۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۸۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1582",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1582",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل، ز وعده کج آن شوخ یاد کن\r\nخود را به عشوه، گر چه دروغ است، شاد کن\r\nبنویس نامه ای و روا کن به دست اشک\r\nلیک اول از سیاهی چشمم سواد کن\r\nتا چند خود مراد کنی صد هزار کار\r\nیک کار بر مراد من بی مراد کن\r\nاینک سواره می رود و تا ببینمش\r\nای آب دیده یک نفسی ایستاد کن\r\nخسرو، چو نرد عشق به جان باختی، کنون\r\nماندن به دست تست، گرو را زیاد کن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل، ز وعده کج آن شوخ یاد کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را به عشوه، گر چه دروغ است، شاد کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنویس نامه ای و روا کن به دست اشک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیک اول از سیاهی چشمم سواد کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا چند خود مراد کنی صد هزار کار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک کار بر مراد من بی مراد کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اینک سواره می رود و تا ببینمش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای آب دیده یک نفسی ایستاد کن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو، چو نرد عشق به جان باختی، کنون",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ماندن به دست تست، گرو را زیاد کن",
+      "CoupletIndex": 4
+    }
+  ]
+}

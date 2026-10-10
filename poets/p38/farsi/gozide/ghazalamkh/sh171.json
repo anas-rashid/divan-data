@@ -1,0 +1,93 @@
+{
+  "Id": 11455,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خط کز لب آن پسر دمیده ست\r\nافسون است که بر شکر دمیده ست\r\nبنگر که ز آب دیده یکی ست\r\nآن سبزه خوش که بر دمیده ست\r\nاز رشک رخت سحر دم سرد\r\nبر آینه قمر دمیده ست\r\nبرخاست ز آتش رخت دود\r\nاز بس که خط تو بر دمیده ست\r\nآخر شکری بده به خسرو\r\nزان لب که نبات بر دمیده ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خط کز لب آن پسر دمیده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسون است که بر شکر دمیده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنگر که ز آب دیده یکی ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن سبزه خوش که بر دمیده ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از رشک رخت سحر دم سرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر آینه قمر دمیده ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "برخاست ز آتش رخت دود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از بس که خط تو بر دمیده ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آخر شکری بده به خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زان لب که نبات بر دمیده ست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13459,
+  "CatId": 1041,
+  "Title": "بخش ۱۲۲ - هزاران سال با فطرت نشستم",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۲۲ - هزاران سال با فطرت نشستم",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هزاران سال با فطرت نشستم\r\nبه او پیوستم و از خود گسستم\r\nولیکن سر گذشتم این دو حرفست\r\nتراشیدم، پرستیدم، شکستم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزاران سال با فطرت نشستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به او پیوستم و از خود گسستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن سر گذشتم این دو حرفست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تراشیدم، پرستیدم، شکستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

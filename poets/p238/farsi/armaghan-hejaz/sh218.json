@@ -1,0 +1,57 @@
+{
+  "Id": 14082,
+  "CatId": 1045,
+  "Title": "بخش ۲۱۷ - نگهدارنچه درب و گل تست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۱۷ - نگهدارنچه درب و گل تست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh218",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh218",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگهدارنچه درب و گل تست\r\nسرور و سوز و مستی حاصل تست\r\nتهی دیدم سبوی این ون را\r\nمی باقی به مینای دل تست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگهدارنچه درب و گل تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرور و سوز و مستی حاصل تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تهی دیدم سبوی این ون را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می باقی به مینای دل تست",
+      "CoupletIndex": 1
+    }
+  ]
+}

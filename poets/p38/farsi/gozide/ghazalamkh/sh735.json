@@ -1,0 +1,105 @@
+{
+  "Id": 12019,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۳۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۳۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh735",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh735",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باشد آن روز که آن فتنه به ما باز آید\r\nلیک از آنگونه که او رفت، کجا باز آید؟\r\nرفت و باز آمدنش تا به قیامت نبود\r\nای قیامت، تو بیا زود که تا باز آید\r\nای صبا، از سر آن کوی غباری به من آر\r\nمگر این دل که ز جا رفت به جا باز آید!\r\nیارب، این سرو در آن باغ نه تنها مانده ست\r\nباز پرسم خبر از باد صبا، باز آید\r\nچند روز است کزین سو گذری می نکند\r\nباز گویید، مگر جانب ما باز آید!\r\nخسروا، رفتن او نه ز پیش آمدن است\r\nبه دعا ساز، خدایا، به دعا باز آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باشد آن روز که آن فتنه به ما باز آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیک از آنگونه که او رفت، کجا باز آید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفت و باز آمدنش تا به قیامت نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای قیامت، تو بیا زود که تا باز آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای صبا، از سر آن کوی غباری به من آر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگر این دل که ز جا رفت به جا باز آید!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یارب، این سرو در آن باغ نه تنها مانده ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "باز پرسم خبر از باد صبا، باز آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چند روز است کزین سو گذری می نکند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "باز گویید، مگر جانب ما باز آید!",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خسروا، رفتن او نه ز پیش آمدن است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به دعا ساز، خدایا، به دعا باز آید",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 12956,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۶۷۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۷۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1672",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1672",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر نه کمند بلاست بر دل عشاق تو\r\nبهر چه نازی کند زلف تو بر ساق تو\r\nتو که به غلتاق تنگ چست در آمد تنت\r\nپرده دل را درید رشک بغلتاق تو\r\nبو که بیاید ز تو شستن نعل سمند\r\nپای بزرگان گرفت گریه عشاق تو\r\nگریه کنم تا مگر ز ابرو اشارت کنی\r\nلیک ز باران من غم نخورد طاق تو\r\nپیش تو مردن مرا چون نگذارد رقیب\r\nبهر چه باری زید خسرو مشتاق تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نه کمند بلاست بر دل عشاق تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهر چه نازی کند زلف تو بر ساق تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو که به غلتاق تنگ چست در آمد تنت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرده دل را درید رشک بغلتاق تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بو که بیاید ز تو شستن نعل سمند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پای بزرگان گرفت گریه عشاق تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گریه کنم تا مگر ز ابرو اشارت کنی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لیک ز باران من غم نخورد طاق تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پیش تو مردن مرا چون نگذارد رقیب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بهر چه باری زید خسرو مشتاق تو",
+      "CoupletIndex": 4
+    }
+  ]
+}

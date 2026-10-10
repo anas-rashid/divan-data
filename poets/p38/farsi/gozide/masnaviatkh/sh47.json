@@ -1,0 +1,81 @@
+{
+  "Id": 11140,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۴۷ - تخیل",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۴۷ - تخیل",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جوهری شام به سودا گری\r\nکرده گهر پیش کش مشتری\r\nچرخ یکی حلقهٔ انگشترین\r\nبر سر یک حلقه هزاران نگین\r\nبا همه چون سایه شده هم نشست\r\nیک تن و هر جا که بجوئیش هست\r\nگرم شود بر همه بی هیچ کین\r\nپس ز حیا در رود اندر زمین",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جوهری شام به سودا گری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرده گهر پیش کش مشتری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چرخ یکی حلقهٔ انگشترین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر سر یک حلقه هزاران نگین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با همه چون سایه شده هم نشست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک تن و هر جا که بجوئیش هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گرم شود بر همه بی هیچ کین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پس ز حیا در رود اندر زمین",
+      "CoupletIndex": 3
+    }
+  ]
+}

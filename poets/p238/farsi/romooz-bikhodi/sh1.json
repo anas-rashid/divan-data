@@ -1,0 +1,51 @@
+{
+  "Id": 13306,
+  "CatId": 1040,
+  "Title": "بخش ۱ - رموز بیخودی",
+  "FullTitle": "محمد اقبال » فارسی » رموز بیخودی » بخش ۱ - رموز بیخودی",
+  "FullUrl": "/p238/farsi/romooz-bikhodi/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/romooz-bikhodi/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهد کن در بیخودی خود را بیاب\r\nزود تر والله اعلم بالصواب\r\nمولانای روم",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهد کن در بیخودی خود را بیاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زود تر والله اعلم بالصواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "CenteredVerse1",
+      "Text": "مولانای روم",
+      "CoupletIndex": 1
+    }
+  ]
+}

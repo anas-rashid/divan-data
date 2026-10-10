@@ -1,0 +1,57 @@
+{
+  "Id": 13356,
+  "CatId": 1041,
+  "Title": "بخش ۱۹ - تهی از های و هو میخانه بودی",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۹ - تهی از های و هو میخانه بودی",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تهی از های و هو میخانه بودی\r\nگل ما از شرر بیگانه بودی\r\nنبودی عشق و این هنگامهٔ عشق\r\nاگر دل چون خرد فرزانه بودی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تهی از های و هو میخانه بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل ما از شرر بیگانه بودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نبودی عشق و این هنگامهٔ عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر دل چون خرد فرزانه بودی",
+      "CoupletIndex": 1
+    }
+  ]
+}

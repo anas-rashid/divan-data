@@ -1,0 +1,93 @@
+{
+  "Id": 11689,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۴۰۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۴۰۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh405",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh405",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دو زلف تو که سر اندر زمین رسانیده‌ست\r\nبه لاله بوی گل و یاسمین رسانیده‌ست\r\nدهان تست چنان تنگ یا کسی بر موم\r\nنشان حلقه انگشترین رسانیده‌ست\r\nرواست در حق شهد او هزار نیش زند\r\nبران مگس که لبت زانگبین رسانیده‌ست\r\nخوش است خنده پروین، اگرچه دندان را\r\nز رشک خنده پروین برین رسانیده‌ست\r\nهزار نقش به یک تخته‌ای‌ست نوک قلم\r\nکه تخت تو بر نقاش چین رسانیده‌ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو زلف تو که سر اندر زمین رسانیده‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به لاله بوی گل و یاسمین رسانیده‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دهان تست چنان تنگ یا کسی بر موم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشان حلقه انگشترین رسانیده‌ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رواست در حق شهد او هزار نیش زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بران مگس که لبت زانگبین رسانیده‌ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خوش است خنده پروین، اگرچه دندان را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز رشک خنده پروین برین رسانیده‌ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هزار نقش به یک تخته‌ای‌ست نوک قلم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که تخت تو بر نقاش چین رسانیده‌ست",
+      "CoupletIndex": 4
+    }
+  ]
+}

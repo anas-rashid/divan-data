@@ -1,0 +1,57 @@
+{
+  "Id": 14076,
+  "CatId": 1045,
+  "Title": "بخش ۲۱۱ - تو هم بگذارن صورت نگاری",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۱۱ - تو هم بگذارن صورت نگاری",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh212",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh212",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو هم بگذارن صورت نگاری\r\nمجو غیر از ضمیر خویش یاری\r\nبباغ ما بروردی پر و بال \r\nمسلمان را بده سوزی که داری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو هم بگذارن صورت نگاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مجو غیر از ضمیر خویش یاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بباغ ما بروردی پر و بال ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مسلمان را بده سوزی که داری",
+      "CoupletIndex": 1
+    }
+  ]
+}

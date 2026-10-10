@@ -1,0 +1,93 @@
+{
+  "Id": 11548,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۶۴",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای نسیم صبحدم، یارم کجاست\r\nغم ز حد بگذشت، غمخوارم کجاست\r\nخواب در چشمم نمی آید به شب\r\nآن چراغ چشم بیدارم کجاست\r\nدوست گفت آشفته گرد و زار باش\r\nدوستان، آشفته و زارم، کجاست\r\nنیستم آسوده و کارش دمی\r\nیار، آن آسوده از کارم، کجاست\r\nتا به گوش او رسانم حال خویش\r\nناله های خسرو زارم کجاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نسیم صبحدم، یارم کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم ز حد بگذشت، غمخوارم کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواب در چشمم نمی آید به شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن چراغ چشم بیدارم کجاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دوست گفت آشفته گرد و زار باش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دوستان، آشفته و زارم، کجاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیستم آسوده و کارش دمی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یار، آن آسوده از کارم، کجاست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا به گوش او رسانم حال خویش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ناله های خسرو زارم کجاست",
+      "CoupletIndex": 4
+    }
+  ]
+}

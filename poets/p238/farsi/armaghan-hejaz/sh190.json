@@ -1,0 +1,57 @@
+{
+  "Id": 14054,
+  "CatId": 1045,
+  "Title": "بخش ۱۸۹ - ز دوزخ واعظ کافر گری گفت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۸۹ - ز دوزخ واعظ کافر گری گفت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh190",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh190",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز دوزخ واعظ کافر گری گفت\r\nحدیثی خوشتر از وی کافری گفت\r\n«نداند آن غلام احوال خود را\r\nکه دوزخ را مقام دیگری گفت»",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز دوزخ واعظ کافر گری گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حدیثی خوشتر از وی کافری گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "«نداند آن غلام احوال خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دوزخ را مقام دیگری گفت»",
+      "CoupletIndex": 1
+    }
+  ]
+}

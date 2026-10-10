@@ -1,0 +1,81 @@
+{
+  "Id": 11795,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۱۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۱۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh511",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh511",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر چشم من از صورت تو دور نباشد\r\nدور از تو دلم خسته و رنجور نباشد\r\nمهجور شوم از تو و جز آه سحرگاه\r\nسوزنده کسی بر من مهجور نباشد\r\nآن دیده چه آید که به روی تو نیاید؟\r\nآن چشم چه بیند که در او نور نباشد؟\r\nصد رنگ برانگیخت ز خون دل خسرو\r\nنقش تو که در خامه شاپور نباشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چشم من از صورت تو دور نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دور از تو دلم خسته و رنجور نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مهجور شوم از تو و جز آه سحرگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سوزنده کسی بر من مهجور نباشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن دیده چه آید که به روی تو نیاید؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن چشم چه بیند که در او نور نباشد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صد رنگ برانگیخت ز خون دل خسرو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نقش تو که در خامه شاپور نباشد",
+      "CoupletIndex": 3
+    }
+  ]
+}

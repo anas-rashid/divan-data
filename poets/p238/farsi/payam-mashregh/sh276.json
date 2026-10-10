@@ -1,0 +1,81 @@
+{
+  "Id": 13613,
+  "CatId": 1041,
+  "Title": "بخش ۲۷۶ - میخانهٔ فرنگ",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷۶ - میخانهٔ فرنگ",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh276",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh276",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد ایامی که بودم در خمستان فرنگ\r\nجام او روشنتر از آئینهٔ اسکندر است\r\nچشم مست می فروشش باده را پروردگار\r\nباده‌خواران را نگاه ساقی‌اش پیغمبر است\r\nجلوهٔ او بی کلیم و شعلهٔ او بی خلیل\r\nعقل ناپروا متاع عشق را غارتگر است\r\nدر هوایش گرمیٔ یک آهِ بیتابانه نیست\r\nرندِ این میخانه را یک لغزشِ مستانه نیست",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد ایامی که بودم در خمستان فرنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جام او روشنتر از آئینهٔ اسکندر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم مست می فروشش باده را پروردگار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باده‌خواران را نگاه ساقی‌اش پیغمبر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جلوهٔ او بی کلیم و شعلهٔ او بی خلیل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عقل ناپروا متاع عشق را غارتگر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse1",
+      "Text": "در هوایش گرمیٔ یک آهِ بیتابانه نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "CenteredVerse2",
+      "Text": "رندِ این میخانه را یک لغزشِ مستانه نیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 11153,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۶۰ - ردالعجز علی الصدر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۶۰ - ردالعجز علی الصدر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عود قماری که همی داد دود\r\nغالیه می‌ساخت گل از دود عود\r\nتا که به عزلت نشانند خیز\r\nپیشتر از مرگ به عزلت گریز",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عود قماری که همی داد دود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غالیه می‌ساخت گل از دود عود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا که به عزلت نشانند خیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیشتر از مرگ به عزلت گریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

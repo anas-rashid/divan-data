@@ -1,0 +1,93 @@
+{
+  "Id": 11779,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۴۹۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۴۹۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh495",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh495",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بویی ز سر زلف نگارین به من آرید\r\nیک تار ازان طره مشکین به من آرید\r\nمخمورم و جانم به سوی می نگران است\r\nآن باده که در داد نخستین به من آرید\r\nخواهید که از خاک برآیم پس صد سال\r\nاز میکده بوی می رنگین به من آرید\r\nهر گه که غمی گشت پدید از دل، گفتم\r\nغم را نخورد جز دل غمگین به من آرید\r\nجان می سپرد از غم هجران تو خسرو\r\nروزی خبر عاشق مسکین به من آرید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بویی ز سر زلف نگارین به من آرید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک تار ازان طره مشکین به من آرید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مخمورم و جانم به سوی می نگران است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن باده که در داد نخستین به من آرید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خواهید که از خاک برآیم پس صد سال",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از میکده بوی می رنگین به من آرید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر گه که غمی گشت پدید از دل، گفتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غم را نخورد جز دل غمگین به من آرید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جان می سپرد از غم هجران تو خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روزی خبر عاشق مسکین به من آرید",
+      "CoupletIndex": 4
+    }
+  ]
+}

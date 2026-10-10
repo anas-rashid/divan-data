@@ -1,0 +1,105 @@
+{
+  "Id": 11845,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۶۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۶۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh561",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh561",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زمانه چون تو دلجویی ندارد\r\nفلک مثل تو مهرویی ندارد\r\nبنامیزد نسیمی کان تو داری\r\nگل سوری ازان بویی ندارد\r\nچو بدخویی کند چشم تو با من\r\nدلم گوید که بدخویی ندارد\r\nتن من موی شد بهر میانت\r\nچو بهره از میان مویی ندارد\r\nسر من بر سر زانوست از تو\r\nسر من هیچ زانویی ندارد\r\nسخن بشنو مگر از بنده خسرو\r\nجهان چون او سخنگویی ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زمانه چون تو دلجویی ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فلک مثل تو مهرویی ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنامیزد نسیمی کان تو داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل سوری ازان بویی ندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو بدخویی کند چشم تو با من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دلم گوید که بدخویی ندارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تن من موی شد بهر میانت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو بهره از میان مویی ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سر من بر سر زانوست از تو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سر من هیچ زانویی ندارد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سخن بشنو مگر از بنده خسرو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جهان چون او سخنگویی ندارد",
+      "CoupletIndex": 5
+    }
+  ]
+}

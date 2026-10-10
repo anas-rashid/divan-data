@@ -1,0 +1,57 @@
+{
+  "Id": 13501,
+  "CatId": 1041,
+  "Title": "بخش ۱۶۴ - گریز آخر ز عقل ذوفنون کرد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶۴ - گریز آخر ز عقل ذوفنون کرد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh164",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh164",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گریز آخر ز عقل ذوفنون کرد\r\nدل خودکام را از عشق خون کرد\r\nز اقبال فلک پیما چه پرسی\r\nحکیم نکته دان ما جنون کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گریز آخر ز عقل ذوفنون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل خودکام را از عشق خون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز اقبال فلک پیما چه پرسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حکیم نکته دان ما جنون کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

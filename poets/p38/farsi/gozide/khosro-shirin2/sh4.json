@@ -1,0 +1,69 @@
+{
+  "Id": 11211,
+  "CatId": 1032,
+  "Title": "بخش ۴ - وصف معراج نبی",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » خسرو و شیرین » بخش ۴ - وصف معراج نبی",
+  "FullUrl": "/p38/farsi/gozide/khosro-shirin2/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/khosro-shirin2/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخن آن به که بهر ارجمندی\r\nز معراج نبی یابد بلندی\r\nرسولی کاسمان را پایه داده\r\nرکابش عرش را پیرایه داده\r\nشبی تنگ آمده زین حجرهٔ تنگ\r\nز پستی سوی بالا کرد آهنگ",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخن آن به که بهر ارجمندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز معراج نبی یابد بلندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسولی کاسمان را پایه داده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رکابش عرش را پیرایه داده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شبی تنگ آمده زین حجرهٔ تنگ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز پستی سوی بالا کرد آهنگ",
+      "CoupletIndex": 2
+    }
+  ]
+}

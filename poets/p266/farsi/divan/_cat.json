@@ -1,0 +1,23 @@
+{
+  "Id": 1047,
+  "PoetId": 266,
+  "ParentId": 1046,
+  "Title": "دیوان اشعار",
+  "FullUrl": "/p266/farsi/divan",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 1048,
+      "Title": "غزلیات",
+      "FullUrl": "/p266/farsi/divan/ghazal"
+    },
+    {
+      "Id": 1049,
+      "Title": "رباعیات",
+      "FullUrl": "/p266/farsi/divan/robaee"
+    }
+  ],
+  "Poems": []
+}

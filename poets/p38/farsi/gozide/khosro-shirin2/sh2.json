@@ -1,0 +1,105 @@
+{
+  "Id": 11209,
+  "CatId": 1032,
+  "Title": "بخش ۲ - در توحید",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » خسرو و شیرین » بخش ۲ - در توحید",
+  "FullUrl": "/p38/farsi/gozide/khosro-shirin2/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/khosro-shirin2/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به نام آنکه جان را زندگی داد\r\nطبیعت را به جان پایندگی داد\r\nخداوندیکه حکمت بخش خاکست\r\nکمینه بخشش او جان پاکست\r\nدو کون از صنع او یک گل به باغی\r\nز ملکش نه فلک یک شب چراغی\r\nرموز آموز عقل نکته پیوند\r\nشناسائی ده جان خردمند\r\nبصارت بخش چشم پیش بینان\r\nتمنای درون شب نشینان\r\nجواهر بند ناهید از ثریا\r\nچراغ افروز در قعر دریا",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به نام آنکه جان را زندگی داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طبیعت را به جان پایندگی داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خداوندیکه حکمت بخش خاکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کمینه بخشش او جان پاکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دو کون از صنع او یک گل به باغی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز ملکش نه فلک یک شب چراغی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رموز آموز عقل نکته پیوند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شناسائی ده جان خردمند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بصارت بخش چشم پیش بینان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تمنای درون شب نشینان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جواهر بند ناهید از ثریا",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چراغ افروز در قعر دریا",
+      "CoupletIndex": 5
+    }
+  ]
+}

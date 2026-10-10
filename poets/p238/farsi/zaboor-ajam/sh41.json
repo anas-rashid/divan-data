@@ -1,0 +1,69 @@
+{
+  "Id": 13678,
+  "CatId": 1042,
+  "Title": "بخش ۴۱ - بجهان دردمندان تو بگو چه کار داری",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۴۱ - بجهان دردمندان تو بگو چه کار داری",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بجهان دردمندان تو بگو چه کار داری\r\nتب و تاب ما شناسی دل بی قرار داری\r\nچه خبر ترا ز اشکی که فرو چکد ز چشمی\r\nتو ببرگ گل ز شبنم در شاهوار داری\r\nچه بگویمت ز جانی که نفس نفس شمارد\r\nدم مستعار داری غم روزگار داری",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بجهان دردمندان تو بگو چه کار داری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تب و تاب ما شناسی دل بی قرار داری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه خبر ترا ز اشکی که فرو چکد ز چشمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ببرگ گل ز شبنم در شاهوار داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه بگویمت ز جانی که نفس نفس شمارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دم مستعار داری غم روزگار داری",
+      "CoupletIndex": 2
+    }
+  ]
+}

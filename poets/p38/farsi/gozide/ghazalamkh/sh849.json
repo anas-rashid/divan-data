@@ -1,0 +1,93 @@
+{
+  "Id": 12133,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۸۴۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۸۴۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh849",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh849",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل جز ترا به سینه درون جایگه نداد\r\nوین مملکت زمانه به خورشید و مه نداد\r\nآبش مباد ریخته، هر چند زان زنخ\r\nصد تشنه را بکشت که آبی ز چه نداد\r\nصوفی که خاک نیست سرش در ره بتان\r\nگفتش به سر زنید که پیرش کله نداد\r\nدیدن به خواب هست گنه، لیک دوزخی ست\r\nآن کس که در جمال تو داد گنه نداد\r\nشرمنده از هلاکت خسرو مشو، چه شد\r\nیک جانت بیش داد، سه و چار و ده نداد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل جز ترا به سینه درون جایگه نداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین مملکت زمانه به خورشید و مه نداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آبش مباد ریخته، هر چند زان زنخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد تشنه را بکشت که آبی ز چه نداد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صوفی که خاک نیست سرش در ره بتان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گفتش به سر زنید که پیرش کله نداد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دیدن به خواب هست گنه، لیک دوزخی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن کس که در جمال تو داد گنه نداد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شرمنده از هلاکت خسرو مشو، چه شد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک جانت بیش داد، سه و چار و ده نداد",
+      "CoupletIndex": 4
+    }
+  ]
+}

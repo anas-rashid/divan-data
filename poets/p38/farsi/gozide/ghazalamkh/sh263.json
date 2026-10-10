@@ -1,0 +1,93 @@
+{
+  "Id": 11547,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۶۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۶۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh263",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh263",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنگی از حسن تو در روی گل است\r\nوز لب لعلت خیالی در مل است\r\nاز خیال نرگس جادوی تو\r\nدر چمن ها چشم نرگس بر گل است\r\nاز نسیم صبح کی بیرون رود\r\nبوی گل کاندر دماغ بلبل است\r\nاز کمند عنبرین گیسوی تو\r\nملتهب کی دل شود، گر دلدل است\r\nرحم کن بر خسرو، ار بشنیده ای\r\nکز فغانش عالمی در غلغل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگی از حسن تو در روی گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز لب لعلت خیالی در مل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خیال نرگس جادوی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در چمن ها چشم نرگس بر گل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از نسیم صبح کی بیرون رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوی گل کاندر دماغ بلبل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از کمند عنبرین گیسوی تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ملتهب کی دل شود، گر دلدل است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رحم کن بر خسرو، ار بشنیده ای",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کز فغانش عالمی در غلغل است",
+      "CoupletIndex": 4
+    }
+  ]
+}

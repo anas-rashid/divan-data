@@ -1,0 +1,93 @@
+{
+  "Id": 13270,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹۸۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۸۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1986",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1986",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترک من ای من غلام روی تو\r\nجمله شاهان جهان هندوی تو\r\nخون ما گر ریخت در کویت چه باک\r\nخون بهای ماست خاک کوی تو\r\nهر چه آید در دلم غیر تو نیست\r\nتا تویی یا خوی تو یا جوی تو\r\nرشکم از بند قبا آید که او\r\nذوق ها می راند از پهلوی تو\r\nچند می پرسی که خسرو را که کشت\r\nغمزه تو، چشم تو، ابروی تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترک من ای من غلام روی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمله شاهان جهان هندوی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون ما گر ریخت در کویت چه باک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون بهای ماست خاک کوی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر چه آید در دلم غیر تو نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا تویی یا خوی تو یا جوی تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رشکم از بند قبا آید که او",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ذوق ها می راند از پهلوی تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چند می پرسی که خسرو را که کشت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غمزه تو، چشم تو، ابروی تو",
+      "CoupletIndex": 4
+    }
+  ]
+}

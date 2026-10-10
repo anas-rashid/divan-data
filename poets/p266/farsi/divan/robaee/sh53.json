@@ -1,0 +1,57 @@
+{
+  "Id": 14644,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۵۳",
+  "FullUrl": "/p266/farsi/divan/robaee/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منصور غمش ز نکته چینان چه بود؟\r\nدر راست خطر ز همنشینان چه بود؟\r\nچون عاقبت یگانه بینان دارست\r\nدریاب که انجام دوبینان چه بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منصور غمش ز نکته چینان چه بود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در راست خطر ز همنشینان چه بود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عاقبت یگانه بینان دارست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریاب که انجام دوبینان چه بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

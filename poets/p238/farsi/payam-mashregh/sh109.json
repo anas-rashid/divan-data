@@ -1,0 +1,57 @@
+{
+  "Id": 13446,
+  "CatId": 1041,
+  "Title": "بخش ۱۰۹ - دلا رمز حیات از غنچه دریاب",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۰۹ - دلا رمز حیات از غنچه دریاب",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلا رمز حیات از غنچه دریاب\r\nحقیقت در مجازش بی حجاب است\r\nز خاک تیره میروید ولیکن\r\nنگاهش بر شعاع آفتاب است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلا رمز حیات از غنچه دریاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حقیقت در مجازش بی حجاب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خاک تیره میروید ولیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگاهش بر شعاع آفتاب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

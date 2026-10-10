@@ -1,0 +1,57 @@
+{
+  "Id": 14036,
+  "CatId": 1045,
+  "Title": "بخش ۱۷۱ - هر آن قومی که می ریزد بهارش",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷۱ - هر آن قومی که می ریزد بهارش",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh172",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh172",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر آن قومی که می ریزد بهارش \r\nنسازد جز به بوهای رمیده\r\nز خاکش لاله می روید ولیکن\r\nقبائی دارد از رنگ پریده",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر آن قومی که می ریزد بهارش ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نسازد جز به بوهای رمیده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خاکش لاله می روید ولیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قبائی دارد از رنگ پریده",
+      "CoupletIndex": 1
+    }
+  ]
+}

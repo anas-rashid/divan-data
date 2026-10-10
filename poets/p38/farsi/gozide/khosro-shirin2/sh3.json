@@ -1,0 +1,93 @@
+{
+  "Id": 11210,
+  "CatId": 1032,
+  "Title": "بخش ۳ - مناجات",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » خسرو و شیرین » بخش ۳ - مناجات",
+  "FullUrl": "/p38/farsi/gozide/khosro-shirin2/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/khosro-shirin2/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خدایا چون به منشور الهی\r\nرقم کردی سپیدی و سیاهی\r\nز باران عنایت گل سرشتی\r\nبرات مردمی بر وی نبشتی\r\nمثال هستی ما هم ز اول\r\nبه توقیع کرم کردی مسجل\r\nز گنج بخششم هر چیز دادی\r\nکلید گنج ایمان نیز دادی\r\nچراغم را چو خود بخشیده‌ای نور\r\nمکن بخشیدهٔ خود را ز من دور",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خدایا چون به منشور الهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رقم کردی سپیدی و سیاهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز باران عنایت گل سرشتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برات مردمی بر وی نبشتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مثال هستی ما هم ز اول",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به توقیع کرم کردی مسجل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز گنج بخششم هر چیز دادی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کلید گنج ایمان نیز دادی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چراغم را چو خود بخشیده‌ای نور",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مکن بخشیدهٔ خود را ز من دور",
+      "CoupletIndex": 4
+    }
+  ]
+}

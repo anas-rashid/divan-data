@@ -1,0 +1,105 @@
+{
+  "Id": 11852,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۶۸",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۶۸",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh568",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh568",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خطی از لعل جانان می برآید\r\nکه دود از روزن جان می برآید\r\nسر زلفش بنفشه دسته بسته\r\nز اطراف گلستان می برآید\r\nبرآمد ماه تابان در شب اینجا\r\nشبی از ماه تابان می برآید\r\nز کافور تو سنبل می زند سر\r\nز یاقوت تو ریحان می برآید\r\nمسلمانان، نگهدارید خود را\r\nکه کفر کج ز ایمان می برآید\r\nدل خسرو در آن زلف است دانم\r\nاز آن خاطر پریشان می برآید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خطی از لعل جانان می برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دود از روزن جان می برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر زلفش بنفشه دسته بسته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز اطراف گلستان می برآید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برآمد ماه تابان در شب اینجا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شبی از ماه تابان می برآید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز کافور تو سنبل می زند سر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز یاقوت تو ریحان می برآید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مسلمانان، نگهدارید خود را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که کفر کج ز ایمان می برآید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دل خسرو در آن زلف است دانم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از آن خاطر پریشان می برآید",
+      "CoupletIndex": 5
+    }
+  ]
+}

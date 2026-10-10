@@ -1,0 +1,57 @@
+{
+  "Id": 13377,
+  "CatId": 1041,
+  "Title": "بخش ۴۰ - خرد گفت او بچشم اندر نگنجد",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۴۰ - خرد گفت او بچشم اندر نگنجد",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرد گفت او بچشم اندر نگنجد\r\nنگاه شوق در امید و بیم است\r\nنمیگردد کهن افسانهٔ طور\r\nکه در هر دل تمنای کلیم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرد گفت او بچشم اندر نگنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاه شوق در امید و بیم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمیگردد کهن افسانهٔ طور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در هر دل تمنای کلیم است",
+      "CoupletIndex": 1
+    }
+  ]
+}

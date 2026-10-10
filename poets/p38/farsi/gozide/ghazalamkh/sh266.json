@@ -1,0 +1,93 @@
+{
+  "Id": 11550,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۶۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۶۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh266",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh266",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد دل اندر زلف شب گون سوخت ست\r\nگوییا در شب چراغ افروخته ست\r\nهر که او سودای زلفت می پزد\r\nعود را چون هیزم تر سوخت ست\r\nدل به شمشیر جفا بشکافته ست\r\nوانگه از تیر مژه بر دوخته ست\r\nگریه چندان شد که در خون دلم\r\nمردم چشم آشنا آموخته ست\r\nای مسلمانان، یکی بازم خرید\r\nکو مرا بر دست غم بفروخته ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد دل اندر زلف شب گون سوخت ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوییا در شب چراغ افروخته ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر که او سودای زلفت می پزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عود را چون هیزم تر سوخت ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل به شمشیر جفا بشکافته ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وانگه از تیر مژه بر دوخته ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گریه چندان شد که در خون دلم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مردم چشم آشنا آموخته ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ای مسلمانان، یکی بازم خرید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کو مرا بر دست غم بفروخته ست",
+      "CoupletIndex": 4
+    }
+  ]
+}

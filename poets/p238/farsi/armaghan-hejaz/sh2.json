@@ -1,0 +1,57 @@
+{
+  "Id": 13867,
+  "CatId": 1045,
+  "Title": "بخش ۲ - سخن‌ها رفت از بود و نبودم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲ - سخن‌ها رفت از بود و نبودم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخن‌ها رفت از بود و نبودم\r\nمن از خِجْلَت، لبِ خود، کم گشودم\r\nسجودِ زنده‌مردان می‌شناسی؟\r\nعیارِ کارِ من گیر از سجودم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخن‌ها رفت از بود و نبودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من از خِجْلَت، لبِ خود، کم گشودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سجودِ زنده‌مردان می‌شناسی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیارِ کارِ من گیر از سجودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

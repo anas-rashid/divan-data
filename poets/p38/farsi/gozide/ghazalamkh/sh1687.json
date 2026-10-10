@@ -1,0 +1,93 @@
+{
+  "Id": 12971,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۶۸۷",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۸۷",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1687",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1687",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لاله دمد از خون شهیدان غم او\r\nتا حشر در آیند به خوان علم او\r\nاز جور و وفا و ستم هر که بپرسی\r\nدر عشق مساوی ست وجود و عدم او\r\nمی زد رقم غالیه نقاش سیه کار\r\nبشکست ز رشک خط سبزت قلم او\r\nدر پای خم امروز چو من صاف دلی نیست\r\nجز درد که پیوسته بود در قدم او\r\nخسرو چو خورد می ز سفال سگ کویش\r\nجمشید حسد می برد از جام جم او",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لاله دمد از خون شهیدان غم او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا حشر در آیند به خوان علم او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جور و وفا و ستم هر که بپرسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عشق مساوی ست وجود و عدم او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می زد رقم غالیه نقاش سیه کار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بشکست ز رشک خط سبزت قلم او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در پای خم امروز چو من صاف دلی نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جز درد که پیوسته بود در قدم او",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو چو خورد می ز سفال سگ کویش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جمشید حسد می برد از جام جم او",
+      "CoupletIndex": 4
+    }
+  ]
+}

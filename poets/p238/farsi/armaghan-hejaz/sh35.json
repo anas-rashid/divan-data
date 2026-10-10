@@ -1,0 +1,57 @@
+{
+  "Id": 13900,
+  "CatId": 1045,
+  "Title": "بخش ۳۵ - مریدی فاقه مستی گفت با شیخ",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۵ - مریدی فاقه مستی گفت با شیخ",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مریدی فاقه مستی گفت با شیخ\r\nکه یزدان را ز حالِ ما خبر نیست\r\nبه ما نزدیک‌تر از شهرگِ ماست\r\nولیکن از شکم نزدیک‌تر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مریدی فاقه مستی گفت با شیخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که یزدان را ز حالِ ما خبر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به ما نزدیک‌تر از شهرگِ ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکن از شکم نزدیک‌تر نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

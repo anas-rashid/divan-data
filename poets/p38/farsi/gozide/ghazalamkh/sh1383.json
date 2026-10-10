@@ -1,0 +1,93 @@
+{
+  "Id": 12667,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۳۸۳",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۸۳",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1383",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1383",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلبرا، در جان نشین، فی العین هم\r\nای ز تو شادی به جان، فی القلب هم\r\nگریه خون بین و می کن پرسشی\r\nچون نماند، اکنون مرا فی الجسم دم\r\nچون کنم من خواب، دریا گشت چشم\r\nتو به خنده گوئیم فی البحر نم\r\nتا زهر دل برد غم خال رخت\r\nبین همه جا غم، بمحوالخال غم\r\nعمر خسرو در غم رویت گذشت\r\nچند باشد دوریم، والصبر کم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلبرا، در جان نشین، فی العین هم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای ز تو شادی به جان، فی القلب هم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گریه خون بین و می کن پرسشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون نماند، اکنون مرا فی الجسم دم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون کنم من خواب، دریا گشت چشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تو به خنده گوئیم فی البحر نم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا زهر دل برد غم خال رخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بین همه جا غم، بمحوالخال غم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عمر خسرو در غم رویت گذشت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چند باشد دوریم، والصبر کم",
+      "CoupletIndex": 4
+    }
+  ]
+}

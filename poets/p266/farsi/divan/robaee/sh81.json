@@ -1,0 +1,57 @@
+{
+  "Id": 14672,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/p266/farsi/divan/robaee/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی کشته زخم ناوک و شمشیرم\r\nنی خسته ناخن پلنگ و شیرم\r\nلب می گزم و خون به زبان می لیسم\r\nخون می خورم و ز زندگانی سیرم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی کشته زخم ناوک و شمشیرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نی خسته ناخن پلنگ و شیرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب می گزم و خون به زبان می لیسم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون می خورم و ز زندگانی سیرم",
+      "CoupletIndex": 1
+    }
+  ]
+}

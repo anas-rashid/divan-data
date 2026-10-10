@@ -1,0 +1,93 @@
+{
+  "Id": 11107,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۱۴ - مناجات",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۱۴ - مناجات",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من که به حکم تو درین کارگاه\r\nاز عدم این سو ، زده‌ام بارگاه\r\nبه که چو آوردی و بازم بری\r\nهم به سوی خویش فرازم بری\r\nسر مرا چون همه داننده‌ای\r\nباز رهانم که رهاننده‌ای\r\nگر چه تن من ز پی سوز راست\r\nرحمت تو از پی این روز راست\r\nاز عمل خود چو نشینم خجل\r\nذیل کرم پوش برین تنگ دل",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من که به حکم تو درین کارگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عدم این سو ، زده‌ام بارگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به که چو آوردی و بازم بری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم به سوی خویش فرازم بری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر مرا چون همه داننده‌ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باز رهانم که رهاننده‌ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر چه تن من ز پی سوز راست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رحمت تو از پی این روز راست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از عمل خود چو نشینم خجل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ذیل کرم پوش برین تنگ دل",
+      "CoupletIndex": 4
+    }
+  ]
+}

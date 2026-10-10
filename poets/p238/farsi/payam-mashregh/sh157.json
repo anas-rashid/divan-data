@@ -1,0 +1,57 @@
+{
+  "Id": 13494,
+  "CatId": 1041,
+  "Title": "بخش ۱۵۷ - تو می گوئی که من هستم خدا نیست",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۵۷ - تو می گوئی که من هستم خدا نیست",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh157",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh157",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو می گوئی که من هستم خدا نیست\r\nجهان آب و گل را انتها نیست\r\nهنوز این راز بر من ناگشود است\r\nکه چشمم آنچه بیند هست یا نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو می گوئی که من هستم خدا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جهان آب و گل را انتها نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنوز این راز بر من ناگشود است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چشمم آنچه بیند هست یا نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

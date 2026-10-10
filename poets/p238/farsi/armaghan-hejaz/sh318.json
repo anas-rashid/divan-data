@@ -1,0 +1,57 @@
+{
+  "Id": 14182,
+  "CatId": 1045,
+  "Title": "بخش ۳۱۷ - گهی جویندهٔ حسن غریبی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۱۷ - گهی جویندهٔ حسن غریبی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh318",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh318",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گهی جویندهٔ حسن غریبی \r\nخطیبی منبر او از صلیبی\r\nگهی سلطان با خیل و سپاهی\r\nولی از دولت خود بی نصیبی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گهی جویندهٔ حسن غریبی ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خطیبی منبر او از صلیبی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گهی سلطان با خیل و سپاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولی از دولت خود بی نصیبی",
+      "CoupletIndex": 1
+    }
+  ]
+}

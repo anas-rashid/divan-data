@@ -1,0 +1,57 @@
+{
+  "Id": 14245,
+  "CatId": 1045,
+  "Title": "بخش ۳۸۰ - مسلمانی که داندررمز دین را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۸۰ - مسلمانی که داندررمز دین را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh381",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh381",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمانی که داند رمز دین را\r\nنساید پیش غیر الله جبین را\r\nاکر گردون به کام او مگردد\r\nبه کام خود بگرداند زمین را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمانی که داند رمز دین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نساید پیش غیر الله جبین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکر گردون به کام او مگردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به کام خود بگرداند زمین را",
+      "CoupletIndex": 1
+    }
+  ]
+}

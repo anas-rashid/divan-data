@@ -1,0 +1,57 @@
+{
+  "Id": 13413,
+  "CatId": 1041,
+  "Title": "بخش ۷۶ - ز انجم تا به انجم صد جهان بود",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۷۶ - ز انجم تا به انجم صد جهان بود",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز انجم تا به انجم صد جهان بود\r\nخرد هر جا که پر زد آسمان بود\r\nولیکن چون بخود نگریستم من\r\nکران بیکران در من نهان بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز انجم تا به انجم صد جهان بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرد هر جا که پر زد آسمان بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن چون بخود نگریستم من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کران بیکران در من نهان بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

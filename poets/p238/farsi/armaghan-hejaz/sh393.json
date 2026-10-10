@@ -1,0 +1,57 @@
+{
+  "Id": 14257,
+  "CatId": 1045,
+  "Title": "بخش ۳۹۲ - قلندر میل تقریری ندارد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۹۲ - قلندر میل تقریری ندارد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh393",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh393",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قلندر میل تقریری ندارد\r\nبجز این نکته اکسیری ندارد \r\nاز آن کشت خرابی حاصلی نیست\r\nکه آب از خون شبیری ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قلندر میل تقریری ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بجز این نکته اکسیری ندارد ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن کشت خرابی حاصلی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که آب از خون شبیری ندارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

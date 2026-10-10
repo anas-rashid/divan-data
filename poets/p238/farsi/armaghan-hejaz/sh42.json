@@ -1,0 +1,57 @@
+{
+  "Id": 13907,
+  "CatId": 1045,
+  "Title": "بخش ۴۲ - الا یا خیمگی خیمه فروهل",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۴۲ - الا یا خیمگی خیمه فروهل",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "«الا یا خیمگی خیمه فروهل\r\nکه پیشاهنگ بیرون شد ز منزل»\r\nخرد از راندن محمل فرو ماند\r\nزمام خویش دادم در کف دل",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "«الا یا خیمگی خیمه فروهل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که پیشاهنگ بیرون شد ز منزل»",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرد از راندن محمل فرو ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زمام خویش دادم در کف دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 12949,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۶۶۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۶۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1665",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1665",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست گشاده چشم من جز به خیال روی تو\r\nبسته کس نشد دلم جز به شکنج موی تو\r\nهر سحری چو بیدلان آیم و بر تو بنگرم\r\nاز پی آنکه شد مرا فال خجسته روی تو\r\nپیش من آ که ساعتی با تو مگر دمی زنم\r\nزانکه به لب رسیده شد جانم از آرزوی تو\r\nدیده من ز نیکوان روی تو اختیار کرد\r\nاز پی چشم زخم تو کم نگرم به سوی تو\r\nمرد چو خسرو از غمت بوی وفا بدو رسان\r\nتا به وسیله صبا زنده شود به بوی تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست گشاده چشم من جز به خیال روی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسته کس نشد دلم جز به شکنج موی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سحری چو بیدلان آیم و بر تو بنگرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پی آنکه شد مرا فال خجسته روی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیش من آ که ساعتی با تو مگر دمی زنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زانکه به لب رسیده شد جانم از آرزوی تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دیده من ز نیکوان روی تو اختیار کرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از پی چشم زخم تو کم نگرم به سوی تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مرد چو خسرو از غمت بوی وفا بدو رسان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا به وسیله صبا زنده شود به بوی تو",
+      "CoupletIndex": 4
+    }
+  ]
+}

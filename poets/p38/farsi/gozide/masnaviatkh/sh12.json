@@ -1,0 +1,69 @@
+{
+  "Id": 11105,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۱۲ - استاد دیگر، سعدی را نیز می‌ستاید:",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۱۲ - استاد دیگر، سعدی را نیز می‌ستاید:",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ور غزلت یاد جوانی دهد\r\nوز خوشی طبع‌، نشانی دهد\r\nتن‌زن از‌آن هم که کسان گفته‌اند\r\nهر چه تو گویی، به از‌آن گفته‌اند\r\nنوبت سعدی که مبادا کهن\r\nشرم نداری که بگویی سخن‌؟",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ور غزلت یاد جوانی دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خوشی طبع‌، نشانی دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تن‌زن از‌آن هم که کسان گفته‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چه تو گویی، به از‌آن گفته‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نوبت سعدی که مبادا کهن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شرم نداری که بگویی سخن‌؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

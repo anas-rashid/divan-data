@@ -1,0 +1,105 @@
+{
+  "Id": 12995,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۷۱۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۱۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1711",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1711",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در خون منم، ای صنم، نشسته\r\nوز عشق تو در الم نشسته\r\nمانند تو دلبری به خوبی\r\nدر ملکت حسن کم نشسته\r\nآن ابروی شوخ دلربایت\r\nبگرفته دل و به خم نشسته\r\nهر کس به مقام و منزل خویش\r\nدر کوی تو چون سگم نشسته\r\nای صوفی بی صفا به محراب\r\nچون مردم بی ندم نشسته\r\nخسرو به حریم عشق فارغ\r\nاز زمزم و از حرم نشسته",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در خون منم، ای صنم، نشسته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز عشق تو در الم نشسته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مانند تو دلبری به خوبی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ملکت حسن کم نشسته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن ابروی شوخ دلربایت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بگرفته دل و به خم نشسته",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر کس به مقام و منزل خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در کوی تو چون سگم نشسته",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ای صوفی بی صفا به محراب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون مردم بی ندم نشسته",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خسرو به حریم عشق فارغ",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از زمزم و از حرم نشسته",
+      "CoupletIndex": 5
+    }
+  ]
+}

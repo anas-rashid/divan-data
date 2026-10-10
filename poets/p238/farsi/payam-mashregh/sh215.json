@@ -1,0 +1,81 @@
+{
+  "Id": 13552,
+  "CatId": 1041,
+  "Title": "بخش ۲۱۵ - تهذیب",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۱۵ - تهذیب",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "انسان که رخ ز غازهٔ تهذیب بر فروخت\r\nخاک سیاه خویش چو آئینه وانمود\r\nپوشید پنجه را ته دستانه حریر\r\nافسونی قلم شد و تیغ از کمر گشود\r\nاین بوالهوس صنم کدهٔ صلح عام ساخت\r\nرقصید گرد او به نواهای چنگ و عود\r\nدیدم چو جنگ پرده ناموس او درید\r\nجز یسفک الدما و «خصیم مبین» نبود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انسان که رخ ز غازهٔ تهذیب بر فروخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک سیاه خویش چو آئینه وانمود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پوشید پنجه را ته دستانه حریر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسونی قلم شد و تیغ از کمر گشود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این بوالهوس صنم کدهٔ صلح عام ساخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رقصید گرد او به نواهای چنگ و عود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دیدم چو جنگ پرده ناموس او درید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جز یسفک الدما و «خصیم مبین» نبود",
+      "CoupletIndex": 3
+    }
+  ]
+}

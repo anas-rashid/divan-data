@@ -1,0 +1,81 @@
+{
+  "Id": 13783,
+  "CatId": 1043,
+  "Title": "بخش ۴ - نغمه ملائک",
+  "FullTitle": "محمد اقبال » فارسی » جاویدنامه » بخش ۴ - نغمه ملائک",
+  "FullUrl": "/p238/farsi/javidname/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/javidname/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فروغ مشت خاک از نوریان افزون شود روزی\r\nزمین ازکوکب تقدیر او گردون شود روزی\r\nخیال او که از سیل حوادث پرورش گیرد\r\nز گرداب سپهر نیلگون بیرون شود روزی\r\nیکی در معنی آدم نگر از ما چه می پرسی\r\nهنوز اندر طبیعت می خلد موزون شود روزی\r\nچنان موزون شود این پیش پا افتاده مضمونی\r\nکه یزدان را دل از تأثیر او پر خون شود روزی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فروغ مشت خاک از نوریان افزون شود روزی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زمین ازکوکب تقدیر او گردون شود روزی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیال او که از سیل حوادث پرورش گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز گرداب سپهر نیلگون بیرون شود روزی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یکی در معنی آدم نگر از ما چه می پرسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هنوز اندر طبیعت می خلد موزون شود روزی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چنان موزون شود این پیش پا افتاده مضمونی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که یزدان را دل از تأثیر او پر خون شود روزی",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14106,
+  "CatId": 1045,
+  "Title": "بخش ۲۴۱ - بهل ای دخترک این دلبری ها",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۴۱ - بهل ای دخترک این دلبری ها",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh242",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh242",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهل ای دخترک این دلبری ها\r\nمسلمان را نزیبد کافری ها\r\nمنه دل بر جمال غازه پرورد\r\nبیاموز از نگه غارتگری ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهل ای دخترک این دلبری ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مسلمان را نزیبد کافری ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منه دل بر جمال غازه پرورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیاموز از نگه غارتگری ها",
+      "CoupletIndex": 1
+    }
+  ]
+}

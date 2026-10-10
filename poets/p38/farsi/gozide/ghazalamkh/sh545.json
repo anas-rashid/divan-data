@@ -1,0 +1,153 @@
+{
+  "Id": 11829,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۴۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۴۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh545",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh545",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو ماه روزه از اوج سما شد\r\nز نور روزه دوران بی ضیا شد\r\nبر ابروی هلال عید بنگر\r\nهلال ابروم از من جدا شد\r\nازان آبی که بگذشت از سر خم\r\nپیاله با صراحی آشنا شد\r\nمرا کاب دو چشم از سرگذشته ست\r\nعجب بنگر که گل باد صبا شد\r\nگلش را سبزه نارسته گیا رست\r\nچنان مردم مگر مردم گیا شد\r\nازان محراب ابرو یاد کردم\r\nنمازی چند نیز از من قضا شد\r\nمگر مجنون شناسد، حال من چیست؟\r\nکه در هجران لیلی مبتلا شد\r\nهمه گل می دمد از دیده در چشم\r\nخیال روی او ما را بلا شد\r\nدر آب دیده سرگردان چه مانده ست؟\r\nمگر سنگین دل من آشنا شد\r\nدو چشم خسرو از باریدن در\r\nکف شاهنشه باران عطا شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو ماه روزه از اوج سما شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز نور روزه دوران بی ضیا شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر ابروی هلال عید بنگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هلال ابروم از من جدا شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ازان آبی که بگذشت از سر خم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیاله با صراحی آشنا شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرا کاب دو چشم از سرگذشته ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عجب بنگر که گل باد صبا شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گلش را سبزه نارسته گیا رست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چنان مردم مگر مردم گیا شد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ازان محراب ابرو یاد کردم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نمازی چند نیز از من قضا شد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مگر مجنون شناسد، حال من چیست؟",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که در هجران لیلی مبتلا شد",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "همه گل می دمد از دیده در چشم",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "خیال روی او ما را بلا شد",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "در آب دیده سرگردان چه مانده ست؟",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مگر سنگین دل من آشنا شد",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "دو چشم خسرو از باریدن در",
+      "CoupletIndex": 9
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "کف شاهنشه باران عطا شد",
+      "CoupletIndex": 9
+    }
+  ]
+}

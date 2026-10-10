@@ -1,0 +1,57 @@
+{
+  "Id": 13404,
+  "CatId": 1041,
+  "Title": "بخش ۶۷ - مشو ای غنچهٔ نورسته دلگیر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۶۷ - مشو ای غنچهٔ نورسته دلگیر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشو ای غنچهٔ نورسته دلگیر\r\nازین بستان سرا دیگر چه خواهی\r\nلب جو، بزم گل، مرغ چمن سیر\r\nصبا ، شبنم ، نوای صبحگاهی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشو ای غنچهٔ نورسته دلگیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازین بستان سرا دیگر چه خواهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب جو، بزم گل، مرغ چمن سیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبا ، شبنم ، نوای صبحگاهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

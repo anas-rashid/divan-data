@@ -1,0 +1,93 @@
+{
+  "Id": 12023,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۳۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۳۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh739",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh739",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کجا در رهم آن شوخ بلا پیش آمد؟\r\nچه بلا بود ندانم، ز کجا پیش آمد؟\r\nسوی صحرا به تماشای چمن می رفتم\r\nدلبری، سر و قدی، ماه لقا پیش آمد\r\nآنچه من دیدم و من می کشم از جور فراق\r\nکه شنیده ست و که دیده ست و که را پیش آمد\r\nآن بت از مهر نخستین به وفا دل می برد\r\nآنکه دل برد ز ما پس به جفا پیش آمد\r\nخسروا، خون خور و دم در کش و صبری پیش آر\r\nکه چنین واقعه تنها نه ترا پیش آمد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کجا در رهم آن شوخ بلا پیش آمد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه بلا بود ندانم، ز کجا پیش آمد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوی صحرا به تماشای چمن می رفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلبری، سر و قدی، ماه لقا پیش آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آنچه من دیدم و من می کشم از جور فراق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که شنیده ست و که دیده ست و که را پیش آمد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آن بت از مهر نخستین به وفا دل می برد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آنکه دل برد ز ما پس به جفا پیش آمد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسروا، خون خور و دم در کش و صبری پیش آر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که چنین واقعه تنها نه ترا پیش آمد",
+      "CoupletIndex": 4
+    }
+  ]
+}

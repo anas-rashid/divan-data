@@ -1,0 +1,57 @@
+{
+  "Id": 13621,
+  "CatId": 1041,
+  "Title": "بخش ۲۸۴ - آزادی بحر",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۸۴ - آزادی بحر",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh284",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh284",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بطی می گفت بحر آزاد گردید\r\nچنین فرمان ز دیوان خضر رفت\r\nنهنگی گفت رو هر جا که خواهی\r\nولی از ما نباید بی خبر رفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بطی می گفت بحر آزاد گردید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چنین فرمان ز دیوان خضر رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نهنگی گفت رو هر جا که خواهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولی از ما نباید بی خبر رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

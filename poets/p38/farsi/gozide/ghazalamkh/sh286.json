@@ -1,0 +1,105 @@
+{
+  "Id": 11570,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۸۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۸۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیدار شو، دلا، که جهان جای خواب نیست\r\nایمن درین خرابه نشستن صواب نیست\r\nاز خفتگان خواب چه پرسی که حال چیست؟\r\nزان خواب خوش که هیچ کسی را جواب نیست\r\nچون هیچ دوست نیست وفادار زیر خاک\r\nمعمور خسته ای که چو گور خراب نیست\r\nچون مست را خبر نبود از جفای دهر\r\nبر هوشیار به ز شراب و کباب نیست\r\nطیب حیات خواستن از آسمان خطاست\r\nکز شیشه ای ذلیل امید صواب نیست\r\nساقی ز جام عشق به خسرو رسان نمی\r\nزیرا که مست کارتر از وی شراب نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیدار شو، دلا، که جهان جای خواب نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایمن درین خرابه نشستن صواب نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خفتگان خواب چه پرسی که حال چیست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان خواب خوش که هیچ کسی را جواب نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون هیچ دوست نیست وفادار زیر خاک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "معمور خسته ای که چو گور خراب نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون مست را خبر نبود از جفای دهر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر هوشیار به ز شراب و کباب نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طیب حیات خواستن از آسمان خطاست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کز شیشه ای ذلیل امید صواب نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ساقی ز جام عشق به خسرو رسان نمی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "زیرا که مست کارتر از وی شراب نیست",
+      "CoupletIndex": 5
+    }
+  ]
+}

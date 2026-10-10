@@ -1,0 +1,57 @@
+{
+  "Id": 13360,
+  "CatId": 1041,
+  "Title": "بخش ۲۳ - مسلمانان مرا حرفی است در دل",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۳ - مسلمانان مرا حرفی است در دل",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمانان مرا حرفی است در دل\r\nکه روشن تر ز جان جبرئیل است\r\nنهانش دارم از آزر نهادان\r\nکه این سری ز اسرار خلیل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمانان مرا حرفی است در دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که روشن تر ز جان جبرئیل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نهانش دارم از آزر نهادان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که این سری ز اسرار خلیل است",
+      "CoupletIndex": 1
+    }
+  ]
+}

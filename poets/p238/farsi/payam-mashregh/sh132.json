@@ -1,0 +1,57 @@
+{
+  "Id": 13469,
+  "CatId": 1041,
+  "Title": "بخش ۱۳۲ - به شبنم غنچهٔ نورسته می گفت",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۳۲ - به شبنم غنچهٔ نورسته می گفت",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh132",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh132",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به شبنم غنچهٔ نورسته می گفت\r\nنگاه ما چمن زادان رسا نیست\r\nدر آن پهنا که صد خورشید دارد\r\nتمیز پست و بالا هست یا نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به شبنم غنچهٔ نورسته می گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاه ما چمن زادان رسا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آن پهنا که صد خورشید دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تمیز پست و بالا هست یا نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

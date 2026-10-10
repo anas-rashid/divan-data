@@ -1,0 +1,117 @@
+{
+  "Id": 12080,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۹۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۹۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh796",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh796",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل ز روی تو فرو می ریزد\r\nمشک در زلف تو می آویزد\r\nاز پی دیدن روی چو گلت\r\nباد صد نقش همی انگیزد\r\nهر که آن خط مسلسل بیند\r\nخاک بر خط دبیران ریزد\r\nچون سحر بوی تو آید به چمن\r\nباد صبح از سر گل برخیزد\r\nدست شستم ز دل خون گشته\r\nزانکه با زلف تو می آمیزد\r\nچشم بیمار تو از خون دلم\r\nمی خورد باده نمی پرهیزد\r\nسر نهاده ست چو خسرو به غمت\r\nسر نهد، گر ز غمت بگریزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل ز روی تو فرو می ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشک در زلف تو می آویزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پی دیدن روی چو گلت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باد صد نقش همی انگیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر که آن خط مسلسل بیند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خاک بر خط دبیران ریزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون سحر بوی تو آید به چمن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "باد صبح از سر گل برخیزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دست شستم ز دل خون گشته",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زانکه با زلف تو می آمیزد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چشم بیمار تو از خون دلم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "می خورد باده نمی پرهیزد",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سر نهاده ست چو خسرو به غمت",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سر نهد، گر ز غمت بگریزد",
+      "CoupletIndex": 6
+    }
+  ]
+}

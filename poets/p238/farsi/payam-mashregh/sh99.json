@@ -1,0 +1,57 @@
+{
+  "Id": 13436,
+  "CatId": 1041,
+  "Title": "بخش ۹۹ - تو گوئی طایر ما زیر دام است",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۹۹ - تو گوئی طایر ما زیر دام است",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو گوئی طایر ما زیر دام است\r\nپریدن بر پر و بالش حرام است\r\nز تن بر جسته تر شد معنی جان\r\nفسان خنجر ما از نیام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو گوئی طایر ما زیر دام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پریدن بر پر و بالش حرام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز تن بر جسته تر شد معنی جان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فسان خنجر ما از نیام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

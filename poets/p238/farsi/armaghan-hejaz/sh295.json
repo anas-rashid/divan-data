@@ -1,0 +1,57 @@
+{
+  "Id": 14159,
+  "CatId": 1045,
+  "Title": "بخش ۲۹۴ - دجود است اینکه بینی یا نمود است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۹۴ - دجود است اینکه بینی یا نمود است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دجود است اینکه بینی یا نمود است\r\nحکیم ما چه مشکلها گشود است\r\nکتابی بر فن غواص بنوشت\r\nولیکن در دل دریا نبود است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دجود است اینکه بینی یا نمود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حکیم ما چه مشکلها گشود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کتابی بر فن غواص بنوشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکن در دل دریا نبود است",
+      "CoupletIndex": 1
+    }
+  ]
+}

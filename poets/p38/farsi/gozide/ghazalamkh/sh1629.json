@@ -1,0 +1,93 @@
+{
+  "Id": 12913,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۶۲۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۲۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1629",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1629",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آه ازین تنگ قبایان شده تنگم دامان\r\nکه نه سر ماند مرا در غم ایشان نه امان\r\nلب گشایند و نباتی ندهندم، آری\r\nکام خود را نتوان یافتن از خودکامان\r\nگر برم در برشان دست، بدزدند اندام\r\nسیم دزدی عجبی نیست ز سیم اندامان\r\nرخ چو آتش بنمایند و جگر پخته کنند\r\nاین دل پخته من سوخته شد زین خامان\r\nخسرو از بهر تو بدنام شد، از وی بگریز\r\nنیکنامی نبود در روش بدنامان",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه ازین تنگ قبایان شده تنگم دامان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نه سر ماند مرا در غم ایشان نه امان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب گشایند و نباتی ندهندم، آری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کام خود را نتوان یافتن از خودکامان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر برم در برشان دست، بدزدند اندام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سیم دزدی عجبی نیست ز سیم اندامان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رخ چو آتش بنمایند و جگر پخته کنند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این دل پخته من سوخته شد زین خامان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو از بهر تو بدنام شد، از وی بگریز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نیکنامی نبود در روش بدنامان",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14096,
+  "CatId": 1045,
+  "Title": "بخش ۲۳۱ - مبارکباد کنن پاک جان را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۳۱ - مبارکباد کنن پاک جان را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh232",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh232",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مبارکباد کنن پاک جان را\r\nکه زایدن امیر کاروان را\r\nزغوش چنین فرخنده مادر\r\nخجالت می دهم حور جنان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مبارکباد کنن پاک جان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که زایدن امیر کاروان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زغوش چنین فرخنده مادر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خجالت می دهم حور جنان را",
+      "CoupletIndex": 1
+    }
+  ]
+}

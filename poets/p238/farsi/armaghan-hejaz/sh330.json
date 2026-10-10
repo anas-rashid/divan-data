@@ -1,0 +1,57 @@
+{
+  "Id": 14194,
+  "CatId": 1045,
+  "Title": "بخش ۳۲۹ - شنیدم مرگ با یزدان چنین گفت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۲۹ - شنیدم مرگ با یزدان چنین گفت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شنیدم مرگ با یزدان چنین گفت\r\nچه بی نم  چشمه ای گز گل بزاید \r\nچو جان او بگیرم شرمسارم\r\nولی او را ز مردن عار ناید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شنیدم مرگ با یزدان چنین گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه بی نم  چشمه ای گز گل بزاید ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو جان او بگیرم شرمسارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولی او را ز مردن عار ناید",
+      "CoupletIndex": 1
+    }
+  ]
+}

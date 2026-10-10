@@ -1,0 +1,57 @@
+{
+  "Id": 14109,
+  "CatId": 1045,
+  "Title": "بخش ۲۴۴ - جهان را محکمی از امهات است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۴۴ - جهان را محکمی از امهات است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان را محکمی از امهات است\r\nنهادشان امین ممکنات است\r\nاگر این نکته را قومی نداند\r\nنظام کار و بارش بی ثبات است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان را محکمی از امهات است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نهادشان امین ممکنات است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر این نکته را قومی نداند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نظام کار و بارش بی ثبات است",
+      "CoupletIndex": 1
+    }
+  ]
+}

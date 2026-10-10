@@ -1,0 +1,57 @@
+{
+  "Id": 13458,
+  "CatId": 1041,
+  "Title": "بخش ۱۲۱ - جهانها روید از مشت گل من",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۲۱ - جهانها روید از مشت گل من",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهانها روید از مشت گل من\r\nبیا سرمایه گیر از حاصل من\r\nغلط کردی ره سر منزل دوست\r\nدمی گم شو به صحرای دل من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهانها روید از مشت گل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیا سرمایه گیر از حاصل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غلط کردی ره سر منزل دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دمی گم شو به صحرای دل من",
+      "CoupletIndex": 1
+    }
+  ]
+}

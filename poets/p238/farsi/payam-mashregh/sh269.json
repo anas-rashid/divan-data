@@ -1,0 +1,81 @@
+{
+  "Id": 13606,
+  "CatId": 1041,
+  "Title": "بخش ۲۶۹ - نیچه",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۶۹ - نیچه",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh269",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh269",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر نوا خواهی ز پیش او گریز\r\nدر نی کلکش غریو تندر است\r\nنیشتر اندر دل مغرب فشرد\r\nدستش از خونِ چلیپا احمر است\r\nآنکه بر طرح حرم بتخانه ساخت\r\nقلب او مؤمن دماغش کافر است\r\nخویش را در نار آن نمرود سوز\r\nزانکه بستان خلیل از آذر است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نوا خواهی ز پیش او گریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در نی کلکش غریو تندر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیشتر اندر دل مغرب فشرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستش از خونِ چلیپا احمر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آنکه بر طرح حرم بتخانه ساخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "قلب او مؤمن دماغش کافر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خویش را در نار آن نمرود سوز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زانکه بستان خلیل از آذر است",
+      "CoupletIndex": 3
+    }
+  ]
+}

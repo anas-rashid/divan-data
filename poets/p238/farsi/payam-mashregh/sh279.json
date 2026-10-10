@@ -1,0 +1,105 @@
+{
+  "Id": 13616,
+  "CatId": 1041,
+  "Title": "بخش ۲۷۹ - شعرا",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۷۹ - شعرا",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh279",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh279",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برونینگ: \r\nبی پشت بود بادهٔ سر جوش زندگی\r\nآب خضر بگیرم و در ساغر افکنم\r\nبایرن: \r\nاز منت خضر نتوان کرد سینه داغ\r\nآب از جگر بگیرم و در ساغر افکنم\r\nغالب: \r\n«تا باده تلخ تر شود و سینه ریش تر\r\nبگدازم آبگینه و در ساغر افکنم»\r\nرومی: \r\nآمیزشی کجا گهر پاک او کجا\r\nاز تاک باده گیرم و در ساغر افکنم",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "CenteredVerse1",
+      "Text": "برونینگ: ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "بی پشت بود بادهٔ سر جوش زندگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "آب خضر بگیرم و در ساغر افکنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "CenteredVerse1",
+      "Text": "بایرن: ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از منت خضر نتوان کرد سینه داغ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آب از جگر بگیرم و در ساغر افکنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse1",
+      "Text": "غالب: ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 8,
+      "Position": "Right",
+      "Text": "«تا باده تلخ تر شود و سینه ریش تر",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Left",
+      "Text": "بگدازم آبگینه و در ساغر افکنم»",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 10,
+      "Position": "CenteredVerse1",
+      "Text": "رومی: ",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آمیزشی کجا گهر پاک او کجا",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از تاک باده گیرم و در ساغر افکنم",
+      "CoupletIndex": 7
+    }
+  ]
+}

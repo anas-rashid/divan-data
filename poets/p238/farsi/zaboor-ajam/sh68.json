@@ -1,0 +1,57 @@
+{
+  "Id": 13705,
+  "CatId": 1042,
+  "Title": "بخش ۶۸ - خرد از ذوق نگه گرم تماشا بود است",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۶۸ - خرد از ذوق نگه گرم تماشا بود است",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرد از ذوق نگه گرم تماشا بود است\r\nاین که جوینده و یابندهٔ هر موجود است\r\nجلوهٔ پاک طلب از مه و خورشید گذر\r\nزانکه هر جلوه درین دیر نگه آلود است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرد از ذوق نگه گرم تماشا بود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این که جوینده و یابندهٔ هر موجود است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جلوهٔ پاک طلب از مه و خورشید گذر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زانکه هر جلوه درین دیر نگه آلود است",
+      "CoupletIndex": 1
+    }
+  ]
+}

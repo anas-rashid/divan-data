@@ -1,0 +1,57 @@
+{
+  "Id": 14045,
+  "CatId": 1045,
+  "Title": "بخش ۱۸۰ - وجودش شعله از سوز درون است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۸۰ - وجودش شعله از سوز درون است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وجودش شعله از سوز درون است\r\nچو خس او را جهان چند و چون است\r\nکند شرح اناالحق همت او\r\nپی هر «کن» که میگوید «یکون» است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وجودش شعله از سوز درون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو خس او را جهان چند و چون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کند شرح اناالحق همت او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پی هر «کن» که میگوید «یکون» است",
+      "CoupletIndex": 1
+    }
+  ]
+}

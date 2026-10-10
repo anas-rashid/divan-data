@@ -1,0 +1,105 @@
+{
+  "Id": 12043,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۷۵۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۷۵۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh759",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh759",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر آن شاه دمی پیش گدا بنشیند\r\nفتنه و غارت و خونریز و جفا بنشیند\r\nگر بیابد به دعا عاشق و دلخسته وصال\r\nسالها بر در خلوت به دعا بنشیند\r\nچون قدم رنجه کند دوست به پرسیدن من\r\nخانه تاریک و دلم تنگ، کجا بنشیند؟\r\nخانه دیده برفتیم ز نقش همه پاک\r\nتا خیال رخ آن ترک ختا بنشیند\r\nجعد زلفین سمن سای تو در دور قمر\r\nخضر وقت است که بر آب بقا بنشیند\r\nسرو بستان که به قامت علم افراشته است\r\nچون ببیند قدت از باد هوا بنشیند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر آن شاه دمی پیش گدا بنشیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فتنه و غارت و خونریز و جفا بنشیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر بیابد به دعا عاشق و دلخسته وصال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سالها بر در خلوت به دعا بنشیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون قدم رنجه کند دوست به پرسیدن من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خانه تاریک و دلم تنگ، کجا بنشیند؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خانه دیده برفتیم ز نقش همه پاک",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا خیال رخ آن ترک ختا بنشیند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جعد زلفین سمن سای تو در دور قمر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خضر وقت است که بر آب بقا بنشیند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سرو بستان که به قامت علم افراشته است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چون ببیند قدت از باد هوا بنشیند",
+      "CoupletIndex": 5
+    }
+  ]
+}

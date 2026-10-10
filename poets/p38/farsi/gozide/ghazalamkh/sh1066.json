@@ -1,0 +1,93 @@
+{
+  "Id": 12350,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۰۶۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۶۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1066",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1066",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر از خطت سبزه صحرا بگیرد\r\nسرش سبز بادا، بگو تا بگیرد\r\nنهانی مریز، ای پسر، خون عاشق\r\nکه روزی ترا آشکارا بگیرد\r\nلبش خورده خونم، گرش من بگیرم\r\nهمان هر دو لب یکدگر را بگیرد\r\nدو زلفت دو عقد است رأس و ذنب را\r\nکه خورشید را بی محابا بگیرد\r\nوزان عقد خورشید یابد رهایی\r\nدگر خدمت شاه والا بگیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر از خطت سبزه صحرا بگیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرش سبز بادا، بگو تا بگیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نهانی مریز، ای پسر، خون عاشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که روزی ترا آشکارا بگیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "لبش خورده خونم، گرش من بگیرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همان هر دو لب یکدگر را بگیرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دو زلفت دو عقد است رأس و ذنب را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که خورشید را بی محابا بگیرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وزان عقد خورشید یابد رهایی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دگر خدمت شاه والا بگیرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

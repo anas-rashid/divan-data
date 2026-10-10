@@ -1,0 +1,57 @@
+{
+  "Id": 14657,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/p266/farsi/divan/robaee/sh66",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh66",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای داده به باد عمر در لهو و فسوس\r\nزنهار مشو ز زحمت حق مأیوس\r\nهشدار کز آتش جهنم حق را\r\nتهذیب غرض بود نه تعذیب نفوس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای داده به باد عمر در لهو و فسوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنهار مشو ز زحمت حق مأیوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هشدار کز آتش جهنم حق را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تهذیب غرض بود نه تعذیب نفوس",
+      "CoupletIndex": 1
+    }
+  ]
+}

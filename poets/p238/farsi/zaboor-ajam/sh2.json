@@ -1,0 +1,45 @@
+{
+  "Id": 13639,
+  "CatId": 1042,
+  "Title": "بخش ۲ - حصه اول",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۲ - حصه اول",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز برون در گذشتم ز درون خانه گفتم\r\nسخنی نگفته ئی را چه قلندرانه گفتم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز برون در گذشتم ز درون خانه گفتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخنی نگفته ئی را چه قلندرانه گفتم",
+      "CoupletIndex": 0
+    }
+  ]
+}

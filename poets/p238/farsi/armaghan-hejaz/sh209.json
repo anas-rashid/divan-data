@@ -1,0 +1,57 @@
+{
+  "Id": 14073,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۸ - مسلمانی که خود را امتحان کرد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۸ - مسلمانی که خود را امتحان کرد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh209",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh209",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمانی که خود را امتحان کرد\r\nغبار راه خود راسمان کرد\r\nشرار شوق اگر داری نگهدار\r\nکه با ویفتابی میتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمانی که خود را امتحان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار راه خود راسمان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرار شوق اگر داری نگهدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که با ویفتابی میتوان کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

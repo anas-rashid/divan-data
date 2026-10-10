@@ -1,0 +1,105 @@
+{
+  "Id": 11910,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۶۲۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۶۲۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh626",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh626",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که دمی به یاد آن دلبر مه لقا زند\r\nشاه پیاده بر درش آید و مرحبا زند\r\nدر همه عمر یک نفس روی نتابم از درش\r\nگر دو هزار مدعی طعنه ام از قفا زند\r\nبر گل تازه رنگ و بو برگ و نوا اگر نبود\r\nلاف محبت از چه رو بلبل خوش نوازند\r\nهمنفسی ز کوی او غیر صبا ندیده ام\r\nکو نفسی به پیشم از رهگذر صفا زند\r\nناله زار شد روان جانب دوست، ای صبا\r\nزود رسان که حلقه ای بر در آشنا زند\r\nسیل سرشک و خون دل چند بود روا، بگو\r\nتا که ز روی مردمی دیده به روی ما زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که دمی به یاد آن دلبر مه لقا زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاه پیاده بر درش آید و مرحبا زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در همه عمر یک نفس روی نتابم از درش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دو هزار مدعی طعنه ام از قفا زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر گل تازه رنگ و بو برگ و نوا اگر نبود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لاف محبت از چه رو بلبل خوش نوازند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "همنفسی ز کوی او غیر صبا ندیده ام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کو نفسی به پیشم از رهگذر صفا زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ناله زار شد روان جانب دوست، ای صبا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زود رسان که حلقه ای بر در آشنا زند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سیل سرشک و خون دل چند بود روا، بگو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا که ز روی مردمی دیده به روی ما زند",
+      "CoupletIndex": 5
+    }
+  ]
+}

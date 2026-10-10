@@ -1,0 +1,57 @@
+{
+  "Id": 13979,
+  "CatId": 1045,
+  "Title": "بخش ۱۱۴ - می از میخانهٔ مغرب چشیدم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۱۴ - می از میخانهٔ مغرب چشیدم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می از میخانهٔ مغرب چشیدم\r\nبجان من که درد سر خریدم\r\nنشستم با نکویان فرنگی\r\nاز آن بی سوز تر روزی ندیدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می از میخانهٔ مغرب چشیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بجان من که درد سر خریدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشستم با نکویان فرنگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آن بی سوز تر روزی ندیدم",
+      "CoupletIndex": 1
+    }
+  ]
+}

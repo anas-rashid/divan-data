@@ -1,0 +1,57 @@
+{
+  "Id": 14143,
+  "CatId": 1045,
+  "Title": "بخش ۲۷۸ - حرم جز قبله قلب و نظر نیست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۷۸ - حرم جز قبله قلب و نظر نیست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh279",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh279",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حرم جز قبله قلب و نظر نیست\r\nطواف او طواف بام و در نیست\r\nمیان ما و بیت الله رمزیست\r\nکه جبریل امین را هم خبر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حرم جز قبله قلب و نظر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طواف او طواف بام و در نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میان ما و بیت الله رمزیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که جبریل امین را هم خبر نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

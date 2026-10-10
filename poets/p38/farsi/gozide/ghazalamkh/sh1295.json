@@ -1,0 +1,93 @@
+{
+  "Id": 12579,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۲۹۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۹۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا، جانا، که جانت را بمیرم\r\nوگر میرم به جان منت پذیرم\r\nخلاص من بجویید، ای رفیقان\r\nکه من در قید مهر او اسیرم\r\nنظر گفتند داری با فقیران\r\nمن مسکین نه آخر هم فقیرم\r\nنمی آید به گوشت ناله من\r\nکه گوش چرخ کر گشت از نفیرم\r\nهمی ترسم سرآید عمر خسرو\r\nبه درد هجر از حسرت بمیرم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا، جانا، که جانت را بمیرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وگر میرم به جان منت پذیرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خلاص من بجویید، ای رفیقان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من در قید مهر او اسیرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نظر گفتند داری با فقیران",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من مسکین نه آخر هم فقیرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نمی آید به گوشت ناله من",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که گوش چرخ کر گشت از نفیرم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "همی ترسم سرآید عمر خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به درد هجر از حسرت بمیرم",
+      "CoupletIndex": 4
+    }
+  ]
+}

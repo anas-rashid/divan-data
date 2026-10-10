@@ -1,0 +1,93 @@
+{
+  "Id": 11469,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شهسوارم آمد و از سینه جان را برگرفت\r\nدولت بادی که آن سرو روان را برگرفت\r\nبار و جان هر دو درین تن بود و جان آمد درون\r\nیار را گفت این چه باشد با تو جان را برگرفت\r\nدی که کرد ابر بلند آن یار خلقی را بکشت\r\nگوییا ترکی به خونریزی کمان را بر گرفت\r\nسرخ گل کز آب چشم من به کوی او دمید\r\nگریه خون کرد بر وی هر که آن را برگرفت\r\nگفتمش گویم غم خود چون بدیدم دم نماند\r\nزانکه حیرت از لب خسرو زبان را برگرفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شهسوارم آمد و از سینه جان را برگرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دولت بادی که آن سرو روان را برگرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بار و جان هر دو درین تن بود و جان آمد درون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یار را گفت این چه باشد با تو جان را برگرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دی که کرد ابر بلند آن یار خلقی را بکشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گوییا ترکی به خونریزی کمان را بر گرفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرخ گل کز آب چشم من به کوی او دمید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گریه خون کرد بر وی هر که آن را برگرفت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گفتمش گویم غم خود چون بدیدم دم نماند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زانکه حیرت از لب خسرو زبان را برگرفت",
+      "CoupletIndex": 4
+    }
+  ]
+}

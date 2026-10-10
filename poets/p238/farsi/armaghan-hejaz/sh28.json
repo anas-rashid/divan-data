@@ -1,0 +1,57 @@
+{
+  "Id": 13893,
+  "CatId": 1045,
+  "Title": "بخش ۲۸ - شب این انجمن آراستم من",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۸ - شب این انجمن آراستم من",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبِ این انجمن آراستم من\r\nچو مَه از گردشِ خود کاستم من\r\nحکایت از تغافل‌های تو رفت\r\nولیکن از میان برخاستم من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبِ این انجمن آراستم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو مَه از گردشِ خود کاستم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حکایت از تغافل‌های تو رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکن از میان برخاستم من",
+      "CoupletIndex": 1
+    }
+  ]
+}

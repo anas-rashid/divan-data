@@ -1,0 +1,93 @@
+{
+  "Id": 11775,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۴۹۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۴۹۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh491",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh491",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ماییم درون سوخته، بیرون شده ای چند\r\nدر سلسله لیلی و مجنون شده ای چند\r\nخوردیم بسی خون دل از تو، تو هم آخر\r\nیک می بخور از دست جگر خون شده ای چند\r\nچون حال دگرگون شده زاندوه تو ما را\r\nتو روی مگردان ز دگرگون شده ای چند\r\nای مرغ، چه خوانی سوی باغ، از خسک هجر؟\r\nبگذار درین بادیه بیرون شده ای چند\r\nدر عشق فدا شد دل و جان و تن خسرو\r\nاینک نگر از بخت همایون شده ای چند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماییم درون سوخته، بیرون شده ای چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سلسله لیلی و مجنون شده ای چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوردیم بسی خون دل از تو، تو هم آخر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک می بخور از دست جگر خون شده ای چند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون حال دگرگون شده زاندوه تو ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تو روی مگردان ز دگرگون شده ای چند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای مرغ، چه خوانی سوی باغ، از خسک هجر؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بگذار درین بادیه بیرون شده ای چند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در عشق فدا شد دل و جان و تن خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اینک نگر از بخت همایون شده ای چند",
+      "CoupletIndex": 4
+    }
+  ]
+}

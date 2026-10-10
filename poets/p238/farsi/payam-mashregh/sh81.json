@@ -1,0 +1,57 @@
+{
+  "Id": 13418,
+  "CatId": 1041,
+  "Title": "بخش ۸۱ - ترا درد یکی در سینه پیچید",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۸۱ - ترا درد یکی در سینه پیچید",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترا درد یکی در سینه پیچید\r\nجهان رنگ و بو را آفریدی\r\nدگر از عشق بیباکم چه رنجی\r\nکه خود این های و هو را آفریدی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا درد یکی در سینه پیچید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جهان رنگ و بو را آفریدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دگر از عشق بیباکم چه رنجی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خود این های و هو را آفریدی",
+      "CoupletIndex": 1
+    }
+  ]
+}

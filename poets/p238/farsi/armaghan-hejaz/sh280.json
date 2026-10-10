@@ -1,0 +1,51 @@
+{
+  "Id": 14144,
+  "CatId": 1045,
+  "Title": "بخش ۲۷۹ - حضور عالم انسانی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۷۹ - حضور عالم انسانی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh280",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh280",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دمیت احترام دمی\r\nبا خبر شو از مقام دمی\r\nجاویدنامه",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دمیت احترام دمی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خبر شو از مقام دمی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "CenteredVerse1",
+      "Text": "جاویدنامه",
+      "CoupletIndex": 1
+    }
+  ]
+}

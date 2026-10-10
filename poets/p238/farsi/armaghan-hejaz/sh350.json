@@ -1,0 +1,57 @@
+{
+  "Id": 14214,
+  "CatId": 1045,
+  "Title": "بخش ۳۴۹ - مرا از منطقید بوی خامی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۴۹ - مرا از منطقید بوی خامی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا از منطق آید بوی خامی\r\nدلیل او دلیل ناتمامی\r\nبه رویم بسته درها را گشاید\r\nدو بیت از پیر رومی یا ز جامی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا از منطق آید بوی خامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلیل او دلیل ناتمامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رویم بسته درها را گشاید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو بیت از پیر رومی یا ز جامی",
+      "CoupletIndex": 1
+    }
+  ]
+}

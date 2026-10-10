@@ -1,0 +1,93 @@
+{
+  "Id": 11806,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۲۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۲۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh522",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh522",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رویی که تو داری گل سیراب ندارد\r\nشیرینی لعلت شکر ناب ندارد\r\nقدی که تو داری نبود سرو روان را\r\nچون زلف تو چین سنبل پر تاب ندارد\r\nدر خواب توان دید خیال رخ خوبت\r\nاما چه کنم، دیده من خواب ندارد\r\nزان لحظه که زاهد خم ابروی ترا دید\r\nپروای نماز و سر محراب ندارد\r\nخسرو به خیال خطّ و لعل تو شب و روز\r\nجز فکرِ لبِ کِشت و می ناب ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رویی که تو داری گل سیراب ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شیرینی لعلت شکر ناب ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قدی که تو داری نبود سرو روان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون زلف تو چین سنبل پر تاب ندارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در خواب توان دید خیال رخ خوبت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اما چه کنم، دیده من خواب ندارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زان لحظه که زاهد خم ابروی ترا دید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پروای نماز و سر محراب ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسرو به خیال خطّ و لعل تو شب و روز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جز فکرِ لبِ کِشت و می ناب ندارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

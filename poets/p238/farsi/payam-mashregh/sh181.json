@@ -1,0 +1,129 @@
+{
+  "Id": 13518,
+  "CatId": 1041,
+  "Title": "بخش ۱۸۱ - لاله",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۸۱ - لاله",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن شعله ام که صبح ازل در کنار عشق\r\nپیش از نمود بلبل و پروانه می تپید\r\nافزونترم ز مهر و بهر ذره تن زنم\r\nگردون شرار خویش ز تاب من آفرید\r\nدر سینه چمن چو نفس کردم آشیان\r\nیک شاخ نازک از ته خاکم چو نم کشید\r\nسوزم ربود و گفت یکی در برم بایست\r\nلیکن دل ستم زدهٔ من نیارمید\r\nدر تنگنای شاخ بسی پیچ و تاب خورد\r\nتا جوهرم به جلوه گه رنگ و بو رسید\r\nشبنم براه من گهر آبدار ریخت\r\nخندید صبح و باد صبا گرد من وزید\r\nبلبل ز گل شنید که سوزم ربوده اند\r\nنالید و گفت جامهٔ هستی گران خرید\r\nوا کرده سینه منت خورشید می کشم\r\nآیا بود که باز بر انگیزد آتشم؟",
+      "HtmlText": null,
+      "PoemFormat": "MultiBand",
+      "Language": "fa-IR",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن شعله ام که صبح ازل در کنار عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش از نمود بلبل و پروانه می تپید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افزونترم ز مهر و بهر ذره تن زنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردون شرار خویش ز تاب من آفرید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در سینه چمن چو نفس کردم آشیان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یک شاخ نازک از ته خاکم چو نم کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سوزم ربود و گفت یکی در برم بایست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لیکن دل ستم زدهٔ من نیارمید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در تنگنای شاخ بسی پیچ و تاب خورد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا جوهرم به جلوه گه رنگ و بو رسید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شبنم براه من گهر آبدار ریخت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خندید صبح و باد صبا گرد من وزید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بلبل ز گل شنید که سوزم ربوده اند",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نالید و گفت جامهٔ هستی گران خرید",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "CenteredVerse1",
+      "Text": "وا کرده سینه منت خورشید می کشم",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "CenteredVerse2",
+      "Text": "آیا بود که باز بر انگیزد آتشم؟",
+      "CoupletIndex": 7
+    }
+  ]
+}

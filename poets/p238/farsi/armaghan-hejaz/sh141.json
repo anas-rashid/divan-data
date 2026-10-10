@@ -1,0 +1,57 @@
+{
+  "Id": 14006,
+  "CatId": 1045,
+  "Title": "بخش ۱۴۱ - چو رومی در حرم دادم اذان من",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۴۱ - چو رومی در حرم دادم اذان من",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو رومی در حرم دادم اذان من\r\nازو آموختم اسرار جان من\r\nبه دور فتنهٔ عصر کهن ، او\r\nبه دور فتنهٔ عصر روان من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو رومی در حرم دادم اذان من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ازو آموختم اسرار جان من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دور فتنهٔ عصر کهن ، او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به دور فتنهٔ عصر روان من",
+      "CoupletIndex": 1
+    }
+  ]
+}

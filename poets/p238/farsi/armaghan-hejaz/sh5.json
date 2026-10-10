@@ -1,0 +1,57 @@
+{
+  "Id": 13870,
+  "CatId": 1045,
+  "Title": "بخش ۵ - جهان از خود برون‌آوردهٔ کیست؟",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۵ - جهان از خود برون‌آوردهٔ کیست؟",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جهان از خود برون آوردهٔ کیست؟\r\nجمالش، جلوهٔ بی‌پردهٔ کیست؟\r\nمرا گویی که از شیطان حذر کن\r\nبگو با من که او پروردهٔ کیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان از خود برون آوردهٔ کیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمالش، جلوهٔ بی‌پردهٔ کیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا گویی که از شیطان حذر کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگو با من که او پروردهٔ کیست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 11860,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۷۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۷۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh576",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh576",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم من شادی کس را نپرسد\r\nنمدگر نرخ اطلس را نپرسد\r\nچه می پرسی؟ مپرس از آتش من\r\nبه وقت سوختن خس را نپرسد\r\nبه صد جان پیش او میرم، اگر او\r\nفراموشان واپس را نپرسد\r\nرقیب گفت، کی آیم بر تو؟\r\nبلا در آمدن کس را نپرسد\r\nمپرس از خسروان، خسرو، دم عشق\r\nکه بلبل نام کرکس را نپرسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم من شادی کس را نپرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمدگر نرخ اطلس را نپرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه می پرسی؟ مپرس از آتش من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به وقت سوختن خس را نپرسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به صد جان پیش او میرم، اگر او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فراموشان واپس را نپرسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رقیب گفت، کی آیم بر تو؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بلا در آمدن کس را نپرسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مپرس از خسروان، خسرو، دم عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که بلبل نام کرکس را نپرسد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13403,
+  "CatId": 1041,
+  "Title": "بخش ۶۶ - مپرس از عشق و از نیرنگی عشق",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۶۶ - مپرس از عشق و از نیرنگی عشق",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh66",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh66",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مپرس از عشق و از نیرنگی عشق\r\nبهر رنگی که خواهی سر بر آرد\r\nدرون سینه بیش از نقطه ئی نیست\r\nچو آید بر زبان پایان ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مپرس از عشق و از نیرنگی عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهر رنگی که خواهی سر بر آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درون سینه بیش از نقطه ئی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو آید بر زبان پایان ندارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 11713,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۴۲۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۴۲۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh429",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh429",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من از جور و جفای دلبران دیوانه خواهم شد\r\nز خویش و آشنا از دست دل بیگانه خواهم شد\r\nز بس کافسانه خود با در و دیوار می گویم\r\nبه رسوایی میان مردمان افسانه خواهم شد\r\nچو دیدم خال و خط آن پری رو را به دل گفتم\r\nگرفتار ار شوم در دام او، زین دانه خواهم شد\r\nملامت گو، به رسوایی مترسان هوشیاران را\r\nکه من بی پا و سر در کوی او مستانه خواهم شد\r\nبه دل گفتم چرا بیوفا، گفتا برو، خسرو\r\nگذر از من که من در خدمت جانانه خواهم شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من از جور و جفای دلبران دیوانه خواهم شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خویش و آشنا از دست دل بیگانه خواهم شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بس کافسانه خود با در و دیوار می گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به رسوایی میان مردمان افسانه خواهم شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو دیدم خال و خط آن پری رو را به دل گفتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گرفتار ار شوم در دام او، زین دانه خواهم شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ملامت گو، به رسوایی مترسان هوشیاران را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که من بی پا و سر در کوی او مستانه خواهم شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به دل گفتم چرا بیوفا، گفتا برو، خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گذر از من که من در خدمت جانانه خواهم شد",
+      "CoupletIndex": 4
+    }
+  ]
+}

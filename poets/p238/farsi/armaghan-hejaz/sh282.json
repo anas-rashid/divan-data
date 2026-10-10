@@ -1,0 +1,57 @@
+{
+  "Id": 14146,
+  "CatId": 1045,
+  "Title": "بخش ۲۸۱ - یکی از حجرهٔ خلوت برونی",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۸۱ - یکی از حجرهٔ خلوت برونی",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh282",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh282",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکی از حجرهٔ خلوت برونی\r\nبباد صبحگاهی سینه بگشای\r\nخروش این مقام رنگ و بو را\r\nبقدر نالهٔ مرغی بیفزای",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکی از حجرهٔ خلوت برونی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بباد صبحگاهی سینه بگشای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خروش این مقام رنگ و بو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بقدر نالهٔ مرغی بیفزای",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13889,
+  "CatId": 1045,
+  "Title": "بخش ۲۴ - متاع من، دل دردآشنای است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۴ - متاع من، دل دردآشنای است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "متاعِ من، دلِ دردآشنای است\r\nنصیبِ من، فغانِ نارسای است\r\nبه خاکِ مرقدِ من، لاله خوش‌تر\r\nکه هم خاموش و هم خونین‌نوای است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "متاعِ من، دلِ دردآشنای است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نصیبِ من، فغانِ نارسای است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خاکِ مرقدِ من، لاله خوش‌تر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که هم خاموش و هم خونین‌نوای است",
+      "CoupletIndex": 1
+    }
+  ]
+}

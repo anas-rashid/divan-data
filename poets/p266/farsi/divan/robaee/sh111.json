@@ -1,0 +1,57 @@
+{
+  "Id": 14702,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p266/farsi/divan/robaee/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یارب تو کجایی که به ما زر ندهی\r\nبی درد خدایی که به ما زر ندهی\r\nنی نی نه تو غایبی و نی بی رحمی\r\nبی مایه چو مایی که به ما زر ندهی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارب تو کجایی که به ما زر ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی درد خدایی که به ما زر ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی نی نه تو غایبی و نی بی رحمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی مایه چو مایی که به ما زر ندهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

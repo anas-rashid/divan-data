@@ -1,0 +1,57 @@
+{
+  "Id": 14622,
+  "CatId": 1049,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "مرزا غالب » فارسی » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/p266/farsi/divan/robaee/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghaleb/divan/robaee/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای کرده به آرایش گفتار بسیچ\r\nدر زلف سخن گشوده راه خم و پیچ\r\nعالم که تو چیز دیگرش می دانی\r\nذاتی ست بسیط منبسط دیگر هیچ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کرده به آرایش گفتار بسیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در زلف سخن گشوده راه خم و پیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم که تو چیز دیگرش می دانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ذاتی ست بسیط منبسط دیگر هیچ",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14044,
+  "CatId": 1045,
+  "Title": "بخش ۱۷۹ - میان امتان والا مقام است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۷۹ - میان امتان والا مقام است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میان امتان والا مقام است\r\nکه آن امت دو گیتی را امام است\r\nنیاساید ز کار آفرینش\r\nکه خواب و خستگی بر وی حرام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میان امتان والا مقام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که آن امت دو گیتی را امام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیاساید ز کار آفرینش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خواب و خستگی بر وی حرام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13920,
+  "CatId": 1045,
+  "Title": "بخش ۵۵ - مقام عشق و مستی منزل اوست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۵۵ - مقام عشق و مستی منزل اوست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مقام عشق و مستی منزل اوست \r\nچه آتش ها که در آب و گل اوست\r\nنوای او به هر دل سازگار است\r\nکه در هر سینه قاشی از دل اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مقام عشق و مستی منزل اوست ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه آتش ها که در آب و گل اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوای او به هر دل سازگار است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در هر سینه قاشی از دل اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

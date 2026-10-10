@@ -1,0 +1,93 @@
+{
+  "Id": 11763,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۴۷۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۴۷۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh479",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh479",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 11,
+    "Rhythm": "مفعول مفاعیلن مفعول مفاعیلن (هزج مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دردا که دگر ما را آن یار نمی پرسد\r\nاحوال دل پر خون دلدار نمی پرسد\r\nمی پرسم و می جویم در هر نفسی صد بار\r\nاو در همه عمر خود یک بار نمی پرسد\r\nیار از سر یاریها با ما سخنی می گفت\r\nامسال به دشنامی چون پار نمی پرسد\r\nبیمار تب هجرم آن ماه طبیب من\r\nدردا که طبیب من بیمار نمی پرسد\r\nگر یار نمی پرسد خسرو چه کند آن را؟\r\nشاه است و گدایان را از عار نمی پرسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دردا که دگر ما را آن یار نمی پرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "احوال دل پر خون دلدار نمی پرسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می پرسم و می جویم در هر نفسی صد بار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او در همه عمر خود یک بار نمی پرسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یار از سر یاریها با ما سخنی می گفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "امسال به دشنامی چون پار نمی پرسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بیمار تب هجرم آن ماه طبیب من",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دردا که طبیب من بیمار نمی پرسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر یار نمی پرسد خسرو چه کند آن را؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شاه است و گدایان را از عار نمی پرسد",
+      "CoupletIndex": 4
+    }
+  ]
+}

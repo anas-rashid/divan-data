@@ -1,0 +1,93 @@
+{
+  "Id": 11310,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۲۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وه که از سوز درونم خبری نیست ترا\r\nدر غمت مردم و با من نظری نیست ترا\r\nبر سر کوی تو فریاد که از راه وفا\r\nخاک ره گشتم و بر من گذری نیست ترا\r\nدارم آن سر که سرم در سر و کار تو شود\r\nبا من دلشده هر چند سری نیست ترا\r\nدیگران گر چه دم از مهر و وفای تو زنند\r\nبه وفای تو که چون من دگری نیست ترا\r\nخسروا، ناله و فریاد به جایی نرسد\r\nیارب، این گریه خونین اثری نیست ترا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وه که از سوز درونم خبری نیست ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در غمت مردم و با من نظری نیست ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر سر کوی تو فریاد که از راه وفا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاک ره گشتم و بر من گذری نیست ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دارم آن سر که سرم در سر و کار تو شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با من دلشده هر چند سری نیست ترا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دیگران گر چه دم از مهر و وفای تو زنند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به وفای تو که چون من دگری نیست ترا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خسروا، ناله و فریاد به جایی نرسد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یارب، این گریه خونین اثری نیست ترا",
+      "CoupletIndex": 4
+    }
+  ]
+}

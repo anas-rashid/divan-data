@@ -1,0 +1,9 @@
+{
+  "about": "Persian works from Ganjoor (ganjoor/ganjoor-data) for poets who are in both Divan and Ganjoor (ganjoor.py). The commit is pinned; raise it to take Ganjoor's corrections.",
+  "commit": "a64968e78425b2e8c7904fbdf5289fba8251a757",
+  "poets": [
+    { "divan": "مصنف:محمد اقبال", "ganjoor": "iqbal" },
+    { "divan": "مصنف:مرزا غالب", "ganjoor": "ghaleb" },
+    { "divan": "مصنف:امیر خسرو", "ganjoor": "khosro" }
+  ]
+}

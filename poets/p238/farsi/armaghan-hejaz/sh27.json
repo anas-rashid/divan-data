@@ -1,0 +1,57 @@
+{
+  "Id": 13892,
+  "CatId": 1045,
+  "Title": "بخش ۲۷ - نداند جبرئیل این های و هو را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۷ - نداند جبرئیل این های و هو را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نداند جبرئیل این های و هو را \r\nکه نشناسد مقامِ جست‌وجو را\r\nبپرس از بندهٔ بیچارهٔ خویش\r\nکه داند نیش و نوشِ آرزو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نداند جبرئیل این های و هو را ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نشناسد مقامِ جست‌وجو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بپرس از بندهٔ بیچارهٔ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که داند نیش و نوشِ آرزو را",
+      "CoupletIndex": 1
+    }
+  ]
+}

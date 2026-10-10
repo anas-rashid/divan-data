@@ -1,0 +1,57 @@
+{
+  "Id": 14033,
+  "CatId": 1045,
+  "Title": "بخش ۱۶۸ - مسلمانان که خود را فاش دیدند",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۶۸ - مسلمانان که خود را فاش دیدند",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسلمانان که خود را فاش دیدند\r\nبه هر دریا چو گوهر آرمیدند\r\nاگر از خود رمیدند اندرین دیر\r\nبجان تو که مرگ خود خریدند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسلمانان که خود را فاش دیدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر دریا چو گوهر آرمیدند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر از خود رمیدند اندرین دیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بجان تو که مرگ خود خریدند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14198,
+  "CatId": 1045,
+  "Title": "بخش ۳۳۳ - جدائی شوق را روشن بصر کرد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۳۳ - جدائی شوق را روشن بصر کرد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh334",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh334",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جدائی شوق را روشن بصر کرد\r\nجدائی شوق را جوینده تر کرد\r\nنمی دانم که احوال تو چون است\r\nمرا اینب و گل از من خبر کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جدائی شوق را روشن بصر کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جدائی شوق را جوینده تر کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی دانم که احوال تو چون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا اینب و گل از من خبر کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 11835,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۵۵۱",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۵۵۱",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh551",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh551",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بتا، مانند تو مهوش نباشد\r\nوگر باشد چو تو سرکش نباشد\r\nتویی طرفه سواری زانکه خورشید\r\nبود بر ابر و بر ابرش نباشد\r\nز آهم تیر بستان، هم مرا کش\r\nترا گر تیر در ترکش نباشد\r\nخوشم من، گر کشی زارم، اگر چه\r\nکس در کشتن خود خوش نباشد\r\nندانم زیستن در خون خسرو\r\nاگر آن چشم کافروش نباشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بتا، مانند تو مهوش نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وگر باشد چو تو سرکش نباشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تویی طرفه سواری زانکه خورشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بود بر ابر و بر ابرش نباشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز آهم تیر بستان، هم مرا کش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ترا گر تیر در ترکش نباشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خوشم من، گر کشی زارم، اگر چه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کس در کشتن خود خوش نباشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ندانم زیستن در خون خسرو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر آن چشم کافروش نباشد",
+      "CoupletIndex": 4
+    }
+  ]
+}

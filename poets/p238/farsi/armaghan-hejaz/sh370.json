@@ -1,0 +1,57 @@
+{
+  "Id": 14234,
+  "CatId": 1045,
+  "Title": "بخش ۳۶۹ - چو رخت خویش بر بستم ازین خاک",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۶۹ - چو رخت خویش بر بستم ازین خاک",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh370",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh370",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو رخت خویش بر بستم ازین خاک\r\nهمه گفتند با ما آشنا بود\r\nولیکن کس ندانست این مسافر\r\nچه گفت و با که گفت و از کجا بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو رخت خویش بر بستم ازین خاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همه گفتند با ما آشنا بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن کس ندانست این مسافر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه گفت و با که گفت و از کجا بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

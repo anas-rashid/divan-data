@@ -1,0 +1,93 @@
+{
+  "Id": 13506,
+  "CatId": 1041,
+  "Title": "بخش ۱۶۹ - بوی گل",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۶۹ - بوی گل",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حوری به کنج گلشن جنت تپید و گفت\r\nما را کسی ز آنسوی گردون خبر نداد\r\nناید بفهم من سحر و شام و روزو شب\r\nعقلم ربود این که بگویند مرد و زاد\r\nگردید موج نکهت و از شاخ گل دمید\r\nپا اینچنین به عالم فردا و دی نهاد\r\nوا کرد چشم و غنچه شد و خنده زد دمی\r\nگل گشت و برگ برگ شد و بر زمین فتاد\r\nزان نازنین که بند ز پایش گشاده اند\r\nآهی است یادگار که بو نام داده اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حوری به کنج گلشن جنت تپید و گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را کسی ز آنسوی گردون خبر نداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناید بفهم من سحر و شام و روزو شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عقلم ربود این که بگویند مرد و زاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گردید موج نکهت و از شاخ گل دمید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پا اینچنین به عالم فردا و دی نهاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وا کرد چشم و غنچه شد و خنده زد دمی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گل گشت و برگ برگ شد و بر زمین فتاد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زان نازنین که بند ز پایش گشاده اند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آهی است یادگار که بو نام داده اند",
+      "CoupletIndex": 4
+    }
+  ]
+}

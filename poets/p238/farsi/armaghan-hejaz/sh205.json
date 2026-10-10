@@ -1,0 +1,57 @@
+{
+  "Id": 14069,
+  "CatId": 1045,
+  "Title": "بخش ۲۰۴ - به روی عقل و دل بگشای هر در",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۰۴ - به روی عقل و دل بگشای هر در",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به روی عقل و دل بگشای هر در\r\nبگیر از پیر هر میخانه ساغر\r\n«دران کوش از نیاز سینه پرور\r\nکه دامن پاک داریستین تر»",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به روی عقل و دل بگشای هر در",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بگیر از پیر هر میخانه ساغر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "«دران کوش از نیاز سینه پرور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دامن پاک داریستین تر»",
+      "CoupletIndex": 1
+    }
+  ]
+}

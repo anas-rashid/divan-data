@@ -1,0 +1,57 @@
+{
+  "Id": 13680,
+  "CatId": 1042,
+  "Title": "بخش ۴۳ - نور تو وانمود سپید و سیاه را",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۴۳ - نور تو وانمود سپید و سیاه را",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نور تو وانمود سپید و سیاه را\r\nدریا و کوه و دشت و در و مهر و ماه را\r\nتو در هوای آنکه نگه آشنای اوست\r\nمن در تلاش آنکه نتابد نگاه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نور تو وانمود سپید و سیاه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریا و کوه و دشت و در و مهر و ماه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو در هوای آنکه نگه آشنای اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من در تلاش آنکه نتابد نگاه را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13426,
+  "CatId": 1041,
+  "Title": "بخش ۸۹ - چه پرسی از کجایم چیستم من ؟",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۸۹ - چه پرسی از کجایم چیستم من ؟",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه پرسی از کجایم چیستم من؟\r\nبه خود پیچیده‌ام تا زیستم من\r\nدرین دریا چو موج بیقرارم\r\nاگر بر خود نپیچم نیستم من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه پرسی از کجایم چیستم من؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به خود پیچیده‌ام تا زیستم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درین دریا چو موج بیقرارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر بر خود نپیچم نیستم من",
+      "CoupletIndex": 1
+    }
+  ]
+}

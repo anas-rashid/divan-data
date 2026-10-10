@@ -1,0 +1,57 @@
+{
+  "Id": 14184,
+  "CatId": 1045,
+  "Title": "بخش ۳۱۹ - نگه دید و خرد پیمانهورد",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۱۹ - نگه دید و خرد پیمانهورد",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh320",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh320",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگه دید و خرد پیمانهورد\r\nکه پیماید جهان چار سو را\r\nمیشامی که دل کردند نامش\r\nبخویش اندر کشید این رنگ و بو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگه دید و خرد پیمانهورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که پیماید جهان چار سو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میشامی که دل کردند نامش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بخویش اندر کشید این رنگ و بو را",
+      "CoupletIndex": 1
+    }
+  ]
+}

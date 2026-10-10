@@ -1,0 +1,93 @@
+{
+  "Id": 11117,
+  "CatId": 1030,
+  "Title": "شمارهٔ ۲۴ - پیام پدر",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » مثنویات » شمارهٔ ۲۴ - پیام پدر",
+  "FullUrl": "/p38/farsi/gozide/masnaviatkh/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/masnaviatkh/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ز نسب گشته سزای سریر\r\nور پسری ، همچو پدر بی نظیر\r\nچشم منی !هیچ غباری میار\r\nدیده نشاید که بود پرغبار\r\nتاتو ندانی که درین جستجوی\r\nاز پی ملک ست مرا گفتگوی\r\nگر چه توانم ز تو این پا یه برد\r\nاز تو ستانم ، بکه خواهم سپرد ؟\r\nبهر خدا صورت خویشم نمای\r\nروی مگردان و بترس از خدای",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ز نسب گشته سزای سریر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور پسری ، همچو پدر بی نظیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم منی !هیچ غباری میار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیده نشاید که بود پرغبار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تاتو ندانی که درین جستجوی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از پی ملک ست مرا گفتگوی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر چه توانم ز تو این پا یه برد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از تو ستانم ، بکه خواهم سپرد ؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بهر خدا صورت خویشم نمای",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روی مگردان و بترس از خدای",
+      "CoupletIndex": 4
+    }
+  ]
+}

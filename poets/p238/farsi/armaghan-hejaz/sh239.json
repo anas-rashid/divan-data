@@ -1,0 +1,57 @@
+{
+  "Id": 14103,
+  "CatId": 1045,
+  "Title": "بخش ۲۳۸ - به ملک خویش عثمانی امیر است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۳۸ - به ملک خویش عثمانی امیر است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh239",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh239",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به ملک خویش عثمانی امیر است\r\nدلشگاه و چشم او بصیر است\r\nنپنداری که رست از بند افرنگ\r\nهنوز اندر طلسم او اسیر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به ملک خویش عثمانی امیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلشگاه و چشم او بصیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نپنداری که رست از بند افرنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هنوز اندر طلسم او اسیر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 13879,
+  "CatId": 1045,
+  "Title": "بخش ۱۴ - غلامم جز رضای تو نجویم",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۴ - غلامم جز رضای تو نجویم",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غلامم، جز رضای تو نجویم\r\nجز آن راهی که فرمودی، نپویم\r\nولیکن گر به این نادان بگویی\r\nخری را اسبِ تازی گو، نگویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غلامم، جز رضای تو نجویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز آن راهی که فرمودی، نپویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ولیکن گر به این نادان بگویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خری را اسبِ تازی گو، نگویم",
+      "CoupletIndex": 1
+    }
+  ]
+}

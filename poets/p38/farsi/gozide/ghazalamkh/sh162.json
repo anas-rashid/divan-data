@@ -1,0 +1,93 @@
+{
+  "Id": 11446,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۶۲",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۲",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh162",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh162",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندانستم که اهلیت گناهست\r\nایا این ره که می پویم چه راهست\r\nز جور روزگار و طعن دشمن\r\nجهان بیش جهان بینم سیاهت\r\nنه هر مردی تواند کرد مردی\r\nسوار شیر دل پشت سپاهست\r\nکسان را بر در هر کس پناهی\r\nمرا بر درگه لطفش پناهست\r\nاگر آهی کشم درهم کشد روی\r\nمگر آیینه را تندی ز آهست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندانستم که اهلیت گناهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ایا این ره که می پویم چه راهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جور روزگار و طعن دشمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهان بیش جهان بینم سیاهت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نه هر مردی تواند کرد مردی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سوار شیر دل پشت سپاهست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کسان را بر در هر کس پناهی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرا بر درگه لطفش پناهست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر آهی کشم درهم کشد روی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مگر آیینه را تندی ز آهست",
+      "CoupletIndex": 4
+    }
+  ]
+}

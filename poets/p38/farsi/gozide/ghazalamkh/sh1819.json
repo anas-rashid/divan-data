@@ -1,0 +1,105 @@
+{
+  "Id": 13103,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۸۱۹",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۱۹",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1819",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1819",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آنکه تمام هم چو ماهی\r\nبا زلف چو چتر پادشاهی\r\nمردم ز برای نقش و زلفت\r\nاز دیده برون کشد سیاهی\r\nگر خط سیاه خود ببینی\r\nبر مشک دهی به خون گواهی\r\nای زلف ترت مراغه کرده\r\nبر روی تو چون در آب ماهی\r\nآخر چه شود گر از لب خویش\r\nیک بوسه برای من بخواهی\r\nاز خسرو خسته رو بگردان\r\nزان رو که تمام همچو ماهی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه تمام هم چو ماهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با زلف چو چتر پادشاهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردم ز برای نقش و زلفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دیده برون کشد سیاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر خط سیاه خود ببینی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر مشک دهی به خون گواهی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای زلف ترت مراغه کرده",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر روی تو چون در آب ماهی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آخر چه شود گر از لب خویش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک بوسه برای من بخواهی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از خسرو خسته رو بگردان",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "زان رو که تمام همچو ماهی",
+      "CoupletIndex": 5
+    }
+  ]
+}

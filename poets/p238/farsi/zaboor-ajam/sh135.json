@@ -1,0 +1,57 @@
+{
+  "Id": 13772,
+  "CatId": 1042,
+  "Title": "بخش ۱۳۵ - کم سخن غنچه که در پردهٔ دل رازی داشت",
+  "FullTitle": "محمد اقبال » فارسی » زبور عجم » بخش ۱۳۵ - کم سخن غنچه که در پردهٔ دل رازی داشت",
+  "FullUrl": "/p238/farsi/zaboor-ajam/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/zaboor-ajam/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کم سخن غنچه که در پردهٔ دل رازی داشت\r\nدر هجوم گل و ریحان غم دم سازی داشت\r\nمحرمی خواست ز مرغ چمن و باد بهار\r\nتکیه بر صحبت آن کرد که پروازی داشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم سخن غنچه که در پردهٔ دل رازی داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در هجوم گل و ریحان غم دم سازی داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "محرمی خواست ز مرغ چمن و باد بهار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تکیه بر صحبت آن کرد که پروازی داشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

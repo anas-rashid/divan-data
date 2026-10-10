@@ -1,0 +1,57 @@
+{
+  "Id": 13930,
+  "CatId": 1045,
+  "Title": "بخش ۶۵ - تب و تاب دل از سوز غم تست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۶۵ - تب و تاب دل از سوز غم تست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تب و تاب دل از سوز غم تست\r\nنوای من ز تاثیر دم تست\r\nبنالم زانکه اندر کشور هند\r\nندیدم بنده ئی کو محرم تست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تب و تاب دل از سوز غم تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوای من ز تاثیر دم تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنالم زانکه اندر کشور هند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ندیدم بنده ئی کو محرم تست",
+      "CoupletIndex": 1
+    }
+  ]
+}

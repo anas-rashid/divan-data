@@ -1,0 +1,57 @@
+{
+  "Id": 13998,
+  "CatId": 1045,
+  "Title": "بخش ۱۳۳ - بیا ساقی بگردان جام می را",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۳۳ - بیا ساقی بگردان جام می را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا ساقی بگردان جام می را\r\nز می سوزنده تر کن سوز نی را\r\nدگر آن دل بنه در سینهٔ من\r\nکه پیچم پنجهٔ کاؤس و کی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا ساقی بگردان جام می را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز می سوزنده تر کن سوز نی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دگر آن دل بنه در سینهٔ من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که پیچم پنجهٔ کاؤس و کی را",
+      "CoupletIndex": 1
+    }
+  ]
+}

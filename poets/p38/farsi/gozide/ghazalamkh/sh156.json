@@ -1,0 +1,105 @@
+{
+  "Id": 11440,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۶",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh156",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh156",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به هر بیتی که وصف آن رخانست\r\nچو نیکو بنگری شه بیت آنست\r\nکمر که بسته او هست جانم\r\nمرا جانی ست آن هم در میانست\r\nندارم در میان تو سخن هیچ\r\nولی جان را سخن در آن دهانست\r\nبه ما گر می کند چشم تو شوخی\r\nکه شوخی شیوه های سرخوشانست\r\nبه هر مو زلف تو دارد دو صد دل\r\nچه دزدی پر دلی نامهربانست\r\nدلم را برد و جان را کشت چشمت\r\nجهانگیرست و هم صاحب قرانست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به هر بیتی که وصف آن رخانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو نیکو بنگری شه بیت آنست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمر که بسته او هست جانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا جانی ست آن هم در میانست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ندارم در میان تو سخن هیچ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ولی جان را سخن در آن دهانست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به ما گر می کند چشم تو شوخی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که شوخی شیوه های سرخوشانست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به هر مو زلف تو دارد دو صد دل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه دزدی پر دلی نامهربانست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دلم را برد و جان را کشت چشمت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جهانگیرست و هم صاحب قرانست",
+      "CoupletIndex": 5
+    }
+  ]
+}

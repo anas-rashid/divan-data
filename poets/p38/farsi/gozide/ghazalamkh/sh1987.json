@@ -1,0 +1,81 @@
+{
+  "Id": 13271,
+  "CatId": 1036,
+  "Title": "شمارهٔ ۱۹۸۷",
+  "FullTitle": "امیر خسرو » فارسی » دیوان اشعار » غزلیات » شمارهٔ ۱۹۸۷",
+  "FullUrl": "/p38/farsi/gozide/ghazalamkh/sh1987",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/khosro/gozide/ghazalamkh/sh1987",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مطربا سوی چمن وقت گل آهنگ تو کو\r\nصوت تو، نغمه تو، بربط تو، چنگ تو کو\r\nپیش آن لعل چه نازی به صفا ای یاقوت\r\nآب تو، تاب تو، رخشانی تو، رنگ تو کو\r\nای فلک گر به پری چهره من داری بخت\r\nمکر تو، سحر تو، افسون تو، نیرنگ تو کو\r\nچند گویی که منم خسرو اقلیم سخن\r\nملک تو، کشور تو، تاج تو، اورنگ تو کو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطربا سوی چمن وقت گل آهنگ تو کو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صوت تو، نغمه تو، بربط تو، چنگ تو کو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش آن لعل چه نازی به صفا ای یاقوت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب تو، تاب تو، رخشانی تو، رنگ تو کو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای فلک گر به پری چهره من داری بخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مکر تو، سحر تو، افسون تو، نیرنگ تو کو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چند گویی که منم خسرو اقلیم سخن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ملک تو، کشور تو، تاج تو، اورنگ تو کو",
+      "CoupletIndex": 3
+    }
+  ]
+}

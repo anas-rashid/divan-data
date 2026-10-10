@@ -1,0 +1,57 @@
+{
+  "Id": 14147,
+  "CatId": 1045,
+  "Title": "بخش ۲۸۲ - زمانه فتنه ها ورد و بگذشت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۸۲ - زمانه فتنه ها ورد و بگذشت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh283",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh283",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زمانه فتنه هاورد و بگذشت\r\nخسان را در بغل پرورد و بگذشت\r\nدو صد بغداد را چنگیزی او\r\nچو گور تیره بختان کرد و بگذشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زمانه فتنه هاورد و بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خسان را در بغل پرورد و بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دو صد بغداد را چنگیزی او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو گور تیره بختان کرد و بگذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

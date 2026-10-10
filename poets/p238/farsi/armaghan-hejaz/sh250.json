@@ -1,0 +1,57 @@
+{
+  "Id": 14114,
+  "CatId": 1045,
+  "Title": "بخش ۲۴۹ - چه عصر است این که دین فریادی اوست",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۴۹ - چه عصر است این که دین فریادی اوست",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh250",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh250",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه عصر است این که دین فریادی اوست\r\nهزاران بند درزادی اوست\r\nز رویدمیت رنگ و نم برد\r\nغلط نقشی که از بهزادی اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه عصر است این که دین فریادی اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هزاران بند درزادی اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز رویدمیت رنگ و نم برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غلط نقشی که از بهزادی اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

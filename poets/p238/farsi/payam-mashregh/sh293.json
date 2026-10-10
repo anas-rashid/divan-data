@@ -1,0 +1,57 @@
+{
+  "Id": 13630,
+  "CatId": 1041,
+  "Title": "بخش ۲۹۳ - )",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۲۹۳ - )",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نزاکتهای طبع موشکاف او مپرس\r\nکز دم بادی زجاج شاعر ما بشکند\r\nکی تواند گفت شرح کارزار زندگی\r\n«می پرد رنگش حبابی چون بدریا بشکند»",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نزاکتهای طبع موشکاف او مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز دم بادی زجاج شاعر ما بشکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی تواند گفت شرح کارزار زندگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "«می پرد رنگش حبابی چون بدریا بشکند»",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 14190,
+  "CatId": 1045,
+  "Title": "بخش ۳۲۵ - وصال ما وصال اندر فراق است",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۲۵ - وصال ما وصال اندر فراق است",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh326",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh326",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وصال ما وصال اندر فراق است\r\nگشود این گره غیر از نظر نیست\r\nگهر گم گشتهٔ غوش دریا است\r\nولیکنب بحر ،ب گهر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وصال ما وصال اندر فراق است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گشود این گره غیر از نظر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گهر گم گشتهٔ غوش دریا است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکنب بحر ،ب گهر نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

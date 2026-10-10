@@ -1,0 +1,57 @@
+{
+  "Id": 13487,
+  "CatId": 1041,
+  "Title": "بخش ۱۵۰ - رمیدی از خداوندان افرنگ",
+  "FullTitle": "محمد اقبال » فارسی » پیام مشرق » بخش ۱۵۰ - رمیدی از خداوندان افرنگ",
+  "FullUrl": "/p238/farsi/payam-mashregh/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/payam-mashregh/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رمیدی از خداوندان افرنگ\r\nولی بر گور و گنبد سجده پاشی\r\nبه لالائی چنان عادت گرفتی\r\nز سنگ راه مولائی تراشی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رمیدی از خداوندان افرنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولی بر گور و گنبد سجده پاشی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به لالائی چنان عادت گرفتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز سنگ راه مولائی تراشی",
+      "CoupletIndex": 1
+    }
+  ]
+}

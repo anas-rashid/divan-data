@@ -1,0 +1,57 @@
+{
+  "Id": 14085,
+  "CatId": 1045,
+  "Title": "بخش ۲۲۰ - سحرگاهان که روشن شد در و دشت",
+  "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۲۲۰ - سحرگاهان که روشن شد در و دشت",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/sh221",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/iqbal/armaghan-hejaz/sh221",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سحرگاهان که روشن شد در و دشت\r\nصدا زد مرغی از شاخ نخیلی\r\nفروهل خیمه ای فرزند صحرا\r\nکه نتوان زیست بی ذوق رحیلی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سحرگاهان که روشن شد در و دشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صدا زد مرغی از شاخ نخیلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فروهل خیمه ای فرزند صحرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نتوان زیست بی ذوق رحیلی",
+      "CoupletIndex": 1
+    }
+  ]
+}
