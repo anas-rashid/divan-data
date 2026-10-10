@@ -1,0 +1,57 @@
+{
+  "Id": 30751,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹۴",
+  "FullUrl": "/p389/robghm/sh494",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh494",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی هوس کام‌پرستی نکنم\r\nلب بر لب خم چو خشت و مستی نکنم\r\nشب روز شود ز برق آهم، اما\r\nبر صبح به خنده پیش‌دستی نکنم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی هوس کام‌پرستی نکنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب بر لب خم چو خشت و مستی نکنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب روز شود ز برق آهم، اما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر صبح به خنده پیش‌دستی نکنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

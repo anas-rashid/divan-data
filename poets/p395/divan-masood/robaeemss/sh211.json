@@ -1,0 +1,57 @@
+{
+  "Id": 37725,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۱۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۱۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رویت بر من چنان که گل بر بلبل\r\nمن بر رویت چنان که بلبل بر گل\r\nعشقت بر من چنان که غل بر صلصل\r\nمن بر عشقت چنان که صلصل بر غل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رویت بر من چنان که گل بر بلبل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من بر رویت چنان که بلبل بر گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشقت بر من چنان که غل بر صلصل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من بر عشقت چنان که صلصل بر غل",
+      "CoupletIndex": 1
+    }
+  ]
+}

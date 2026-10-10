@@ -1,0 +1,93 @@
+{
+  "Id": 32270,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/p391/divan/ghazal/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آرامم از خط تو رمیدن گرفته است\r\nتا نکهت بهار دمیدن گرفته است\r\nخون دلم ز پنجهٔ مژگان به راه او\r\nدامان انتظار چکیدن گرفته است\r\nصهبا به بزم تا نرسیده است نارس است\r\nمی در پیاله رنگ رسیدن گرفته است\r\nوحشت مرا رساند به سر منزل وصال\r\nآن صید را دلم ز رمیدن گرفته است\r\nاز فیض آبیاری می لاله های رنگ\r\nجویا به باغ حسن دمیدن گرفته است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آرامم از خط تو رمیدن گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا نکهت بهار دمیدن گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون دلم ز پنجهٔ مژگان به راه او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامان انتظار چکیدن گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صهبا به بزم تا نرسیده است نارس است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می در پیاله رنگ رسیدن گرفته است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وحشت مرا رساند به سر منزل وصال",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن صید را دلم ز رمیدن گرفته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از فیض آبیاری می لاله های رنگ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جویا به باغ حسن دمیدن گرفته است",
+      "CoupletIndex": 4
+    }
+  ]
+}

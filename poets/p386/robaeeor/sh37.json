@@ -1,0 +1,57 @@
+{
+  "Id": 28080,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۷",
+  "FullUrl": "/p386/robaeeor/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی دل من که منت جان من است\r\nاز عالم قدس آمده، مهمان من است \r\nمگذار که پامال شود در ره کفر\r\nرحمی که جگر گوشهٔ ایمان من است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی دل من که منت جان من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عالم قدس آمده، مهمان من است ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگذار که پامال شود در ره کفر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رحمی که جگر گوشهٔ ایمان من است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37590,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر شاه به من چو شیر دندان خایست\r\nبر پیل نهند آنچه مرا بر بایست\r\nدر دوزخم و همچو بهشتم جایست\r\nکانجا باشم که پادشه را رایست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر شاه به من چو شیر دندان خایست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر پیل نهند آنچه مرا بر بایست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دوزخم و همچو بهشتم جایست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کانجا باشم که پادشه را رایست",
+      "CoupletIndex": 1
+    }
+  ]
+}

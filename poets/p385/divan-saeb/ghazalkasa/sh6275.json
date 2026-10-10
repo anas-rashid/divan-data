@@ -1,0 +1,93 @@
+{
+  "Id": 25348,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۲۷۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۲۷۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من و دزدیده در آن چاک گریبان دیدن\r\nجلوه یوسفی از رخنه زندان دیدن\r\nرمزی از بوالعجبی های نظربازان است\r\nطبل رسوا زدن و شیوه پنهان دیدن\r\nبیستون را الم مردن فرهاد گداخت\r\nسنگ را آب کند داغ عزیزان دیدن\r\nخنده بی نمک مرهم کافورم گشت\r\nای خوشا نیم تبسم ز نمکدان دیدن\r\nسرمه دیده امید کنم خاکش را\r\nگر میسر شودم روی صفاهان دیدن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من و دزدیده در آن چاک گریبان دیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جلوه یوسفی از رخنه زندان دیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رمزی از بوالعجبی های نظربازان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طبل رسوا زدن و شیوه پنهان دیدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیستون را الم مردن فرهاد گداخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سنگ را آب کند داغ عزیزان دیدن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خنده بی نمک مرهم کافورم گشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای خوشا نیم تبسم ز نمکدان دیدن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سرمه دیده امید کنم خاکش را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر میسر شودم روی صفاهان دیدن",
+      "CoupletIndex": 4
+    }
+  ]
+}

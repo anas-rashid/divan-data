@@ -1,0 +1,57 @@
+{
+  "Id": 28875,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵",
+  "FullUrl": "/p387/divan/robaee/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هنگام بهار سیر گلشن نکنیم\r\nتا بلبل را بخویش دشمن نکنیم\r\nتا نستانیم رخصت از پروانه\r\nدر خانه خود چراغ روشن نکنیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هنگام بهار سیر گلشن نکنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا بلبل را بخویش دشمن نکنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نستانیم رخصت از پروانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانه خود چراغ روشن نکنیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

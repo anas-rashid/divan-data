@@ -1,0 +1,93 @@
+{
+  "Id": 31054,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۷",
+  "FullUrl": "/p390/divan/ghazal/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخن ماست سربسر مرغوب\r\nگرچه پیچیده است چون مکتوب\r\nچشم از جلوه های قامت دوست\r\nهمچو دریا پر است از آشوب\r\nخاک از بس که رفتم از دل، شد\r\nپنجه ام ریشه ریشه چون جاروب\r\nدوستی نیست رحم بر کاهل\r\nآتش مرده زنده گشت به چوب\r\nخصم، بدگوی شد سلیم چنان\r\nکه به تهدید هم نگوید خوب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخن ماست سربسر مرغوب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرچه پیچیده است چون مکتوب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم از جلوه های قامت دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو دریا پر است از آشوب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خاک از بس که رفتم از دل، شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پنجه ام ریشه ریشه چون جاروب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دوستی نیست رحم بر کاهل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آتش مرده زنده گشت به چوب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خصم، بدگوی شد سلیم چنان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که به تهدید هم نگوید خوب",
+      "CoupletIndex": 4
+    }
+  ]
+}

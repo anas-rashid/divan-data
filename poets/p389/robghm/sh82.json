@@ -1,0 +1,57 @@
+{
+  "Id": 30339,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p389/robghm/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "...........\r\n...........ست\r\nتا سرزده از شمع چنین بی‌ادبی\r\nپروانه ز عشق شمع وا سوخته است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "...........",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "...........ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا سرزده از شمع چنین بی‌ادبی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه ز عشق شمع وا سوخته است",
+      "CoupletIndex": 1
+    }
+  ]
+}

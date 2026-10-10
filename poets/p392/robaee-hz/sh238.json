@@ -1,0 +1,57 @@
+{
+  "Id": 34633,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۳۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۳۸",
+  "FullUrl": "/p392/robaee-hz/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا ناله، درفش کاویانی نکنی\r\nدر کشور دهر، قهرمانی نکنی\r\nگر جان طلبند، منت از بخت بدار\r\nدر مسلخ عشق، سخت جانی نکنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ناله، درفش کاویانی نکنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کشور دهر، قهرمانی نکنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر جان طلبند، منت از بخت بدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مسلخ عشق، سخت جانی نکنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

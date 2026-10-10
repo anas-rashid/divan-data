@@ -1,0 +1,69 @@
+{
+  "Id": 26627,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بزم عشق است میا از در عادت به درون\r\nشیوه مردم بیگانه سلام است اینجا\r\nطالعی کو که گشایم در گلزار ترا؟\r\nمغرب بوسه کنم مشرق گفتار ترا\r\nنیست ممکن که به تدبیر توان کرد علاج\r\nدل بیمار من (و) نرگس بیمار ترا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بزم عشق است میا از در عادت به درون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شیوه مردم بیگانه سلام است اینجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طالعی کو که گشایم در گلزار ترا؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغرب بوسه کنم مشرق گفتار ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست ممکن که به تدبیر توان کرد علاج",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل بیمار من (و) نرگس بیمار ترا",
+      "CoupletIndex": 2
+    }
+  ]
+}

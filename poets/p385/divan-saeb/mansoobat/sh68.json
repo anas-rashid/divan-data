@@ -1,0 +1,42 @@
+{
+  "Id": 27404,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۶۸",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان که باده کند پشت دار صهبا را\r\nز خط پشت لب افزود نشئه لب او",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان که باده کند پشت دار صهبا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز خط پشت لب افزود نشئه لب او",
+      "CoupletIndex": 0
+    }
+  ]
+}

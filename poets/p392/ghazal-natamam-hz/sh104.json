@@ -1,0 +1,42 @@
+{
+  "Id": 34763,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۰۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیگانگی، به مشرب ما آشناتر است\r\nخالی ز خلق، مجلس ما دلگشاتر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیگانگی، به مشرب ما آشناتر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خالی ز خلق، مجلس ما دلگشاتر است",
+      "CoupletIndex": 0
+    }
+  ]
+}

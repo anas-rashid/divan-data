@@ -1,0 +1,54 @@
+{
+  "Id": 36515,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۵",
+  "FullUrl": "/p393/ghete/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با اهل وفا از تو جفا نیست مناسب\r\nاینها به تو ای بت به خدا نیست مناسب\r\nدست تو که از خون دل ماست نگارین\r\nگر رنگ نمایی ز حنا نیست مناسب",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با اهل وفا از تو جفا نیست مناسب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اینها به تو ای بت به خدا نیست مناسب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست تو که از خون دل ماست نگارین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر رنگ نمایی ز حنا نیست مناسب",
+      "CoupletIndex": 1
+    }
+  ]
+}

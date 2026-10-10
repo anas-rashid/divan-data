@@ -1,0 +1,93 @@
+{
+  "Id": 34138,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۱۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۱۱",
+  "FullUrl": "/p392/ghazal-hz/sh711",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh711",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دست بر دل کی درین وحشت سرا می داشتم؟\r\nبرق می گشتم اگر نیروی پا می داشتم\r\nدرد را یاران به منّت بر دل ما می نهند\r\nآه اگر زین سفلگان چشم دوا می داشتم\r\nگر امید التفاتی بود از خاک رهش\r\nدیده را در مقدم باد صبا می داشتم\r\nگر به کار من نمی افتاد از منّت گره\r\nدل به پیش ناخن مشکل گشا می داشتم\r\nاز دلش بیگانگی را محو می کردم حزین\r\nراه حرفی گر به آن دیر آشنا می داشتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست بر دل کی درین وحشت سرا می داشتم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برق می گشتم اگر نیروی پا می داشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد را یاران به منّت بر دل ما می نهند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه اگر زین سفلگان چشم دوا می داشتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر امید التفاتی بود از خاک رهش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دیده را در مقدم باد صبا می داشتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر به کار من نمی افتاد از منّت گره",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل به پیش ناخن مشکل گشا می داشتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از دلش بیگانگی را محو می کردم حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "راه حرفی گر به آن دیر آشنا می داشتم",
+      "CoupletIndex": 4
+    }
+  ]
+}

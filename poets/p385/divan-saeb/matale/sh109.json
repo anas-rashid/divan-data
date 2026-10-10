@@ -1,0 +1,42 @@
+{
+  "Id": 26197,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یوسف از بی مهری اخوان به چاه افتاده است\r\nبی حسد نبود برادر گر پیمبرزاده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یوسف از بی مهری اخوان به چاه افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی حسد نبود برادر گر پیمبرزاده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

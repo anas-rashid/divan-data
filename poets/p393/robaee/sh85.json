@@ -1,0 +1,54 @@
+{
+  "Id": 37257,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/p393/robaee/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعی که ز مردمان فراری کردند\r\nدر مسکن عافیت قراری کردند\r\nاین من سگ آنان که چو اصحاف‌‌الکهف\r\nاز خلق رمیده جا بغاری کردند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعی که ز مردمان فراری کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مسکن عافیت قراری کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این من سگ آنان که چو اصحاف‌‌الکهف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خلق رمیده جا بغاری کردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

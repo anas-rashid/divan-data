@@ -1,0 +1,57 @@
+{
+  "Id": 30303,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/p389/robghm/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کز هنرش بلند گردد درجات\r\nنقدی به کفش نیست به جز نقد حیات\r\nمانند چنار گر کشد سر به فلک\r\nجز دست تهی چه حاصل از جوهر ذات",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کز هنرش بلند گردد درجات",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقدی به کفش نیست به جز نقد حیات",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مانند چنار گر کشد سر به فلک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز دست تهی چه حاصل از جوهر ذات",
+      "CoupletIndex": 1
+    }
+  ]
+}

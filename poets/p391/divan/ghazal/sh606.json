@@ -1,0 +1,54 @@
+{
+  "Id": 32698,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۶",
+  "FullUrl": "/p391/divan/ghazal/sh606",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh606",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوی آن جور آشنا بیگانه از هوشم کند\r\nمی کند دانسته یادم تا فراموشم کند\r\nحسن سرشار ترا نازم شکوهش کم مباد\r\nبا وجود صد زبان چون غنچه خاموشم کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوی آن جور آشنا بیگانه از هوشم کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می کند دانسته یادم تا فراموشم کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حسن سرشار ترا نازم شکوهش کم مباد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با وجود صد زبان چون غنچه خاموشم کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

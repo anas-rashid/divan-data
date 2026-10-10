@@ -1,0 +1,45 @@
+{
+  "Id": 18803,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۷۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۷۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1272",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1272",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش ازان کز یکدگر ریزیم چون قصر حباب\r\nخیز تا چون موجهٔ دریا وداع هم کنیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش ازان کز یکدگر ریزیم چون قصر حباب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیز تا چون موجهٔ دریا وداع هم کنیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

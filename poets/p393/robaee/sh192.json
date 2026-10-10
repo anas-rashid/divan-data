@@ -1,0 +1,54 @@
+{
+  "Id": 37364,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۲",
+  "FullUrl": "/p393/robaee/sh192",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh192",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساقی خبری ز بنده داری یا نه\r\nدریاب مرا به همت مردانه\r\nخواهم خالی کنم ز می خم‌خانه\r\nزان پیش که پر شود مرا پیمانه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی خبری ز بنده داری یا نه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریاب مرا به همت مردانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم خالی کنم ز می خم‌خانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان پیش که پر شود مرا پیمانه",
+      "CoupletIndex": 1
+    }
+  ]
+}

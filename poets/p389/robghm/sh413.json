@@ -1,0 +1,57 @@
+{
+  "Id": 30670,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱۳",
+  "FullUrl": "/p389/robghm/sh413",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh413",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بینم رخ غم، نقاب نگشاده هنوز\r\nمستم، چه شد ار نخورده‌ام باده هنوز\r\nچون لاله مرا چهره به خون دارد سرخ\r\nداغی که سیاهی‌اش نیفتاده هنوز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بینم رخ غم، نقاب نگشاده هنوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستم، چه شد ار نخورده‌ام باده هنوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون لاله مرا چهره به خون دارد سرخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داغی که سیاهی‌اش نیفتاده هنوز",
+      "CoupletIndex": 1
+    }
+  ]
+}

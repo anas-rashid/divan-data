@@ -1,0 +1,57 @@
+{
+  "Id": 37634,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا چرخ مرا به چنگ عشق تو سپرد\r\nشمع طربم ز باد اندوه بمرد\r\nای گردن رامش مرا کوفته خورد\r\nدر حسرت تو عمر به سر خواهم برد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چرخ مرا به چنگ عشق تو سپرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع طربم ز باد اندوه بمرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای گردن رامش مرا کوفته خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حسرت تو عمر به سر خواهم برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

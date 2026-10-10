@@ -1,0 +1,45 @@
+{
+  "Id": 18700,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۶۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۶۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خانه‌ای از خانه آیینه دارم پاکتر\r\nهر چه هر کس آورد با خویش مهمانش کنم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خانه‌ای از خانه آیینه دارم پاکتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه هر کس آورد با خویش مهمانش کنم",
+      "CoupletIndex": 0
+    }
+  ]
+}

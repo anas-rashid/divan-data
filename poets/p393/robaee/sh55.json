@@ -1,0 +1,54 @@
+{
+  "Id": 37227,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/p393/robaee/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سقاپسری که نام او بود حیات\r\nاز فرط عطش دید مرا در سکرات\r\nآبی بخشید و من ز سر زنده شدم\r\nواه واه چه حیات چشمهٔ آب حیات",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سقاپسری که نام او بود حیات",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از فرط عطش دید مرا در سکرات",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آبی بخشید و من ز سر زنده شدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "واه واه چه حیات چشمهٔ آب حیات",
+      "CoupletIndex": 1
+    }
+  ]
+}

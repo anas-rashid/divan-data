@@ -1,0 +1,57 @@
+{
+  "Id": 27194,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۸۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۸۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh588",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh588",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای فتنه از سپاه تو تیری ز ترکشی\r\nاز خنده تو شور قیامت نمکچشی\r\nمیدان بی قراری ما را کنار نیست\r\nدل یک سپندو عشق تو دریای آتشی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای فتنه از سپاه تو تیری ز ترکشی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خنده تو شور قیامت نمکچشی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میدان بی قراری ما را کنار نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل یک سپندو عشق تو دریای آتشی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37264,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۲",
+  "FullUrl": "/p393/robaee/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب تا سحر از درد دلم می‌نالید\r\nفریاد که هیچ‌کس به دادم نرسید\r\nدر گریه کسی نشد شریک چشمم\r\nجز ابر سیاه که روی او باید سپید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب تا سحر از درد دلم می‌نالید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد که هیچ‌کس به دادم نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در گریه کسی نشد شریک چشمم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز ابر سیاه که روی او باید سپید",
+      "CoupletIndex": 1
+    }
+  ]
+}

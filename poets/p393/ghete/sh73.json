@@ -1,0 +1,54 @@
+{
+  "Id": 36553,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۳",
+  "FullUrl": "/p393/ghete/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دل زلف تو تاب برده است\r\nچشم تو ز دیده خواب برده است\r\nروی تو به زور حسن پنجه\r\nصد بار ز آفتاب برده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دل زلف تو تاب برده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم تو ز دیده خواب برده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی تو به زور حسن پنجه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد بار ز آفتاب برده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

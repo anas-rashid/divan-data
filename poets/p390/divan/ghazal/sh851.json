@@ -1,0 +1,93 @@
+{
+  "Id": 31818,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۵۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۵۱",
+  "FullUrl": "/p390/divan/ghazal/sh851",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh851",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مطرب از دستت گر آید، ناخنی بر چنگ زن\r\nمن بر آتش می زنم خود را، تو بر آهنگ زن\r\nنسبتی با مشرب پروانه گر داری بس است\r\nگر نباشد آتشی، بر آب آتش رنگ زن\r\nبلبلان با هم نمی دانند غیر از دوستی\r\nگل تمام عمر گو ناخن برای جنگ زن\r\nشکوه ی احباب را پوشیده نتوان داشتن\r\nگر به دستت شیشه گردد راستی، بر سنگ زن\r\nزین گلستان برگ سبزی خود به کف ناید سلیم\r\nهمچو اوراق چمن، آیینه را بر سنگ زن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطرب از دستت گر آید، ناخنی بر چنگ زن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من بر آتش می زنم خود را، تو بر آهنگ زن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نسبتی با مشرب پروانه گر داری بس است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نباشد آتشی، بر آب آتش رنگ زن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بلبلان با هم نمی دانند غیر از دوستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گل تمام عمر گو ناخن برای جنگ زن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شکوه ی احباب را پوشیده نتوان داشتن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر به دستت شیشه گردد راستی، بر سنگ زن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زین گلستان برگ سبزی خود به کف ناید سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همچو اوراق چمن، آیینه را بر سنگ زن",
+      "CoupletIndex": 4
+    }
+  ]
+}

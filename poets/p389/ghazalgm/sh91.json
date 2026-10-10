@@ -1,0 +1,81 @@
+{
+  "Id": 29839,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۹۱",
+  "FullUrl": "/p389/ghazalgm/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلفت بود به کام، دلی را که داغ نیست\r\nدر کار شبروان گرهی چون چراغ نیست\r\nهر شب گل چراغ بهار دگر کند\r\nبلبل گمان مبر که ز پروانه داغ نیست\r\nچون غنچه برنیاورد از شرم سر ز جیب\r\nزان بوی طره هرکه پریشان دماغ نیست\r\nدر باغ عشق برگ معیشت مگو نماند\r\nگل هم به چشم مرغ چمن کم ز داغ نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفت بود به کام، دلی را که داغ نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کار شبروان گرهی چون چراغ نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر شب گل چراغ بهار دگر کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلبل گمان مبر که ز پروانه داغ نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون غنچه برنیاورد از شرم سر ز جیب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زان بوی طره هرکه پریشان دماغ نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در باغ عشق برگ معیشت مگو نماند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گل هم به چشم مرغ چمن کم ز داغ نیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

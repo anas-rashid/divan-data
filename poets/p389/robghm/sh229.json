@@ -1,0 +1,57 @@
+{
+  "Id": 30486,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۲۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۲۹",
+  "FullUrl": "/p389/robghm/sh229",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh229",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چرخ آب همیشه زیر کاه اندازد\r\nیک کار به صد حیله به راه اندازد\r\nمهرست که عیب چرخ را پوشیده\r\nرسواست چو کل ز سر کلاه اندازد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چرخ آب همیشه زیر کاه اندازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک کار به صد حیله به راه اندازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مهرست که عیب چرخ را پوشیده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رسواست چو کل ز سر کلاه اندازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

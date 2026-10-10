@@ -1,0 +1,57 @@
+{
+  "Id": 34417,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/p392/robaee-hz/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغی که بکاود سر پرشور کجاست؟\r\nزخمی که گدازد دمِ ساطور کجاست؟\r\nگرمی به دلم نمی کشد شعله، حزین\r\nای غیرت عشق، آتش طور کجاست؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغی که بکاود سر پرشور کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زخمی که گدازد دمِ ساطور کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرمی به دلم نمی کشد شعله، حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای غیرت عشق، آتش طور کجاست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

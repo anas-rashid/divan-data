@@ -1,0 +1,93 @@
+{
+  "Id": 33525,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۹۸",
+  "FullUrl": "/p392/ghazal-hz/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تراوشهای موج خون، کند غمخواری ما را\r\nکه شوید مرهم از رخساره، زخم کاری ما را\r\nمحبت گر نبودی، زندگانی مشکل افتادی\r\nغم عشق تو آسان می کند دشواری ما را\r\nبه این عشرت دهان زخم دل خندان نمی بودی\r\nاگر غیرت نمی بستی لب زنهاری ما را\r\nطمع رسم عیادت کی کند دل؟ کز پس مردن\r\nمگر آن بی مروت بشنود، بیماری ما را\r\nز کف بربوده ایمان حزین را زلف او، زاهد\r\nمگو از سجده دیگر، کافر زنّاری ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تراوشهای موج خون، کند غمخواری ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که شوید مرهم از رخساره، زخم کاری ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "محبت گر نبودی، زندگانی مشکل افتادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم عشق تو آسان می کند دشواری ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به این عشرت دهان زخم دل خندان نمی بودی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر غیرت نمی بستی لب زنهاری ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "طمع رسم عیادت کی کند دل؟ کز پس مردن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مگر آن بی مروت بشنود، بیماری ما را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز کف بربوده ایمان حزین را زلف او، زاهد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مگو از سجده دیگر، کافر زنّاری ما را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26218,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۳۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh130",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh130",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم مینا ز سیه بختی ما خونریزست\r\nساغر از شکوه کم ظرفی ما لبریزست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم مینا ز سیه بختی ما خونریزست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساغر از شکوه کم ظرفی ما لبریزست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30810,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۵۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۵۳",
+  "FullUrl": "/p389/robghm/sh553",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh553",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر روی تو چرخ دست رد ننهاده\r\nیک، بر نگرفته‌ست، که صد ننهاده\r\nبنیاد شکایت تو نهادی، ور نه\r\nمعمار، بنای خانه بد ننهاده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر روی تو چرخ دست رد ننهاده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک، بر نگرفته‌ست، که صد ننهاده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنیاد شکایت تو نهادی، ور نه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معمار، بنای خانه بد ننهاده",
+      "CoupletIndex": 1
+    }
+  ]
+}

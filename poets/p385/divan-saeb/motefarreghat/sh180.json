@@ -1,0 +1,69 @@
+{
+  "Id": 26786,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۸۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می بی نمک صحبت احباب حرام است\r\nمی چیست، گر انصاف بود آب حرام است\r\nبا ساغر شبگیر، سراسر مزه دارد\r\nدر خانه نشستن شب مهتاب حرام است\r\nدر مشرب ما جوهریان گهر وقت\r\nغیر از شب آدینه می ناب حرام است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می بی نمک صحبت احباب حرام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می چیست، گر انصاف بود آب حرام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با ساغر شبگیر، سراسر مزه دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خانه نشستن شب مهتاب حرام است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در مشرب ما جوهریان گهر وقت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غیر از شب آدینه می ناب حرام است",
+      "CoupletIndex": 2
+    }
+  ]
+}

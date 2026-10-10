@@ -1,0 +1,57 @@
+{
+  "Id": 37633,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاه شبانگاه تو شبگیر شود\r\nتدبیر تو همگوشه تقدیر شود\r\nپیش تو جهان ملک جهانگیر شود\r\nایران ملک تو پیش تو پیر شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه شبانگاه تو شبگیر شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تدبیر تو همگوشه تقدیر شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش تو جهان ملک جهانگیر شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایران ملک تو پیش تو پیر شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

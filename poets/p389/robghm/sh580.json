@@ -1,0 +1,57 @@
+{
+  "Id": 30837,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۸۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۸۰",
+  "FullUrl": "/p389/robghm/sh580",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh580",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنجورم و خسته‌دل، طبیبان مددی!\r\nغربت شده دشمنم، حبیبان مددی!\r\nحب‌الوطنم ز جای برداشته دل\r\nوقت آمده، ای شام غریبان مددی!",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنجورم و خسته‌دل، طبیبان مددی!",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غربت شده دشمنم، حبیبان مددی!",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حب‌الوطنم ز جای برداشته دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وقت آمده، ای شام غریبان مددی!",
+      "CoupletIndex": 1
+    }
+  ]
+}

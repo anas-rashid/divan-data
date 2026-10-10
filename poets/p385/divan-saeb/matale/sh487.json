@@ -1,0 +1,42 @@
+{
+  "Id": 26575,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۸۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۸۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh487",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh487",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فارغ است از دیو مردم خاطر آزاد من\r\nنیست از جوش پری ره در خیال آباد من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فارغ است از دیو مردم خاطر آزاد من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست از جوش پری ره در خیال آباد من",
+      "CoupletIndex": 0
+    }
+  ]
+}

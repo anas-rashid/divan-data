@@ -1,0 +1,45 @@
+{
+  "Id": 17871,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۴۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۴۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh340",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh340",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در چَشمِ پاک‌بازان، آن دل‌نَواز، پیداست\r\nآیینه، صاف چون شد، آیینه‌ساز، پیداست!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در چَشمِ پاک‌بازان، آن دل‌نَواز، پیداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه، صاف چون شد، آیینه‌ساز، پیداست!",
+      "CoupletIndex": 0
+    }
+  ]
+}

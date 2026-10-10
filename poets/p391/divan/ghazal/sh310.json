@@ -1,0 +1,69 @@
+{
+  "Id": 32402,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۱۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۱۰",
+  "FullUrl": "/p391/divan/ghazal/sh310",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh310",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از خیال رخت سرخوش ایاغ گل است\r\nنگه بروی تو پروانه چراغ گل است\r\nبه ماه عارض او چهره شد ز بی رویی\r\nدلم همیشه ازین رو چو لاله داغ گل است\r\nبه باغ باده دلم غم کشیده ام نکشد\r\nکرا هوای قدح نوشی و دماغ گل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از خیال رخت سرخوش ایاغ گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگه بروی تو پروانه چراغ گل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به ماه عارض او چهره شد ز بی رویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلم همیشه ازین رو چو لاله داغ گل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به باغ باده دلم غم کشیده ام نکشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کرا هوای قدح نوشی و دماغ گل است",
+      "CoupletIndex": 2
+    }
+  ]
+}

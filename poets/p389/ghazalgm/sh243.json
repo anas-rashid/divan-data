@@ -1,0 +1,81 @@
+{
+  "Id": 29991,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۴۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۴۳",
+  "FullUrl": "/p389/ghazalgm/sh243",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh243",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که دود آه عاشق پرده افلاک شد\r\nسینه افلاک از داغ کواکب پاک شد\r\nپا ز عزت بر زمین ننهد ملک در شهر عشق\r\nبس که در هر کوچه‌اش جسم عزیزان خاک شد\r\nاتحادی هست با خونین‌دلانم، زان سبب\r\nغنچه پیراهن درید و سینه من چاک شد\r\nبر فروزد عارض معشوق از اظهار نیاز\r\nروی گل از شرم عشق بلبل آتشناک شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که دود آه عاشق پرده افلاک شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سینه افلاک از داغ کواکب پاک شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پا ز عزت بر زمین ننهد ملک در شهر عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس که در هر کوچه‌اش جسم عزیزان خاک شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اتحادی هست با خونین‌دلانم، زان سبب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "غنچه پیراهن درید و سینه من چاک شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر فروزد عارض معشوق از اظهار نیاز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "روی گل از شرم عشق بلبل آتشناک شد",
+      "CoupletIndex": 3
+    }
+  ]
+}

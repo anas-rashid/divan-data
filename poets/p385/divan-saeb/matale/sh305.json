@@ -1,0 +1,42 @@
+{
+  "Id": 26393,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۰۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۰۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh305",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh305",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از رفیق گرانجان ز عمر سیر شود\r\nسفر به پای شتر هر که کرد پیر شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از رفیق گرانجان ز عمر سیر شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سفر به پای شتر هر که کرد پیر شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

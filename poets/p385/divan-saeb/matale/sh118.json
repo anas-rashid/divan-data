@@ -1,0 +1,45 @@
+{
+  "Id": 26206,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل به صحبت ذوق خلوت دیده را در بند نیست\r\nاین نهال خوش ثمر را حاجت پیوند نیست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل به صحبت ذوق خلوت دیده را در بند نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این نهال خوش ثمر را حاجت پیوند نیست",
+      "CoupletIndex": 0
+    }
+  ]
+}

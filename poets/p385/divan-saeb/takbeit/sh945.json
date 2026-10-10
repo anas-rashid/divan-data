@@ -1,0 +1,45 @@
+{
+  "Id": 18476,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۴۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۴۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh945",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh945",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح آگاهی شود گفتم مرا موی سفید\r\nچشم بی شرم مرا شد پردهٔ خواب دگر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح آگاهی شود گفتم مرا موی سفید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم بی شرم مرا شد پردهٔ خواب دگر",
+      "CoupletIndex": 0
+    }
+  ]
+}

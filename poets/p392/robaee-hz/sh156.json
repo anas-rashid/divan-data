@@ -1,0 +1,57 @@
+{
+  "Id": 34551,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۵۶",
+  "FullUrl": "/p392/robaee-hz/sh156",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh156",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر جلوهٔ دوست می کند عاشق سیر\r\nدل، خواه به کعبه رو کند، خواه به دیر\r\nآشفتهٔ یار را چه سودای خود است؟\r\nمستغرق دوست را چه کار است به غیر؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر جلوهٔ دوست می کند عاشق سیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل، خواه به کعبه رو کند، خواه به دیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشفتهٔ یار را چه سودای خود است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مستغرق دوست را چه کار است به غیر؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

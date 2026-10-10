@@ -1,0 +1,54 @@
+{
+  "Id": 37247,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/p393/robaee/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا چند به من طبع تو سرکش افتد\r\nتا کی طرزت به بنده ناخوش افتد\r\nآتش ز تغافلت به جانم افتاد\r\nدر جان تغافل آتش افتد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند به من طبع تو سرکش افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کی طرزت به بنده ناخوش افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آتش ز تغافلت به جانم افتاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جان تغافل آتش افتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33726,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۹۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۹۹",
+  "FullUrl": "/p392/ghazal-hz/sh299",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh299",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک ره به سر تربتم از ناز نیامد\r\nاین جان ز تن رفته، دگر باز نیامد\r\nپیغام دروغی که فریبد دل ما را\r\nافسوس کزان لعل فسون ساز نیامد\r\nخونین جگری بی تو نهفتیم ولیکن\r\nاز گریه، نگه داشتن راز نیامد\r\nرفتم که نویسم من سودا زده حرفی\r\nاز مطلب گم گشته خبر باز نیامد\r\nروزی که به دل ناله گره بود حزین را\r\nناقوس صنم خانه به آواز نیامد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک ره به سر تربتم از ناز نیامد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این جان ز تن رفته، دگر باز نیامد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیغام دروغی که فریبد دل ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس کزان لعل فسون ساز نیامد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خونین جگری بی تو نهفتیم ولیکن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از گریه، نگه داشتن راز نیامد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رفتم که نویسم من سودا زده حرفی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از مطلب گم گشته خبر باز نیامد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "روزی که به دل ناله گره بود حزین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ناقوس صنم خانه به آواز نیامد",
+      "CoupletIndex": 4
+    }
+  ]
+}

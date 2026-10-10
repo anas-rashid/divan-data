@@ -1,0 +1,69 @@
+{
+  "Id": 26868,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۶۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش بهاری می رسد فکر می و ساغر کنید\r\nکاسه را فربه کنید و کیسه را لاغر کنید\r\nچند چون شمشیر بتوان بود در بند نیام؟\r\nچند روزی هم لباس خویش از جوهر کنید\r\nدر رکاب برق دارد پای، ابر نوبهار\r\nصاف و درد خاک را چون لاله یک ساغر کنید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش بهاری می رسد فکر می و ساغر کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاسه را فربه کنید و کیسه را لاغر کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چند چون شمشیر بتوان بود در بند نیام؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چند روزی هم لباس خویش از جوهر کنید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در رکاب برق دارد پای، ابر نوبهار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صاف و درد خاک را چون لاله یک ساغر کنید",
+      "CoupletIndex": 2
+    }
+  ]
+}

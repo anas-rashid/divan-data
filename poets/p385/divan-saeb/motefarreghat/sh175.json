@@ -1,0 +1,57 @@
+{
+  "Id": 26781,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۷۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۷۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh175",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh175",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر رنگ عصمت تو می ناب دست یافت\r\nصد حیف بر کتان تو مهتاب دست یافت\r\nنگذاشت آشنایی من چین در ابرویت\r\nکافر به طاق ابروی محراب دست یافت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر رنگ عصمت تو می ناب دست یافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد حیف بر کتان تو مهتاب دست یافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگذاشت آشنایی من چین در ابرویت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کافر به طاق ابروی محراب دست یافت",
+      "CoupletIndex": 1
+    }
+  ]
+}

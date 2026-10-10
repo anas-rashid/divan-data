@@ -1,0 +1,57 @@
+{
+  "Id": 37727,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۱۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بنگر که ز شاخ می چه گوید صلصل\r\nبفسردمی و گشت به باغ اندر گل\r\nبنگر که چه پاسخ آرد او را بلبل\r\nبگداخت گل و گشت به جام اندر مل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بنگر که ز شاخ می چه گوید صلصل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بفسردمی و گشت به باغ اندر گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنگر که چه پاسخ آرد او را بلبل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگداخت گل و گشت به جام اندر مل",
+      "CoupletIndex": 1
+    }
+  ]
+}

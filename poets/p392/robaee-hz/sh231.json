@@ -1,0 +1,57 @@
+{
+  "Id": 34626,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۳۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۳۱",
+  "FullUrl": "/p392/robaee-hz/sh231",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh231",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عاشق محزون، دل ناشاد تو کو؟\r\nوی کوه گرانِ درد، فرهاد تو کو؟\r\nوحشی تری از خود به کمین داشته ای\r\nای صید به خون تپیده، صیاد تو کو؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عاشق محزون، دل ناشاد تو کو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی کوه گرانِ درد، فرهاد تو کو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وحشی تری از خود به کمین داشته ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای صید به خون تپیده، صیاد تو کو؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

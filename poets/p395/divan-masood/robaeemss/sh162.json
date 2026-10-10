@@ -1,0 +1,57 @@
+{
+  "Id": 37676,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۶۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۶۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh162",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh162",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تعریف مرا عشق تو ای ساده شکر\r\nبس راز دلم کرد به هر جای سمر\r\nعشقت چو همی نگه کند جان و جگر\r\nغماز چو مشک آمد و طرار چو زر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تعریف مرا عشق تو ای ساده شکر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس راز دلم کرد به هر جای سمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشقت چو همی نگه کند جان و جگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غماز چو مشک آمد و طرار چو زر",
+      "CoupletIndex": 1
+    }
+  ]
+}

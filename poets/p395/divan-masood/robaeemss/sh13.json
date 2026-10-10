@@ -1,0 +1,57 @@
+{
+  "Id": 37527,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می دانستم چو روز روشن صنما\r\nکاخر بروی تو از بر من صنما\r\nزیرا چو کنی قصد به رفتن صنما\r\nنتوان بستن تو را به آهن صنما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می دانستم چو روز روشن صنما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاخر بروی تو از بر من صنما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زیرا چو کنی قصد به رفتن صنما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتوان بستن تو را به آهن صنما",
+      "CoupletIndex": 1
+    }
+  ]
+}

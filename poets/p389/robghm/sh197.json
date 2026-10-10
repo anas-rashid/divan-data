@@ -1,0 +1,57 @@
+{
+  "Id": 30454,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۹۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۹۷",
+  "FullUrl": "/p389/robghm/sh197",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh197",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگذار گره به کار ما برگردد\r\nمپسند که روزگار ما برگردد\r\nرفتی تو و روزگار برگشته ز ما\r\nبرگرد که روزگار ما برگردد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگذار گره به کار ما برگردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مپسند که روزگار ما برگردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتی تو و روزگار برگشته ز ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برگرد که روزگار ما برگردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

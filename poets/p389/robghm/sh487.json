@@ -1,0 +1,57 @@
+{
+  "Id": 30744,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۸۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۸۷",
+  "FullUrl": "/p389/robghm/sh487",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh487",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون آینه، گر به ساده‌لوحی مثلم\r\nاین بس بود از ساده‌دلی ماحصلم\r\nکز رقعه ساده عزیزان چمن\r\nچون غنچه ز برگ گل بود پر، بغلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون آینه، گر به ساده‌لوحی مثلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این بس بود از ساده‌دلی ماحصلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کز رقعه ساده عزیزان چمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون غنچه ز برگ گل بود پر، بغلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 29873,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/p389/ghazalgm/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز خیال تو مرا در سر سودایی نیست\r\nخون شود دل اگر از عشق تو شیدایی نیست\r\nبه ره کعبه فریبم مدهید از در دوست\r\nعاشقان را هوس بادیه‌پیمایی نیست\r\nهمه‌جا جلوه معشوق حقیقی‌ست ولی\r\nهر تُنُک‌حوصله را چشم تماشایی نیست\r\nوصل اگر می‌طلبی، یک جهتی کن که ز رشک\r\nشمع ما را سر پروانه هرجایی نیست\r\nطعن قدسی مزن ای زاهد ناموس‌پرست\r\nهرکه عاشق شود او را غم رسوایی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز خیال تو مرا در سر سودایی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون شود دل اگر از عشق تو شیدایی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به ره کعبه فریبم مدهید از در دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عاشقان را هوس بادیه‌پیمایی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همه‌جا جلوه معشوق حقیقی‌ست ولی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر تُنُک‌حوصله را چشم تماشایی نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وصل اگر می‌طلبی، یک جهتی کن که ز رشک",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شمع ما را سر پروانه هرجایی نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طعن قدسی مزن ای زاهد ناموس‌پرست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هرکه عاشق شود او را غم رسوایی نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

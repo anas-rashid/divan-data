@@ -1,0 +1,57 @@
+{
+  "Id": 32041,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/p390/divan/robaee/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی تاب و تبم چو شمع تن می میرد\r\nمی میرم اگر آتش من می میرد\r\nاز آتش دوزخ دل ما را چه غم است\r\nهندو ز برای سوختن می میرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تاب و تبم چو شمع تن می میرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می میرم اگر آتش من می میرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آتش دوزخ دل ما را چه غم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هندو ز برای سوختن می میرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17671,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh140",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh140",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برنمی‌دارد به رغم من، نظر از خاک راه\r\nمی‌فشاند بر زمین جامی که می‌باید مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برنمی‌دارد به رغم من، نظر از خاک راه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌فشاند بر زمین جامی که می‌باید مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

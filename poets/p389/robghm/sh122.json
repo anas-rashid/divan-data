@@ -1,0 +1,57 @@
+{
+  "Id": 30379,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۲۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۲۲",
+  "FullUrl": "/p389/robghm/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشمم به سرشک لاله‌گون خرسندست\r\nگویی که به هر قطره دلم پیوندست\r\nاشکم به کنار خفته چون فرزندست\r\nچون بسته شود خون، به جگر مانندست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشمم به سرشک لاله‌گون خرسندست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که به هر قطره دلم پیوندست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اشکم به کنار خفته چون فرزندست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بسته شود خون، به جگر مانندست",
+      "CoupletIndex": 1
+    }
+  ]
+}

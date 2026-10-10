@@ -1,0 +1,57 @@
+{
+  "Id": 30569,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۱۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۱۲",
+  "FullUrl": "/p389/robghm/sh312",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh312",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق، کسی که نو گرفتار بود\r\nباید به جگرسوخته‌ای یار بود\r\nگردید چو طفل، گرم آتش‌بازی\r\nباید دگری ازو خبردار بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق، کسی که نو گرفتار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید به جگرسوخته‌ای یار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردید چو طفل، گرم آتش‌بازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باید دگری ازو خبردار بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

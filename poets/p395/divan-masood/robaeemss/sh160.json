@@ -1,0 +1,57 @@
+{
+  "Id": 37674,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۶۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر ابر که بنگرم غباری شده گیر\r\nگر گل گیرم به دست خاری شده گیر\r\nهر روز مرا خانه حصاری شده گیر\r\nعمری شده دان و روزگاری شده گیر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر ابر که بنگرم غباری شده گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر گل گیرم به دست خاری شده گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر روز مرا خانه حصاری شده گیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عمری شده دان و روزگاری شده گیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

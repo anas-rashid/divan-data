@@ -1,0 +1,45 @@
+{
+  "Id": 17653,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وادی پیموده را از سر گرفتن مشکل است\r\nچون زلیخا، عشق می‌ترسم جوان سازد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وادی پیموده را از سر گرفتن مشکل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون زلیخا، عشق می‌ترسم جوان سازد مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

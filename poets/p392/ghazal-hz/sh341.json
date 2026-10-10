@@ -1,0 +1,93 @@
+{
+  "Id": 33768,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۴۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۴۱",
+  "FullUrl": "/p392/ghazal-hz/sh341",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh341",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دمی که از رخ ساقی خوی حجاب چکد\r\nمرا ز هر بن مو، موج پیچ و تاب چکد\r\nبه یاد آن لب میگون چو ناله پردازم\r\nبه جای اشک ز مژگان من شراب چکد\r\nاگر ز جور تو نالم به چرخ سنگین دل\r\nسپهر خون شود از چشم آفتاب چکد\r\nسپاه هوش جهان را دهد به موج فنا\r\nکرشمه ای که از آن چشم نیم خواب چکد\r\nبه محفلی که زنی نشتری به ناله حزین\r\nبه جای نغمه شرار از رگ رباب چکد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دمی که از رخ ساقی خوی حجاب چکد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا ز هر بن مو، موج پیچ و تاب چکد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به یاد آن لب میگون چو ناله پردازم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به جای اشک ز مژگان من شراب چکد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر ز جور تو نالم به چرخ سنگین دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سپهر خون شود از چشم آفتاب چکد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سپاه هوش جهان را دهد به موج فنا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کرشمه ای که از آن چشم نیم خواب چکد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به محفلی که زنی نشتری به ناله حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به جای نغمه شرار از رگ رباب چکد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28877,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷",
+  "FullUrl": "/p387/divan/robaee/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برگشتن عمر را نمود آمدنت\r\nبسیار بکام شوق بود آمدنت\r\nاز آمدنت که نوبهار طربست\r\nدانی که چه بهتر است زود آمدنت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برگشتن عمر را نمود آمدنت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسیار بکام شوق بود آمدنت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آمدنت که نوبهار طربست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانی که چه بهتر است زود آمدنت",
+      "CoupletIndex": 1
+    }
+  ]
+}

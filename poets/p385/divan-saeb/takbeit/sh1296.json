@@ -1,0 +1,45 @@
+{
+  "Id": 18827,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۹۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۹۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1296",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1296",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو گل با روی خندان صرف کن گر خرده‌ای داری\r\nکه دل را تنگ سازد، در گره چون غنچه زر بستن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو گل با روی خندان صرف کن گر خرده‌ای داری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دل را تنگ سازد، در گره چون غنچه زر بستن",
+      "CoupletIndex": 0
+    }
+  ]
+}

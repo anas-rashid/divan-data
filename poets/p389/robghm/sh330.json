@@ -1,0 +1,57 @@
+{
+  "Id": 30587,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳۰",
+  "FullUrl": "/p389/robghm/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاشق ز درت به هر هوایی نرود\r\nاز جای به هر تک تک پایی نرود\r\nپروانه پر خویش ازان سوخته است\r\nتا از قدم شمع به جایی نرود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشق ز درت به هر هوایی نرود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از جای به هر تک تک پایی نرود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانه پر خویش ازان سوخته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا از قدم شمع به جایی نرود",
+      "CoupletIndex": 1
+    }
+  ]
+}

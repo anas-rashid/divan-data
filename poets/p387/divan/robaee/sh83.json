@@ -1,0 +1,57 @@
+{
+  "Id": 28953,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/p387/divan/robaee/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا وزن شهنشاه ترازو کردست\r\nشه گنج گهر بدامن او کردست\r\nگستاخ بپای شاه چون روی نهاد\r\nدارد دو سر این جرأت ازین رو کردست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا وزن شهنشاه ترازو کردست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شه گنج گهر بدامن او کردست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گستاخ بپای شاه چون روی نهاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دارد دو سر این جرأت ازین رو کردست",
+      "CoupletIndex": 1
+    }
+  ]
+}

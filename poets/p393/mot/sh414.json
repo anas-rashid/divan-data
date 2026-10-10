@@ -1,0 +1,42 @@
+{
+  "Id": 37123,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۴۱۴",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۴۱۴",
+  "FullUrl": "/p393/mot/sh414",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh414",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح رسانید مرا بوی او\r\nباد صبا سلمه ربهو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح رسانید مرا بوی او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد صبا سلمه ربهو",
+      "CoupletIndex": 0
+    }
+  ]
+}

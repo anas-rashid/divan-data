@@ -1,0 +1,57 @@
+{
+  "Id": 37562,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وصلش شادیست وز پسش زود غم است\r\nآزرده ز من شادی و خشنود غم است\r\nای آفت دل ز آتش دل دود غم است\r\nمایه است هوای تو بر او سود غم است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وصلش شادیست وز پسش زود غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آزرده ز من شادی و خشنود غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آفت دل ز آتش دل دود غم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مایه است هوای تو بر او سود غم است",
+      "CoupletIndex": 1
+    }
+  ]
+}

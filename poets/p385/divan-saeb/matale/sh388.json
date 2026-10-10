@@ -1,0 +1,42 @@
+{
+  "Id": 26476,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۸۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۸۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh388",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh388",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ازان خرسند گردیدم ز دیدن ها به نادیدن\r\nکه دیدن های رسمی نیست جز تکلیف وا دیدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازان خرسند گردیدم ز دیدن ها به نادیدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دیدن های رسمی نیست جز تکلیف وا دیدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

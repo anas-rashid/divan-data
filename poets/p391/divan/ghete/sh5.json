@@ -1,0 +1,57 @@
+{
+  "Id": 33241,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۵ - در ترجمهٔ کلام امام علی (ع)‏",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۵ - در ترجمهٔ کلام امام علی (ع)‏",
+  "FullUrl": "/p391/divan/ghete/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اینچنین فرمود در تعریف خاموشی به خلق\r\nآنکه بر اهل جهان بعد از رسول الله مه است\r\nخامشی به از سخن گفتن بود لیکن سخن\r\nگر بود در وصف خاموشی ز خاموشی به است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اینچنین فرمود در تعریف خاموشی به خلق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنکه بر اهل جهان بعد از رسول الله مه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خامشی به از سخن گفتن بود لیکن سخن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بود در وصف خاموشی ز خاموشی به است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18741,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۱۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۱۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باور که می‌کند، که درین بحر چون حباب\r\nسر داده‌ایم و زندگی از سر گرفته‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باور که می‌کند، که درین بحر چون حباب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر داده‌ایم و زندگی از سر گرفته‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 29747,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۴۰",
+  "FullUrl": "/p388/divan/robaee/sh140",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh140",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هان بلبل هان صفیر محکم ندهی\r\nتا طوطی غنچه نشکفد دم ندهی\r\nاز غیب به باغ طایران آمده اند\r\nخامش که ز شاخسارشان رم ندهی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هان بلبل هان صفیر محکم ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا طوطی غنچه نشکفد دم ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غیب به باغ طایران آمده اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خامش که ز شاخسارشان رم ندهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

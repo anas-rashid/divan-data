@@ -1,0 +1,54 @@
+{
+  "Id": 34665,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سمند جلوه او، کرده تا غبار مرا\r\nچو گردباد، بلند است از مزار مرا\r\nعشق کرده ست رسا، ناله غمّاز مرا\r\nسرمهٔ سوختگی ساخته، آواز مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سمند جلوه او، کرده تا غبار مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گردباد، بلند است از مزار مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق کرده ست رسا، ناله غمّاز مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرمهٔ سوختگی ساخته، آواز مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

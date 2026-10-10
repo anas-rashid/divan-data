@@ -1,0 +1,54 @@
+{
+  "Id": 36628,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۴۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۴۸",
+  "FullUrl": "/p393/ghete/sh148",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh148",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیدی ای دل که مرا باز چه کار آمد پیش\r\nساختن با ستم دوری یار آمد پیش\r\nشده نزدیک که از روی تو خط سبز شود\r\nپخت دیوانگی‌ام سیر بهار آمد پیش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدی ای دل که مرا باز چه کار آمد پیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساختن با ستم دوری یار آمد پیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شده نزدیک که از روی تو خط سبز شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پخت دیوانگی‌ام سیر بهار آمد پیش",
+      "CoupletIndex": 1
+    }
+  ]
+}

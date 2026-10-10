@@ -1,0 +1,57 @@
+{
+  "Id": 26810,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داستان عمر طی شد حرف او آخر نشد\r\nبرگریزان زبان شد، گفتگو آخر نشد\r\nشد به هم پیچیده طومار حیات جاودان\r\nداستان زلف بی پایان او آخر نشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داستان عمر طی شد حرف او آخر نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگریزان زبان شد، گفتگو آخر نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد به هم پیچیده طومار حیات جاودان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داستان زلف بی پایان او آخر نشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

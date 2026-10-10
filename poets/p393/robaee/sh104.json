@@ -1,0 +1,54 @@
+{
+  "Id": 37276,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۴",
+  "FullUrl": "/p393/robaee/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیر است که دورم از حریم دلدار\r\nبا گریهٔ زار زار دارم سر و کار\r\nای ابر بیا آب ز چشمم بردار\r\nوانگه برو بران بر و بوم ببار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیر است که دورم از حریم دلدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با گریهٔ زار زار دارم سر و کار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای ابر بیا آب ز چشمم بردار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگه برو بران بر و بوم ببار",
+      "CoupletIndex": 1
+    }
+  ]
+}

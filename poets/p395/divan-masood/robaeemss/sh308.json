@@ -1,0 +1,57 @@
+{
+  "Id": 37822,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۰۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکو دارد چو سیم و شر لب و تن\r\nآمیخت همی چو شیر و شکر با من\r\nناگه برمید و درچد از من دامن\r\nبگریخت ز من چنانکه آب از روغن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکو دارد چو سیم و شر لب و تن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آمیخت همی چو شیر و شکر با من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناگه برمید و درچد از من دامن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگریخت ز من چنانکه آب از روغن",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28884,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/p387/divan/robaee/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با ما کین سپهر و انجم پیداست\r\nناسازی بخت بی ترحم پیداست\r\nچون خشکی آشیانه در گلبن سبز\r\nبیبرگی ما میان مردم پیداست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با ما کین سپهر و انجم پیداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناسازی بخت بی ترحم پیداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خشکی آشیانه در گلبن سبز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیبرگی ما میان مردم پیداست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 32473,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۱",
+  "FullUrl": "/p391/divan/ghazal/sh381",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh381",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا تو رفتی کار صبرم با جنون افتاده است\r\nداغ دل چون لاله در گرداب خون افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا تو رفتی کار صبرم با جنون افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ دل چون لاله در گرداب خون افتاده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

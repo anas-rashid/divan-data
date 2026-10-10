@@ -1,0 +1,105 @@
+{
+  "Id": 27822,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۴۱۴",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۴۱۴",
+  "FullUrl": "/p386/ghazalor/sh414",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh414",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر بگویم ز نظر یار نهان است، غلط\r\nور بگویم که به هر دیده عیان است، غلط\r\nشش جهت فیض پذیر از نظر رحمت اوست\r\nور بگویم که به سویی نگران است، غلط\r\nمی کُشد زارم و گنهی نیست مرا\r\nور بگویم که مرا دشمن جان است، غلط\r\nتیر دلدوز شهیدان همه از ترکش اوست\r\nور بگویم که از آن شست و کمان است، غلط\r\nجز گمان هیچ ندارم به کف از صدق خبر\r\nور بگویم که همین محض گمان است، غلط\r\nعرفی ار بی خبرت خواند، غلط نشماری\r\nگوهرش گر بشناسی ز چه کان است، غلط",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بگویم ز نظر یار نهان است، غلط",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور بگویم که به هر دیده عیان است، غلط",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شش جهت فیض پذیر از نظر رحمت اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ور بگویم که به سویی نگران است، غلط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می کُشد زارم و گنهی نیست مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ور بگویم که مرا دشمن جان است، غلط",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تیر دلدوز شهیدان همه از ترکش اوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ور بگویم که از آن شست و کمان است، غلط",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جز گمان هیچ ندارم به کف از صدق خبر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ور بگویم که همین محض گمان است، غلط",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی ار بی خبرت خواند، غلط نشماری",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گوهرش گر بشناسی ز چه کان است، غلط",
+      "CoupletIndex": 5
+    }
+  ]
+}

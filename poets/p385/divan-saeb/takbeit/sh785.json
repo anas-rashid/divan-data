@@ -1,0 +1,45 @@
+{
+  "Id": 18316,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۸۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۸۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh785",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh785",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قامت خم مانع عمر سبکرفتار نیست\r\nسیل از رفتن نمی‌ماند اگر پل بشکند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قامت خم مانع عمر سبکرفتار نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیل از رفتن نمی‌ماند اگر پل بشکند",
+      "CoupletIndex": 0
+    }
+  ]
+}

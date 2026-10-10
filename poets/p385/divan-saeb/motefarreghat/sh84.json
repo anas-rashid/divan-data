@@ -1,0 +1,57 @@
+{
+  "Id": 26690,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۸۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم ما طرفی کز آن رخسار آتشناک بست\r\nکی سمندر از وصال شعله بی باک بست؟\r\nطالع از خوبان ندارد چهره خندان ما\r\nورنه قمری سرو را از طوق بر فتراک بست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم ما طرفی کز آن رخسار آتشناک بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی سمندر از وصال شعله بی باک بست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طالع از خوبان ندارد چهره خندان ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ورنه قمری سرو را از طوق بر فتراک بست",
+      "CoupletIndex": 1
+    }
+  ]
+}

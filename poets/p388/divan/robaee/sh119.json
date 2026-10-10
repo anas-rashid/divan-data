@@ -1,0 +1,57 @@
+{
+  "Id": 29726,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۱۹",
+  "FullUrl": "/p388/divan/robaee/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عیسی نفسی غبارت از دم بفشان\r\nروحی ز وجود گرد آدم بفشان\r\nوجدی کن و زین طلسم خاکی بدرآی\r\nشوری کن و قید جسم از هم بفشان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عیسی نفسی غبارت از دم بفشان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روحی ز وجود گرد آدم بفشان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وجدی کن و زین طلسم خاکی بدرآی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شوری کن و قید جسم از هم بفشان",
+      "CoupletIndex": 1
+    }
+  ]
+}

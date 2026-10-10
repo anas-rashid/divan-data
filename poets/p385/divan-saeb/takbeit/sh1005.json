@@ -1,0 +1,45 @@
+{
+  "Id": 18536,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۰۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۰۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1005",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1005",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نکند باد خزان رحم به مجموعهٔ گل\r\nمن به امید چه شیرازه کنم دفتر خویش ؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نکند باد خزان رحم به مجموعهٔ گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من به امید چه شیرازه کنم دفتر خویش ؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

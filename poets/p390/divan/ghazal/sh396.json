@@ -1,0 +1,93 @@
+{
+  "Id": 31363,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۹۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۹۶",
+  "FullUrl": "/p390/divan/ghazal/sh396",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh396",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به کوی عشق اسیران به بوی یار روند\r\nکه بلبلان به چمن از پی بهار روند\r\nبه پای خم چو نشینند می کشان به نشاط\r\nبه فکر کار نیفتند تا ز کار روند\r\nهلاک شیوه ی تمکین بی قرارانم\r\nکه همچو کوه نشینند و چون غبار روند\r\nچو در برون چمن بگذری، همه گل ها\r\nپی نظاره به بالای شاخسار روند\r\nچو مومیایی لطفی امید نیست سلیم\r\nشکستگان به سر کوی او چه کار روند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به کوی عشق اسیران به بوی یار روند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بلبلان به چمن از پی بهار روند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به پای خم چو نشینند می کشان به نشاط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به فکر کار نیفتند تا ز کار روند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هلاک شیوه ی تمکین بی قرارانم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که همچو کوه نشینند و چون غبار روند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو در برون چمن بگذری، همه گل ها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پی نظاره به بالای شاخسار روند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو مومیایی لطفی امید نیست سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شکستگان به سر کوی او چه کار روند",
+      "CoupletIndex": 4
+    }
+  ]
+}

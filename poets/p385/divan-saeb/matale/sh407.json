@@ -1,0 +1,42 @@
+{
+  "Id": 26495,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۰۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۰۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh407",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh407",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "متراش خط ز چهره خود پر عتاب من\r\nبر روی خویش تیغ مکش آفتاب من!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "متراش خط ز چهره خود پر عتاب من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر روی خویش تیغ مکش آفتاب من!",
+      "CoupletIndex": 0
+    }
+  ]
+}

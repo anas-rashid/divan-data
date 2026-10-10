@@ -1,0 +1,93 @@
+{
+  "Id": 22942,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۸۶۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۸۶۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3869",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3869",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشاط لازم نقص عقول می باشد\r\nبه قدر هوش وخرد دل ملول می باشد\r\nز زلف چون به خط افتادکارخوشدل باش\r\nکه این برات قریب الوصول می باشد\r\nبه خوش عیاری انگور بسته خوبی می\r\nجنون خلق به قدر عقول می باشد\r\nببخش اگر ز تو خواهم مراد هر دو جهان\r\nکه میهمان کریمان فضول می باشد\r\nکسی که زخمی شهرت شده است چون صائب\r\nهمیشه طالب کنج خمول می باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشاط لازم نقص عقول می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به قدر هوش وخرد دل ملول می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز زلف چون به خط افتادکارخوشدل باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که این برات قریب الوصول می باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به خوش عیاری انگور بسته خوبی می",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جنون خلق به قدر عقول می باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ببخش اگر ز تو خواهم مراد هر دو جهان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که میهمان کریمان فضول می باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کسی که زخمی شهرت شده است چون صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همیشه طالب کنج خمول می باشد",
+      "CoupletIndex": 4
+    }
+  ]
+}

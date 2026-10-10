@@ -1,0 +1,69 @@
+{
+  "Id": 26669,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh63",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh63",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باقی به حق، ز خویش فنا می کند ترا\r\nاز عشق غافلی که چها می کند ترا\r\nاین گردنی که همچو هدف برکشیده ای\r\nآماجگاه تیر قضا می کند ترا\r\nبگذر ز فکر پوچ تعین که این خیال\r\nاز بحر چون حباب جدا می کند ترا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باقی به حق، ز خویش فنا می کند ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عشق غافلی که چها می کند ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این گردنی که همچو هدف برکشیده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آماجگاه تیر قضا می کند ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بگذر ز فکر پوچ تعین که این خیال",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از بحر چون حباب جدا می کند ترا",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27033,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh427",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh427",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بال و پر محیط ز موج آشکاره شد\r\nگردد یکی هزار چو دل پاره پاره شد\r\nبالیدگی است لازمه التفات خلق\r\nفربه به یک دو هفته هلال از اشاره شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بال و پر محیط ز موج آشکاره شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردد یکی هزار چو دل پاره پاره شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالیدگی است لازمه التفات خلق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فربه به یک دو هفته هلال از اشاره شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

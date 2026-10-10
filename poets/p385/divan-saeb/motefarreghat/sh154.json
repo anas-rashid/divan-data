@@ -1,0 +1,57 @@
+{
+  "Id": 26760,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۵۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز اهل سخن مپرس مقام سخن کجاست\r\nحسن غریب را که شناسد وطن کجاست؟\r\nزان شعله ها که از دل پروانه سر کشید\r\nروشن نشد که شمع درین انجمن کجاست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز اهل سخن مپرس مقام سخن کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حسن غریب را که شناسد وطن کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان شعله ها که از دل پروانه سر کشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روشن نشد که شمع درین انجمن کجاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

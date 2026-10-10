@@ -1,0 +1,42 @@
+{
+  "Id": 26474,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۸۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۸۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh386",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh386",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز شعر خویش نتوان فیض شعر دیگران بردن\r\nتمتع بیش از فرزند مردم می توان بردن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز شعر خویش نتوان فیض شعر دیگران بردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تمتع بیش از فرزند مردم می توان بردن",
+      "CoupletIndex": 0
+    }
+  ]
+}

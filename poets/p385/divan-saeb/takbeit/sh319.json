@@ -1,0 +1,45 @@
+{
+  "Id": 17850,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۱۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۱۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh319",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh319",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که گشتم مضطرب از لطف بی‌اندازه‌اش\r\nتا به لب بردن، تمام این ساغر سرشار ریخت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که گشتم مضطرب از لطف بی‌اندازه‌اش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به لب بردن، تمام این ساغر سرشار ریخت",
+      "CoupletIndex": 0
+    }
+  ]
+}

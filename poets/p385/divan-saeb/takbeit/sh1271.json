@@ -1,0 +1,45 @@
+{
+  "Id": 18802,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۷۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۷۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1271",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1271",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دشمن خانگی آدم خاکی است زمین\r\nخانهٔ دشمن خود را ز چه آباد کنیم؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دشمن خانگی آدم خاکی است زمین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خانهٔ دشمن خود را ز چه آباد کنیم؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

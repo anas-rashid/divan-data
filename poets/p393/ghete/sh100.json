@@ -1,0 +1,54 @@
+{
+  "Id": 36580,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۰",
+  "FullUrl": "/p393/ghete/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به غیر ناله که آن نیز جسته جسته برآید\r\nکدام کار ز دست دل شکسته بر آید\r\nپس از وفات ز خاکم بهر بهار چو نرگس\r\nخدنگ ناز تو خوش چشم دسته دسته بر آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به غیر ناله که آن نیز جسته جسته برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کدام کار ز دست دل شکسته بر آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس از وفات ز خاکم بهر بهار چو نرگس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدنگ ناز تو خوش چشم دسته دسته بر آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

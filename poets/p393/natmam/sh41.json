@@ -1,0 +1,66 @@
+{
+  "Id": 36192,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۴۱",
+  "FullUrl": "/p393/natmam/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کرده‌ام پیدا تب و تابی که می‌سوزد مرا\r\nشمع‌آسا چشم بی‌خوابی که می‌سوزد مرا\r\nبا که می ‌خوردی که من از آتش رشکم کباب\r\nمی‌زند موج از رخت آبی که می‌سوزد مرا\r\nمی‌توان ساقی ز می آبی زدن بر آتشم\r\nبی تو امشب هست مهتابی که می‌سوزد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرده‌ام پیدا تب و تابی که می‌سوزد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع‌آسا چشم بی‌خوابی که می‌سوزد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با که می ‌خوردی که من از آتش رشکم کباب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌زند موج از رخت آبی که می‌سوزد مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می‌توان ساقی ز می آبی زدن بر آتشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بی تو امشب هست مهتابی که می‌سوزد مرا",
+      "CoupletIndex": 2
+    }
+  ]
+}

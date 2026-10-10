@@ -1,0 +1,57 @@
+{
+  "Id": 37658,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در هند کمال جود موجود آمد\r\nصد کوکبه شجاعت و جود آمد\r\nبر چرخ ستاره ای که مسعود آمد\r\nدر طالع شیرزاد مسعود آمد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در هند کمال جود موجود آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد کوکبه شجاعت و جود آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر چرخ ستاره ای که مسعود آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در طالع شیرزاد مسعود آمد",
+      "CoupletIndex": 1
+    }
+  ]
+}

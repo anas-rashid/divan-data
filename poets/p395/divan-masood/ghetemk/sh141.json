@@ -1,0 +1,54 @@
+{
+  "Id": 38368,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۴۱ - ای شعر محمد خطیبی",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۴۱ - ای شعر محمد خطیبی",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شعر محمد خطیبی\r\nچون گل همه حسن و رنگ و طیبی\r\nنشگفت بود چو تو نتیجه\r\nاز طبع محمد خطیبی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شعر محمد خطیبی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گل همه حسن و رنگ و طیبی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشگفت بود چو تو نتیجه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از طبع محمد خطیبی",
+      "CoupletIndex": 1
+    }
+  ]
+}

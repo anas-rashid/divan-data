@@ -1,0 +1,57 @@
+{
+  "Id": 30498,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۴۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۴۱",
+  "FullUrl": "/p389/robghm/sh241",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh241",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستغرق حال، قال را نشناسد\r\nبی عشق، کس اهل حال را نشناسد\r\nمی، پخته و خام را ز هم فرق کند\r\nچون آب، کسی سفال را نشناسد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستغرق حال، قال را نشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی عشق، کس اهل حال را نشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می، پخته و خام را ز هم فرق کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون آب، کسی سفال را نشناسد",
+      "CoupletIndex": 1
+    }
+  ]
+}

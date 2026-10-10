@@ -1,0 +1,57 @@
+{
+  "Id": 30850,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۹۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۹۳",
+  "FullUrl": "/p389/robghm/sh593",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh593",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عالم اگر عمل نیاید باری\r\nعبرت گیرند خلق ازو بسیاری\r\nدر سینه بی عمل، بود گوهر علم\r\nچون آینه گرفته در دیواری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عالم اگر عمل نیاید باری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عبرت گیرند خلق ازو بسیاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سینه بی عمل، بود گوهر علم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون آینه گرفته در دیواری",
+      "CoupletIndex": 1
+    }
+  ]
+}

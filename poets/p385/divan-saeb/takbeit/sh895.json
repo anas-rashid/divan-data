@@ -1,0 +1,45 @@
+{
+  "Id": 18426,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۹۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۹۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh895",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh895",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عبث مرغ چمن بر آب و آتش می‌زند خود را\r\nگل بی شرم از آغوش خس بیرون نمی‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عبث مرغ چمن بر آب و آتش می‌زند خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل بی شرم از آغوش خس بیرون نمی‌آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

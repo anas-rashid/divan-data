@@ -1,0 +1,57 @@
+{
+  "Id": 26912,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh306",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh306",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشا دردی که هر مو بر تن من در خروش آید\r\nبه هر پهلو که غلطم ناله زخمی به گوش آید\r\nبه بزم عیش نتوان دید خالی جای جانان را\r\nچو بینم شیشه ای خالی ز می خونم به جوش آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشا دردی که هر مو بر تن من در خروش آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر پهلو که غلطم ناله زخمی به گوش آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به بزم عیش نتوان دید خالی جای جانان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو بینم شیشه ای خالی ز می خونم به جوش آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

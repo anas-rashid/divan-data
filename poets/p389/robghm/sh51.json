@@ -1,0 +1,57 @@
+{
+  "Id": 30308,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۱",
+  "FullUrl": "/p389/robghm/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد گل و برگ باغ می‌باید ساخت\r\nهنگامه بی‌فراغ می‌باید ساخت\r\nیاران همه برگ عیش سازند و مرا\r\nبی‌برگ، دل و دماغ می‌باید ساخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد گل و برگ باغ می‌باید ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنگامه بی‌فراغ می‌باید ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یاران همه برگ عیش سازند و مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌برگ، دل و دماغ می‌باید ساخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

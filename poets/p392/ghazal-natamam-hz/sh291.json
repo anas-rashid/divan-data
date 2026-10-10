@@ -1,0 +1,93 @@
+{
+  "Id": 34950,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باده بیار و هوش را، از سر ما روانه کن\r\nزاهد خرقه پوش را، مست می مغانه کن\r\nچند به باد می دهی، طرهٔ ترهات را؟\r\nواعظ شهر نیستی، زمزمه، عاشقانه کن\r\nغازهٔ افتخارکش، ناصیهٔ نیاز را\r\nصدر نشین عشق شو، سجدهٔ آستانه کن\r\nگوشهٔ چشم عشوه ای از تو به کار می خوش است\r\nرطل گران باده را، لجهٔ بیکرانه کن\r\nرهبر سالکان بود، سلسلهٔ ارادتی\r\nطّرهٔ خم به خم بکش، زلف مراد شانه کن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باده بیار و هوش را، از سر ما روانه کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زاهد خرقه پوش را، مست می مغانه کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چند به باد می دهی، طرهٔ ترهات را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "واعظ شهر نیستی، زمزمه، عاشقانه کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غازهٔ افتخارکش، ناصیهٔ نیاز را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صدر نشین عشق شو، سجدهٔ آستانه کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گوشهٔ چشم عشوه ای از تو به کار می خوش است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رطل گران باده را، لجهٔ بیکرانه کن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رهبر سالکان بود، سلسلهٔ ارادتی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "طّرهٔ خم به خم بکش، زلف مراد شانه کن",
+      "CoupletIndex": 4
+    }
+  ]
+}

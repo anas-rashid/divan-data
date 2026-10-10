@@ -1,0 +1,57 @@
+{
+  "Id": 30543,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۸۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۸۶",
+  "FullUrl": "/p389/robghm/sh286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاسد نمکم بر جگر ریش زند\r\nنیش از ره دوستی به دل بیش زند\r\nگرم است به طعنه در لباس بازی\r\nآری سوزن به دوختن نیش زند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاسد نمکم بر جگر ریش زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیش از ره دوستی به دل بیش زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرم است به طعنه در لباس بازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری سوزن به دوختن نیش زند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 32867,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۷۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۷۵",
+  "FullUrl": "/p391/divan/ghazal/sh775",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh775",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشا جوش بهار تبت و دامان کهسارش\r\nبه شاخ ارغوان ماند رگ سنگ شرربارش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشا جوش بهار تبت و دامان کهسارش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به شاخ ارغوان ماند رگ سنگ شرربارش",
+      "CoupletIndex": 0
+    }
+  ]
+}

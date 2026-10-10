@@ -1,0 +1,57 @@
+{
+  "Id": 34425,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/p392/robaee-hz/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چند سپهر فکرم اختربار است\r\nبر دوش زبان، سخنوری سربار است\r\nاز خامهٔ تیره بخت خود ممنونم\r\nاین ابر سیاهی ست که گوهربار است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند سپهر فکرم اختربار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دوش زبان، سخنوری سربار است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خامهٔ تیره بخت خود ممنونم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این ابر سیاهی ست که گوهربار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

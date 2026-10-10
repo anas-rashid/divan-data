@@ -1,0 +1,93 @@
+{
+  "Id": 32503,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۴۱۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۴۱۱",
+  "FullUrl": "/p391/divan/ghazal/sh411",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh411",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لبت از خود شراب می طلبد\r\nدلم از خود کباب می طلبد\r\nاز می لاله گون لبی ترکن\r\nباغ حسن تو آب می طلبد\r\nهر که از شوخی تو آگاه است\r\nاز درنگت شتاب می طلبد\r\nبه رخش آنکه گرم می بیند\r\nزآن گل رو گلاب می طلبد\r\nدلم از نسبت لبش جویا\r\nبادهٔ لعل ناب می طلبد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لبت از خود شراب می طلبد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلم از خود کباب می طلبد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از می لاله گون لبی ترکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باغ حسن تو آب می طلبد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر که از شوخی تو آگاه است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از درنگت شتاب می طلبد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به رخش آنکه گرم می بیند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زآن گل رو گلاب می طلبد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دلم از نسبت لبش جویا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بادهٔ لعل ناب می طلبد",
+      "CoupletIndex": 4
+    }
+  ]
+}

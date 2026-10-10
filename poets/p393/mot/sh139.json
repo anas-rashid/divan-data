@@ -1,0 +1,42 @@
+{
+  "Id": 36848,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۳۹",
+  "FullUrl": "/p393/mot/sh139",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh139",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من نگویم که دل ندیم غم است\r\nحاضرالخدمت قدیم غم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من نگویم که دل ندیم غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حاضرالخدمت قدیم غم است",
+      "CoupletIndex": 0
+    }
+  ]
+}

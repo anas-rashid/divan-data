@@ -1,0 +1,57 @@
+{
+  "Id": 28066,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۲۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲۳",
+  "FullUrl": "/p386/robaeeor/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی چه نهی متاع دل در کف دست\r\nراه نظر کج نظران باید بست\r\nبر سینهٔ ما نگر که از بیرون هست\r\nصافی و درست و از درون عین شکست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی چه نهی متاع دل در کف دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راه نظر کج نظران باید بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر سینهٔ ما نگر که از بیرون هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صافی و درست و از درون عین شکست",
+      "CoupletIndex": 1
+    }
+  ]
+}

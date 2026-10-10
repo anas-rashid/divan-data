@@ -1,0 +1,54 @@
+{
+  "Id": 36528,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۸",
+  "FullUrl": "/p393/ghete/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همدمان درد من بیانی نیست\r\nچون قلم زخم من زبانی نیست\r\nدلم از کفت مده که این بلبل\r\nقفسی هست و آشیانی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همدمان درد من بیانی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون قلم زخم من زبانی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلم از کفت مده که این بلبل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قفسی هست و آشیانی نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

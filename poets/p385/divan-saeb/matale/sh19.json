@@ -1,0 +1,42 @@
+{
+  "Id": 26107,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه خیال است کند مست ترا باده ناب\r\nمستی چشم ترا آب خمارست شراب",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه خیال است کند مست ترا باده ناب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستی چشم ترا آب خمارست شراب",
+      "CoupletIndex": 0
+    }
+  ]
+}

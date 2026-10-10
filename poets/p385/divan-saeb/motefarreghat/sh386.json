@@ -1,0 +1,57 @@
+{
+  "Id": 26992,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh386",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh386",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل به خال تو عبث چشم طمع دوخته بود\r\nمشک این نافه سراسر جگر سوخته بود\r\nچون صبا بیهده بر گرد چمن گردیدم\r\nرزق من غنچه صفت در دلم اندوخته بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل به خال تو عبث چشم طمع دوخته بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشک این نافه سراسر جگر سوخته بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون صبا بیهده بر گرد چمن گردیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رزق من غنچه صفت در دلم اندوخته بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

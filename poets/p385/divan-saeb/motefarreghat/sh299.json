@@ -1,0 +1,69 @@
+{
+  "Id": 26905,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۹۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۹۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh299",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh299",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرانخوابی که آه سرد را مهتاب می داند\r\nنسیم صبح محشر را فسون خواب می داند\r\nگهی با درد می غلطم، گهی با داغ می جوشم\r\nبه غیر از من که قدر صحبت احباب می داند؟\r\nعیار زهد بی کیفیت تسبیح داران را\r\nنگاه عارف از خمیازه محراب می داند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرانخوابی که آه سرد را مهتاب می داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نسیم صبح محشر را فسون خواب می داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گهی با درد می غلطم، گهی با داغ می جوشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به غیر از من که قدر صحبت احباب می داند؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عیار زهد بی کیفیت تسبیح داران را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نگاه عارف از خمیازه محراب می داند",
+      "CoupletIndex": 2
+    }
+  ]
+}

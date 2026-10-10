@@ -1,0 +1,69 @@
+{
+  "Id": 27052,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh446",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh446",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "احوال دل خسته به اغیار مگویید\r\nحال سرشوریده به دستار مگویید\r\nدر خلوت دل رشته جان موی دماغ است\r\nاینجا سخن از سبحه و زنار مگویید\r\nدر سنگ پر و بال نهد حشر مکافات\r\nهرگز سخن سخت به دیوار مگویید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "احوال دل خسته به اغیار مگویید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حال سرشوریده به دستار مگویید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خلوت دل رشته جان موی دماغ است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینجا سخن از سبحه و زنار مگویید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در سنگ پر و بال نهد حشر مکافات",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرگز سخن سخت به دیوار مگویید",
+      "CoupletIndex": 2
+    }
+  ]
+}

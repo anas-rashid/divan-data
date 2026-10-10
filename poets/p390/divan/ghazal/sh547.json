@@ -1,0 +1,93 @@
+{
+  "Id": 31514,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۴۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۴۷",
+  "FullUrl": "/p390/divan/ghazal/sh547",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh547",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرشک شوق تو آبی به جوی ما آورد\r\nغبار کوی تو رنگی به روی ما آورد\r\nجهان سفله اگر داد جرعه ی آبی\r\nهمان نفس چو می آن را به روی ما آورد\r\nرسید لشکر خط، عاشقان ز جا رفتند\r\nجهان ترا به سر گفتگوی ما آورد\r\nبه می فروش بگویید رحم خوش چیزی ست\r\nخمار، رعشه به دست سبوی ما آورد\r\nسلیم قطره ی آبی نمی توان خوردن\r\nچه دست بود که غم بر گلوی ما آورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرشک شوق تو آبی به جوی ما آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار کوی تو رنگی به روی ما آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جهان سفله اگر داد جرعه ی آبی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همان نفس چو می آن را به روی ما آورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رسید لشکر خط، عاشقان ز جا رفتند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جهان ترا به سر گفتگوی ما آورد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به می فروش بگویید رحم خوش چیزی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خمار، رعشه به دست سبوی ما آورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم قطره ی آبی نمی توان خوردن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه دست بود که غم بر گلوی ما آورد",
+      "CoupletIndex": 4
+    }
+  ]
+}

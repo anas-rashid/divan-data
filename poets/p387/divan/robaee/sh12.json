@@ -1,0 +1,57 @@
+{
+  "Id": 28882,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/p387/divan/robaee/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویند ز رخ طره پیچان برداشت\r\nاز شاخ گل آشیان مرغان برداشت\r\nاو زلف برید یا صبا ز آتش حسن\r\nخاکستر دلهای پریشان برداشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند ز رخ طره پیچان برداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شاخ گل آشیان مرغان برداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "او زلف برید یا صبا ز آتش حسن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاکستر دلهای پریشان برداشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

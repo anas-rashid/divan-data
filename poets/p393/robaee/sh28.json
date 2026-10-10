@@ -1,0 +1,54 @@
+{
+  "Id": 37200,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/p393/robaee/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایام شباب و کامرانی بگذشت\r\nداغم که بهار زندگانی بگذشت\r\nخمیازهٔ عمر و عیش یعنی پیری\r\nدر مرثیه‌خوانی جوانی بگذشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایام شباب و کامرانی بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغم که بهار زندگانی بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خمیازهٔ عمر و عیش یعنی پیری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مرثیه‌خوانی جوانی بگذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

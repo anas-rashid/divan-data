@@ -1,0 +1,45 @@
+{
+  "Id": 34815,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۵۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh156",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh156",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چرا با سردی دی بلبلان را کینه می باشد؟\r\nهوا گرم است ما را، تا نفس در سینه می باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چرا با سردی دی بلبلان را کینه می باشد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوا گرم است ما را، تا نفس در سینه می باشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

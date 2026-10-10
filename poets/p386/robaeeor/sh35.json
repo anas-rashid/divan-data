@@ -1,0 +1,57 @@
+{
+  "Id": 28078,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۵",
+  "FullUrl": "/p386/robaeeor/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "معموری عقل فضلهٔ ویرانی ست\r\nسرمایهٔ علم خاک بی سامانی ست\r\nبازارچهٔ حیرت ما آبادان ست\r\nکافتاده متاع و غایت ارزانی ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "معموری عقل فضلهٔ ویرانی ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمایهٔ علم خاک بی سامانی ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازارچهٔ حیرت ما آبادان ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کافتاده متاع و غایت ارزانی ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

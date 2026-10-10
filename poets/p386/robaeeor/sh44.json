@@ -1,0 +1,57 @@
+{
+  "Id": 28087,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۴",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۴",
+  "FullUrl": "/p386/robaeeor/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاران دگر انگشت نما خواهم گشت\r\nمجموعهٔ درد بی دوا خواهم گشت\r\nهم دست به دل بنهاده، هم دل در دست\r\nاز بهر دوا به شهرها خواهم گشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاران دگر انگشت نما خواهم گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مجموعهٔ درد بی دوا خواهم گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم دست به دل بنهاده، هم دل در دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر دوا به شهرها خواهم گشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

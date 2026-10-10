@@ -1,0 +1,93 @@
+{
+  "Id": 33495,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۸",
+  "FullUrl": "/p392/ghazal-hz/sh68",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh68",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا سرمه کشد چشم ملامتگر ما را\r\nغیرت سرپا زد کف خاکستر ما را\r\nخوش دردسری می کشم از درد، ندانم\r\nبالین ز دَمِ تیغ که باشد، سر ما را؟\r\nاین خامه که چون شمع ز آتش نفسان است\r\nرشک پر پروانه کند، دفتر ما را\r\nبی منّت زلفی، رَوَد از خویش حواسم\r\nحاجت به سیاهی نبود لشکر ما را\r\nشوری که حزین ، در دل از آن پسته دهان است\r\nآرد به سخن، کلک زبان آور ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا سرمه کشد چشم ملامتگر ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غیرت سرپا زد کف خاکستر ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش دردسری می کشم از درد، ندانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بالین ز دَمِ تیغ که باشد، سر ما را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این خامه که چون شمع ز آتش نفسان است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رشک پر پروانه کند، دفتر ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بی منّت زلفی، رَوَد از خویش حواسم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حاجت به سیاهی نبود لشکر ما را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شوری که حزین ، در دل از آن پسته دهان است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آرد به سخن، کلک زبان آور ما را",
+      "CoupletIndex": 4
+    }
+  ]
+}

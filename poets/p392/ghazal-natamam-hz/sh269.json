@@ -1,0 +1,69 @@
+{
+  "Id": 34928,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۶۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۶۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh269",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh269",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز وصل علاج دل بیچاره ندارم\r\nامّا چه کنم؟ طاقت نظّاره ندارم\r\nتا دسترسم بود، زدم چاک گریبان\r\nشرمندگی، از خرقهٔ صد پاره ندارم\r\nانصاف ده، ای شیشهٔ طاقت زده بر سنگ\r\nآخر به بغل دل بودم، خاره ندارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز وصل علاج دل بیچاره ندارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امّا چه کنم؟ طاقت نظّاره ندارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا دسترسم بود، زدم چاک گریبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شرمندگی، از خرقهٔ صد پاره ندارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "انصاف ده، ای شیشهٔ طاقت زده بر سنگ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آخر به بغل دل بودم، خاره ندارم",
+      "CoupletIndex": 2
+    }
+  ]
+}

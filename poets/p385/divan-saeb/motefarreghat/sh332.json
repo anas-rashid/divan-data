@@ -1,0 +1,45 @@
+{
+  "Id": 26938,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh332",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh332",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برو ای غیر به ما داغ محبت مفروش\r\nاین زر قلب به کار همه کس نتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برو ای غیر به ما داغ محبت مفروش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این زر قلب به کار همه کس نتوان کرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

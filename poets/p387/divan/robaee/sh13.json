@@ -1,0 +1,57 @@
+{
+  "Id": 28883,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/p387/divan/robaee/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل قافله درد ترا مرحله بود\r\nوین دشت بلا خیمه اش از آبله بود\r\nتا رفت غم تو هر چه بود از دل رفت\r\nآبادی کاروان که از قافله بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل قافله درد ترا مرحله بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین دشت بلا خیمه اش از آبله بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا رفت غم تو هر چه بود از دل رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آبادی کاروان که از قافله بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

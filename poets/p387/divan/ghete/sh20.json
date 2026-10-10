@@ -1,0 +1,57 @@
+{
+  "Id": 28839,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۲۰ - ایضا",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۲۰ - ایضا",
+  "FullUrl": "/p387/divan/ghete/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی نظیر این تفنگ شاه جهان\r\nهمچو تیر قضا خطا نکند\r\nمی تواند سیاهی از مو برد\r\nکز بدن موی را جدا نکند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی نظیر این تفنگ شاه جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو تیر قضا خطا نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می تواند سیاهی از مو برد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز بدن موی را جدا نکند",
+      "CoupletIndex": 1
+    }
+  ]
+}

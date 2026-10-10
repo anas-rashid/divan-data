@@ -1,0 +1,57 @@
+{
+  "Id": 28132,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۸۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۸۹",
+  "FullUrl": "/p386/robaeeor/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وقت است که یاران به گلستان ریزند\r\nگل های نشاط در گریبان ریزند\r\nبلبل به هوای باغ بشکست قفس\r\nاین مژده به شاخ و برگ بستان ریزند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقت است که یاران به گلستان ریزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل های نشاط در گریبان ریزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبل به هوای باغ بشکست قفس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این مژده به شاخ و برگ بستان ریزند",
+      "CoupletIndex": 1
+    }
+  ]
+}

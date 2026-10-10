@@ -1,0 +1,93 @@
+{
+  "Id": 34023,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۹۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۹۶",
+  "FullUrl": "/p392/ghazal-hz/sh596",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh596",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سر و سرور مغان، خیز و بیار چنگ و دف\r\nجان مرا ز غم رهان، خیز و بیار چنگ و دف\r\nمطرب عاشقان بزن راه حجاز، تا کنم\r\nچهره ز اشک، ارغوان، خیز و بیار چنگ و دف\r\nکرده سرود بلبلان، مست و خراب، گلستان\r\nنرگس و لاله سرخوشان، خیز و بیار چنگ و دف\r\nواعظ شهر اگر کند منع سماع صوفیان\r\nنیست گنه به عاشقان، خیز و بیار، چنگ و دف\r\nدیده به روی دلستان تا کنم آشنا، حزین\r\nچند حجاب این و آن؟ خیز و بیار چنگ و دف",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سر و سرور مغان، خیز و بیار چنگ و دف",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان مرا ز غم رهان، خیز و بیار چنگ و دف",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مطرب عاشقان بزن راه حجاز، تا کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چهره ز اشک، ارغوان، خیز و بیار چنگ و دف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کرده سرود بلبلان، مست و خراب، گلستان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نرگس و لاله سرخوشان، خیز و بیار چنگ و دف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "واعظ شهر اگر کند منع سماع صوفیان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیست گنه به عاشقان، خیز و بیار، چنگ و دف",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دیده به روی دلستان تا کنم آشنا، حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چند حجاب این و آن؟ خیز و بیار چنگ و دف",
+      "CoupletIndex": 4
+    }
+  ]
+}

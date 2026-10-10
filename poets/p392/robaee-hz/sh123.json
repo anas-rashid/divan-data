@@ -1,0 +1,57 @@
+{
+  "Id": 34518,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/p392/robaee-hz/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر پای بت، از نیاز پیشانی زد\r\nناقوس فرنگ، در صنم خوانی زد\r\nدر حیرتم از دل، که به این سیرت و شان\r\nبی شرم چه سان لاف مسلمانی زد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر پای بت، از نیاز پیشانی زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ناقوس فرنگ، در صنم خوانی زد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حیرتم از دل، که به این سیرت و شان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی شرم چه سان لاف مسلمانی زد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

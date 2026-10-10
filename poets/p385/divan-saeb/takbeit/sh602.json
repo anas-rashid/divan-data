@@ -1,0 +1,45 @@
+{
+  "Id": 18133,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۰۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۰۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh602",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh602",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاجت شمع و چراغ، نیست شب عمر را\r\nتا تو نفس می‌کشی، تیغ کشیده است صبح",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاجت شمع و چراغ، نیست شب عمر را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا تو نفس می‌کشی، تیغ کشیده است صبح",
+      "CoupletIndex": 0
+    }
+  ]
+}

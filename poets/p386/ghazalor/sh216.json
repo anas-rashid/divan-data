@@ -1,0 +1,93 @@
+{
+  "Id": 27624,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۱۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۱۶",
+  "FullUrl": "/p386/ghazalor/sh216",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh216",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجاست فتنه که آن شوخ را سوار کند\r\nزمانه را گل آشوب در کنار کند\r\nگناه کارم و دردا که نیست آن عزت\r\nکه انفعال به عفوم امیدوار کند\r\nبرای آن که دلیرش کند به خون ریزی\r\nزمانه شوق تو را مایل شکار کند\r\nبه ناله نرم بسازم دلت ، از آن ترسم\r\nکه نالهٔ دگری در دل تو کار کند\r\nخوش آن که پیش تو پرسند حال عرفی را\r\nشکایتی به کنایت ز روزگار کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجاست فتنه که آن شوخ را سوار کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زمانه را گل آشوب در کنار کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گناه کارم و دردا که نیست آن عزت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که انفعال به عفوم امیدوار کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برای آن که دلیرش کند به خون ریزی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زمانه شوق تو را مایل شکار کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به ناله نرم بسازم دلت ، از آن ترسم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که نالهٔ دگری در دل تو کار کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خوش آن که پیش تو پرسند حال عرفی را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شکایتی به کنایت ز روزگار کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

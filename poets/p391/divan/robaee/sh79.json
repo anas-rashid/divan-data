@@ -1,0 +1,57 @@
+{
+  "Id": 33350,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/p391/divan/robaee/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیدایی او اگر چه باشد به کمال\r\nبیگانهٔ دید ماست آن حسن و جمال\r\nهمچون نرگس به هیچ جا ره نبرد\r\nگر دیده ز شش جهت برون آرد بال",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیدایی او اگر چه باشد به کمال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانهٔ دید ماست آن حسن و جمال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچون نرگس به هیچ جا ره نبرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دیده ز شش جهت برون آرد بال",
+      "CoupletIndex": 1
+    }
+  ]
+}

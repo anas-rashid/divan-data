@@ -1,0 +1,57 @@
+{
+  "Id": 37708,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۹۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh194",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh194",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای یار چو صبر هیچ یاری مشناس\r\nبا فایده تر ز رفق کاری مشناس\r\nدلجوی تر از شکر شکاری مشناس\r\nبهتر ز سخن تو یادگاری مشناس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای یار چو صبر هیچ یاری مشناس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با فایده تر ز رفق کاری مشناس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلجوی تر از شکر شکاری مشناس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهتر ز سخن تو یادگاری مشناس",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26441,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۵۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۵۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh353",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh353",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می رسد هر دم مرا از نوخطان نیش دگر\r\nریش هیهات است گردد مرهم ریش دگر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می رسد هر دم مرا از نوخطان نیش دگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ریش هیهات است گردد مرهم ریش دگر",
+      "CoupletIndex": 0
+    }
+  ]
+}

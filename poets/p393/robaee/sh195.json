@@ -1,0 +1,54 @@
+{
+  "Id": 37367,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۵",
+  "FullUrl": "/p393/robaee/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک شب در خلوت خودم راه بده\r\nوانگه کامم حسب دل‌خواه بده\r\nگر زان‌که به ناکامی خود خوش داری\r\nیک بوسه به نام خوش الله بده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک شب در خلوت خودم راه بده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وانگه کامم حسب دل‌خواه بده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر زان‌که به ناکامی خود خوش داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک بوسه به نام خوش الله بده",
+      "CoupletIndex": 1
+    }
+  ]
+}

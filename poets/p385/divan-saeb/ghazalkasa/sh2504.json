@@ -1,0 +1,93 @@
+{
+  "Id": 21577,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۵۰۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۵۰۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2504",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2504",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکه دامن بر میان در چیدن گل می‌زند\r\nآستین بر شعله آواز بلبل می‌زند\r\nهرکه بر خود تلخ می‌سازد شکر خواب صبوح\r\nبوسه تر همچو شبنم بر رخ گل می‌زند\r\nنغمه‌اش از بس گلوسوز است در دل‌های شب\r\nبوسه‌ها پروانه بر منقار بلبل می‌زند\r\nهمتی در کار ما ای عارفان و عاشقان\r\nبر در دل حلقه شوق سیر کابل می‌زند\r\nهرکه چون صائب به طرز تازه، دیرین آشناست\r\nدم به ذوق عندلیب باغ آمل می‌زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکه دامن بر میان در چیدن گل می‌زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آستین بر شعله آواز بلبل می‌زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرکه بر خود تلخ می‌سازد شکر خواب صبوح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوسه تر همچو شبنم بر رخ گل می‌زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نغمه‌اش از بس گلوسوز است در دل‌های شب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوسه‌ها پروانه بر منقار بلبل می‌زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "همتی در کار ما ای عارفان و عاشقان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر در دل حلقه شوق سیر کابل می‌زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرکه چون صائب به طرز تازه، دیرین آشناست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دم به ذوق عندلیب باغ آمل می‌زند",
+      "CoupletIndex": 4
+    }
+  ]
+}

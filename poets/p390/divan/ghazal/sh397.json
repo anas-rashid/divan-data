@@ -1,0 +1,93 @@
+{
+  "Id": 31364,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۹۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۹۷",
+  "FullUrl": "/p390/divan/ghazal/sh397",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh397",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ازین حسرت که دور از دامن دلدار می‌ماند\r\nز شیون پنجهٔ دستم به موسیقار می‌ماند\r\nدرین گلشن کسی را چون امید عافیت باشد؟\r\nکه رنگ گل به رنگ مردم بیمار می‌ماند\r\nبهای باده را پیر مغان گر جنس می‌گیرد\r\nنه سر چون صبح مستان را و نه دستار می‌ماند\r\nسخن در وصف زلفش خیزد از روی سخن، آری\r\nحدیث طرهٔ خوبان به حرف مار می‌ماند\r\nتماشای گلم بی‌او سلیم از بس خلد بر دل\r\nنگه در چشم خونبارم به نوک خار می‌ماند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازین حسرت که دور از دامن دلدار می‌ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز شیون پنجهٔ دستم به موسیقار می‌ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درین گلشن کسی را چون امید عافیت باشد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که رنگ گل به رنگ مردم بیمار می‌ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بهای باده را پیر مغان گر جنس می‌گیرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه سر چون صبح مستان را و نه دستار می‌ماند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سخن در وصف زلفش خیزد از روی سخن، آری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حدیث طرهٔ خوبان به حرف مار می‌ماند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تماشای گلم بی‌او سلیم از بس خلد بر دل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نگه در چشم خونبارم به نوک خار می‌ماند",
+      "CoupletIndex": 4
+    }
+  ]
+}

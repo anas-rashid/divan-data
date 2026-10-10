@@ -1,0 +1,93 @@
+{
+  "Id": 26838,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh232",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh232",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(غبارم را نسیم ناتوانی دربدر دارد\r\nغریب کشور طالع چه پروای سفر دارد؟)\r\n(غلط کردم ز بزم او جدا گشتم، ندانستم\r\nخمار باده لعلش چه عالم دردسر دارد)\r\nز نخوت تاج شاهان فتنه ها در زیر سر دارد\r\nازین باد مخالف کشتی دولت خطر دارد\r\nمخور زنهار از همواری وضع جهان بازی\r\nکه این بیدادگر در موم پنهان نیشتر دارد\r\nمده سررشته کوچکدلی از دست در دولت\r\nکه گر از دیده سوزن فتد عیسی خطر دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(غبارم را نسیم ناتوانی دربدر دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غریب کشور طالع چه پروای سفر دارد؟)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(غلط کردم ز بزم او جدا گشتم، ندانستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خمار باده لعلش چه عالم دردسر دارد)",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز نخوت تاج شاهان فتنه ها در زیر سر دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ازین باد مخالف کشتی دولت خطر دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مخور زنهار از همواری وضع جهان بازی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که این بیدادگر در موم پنهان نیشتر دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مده سررشته کوچکدلی از دست در دولت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که گر از دیده سوزن فتد عیسی خطر دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

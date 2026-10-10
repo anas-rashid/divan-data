@@ -1,0 +1,93 @@
+{
+  "Id": 32802,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۱۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۱۰",
+  "FullUrl": "/p391/divan/ghazal/sh710",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh710",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ز فیض لطف عامت گشته خون ناب شیر\r\nاز چه در کامم چو طفل غنچه شد خوناب شیر\r\nآه سردم کرده از یاد بناگوشت چو ماه\r\nهر سحر در ساغر خورشید عالمتاب شیر\r\nپیش از این گر ما در ایام شیر آب داشت\r\nمی کند در دور ما لب تشنگان در آب شیر\r\nتا برات روزی ام بر ما در ایام شد\r\nغنچه آسا گشت در پستان او خوناب شیر\r\nاین به طور آن غزل جویا که تمکین گفته است\r\nمن ز طفلی خورده ام در ساغر گرداب شیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ز فیض لطف عامت گشته خون ناب شیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چه در کامم چو طفل غنچه شد خوناب شیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آه سردم کرده از یاد بناگوشت چو ماه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سحر در ساغر خورشید عالمتاب شیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیش از این گر ما در ایام شیر آب داشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می کند در دور ما لب تشنگان در آب شیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا برات روزی ام بر ما در ایام شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غنچه آسا گشت در پستان او خوناب شیر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "این به طور آن غزل جویا که تمکین گفته است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "من ز طفلی خورده ام در ساغر گرداب شیر",
+      "CoupletIndex": 4
+    }
+  ]
+}

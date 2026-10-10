@@ -1,0 +1,57 @@
+{
+  "Id": 37710,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۹۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۹۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh196",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh196",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسعود که بود سعد سلمان پدرش\r\nاندر سمجی است چون سنگ درش\r\nدر حبس بیفزود بر آتش خطرش\r\nعودی است که پیدا شد از آتش هنرش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسعود که بود سعد سلمان پدرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندر سمجی است چون سنگ درش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حبس بیفزود بر آتش خطرش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عودی است که پیدا شد از آتش هنرش",
+      "CoupletIndex": 1
+    }
+  ]
+}

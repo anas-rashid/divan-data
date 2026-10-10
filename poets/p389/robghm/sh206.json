@@ -1,0 +1,57 @@
+{
+  "Id": 30463,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۰۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۰۶",
+  "FullUrl": "/p389/robghm/sh206",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh206",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین دجله که طوفان به سر پل دارد\r\nآبش مستی بیشتر از مل دارد\r\nسالم جستی، مردی اگر پیش از مرگ\r\nتا زنده بود شمع، تنزل دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین دجله که طوفان به سر پل دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آبش مستی بیشتر از مل دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سالم جستی، مردی اگر پیش از مرگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا زنده بود شمع، تنزل دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

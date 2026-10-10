@@ -1,0 +1,57 @@
+{
+  "Id": 34851,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۹۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۹۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh192",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh192",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از وحشت سرای عالم غدّار می گیرد\r\nکه مست آسوده حال و محسب هشیار می ‎گیرد\r\nدماغ افسرد از آن گلشن،که بر روی هوسناکان\r\nقضا در می گشاید، رخنهٔ دیوار می گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از وحشت سرای عالم غدّار می گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مست آسوده حال و محسب هشیار می ‎گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دماغ افسرد از آن گلشن،که بر روی هوسناکان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قضا در می گشاید، رخنهٔ دیوار می گیرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

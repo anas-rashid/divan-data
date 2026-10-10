@@ -1,0 +1,57 @@
+{
+  "Id": 29650,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/p388/divan/robaee/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دی غافلم آن مایه دین پیش آمد\r\nقهرش به سیاست از کمین پیش آمد\r\nبا غمزه نگه رفت که صلح انگیزد\r\nصد عقده اش از چین جبین پیش آمد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی غافلم آن مایه دین پیش آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قهرش به سیاست از کمین پیش آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با غمزه نگه رفت که صلح انگیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد عقده اش از چین جبین پیش آمد",
+      "CoupletIndex": 1
+    }
+  ]
+}

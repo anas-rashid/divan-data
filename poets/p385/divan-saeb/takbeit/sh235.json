@@ -1,0 +1,45 @@
+{
+  "Id": 17766,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۳۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۳۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh235",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh235",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مه نو می‌نماید گوشهٔ ابرو، تو هم ساقی\r\nچو گردون بر سر چنگ آر آن جام هلالی را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مه نو می‌نماید گوشهٔ ابرو، تو هم ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گردون بر سر چنگ آر آن جام هلالی را",
+      "CoupletIndex": 0
+    }
+  ]
+}

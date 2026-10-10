@@ -1,0 +1,57 @@
+{
+  "Id": 30895,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۸",
+  "FullUrl": "/p389/robghm/sh638",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh638",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر نیک و بدی که می‌کنی، می‌بینی\r\nپیوسته گل تلافی‌اش می‌چینی\r\nصد صور دمیدند و نگشتی آگاه\r\nنشنیده کسی خواب به این سنگینی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر نیک و بدی که می‌کنی، می‌بینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته گل تلافی‌اش می‌چینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد صور دمیدند و نگشتی آگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نشنیده کسی خواب به این سنگینی",
+      "CoupletIndex": 1
+    }
+  ]
+}

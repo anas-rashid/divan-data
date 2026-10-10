@@ -1,0 +1,42 @@
+{
+  "Id": 26405,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۱۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۱۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh317",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh317",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرچه در ظاهر به زه دارم کمان اختیار\r\nچون رگ سنگ است در دستم عنان اختیار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه در ظاهر به زه دارم کمان اختیار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون رگ سنگ است در دستم عنان اختیار",
+      "CoupletIndex": 0
+    }
+  ]
+}

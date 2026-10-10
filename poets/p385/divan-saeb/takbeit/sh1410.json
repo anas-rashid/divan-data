@@ -1,0 +1,45 @@
+{
+  "Id": 18941,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۱۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۱۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1410",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1410",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مکرر بر سر بالین شبنم آفتاب آمد\r\nنشد روشن شود یک بار چشم اشکبار از تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مکرر بر سر بالین شبنم آفتاب آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشد روشن شود یک بار چشم اشکبار از تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

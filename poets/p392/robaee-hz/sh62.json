@@ -1,0 +1,57 @@
+{
+  "Id": 34457,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶۲",
+  "FullUrl": "/p392/robaee-hz/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیوانه دلم، یارِِ دل آسایی نیست\r\nشوریده سرم دامن صحرایی نیست\r\nلحن داوود و حسن یوسف، خوار است\r\nگوش شنوا و چشم بینایی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیوانه دلم، یارِِ دل آسایی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شوریده سرم دامن صحرایی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لحن داوود و حسن یوسف، خوار است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوش شنوا و چشم بینایی نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

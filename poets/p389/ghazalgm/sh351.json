@@ -1,0 +1,81 @@
+{
+  "Id": 30099,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۵۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۵۱",
+  "FullUrl": "/p389/ghazalgm/sh351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب که بی روی تو از اشک دمادم سوختیم\r\nسوختیم افزون ز هر شمعی، اگر کم سوختیم\r\nما اسیران محبت، شام غم، چون تار شمع\r\nسر برون کردیم از یک جیب و با هم سوختیم\r\nآب چشم من شب هجران کم از آتش نبود\r\nتا به نقش پا، چو شمع از چشم پر نم سوختیم\r\nما و دل در عاشقی با هم نگشتیم آشنا\r\nپیش هم بودیم و بر تنهایی هم سوختیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب که بی روی تو از اشک دمادم سوختیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوختیم افزون ز هر شمعی، اگر کم سوختیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما اسیران محبت، شام غم، چون تار شمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر برون کردیم از یک جیب و با هم سوختیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آب چشم من شب هجران کم از آتش نبود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا به نقش پا، چو شمع از چشم پر نم سوختیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما و دل در عاشقی با هم نگشتیم آشنا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پیش هم بودیم و بر تنهایی هم سوختیم",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 27610,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۰۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۰۲",
+  "FullUrl": "/p386/ghazalor/sh202",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh202",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خستگان که بستهٔ تدبیر می شوند\r\nوارسته از کمند به زنجیر می شوند\r\nبرگی ز بوستان خرابی نچیده اند\r\nجمعی که سایه گستر و تعمیر می شوند\r\nاین ناوک از کمان که آید که هر طرف\r\nصید افکنان نشانهٔ این تیر می شوند\r\nاین فتنه از کجاست که مستان شیرگیر\r\nگردن نهند و بستهٔ زنجیر می شوند\r\nاین شاهباز کیست که در صیدگاه او\r\nمرغان بال بسته هواگیر می شوند\r\nعرفی چه حالت است که در شهر بخت ما\r\nنازاده کودکان به رحم پیر می شوند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خستگان که بستهٔ تدبیر می شوند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وارسته از کمند به زنجیر می شوند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برگی ز بوستان خرابی نچیده اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جمعی که سایه گستر و تعمیر می شوند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این ناوک از کمان که آید که هر طرف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صید افکنان نشانهٔ این تیر می شوند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این فتنه از کجاست که مستان شیرگیر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گردن نهند و بستهٔ زنجیر می شوند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "این شاهباز کیست که در صیدگاه او",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مرغان بال بسته هواگیر می شوند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی چه حالت است که در شهر بخت ما",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نازاده کودکان به رحم پیر می شوند",
+      "CoupletIndex": 5
+    }
+  ]
+}

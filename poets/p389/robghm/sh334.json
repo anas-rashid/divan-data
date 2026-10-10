@@ -1,0 +1,57 @@
+{
+  "Id": 30591,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳۴",
+  "FullUrl": "/p389/robghm/sh334",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh334",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حرف هوس، صدق سخن، لاف شود\r\nبا عشق، حصیرباف زرباف شود\r\nچون الفت عشق با خرد درگیرد؟\r\nگازر به هوای تیره کی صاف شود؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حرف هوس، صدق سخن، لاف شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با عشق، حصیرباف زرباف شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون الفت عشق با خرد درگیرد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گازر به هوای تیره کی صاف شود؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 32985,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۹۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۹۳",
+  "FullUrl": "/p391/divan/ghazal/sh893",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh893",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ضعف نگذاشت که یک ره جهد از جا آهم\r\nشد گره در دل خونین چو سویدا آهم\r\nچون نسیمی که نهد سر به بیابان ز چمن\r\nبویی از حیرت دیدار بود با آهم\r\nدر سراغ تو ز بس گرم تکاپو شده ام\r\nنفس سوخته ای کرد هوا را آهم\r\nداد کز هجر چو طاووس همه تن داغم\r\nآه کز درد چو زلف تو سراپا آهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ضعف نگذاشت که یک ره جهد از جا آهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد گره در دل خونین چو سویدا آهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نسیمی که نهد سر به بیابان ز چمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بویی از حیرت دیدار بود با آهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در سراغ تو ز بس گرم تکاپو شده ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نفس سوخته ای کرد هوا را آهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "داد کز هجر چو طاووس همه تن داغم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آه کز درد چو زلف تو سراپا آهم",
+      "CoupletIndex": 3
+    }
+  ]
+}

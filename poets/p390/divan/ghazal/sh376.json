@@ -1,0 +1,81 @@
+{
+  "Id": 31343,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۷۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۷۶",
+  "FullUrl": "/p390/divan/ghazal/sh376",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh376",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به غیر کار جفا آسمان نمی‌داند\r\nخموش باش که گردون زبان نمی‌داند\r\nبه تنگنای جهانم ملال و عیش یکی‌ست\r\nکه مرغ بیضه بهار و خزان نمی‌داند\r\nز لطف نیست مرا گر گذاشته‌ست به باغ\r\nکه آشیان مرا باغبان نمی‌داند\r\nهما سلیم مرا خشک و ناتوان دیده‌ست\r\nهنوز لذت این استخوان نمی‌داند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به غیر کار جفا آسمان نمی‌داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خموش باش که گردون زبان نمی‌داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به تنگنای جهانم ملال و عیش یکی‌ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که مرغ بیضه بهار و خزان نمی‌داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز لطف نیست مرا گر گذاشته‌ست به باغ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که آشیان مرا باغبان نمی‌داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هما سلیم مرا خشک و ناتوان دیده‌ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هنوز لذت این استخوان نمی‌داند",
+      "CoupletIndex": 3
+    }
+  ]
+}

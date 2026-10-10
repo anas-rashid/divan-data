@@ -1,0 +1,57 @@
+{
+  "Id": 33285,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/p391/divan/robaee/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاهنشاها کف تو بحرین عطاست\r\nتقوای تو زیب سلطنت نام خداست\r\nزینت بخش صلاح باشد کرمت\r\nدر دست تو سبحه چون گهر در دریا است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهنشاها کف تو بحرین عطاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تقوای تو زیب سلطنت نام خداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زینت بخش صلاح باشد کرمت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دست تو سبحه چون گهر در دریا است",
+      "CoupletIndex": 1
+    }
+  ]
+}

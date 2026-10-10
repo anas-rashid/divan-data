@@ -1,0 +1,54 @@
+{
+  "Id": 34806,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh147",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh147",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بلاکش عاشقی کو با غم جانانه می‌سازد\r\nز جان سختی، دم شمشیر را، دندانه می‌سازد\r\nگشاید گل به شبنم، گر چنین آغوش الفت را\r\nبه بلبل آشیان را غیرت، آتشخانه می‌سازد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلاکش عاشقی کو با غم جانانه می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز جان سختی، دم شمشیر را، دندانه می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گشاید گل به شبنم، گر چنین آغوش الفت را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بلبل آشیان را غیرت، آتشخانه می‌سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

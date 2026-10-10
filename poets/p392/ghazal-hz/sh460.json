@@ -1,0 +1,93 @@
+{
+  "Id": 33887,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۶۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۶۰",
+  "FullUrl": "/p392/ghazal-hz/sh460",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh460",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبی که سروِ تو شمع مزار من گردد\r\nچو گردباد به گردت غبار من گردد\r\nبه رهگذار تو چندان رخ امید نهم\r\nکه وعده ات خجل از انتظار من گردد\r\nبه جیب پیرهن از رشک، گل نیفشانی\r\nاگر دلت خبر از خار خار من گردد\r\nشکوه عشق نگر کز ره فتادگیم\r\nاجل کناره کند گر دچار من گردد\r\nخدا کند که از آن تیغ آبدار حزین\r\nشکفته روییِ زخمِ بهارِ من گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبی که سروِ تو شمع مزار من گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو گردباد به گردت غبار من گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رهگذار تو چندان رخ امید نهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که وعده ات خجل از انتظار من گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به جیب پیرهن از رشک، گل نیفشانی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر دلت خبر از خار خار من گردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شکوه عشق نگر کز ره فتادگیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اجل کناره کند گر دچار من گردد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خدا کند که از آن تیغ آبدار حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شکفته روییِ زخمِ بهارِ من گردد",
+      "CoupletIndex": 4
+    }
+  ]
+}

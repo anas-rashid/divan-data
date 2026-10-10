@@ -1,0 +1,81 @@
+{
+  "Id": 29859,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p389/ghazalgm/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست باکی گر به دستم غنچه سیراب نیست\r\nدر دل من غنچه پیکان او نایاب نیست\r\nجلوه صبح است شامم را به یاد روی دوست\r\nآسمان را بر شب من منت مهتاب نیست\r\nشوق دیدار تو چندان لذت از یک دیدنت\r\nبر سر هم ریخت در چشمم که جای خواب نیست\r\nخون گری قدسی که دارد گریه خونین اثر\r\nپاره دل را چه شد در دیده گر خوناب نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست باکی گر به دستم غنچه سیراب نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل من غنچه پیکان او نایاب نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جلوه صبح است شامم را به یاد روی دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آسمان را بر شب من منت مهتاب نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شوق دیدار تو چندان لذت از یک دیدنت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر سر هم ریخت در چشمم که جای خواب نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خون گری قدسی که دارد گریه خونین اثر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پاره دل را چه شد در دیده گر خوناب نیست",
+      "CoupletIndex": 3
+    }
+  ]
+}

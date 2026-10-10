@@ -1,0 +1,54 @@
+{
+  "Id": 36590,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۱۰",
+  "FullUrl": "/p393/ghete/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بخت خرمیم در نظر نمی‌آید\r\nزمین چو شور بود سبزه برنمی‌آید\r\nز طور رفتن آن شوخ طفل دانستم\r\nکه همچو اشک به چشمم دگر نمی‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بخت خرمیم در نظر نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زمین چو شور بود سبزه برنمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز طور رفتن آن شوخ طفل دانستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که همچو اشک به چشمم دگر نمی‌آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

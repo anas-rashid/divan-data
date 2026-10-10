@@ -1,0 +1,57 @@
+{
+  "Id": 29694,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/p388/divan/robaee/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دم چند فروزی از سخن چینی خویش\r\nشرمنده نمی‌شوی ز رنگینی خویش\r\nاز من مزه‌ای طلب که مغز از سخنم\r\nرسته‌ست چو نی شکر ز شیرینی خویش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دم چند فروزی از سخن چینی خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شرمنده نمی‌شوی ز رنگینی خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از من مزه‌ای طلب که مغز از سخنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رسته‌ست چو نی شکر ز شیرینی خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

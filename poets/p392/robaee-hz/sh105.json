@@ -1,0 +1,57 @@
+{
+  "Id": 34500,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/p392/robaee-hz/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در راه طلب، ناله هواخواهی کرد\r\nدل همرهی آه سحرگاهی کرد\r\nزد قاصد شوق دست و پایی که نداشت\r\nدامان وصال یار، کوتاهی کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در راه طلب، ناله هواخواهی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل همرهی آه سحرگاهی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زد قاصد شوق دست و پایی که نداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دامان وصال یار، کوتاهی کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

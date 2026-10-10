@@ -1,0 +1,57 @@
+{
+  "Id": 26993,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh387",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh387",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می خرامید و صبوح از می بی غش زده بود\r\nلاله ای بود که سر از دل آتش زده بود\r\nای مه عید کجا گم شده بودی دیروز؟\r\nکه کمان ابروی من دست به ترکش زده بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می خرامید و صبوح از می بی غش زده بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله ای بود که سر از دل آتش زده بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مه عید کجا گم شده بودی دیروز؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که کمان ابروی من دست به ترکش زده بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

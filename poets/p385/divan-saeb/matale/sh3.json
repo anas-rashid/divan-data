@@ -1,0 +1,42 @@
+{
+  "Id": 26091,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم صیاد تو ترسانده است چشم ناز را\r\nبی‌زبان کرده است سحر غمزه‌ات اعجاز را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم صیاد تو ترسانده است چشم ناز را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌زبان کرده است سحر غمزه‌ات اعجاز را",
+      "CoupletIndex": 0
+    }
+  ]
+}

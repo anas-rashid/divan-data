@@ -1,0 +1,54 @@
+{
+  "Id": 36578,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۹۸",
+  "FullUrl": "/p393/ghete/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجا زمانه غم روزگار من دارد\r\nز صبح خنده به شب‌های تار من دارد\r\nهزار مرتبه دیدم قماش جامهٔ گل\r\nکجا لطافت دامان یار من دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجا زمانه غم روزگار من دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز صبح خنده به شب‌های تار من دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هزار مرتبه دیدم قماش جامهٔ گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کجا لطافت دامان یار من دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

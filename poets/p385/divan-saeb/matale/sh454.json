@@ -1,0 +1,42 @@
+{
+  "Id": 26542,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۵۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۵۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh454",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh454",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان که جمله عبادات از وضوست تمام\r\nوجود آدم خاکی به آبروست تمام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان که جمله عبادات از وضوست تمام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وجود آدم خاکی به آبروست تمام",
+      "CoupletIndex": 0
+    }
+  ]
+}

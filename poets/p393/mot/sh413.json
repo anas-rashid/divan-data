@@ -1,0 +1,42 @@
+{
+  "Id": 37122,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۴۱۳",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۴۱۳",
+  "FullUrl": "/p393/mot/sh413",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh413",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شام شد دل برنگشت از کوی او\r\nماند گویا در خم گیسوی او",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شام شد دل برنگشت از کوی او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماند گویا در خم گیسوی او",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30465,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۰۸",
+  "FullUrl": "/p389/robghm/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دامان مرا اشک، پر انجم دارد\r\nوز خون دلم، دیده تنعم دارد\r\nحاصل، که چو سنگ آسیا، چرخ مرا\r\nسرگشته برای رزق مردم دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دامان مرا اشک، پر انجم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خون دلم، دیده تنعم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حاصل، که چو سنگ آسیا، چرخ مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگشته برای رزق مردم دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

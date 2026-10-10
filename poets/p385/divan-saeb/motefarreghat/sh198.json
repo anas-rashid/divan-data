@@ -1,0 +1,57 @@
+{
+  "Id": 26804,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh198",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh198",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از فضولی چشم بستم خار و گل همرنگ شد\r\nگوش را کردم گران، هر نغمه سیرآهنگ شد\r\nچون صدف هر قطره آبی که در کامم چکید\r\nاز هوای خاطر افسرده من سنگ شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از فضولی چشم بستم خار و گل همرنگ شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوش را کردم گران، هر نغمه سیرآهنگ شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون صدف هر قطره آبی که در کامم چکید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از هوای خاطر افسرده من سنگ شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

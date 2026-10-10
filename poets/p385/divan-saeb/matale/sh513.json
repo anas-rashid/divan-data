@@ -1,0 +1,42 @@
+{
+  "Id": 26601,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۱۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۱۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh513",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh513",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون تاک از شوق می‌جوشد اگر ساغر زنی\r\nغنچه شادی مرگ می‌گردد اگر بر سر زنی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون تاک از شوق می‌جوشد اگر ساغر زنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه شادی مرگ می‌گردد اگر بر سر زنی",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37376,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۰۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۰۴",
+  "FullUrl": "/p393/robaee/sh204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "محبوس جهان فانیم از عمری\r\nمحشور به خصم جانیم از عمری\r\nای مرگ بیا بکن خلاصم زین بند\r\nزندانی زندگانیم از عمری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "محبوس جهان فانیم از عمری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محشور به خصم جانیم از عمری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مرگ بیا بکن خلاصم زین بند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زندانی زندگانیم از عمری",
+      "CoupletIndex": 1
+    }
+  ]
+}

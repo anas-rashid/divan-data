@@ -1,0 +1,69 @@
+{
+  "Id": 26697,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا خیال زلف او ره در دل دیوانه داشت\r\nاز پر و بال پری جاروب این ویرانه داشت\r\nشیشه ناموس من تا بر کنار طاق بود\r\nهر که سنگی داشت از بهر من دیوانه داشت\r\nمی شکست از خون من دایم خمار خویش را\r\nچشم مخموری که در هر گوشه صد میخانه داشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا خیال زلف او ره در دل دیوانه داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از پر و بال پری جاروب این ویرانه داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیشه ناموس من تا بر کنار طاق بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر که سنگی داشت از بهر من دیوانه داشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می شکست از خون من دایم خمار خویش را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم مخموری که در هر گوشه صد میخانه داشت",
+      "CoupletIndex": 2
+    }
+  ]
+}

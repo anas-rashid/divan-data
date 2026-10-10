@@ -1,0 +1,66 @@
+{
+  "Id": 32175,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۳",
+  "FullUrl": "/p391/divan/ghazal/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای گنج‌ها ز گوهر یاد تو سینه‌ها\r\nو ز نقد داغ عشق تو دل‌ها دفینه‌ها\r\nدر جستجوی ذات تو افتاده سرنگون\r\nافلاک را به لجه حیرت سفینه‌ها\r\nاز تندی شراب نگاه تو می‌زنند\r\nموج شکست در دل سنگ آبگینه‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای گنج‌ها ز گوهر یاد تو سینه‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و ز نقد داغ عشق تو دل‌ها دفینه‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جستجوی ذات تو افتاده سرنگون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افلاک را به لجه حیرت سفینه‌ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از تندی شراب نگاه تو می‌زنند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "موج شکست در دل سنگ آبگینه‌ها",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26908,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh302",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh302",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلم در سینه درس ناله مستانه می‌خواند\r\nبه طرز بلبل ناقوس در بتخانه می‌خواند\r\nعجب فیضی است با یونان زمین خطه مشرب\r\nکه طفل نوسواد او، خط پیمانه می‌خواند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلم در سینه درس ناله مستانه می‌خواند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به طرز بلبل ناقوس در بتخانه می‌خواند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عجب فیضی است با یونان زمین خطه مشرب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که طفل نوسواد او، خط پیمانه می‌خواند",
+      "CoupletIndex": 1
+    }
+  ]
+}

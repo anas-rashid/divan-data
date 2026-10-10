@@ -1,0 +1,93 @@
+{
+  "Id": 31409,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۴۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۴۲",
+  "FullUrl": "/p390/divan/ghazal/sh442",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh442",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم خود بگشا حدیث خوش نگاهی می‌رود\r\nگردنی برکش که حرف کج‌کلاهی می‌رود\r\nدر دلش از من غباری هست، پنداری که باز\r\nآب چشمم از برای عذرخواهی می‌رود\r\nرهروان رفتند و چون از کاروان واماندگان\r\nبرق ایشان را ز دنبال سیاهی می‌رود\r\nآنچه در راه کسی باشد، ازان نتوان گریخت\r\nگر روم بر آب، در پا خار ماهی می‌رود\r\nوادی عشق است اینجا، نیست نومیدی سلیم\r\nکاروان در منزل از گم کرده راهی می‌رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم خود بگشا حدیث خوش نگاهی می‌رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردنی برکش که حرف کج‌کلاهی می‌رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دلش از من غباری هست، پنداری که باز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب چشمم از برای عذرخواهی می‌رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رهروان رفتند و چون از کاروان واماندگان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برق ایشان را ز دنبال سیاهی می‌رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آنچه در راه کسی باشد، ازان نتوان گریخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر روم بر آب، در پا خار ماهی می‌رود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وادی عشق است اینجا، نیست نومیدی سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کاروان در منزل از گم کرده راهی می‌رود",
+      "CoupletIndex": 4
+    }
+  ]
+}

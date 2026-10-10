@@ -1,0 +1,57 @@
+{
+  "Id": 30253,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۵",
+  "FullUrl": "/p389/mmgh/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندیدم در چمن هرچند گردیدم سر خاری\r\nکزو در سینه مجروح بلبل نیست آزاری\r\nنه بزم‌آرای را بینم، نه صاحب باغ را دانم\r\nشرابی نوشم از جامی، گلی چینم ز گلزاری",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندیدم در چمن هرچند گردیدم سر خاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کزو در سینه مجروح بلبل نیست آزاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه بزم‌آرای را بینم، نه صاحب باغ را دانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شرابی نوشم از جامی، گلی چینم ز گلزاری",
+      "CoupletIndex": 1
+    }
+  ]
+}

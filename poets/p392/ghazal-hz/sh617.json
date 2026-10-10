@@ -1,0 +1,141 @@
+{
+  "Id": 34044,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۱۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۱۷",
+  "FullUrl": "/p392/ghazal-hz/sh617",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh617",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون طوطی اگر نام به گفتار بر آرم\r\nکام دل از آن لعل شکربار برآرم\r\nکارم به چمن وعدهٔ دیدار تو باشد\r\nباشد مگر از پای گل این خار، برآرم\r\nپرگالهٔ دل باشدش آویزهٔٔ دامان\r\nآهی اگر از سینهٔ افگار، برآرم\r\nساقی به کفم لنگری از رطل گران ده\r\nکاین عمر سبک سیر ز رفتار برآرم\r\nدل را نکنم عرضه به هر بی سر و پایی\r\nاین آینه را در نظر یار برآرم\r\nافتد اگر این بار به کف دامن وصلش\r\nای هجر، دمار از تو ستمکار بر آرم\r\nنگذاشت سبک دستی ایام بهاران\r\nتا بوی گل از رخنهٔ دیوار بر آرم\r\nدل را به چه تدبیر، بگویید حریفان\r\nتا ازکف آن طره طرار برآرم\r\nدر دام حزین گر کشم از سینه صفیری\r\nمرغان همه را مست ز گلزار بر آرم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون طوطی اگر نام به گفتار بر آرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کام دل از آن لعل شکربار برآرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارم به چمن وعدهٔ دیدار تو باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باشد مگر از پای گل این خار، برآرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پرگالهٔ دل باشدش آویزهٔٔ دامان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آهی اگر از سینهٔ افگار، برآرم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ساقی به کفم لنگری از رطل گران ده",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاین عمر سبک سیر ز رفتار برآرم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل را نکنم عرضه به هر بی سر و پایی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این آینه را در نظر یار برآرم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "افتد اگر این بار به کف دامن وصلش",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ای هجر، دمار از تو ستمکار بر آرم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نگذاشت سبک دستی ایام بهاران",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا بوی گل از رخنهٔ دیوار بر آرم",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دل را به چه تدبیر، بگویید حریفان",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تا ازکف آن طره طرار برآرم",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "در دام حزین گر کشم از سینه صفیری",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مرغان همه را مست ز گلزار بر آرم",
+      "CoupletIndex": 8
+    }
+  ]
+}

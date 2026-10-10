@@ -1,0 +1,66 @@
+{
+  "Id": 36423,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۷۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۷۲",
+  "FullUrl": "/p393/natmam/sh272",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh272",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق‌‌آموخته‌ای می‌خواهم\r\nشمع‌آموخته‌ای می‌خواهم\r\nصحبتم نیست به هر کس درگیر\r\nچون شررسوخته‌ای می‌خواهم\r\nتا کنم راز محبت اظهار\r\nلب به لب دوخته‌ای می‌خواهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق‌‌آموخته‌ای می‌خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع‌آموخته‌ای می‌خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صحبتم نیست به هر کس درگیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شررسوخته‌ای می‌خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا کنم راز محبت اظهار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لب به لب دوخته‌ای می‌خواهم",
+      "CoupletIndex": 2
+    }
+  ]
+}

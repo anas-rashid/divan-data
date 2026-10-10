@@ -1,0 +1,54 @@
+{
+  "Id": 36601,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۲۱",
+  "FullUrl": "/p393/ghete/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هزار حیف که کار دلم به کام نشد\r\nغلام عشق نگردید و نیکنام نشد\r\nفلک به مرکز آسودگی قرار گرفت\r\nهنوز دایرهٔ گردشم تمام نشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار حیف که کار دلم به کام نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غلام عشق نگردید و نیکنام نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فلک به مرکز آسودگی قرار گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هنوز دایرهٔ گردشم تمام نشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

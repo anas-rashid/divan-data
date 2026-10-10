@@ -1,0 +1,42 @@
+{
+  "Id": 34718,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۵۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نخواهد برد جان از رشک ما خصم عنود ما\r\nسواد کلک ما مشک است، بر زخم حسود ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نخواهد برد جان از رشک ما خصم عنود ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سواد کلک ما مشک است، بر زخم حسود ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

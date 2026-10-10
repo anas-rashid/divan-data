@@ -1,0 +1,93 @@
+{
+  "Id": 26769,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۶۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زلفت که همچو شام غریبان گرفته است\r\nصبح نشاط در ته دامان گرفته است\r\nاز دست رستخیز حوادث کجا رویم؟\r\nما را میان بادیه باران گرفته است\r\n(این سهو بین که دیده حق ناشناس من\r\nروی ترا برابر قرآن گرفته است)\r\nاز ابر نوبهار چمن جان گرفته است\r\nگلزار رنگ چهره مستان گرفته است\r\nاز بس که نوبهار به تعجیل می رود\r\nشاخ از شکوفه دست به دندان گرفته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفت که همچو شام غریبان گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح نشاط در ته دامان گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست رستخیز حوادث کجا رویم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را میان بادیه باران گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "(این سهو بین که دیده حق ناشناس من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روی ترا برابر قرآن گرفته است)",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از ابر نوبهار چمن جان گرفته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گلزار رنگ چهره مستان گرفته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از بس که نوبهار به تعجیل می رود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شاخ از شکوفه دست به دندان گرفته است",
+      "CoupletIndex": 4
+    }
+  ]
+}

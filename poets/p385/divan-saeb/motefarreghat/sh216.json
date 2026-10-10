@@ -1,0 +1,57 @@
+{
+  "Id": 26822,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh216",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh216",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پنبه از بی طالعی ناخن به داغم می زند\r\nپرده فانوس، دامن بر چراغم می زند\r\nعشقبازان را نسیم زلف می آرد به رقص\r\nبوی گل بیهوده خود را بر دماغم می زند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پنبه از بی طالعی ناخن به داغم می زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرده فانوس، دامن بر چراغم می زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشقبازان را نسیم زلف می آرد به رقص",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوی گل بیهوده خود را بر دماغم می زند",
+      "CoupletIndex": 1
+    }
+  ]
+}

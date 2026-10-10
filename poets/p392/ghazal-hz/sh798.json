@@ -1,0 +1,93 @@
+{
+  "Id": 34225,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۹۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۹۸",
+  "FullUrl": "/p392/ghazal-hz/sh798",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh798",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل، سیه مست به سودای تو از جا رفته\r\nاز نگاه تو چها بر سر تقوا رفته\r\nهرکس از لعل توکام دل ناشادگرفت\r\nچارهٔ ماست که از یاد مسیحا رفته\r\nنتواند که رود از دل فرهاد برون\r\nنقش شیرین اگر از صفحه خارا رفته\r\nگرد راهش بود از نکهت گل مشکینتر\r\nهرکه از جلوه رخسار تو از جا رفته\r\nکشش اوست که ما را برد از خویش حزین\r\nشبنم از جذبه خورشید به بالا رفته",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل، سیه مست به سودای تو از جا رفته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نگاه تو چها بر سر تقوا رفته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرکس از لعل توکام دل ناشادگرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چارهٔ ماست که از یاد مسیحا رفته",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نتواند که رود از دل فرهاد برون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نقش شیرین اگر از صفحه خارا رفته",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گرد راهش بود از نکهت گل مشکینتر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرکه از جلوه رخسار تو از جا رفته",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کشش اوست که ما را برد از خویش حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شبنم از جذبه خورشید به بالا رفته",
+      "CoupletIndex": 4
+    }
+  ]
+}

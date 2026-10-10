@@ -1,0 +1,141 @@
+{
+  "Id": 20995,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۹۲۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۹۲۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1922",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1922",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "احوال دل ز دیده خونبار روشن است\r\nحال درون خانه نمایان ز روزن است\r\nروشندلان همیشه سفر در وطن کنند\r\nاستاده است شمع و همان گرم رفتن است\r\nدر انتظام کار جهان اهتمام خلق\r\nمشق جنون به خامه فولاد کردن است\r\nجوهر بس است بیضه فولاد را حصار\r\nآن را که دل قوی است چه حاجت به جوشن است؟\r\nدست و دهن اگر چه نماید تنور رزق\r\nنسبت به دست کوته ما چاه بیژن است\r\nشستن به اشک، گرد کدورت ز روی دل\r\nآیینه را به دامن تر پاک کردن است\r\nظالم به مرگ سیر نگردد ز خون خلق\r\nدر خواب، کار تشنه لبان آب خوردن است\r\nدل چون کمال یافت نهد پای بر فلک\r\nچون دانه خوشه گشت رجوعش به خرمن است\r\nصائب ز خود برآی که شرط طریق عشق\r\nگام نخست از خودی خود گذشتن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "احوال دل ز دیده خونبار روشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حال درون خانه نمایان ز روزن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روشندلان همیشه سفر در وطن کنند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "استاده است شمع و همان گرم رفتن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در انتظام کار جهان اهتمام خلق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مشق جنون به خامه فولاد کردن است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جوهر بس است بیضه فولاد را حصار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن را که دل قوی است چه حاجت به جوشن است؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دست و دهن اگر چه نماید تنور رزق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نسبت به دست کوته ما چاه بیژن است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شستن به اشک، گرد کدورت ز روی دل",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آیینه را به دامن تر پاک کردن است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ظالم به مرگ سیر نگردد ز خون خلق",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در خواب، کار تشنه لبان آب خوردن است",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دل چون کمال یافت نهد پای بر فلک",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چون دانه خوشه گشت رجوعش به خرمن است",
+      "CoupletIndex": 7
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "صائب ز خود برآی که شرط طریق عشق",
+      "CoupletIndex": 8
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "گام نخست از خودی خود گذشتن است",
+      "CoupletIndex": 8
+    }
+  ]
+}

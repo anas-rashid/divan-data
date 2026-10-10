@@ -1,0 +1,42 @@
+{
+  "Id": 26217,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(در خموشی لب من چهره گشای رازست\r\nپشت این آینه از ساده دلی غمازست)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(در خموشی لب من چهره گشای رازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پشت این آینه از ساده دلی غمازست)",
+      "CoupletIndex": 0
+    }
+  ]
+}

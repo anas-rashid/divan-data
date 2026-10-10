@@ -1,0 +1,93 @@
+{
+  "Id": 34110,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۶۸۳",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۶۸۳",
+  "FullUrl": "/p392/ghazal-hz/sh683",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh683",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چقدر حوصله باید که گداز آموزم\r\nتا دو دل را روش راز و نیاز آموزم\r\nلبم از ناله مپرسید که خاموش چراست\r\nبه دل تنگ نگه دری راز آموزم\r\nبه رخش راه نظر اشک روانم نگذاشت\r\nچه گشاد از سبق گریه که باز آموزم؟\r\nلحظه ای فرصت نازی به پریزاد خیال\r\nطاقتی تا به دل آینه ساز آموزم\r\nنزدم مهر خموشی به لب شکوه حزین\r\nتا مگر رحم به آن بنده نواز آموزم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چقدر حوصله باید که گداز آموزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دو دل را روش راز و نیاز آموزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لبم از ناله مپرسید که خاموش چراست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به دل تنگ نگه دری راز آموزم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به رخش راه نظر اشک روانم نگذاشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه گشاد از سبق گریه که باز آموزم؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "لحظه ای فرصت نازی به پریزاد خیال",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "طاقتی تا به دل آینه ساز آموزم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نزدم مهر خموشی به لب شکوه حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا مگر رحم به آن بنده نواز آموزم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30350,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/p389/robghm/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دنیا افزون بود و گر کم، هیچ است\r\nجز دوست، مطالب دو عالم هیچ است\r\nگویند دمی‌ست زندگی، دریابش\r\nدریافتمش، دمی‌ست کان هم هیچ است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیا افزون بود و گر کم، هیچ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز دوست، مطالب دو عالم هیچ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویند دمی‌ست زندگی، دریابش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریافتمش، دمی‌ست کان هم هیچ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

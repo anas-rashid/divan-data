@@ -1,0 +1,57 @@
+{
+  "Id": 30265,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/p389/robghm/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون منصب عاشقی فلک داد مرا\r\nشد دنیی و عقبی همه از یاد مرا\r\nافتاده ز کار دو جهان است دلم\r\nزان روز که کار با تو افتاد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون منصب عاشقی فلک داد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد دنیی و عقبی همه از یاد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افتاده ز کار دو جهان است دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان روز که کار با تو افتاد مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

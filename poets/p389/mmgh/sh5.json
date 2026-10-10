@@ -1,0 +1,69 @@
+{
+  "Id": 30213,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۵",
+  "FullUrl": "/p389/mmgh/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مانع گریه نشد چشم مرا دیدن تو\r\nتاب خورشید کجا خشک کند دریا را\r\nپرده بر داغ کشم چون روم از شهر برون\r\nبر دل لاله چرا تنگ کنم صحرا را\r\nکی به سودای دلم سلسله مویی برخاست\r\nکه سر زلف تو بر هم نزد آن سودا را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مانع گریه نشد چشم مرا دیدن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تاب خورشید کجا خشک کند دریا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرده بر داغ کشم چون روم از شهر برون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر دل لاله چرا تنگ کنم صحرا را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کی به سودای دلم سلسله مویی برخاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که سر زلف تو بر هم نزد آن سودا را",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26641,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی به شعله ای نزند جوش داغ ما؟\r\nپیش از فتیله چند بسوزد چراغ ما؟\r\nای محتسب به توبه قسم می دهم ترا\r\nکاین موسم بهار مخور بر دماغ ما\r\n(حسرت به نور ذره و عمر شرر کشد\r\nیارب کسی مباد به روز چراغ ما)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی به شعله ای نزند جوش داغ ما؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش از فتیله چند بسوزد چراغ ما؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای محتسب به توبه قسم می دهم ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین موسم بهار مخور بر دماغ ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "(حسرت به نور ذره و عمر شرر کشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یارب کسی مباد به روز چراغ ما)",
+      "CoupletIndex": 2
+    }
+  ]
+}

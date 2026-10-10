@@ -1,0 +1,57 @@
+{
+  "Id": 33217,
+  "CatId": 1099,
+  "Title": "شمارهٔ ۲۸ - رباعی",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » مناقب » شمارهٔ ۲۸ - رباعی",
+  "FullUrl": "/p391/divan/managheb/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/managheb/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "‏«هر کس ز فلک به فضل فایق باشد\r\nشاید که به بندگیش لایق باشد\r\nبر عرش برین مبارکش باد خرام\r\nآنکس که چو من غلام صادق باشد»‏",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "‏«هر کس ز فلک به فضل فایق باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاید که به بندگیش لایق باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر عرش برین مبارکش باد خرام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنکس که چو من غلام صادق باشد»‏",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26917,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۱۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۱۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh311",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh311",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(صبا در هم خبر از طره جانانه می گوید\r\nسخن های پریشان با من دیوانه می گوید)\r\n(سری خم کرده ابرویت به سوی چشم، می دانم\r\nکه حرف کشتنم با نرگس مستانه می گوید)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(صبا در هم خبر از طره جانانه می گوید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سخن های پریشان با من دیوانه می گوید)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(سری خم کرده ابرویت به سوی چشم، می دانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که حرف کشتنم با نرگس مستانه می گوید)",
+      "CoupletIndex": 1
+    }
+  ]
+}

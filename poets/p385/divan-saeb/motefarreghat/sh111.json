@@ -1,0 +1,57 @@
+{
+  "Id": 26717,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل هر کس که مسلم ز علایق رسته است\r\nچون سپندی است که از آتش سوزان جسته است\r\nچشم احسان ز بخیلان ترشروی مدار\r\nچه زنی حلقه بر آن در که ز بیرون بسته است؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل هر کس که مسلم ز علایق رسته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سپندی است که از آتش سوزان جسته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم احسان ز بخیلان ترشروی مدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه زنی حلقه بر آن در که ز بیرون بسته است؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

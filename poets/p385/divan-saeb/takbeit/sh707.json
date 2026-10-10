@@ -1,0 +1,45 @@
+{
+  "Id": 18238,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۰۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۰۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh707",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh707",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کدام دیدهٔ بد در کمین این باغ است ؟\r\nکه بی نسیم، گل از شاخسار می‌ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کدام دیدهٔ بد در کمین این باغ است ؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بی نسیم، گل از شاخسار می‌ریزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

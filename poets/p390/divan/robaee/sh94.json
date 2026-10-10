@@ -1,0 +1,57 @@
+{
+  "Id": 32092,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/p390/divan/robaee/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شعله ز خویش باش افروختنی\r\nذاتی بود این هنر، نه آموختنی\r\nکو آتش عشقی، که شده در تن من\r\nچون رشته ی شمع، هر رگی سوختنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شعله ز خویش باش افروختنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ذاتی بود این هنر، نه آموختنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو آتش عشقی، که شده در تن من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون رشته ی شمع، هر رگی سوختنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

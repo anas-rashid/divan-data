@@ -1,0 +1,57 @@
+{
+  "Id": 37827,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh313",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh313",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ایزد که همی کرد مرکب تن و جان\r\nدر هر عضوی مصلحتی کرد نهان\r\nگر مفسدیی ندیده بودی به زبان\r\nمحبوس نکردیش به زندان دهان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایزد که همی کرد مرکب تن و جان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در هر عضوی مصلحتی کرد نهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر مفسدیی ندیده بودی به زبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محبوس نکردیش به زندان دهان",
+      "CoupletIndex": 1
+    }
+  ]
+}

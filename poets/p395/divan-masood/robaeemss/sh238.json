@@ -1,0 +1,57 @@
+{
+  "Id": 37752,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۳۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۳۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سرو سپاه خسرو ای ماه حشم\r\nیک جرعه اگر از می وصلت بچشم\r\nاز خط تو چون قلم همی سرنکشم\r\nبر آتش تیمار تو چون عود خوشم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سرو سپاه خسرو ای ماه حشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک جرعه اگر از می وصلت بچشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خط تو چون قلم همی سرنکشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر آتش تیمار تو چون عود خوشم",
+      "CoupletIndex": 1
+    }
+  ]
+}

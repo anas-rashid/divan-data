@@ -1,0 +1,45 @@
+{
+  "Id": 17732,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۰۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۰۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh201",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh201",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلم هر لحظه از داغی به داغ دیگر آویزد\r\nچو بیماری که گرداند ز تاب درد بالین را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلم هر لحظه از داغی به داغ دیگر آویزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو بیماری که گرداند ز تاب درد بالین را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34747,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۸۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو تر هرگز نگردید، از می وصل تو دامان‌ها\r\nز مخموری بود خمیازه‌ای، چاک گریبان‌ها\r\nخیال توبه، نقشی بود بر آب فراموشی\r\nدر آن عهدی که با پیمانه می‌بستیم پیمان‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو تر هرگز نگردید، از می وصل تو دامان‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز مخموری بود خمیازه‌ای، چاک گریبان‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خیال توبه، نقشی بود بر آب فراموشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آن عهدی که با پیمانه می‌بستیم پیمان‌ها",
+      "CoupletIndex": 1
+    }
+  ]
+}

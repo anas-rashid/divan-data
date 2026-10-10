@@ -1,0 +1,57 @@
+{
+  "Id": 33303,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۲",
+  "FullUrl": "/p391/divan/robaee/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از سنگ جفایش دل غم پیشه شکست\r\nیعنی مینای صاف اندیشه شکست\r\nغیر از دل پر درد به ما هیچ نبود\r\nزآنرو گله پهن شد که این شیشه شکست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از سنگ جفایش دل غم پیشه شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی مینای صاف اندیشه شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غیر از دل پر درد به ما هیچ نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زآنرو گله پهن شد که این شیشه شکست",
+      "CoupletIndex": 1
+    }
+  ]
+}

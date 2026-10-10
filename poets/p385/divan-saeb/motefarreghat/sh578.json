@@ -1,0 +1,57 @@
+{
+  "Id": 27184,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۷۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۷۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh578",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh578",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی سبب بر سرم ای عربده ساز آمده ای\r\nاز دل من چه به جا مانده که باز آمده ای؟\r\nز ره صبر چه پوشم، که (ز) الماس نگاه\r\nسینه پردازتر از چنگل باز آمده ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی سبب بر سرم ای عربده ساز آمده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دل من چه به جا مانده که باز آمده ای؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز ره صبر چه پوشم، که (ز) الماس نگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سینه پردازتر از چنگل باز آمده ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

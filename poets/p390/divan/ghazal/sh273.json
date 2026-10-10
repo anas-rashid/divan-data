@@ -1,0 +1,93 @@
+{
+  "Id": 31240,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۷۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۷۳",
+  "FullUrl": "/p390/divan/ghazal/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمع از هوای وصلت، در حالت هلاک است\r\nگل تا شنیده بویت، از شوق سینه چاک است\r\nشستم غبار خود را با گریه از دل خلق\r\nدر عشق او حسابم با کاینات پاک است\r\nاز بس که بی رخ او چشمم غبار دارد\r\nچون دانه های سبحه، اشکم تمام خاک است!\r\nتا چند بخیه بتوان بر زخم های خود زد؟\r\nچون موج سینه ام را چاک از قفای چاک است\r\nدل را سلیم بی قدر در عاشقی، وفا کرد\r\nکم قیمت است آری جنسی که عیب ناک است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع از هوای وصلت، در حالت هلاک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل تا شنیده بویت، از شوق سینه چاک است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شستم غبار خود را با گریه از دل خلق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عشق او حسابم با کاینات پاک است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از بس که بی رخ او چشمم غبار دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون دانه های سبحه، اشکم تمام خاک است!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا چند بخیه بتوان بر زخم های خود زد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون موج سینه ام را چاک از قفای چاک است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل را سلیم بی قدر در عاشقی، وفا کرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کم قیمت است آری جنسی که عیب ناک است",
+      "CoupletIndex": 4
+    }
+  ]
+}

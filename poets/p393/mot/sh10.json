@@ -1,0 +1,42 @@
+{
+  "Id": 36719,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۰",
+  "FullUrl": "/p393/mot/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سیل چون بی تو از درم بگذشت\r\nبشنو این ماجرای رنگین را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیل چون بی تو از درم بگذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشنو این ماجرای رنگین را",
+      "CoupletIndex": 0
+    }
+  ]
+}

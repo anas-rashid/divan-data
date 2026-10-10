@@ -1,0 +1,57 @@
+{
+  "Id": 30635,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۷۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۷۸",
+  "FullUrl": "/p389/robghm/sh378",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh378",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "انسان که طفیل او فلک راست مدار\r\nباقی بودش سلسله تا روز شمار\r\nگل هر سر سال، عالم‌آرا گردد\r\nاما نه گلی که رفته از گلشن، پار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انسان که طفیل او فلک راست مدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باقی بودش سلسله تا روز شمار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل هر سر سال، عالم‌آرا گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما نه گلی که رفته از گلشن، پار",
+      "CoupletIndex": 1
+    }
+  ]
+}

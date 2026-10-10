@@ -1,0 +1,45 @@
+{
+  "Id": 17861,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۳۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۳۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چَشم، از برای روی عزیزان، بُوَد به کار\r\nیعقوب را به دیدهٔ بینا چه حاجت است ؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چَشم، از برای روی عزیزان، بُوَد به کار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعقوب را به دیدهٔ بینا چه حاجت است ؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

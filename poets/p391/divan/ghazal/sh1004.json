@@ -1,0 +1,81 @@
+{
+  "Id": 33096,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۰۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۰۴",
+  "FullUrl": "/p391/divan/ghazal/sh1004",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1004",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه همین پیچد به خود از شوق رویت موی تو\r\nنعل در آتش بود بر روی تو ابروی تو\r\nبا رخش ای گل مزن زین بیش لاف همسری\r\nرشک نگذارد که بینم رنگ هم بر روی تو\r\nحال عالم را توان دریافتن از فیض فکر\r\nجان من جام جم است آیینهٔ زانوی تو\r\nبا تأمل گفتگو کن به که آموزد سخن\r\nطوطی نطق ترا آیینهٔ زانوی تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه همین پیچد به خود از شوق رویت موی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نعل در آتش بود بر روی تو ابروی تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با رخش ای گل مزن زین بیش لاف همسری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رشک نگذارد که بینم رنگ هم بر روی تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حال عالم را توان دریافتن از فیض فکر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جان من جام جم است آیینهٔ زانوی تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با تأمل گفتگو کن به که آموزد سخن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "طوطی نطق ترا آیینهٔ زانوی تو",
+      "CoupletIndex": 3
+    }
+  ]
+}

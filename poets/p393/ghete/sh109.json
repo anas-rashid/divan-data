@@ -1,0 +1,54 @@
+{
+  "Id": 36589,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p393/ghete/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مریض عشق او بسیار بر بستر نمی‌ماند\r\nاگر ماند شبی ماند شب دیگر نمی‌ماند\r\nچه می‌گردانی ای گل این‌قدر اوراق خوبی را\r\nکه ناگه می‌وزد بادی که این دفتر نمی‌ماند",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مریض عشق او بسیار بر بستر نمی‌ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر ماند شبی ماند شب دیگر نمی‌ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه می‌گردانی ای گل این‌قدر اوراق خوبی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که ناگه می‌وزد بادی که این دفتر نمی‌ماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

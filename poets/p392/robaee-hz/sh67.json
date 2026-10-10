@@ -1,0 +1,57 @@
+{
+  "Id": 34462,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/p392/robaee-hz/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیشب طربی بر دل غمناکم ریخت\r\nهر بخیه که داشت، سینهٔ چاکم ریخت\r\nشبنم به کنار چشم نمناکم ریخت\r\nابری دو سه قطره اشک بر خاکم ریخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیشب طربی بر دل غمناکم ریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر بخیه که داشت، سینهٔ چاکم ریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبنم به کنار چشم نمناکم ریخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ابری دو سه قطره اشک بر خاکم ریخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

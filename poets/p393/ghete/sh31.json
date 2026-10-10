@@ -1,0 +1,54 @@
+{
+  "Id": 36511,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۱",
+  "FullUrl": "/p393/ghete/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از درد اسیری شده آتش نفس ما\r\nای وای به مرغی که شود هم‌قفس ما\r\nفریاد که در دام رسیدن نتوانم\r\nافسوس که بی‌بال و پری شد قفس ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از درد اسیری شده آتش نفس ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای وای به مرغی که شود هم‌قفس ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد که در دام رسیدن نتوانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس که بی‌بال و پری شد قفس ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

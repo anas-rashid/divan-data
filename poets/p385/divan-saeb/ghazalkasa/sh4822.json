@@ -1,0 +1,105 @@
+{
+  "Id": 23895,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۸۲۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۸۲۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4822",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4822",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای چشم تو پرده دار اعجاز\r\nمژگان تو سایه پرور ناز\r\nاز قافله شکایت ما\r\nچون ریگ روان نخیزد آواز\r\nپیشانی صبح و آفتاب اوست\r\nدرسینه پاک گوهران راز\r\nبر زنده قبای خاک مپسند\r\nدل را ز غبار کین بپرداز\r\nدر پرده خون دل حصاری است\r\nاز لعل لب تو آب اعجاز\r\nگردانده ز خلق روی امید\r\nکار صائب بود خداساز",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چشم تو پرده دار اعجاز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگان تو سایه پرور ناز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قافله شکایت ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون ریگ روان نخیزد آواز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیشانی صبح و آفتاب اوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "درسینه پاک گوهران راز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر زنده قبای خاک مپسند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل را ز غبار کین بپرداز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در پرده خون دل حصاری است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از لعل لب تو آب اعجاز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گردانده ز خلق روی امید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کار صائب بود خداساز",
+      "CoupletIndex": 5
+    }
+  ]
+}

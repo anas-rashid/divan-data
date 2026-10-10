@@ -1,0 +1,93 @@
+{
+  "Id": 33961,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۳۴",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۳۴",
+  "FullUrl": "/p392/ghazal-hz/sh534",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh534",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل، به ناله از جگر خاره خون برآر\r\nبا می، دمار از خرد ذوفنون برآر\r\nشیرین به کام خسرو و ناکام کوهکن\r\nای رشک، تیغی از کمر بیستون برآر\r\nاز نیشتر علاج رگ جان خویش کن\r\nز الماس، کام خاطر داغ درون برآر\r\nدر پای خم نشین و می لعل نوش کن\r\nدست ستیزه با فلک نیلگون برآر\r\nمپسند زیر دست فلک خویش را حزین\r\nاز آستین خرقه می لاله گون برآر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل، به ناله از جگر خاره خون برآر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با می، دمار از خرد ذوفنون برآر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیرین به کام خسرو و ناکام کوهکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای رشک، تیغی از کمر بیستون برآر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از نیشتر علاج رگ جان خویش کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز الماس، کام خاطر داغ درون برآر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در پای خم نشین و می لعل نوش کن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دست ستیزه با فلک نیلگون برآر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مپسند زیر دست فلک خویش را حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از آستین خرقه می لاله گون برآر",
+      "CoupletIndex": 4
+    }
+  ]
+}

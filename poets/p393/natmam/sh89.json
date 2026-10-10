@@ -1,0 +1,66 @@
+{
+  "Id": 36240,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۸۹",
+  "FullUrl": "/p393/natmam/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمشیر ناز او ز سر من گذشته است\r\nتیر جفایش از جگر من گذشته است\r\nاز ماجرای گریهٔ هجران چه گویمت\r\nطوفان نوح از نظر من گذشته است\r\nاز خاک گشته است روان چشمه چشمه خون\r\nهر جا حدیث چشم تر من گذشته است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمشیر ناز او ز سر من گذشته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیر جفایش از جگر من گذشته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ماجرای گریهٔ هجران چه گویمت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طوفان نوح از نظر من گذشته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از خاک گشته است روان چشمه چشمه خون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر جا حدیث چشم تر من گذشته است",
+      "CoupletIndex": 2
+    }
+  ]
+}

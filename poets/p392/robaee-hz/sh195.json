@@ -1,0 +1,57 @@
+{
+  "Id": 34590,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۹۵",
+  "FullUrl": "/p392/robaee-hz/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بار خودی افکنم، سبکتاز روم\r\nتا سایهٔ آن سرو سرافراز روم\r\nسود از سفر خود نبود امّیدم\r\nجز این که ره آمده را باز روم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بار خودی افکنم، سبکتاز روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا سایهٔ آن سرو سرافراز روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سود از سفر خود نبود امّیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز این که ره آمده را باز روم",
+      "CoupletIndex": 1
+    }
+  ]
+}

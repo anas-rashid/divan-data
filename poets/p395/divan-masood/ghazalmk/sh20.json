@@ -1,0 +1,105 @@
+{
+  "Id": 38414,
+  "CatId": 1133,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » غزلیات » شمارهٔ ۲۰",
+  "FullUrl": "/p395/divan-masood/ghazalmk/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghazalmk/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو مه روی نیکو برآراستی\r\nسیه زلف مشکین بپیراستی\r\nخرامان چو کبک دری از وثاق\r\nبرون آمدی بر زده آستی\r\nچو آراسته روی نیکوی خویش\r\nهمه مجلس شه بیاراستی\r\nرسیدی به کام دل خویشتن\r\nکه چون سرو از جای برخاستی\r\nبیاراستی چون چمن بزم را\r\nاگر خدمت شاه را خواستی\r\nجهاندار مسعود کز رای او\r\nپدیدار شد ملک را راستی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو مه روی نیکو برآراستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیه زلف مشکین بپیراستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرامان چو کبک دری از وثاق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برون آمدی بر زده آستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو آراسته روی نیکوی خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همه مجلس شه بیاراستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رسیدی به کام دل خویشتن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که چون سرو از جای برخاستی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بیاراستی چون چمن بزم را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر خدمت شاه را خواستی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جهاندار مسعود کز رای او",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پدیدار شد ملک را راستی",
+      "CoupletIndex": 5
+    }
+  ]
+}

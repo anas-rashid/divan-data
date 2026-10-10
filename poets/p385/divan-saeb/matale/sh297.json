@@ -1,0 +1,42 @@
+{
+  "Id": 26385,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۹۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۹۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر نه اشک مرادست بر گلو گیرد\r\nغبار خاطر من ماه را فرو گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر نه اشک مرادست بر گلو گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار خاطر من ماه را فرو گیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 21689,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۶۱۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۶۱۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2616",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2616",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یوسف ما در دل چه بر سر بازار بود\r\nاین گل از صبح ازل شیدایی دستار بود\r\nپیشطاق شهرت از شعر بلندم رتبه یافت\r\nاینچنین زلفی رخ این صفحه را در کار بود\r\nکوه و صحرا پر شد از آوازه زنجیر من\r\nپای صحرا گرد مجنون کی به این پرگار بود؟\r\nصائب این طرز سخن را از کجا آورده ای؟\r\nهر که را دیدیم داغ طرز این اشعار بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یوسف ما در دل چه بر سر بازار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این گل از صبح ازل شیدایی دستار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیشطاق شهرت از شعر بلندم رتبه یافت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینچنین زلفی رخ این صفحه را در کار بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کوه و صحرا پر شد از آوازه زنجیر من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پای صحرا گرد مجنون کی به این پرگار بود؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صائب این طرز سخن را از کجا آورده ای؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر که را دیدیم داغ طرز این اشعار بود",
+      "CoupletIndex": 3
+    }
+  ]
+}

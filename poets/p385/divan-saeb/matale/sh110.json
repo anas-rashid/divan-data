@@ -1,0 +1,42 @@
+{
+  "Id": 26198,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۱۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا دل از دستم شراب ارغوانی برده است\r\nخضر را پندارم آب زندگانی برده است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل از دستم شراب ارغوانی برده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خضر را پندارم آب زندگانی برده است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 27035,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh429",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh429",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردنکشی مکن که ضعیفان به آه سرد\r\nدیهیم نخوت از سر قیصر گرفته اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردنکشی مکن که ضعیفان به آه سرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیهیم نخوت از سر قیصر گرفته اند",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34891,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۳۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۳۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh232",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh232",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چمن، به سایه نشینان خرمی بگذار\r\nبیا به تربت ما، خاک بی غمی بگذار\r\nبه بانگ نالهٔ ما می توان خروشیدن\r\nبه بلبلان چمن، رسم همدمی بگذار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چمن، به سایه نشینان خرمی بگذار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیا به تربت ما، خاک بی غمی بگذار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به بانگ نالهٔ ما می توان خروشیدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بلبلان چمن، رسم همدمی بگذار",
+      "CoupletIndex": 1
+    }
+  ]
+}

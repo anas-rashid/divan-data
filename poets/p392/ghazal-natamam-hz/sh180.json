@@ -1,0 +1,81 @@
+{
+  "Id": 34839,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۸۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا زلف تو بر دوش و برم سایه فکن شد\r\nهر چاک دلم، جادهٔ صحرای ختن شد\r\nدیدهٔ بخت سیاهم چو گران خواب شود\r\nتیغ مژگان رسای تو سیه تاب شود\r\nسر تسلیم، پی سجدهٔ مستانه به خاک\r\nمی گذارم، اگر ابروی تو محراب شود\r\nمرا به خاک چو مژگان اشکبار شود\r\nکفن پر آب تر از ابر مایه دار شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا زلف تو بر دوش و برم سایه فکن شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چاک دلم، جادهٔ صحرای ختن شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدهٔ بخت سیاهم چو گران خواب شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغ مژگان رسای تو سیه تاب شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر تسلیم، پی سجدهٔ مستانه به خاک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می گذارم، اگر ابروی تو محراب شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرا به خاک چو مژگان اشکبار شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کفن پر آب تر از ابر مایه دار شود",
+      "CoupletIndex": 3
+    }
+  ]
+}

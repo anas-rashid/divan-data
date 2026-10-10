@@ -1,0 +1,57 @@
+{
+  "Id": 33329,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/p391/divan/robaee/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با چشم تو آن را که سر و کار بود\r\nدر مخمصهٔ عجب گرفتار بود\r\nاز یک نگهت جان به سلامت نبرد\r\nهر چند که دلداده جگردار بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با چشم تو آن را که سر و کار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مخمصهٔ عجب گرفتار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از یک نگهت جان به سلامت نبرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چند که دلداده جگردار بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

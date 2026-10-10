@@ -1,0 +1,57 @@
+{
+  "Id": 28145,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۲",
+  "FullUrl": "/p386/robaeeor/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیدم جایی که فتح باب آنجا بود \r\nمنزل گه آرام و شباب آنجا بود\r\nباز نظر و منع نقاب آنجا بود\r\nخفاش آنجا و آفتاب آنجا بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدم جایی که فتح باب آنجا بود ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منزل گه آرام و شباب آنجا بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باز نظر و منع نقاب آنجا بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خفاش آنجا و آفتاب آنجا بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37644,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۳۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh130",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh130",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون موج سیاه روی هامون گیرد\r\nاز خنجر تو روی زمین خون گیرد\r\nبس شیر نگر که شیر پرخون گیرد\r\nشیر علم تو شیر گردون گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون موج سیاه روی هامون گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خنجر تو روی زمین خون گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس شیر نگر که شیر پرخون گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیر علم تو شیر گردون گیرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

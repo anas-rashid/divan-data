@@ -1,0 +1,66 @@
+{
+  "Id": 36424,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۷۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۷۳",
+  "FullUrl": "/p393/natmam/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سخت بیمار ز هجران شده‌ام\r\nتختهٔ مشق طبیبان شده‌ام\r\nجامهٔ صبر سراپا شده چاک\r\nبه غمت دست و گریبان شده‌ام\r\nعشق از بس که گدازم داد است\r\nقطره‌ای بودم و طوفان شده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سخت بیمار ز هجران شده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تختهٔ مشق طبیبان شده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جامهٔ صبر سراپا شده چاک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به غمت دست و گریبان شده‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق از بس که گدازم داد است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "قطره‌ای بودم و طوفان شده‌ام",
+      "CoupletIndex": 2
+    }
+  ]
+}

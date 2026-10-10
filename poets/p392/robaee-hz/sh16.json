@@ -1,0 +1,57 @@
+{
+  "Id": 34411,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۶",
+  "FullUrl": "/p392/robaee-hz/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خورشید، علم به کوهساران زد و رفت\r\nدلدار، در امیدواران زد و رفت\r\nبلبل، دستان نوبهاران زد و رفت\r\nگل، خنده به وضع روزگاران زد و رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید، علم به کوهساران زد و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلدار، در امیدواران زد و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبل، دستان نوبهاران زد و رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گل، خنده به وضع روزگاران زد و رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18790,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۵۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۵۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1259",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1259",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دست کرم ز رشتهٔ تسبیح برده‌ایم\r\nروزی نمی‌رود که به صد دل نمی‌رسیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست کرم ز رشتهٔ تسبیح برده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزی نمی‌رود که به صد دل نمی‌رسیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

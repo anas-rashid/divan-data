@@ -1,0 +1,42 @@
+{
+  "Id": 26511,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۲۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۲۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh423",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh423",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با خود پرداز از منزل طرازی\r\nکه خودسازی به است از خانه سازی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خود پرداز از منزل طرازی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خودسازی به است از خانه سازی",
+      "CoupletIndex": 0
+    }
+  ]
+}

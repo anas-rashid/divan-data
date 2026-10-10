@@ -1,0 +1,93 @@
+{
+  "Id": 33777,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۵۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۵۰",
+  "FullUrl": "/p392/ghazal-hz/sh350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رخ تو رونق صبح بهار می شکند\r\nکرشمه تو، دل روزگار می شکند\r\nغرور گریهٔ دریا مدار مستی ما\r\nپیاله بر سر ابر بهار می شکند\r\nهلاک غمزه آن ترک می پرست شوم\r\nکه دشنه در جگر روزگار می شکند\r\nبه بزم وصل تو، پیمانه را به سنگ زنم\r\nکه رنگ آل تو، پشت خمار می شکند\r\nحزین شکستی اگر آیدت شگفت مدار\r\nکه آسمان، گهر آبدار می شکند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخ تو رونق صبح بهار می شکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرشمه تو، دل روزگار می شکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غرور گریهٔ دریا مدار مستی ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیاله بر سر ابر بهار می شکند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هلاک غمزه آن ترک می پرست شوم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که دشنه در جگر روزگار می شکند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به بزم وصل تو، پیمانه را به سنگ زنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که رنگ آل تو، پشت خمار می شکند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین شکستی اگر آیدت شگفت مدار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که آسمان، گهر آبدار می شکند",
+      "CoupletIndex": 4
+    }
+  ]
+}

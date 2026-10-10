@@ -1,0 +1,42 @@
+{
+  "Id": 26367,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۷۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۷۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh279",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh279",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طفل محبوبم اگر رخ ز شراب افروزد\r\nشمع امید من از عالم آب افروزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طفل محبوبم اگر رخ ز شراب افروزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع امید من از عالم آب افروزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

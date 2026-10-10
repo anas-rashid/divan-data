@@ -1,0 +1,69 @@
+{
+  "Id": 26689,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۸۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که چشم رغبت از نظاره مرغوب بست\r\nبر دل آسوده راه یک جهان آشوب بست\r\nاز زلیخای هوس بگریز کاین بی آبرو\r\nتهمت آلودگی بر دامن محبوب بست\r\nگفتم از دنیا فشانم دست در پایان عمر\r\nحرص پیری از عصا دست مرا بر چوب بست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که چشم رغبت از نظاره مرغوب بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر دل آسوده راه یک جهان آشوب بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از زلیخای هوس بگریز کاین بی آبرو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تهمت آلودگی بر دامن محبوب بست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتم از دنیا فشانم دست در پایان عمر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حرص پیری از عصا دست مرا بر چوب بست",
+      "CoupletIndex": 2
+    }
+  ]
+}

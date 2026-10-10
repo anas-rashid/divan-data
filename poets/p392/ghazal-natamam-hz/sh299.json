@@ -1,0 +1,57 @@
+{
+  "Id": 34958,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh299",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh299",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دنبال خرام آن پری رو\r\nرمیدن می رود از یاد آهو\r\nبود ادبار دنیا، به ز اقبال\r\nقفای زشت، باشد خوشتر از رو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دنبال خرام آن پری رو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رمیدن می رود از یاد آهو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بود ادبار دنیا، به ز اقبال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قفای زشت، باشد خوشتر از رو",
+      "CoupletIndex": 1
+    }
+  ]
+}

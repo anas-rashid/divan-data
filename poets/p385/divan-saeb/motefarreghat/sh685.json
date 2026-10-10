@@ -1,0 +1,54 @@
+{
+  "Id": 27291,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۸۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۸۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh685",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh685",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر ز تیغ کند روزگار افسر تو\r\nبرون نمی رود این باد نخوت از سر تو\r\nز سرکشی تو نبینی به زیر پا، ورنه\r\nبه لای نفی بنا کرده اند پیکر تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر ز تیغ کند روزگار افسر تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برون نمی رود این باد نخوت از سر تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز سرکشی تو نبینی به زیر پا، ورنه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به لای نفی بنا کرده اند پیکر تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

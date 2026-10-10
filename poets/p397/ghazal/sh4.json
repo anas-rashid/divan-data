@@ -1,0 +1,93 @@
+{
+  "Id": 38781,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۴",
+  "FullUrl": "/p397/ghazal/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست کس محرم که پیغامم رساند یار را\r\nوز حقیقت حال ما آگه کند دلدار را\r\nکین ستم بیحد مکن، ظالم مشو ای جان من!\r\nای بی گنه مارا مکش، خنجر مزن بیمار را\r\nبا بیکسان خود مشفقی، بر بیدلان قاهر شدی\r\nبرما چرا ظالم شدی، برقع مکن رُخسار را\r\nدردی که دارم در دلی، آن را تو دانی مرهمی\r\nیا طبیب العاشقان! دارو بده بیمار را\r\nمسکین غریب بی‌نوا، باری ز تو جوید جفا\r\nبهر خدا درمان بده این عاشق غمخوار را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست کس محرم که پیغامم رساند یار را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز حقیقت حال ما آگه کند دلدار را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کین ستم بیحد مکن، ظالم مشو ای جان من!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای بی گنه مارا مکش، خنجر مزن بیمار را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با بیکسان خود مشفقی، بر بیدلان قاهر شدی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برما چرا ظالم شدی، برقع مکن رُخسار را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دردی که دارم در دلی، آن را تو دانی مرهمی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یا طبیب العاشقان! دارو بده بیمار را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مسکین غریب بی‌نوا، باری ز تو جوید جفا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بهر خدا درمان بده این عاشق غمخوار را",
+      "CoupletIndex": 4
+    }
+  ]
+}

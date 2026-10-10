@@ -1,0 +1,57 @@
+{
+  "Id": 27204,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۹۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۹۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh598",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh598",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ختم است بر خرام تو راه نظر زدن\r\nچون آه صبحگاه به قلب جگر زدن\r\nدر خامشی گریز ز گفتار، زان که هست\r\nآن گل به جیب ریختن، این گل به سر زدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ختم است بر خرام تو راه نظر زدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون آه صبحگاه به قلب جگر زدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خامشی گریز ز گفتار، زان که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن گل به جیب ریختن، این گل به سر زدن",
+      "CoupletIndex": 1
+    }
+  ]
+}

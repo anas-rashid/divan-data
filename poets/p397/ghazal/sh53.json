@@ -1,0 +1,93 @@
+{
+  "Id": 38830,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۵۳",
+  "FullUrl": "/p397/ghazal/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خدایا کن تو بر من مهربانی\r\nکه جز تو نیست دردم را، تو دانی\r\nفتادم کوی تو بیمار عشقت\r\nمداوا کن طبیبا نبض دانی\r\nندیدم در جهان جز تو طبیبی\r\nطبیبا! حاذقا! دردم تو دانی\r\nزدرد دل بسی آه است و ناله\r\nزشوق جان ضمیرم را تو دانی\r\nکه داند جز تو حال درد مندان\r\nیقین دانی تو حال یار جانی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خدایا کن تو بر من مهربانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که جز تو نیست دردم را، تو دانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فتادم کوی تو بیمار عشقت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مداوا کن طبیبا نبض دانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ندیدم در جهان جز تو طبیبی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طبیبا! حاذقا! دردم تو دانی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زدرد دل بسی آه است و ناله",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زشوق جان ضمیرم را تو دانی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "که داند جز تو حال درد مندان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یقین دانی تو حال یار جانی",
+      "CoupletIndex": 4
+    }
+  ]
+}

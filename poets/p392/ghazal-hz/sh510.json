@@ -1,0 +1,93 @@
+{
+  "Id": 33937,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۱۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۱۰",
+  "FullUrl": "/p392/ghazal-hz/sh510",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh510",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عیش ار به دل آبله ناکم گذرانند\r\nخون مژه از دامن پاکم گذرانند\r\nناگفته بدانند که از دست غم کیست\r\nاز حشر چو با سینهٔ چاکم گذرانند\r\nارواح به خاکم همه سایند جبین را\r\nاز کوی تو گر بعد هلاکم گذرانند\r\nهشیار به هنگامهٔ محشر نتوان رفت\r\nای کاش که از سایهٔ تاکم گذرانند\r\nریزم به رهش بار دگر جان حزین را\r\nگر آن سگ کو، بر سر خاکم گذرانند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عیش ار به دل آبله ناکم گذرانند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون مژه از دامن پاکم گذرانند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناگفته بدانند که از دست غم کیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از حشر چو با سینهٔ چاکم گذرانند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ارواح به خاکم همه سایند جبین را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از کوی تو گر بعد هلاکم گذرانند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هشیار به هنگامهٔ محشر نتوان رفت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای کاش که از سایهٔ تاکم گذرانند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ریزم به رهش بار دگر جان حزین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر آن سگ کو، بر سر خاکم گذرانند",
+      "CoupletIndex": 4
+    }
+  ]
+}

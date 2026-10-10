@@ -1,0 +1,57 @@
+{
+  "Id": 28151,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۸",
+  "FullUrl": "/p386/robaeeor/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا رنگ من از شراب رهبان کردند\r\nبی رنگی ام آبروی ایمان کردند\r\nصوفی بت هستیم به صد پاره شکست\r\nدردا که تعلقم پریشان کردند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا رنگ من از شراب رهبان کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی رنگی ام آبروی ایمان کردند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صوفی بت هستیم به صد پاره شکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردا که تعلقم پریشان کردند",
+      "CoupletIndex": 1
+    }
+  ]
+}

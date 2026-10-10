@@ -1,0 +1,42 @@
+{
+  "Id": 37469,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۸۴",
+  "FullUrl": "/p394/ghazal/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خمار صاف از درد بهر تو کرد می را\r\nآورد شوق لعلت بیرون ز پرده می را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خمار صاف از درد بهر تو کرد می را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آورد شوق لعلت بیرون ز پرده می را",
+      "CoupletIndex": 0
+    }
+  ]
+}

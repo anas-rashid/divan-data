@@ -1,0 +1,42 @@
+{
+  "Id": 27359,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۲۳",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عکس رخ تو آینه را چون نگار بست\r\nبر گرد شهر حسن ز آهن حصار بست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عکس رخ تو آینه را چون نگار بست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر گرد شهر حسن ز آهن حصار بست",
+      "CoupletIndex": 0
+    }
+  ]
+}

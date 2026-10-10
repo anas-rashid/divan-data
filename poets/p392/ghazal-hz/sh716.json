@@ -1,0 +1,93 @@
+{
+  "Id": 34143,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۱۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۱۶",
+  "FullUrl": "/p392/ghazal-hz/sh716",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh716",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به خون خود چو گل آغشته دامن تا گریبانم\r\nبه چشم طفل طبعان گرچه از رنگین لباسانم\r\nکسی جز شانه خار از پای من بیرون نمی آرد\r\nدرین وادی ز بی غمخوارگی از سینه چاکانم\r\nندامت هرگز از عصیان نشد نفس مرا حاصل\r\nهمین در زندگی از آشنایی ها پشیمانم\r\nمیان عاشق و معشوق قاصد محرمی باید\r\nشکایت نامهٔ دل می برد رنگ پرافشانم\r\nحزین افسانه ام آید به طبع زاهدان سنگین\r\nبه گوش کعبه جویان ناله ناقوس رهبانم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به خون خود چو گل آغشته دامن تا گریبانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به چشم طفل طبعان گرچه از رنگین لباسانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کسی جز شانه خار از پای من بیرون نمی آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درین وادی ز بی غمخوارگی از سینه چاکانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ندامت هرگز از عصیان نشد نفس مرا حاصل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همین در زندگی از آشنایی ها پشیمانم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "میان عاشق و معشوق قاصد محرمی باید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شکایت نامهٔ دل می برد رنگ پرافشانم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین افسانه ام آید به طبع زاهدان سنگین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به گوش کعبه جویان ناله ناقوس رهبانم",
+      "CoupletIndex": 4
+    }
+  ]
+}

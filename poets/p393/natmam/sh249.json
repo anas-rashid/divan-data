@@ -1,0 +1,66 @@
+{
+  "Id": 36400,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۴۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۴۹",
+  "FullUrl": "/p393/natmam/sh249",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh249",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آه کز کوی او به در رفتم\r\nبا لب خشک و چشم تر رفتم\r\nز آمدورفت من چه می‌پرسی\r\nکه به پا آمدم به سر رفتم\r\nدر تماشای روی او از خویش\r\nشمع‌سان از ره نظر رفتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه کز کوی او به در رفتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با لب خشک و چشم تر رفتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آمدورفت من چه می‌پرسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که به پا آمدم به سر رفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در تماشای روی او از خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شمع‌سان از ره نظر رفتم",
+      "CoupletIndex": 2
+    }
+  ]
+}

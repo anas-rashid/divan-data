@@ -1,0 +1,93 @@
+{
+  "Id": 33655,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۲۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۲۸",
+  "FullUrl": "/p392/ghazal-hz/sh228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستان، شب غم رفت و سحرگاه فتوح است\r\nپیمانه بیارید که هنگام صبوح است\r\nپیمانه مگو، چشمه ی جان پرور خضر است\r\nدر بحر پُر آشوب جهان کشتی نوح است\r\nما مفتی عشقیم بکش باده، حلال است\r\nما ناصح اوییم، اگر توبه نصوح است\r\nافسرده دلان های، دماغی برسانید\r\nتا بلبله هم نغمه مرغان صبوح است\r\nاز کلک حزین زمزمه ی عشق بیاموز\r\nمطرب بزن این پرده که رامشگر روح است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستان، شب غم رفت و سحرگاه فتوح است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیمانه بیارید که هنگام صبوح است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیمانه مگو، چشمه ی جان پرور خضر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در بحر پُر آشوب جهان کشتی نوح است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما مفتی عشقیم بکش باده، حلال است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما ناصح اوییم، اگر توبه نصوح است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "افسرده دلان های، دماغی برسانید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا بلبله هم نغمه مرغان صبوح است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از کلک حزین زمزمه ی عشق بیاموز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مطرب بزن این پرده که رامشگر روح است",
+      "CoupletIndex": 4
+    }
+  ]
+}

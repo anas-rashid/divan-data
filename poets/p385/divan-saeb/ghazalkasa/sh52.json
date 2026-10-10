@@ -1,0 +1,93 @@
+{
+  "Id": 19125,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عِذارِ او بپوشان دیدهٔ امید را\r\nتکمه از شبنم مکن پیراهنِ خورشید را\r\nدر بهشتِ عافیت افتادم از بی حاصلی\r\nشد حصاری بی بری از سنگِ طفلان بید را\r\nنورِ معنی می‌درخشد از جبینِ لفظِ من\r\nبالِ خفاشی چه ستاری کند خورشید را\r\nجام را بهر تُنُک‌ظرفان به دور انداخته است\r\nهیچ حقّی نیست بر دریاکشان جمشید را\r\nچون دلِ شب می زنم صائب بر آهنگِ فغان\r\nمی‌کشانم بر زمین از آسمان ناهید را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عِذارِ او بپوشان دیدهٔ امید را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تکمه از شبنم مکن پیراهنِ خورشید را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در بهشتِ عافیت افتادم از بی حاصلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد حصاری بی بری از سنگِ طفلان بید را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نورِ معنی می‌درخشد از جبینِ لفظِ من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بالِ خفاشی چه ستاری کند خورشید را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جام را بهر تُنُک‌ظرفان به دور انداخته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هیچ حقّی نیست بر دریاکشان جمشید را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون دلِ شب می زنم صائب بر آهنگِ فغان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "می‌کشانم بر زمین از آسمان ناهید را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 36999,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۲۹۰",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۲۹۰",
+  "FullUrl": "/p393/mot/sh290",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh290",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هزار بار گذشتست از دلم تیرش\r\nهنوز در پی من هست چشم زهگیرش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار بار گذشتست از دلم تیرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنوز در پی من هست چشم زهگیرش",
+      "CoupletIndex": 0
+    }
+  ]
+}

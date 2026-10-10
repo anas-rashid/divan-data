@@ -1,0 +1,42 @@
+{
+  "Id": 26136,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیخودی فرش است در چشم و دل بی تاب ما\r\nچون ره خوابیده بیداری ندارد خواب ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیخودی فرش است در چشم و دل بی تاب ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون ره خوابیده بیداری ندارد خواب ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

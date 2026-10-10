@@ -1,0 +1,54 @@
+{
+  "Id": 37324,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۲",
+  "FullUrl": "/p393/robaee/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستوجب طعنهٔ دمادم ماییم\r\nشایان ملامت دو عالم ماییم\r\nسوزیم چراغ کعبه در بتخانه\r\nبدنام کن دودهٔ آدم ماییم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستوجب طعنهٔ دمادم ماییم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شایان ملامت دو عالم ماییم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوزیم چراغ کعبه در بتخانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدنام کن دودهٔ آدم ماییم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30771,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۱۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۱۴",
+  "FullUrl": "/p389/robghm/sh514",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh514",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی سخن معرفت انشا کردن؟\r\nوز چهره راز، پرده بالا کردن\r\nآن را که بود سینه پر از گوهر راز\r\nبی‌صرفه بود لب چو صدف واکردن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی سخن معرفت انشا کردن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز چهره راز، پرده بالا کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که بود سینه پر از گوهر راز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌صرفه بود لب چو صدف واکردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

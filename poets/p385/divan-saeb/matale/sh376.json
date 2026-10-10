@@ -1,0 +1,42 @@
+{
+  "Id": 26464,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۷۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۷۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh376",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh376",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمر گویی است سبک، قامت خم چوگانش\r\nکه به یک زخم برون می برد از میدانش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر گویی است سبک، قامت خم چوگانش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که به یک زخم برون می برد از میدانش",
+      "CoupletIndex": 0
+    }
+  ]
+}

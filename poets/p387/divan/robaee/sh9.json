@@ -1,0 +1,57 @@
+{
+  "Id": 28879,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/p387/divan/robaee/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با عقده غم خوشم که کام دلم اوست\r\nاینجاست که هر چه حل شود مشکلم اوست\r\nبی ناله دمی نیم که از خرمن عمر\r\nهر چیز بباد می دهد حاصلم اوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با عقده غم خوشم که کام دلم اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اینجاست که هر چه حل شود مشکلم اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ناله دمی نیم که از خرمن عمر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چیز بباد می دهد حاصلم اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

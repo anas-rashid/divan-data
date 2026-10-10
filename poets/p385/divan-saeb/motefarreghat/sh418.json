@@ -1,0 +1,57 @@
+{
+  "Id": 27024,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۱۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۱۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh418",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh418",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتار او غم از دل ناکام می برد\r\nاین قند سوده تلخی بادام می برد\r\nرعنا قدان باغ، برآورده تواند\r\nنام ترا نهال به اندام می برد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتار او غم از دل ناکام می برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این قند سوده تلخی بادام می برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رعنا قدان باغ، برآورده تواند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نام ترا نهال به اندام می برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

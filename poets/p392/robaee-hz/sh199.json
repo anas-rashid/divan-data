@@ -1,0 +1,57 @@
+{
+  "Id": 34594,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۹۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۹۹",
+  "FullUrl": "/p392/robaee-hz/sh199",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh199",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق تو کلیم طور سینای دلم\r\nداغت حشم سینهٔ صحرای دلم\r\nدردت که طبیب جان بی درد مباد\r\nدرمان غمم، مقصد اقصای دلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق تو کلیم طور سینای دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغت حشم سینهٔ صحرای دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دردت که طبیب جان بی درد مباد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درمان غمم، مقصد اقصای دلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

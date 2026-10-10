@@ -1,0 +1,93 @@
+{
+  "Id": 27703,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۹۵",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۹۵",
+  "FullUrl": "/p386/ghazalor/sh295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دوش از پیش نظر، چون غمش از دل برود\r\nچه کنم آه، که یک دم ز مقابل برود\r\nتا ابد ناوک کاری خورم و جان ندهم\r\nدشمنی گر نکند بخت، که قاتل برود\r\nچون رود غمزهٔ او تیغ زنان، از دنبال\r\nنیم بسمل عجبی نیست که بسمل برود\r\nبه وداع که مرا می بری ای دل، بگذار\r\nگر بمیرم من و جان از پی محمل برود\r\nننگ آن صید زبونم، که چو در صیدگهی\r\nبه غلط کشته شود، ننگ به قاتل برود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش از پیش نظر، چون غمش از دل برود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه کنم آه، که یک دم ز مقابل برود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا ابد ناوک کاری خورم و جان ندهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشمنی گر نکند بخت، که قاتل برود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون رود غمزهٔ او تیغ زنان، از دنبال",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نیم بسمل عجبی نیست که بسمل برود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به وداع که مرا می بری ای دل، بگذار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر بمیرم من و جان از پی محمل برود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ننگ آن صید زبونم، که چو در صیدگهی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به غلط کشته شود، ننگ به قاتل برود",
+      "CoupletIndex": 4
+    }
+  ]
+}

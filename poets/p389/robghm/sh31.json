@@ -1,0 +1,57 @@
+{
+  "Id": 30288,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/p389/robghm/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که بزرگ است خرد در همه باب\r\nآزاد برون رود ازین دیر خراب\r\nکوچک‌خردان به قید دنیا میرند\r\nاطفال روند دست و پا بسته به خواب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که بزرگ است خرد در همه باب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آزاد برون رود ازین دیر خراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوچک‌خردان به قید دنیا میرند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اطفال روند دست و پا بسته به خواب",
+      "CoupletIndex": 1
+    }
+  ]
+}

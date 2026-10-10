@@ -1,0 +1,57 @@
+{
+  "Id": 33343,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/p391/divan/robaee/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با تلخی ساز تا شود شیرین‌تر\r\nخونابهٔ دل خور که شوی رنگین‌تر\r\nاز پند چو رنجیدی اثر بخشد زود\r\nآری هر می که تلخ‌تر زورین‌تر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با تلخی ساز تا شود شیرین‌تر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونابهٔ دل خور که شوی رنگین‌تر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پند چو رنجیدی اثر بخشد زود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری هر می که تلخ‌تر زورین‌تر",
+      "CoupletIndex": 1
+    }
+  ]
+}

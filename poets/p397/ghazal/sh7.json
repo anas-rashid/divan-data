@@ -1,0 +1,93 @@
+{
+  "Id": 38784,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۷",
+  "FullUrl": "/p397/ghazal/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کارها این مشکل است این کارها\r\nزارها باید دل خود زارها\r\nتا زمین دل نگردد لایقش\r\nکی برآید از گلی گلزارها\r\nدل ز دستم رفت جانم شد خراب\r\nتار زلفش چونکه دیدم مارها\r\nبر مراد کس نه گردد هیچ چیز\r\nتا چه سازند عاشقان بیچارها\r\nیار باید جان فدا خود کرد نیست\r\nغیر جان دادن ندیدم چارها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کارها این مشکل است این کارها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زارها باید دل خود زارها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا زمین دل نگردد لایقش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی برآید از گلی گلزارها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل ز دستم رفت جانم شد خراب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تار زلفش چونکه دیدم مارها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر مراد کس نه گردد هیچ چیز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا چه سازند عاشقان بیچارها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یار باید جان فدا خود کرد نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غیر جان دادن ندیدم چارها",
+      "CoupletIndex": 4
+    }
+  ]
+}

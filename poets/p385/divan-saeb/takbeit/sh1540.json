@@ -1,0 +1,45 @@
+{
+  "Id": 19071,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۴۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۴۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1540",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1540",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان در خانهٔ آیینه محو دیدن خویشی\r\nکه گر عالم شود زیر و زبر بیرون نمی‌آیی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان در خانهٔ آیینه محو دیدن خویشی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که گر عالم شود زیر و زبر بیرون نمی‌آیی",
+      "CoupletIndex": 0
+    }
+  ]
+}

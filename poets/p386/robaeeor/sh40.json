@@ -1,0 +1,57 @@
+{
+  "Id": 28083,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۰",
+  "FullUrl": "/p386/robaeeor/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیراز که دریای معانی گذر است\r\nیکتا گهرش عرفی صاحب نظر است\r\nبس کز دو طرف ماه وشان می گذرند\r\nهر کوچهٔ او شبیه شق قمر است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیراز که دریای معانی گذر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکتا گهرش عرفی صاحب نظر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بس کز دو طرف ماه وشان می گذرند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کوچهٔ او شبیه شق قمر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

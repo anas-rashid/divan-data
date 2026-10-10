@@ -1,0 +1,42 @@
+{
+  "Id": 26124,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می شوم گل، در گریبان خار می افتد مرا\r\nغنچه می گردم، گره در کار می افتد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می شوم گل، در گریبان خار می افتد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه می گردم، گره در کار می افتد مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

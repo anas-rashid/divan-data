@@ -1,0 +1,57 @@
+{
+  "Id": 30827,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۷۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۷۰",
+  "FullUrl": "/p389/robghm/sh570",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh570",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مرکز نه سپهر اعظم بازآی\r\nای روشنی دیده عالم بازآی\r\nچون لعل به کان، چو در به دریا برگرد\r\nاز لب چو نفس به سینه در دم بازآی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرکز نه سپهر اعظم بازآی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای روشنی دیده عالم بازآی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون لعل به کان، چو در به دریا برگرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از لب چو نفس به سینه در دم بازآی",
+      "CoupletIndex": 1
+    }
+  ]
+}

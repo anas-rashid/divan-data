@@ -1,0 +1,57 @@
+{
+  "Id": 28873,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/p387/divan/robaee/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیرینم و مغز سخنانم تلخ است\r\nعیش همه عالم از زبانم تلخ است\r\nمنهم از خویش در عذابم که مدام\r\nاز گفتن حرف حق دهانم تلخ است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیرینم و مغز سخنانم تلخ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عیش همه عالم از زبانم تلخ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "منهم از خویش در عذابم که مدام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از گفتن حرف حق دهانم تلخ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 33068,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۷۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۷۶",
+  "FullUrl": "/p391/divan/ghazal/sh976",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh976",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا نهاد آن آفتاب شعله خو پا در چمن\r\nهمچو بوی گل ز هم پاشید دل‌ها در چمن\r\nتا کدامین لعل میگونش به رقص آورده است\r\nجلوهٔ طاووس دارد سرو مینا در چمن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا نهاد آن آفتاب شعله خو پا در چمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو بوی گل ز هم پاشید دل‌ها در چمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کدامین لعل میگونش به رقص آورده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جلوهٔ طاووس دارد سرو مینا در چمن",
+      "CoupletIndex": 1
+    }
+  ]
+}

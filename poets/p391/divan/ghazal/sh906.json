@@ -1,0 +1,54 @@
+{
+  "Id": 32998,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۰۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۰۶",
+  "FullUrl": "/p391/divan/ghazal/sh906",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh906",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان ز زشتی کردار خود خجل شده ام\r\nکه غرق آب و عرق گشته مشت گل شده ام\r\nچنان به خویش فرو رفته ام که پنداری\r\nچو غنچه گوی گریبان چاک دل شده ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان ز زشتی کردار خود خجل شده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که غرق آب و عرق گشته مشت گل شده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چنان به خویش فرو رفته ام که پنداری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو غنچه گوی گریبان چاک دل شده ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

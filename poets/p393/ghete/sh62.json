@@ -1,0 +1,54 @@
+{
+  "Id": 36542,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۶۲",
+  "FullUrl": "/p393/ghete/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هزار زخم توانم ز تیغ او برداشت\r\nولیک دل نتوانم ز آرزو برداشت\r\nبه باغ رفتی و قمری چنان اسیر تو شد\r\nکه طوق بندگی سرو از گلو برداشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار زخم توانم ز تیغ او برداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ولیک دل نتوانم ز آرزو برداشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به باغ رفتی و قمری چنان اسیر تو شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که طوق بندگی سرو از گلو برداشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

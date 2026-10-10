@@ -1,0 +1,45 @@
+{
+  "Id": 18673,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۴۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۴۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1142",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1142",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کمان بال و پر پرواز گردد تیر بی پر را\r\nدر آغوش وصال از بیم هجران بیش می‌لرزم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کمان بال و پر پرواز گردد تیر بی پر را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آغوش وصال از بیم هجران بیش می‌لرزم",
+      "CoupletIndex": 0
+    }
+  ]
+}

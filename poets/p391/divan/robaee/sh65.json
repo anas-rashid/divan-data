@@ -1,0 +1,57 @@
+{
+  "Id": 33336,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/p391/divan/robaee/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بدگوهری ار به نیکیت بسته کمر\r\nبیگانه از آن نکوئیش دان گوهر\r\nاز دیدهٔ عینک مطلب بینایی\r\nهر چند کند تقویت نور نظر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدگوهری ار به نیکیت بسته کمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه از آن نکوئیش دان گوهر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دیدهٔ عینک مطلب بینایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چند کند تقویت نور نظر",
+      "CoupletIndex": 1
+    }
+  ]
+}

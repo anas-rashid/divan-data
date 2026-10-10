@@ -1,0 +1,57 @@
+{
+  "Id": 27240,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۳۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۳۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh634",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh634",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز عشق بی مژه تر نمی توان بودن\r\nبهار بی می و ساغر نمی توان بودن\r\nدلم ز کنج قفس تا گرفت دانستم\r\nکه در بهشت، مکرر نمی توان بودن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز عشق بی مژه تر نمی توان بودن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهار بی می و ساغر نمی توان بودن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلم ز کنج قفس تا گرفت دانستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در بهشت، مکرر نمی توان بودن",
+      "CoupletIndex": 1
+    }
+  ]
+}

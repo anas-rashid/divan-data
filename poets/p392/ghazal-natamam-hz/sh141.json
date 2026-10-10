@@ -1,0 +1,54 @@
+{
+  "Id": 34800,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مریض زهد را آن روی آتشناک می‌سازد\r\nکه آتش خار را، از هستی خود پاک می‌سازد\r\nبه راهش با جفای ناکسان دارم شکیبایی\r\nکه بلبل تا گل آید، با خس و خاشاک می‌سازد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مریض زهد را آن روی آتشناک می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که آتش خار را، از هستی خود پاک می‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به راهش با جفای ناکسان دارم شکیبایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بلبل تا گل آید، با خس و خاشاک می‌سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

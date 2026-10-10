@@ -1,0 +1,93 @@
+{
+  "Id": 19836,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۷۶۳",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۷۶۳",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh763",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh763",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالم ختن شد از قلم مشکسود ما\r\nجای ترحم است به زخم حسود ما\r\nبرهان آدمیت ما، قدسیان بسند\r\nگو شعله زاده ای ننماید سجود ما\r\nخورشید از کدام افق سربرآورد؟\r\nآفاق پر شده است ز گفت و شنود ما\r\nخوردیم بس که سیلی اخوان روزگار\r\nنیلی شد آب چاه ز روی کبود ما\r\nصائب غنیمت است که در سنگلاخ دهر\r\nخندید بخت سبز به روی کبود ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم ختن شد از قلم مشکسود ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جای ترحم است به زخم حسود ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برهان آدمیت ما، قدسیان بسند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گو شعله زاده ای ننماید سجود ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خورشید از کدام افق سربرآورد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آفاق پر شده است ز گفت و شنود ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خوردیم بس که سیلی اخوان روزگار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیلی شد آب چاه ز روی کبود ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب غنیمت است که در سنگلاخ دهر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خندید بخت سبز به روی کبود ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

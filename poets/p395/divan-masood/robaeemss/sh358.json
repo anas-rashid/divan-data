@@ -1,0 +1,57 @@
+{
+  "Id": 37872,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۵۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۵۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh358",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh358",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز منم چو ماری اندر سله ای\r\nز آوازه من در این جهان ولوله ای\r\nبر من هر موی اگر شود سلسله ای\r\nاز چرخ فلک نکرد خواهم گله ای",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز منم چو ماری اندر سله ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آوازه من در این جهان ولوله ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر من هر موی اگر شود سلسله ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از چرخ فلک نکرد خواهم گله ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

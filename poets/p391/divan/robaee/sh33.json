@@ -1,0 +1,57 @@
+{
+  "Id": 33304,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۳",
+  "FullUrl": "/p391/divan/robaee/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب عینک چشم عارف آگاهست\r\nشب خضر ره تیره دل گمراهست\r\nبی ظلمت شب روشنی از مه مطلب\r\nتاریکی شب سرمهٔ چشم ماهست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب عینک چشم عارف آگاهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب خضر ره تیره دل گمراهست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی ظلمت شب روشنی از مه مطلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاریکی شب سرمهٔ چشم ماهست",
+      "CoupletIndex": 1
+    }
+  ]
+}

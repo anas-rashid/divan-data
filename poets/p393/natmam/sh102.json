@@ -1,0 +1,66 @@
+{
+  "Id": 36253,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۰۲",
+  "FullUrl": "/p393/natmam/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر به خار و خس آن گل قدح به‌ دست نشست\r\nمرا چو لاله به دل داغ ازین نشست نشست\r\nچو زلف تن ندهم با شکستگی چه کنم\r\nکه نقش من همه از دولت شکست نشست\r\nبه کنج فقر نیاید نشستن از همه‌کس\r\nکسی که عهد تو ای گل درست بست نشست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر به خار و خس آن گل قدح به‌ دست نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا چو لاله به دل داغ ازین نشست نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو زلف تن ندهم با شکستگی چه کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نقش من همه از دولت شکست نشست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به کنج فقر نیاید نشستن از همه‌کس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کسی که عهد تو ای گل درست بست نشست",
+      "CoupletIndex": 2
+    }
+  ]
+}

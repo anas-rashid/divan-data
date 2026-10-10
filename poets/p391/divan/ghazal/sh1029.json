@@ -1,0 +1,54 @@
+{
+  "Id": 33121,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۲۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۲۹",
+  "FullUrl": "/p391/divan/ghazal/sh1029",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1029",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دلم از گریه دایم سخت تر گردد گره\r\nمی شود محکم تر از اول چو تر گردد گره\r\nکارها از خوردن غم بیشتر افتد به بند\r\nهر قدر بر خویش پیچد بسته تر گردد گره",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دلم از گریه دایم سخت تر گردد گره",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می شود محکم تر از اول چو تر گردد گره",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارها از خوردن غم بیشتر افتد به بند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر قدر بر خویش پیچد بسته تر گردد گره",
+      "CoupletIndex": 1
+    }
+  ]
+}

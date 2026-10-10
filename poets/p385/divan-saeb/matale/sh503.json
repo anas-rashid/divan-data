@@ -1,0 +1,42 @@
+{
+  "Id": 26591,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۰۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۰۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh503",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh503",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز انفعال خرام تو آب گردد سرو\r\nز طوق فاخته پا در رکاب گردد سرو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز انفعال خرام تو آب گردد سرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز طوق فاخته پا در رکاب گردد سرو",
+      "CoupletIndex": 0
+    }
+  ]
+}

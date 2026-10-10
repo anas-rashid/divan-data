@@ -1,0 +1,54 @@
+{
+  "Id": 26751,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۴۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh145",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh145",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرو را از جلوه مستانه از جا می‌برد\r\nخنده او تلخ‌کامی را ز صهبا می‌برد\r\nقسمت سوداگر بیت‌الحزن دست تهی است\r\nصرفه سودای یوسف را زلیخا می‌برد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو را از جلوه مستانه از جا می‌برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خنده او تلخ‌کامی را ز صهبا می‌برد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قسمت سوداگر بیت‌الحزن دست تهی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صرفه سودای یوسف را زلیخا می‌برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26901,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۹۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۹۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh295",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh295",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل از شرم رخ او خون به روی خویشتن مالد\r\nزبان لاف را بر خاک، شمع انجمن مالد\r\nنیاید از لطافت در نظر آن پیکر سیمین\r\nمگر آن سرو سیم اندام صندل بر بدن مالد\r\nبه تهمت خوار گرداندن عزیزان را به آن ماند\r\nکه پیه گرگ، یوسف را کسی بر پیرهن مالد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل از شرم رخ او خون به روی خویشتن مالد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زبان لاف را بر خاک، شمع انجمن مالد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیاید از لطافت در نظر آن پیکر سیمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگر آن سرو سیم اندام صندل بر بدن مالد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به تهمت خوار گرداندن عزیزان را به آن ماند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که پیه گرگ، یوسف را کسی بر پیرهن مالد",
+      "CoupletIndex": 2
+    }
+  ]
+}

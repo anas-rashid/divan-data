@@ -1,0 +1,66 @@
+{
+  "Id": 36336,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۸۵",
+  "FullUrl": "/p393/natmam/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دامان من از شومی این چشم تر آلود\r\nشستن نکند سود که خواهد دگر آلود\r\nمعلوم شود بر تو جگرداریم امروز\r\nکز دیده فشانم دو سه اشک جگر آلود\r\nگفتی که ندارد اثر آه فلانی\r\nبنشین که کشم پیش تو آه اثر آلود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دامان من از شومی این چشم تر آلود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شستن نکند سود که خواهد دگر آلود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معلوم شود بر تو جگرداریم امروز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز دیده فشانم دو سه اشک جگر آلود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتی که ندارد اثر آه فلانی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بنشین که کشم پیش تو آه اثر آلود",
+      "CoupletIndex": 2
+    }
+  ]
+}

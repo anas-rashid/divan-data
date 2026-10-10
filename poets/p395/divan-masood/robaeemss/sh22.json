@@ -1,0 +1,57 @@
+{
+  "Id": 37536,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تفت این دل گرم از دم سردم همه شب\r\nشد سرخ ز خون چهره زردم همه شب\r\nصد شربت درد بیش خوردم همه شب\r\nایزد داند که من چه کردم همه شب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تفت این دل گرم از دم سردم همه شب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد سرخ ز خون چهره زردم همه شب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد شربت درد بیش خوردم همه شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایزد داند که من چه کردم همه شب",
+      "CoupletIndex": 1
+    }
+  ]
+}

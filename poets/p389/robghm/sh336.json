@@ -1,0 +1,57 @@
+{
+  "Id": 30593,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳۶",
+  "FullUrl": "/p389/robghm/sh336",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh336",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر سخت چو سنگ و نرم چون موم شود\r\nکی جاهل را ملال مفهوم شود\r\nآشفتگی طبع چه داند جاهل\r\nشب، تیرگی آب چه معلوم شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر سخت چو سنگ و نرم چون موم شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی جاهل را ملال مفهوم شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشفتگی طبع چه داند جاهل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب، تیرگی آب چه معلوم شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

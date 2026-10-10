@@ -1,0 +1,57 @@
+{
+  "Id": 29715,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p388/divan/robaee/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی بهر جهان نه بهر طاعت زادم\r\nدر کار نیم تا به چه حکمت زادم؟\r\nبالغ نشدم اگرچه صد بار فزون\r\nاز بطن موالید طبیعت زادم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی بهر جهان نه بهر طاعت زادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کار نیم تا به چه حکمت زادم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالغ نشدم اگرچه صد بار فزون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بطن موالید طبیعت زادم",
+      "CoupletIndex": 1
+    }
+  ]
+}

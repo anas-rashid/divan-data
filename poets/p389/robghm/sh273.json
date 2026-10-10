@@ -1,0 +1,57 @@
+{
+  "Id": 30530,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۷۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۷۳",
+  "FullUrl": "/p389/robghm/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون برق مباش دشمن کشتی چند\r\nچون زلزله، بند مگسل از خشتی چند\r\nخواهی بد کس را به کسی ننمایی\r\nآیینه مبر برابر زشتی چند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون برق مباش دشمن کشتی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون زلزله، بند مگسل از خشتی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهی بد کس را به کسی ننمایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه مبر برابر زشتی چند",
+      "CoupletIndex": 1
+    }
+  ]
+}

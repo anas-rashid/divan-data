@@ -1,0 +1,57 @@
+{
+  "Id": 30362,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۵",
+  "FullUrl": "/p389/robghm/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بدکار ز بیگانه و محرم خجل است\r\nهرکس که بدی نمی‌کند، کم خجل است\r\nآن کن که ز خود خجل نگردی هرگز\r\nکز خویش خجل، از همه عالم خجل است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدکار ز بیگانه و محرم خجل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکس که بدی نمی‌کند، کم خجل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن کن که ز خود خجل نگردی هرگز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خویش خجل، از همه عالم خجل است",
+      "CoupletIndex": 1
+    }
+  ]
+}

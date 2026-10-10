@@ -1,0 +1,57 @@
+{
+  "Id": 28904,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۴",
+  "FullUrl": "/p387/divan/robaee/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاهی که حمایت خدایش سپر است\r\nمایل به سپر نه بهر دفع ضرر است\r\nاز هیچ مصاف رو نمی گرداند\r\nمنظور شجاعتش ازین رهگذرست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاهی که حمایت خدایش سپر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مایل به سپر نه بهر دفع ضرر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هیچ مصاف رو نمی گرداند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منظور شجاعتش ازین رهگذرست",
+      "CoupletIndex": 1
+    }
+  ]
+}

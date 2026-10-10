@@ -1,0 +1,57 @@
+{
+  "Id": 33345,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/p391/divan/robaee/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای روی تو آفتاب در چشم تمیز\r\nوی زلف سیاه تو بود عنبر بیز\r\nعمرت گویم ولی از این می‌ترسم\r\nکز نسبت او تو بی‌وفا گردی نیز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای روی تو آفتاب در چشم تمیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی زلف سیاه تو بود عنبر بیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمرت گویم ولی از این می‌ترسم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز نسبت او تو بی‌وفا گردی نیز",
+      "CoupletIndex": 1
+    }
+  ]
+}

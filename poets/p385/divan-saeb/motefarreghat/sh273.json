@@ -1,0 +1,57 @@
+{
+  "Id": 26879,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh273",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh273",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به درویش از تهیدستی گوارا مرگ می گردد\r\nخزان فصل بهار مردم بی برگ می گردد\r\nچراغی را که روغن می کشد دودی نمی باشد\r\nندارد آه حسرت هر که شادی مرگ می گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به درویش از تهیدستی گوارا مرگ می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خزان فصل بهار مردم بی برگ می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چراغی را که روغن می کشد دودی نمی باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ندارد آه حسرت هر که شادی مرگ می گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

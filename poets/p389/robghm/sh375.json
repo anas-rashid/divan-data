@@ -1,0 +1,57 @@
+{
+  "Id": 30632,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۷۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۷۵",
+  "FullUrl": "/p389/robghm/sh375",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh375",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از قدر هنر، بی‌هنران را چه خبر؟\r\nنیکو نبود نفی هنر ز اهل هنر\r\nمقدار سخن، سخن‌شناسان دانند\r\nپوشیده مباد از گوهرسنج، گوهر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از قدر هنر، بی‌هنران را چه خبر؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیکو نبود نفی هنر ز اهل هنر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مقدار سخن، سخن‌شناسان دانند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پوشیده مباد از گوهرسنج، گوهر",
+      "CoupletIndex": 1
+    }
+  ]
+}

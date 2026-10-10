@@ -1,0 +1,81 @@
+{
+  "Id": 26999,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh393",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh393",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا چند رخ ز باده کسی لاله گون کند؟\r\nتا کی کسی شناه به دریای خون کند؟\r\nهر کس ز عشق سایه دستی گرفته است\r\nچون تیشه دست در کمر بیستون کند\r\nروزی که چرخ پنبه گذارد به داغ ما\r\nخورشید سر ز روزن مغرب برون کند\r\nاول شکار لاغر آن صید پیشه ایم\r\nما را مگر شهید برای شگون کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا چند رخ ز باده کسی لاله گون کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کی کسی شناه به دریای خون کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کس ز عشق سایه دستی گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون تیشه دست در کمر بیستون کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روزی که چرخ پنبه گذارد به داغ ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خورشید سر ز روزن مغرب برون کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اول شکار لاغر آن صید پیشه ایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما را مگر شهید برای شگون کند",
+      "CoupletIndex": 3
+    }
+  ]
+}

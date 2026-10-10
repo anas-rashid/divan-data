@@ -1,0 +1,69 @@
+{
+  "Id": 30921,
+  "CatId": 1087,
+  "Title": "شمارهٔ ۱۳ - در توصیف باغ الهی",
+  "FullTitle": "قدسی مشہدی » مثنوی‌ها » شمارهٔ ۱۳ - در توصیف باغ الهی",
+  "FullUrl": "/p389/masnavigm/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/masnavigm/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بود باغ جنان باغ الهی\r\nبچین زو کام دل چندان که خواهی\r\nبنای این چمن چون می‌نهادند\r\nدر فیض الهی را گشادند\r\nاگر خواهی که رضوان را کنی داغ\r\nتلاش باغبانی کن درین باغ",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بود باغ جنان باغ الهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بچین زو کام دل چندان که خواهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنای این چمن چون می‌نهادند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در فیض الهی را گشادند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر خواهی که رضوان را کنی داغ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تلاش باغبانی کن درین باغ",
+      "CoupletIndex": 2
+    }
+  ]
+}

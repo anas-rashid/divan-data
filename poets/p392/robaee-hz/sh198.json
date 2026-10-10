@@ -1,0 +1,57 @@
+{
+  "Id": 34593,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۹۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۹۸",
+  "FullUrl": "/p392/robaee-hz/sh198",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh198",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یارای زبان کو که ثنای تو کنیم؟\r\nتوصیف کمال کبریای تو کنیم؟\r\nچیزی به بساط ما تهیدستان نیست\r\nجانی که تو داده ای فدای تو کنیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارای زبان کو که ثنای تو کنیم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توصیف کمال کبریای تو کنیم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چیزی به بساط ما تهیدستان نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانی که تو داده ای فدای تو کنیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36322,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۷۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۷۱",
+  "FullUrl": "/p393/natmam/sh171",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh171",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغت بس از فنا به مزارم بهار کرد\r\nچندان که مشت خاک مرا لاله‌زار کرد\r\nگفتی که بعد ازین نزنم تیر خود به غیر\r\nحرفی که گفته‌ای به دل بنده کار کرد\r\nزلف تو گشت درهم و برهم چو خط رسید\r\nاین شور مور بین چه‌قدر تارومار کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغت بس از فنا به مزارم بهار کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چندان که مشت خاک مرا لاله‌زار کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که بعد ازین نزنم تیر خود به غیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حرفی که گفته‌ای به دل بنده کار کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زلف تو گشت درهم و برهم چو خط رسید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این شور مور بین چه‌قدر تارومار کرد",
+      "CoupletIndex": 2
+    }
+  ]
+}

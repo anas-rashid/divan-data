@@ -1,0 +1,69 @@
+{
+  "Id": 30252,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۴",
+  "FullUrl": "/p389/mmgh/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر صبا را ره نبودی در گلستان کسی\r\nاینقدر بر بلبلان کی سوختی جان کسی؟\r\nپای چون محکم کنم در بزم سرگرمان عشق؟\r\nگر نخیزد شعله چون شمع از گریبان کسی\r\nقدسی از جود کریمان شرم می‌آید مرا\r\nدست بی‌شرمی نخواهم زد به دامان کسی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر صبا را ره نبودی در گلستان کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اینقدر بر بلبلان کی سوختی جان کسی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پای چون محکم کنم در بزم سرگرمان عشق؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر نخیزد شعله چون شمع از گریبان کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "قدسی از جود کریمان شرم می‌آید مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دست بی‌شرمی نخواهم زد به دامان کسی",
+      "CoupletIndex": 2
+    }
+  ]
+}

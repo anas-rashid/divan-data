@@ -1,0 +1,57 @@
+{
+  "Id": 34536,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۴۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۴۱",
+  "FullUrl": "/p392/robaee-hz/sh141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی پا و سران که هرزه گردی دارند\r\nبر مرکب وهم، ره نوردی دارند\r\nنقشی ز عیار قلبشان کس نزند\r\nاز سکهٔ زر، سکهٔ مردی دارند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی پا و سران که هرزه گردی دارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر مرکب وهم، ره نوردی دارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نقشی ز عیار قلبشان کس نزند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سکهٔ زر، سکهٔ مردی دارند",
+      "CoupletIndex": 1
+    }
+  ]
+}

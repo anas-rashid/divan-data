@@ -1,0 +1,66 @@
+{
+  "Id": 36242,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۱",
+  "FullUrl": "/p393/natmam/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اضطراب عشق در کارم فتور انداخت است\r\nدل‌طپیدن‌ها مرا از یار دور انداخت است\r\nپای رفتن از حریم یار عاشق را کجاست\r\nگریه از کوی توام بیرون به زور انداخت است\r\nروشنم شد کز نمکدان تو گجردی برده است\r\nصبح کز یک خنده در آفاق شور انداخت است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اضطراب عشق در کارم فتور انداخت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل‌طپیدن‌ها مرا از یار دور انداخت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پای رفتن از حریم یار عاشق را کجاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گریه از کوی توام بیرون به زور انداخت است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روشنم شد کز نمکدان تو گجردی برده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صبح کز یک خنده در آفاق شور انداخت است",
+      "CoupletIndex": 2
+    }
+  ]
+}

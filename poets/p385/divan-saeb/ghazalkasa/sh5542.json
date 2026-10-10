@@ -1,0 +1,81 @@
+{
+  "Id": 24615,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۵۴۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۵۴۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5542",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5542",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دم گرمی طمع از ناله های آتشین دارم\r\nکه مشکل عقده ها در پیش از آن چین جبین دارم\r\nمکن گستاخ سیر گلستانش ای تماشایی\r\nکه در هر رخنه دیوار آهی در کمین دارم\r\nدمی صد بار در اشک را بر چشم می مالم\r\nتهیدستم، چه سازم یادگار دل همین دارم\r\nز من دارند ابر و برق، سوز و گریه را صائب\r\nبه این بی حاصلی هر گوشه ای صد خوشه چین دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دم گرمی طمع از ناله های آتشین دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مشکل عقده ها در پیش از آن چین جبین دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مکن گستاخ سیر گلستانش ای تماشایی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در هر رخنه دیوار آهی در کمین دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دمی صد بار در اشک را بر چشم می مالم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تهیدستم، چه سازم یادگار دل همین دارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز من دارند ابر و برق، سوز و گریه را صائب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به این بی حاصلی هر گوشه ای صد خوشه چین دارم",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30393,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۶",
+  "FullUrl": "/p389/robghm/sh136",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh136",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زاهد گوید کلامم از دفتر توست\r\nصوفی گوید مستی‌ام از ساغر توست\r\nهر قوم که هست، بازگشتش بر توست\r\nهر سو که رود قافله، منزل در توست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهد گوید کلامم از دفتر توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صوفی گوید مستی‌ام از ساغر توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر قوم که هست، بازگشتش بر توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سو که رود قافله، منزل در توست",
+      "CoupletIndex": 1
+    }
+  ]
+}

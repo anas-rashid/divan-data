@@ -1,0 +1,93 @@
+{
+  "Id": 30058,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۱۰",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۱۰",
+  "FullUrl": "/p389/ghazalgm/sh310",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh310",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردم از غیرت، جدا از صحبت اغیار باش\r\nچند روزی هم به رغم غیر، با ما یار باش\r\nبزم مارا همچو شمع از نور عارض برفروز\r\nغیر هم گو امشبی حسرت‌کش دیدار باش\r\nمن نمی‌خواهم وصالی را که هجرش در پی است\r\nدیده گو خونابه ریز و سینه گو افگار باش\r\nاز سر کویت به ناکامی ز رشک مدعی\r\nهرچه باداباد خواهم رفت گو دشوار باش\r\nچند قدسی از می عصیان کشی رطل گران؟\r\nلحظه‌ای هم جرعه‌نوش جام استغفار باش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردم از غیرت، جدا از صحبت اغیار باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چند روزی هم به رغم غیر، با ما یار باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بزم مارا همچو شمع از نور عارض برفروز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر هم گو امشبی حسرت‌کش دیدار باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "من نمی‌خواهم وصالی را که هجرش در پی است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دیده گو خونابه ریز و سینه گو افگار باش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از سر کویت به ناکامی ز رشک مدعی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرچه باداباد خواهم رفت گو دشوار باش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چند قدسی از می عصیان کشی رطل گران؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لحظه‌ای هم جرعه‌نوش جام استغفار باش",
+      "CoupletIndex": 4
+    }
+  ]
+}

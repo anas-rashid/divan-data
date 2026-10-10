@@ -1,0 +1,57 @@
+{
+  "Id": 33309,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۳۸",
+  "FullUrl": "/p391/divan/robaee/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای زنده جهانیان ز فیض نِعَمت\r\nبسیار بود به خلق احسان کمت\r\nباشد کشت امید ما تشنه لبان\r\nسرسبز ز یک قطرهٔ ابر کرمت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زنده جهانیان ز فیض نِعَمت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسیار بود به خلق احسان کمت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد کشت امید ما تشنه لبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرسبز ز یک قطرهٔ ابر کرمت",
+      "CoupletIndex": 1
+    }
+  ]
+}

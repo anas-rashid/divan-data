@@ -1,0 +1,57 @@
+{
+  "Id": 26918,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۱۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۱۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh312",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh312",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن که چشمان ترا نشأه بیهوشی داد\r\nمستمندان ترا ذوق جگرنوشی داد\r\nلب فرو بستنم از ناله ز بی دردی نیست\r\nنفس سوخته ام سرمه خاموشی داد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن که چشمان ترا نشأه بیهوشی داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستمندان ترا ذوق جگرنوشی داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب فرو بستنم از ناله ز بی دردی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نفس سوخته ام سرمه خاموشی داد",
+      "CoupletIndex": 1
+    }
+  ]
+}

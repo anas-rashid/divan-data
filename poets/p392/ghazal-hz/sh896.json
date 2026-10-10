@@ -1,0 +1,93 @@
+{
+  "Id": 34323,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸۹۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸۹۶",
+  "FullUrl": "/p392/ghazal-hz/sh896",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh896",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درد دل گفتمی، ار همنفسی داشتمی\r\nکردمی شکوه، اگر دادرسی داشتمی\r\nرخنه های دلم از گرد کدورت شده پر\r\nیاد آن روز، که چاک قفسی داشتمی\r\nچه کنم؟ جور تو خاکستر دل داد به باد\r\nپاس این سوختهٔ عشق، بسی داشتمی\r\nتنگ می کرد به من، گوشه ی تنهایی را\r\nوای اگر در همه آفاق کسی داشتمی\r\nسخت آزرده ام از خاطر افسرده، حزین\r\nکاش اگر عشق نبودی، هوسی داشتمی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد دل گفتمی، ار همنفسی داشتمی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کردمی شکوه، اگر دادرسی داشتمی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رخنه های دلم از گرد کدورت شده پر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاد آن روز، که چاک قفسی داشتمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه کنم؟ جور تو خاکستر دل داد به باد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پاس این سوختهٔ عشق، بسی داشتمی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تنگ می کرد به من، گوشه ی تنهایی را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وای اگر در همه آفاق کسی داشتمی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سخت آزرده ام از خاطر افسرده، حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کاش اگر عشق نبودی، هوسی داشتمی",
+      "CoupletIndex": 4
+    }
+  ]
+}

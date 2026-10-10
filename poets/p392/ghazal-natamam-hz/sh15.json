@@ -1,0 +1,69 @@
+{
+  "Id": 34674,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سلطان همّتم، ز جهان شسته دست را\r\nچون سیل، پشت پا زده ام خاک پست را\r\nانصاف، کار محتسب روزگار نیست\r\nیکسان کند معامله، هشیار و مست را\r\nمشکل که پر کند ز تهی کاسگی حزین\r\nاین مشت خاک، دیده دنیاپرست را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سلطان همّتم، ز جهان شسته دست را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سیل، پشت پا زده ام خاک پست را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف، کار محتسب روزگار نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکسان کند معامله، هشیار و مست را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مشکل که پر کند ز تهی کاسگی حزین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این مشت خاک، دیده دنیاپرست را",
+      "CoupletIndex": 2
+    }
+  ]
+}

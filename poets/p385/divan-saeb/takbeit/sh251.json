@@ -1,0 +1,45 @@
+{
+  "Id": 17782,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۵۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۵۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh251",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh251",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هَم‌طالعِ بیدیم، دَرین باغ، که باشد\r\nسَر پیش‌فِکَندَن، ثَمَرِ پیش‌رَسِ ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هَم‌طالعِ بیدیم، دَرین باغ، که باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سَر پیش‌فِکَندَن، ثَمَرِ پیش‌رَسِ ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37339,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۶۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۶۷",
+  "FullUrl": "/p393/robaee/sh167",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh167",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خورده به رغبت شکر زهر تو من\r\nرسوای هزار کوچه در شهر تو من\r\nدل داده و خون خورده و جانی کنده\r\nاز بهر تو از بهر تو از بهر تو من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خورده به رغبت شکر زهر تو من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رسوای هزار کوچه در شهر تو من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل داده و خون خورده و جانی کنده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بهر تو از بهر تو از بهر تو من",
+      "CoupletIndex": 1
+    }
+  ]
+}

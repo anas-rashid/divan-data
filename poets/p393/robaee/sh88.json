@@ -1,0 +1,54 @@
+{
+  "Id": 37260,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۸",
+  "FullUrl": "/p393/robaee/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تجرید به راه عشق کافی نشود\r\nتفرید چون نیست سینه صافی نشود\r\nباید دو جهان گذاشت همچو نعلین\r\nهر پای برهنه بشر حافی نشود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تجرید به راه عشق کافی نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تفرید چون نیست سینه صافی نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باید دو جهان گذاشت همچو نعلین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر پای برهنه بشر حافی نشود",
+      "CoupletIndex": 1
+    }
+  ]
+}

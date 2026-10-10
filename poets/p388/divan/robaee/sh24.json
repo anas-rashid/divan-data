@@ -1,0 +1,57 @@
+{
+  "Id": 29631,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p388/divan/robaee/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلبرگ چو گونه‌های الوانت نیست\r\nخورشید به نور دل تابانت نیست\r\nاز صبح بیاض گردنت خور بدمد\r\nجز نور به مشرق گریبانت نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلبرگ چو گونه‌های الوانت نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید به نور دل تابانت نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از صبح بیاض گردنت خور بدمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز نور به مشرق گریبانت نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

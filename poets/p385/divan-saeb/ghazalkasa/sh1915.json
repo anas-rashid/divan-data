@@ -1,0 +1,93 @@
+{
+  "Id": 20988,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۹۱۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۹۱۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1915",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1915",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نقد نشاط در دل گنجینه خم است\r\nاین گنج در عمارت دیرینه خم است\r\nجام جهان نما که در او راز می نمود\r\nدر زنگبار خجلت از آیینه خم است\r\nمگذار شیخ را که به میخانه بگذرد\r\nکان خودپرست دشمن دیرینه خم است\r\nعلمی که سرخ رویی یونانیان ازوست\r\nچون نیک بنگری همه در سینه خم است\r\nصائب خمار دست نمی دارد از سرم\r\nچندان که خشت بر سر گنجینه خم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نقد نشاط در دل گنجینه خم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این گنج در عمارت دیرینه خم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جام جهان نما که در او راز می نمود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در زنگبار خجلت از آیینه خم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مگذار شیخ را که به میخانه بگذرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کان خودپرست دشمن دیرینه خم است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "علمی که سرخ رویی یونانیان ازوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون نیک بنگری همه در سینه خم است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب خمار دست نمی دارد از سرم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چندان که خشت بر سر گنجینه خم است",
+      "CoupletIndex": 4
+    }
+  ]
+}

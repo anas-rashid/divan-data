@@ -1,0 +1,45 @@
+{
+  "Id": 18557,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۲۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۲۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1026",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1026",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حیف فرهاد که با آنهمه شیرین‌کاری\r\nشد به خواب عدم از تلخی افسانهٔ عشق",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حیف فرهاد که با آنهمه شیرین‌کاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد به خواب عدم از تلخی افسانهٔ عشق",
+      "CoupletIndex": 0
+    }
+  ]
+}

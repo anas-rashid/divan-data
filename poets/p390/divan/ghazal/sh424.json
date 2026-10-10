@@ -1,0 +1,93 @@
+{
+  "Id": 31391,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۲۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۲۴",
+  "FullUrl": "/p390/divan/ghazal/sh424",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh424",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اهل شیراز، بهشتی صفتان دهرند\r\nهرکه را مار غمی زهر زند، پازهرند\r\nدر صفاهان نتوان بی می شیرازی بود\r\nاهل دریا همه محتاج به آب نهرند\r\nهرکس خوب که بینی به جهان، شیرازی ست\r\nراست گفتند که نیکان همه از یک شهرند\r\nشیوه ی صلح کل از بس که در ایشان عام است\r\nنتوان گفت که از دشمن خود در قهرند\r\nاز صفات خوش و اخلاق پسندیده سلیم\r\nنتوان گفت که این طایفه اهل دهرند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اهل شیراز، بهشتی صفتان دهرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرکه را مار غمی زهر زند، پازهرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در صفاهان نتوان بی می شیرازی بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اهل دریا همه محتاج به آب نهرند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هرکس خوب که بینی به جهان، شیرازی ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "راست گفتند که نیکان همه از یک شهرند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شیوه ی صلح کل از بس که در ایشان عام است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نتوان گفت که از دشمن خود در قهرند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از صفات خوش و اخلاق پسندیده سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نتوان گفت که این طایفه اهل دهرند",
+      "CoupletIndex": 4
+    }
+  ]
+}

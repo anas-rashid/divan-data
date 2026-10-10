@@ -1,0 +1,45 @@
+{
+  "Id": 18760,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۲۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۲۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1229",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1229",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست غیر از بحر، چون سیلاب، ما را منزلی\r\nگرد راه از خویش در آغوش یار افشانده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست غیر از بحر، چون سیلاب، ما را منزلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد راه از خویش در آغوش یار افشانده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

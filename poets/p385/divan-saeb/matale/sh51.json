@@ -1,0 +1,42 @@
+{
+  "Id": 26139,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر زبان حرف طلب هرگز نمی آریم ما\r\nمیهمان بی طلب را دوست می داریم ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر زبان حرف طلب هرگز نمی آریم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میهمان بی طلب را دوست می داریم ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

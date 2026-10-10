@@ -1,0 +1,45 @@
+{
+  "Id": 17827,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۹۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۹۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh296",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh296",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صحبت غنیمت است به هم چون رسیده‌ایم\r\nتا کی دگر به هم رسد این تخته‌پاره‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحبت غنیمت است به هم چون رسیده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کی دگر به هم رسد این تخته‌پاره‌ها",
+      "CoupletIndex": 0
+    }
+  ]
+}

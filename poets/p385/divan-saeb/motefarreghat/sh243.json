@@ -1,0 +1,57 @@
+{
+  "Id": 26849,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh243",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh243",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم مستت سرمه را بیهوش‌دارو می‌کند\r\nزهر قاتل وسمه را آن تیغ ابرو می‌کند\r\nبر گلستانی که آن شمشاد بالا بگذرد\r\nسرو را انگشت حیرت بر لب جو می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم مستت سرمه را بیهوش‌دارو می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهر قاتل وسمه را آن تیغ ابرو می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر گلستانی که آن شمشاد بالا بگذرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو را انگشت حیرت بر لب جو می‌کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

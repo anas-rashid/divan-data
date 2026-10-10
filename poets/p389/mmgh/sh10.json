@@ -1,0 +1,69 @@
+{
+  "Id": 30218,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۱۰",
+  "FullUrl": "/p389/mmgh/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز دل پای‌بند دام کسی‌ست\r\nروز و شب گوش بر پیام کسی‌ست\r\nگو نفس بعد ازین ز سینه تنگ\r\nپا برون نه، که این مقام کسی‌ست\r\nهیچ‌کس نیست در جهان آزاد\r\nهرکه را بنگری به دام کسی‌ست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز دل پای‌بند دام کسی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روز و شب گوش بر پیام کسی‌ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو نفس بعد ازین ز سینه تنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پا برون نه، که این مقام کسی‌ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هیچ‌کس نیست در جهان آزاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرکه را بنگری به دام کسی‌ست",
+      "CoupletIndex": 2
+    }
+  ]
+}

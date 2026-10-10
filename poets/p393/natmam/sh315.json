@@ -1,0 +1,42 @@
+{
+  "Id": 36466,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۱۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۱۵",
+  "FullUrl": "/p393/natmam/sh315",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh315",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نجس باشد به چشم پاک بینم دولت دنیا\r\nبه خون آلوده پیکانی است پیشم لعل پیکانی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نجس باشد به چشم پاک بینم دولت دنیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به خون آلوده پیکانی است پیشم لعل پیکانی",
+      "CoupletIndex": 0
+    }
+  ]
+}

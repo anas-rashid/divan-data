@@ -1,0 +1,69 @@
+{
+  "Id": 26698,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در محبت کام نتوان بی دل خونخواره یافت\r\nغنچه خونها خورد تا چون گل دل صدپاره یافت\r\nلنگر آسودگی دست مرا بر چوب بست\r\nتا به دست بسته روزی طفل در گهواره یافت\r\nگریه شادی حجاب چهره مقصود شد\r\nبعد ایامی که چشمم رخصت نظاره یافت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در محبت کام نتوان بی دل خونخواره یافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه خونها خورد تا چون گل دل صدپاره یافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لنگر آسودگی دست مرا بر چوب بست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا به دست بسته روزی طفل در گهواره یافت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گریه شادی حجاب چهره مقصود شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بعد ایامی که چشمم رخصت نظاره یافت",
+      "CoupletIndex": 2
+    }
+  ]
+}

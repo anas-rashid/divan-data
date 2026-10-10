@@ -1,0 +1,93 @@
+{
+  "Id": 20430,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۳۵۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۳۵۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1357",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1357",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاروان گریه از چشمم ندانم چون گذشت\r\nتا سر مژگان رسید، از صد محیط خون گذشت\r\nقمریی بر لوح خاک از نقش پایش نقش بست\r\nسرو من هر جا که با آن قامت موزون گذشت\r\nآتش سودا نمی خوابد به افسون اجل\r\nمرغ نتواند هنوز از تربت مجنون گذشت\r\nشب به مستی پنبه از داغ درون برداشتم\r\nمست شد از بوی گل هر کس که از بیرون گذشت\r\nنیست بی روشندلی هرگز خرابات مغان\r\nخم سلامت باد اگر دوران افلاطون گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاروان گریه از چشمم ندانم چون گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا سر مژگان رسید، از صد محیط خون گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قمریی بر لوح خاک از نقش پایش نقش بست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو من هر جا که با آن قامت موزون گذشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آتش سودا نمی خوابد به افسون اجل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مرغ نتواند هنوز از تربت مجنون گذشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شب به مستی پنبه از داغ درون برداشتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مست شد از بوی گل هر کس که از بیرون گذشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نیست بی روشندلی هرگز خرابات مغان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خم سلامت باد اگر دوران افلاطون گذشت",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 20149,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۰۷۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۰۷۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1076",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1076",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شبچراغ اهل معنی چشم بیدار من است\r\nهمچو اختر در دل شب، روز بازار من است\r\nمصر انصاف از زلیخاهمتان خالی شده است\r\nورنه چندین ماه کنعانی به بازار من است\r\nگرچه در کار کسی هرگز گره نفکنده ام\r\nسبحه صد دانه غم رشته کار من است\r\nموج طوفان بلا چون دست بر ترکش زند\r\nتیر روی ترکشش مژگان خونبار من است\r\nصائب از بس همت من سربلند افتاده است\r\nلاله خورشید ننگ طرف دستار من است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبچراغ اهل معنی چشم بیدار من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو اختر در دل شب، روز بازار من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مصر انصاف از زلیخاهمتان خالی شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ورنه چندین ماه کنعانی به بازار من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرچه در کار کسی هرگز گره نفکنده ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سبحه صد دانه غم رشته کار من است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "موج طوفان بلا چون دست بر ترکش زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تیر روی ترکشش مژگان خونبار من است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب از بس همت من سربلند افتاده است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لاله خورشید ننگ طرف دستار من است",
+      "CoupletIndex": 4
+    }
+  ]
+}

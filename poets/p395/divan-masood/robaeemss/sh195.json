@@ -1,0 +1,57 @@
+{
+  "Id": 37709,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۹۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بخشش دست من ز سیم و زر پرس\r\nوز خوی خوشم ز مشک و از عنبر پرس\r\nوز قوت بازوی من از خنجر پرس\r\nوز هیبت من ز راه چالندر پرس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بخشش دست من ز سیم و زر پرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خوی خوشم ز مشک و از عنبر پرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وز قوت بازوی من از خنجر پرس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز هیبت من ز راه چالندر پرس",
+      "CoupletIndex": 1
+    }
+  ]
+}

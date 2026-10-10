@@ -1,0 +1,57 @@
+{
+  "Id": 30397,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۴۰",
+  "FullUrl": "/p389/robghm/sh140",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh140",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خورشید به تابش ضیایی گروست\r\nبیمار به تدبیر دوایی گروست\r\nزاهد به شمار سبحه‌ای در بند است\r\nعاشق به نگاه آشنایی گروست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید به تابش ضیایی گروست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیمار به تدبیر دوایی گروست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد به شمار سبحه‌ای در بند است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عاشق به نگاه آشنایی گروست",
+      "CoupletIndex": 1
+    }
+  ]
+}

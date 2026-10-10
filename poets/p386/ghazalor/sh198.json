@@ -1,0 +1,93 @@
+{
+  "Id": 27606,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۹۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۹۸",
+  "FullUrl": "/p386/ghazalor/sh198",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh198",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند بی بهره شود دیدهٔ گریانی؛ چند؟\r\nزلف جمع آر که جمعند پریشانی چند\r\nگلرخان محنت نایافت بیابند مگر\r\nیک نفس چاک ببینند گریبانی چند\r\nآن که آماده کند پردهٔ نا کرده گناه\r\nکی در او پرده ای از کرده پشیمانی چند\r\nکبرای تو، بر آنم، که نیارد به نظر\r\nمستی آلوده به آلایش دامانی چند\r\nعرفی افسانهٔ ما گوش کنان حلقه زدند\r\nخوان بیارآی، که جمع آمده مهمانی چند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند بی بهره شود دیدهٔ گریانی؛ چند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلف جمع آر که جمعند پریشانی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گلرخان محنت نایافت بیابند مگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک نفس چاک ببینند گریبانی چند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن که آماده کند پردهٔ نا کرده گناه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کی در او پرده ای از کرده پشیمانی چند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کبرای تو، بر آنم، که نیارد به نظر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مستی آلوده به آلایش دامانی چند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی افسانهٔ ما گوش کنان حلقه زدند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خوان بیارآی، که جمع آمده مهمانی چند",
+      "CoupletIndex": 4
+    }
+  ]
+}

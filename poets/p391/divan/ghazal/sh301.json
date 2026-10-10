@@ -1,0 +1,66 @@
+{
+  "Id": 32393,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۰۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۱",
+  "FullUrl": "/p391/divan/ghazal/sh301",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh301",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زبان تیغ تو در حشر عذرخواه من است\r\nشهید عشقم و لب تشنگی گواه من است\r\nنشست تا به رخت گرد خط همی نالم\r\nکه آه از اثر آه صبحگاه من است\r\nبلند گشته چنان شهرت نکویی او\r\nکه آفتاب پرستار روی ماه من است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زبان تیغ تو در حشر عذرخواه من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شهید عشقم و لب تشنگی گواه من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشست تا به رخت گرد خط همی نالم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که آه از اثر آه صبحگاه من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بلند گشته چنان شهرت نکویی او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که آفتاب پرستار روی ماه من است",
+      "CoupletIndex": 2
+    }
+  ]
+}

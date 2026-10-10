@@ -1,0 +1,57 @@
+{
+  "Id": 30664,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۰۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۰۷",
+  "FullUrl": "/p389/robghm/sh407",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh407",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش نیست زبان رمز را قصه دراز\r\nاین نغمه خوش است، لیک در پرده ساز\r\nبگذار که پوشیده بود گوهر راز\r\nنقصان صدف بود دهن کردن باز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش نیست زبان رمز را قصه دراز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این نغمه خوش است، لیک در پرده ساز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگذار که پوشیده بود گوهر راز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقصان صدف بود دهن کردن باز",
+      "CoupletIndex": 1
+    }
+  ]
+}

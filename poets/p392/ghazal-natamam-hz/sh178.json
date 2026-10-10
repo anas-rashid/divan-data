@@ -1,0 +1,45 @@
+{
+  "Id": 34837,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دنیا سر فرو ناوردنم بالین راحت شد\r\nنظر پوشیدن از وضع جهان، خواب فراغت شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دنیا سر فرو ناوردنم بالین راحت شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظر پوشیدن از وضع جهان، خواب فراغت شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37209,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۷",
+  "FullUrl": "/p393/robaee/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در مدرسه‌ها که دور دور عقل است\r\nهر نکته محل خوض و غور عقل است\r\nقربان افادت‌کدهٔ عشق شوم\r\nکانجا طوری ورای طور عقل است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در مدرسه‌ها که دور دور عقل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر نکته محل خوض و غور عقل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قربان افادت‌کدهٔ عشق شوم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کانجا طوری ورای طور عقل است",
+      "CoupletIndex": 1
+    }
+  ]
+}

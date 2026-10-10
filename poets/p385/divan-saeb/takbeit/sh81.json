@@ -1,0 +1,45 @@
+{
+  "Id": 17612,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این زمان بی‌برگ و بارم ورنه از جوش ثمر\r\nمنت دست نوازش بود بر من سنگ را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این زمان بی‌برگ و بارم ورنه از جوش ثمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منت دست نوازش بود بر من سنگ را",
+      "CoupletIndex": 0
+    }
+  ]
+}

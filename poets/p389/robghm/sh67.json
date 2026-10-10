@@ -1,0 +1,57 @@
+{
+  "Id": 30324,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۷",
+  "FullUrl": "/p389/robghm/sh67",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh67",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که ز عالم به تجرد کارست\r\nترک دو جهان برش مگو دشوارست\r\nبر من باشد ترک تعلق مشکل\r\nزیرا که تعلقم همین با یار است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که ز عالم به تجرد کارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترک دو جهان برش مگو دشوارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر من باشد ترک تعلق مشکل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیرا که تعلقم همین با یار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

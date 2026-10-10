@@ -1,0 +1,54 @@
+{
+  "Id": 36668,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۸۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۸۸",
+  "FullUrl": "/p393/ghete/sh188",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh188",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان شب بر یار نالیده بودم\r\nکه اغیار را گوش مالیده بودم\r\nهمه خلق را گریه آمد به حالم\r\nندانم که من بر که خندیده بودم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان شب بر یار نالیده بودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که اغیار را گوش مالیده بودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همه خلق را گریه آمد به حالم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ندانم که من بر که خندیده بودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

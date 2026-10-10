@@ -1,0 +1,66 @@
+{
+  "Id": 36202,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۵۱",
+  "FullUrl": "/p393/natmam/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همچو صبحم از ازل گشته دم سرد نصیب\r\nهمچو من نیست درین غمکده کس دردنصیب\r\nیک‌نفس نیست دل من ز کدورت خالی\r\nآه صد آه ازین آینهٔ گَردنصیب\r\nدر ازل مهر بتان گشته نصیبم واقف\r\nچه توان کرد به چیزی که خدا کرد نصیب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همچو صبحم از ازل گشته دم سرد نصیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو من نیست درین غمکده کس دردنصیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک‌نفس نیست دل من ز کدورت خالی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه صد آه ازین آینهٔ گَردنصیب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در ازل مهر بتان گشته نصیبم واقف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه توان کرد به چیزی که خدا کرد نصیب",
+      "CoupletIndex": 2
+    }
+  ]
+}

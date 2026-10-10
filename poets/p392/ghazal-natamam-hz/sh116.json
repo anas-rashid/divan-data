@@ -1,0 +1,69 @@
+{
+  "Id": 34775,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh116",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh116",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طوفان فتنه است و کسی دستگیر نیست\r\nساقی بیار کشتی می را، گزیر نیست\r\nلخت جگر، همین به مذاق من آشناست\r\nاز خوان دهر، قوت دگر دلپذیر نیست\r\nجز پیر می فروش که امروز بی ریاست\r\nپیری ندیده ایم که، آبش به شیر نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طوفان فتنه است و کسی دستگیر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساقی بیار کشتی می را، گزیر نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لخت جگر، همین به مذاق من آشناست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خوان دهر، قوت دگر دلپذیر نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جز پیر می فروش که امروز بی ریاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیری ندیده ایم که، آبش به شیر نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

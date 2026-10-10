@@ -1,0 +1,57 @@
+{
+  "Id": 34737,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهار آمد که می در جام میخوران شود پیدا\r\nمرا از سینه، داغ لاله رخساران شود پیدا\r\nمغنی، مصرع شوخی، ز من باید سراییدن\r\nکه شور میکشان، در بزم هشیاران شود پیدا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار آمد که می در جام میخوران شود پیدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا از سینه، داغ لاله رخساران شود پیدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مغنی، مصرع شوخی، ز من باید سراییدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که شور میکشان، در بزم هشیاران شود پیدا",
+      "CoupletIndex": 1
+    }
+  ]
+}

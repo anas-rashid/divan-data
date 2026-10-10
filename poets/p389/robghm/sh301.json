@@ -1,0 +1,57 @@
+{
+  "Id": 30558,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۰۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۰۱",
+  "FullUrl": "/p389/robghm/sh301",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh301",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر لحظه دو چشمم آرزوی تو کنند\r\nدزدیده ز هم، نظر به روی تو کنند\r\nاین است وصیتم دم مردن و بس\r\nکاندر لحدم روی به سوی تو کنند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر لحظه دو چشمم آرزوی تو کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دزدیده ز هم، نظر به روی تو کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این است وصیتم دم مردن و بس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر لحدم روی به سوی تو کنند",
+      "CoupletIndex": 1
+    }
+  ]
+}

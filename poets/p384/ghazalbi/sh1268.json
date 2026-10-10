@@ -1,0 +1,81 @@
+{
+  "Id": 15971,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۱۲۶۸",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۱۲۶۸",
+  "FullUrl": "/p384/ghazalbi/sh1268",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh1268",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه تنها از قدح مستی و از گل رنگ می‌جوشد\r\nنوای محفل قدرت به صد آهنگ می‌جوشد\r\nبجا واماندنت زیر قدم صد دشت گم دارد\r\nاگر در گردش آیی خانه با فرسنگ می‌جوشد\r\nجهان را بی‌تأمّل کرده‌ای نظاره زین غافل\r\nکه این حیرت‌فزا از سینه‌های تنگ می جوشد\r\nدر این‌ صحرا که یکسر بال‌ طاووس است اجزایش\r\nغباری گر به خود بالد همان نیرنگ میجوشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه تنها از قدح مستی و از گل رنگ می‌جوشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوای محفل قدرت به صد آهنگ می‌جوشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بجا واماندنت زیر قدم صد دشت گم دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر در گردش آیی خانه با فرسنگ می‌جوشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جهان را بی‌تأمّل کرده‌ای نظاره زین غافل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که این حیرت‌فزا از سینه‌های تنگ می جوشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در این‌ صحرا که یکسر بال‌ طاووس است اجزایش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غباری گر به خود بالد همان نیرنگ میجوشد",
+      "CoupletIndex": 3
+    }
+  ]
+}

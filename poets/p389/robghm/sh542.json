@@ -1,0 +1,57 @@
+{
+  "Id": 30799,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۴۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۴۲",
+  "FullUrl": "/p389/robghm/sh542",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh542",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌برگان را به صد هنر، بی زر و جاه\r\nگردون نشمارد گل‌شان را به گیاه\r\nننمودن عیب اغنیا از مال است\r\nکجواجی شاخ را بود برگ پناه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌برگان را به صد هنر، بی زر و جاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون نشمارد گل‌شان را به گیاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ننمودن عیب اغنیا از مال است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کجواجی شاخ را بود برگ پناه",
+      "CoupletIndex": 1
+    }
+  ]
+}

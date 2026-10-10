@@ -1,0 +1,42 @@
+{
+  "Id": 26209,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در چمن چون باغدار لاله گون خود گذشت\r\nغنچه گل از سر یک مشت خون خود گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در چمن چون باغدار لاله گون خود گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه گل از سر یک مشت خون خود گذشت",
+      "CoupletIndex": 0
+    }
+  ]
+}

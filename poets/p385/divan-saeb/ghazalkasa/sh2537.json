@@ -1,0 +1,93 @@
+{
+  "Id": 21610,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۵۳۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۵۳۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2537",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2537",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترک یاران کرده ای ای بیوفا، یار این کند؟\r\nدل زپیمان برگرفتی، هیچ دلدار این کند؟\r\nترک ما کردی و کردی دشمنی با دوستان\r\nشرم بادت زین عملها، یار با یار این کند؟\r\nجور تو با عاشق سرگشته امروزینه نیست\r\nآزمودم عشق را صدبار، هر بار این کند\r\nطالب عشق رخ خوب تو بودم سالها\r\nخود ندانستم که با من آخر کار این کند\r\nنرگست در عین بیماری کند قصد دلم\r\nکس ندانم در جهان با هیچ بیمار این کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترک یاران کرده ای ای بیوفا، یار این کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل زپیمان برگرفتی، هیچ دلدار این کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترک ما کردی و کردی دشمنی با دوستان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شرم بادت زین عملها، یار با یار این کند؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جور تو با عاشق سرگشته امروزینه نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آزمودم عشق را صدبار، هر بار این کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "طالب عشق رخ خوب تو بودم سالها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خود ندانستم که با من آخر کار این کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نرگست در عین بیماری کند قصد دلم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کس ندانم در جهان با هیچ بیمار این کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

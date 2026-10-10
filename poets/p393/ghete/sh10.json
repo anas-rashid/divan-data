@@ -1,0 +1,54 @@
+{
+  "Id": 36490,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰",
+  "FullUrl": "/p393/ghete/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پای رفتن نیست هرگز از سر آن کو مرا\r\nرفته آنجا پا به گل از گریه تا زانو مرا\r\nچون هلال عید از اوج غرور آن مه‌جبین\r\nبعد سالی می‌نماید گوشهٔ ابرو مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پای رفتن نیست هرگز از سر آن کو مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفته آنجا پا به گل از گریه تا زانو مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون هلال عید از اوج غرور آن مه‌جبین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بعد سالی می‌نماید گوشهٔ ابرو مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26739,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ارباب حیا را لب نانی ز جهان نیست\r\nروزی ز دل خود خورد آن را که زبان نیست\r\n(یاری که نگیرد دلش از دوری منزل\r\nدر وادی تجرید به جز ریگ روان نیست)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ارباب حیا را لب نانی ز جهان نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزی ز دل خود خورد آن را که زبان نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(یاری که نگیرد دلش از دوری منزل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در وادی تجرید به جز ریگ روان نیست)",
+      "CoupletIndex": 1
+    }
+  ]
+}

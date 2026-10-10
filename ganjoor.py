@@ -1,4 +1,5 @@
-"""Persian (فارسی) works from Ganjoor for poets who are in both Divan and Ganjoor (ganjoor.json).
+"""Persian (فارسی) works from Ganjoor (ganjoor.json): for poets who are in both Divan and Ganjoor, a «فارسی» section on
+their page; for Persian poets of the Indian tradition (Bedil, Saib, Urfi…), their own poet pages.
 
 ganjoor/ganjoor-data is checked out sparsely, only the listed poets, at the pinned commit, in .ganjoor/ (not in git).
 export_divan.py then adds a «فارسی» section under each such poet with Ganjoor's books and poems: verses, titles,
@@ -18,11 +19,29 @@ def checkout():
     git = lambda *a: subprocess.run(["git", "-C", REPO, *a], check=True, capture_output=True)
     if not os.path.isdir(os.path.join(REPO, ".git")):
         subprocess.run(["git", "clone", "-q", "--filter=blob:none", "--no-checkout", "--sparse", URL, REPO], check=True)
-    git("sparse-checkout", "set", *[f"poets/{p['ganjoor']}" for p in CFG["poets"]])
+    git("sparse-checkout", "set", *[f"poets/{s}" for s in slugs()])
     have = subprocess.run(["git", "-C", REPO, "cat-file", "-e", CFG["commit"]], capture_output=True).returncode == 0
     if not have:
         git("fetch", "-q", "--filter=blob:none", "origin", CFG["commit"])
     git("checkout", "-q", "--detach", CFG["commit"])
+
+
+def slugs():
+    return [p["ganjoor"] for p in CFG["poets"]] + CFG.get("persian_poets", [])
+
+
+def persian_poets():
+    return CFG.get("persian_poets", [])
+
+
+# a Persian name in Urdu spelling: ه -> ہ, Arabic yeh and kaf -> Urdu (بیدل دهلوی -> بیدل دہلوی)
+def urdu(s):
+    return (s or "").replace("ۀ", "ۂ").replace("ه", "ہ").replace("ي", "ی").replace("ك", "ک")
+
+
+def ce(ah, valid):
+    """approximate CE year of a Hijri year (as Divan shows both)"""
+    return round(ah * 0.970229 + 621.5643) if ah and valid else None
 
 
 def by_divan_page():

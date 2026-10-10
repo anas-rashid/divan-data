@@ -1,0 +1,57 @@
+{
+  "Id": 30648,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۹۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۹۱",
+  "FullUrl": "/p389/robghm/sh391",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh391",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیوسته روم راه چو پرگار به سر\r\nبی پا نشوم ز شغل بسیار به سر\r\nآن را که ز کاهلی سرشته‌ست گلش\r\nدیوار به سر فتد، به از کار به سر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیوسته روم راه چو پرگار به سر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی پا نشوم ز شغل بسیار به سر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که ز کاهلی سرشته‌ست گلش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیوار به سر فتد، به از کار به سر",
+      "CoupletIndex": 1
+    }
+  ]
+}

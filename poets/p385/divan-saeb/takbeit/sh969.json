@@ -1,0 +1,45 @@
+{
+  "Id": 18500,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۶۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۶۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh969",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh969",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سنگ و گوهر، دیده حیران میزان را یکی است\r\nامتیاز کفر و ایمان از من مجنون مپرس",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سنگ و گوهر، دیده حیران میزان را یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امتیاز کفر و ایمان از من مجنون مپرس",
+      "CoupletIndex": 0
+    }
+  ]
+}

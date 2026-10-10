@@ -1,0 +1,42 @@
+{
+  "Id": 26128,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست سوی حق به جز تسلیم راهی بنده را\r\nجستجوی این گهر گم می کند جوینده را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست سوی حق به جز تسلیم راهی بنده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جستجوی این گهر گم می کند جوینده را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30835,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۷۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۷۸",
+  "FullUrl": "/p389/robghm/sh578",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh578",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بگذار حدیث جزو و کل در مستی\r\nآسان نتوان رفت ز پل در مستی\r\nبا عشق، ز جسم عنصری دست بدار\r\nزیر آی ز اسب چارجل در مستی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگذار حدیث جزو و کل در مستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسان نتوان رفت ز پل در مستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با عشق، ز جسم عنصری دست بدار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زیر آی ز اسب چارجل در مستی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28880,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۰",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۰",
+  "FullUrl": "/p387/divan/robaee/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا تکلیف تو جا مهیا نکند\r\nدر انجمن تو بوالهوس جا نکند\r\nبیقدر منم که هر کجا بنشستم\r\nتا دل نخلد جای مرا وا نکند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا تکلیف تو جا مهیا نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در انجمن تو بوالهوس جا نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیقدر منم که هر کجا بنشستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دل نخلد جای مرا وا نکند",
+      "CoupletIndex": 1
+    }
+  ]
+}

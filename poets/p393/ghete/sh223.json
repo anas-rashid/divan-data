@@ -1,0 +1,54 @@
+{
+  "Id": 36703,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۲۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۲۳",
+  "FullUrl": "/p393/ghete/sh223",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh223",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر چشم ترم نظر نداری\r\nاز درد دلم خبر نداری\r\nای دل از صبر لاف کم زن\r\nاین گرده و این جگر نداری",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر چشم ترم نظر نداری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از درد دلم خبر نداری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای دل از صبر لاف کم زن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این گرده و این جگر نداری",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32019,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۲۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۱",
+  "FullUrl": "/p390/divan/robaee/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ابروی تو از غمزه دگر پر گره است\r\nتیری انداز چون کمان به زه است\r\nهر عضوم ازو، جدا نشاطی دارد\r\nدر دل عشق تو چون عروسی [به] ده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابروی تو از غمزه دگر پر گره است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیری انداز چون کمان به زه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر عضوم ازو، جدا نشاطی دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دل عشق تو چون عروسی [به] ده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

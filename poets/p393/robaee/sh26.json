@@ -1,0 +1,54 @@
+{
+  "Id": 37198,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۶",
+  "FullUrl": "/p393/robaee/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جانان غیر از جفا نکردی و گذشت\r\nیک وعده ز صد وفا نکردی و گذشت\r\nآن خسته که دوش تا سحر می‌نالید\r\nدرد او را دوا نکردی وگذشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانان غیر از جفا نکردی و گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک وعده ز صد وفا نکردی و گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن خسته که دوش تا سحر می‌نالید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درد او را دوا نکردی وگذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

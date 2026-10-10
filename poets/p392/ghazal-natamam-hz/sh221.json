@@ -1,0 +1,57 @@
+{
+  "Id": 34880,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۲۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۲۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh221",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh221",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عزلت طلب از پایهٔ اقبال نیفتد\r\nتنها رو این مرحله، دنبال نیفتد\r\nپرواز بلندی ست فراز دو جهانش\r\nمرغی که به دام شکن بال نیفتد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عزلت طلب از پایهٔ اقبال نیفتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنها رو این مرحله، دنبال نیفتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرواز بلندی ست فراز دو جهانش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغی که به دام شکن بال نیفتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

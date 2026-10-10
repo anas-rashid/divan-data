@@ -1,0 +1,54 @@
+{
+  "Id": 34781,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نتوانست به موی کمر یار آویخت\r\nورنه پرگالهٔ دل، بر مژه بسیار آویخت\r\nدل خون گشتهٔ پر داغ مرا چیست گناه؟\r\nلاله، جایی که به آن گوشهٔ دستار آویخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نتوانست به موی کمر یار آویخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ورنه پرگالهٔ دل، بر مژه بسیار آویخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل خون گشتهٔ پر داغ مرا چیست گناه؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لاله، جایی که به آن گوشهٔ دستار آویخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

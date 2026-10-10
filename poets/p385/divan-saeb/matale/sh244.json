@@ -1,0 +1,42 @@
+{
+  "Id": 26332,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۴۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۴۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh244",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh244",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از پرده شرم تو دلم داغ و کباب است\r\nبر روی شکر گر همه شیرست نقاب است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از پرده شرم تو دلم داغ و کباب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر روی شکر گر همه شیرست نقاب است",
+      "CoupletIndex": 0
+    }
+  ]
+}

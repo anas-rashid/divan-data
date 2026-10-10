@@ -1,0 +1,54 @@
+{
+  "Id": 36683,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۰۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۰۳",
+  "FullUrl": "/p393/ghete/sh203",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh203",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مپسند تیره روز مرا ای پسر مرو\r\nچشم منی چراغ منی ای پسر مرو\r\nچون رفته‌ای ز دیده مکن از دلم سفر\r\nای دور رفته بهر خدا دورتر مرو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مپسند تیره روز مرا ای پسر مرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم منی چراغ منی ای پسر مرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون رفته‌ای ز دیده مکن از دلم سفر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دور رفته بهر خدا دورتر مرو",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 34960,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh301",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh301",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سوخته جان دلم یکی، سنبل مشک فام، دو\r\nسختی کار عشق بین، صید یکی و دام دو\r\nخونی دین و دل بود، غمزه در ابروان تو\r\nمعجز حسن را نگر، تیغ یکی، نیام، دو\r\nساقی غم، به دیده ام، خون دل این قدر مکن\r\nباده به صرفه خرج کن، شیشه یک است و جام دو\r\nدر ره عشق از دو سو، قرعه فتاده مشکلم\r\nخاطر چاره جو یکی، ششدر ننگ و نام دو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوخته جان دلم یکی، سنبل مشک فام، دو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سختی کار عشق بین، صید یکی و دام دو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خونی دین و دل بود، غمزه در ابروان تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معجز حسن را نگر، تیغ یکی، نیام، دو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساقی غم، به دیده ام، خون دل این قدر مکن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باده به صرفه خرج کن، شیشه یک است و جام دو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در ره عشق از دو سو، قرعه فتاده مشکلم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خاطر چاره جو یکی، ششدر ننگ و نام دو",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37484,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۹۹",
+  "FullUrl": "/p394/ghazal/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست باری در جهان سنگین تر از بار وجود\r\nپشت خم شد، زندگی اما بسر بردیم ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست باری در جهان سنگین تر از بار وجود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پشت خم شد، زندگی اما بسر بردیم ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

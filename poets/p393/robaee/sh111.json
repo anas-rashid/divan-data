@@ -1,0 +1,54 @@
+{
+  "Id": 37283,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p393/robaee/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یارا به تو کارهاست بنشین مگریز\r\nما را به تو کارهاست بنشین مگریز\r\nهرچند که هست این دل بی‌رحمت\r\nخارا با تو کارهاست بنشین مگریز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارا به تو کارهاست بنشین مگریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما را به تو کارهاست بنشین مگریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که هست این دل بی‌رحمت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خارا با تو کارهاست بنشین مگریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

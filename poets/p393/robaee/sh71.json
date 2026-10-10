@@ -1,0 +1,54 @@
+{
+  "Id": 37243,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/p393/robaee/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌مهری روزگار معلومم شد\r\nبی‌رحمی آن نگار معلومم شد\r\nواقف چه نشسته‌ای به کویش برخیز\r\nکیفیت این دیار معلومم شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌مهری روزگار معلومم شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌رحمی آن نگار معلومم شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "واقف چه نشسته‌ای به کویش برخیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کیفیت این دیار معلومم شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

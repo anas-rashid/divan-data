@@ -1,0 +1,81 @@
+{
+  "Id": 29943,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۹۵",
+  "FullUrl": "/p389/ghazalgm/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی کو عشق‌بازی پیشه دارد\r\nکی از رسوا‌شدن اندیشه دارد\r\nدل ریشی که خون از وی نجوشد\r\nچو سنگی دان که زخم تیشه دارد\r\nمکش از سینه ریشم که تیرت\r\nبود نخلی که در جان ریشه دارد\r\nدل قدسی نمی‌ترسد ز شادی\r\nکه شیری چون غمت در بیشه دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی کو عشق‌بازی پیشه دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی از رسوا‌شدن اندیشه دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ریشی که خون از وی نجوشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو سنگی دان که زخم تیشه دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مکش از سینه ریشم که تیرت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بود نخلی که در جان ریشه دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل قدسی نمی‌ترسد ز شادی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که شیری چون غمت در بیشه دارد",
+      "CoupletIndex": 3
+    }
+  ]
+}

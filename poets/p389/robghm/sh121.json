@@ -1,0 +1,57 @@
+{
+  "Id": 30378,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۲۱",
+  "FullUrl": "/p389/robghm/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درد از طفلی لازمه هر فردست\r\nنتوان گفتن کس به جهان بی‌دردست\r\nدر زیر فلک، شکسته رنگی عام است\r\nهر سبزه که زیر سنگ روید، زردست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد از طفلی لازمه هر فردست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نتوان گفتن کس به جهان بی‌دردست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در زیر فلک، شکسته رنگی عام است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر سبزه که زیر سنگ روید، زردست",
+      "CoupletIndex": 1
+    }
+  ]
+}

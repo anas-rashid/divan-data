@@ -1,0 +1,57 @@
+{
+  "Id": 30429,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۷۲",
+  "FullUrl": "/p389/robghm/sh172",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh172",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنم که به من هیچ‌کس الفت نگرفت\r\nکس دست من از راه محبت نگرفت\r\nکارم به مثل آینه در زنگ است\r\nکز خلق، به هیچ وجه، صورت نگرفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که به من هیچ‌کس الفت نگرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کس دست من از راه محبت نگرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کارم به مثل آینه در زنگ است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خلق، به هیچ وجه، صورت نگرفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

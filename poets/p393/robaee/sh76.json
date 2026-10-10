@@ -1,0 +1,54 @@
+{
+  "Id": 37248,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/p393/robaee/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در تاب و تبم تمام شب می‌گذرد\r\nروزم همه در رنج و تعب می‌گذرد\r\nالقصه به طول‌ها شب و روز مرا\r\nبی‌دوست به تشویش عجب می‌گذرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در تاب و تبم تمام شب می‌گذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزم همه در رنج و تعب می‌گذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "القصه به طول‌ها شب و روز مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌دوست به تشویش عجب می‌گذرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

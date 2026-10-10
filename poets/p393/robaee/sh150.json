@@ -1,0 +1,54 @@
+{
+  "Id": 37322,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۰",
+  "FullUrl": "/p393/robaee/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من رخت ز کوی یار بردم رفتم\r\nصد شکوه ز روزگار بردم رفتم\r\nاز نالهٔ من بود کسان را تصدیع\r\nدردسر ازین دیار بردم رفتم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من رخت ز کوی یار بردم رفتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد شکوه ز روزگار بردم رفتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از نالهٔ من بود کسان را تصدیع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردسر ازین دیار بردم رفتم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36415,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۶۴",
+  "FullUrl": "/p393/natmam/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا ای غم ز سر واشو نه دلدارم نه جان دارم\r\nز من دیگر چه می‌خواهی نه این دارم نه آن دارم\r\nتو ای دل خویشتن را بر کناری کش که من با خود\r\nحدیث نازک از وصف میانش در میان دارم\r\nمراچون ره به محفل داده‌ای نزدیک خودبینان\r\nتو حرف آهسته می‌گویی و من گوش گران دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا ای غم ز سر واشو نه دلدارم نه جان دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز من دیگر چه می‌خواهی نه این دارم نه آن دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو ای دل خویشتن را بر کناری کش که من با خود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حدیث نازک از وصف میانش در میان دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مراچون ره به محفل داده‌ای نزدیک خودبینان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تو حرف آهسته می‌گویی و من گوش گران دارم",
+      "CoupletIndex": 2
+    }
+  ]
+}

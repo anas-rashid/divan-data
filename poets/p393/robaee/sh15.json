@@ -1,0 +1,54 @@
+{
+  "Id": 37187,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵",
+  "FullUrl": "/p393/robaee/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفت آنکه رخت پیش نظر بود مرا\r\nدر خانه تمام شب سحر بود مرا\r\nاکنون هر لحظه می‌زنم بر سر خویش\r\nآن دست که با تو در کمر بود مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفت آنکه رخت پیش نظر بود مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خانه تمام شب سحر بود مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون هر لحظه می‌زنم بر سر خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن دست که با تو در کمر بود مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

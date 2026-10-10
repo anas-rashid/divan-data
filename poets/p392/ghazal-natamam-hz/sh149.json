@@ -1,0 +1,54 @@
+{
+  "Id": 34808,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh149",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh149",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قاصد سخنی از لب یارم نرسانید\r\nته جرعه شرابی، به خمارم نرسانید\r\nدل داشت به حیرانی، ازبن بیشتر امّید\r\nآواره ز خود کرد و به یارم نرسانید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قاصد سخنی از لب یارم نرسانید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ته جرعه شرابی، به خمارم نرسانید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل داشت به حیرانی، ازبن بیشتر امّید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آواره ز خود کرد و به یارم نرسانید",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37196,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p393/robaee/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یا رب کارم همیشه بی‌راه رویست\r\nوئقتم صرف اطاعت نفس غویست\r\nگر من ز گناه ضعیف گشتم لیکن\r\nغم نیست که بر عفو ت وامید قولیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب کارم همیشه بی‌راه رویست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وئقتم صرف اطاعت نفس غویست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر من ز گناه ضعیف گشتم لیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم نیست که بر عفو ت وامید قولیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

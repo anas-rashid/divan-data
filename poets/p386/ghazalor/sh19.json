@@ -1,0 +1,105 @@
+{
+  "Id": 27427,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۹",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۹",
+  "FullUrl": "/p386/ghazalor/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا به کی معبچه ی می نوش و بیارا ایمان را\r\nتا به کی پیش بری لعمه ی شادروان را\r\nاین مزاری است که صد چون تو در و مدفون است\r\nکه تو امروز بر و طرح کنی ایوان را\r\nجمله در کشتی نوح اند حریفان در خواب\r\nورنه هرگز ننشانید قضا توفان را\r\nبحث با رد و قبول بت ترسا بچه است\r\nورنه از کفر زبونی نبود ایمان را\r\nچون اثر در تو کند عشق؟ که اعجاز مسیح\r\nمرده را جان دهد، آدم نکند حیوان را\r\nجنس دین را چه کساد آمده عرفی در پیش؟\r\nکه به جز مرده ز حافظ نخرد قرآن را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا به کی معبچه ی می نوش و بیارا ایمان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به کی پیش بری لعمه ی شادروان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این مزاری است که صد چون تو در و مدفون است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که تو امروز بر و طرح کنی ایوان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جمله در کشتی نوح اند حریفان در خواب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ورنه هرگز ننشانید قضا توفان را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بحث با رد و قبول بت ترسا بچه است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ورنه از کفر زبونی نبود ایمان را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون اثر در تو کند عشق؟ که اعجاز مسیح",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مرده را جان دهد، آدم نکند حیوان را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جنس دین را چه کساد آمده عرفی در پیش؟",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که به جز مرده ز حافظ نخرد قرآن را",
+      "CoupletIndex": 5
+    }
+  ]
+}

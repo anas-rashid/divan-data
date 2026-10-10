@@ -1,0 +1,69 @@
+{
+  "Id": 26997,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh391",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh391",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دم گرچه پیش آینه عالم نمی‌زند\r\nآیینه پیش عارض او دم نمی‌زند\r\nاز پنبه داغ ما نرود زنده در کفن\r\nاز بخیه زخم ما مژه بر هم نمی‌زند\r\nاز ششدر جهات، مرا نقش کم رهاند\r\nگیرد اگر کسی کم خود، کم نمی‌زند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دم گرچه پیش آینه عالم نمی‌زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینه پیش عارض او دم نمی‌زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پنبه داغ ما نرود زنده در کفن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بخیه زخم ما مژه بر هم نمی‌زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از ششدر جهات، مرا نقش کم رهاند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گیرد اگر کسی کم خود، کم نمی‌زند",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36246,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۵",
+  "FullUrl": "/p393/natmam/sh95",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh95",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مکن شکوه گر دیده در اشک‌باریست\r\nبکن شکر کین رشحهٔ فیض‌باریست\r\nبه خاک درش تخم عجزی بیفشان\r\nکه این سرزمین قابل سجده‌کاریست\r\nبدارم کشد دوست مانند دشمن\r\nبه کیشش مگر این هم از دوست‌داریست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مکن شکوه گر دیده در اشک‌باریست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بکن شکر کین رشحهٔ فیض‌باریست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خاک درش تخم عجزی بیفشان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که این سرزمین قابل سجده‌کاریست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بدارم کشد دوست مانند دشمن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به کیشش مگر این هم از دوست‌داریست",
+      "CoupletIndex": 2
+    }
+  ]
+}

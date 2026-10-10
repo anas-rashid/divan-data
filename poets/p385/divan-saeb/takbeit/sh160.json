@@ -1,0 +1,45 @@
+{
+  "Id": 17691,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۶۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۶۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی سبکباری ز همراهان کند غافل مرا؟\r\nبار هر کس بر زمین ماند، بود بر دل مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی سبکباری ز همراهان کند غافل مرا؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بار هر کس بر زمین ماند، بود بر دل مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

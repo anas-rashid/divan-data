@@ -1,0 +1,57 @@
+{
+  "Id": 30441,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۴",
+  "FullUrl": "/p389/robghm/sh184",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh184",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بگزیده و نگزیده درین باغ مراد\r\nهر گوشه نشسته‌اند با خاطر شاد\r\nبگشا به گل چیده و ناچیده نظر\r\nاین قسمت آتش است و آن روزی باد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگزیده و نگزیده درین باغ مراد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر گوشه نشسته‌اند با خاطر شاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگشا به گل چیده و ناچیده نظر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این قسمت آتش است و آن روزی باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

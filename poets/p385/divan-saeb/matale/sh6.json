@@ -1,0 +1,42 @@
+{
+  "Id": 26094,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردون سنگدل نبود مرد جنگ ما\r\nپروای تیغ کوه ندارد پلنگ ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردون سنگدل نبود مرد جنگ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروای تیغ کوه ندارد پلنگ ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

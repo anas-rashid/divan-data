@@ -1,0 +1,57 @@
+{
+  "Id": 30793,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۶",
+  "FullUrl": "/p389/robghm/sh536",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh536",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر دلشده‌ای، جان غم‌اندوزت کو؟\r\nدر دیده نگاه حسرت‌افروزت کو؟\r\nچون نرگس اگر کور نه‌ای، کو اشکت؟\r\nچون آتش اگر نمرده‌ای، سوزت کو؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دلشده‌ای، جان غم‌اندوزت کو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیده نگاه حسرت‌افروزت کو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نرگس اگر کور نه‌ای، کو اشکت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون آتش اگر نمرده‌ای، سوزت کو؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

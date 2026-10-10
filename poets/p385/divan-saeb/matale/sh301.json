@@ -1,0 +1,42 @@
+{
+  "Id": 26389,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۰۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۰۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh301",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh301",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز پیچ و تاب در دل به ما فراز نشد\r\nچه حلقه ها که بر این در زدیم و باز نشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز پیچ و تاب در دل به ما فراز نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه حلقه ها که بر این در زدیم و باز نشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

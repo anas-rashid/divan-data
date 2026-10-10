@@ -1,0 +1,57 @@
+{
+  "Id": 31997,
+  "CatId": 1094,
+  "Title": "شمارهٔ ۱۰ - روی مگردان ز کرم",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » مثنویات » شمارهٔ ۱۰ - روی مگردان ز کرم",
+  "FullUrl": "/p390/divan/masnavi/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/masnavi/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای چو گل افکنده هوس های تو\r\nبر سر زر، لرزه بر اعضای تو\r\nداری اگر اصل چو در یتیم\r\nروی مگردان ز کرم چون سلیم",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چو گل افکنده هوس های تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سر زر، لرزه بر اعضای تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داری اگر اصل چو در یتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روی مگردان ز کرم چون سلیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

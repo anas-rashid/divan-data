@@ -1,0 +1,42 @@
+{
+  "Id": 26185,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۹۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کم کم کن آشنا به لب زخم دشنه را\r\nسیراب می کنند به تدریج تشنه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم کم کن آشنا به لب زخم دشنه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیراب می کنند به تدریج تشنه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

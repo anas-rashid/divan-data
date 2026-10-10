@@ -1,0 +1,105 @@
+{
+  "Id": 33652,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۲۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۲۵",
+  "FullUrl": "/p392/ghazal-hz/sh225",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh225",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دور از در تو روضه ی رضوان به ما نساخت\r\nبوی گل و نسیم گلستان به ما نساخت\r\nپروانه را در آتش سوزان چه زندگی ست؟\r\nوصل تو چون مصیبت هجران به ما نساخت\r\nدر هیچ شهر و هیچ دیارم قرار نیست\r\nصبح وطن، چو شام غریبان به ما نساخت\r\nتنگ است جلوه گاه دو عالم به وحشتم\r\nآرام شهر و شور بیابان به ما نساخت\r\nعیسی نشسته است به بالین من خجل\r\nآب و هوای کشور امکان به ما نساخت\r\nساکن، درای قافله ی ما نشد حزبن\r\nدر هجر و وصل، این دل نالان به ما نساخت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دور از در تو روضه ی رضوان به ما نساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی گل و نسیم گلستان به ما نساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پروانه را در آتش سوزان چه زندگی ست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصل تو چون مصیبت هجران به ما نساخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در هیچ شهر و هیچ دیارم قرار نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صبح وطن، چو شام غریبان به ما نساخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تنگ است جلوه گاه دو عالم به وحشتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آرام شهر و شور بیابان به ما نساخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عیسی نشسته است به بالین من خجل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آب و هوای کشور امکان به ما نساخت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ساکن، درای قافله ی ما نشد حزبن",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در هجر و وصل، این دل نالان به ما نساخت",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17812,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۸۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۸۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh281",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh281",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچَند دیده‌ها را، نادیده می‌شُماری\r\nهرجا که پاگذاری، فرش است، دیده‌ی ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچَند دیده‌ها را، نادیده می‌شُماری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرجا که پاگذاری، فرش است، دیده‌ی ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

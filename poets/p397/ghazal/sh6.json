@@ -1,0 +1,93 @@
+{
+  "Id": 38783,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۶",
+  "FullUrl": "/p397/ghazal/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من من مگو تو من من، هی هوی گویی ها ها\r\nها ها و های هی هی، هُو های های ها ها\r\nاسرار کس نداند، این های هوی هی را\r\nواقف کسی نگردد هی هوی های ها ها\r\nشوق دلم نداند، هی هی چه چاره سازم\r\nاز خود چرا براندی، هی هوی های ها ها\r\nدانی تو درد دل را، جز تو کسی نداند\r\nجز تو به کس نگویم، هی هوی های ها ها\r\nیاری غزل بخواند، حالش دگر نه داند\r\nلیکن ز در براندی، هی هوی های ها ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من من مگو تو من من، هی هوی گویی ها ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ها ها و های هی هی، هُو های های ها ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اسرار کس نداند، این های هوی هی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "واقف کسی نگردد هی هوی های ها ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شوق دلم نداند، هی هی چه چاره سازم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از خود چرا براندی، هی هوی های ها ها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دانی تو درد دل را، جز تو کسی نداند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جز تو به کس نگویم، هی هوی های ها ها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یاری غزل بخواند، حالش دگر نه داند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لیکن ز در براندی، هی هوی های ها ها",
+      "CoupletIndex": 4
+    }
+  ]
+}

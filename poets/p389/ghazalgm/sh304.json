@@ -1,0 +1,81 @@
+{
+  "Id": 30052,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۰۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۰۴",
+  "FullUrl": "/p389/ghazalgm/sh304",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh304",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم کجا شد که به جان آمدم از شادی خویش\r\nهیچ‌کس نیست چو من دشمن آبادی خویش\r\nدیر می‌کشت در آن کوی غمم، دور شدم\r\nخویش برخاستم از جای به جلادی خویش\r\nهر گلی حلقه دامی‌ست درین راه مرا\r\nمی‌روم سوی قفس از پی آزادی خویش\r\nگفتی از من گذر، از خود نتوانی چو گذشت\r\nنگذرم از تو، ولی بگذرم از وادی خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم کجا شد که به جان آمدم از شادی خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هیچ‌کس نیست چو من دشمن آبادی خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیر می‌کشت در آن کوی غمم، دور شدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خویش برخاستم از جای به جلادی خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر گلی حلقه دامی‌ست درین راه مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می‌روم سوی قفس از پی آزادی خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گفتی از من گذر، از خود نتوانی چو گذشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نگذرم از تو، ولی بگذرم از وادی خویش",
+      "CoupletIndex": 3
+    }
+  ]
+}

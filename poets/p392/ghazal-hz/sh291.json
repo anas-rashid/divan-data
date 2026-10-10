@@ -1,0 +1,93 @@
+{
+  "Id": 33718,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۹۱",
+  "FullUrl": "/p392/ghazal-hz/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به آیینی که ترسازاده از بتخانه می‌آید\r\nنگاه از گوشهٔ آن نرگس مستانه می‌آید\r\nمگر افکنده لعل آبدارش از نظر می را\r\nکه اشک حسرتی از دیدهٔ پیمانه می‌آید\r\nبه یاد لعل میگون تو، در خاک لحد ما را\r\nهمان از دیده سیل گریهٔ مستانه می‌آید\r\nتجلّی زار می‌بینم، سر خاک شهیدان را\r\nمگر شمعی به طوف مشهد پروانه می‌آید\r\nحزین آراستند از نو، خرابات محبّت را\r\nمگر داغی به سر وقت دل دیوانه می‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به آیینی که ترسازاده از بتخانه می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاه از گوشهٔ آن نرگس مستانه می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگر افکنده لعل آبدارش از نظر می را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که اشک حسرتی از دیدهٔ پیمانه می‌آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به یاد لعل میگون تو، در خاک لحد ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همان از دیده سیل گریهٔ مستانه می‌آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تجلّی زار می‌بینم، سر خاک شهیدان را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مگر شمعی به طوف مشهد پروانه می‌آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین آراستند از نو، خرابات محبّت را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مگر داغی به سر وقت دل دیوانه می‌آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

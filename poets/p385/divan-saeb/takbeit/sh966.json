@@ -1,0 +1,45 @@
+{
+  "Id": 18497,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۶۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۶۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh966",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh966",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون نگردم گرد سر تا پای او چون گردباد؟\r\nپاکدامانی که می‌بینم بیابان است و بس",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نگردم گرد سر تا پای او چون گردباد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاکدامانی که می‌بینم بیابان است و بس",
+      "CoupletIndex": 0
+    }
+  ]
+}

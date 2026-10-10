@@ -1,0 +1,45 @@
+{
+  "Id": 17805,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۷۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۷۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh274",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh274",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فیض ما دیوانگان کم نیست از ابر بهار\r\nخوشه بندد دانهٔ زنجیر در زندان ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فیض ما دیوانگان کم نیست از ابر بهار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشه بندد دانهٔ زنجیر در زندان ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

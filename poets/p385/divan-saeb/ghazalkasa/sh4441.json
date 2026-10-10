@@ -1,0 +1,81 @@
+{
+  "Id": 23514,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۴۴۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۴۴۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4441",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4441",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خورشید اگر از چشم کسان آب گشاید\r\nرخساره گلرنگ تو خوناب گشاید\r\nاز چشمه خورشید مجو آب مروت\r\nکاین چشمه ز چشم دگران آب گشاید\r\nدر نیم نفس می شود از پاک فروشان\r\nهر کس چو کتان بار به مهتاب گشاید\r\nدر بحر سر از حلقه گرداب برآرد\r\nهر کس که کمر در ره سیلاب گشاید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خورشید اگر از چشم کسان آب گشاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخساره گلرنگ تو خوناب گشاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از چشمه خورشید مجو آب مروت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین چشمه ز چشم دگران آب گشاید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در نیم نفس می شود از پاک فروشان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر کس چو کتان بار به مهتاب گشاید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در بحر سر از حلقه گرداب برآرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر کس که کمر در ره سیلاب گشاید",
+      "CoupletIndex": 3
+    }
+  ]
+}

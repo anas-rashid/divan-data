@@ -1,0 +1,57 @@
+{
+  "Id": 32080,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p390/divan/robaee/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با هم دو برادر سیه فام ببین\r\nگویی که دوپاره کرده ای یک سرگین\r\nلیکن به قد پست و بلند ایشان\r\nفرق است چو سایه های پیشین و پسین",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با هم دو برادر سیه فام ببین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی که دوپاره کرده ای یک سرگین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن به قد پست و بلند ایشان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرق است چو سایه های پیشین و پسین",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32046,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۸",
+  "FullUrl": "/p390/divan/robaee/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "الماس به زخم دل فگاران ریزند\r\nسیماب به جام بی قراران ریزند\r\nدر موسم گل، قطره ی باران از ابر\r\nاشکی ست که در وداع یاران ریزند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الماس به زخم دل فگاران ریزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیماب به جام بی قراران ریزند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در موسم گل، قطره ی باران از ابر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشکی ست که در وداع یاران ریزند",
+      "CoupletIndex": 1
+    }
+  ]
+}

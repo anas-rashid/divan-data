@@ -1,0 +1,93 @@
+{
+  "Id": 33701,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۷۴",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۷۴",
+  "FullUrl": "/p392/ghazal-hz/sh274",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh274",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نسرین به چمن برندمد گر بدن این است\r\nاز غنچه صبا دم نزند گر دهن این است\r\nیک دیده جلا یافته از نکهت یوسف\r\nصد دیده کند روشن، اگر پیرهن این است\r\nخال از خم آن زلف نمودی و نهفتی\r\nبنما که جگر خون کن مشک ختن این است\r\nگرد سر آن طره، چمن سیر تذروی\r\nپر میزد و می گفت: غریبان، وطن این است\r\nبی باده حزین از می گفتار تو مستیم\r\nپیمانه بپیما که شراب کهن این است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نسرین به چمن برندمد گر بدن این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از غنچه صبا دم نزند گر دهن این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک دیده جلا یافته از نکهت یوسف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد دیده کند روشن، اگر پیرهن این است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خال از خم آن زلف نمودی و نهفتی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بنما که جگر خون کن مشک ختن این است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گرد سر آن طره، چمن سیر تذروی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پر میزد و می گفت: غریبان، وطن این است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی باده حزین از می گفتار تو مستیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پیمانه بپیما که شراب کهن این است",
+      "CoupletIndex": 4
+    }
+  ]
+}

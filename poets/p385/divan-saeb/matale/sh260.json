@@ -1,0 +1,42 @@
+{
+  "Id": 26348,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۶۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۶۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh260",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh260",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به تمکینی ز جای خویش آن طناز می‌خیزد\r\nکه می‌لرزد عرق بر چهره‌اش اما نمی‌ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به تمکینی ز جای خویش آن طناز می‌خیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که می‌لرزد عرق بر چهره‌اش اما نمی‌ریزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

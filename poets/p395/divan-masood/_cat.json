@@ -1,0 +1,54 @@
+{
+  "Id": 1128,
+  "PoetId": 395,
+  "ParentId": 1127,
+  "Title": "دیوان اشعار",
+  "FullUrl": "/p395/divan-masood",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 1129,
+      "Title": "رباعیات",
+      "FullUrl": "/p395/divan-masood/robaeemss"
+    },
+    {
+      "Id": 1130,
+      "Title": "قصاید",
+      "FullUrl": "/p395/divan-masood/ghasidemk"
+    },
+    {
+      "Id": 1131,
+      "Title": "مقطعات",
+      "FullUrl": "/p395/divan-masood/ghetemk"
+    },
+    {
+      "Id": 1132,
+      "Title": "مثنویات",
+      "FullUrl": "/p395/divan-masood/masnavimk"
+    },
+    {
+      "Id": 1133,
+      "Title": "غزلیات",
+      "FullUrl": "/p395/divan-masood/ghazalmk"
+    },
+    {
+      "Id": 1134,
+      "Title": "ترکیبات و ترجیعات",
+      "FullUrl": "/p395/divan-masood/tarkibjee"
+    },
+    {
+      "Id": 1135,
+      "Title": "مسمطات",
+      "FullUrl": "/p395/divan-masood/mosammatmk"
+    }
+  ],
+  "Poems": [
+    {
+      "Id": 38426,
+      "Title": "مستزاد در مدح سلطان مسعود",
+      "FullUrl": "/p395/divan-masood/mostazad"
+    }
+  ]
+}

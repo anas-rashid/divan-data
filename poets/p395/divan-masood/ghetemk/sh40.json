@@ -1,0 +1,81 @@
+{
+  "Id": 38267,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۴۰ - موعظه",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۴۰ - موعظه",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آگاه نیست آدمی از گشت روزگار\r\nشادان همی نشیند و غافل همی رود\r\nدل بسته هواست گزیند ره هوا\r\nتن بنده دل آمد و با دل همی رود\r\nگر باطلی به بیند گوید که هست حق\r\nحقی که رفت گوید باطل همی رود\r\nماند بر آن که باشد بر کشتیی روان\r\nپندارد اوست ساکن و ساحل همی رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آگاه نیست آدمی از گشت روزگار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شادان همی نشیند و غافل همی رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل بسته هواست گزیند ره هوا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن بنده دل آمد و با دل همی رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر باطلی به بیند گوید که هست حق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حقی که رفت گوید باطل همی رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ماند بر آن که باشد بر کشتیی روان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پندارد اوست ساکن و ساحل همی رود",
+      "CoupletIndex": 3
+    }
+  ]
+}

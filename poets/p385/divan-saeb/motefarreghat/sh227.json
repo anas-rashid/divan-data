@@ -1,0 +1,57 @@
+{
+  "Id": 26833,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۲۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۲۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh227",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh227",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی تا کی برای رزق دل بر آسمان بندد؟\r\nبه جاب آب، آب رو به جوی کهکشان بندد\r\nز بس تلخ است کامم از حدیث تلخ، حیرانم\r\nکه چون با راستی نی را شکر در استخوان بندد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی تا کی برای رزق دل بر آسمان بندد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جاب آب، آب رو به جوی کهکشان بندد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بس تلخ است کامم از حدیث تلخ، حیرانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چون با راستی نی را شکر در استخوان بندد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37882,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۶۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۶۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh368",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh368",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با هر تاری ساخته چون پود شوی\r\nبا جمله همه زیان بی سود شوی\r\nدر دیده عهد دوست چون دود شوی\r\nزینگونه به کام دشمنان زود شوی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با هر تاری ساخته چون پود شوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با جمله همه زیان بی سود شوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دیده عهد دوست چون دود شوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زینگونه به کام دشمنان زود شوی",
+      "CoupletIndex": 1
+    }
+  ]
+}

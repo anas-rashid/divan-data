@@ -1,0 +1,66 @@
+{
+  "Id": 36333,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۸۲",
+  "FullUrl": "/p393/natmam/sh182",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh182",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز وصلت ناامیدی‌ها همه امید می‌گردد\r\nکه شام ماتم از روی تو صبح عید می‌گردد\r\nچه شد ای کعبهٔ جان گر تو از من روی گرداندی\r\nبه آن ذوقی که دل گرد تو می‌گردید می‌گردد\r\nبه پیش او مکن زنهار عرض دوستی ای دل\r\nکه بهر دشمنی آن شوخ را تمهید می‌گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز وصلت ناامیدی‌ها همه امید می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که شام ماتم از روی تو صبح عید می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه شد ای کعبهٔ جان گر تو از من روی گرداندی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به آن ذوقی که دل گرد تو می‌گردید می‌گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به پیش او مکن زنهار عرض دوستی ای دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که بهر دشمنی آن شوخ را تمهید می‌گردد",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 29913,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۶۵",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۶۵",
+  "FullUrl": "/p389/ghazalgm/sh165",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh165",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا عشق تو گاهی پرورد دل، گاه جان سوزد\r\nهمان آتش که دارد شمع را روشن، همان سوزد\r\nز بس کز دیده اشک گرم ریزم بر سر کویش\r\nجبین آفتاب از سجده آن آستان سوزد\r\nشکافم سینه را تا بر تو حال دل شود روشن\r\nوگرنه چون کنم تقریر حال دل، زبان سوزد\r\nچو فانوس آتش از پیراهنم امداد می‌خواهد\r\nدلم از سادگی از دیده مردم نهان سوزد\r\nچو محفل روشن است از آتشت، غمگین مشو قدسی\r\nچو شمع امشب گرت تا روز، مغز استخوان سوزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا عشق تو گاهی پرورد دل، گاه جان سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همان آتش که دارد شمع را روشن، همان سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بس کز دیده اشک گرم ریزم بر سر کویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جبین آفتاب از سجده آن آستان سوزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شکافم سینه را تا بر تو حال دل شود روشن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وگرنه چون کنم تقریر حال دل، زبان سوزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو فانوس آتش از پیراهنم امداد می‌خواهد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دلم از سادگی از دیده مردم نهان سوزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو محفل روشن است از آتشت، غمگین مشو قدسی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو شمع امشب گرت تا روز، مغز استخوان سوزد",
+      "CoupletIndex": 4
+    }
+  ]
+}

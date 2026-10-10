@@ -1,0 +1,42 @@
+{
+  "Id": 26190,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نغمه های جانفزا در پرده نی مدغم است؟\r\nیا دم روح القدس در آستین مریم است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نغمه های جانفزا در پرده نی مدغم است؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا دم روح القدس در آستین مریم است",
+      "CoupletIndex": 0
+    }
+  ]
+}

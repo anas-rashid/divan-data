@@ -1,0 +1,57 @@
+{
+  "Id": 33097,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۰۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۰۵",
+  "FullUrl": "/p391/divan/ghazal/sh1005",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1005",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن از تاب و تب است از شعلهٔ دیدار او\r\nرنگ را آتش به جان افتاده از رخسار او\r\nخانهٔ تن راست از باد نفس بیم زوال\r\nخواب راحت کی سزد در سایهٔ دیوار او",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن از تاب و تب است از شعلهٔ دیدار او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رنگ را آتش به جان افتاده از رخسار او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خانهٔ تن راست از باد نفس بیم زوال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواب راحت کی سزد در سایهٔ دیوار او",
+      "CoupletIndex": 1
+    }
+  ]
+}

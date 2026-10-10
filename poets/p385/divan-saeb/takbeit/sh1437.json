@@ -1,0 +1,45 @@
+{
+  "Id": 18968,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۳۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۳۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1437",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1437",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مشرق خمیازه می‌سازد دهن را حرف پوچ\r\nمستی بی درد سر خواهی، لب پیمانه شو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مشرق خمیازه می‌سازد دهن را حرف پوچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستی بی درد سر خواهی، لب پیمانه شو",
+      "CoupletIndex": 0
+    }
+  ]
+}

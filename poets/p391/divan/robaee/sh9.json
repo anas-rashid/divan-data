@@ -1,0 +1,57 @@
+{
+  "Id": 33280,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹",
+  "FullUrl": "/p391/divan/robaee/sh9",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh9",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواهی که به دستت افتد آن دُر خوشاب\r\nجویا به سوی بحر حقیقت بشتاب\r\nدر عشق مجاز هر که خود را درباخت\r\nاز سیل سراب خانه‌اش گشت خراب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواهی که به دستت افتد آن دُر خوشاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جویا به سوی بحر حقیقت بشتاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در عشق مجاز هر که خود را درباخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از سیل سراب خانه‌اش گشت خراب",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 24154,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۰۸۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۰۸۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5081",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5081",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوخی که مرا هست تمنای وصالش\r\nوحشی تر از آهوی رمیده است خیالش\r\nچشم و دل من تشنه حسنی است که از لطف\r\nدر آینه و آب نیفتاده مثالش\r\nهر چند که گیرنده بود خون شهیدان\r\nچون لاله بود داغدل از چهره آلش\r\nگردید مه عید مرا ناخنه چشم\r\nتا چشم من افتاد به ابروی هلالش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی که مرا هست تمنای وصالش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وحشی تر از آهوی رمیده است خیالش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم و دل من تشنه حسنی است که از لطف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آینه و آب نیفتاده مثالش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر چند که گیرنده بود خون شهیدان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون لاله بود داغدل از چهره آلش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گردید مه عید مرا ناخنه چشم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا چشم من افتاد به ابروی هلالش",
+      "CoupletIndex": 3
+    }
+  ]
+}

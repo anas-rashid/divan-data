@@ -1,0 +1,54 @@
+{
+  "Id": 36529,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۹",
+  "FullUrl": "/p393/ghete/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بدم بخنده که آن یار موسم شادیست\r\nخوشم به گریه که با من رفیق هر وادی است\r\nبه قتلگاه وفا پوست‌کنده می‌گویم\r\nکه کار غمزهٔ بی‌رحم یار جلادیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدم بخنده که آن یار موسم شادیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشم به گریه که با من رفیق هر وادی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به قتلگاه وفا پوست‌کنده می‌گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که کار غمزهٔ بی‌رحم یار جلادیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

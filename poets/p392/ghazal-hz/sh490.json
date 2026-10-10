@@ -1,0 +1,93 @@
+{
+  "Id": 33917,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۹۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۹۰",
+  "FullUrl": "/p392/ghazal-hz/sh490",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh490",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشا دمی که مرا دیده از غبار برآید\r\nز گرد هستیم آن نازنین سوار برآید\r\nهمین بس است که خود چاک می زنم به گریبان\r\nز دست کوته ما بیش ازین چه کار برآید؟\r\nز سرگذشته، به راهت نشسته ایمکه تاکی\r\nنگه به عربده، زان چشم میگسار برآید\r\nبغیر از اینکه به سرگشتگی جهان به سر آری\r\nدگر چه کام دل از دور روزگار برآید؟\r\nچه آتشی ست حزین ، این که در جگر زده عشقت؟\r\nبه یک صفیر تو، دود از دل بهار برآید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشا دمی که مرا دیده از غبار برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز گرد هستیم آن نازنین سوار برآید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همین بس است که خود چاک می زنم به گریبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز دست کوته ما بیش ازین چه کار برآید؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز سرگذشته، به راهت نشسته ایمکه تاکی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نگه به عربده، زان چشم میگسار برآید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بغیر از اینکه به سرگشتگی جهان به سر آری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دگر چه کام دل از دور روزگار برآید؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه آتشی ست حزین ، این که در جگر زده عشقت؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به یک صفیر تو، دود از دل بهار برآید",
+      "CoupletIndex": 4
+    }
+  ]
+}

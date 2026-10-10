@@ -1,0 +1,66 @@
+{
+  "Id": 32680,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۸۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۸۸",
+  "FullUrl": "/p391/divan/ghazal/sh588",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh588",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غنچه تا بگشود لب، خونین‌دلم آمد به یاد\r\nلاله را دیدم چراغ محفلم آمد به یاد\r\nدر فضای باغ دیدم داغ‌های لاله را\r\nچشم در خون خفتهٔ داغ دلم آمد به یاد\r\nجلوه‌گر شد موج تا در دیده‌ام با اضطراب\r\nپرفشانی‌های مرغ بسملم آمد به یاد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غنچه تا بگشود لب، خونین‌دلم آمد به یاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله را دیدم چراغ محفلم آمد به یاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در فضای باغ دیدم داغ‌های لاله را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم در خون خفتهٔ داغ دلم آمد به یاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جلوه‌گر شد موج تا در دیده‌ام با اضطراب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پرفشانی‌های مرغ بسملم آمد به یاد",
+      "CoupletIndex": 2
+    }
+  ]
+}

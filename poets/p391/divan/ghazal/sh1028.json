@@ -1,0 +1,54 @@
+{
+  "Id": 33120,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۲۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۲۸",
+  "FullUrl": "/p391/divan/ghazal/sh1028",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1028",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به زر نگین صفت از بس دل تو بند شده\r\nچو سکه نام تو از روی زر بلند شده\r\nدر این محیط که موجش کمند صید بلاست\r\nحباب وار دل ما به هیچ بند شده",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به زر نگین صفت از بس دل تو بند شده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو سکه نام تو از روی زر بلند شده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در این محیط که موجش کمند صید بلاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حباب وار دل ما به هیچ بند شده",
+      "CoupletIndex": 1
+    }
+  ]
+}

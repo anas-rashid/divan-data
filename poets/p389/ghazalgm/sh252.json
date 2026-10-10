@@ -1,0 +1,93 @@
+{
+  "Id": 30000,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۵۲",
+  "FullUrl": "/p389/ghazalgm/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا هر قطره‌ای کز دیده در دامن فرو ریزد\r\nشود چشمی و خون بر حال چشم من فرو ریزد\r\nز مهر عارض مهتاب سیمایت عجب نبود\r\nاگر پیراهن من چون کتان از تن فرو ریزد\r\nبه یاد عارضت چون گریه‌ام بر دیده زور آرد\r\nبه جای آب، مهر و ماه در دامن فرو ریزد\r\nز تاب عارض خورشیدرویان، مردم چشمم\r\nبه جای اشک خونین، اخگر از دامن فرو ریزد\r\nبهارست و به طرف بوستان از تاب دل قدسی\r\nبرآری گر نفس، برگ گل و سوسن فرو ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا هر قطره‌ای کز دیده در دامن فرو ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شود چشمی و خون بر حال چشم من فرو ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز مهر عارض مهتاب سیمایت عجب نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر پیراهن من چون کتان از تن فرو ریزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به یاد عارضت چون گریه‌ام بر دیده زور آرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به جای آب، مهر و ماه در دامن فرو ریزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز تاب عارض خورشیدرویان، مردم چشمم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به جای اشک خونین، اخگر از دامن فرو ریزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بهارست و به طرف بوستان از تاب دل قدسی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برآری گر نفس، برگ گل و سوسن فرو ریزد",
+      "CoupletIndex": 4
+    }
+  ]
+}

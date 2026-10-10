@@ -1,0 +1,81 @@
+{
+  "Id": 23938,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۸۶۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۸۶۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4865",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4865",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روشناسِ اهلِ مشرب چون درِ میخانه باش\r\nآشناتر با می از خطِ لبِ پیمانه باش\r\nدیده‌بانی را به بلبل داد آخر باغبان\r\nچشمِ بدبینی ببند و چشمِ صاحب خانه باش\r\nدر غبارِ خط نهان شد خال، رحمی پیش گیر\r\nدام را در خاک چون کردی به فکر دانه باش\r\nصائب امشب نوبتِ افسانهٔ مژگان اوست\r\nچشم اگر داری به فکرِ گریهٔ مستانه باش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روشناسِ اهلِ مشرب چون درِ میخانه باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آشناتر با می از خطِ لبِ پیمانه باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیده‌بانی را به بلبل داد آخر باغبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشمِ بدبینی ببند و چشمِ صاحب خانه باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در غبارِ خط نهان شد خال، رحمی پیش گیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دام را در خاک چون کردی به فکر دانه باش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صائب امشب نوبتِ افسانهٔ مژگان اوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چشم اگر داری به فکرِ گریهٔ مستانه باش",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37455,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۷۰",
+  "FullUrl": "/p394/ghazal/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز درد عشق ضعیف است بس که پیکر ما\r\nشود به تیغ گریبان جدا ز تن سرما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز درد عشق ضعیف است بس که پیکر ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شود به تیغ گریبان جدا ز تن سرما",
+      "CoupletIndex": 0
+    }
+  ]
+}

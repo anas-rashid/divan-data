@@ -1,0 +1,57 @@
+{
+  "Id": 30346,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/p389/robghm/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردم ز فراق منزل یار کجاست\r\nدر شهر، دواشناس بیمار کجاست\r\nای آن که ز چارسوی عشق آمده‌ای\r\nبنمای به من دکان عطار کجاست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردم ز فراق منزل یار کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در شهر، دواشناس بیمار کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آن که ز چارسوی عشق آمده‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنمای به من دکان عطار کجاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

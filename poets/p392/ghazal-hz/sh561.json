@@ -1,0 +1,93 @@
+{
+  "Id": 33988,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۶۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۶۱",
+  "FullUrl": "/p392/ghazal-hz/sh561",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh561",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تلخ از لبت، ای خسرو خوبان به گدا بس\r\nاز همچو تویی قسمت ما جور و جفا بس\r\nپیش تو کند فاش، پریشانی عاشق\r\nپیغام دلم با سر زلف تو، صبا بس\r\nبا عفو، گناهی بتر از ترک گنه نیست\r\nچون دوست کریم است، مرا فعل خطا بس\r\nبا سایهٔ گل خوی کن و نالهٔ بلبل\r\nدرگلشن ایجاد همین برگ و نوا بس\r\nبر سر گل باغ تو زیاد است حزین را\r\nاو را ز گلستان تو یک برگ گیا بس",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تلخ از لبت، ای خسرو خوبان به گدا بس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از همچو تویی قسمت ما جور و جفا بس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش تو کند فاش، پریشانی عاشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیغام دلم با سر زلف تو، صبا بس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با عفو، گناهی بتر از ترک گنه نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون دوست کریم است، مرا فعل خطا بس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با سایهٔ گل خوی کن و نالهٔ بلبل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "درگلشن ایجاد همین برگ و نوا بس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر سر گل باغ تو زیاد است حزین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "او را ز گلستان تو یک برگ گیا بس",
+      "CoupletIndex": 4
+    }
+  ]
+}

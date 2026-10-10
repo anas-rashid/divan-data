@@ -1,0 +1,57 @@
+{
+  "Id": 34597,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۲",
+  "FullUrl": "/p392/robaee-hz/sh202",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh202",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صوفی برخیز های و هوبی بزنیم\r\nآتش در دل به یاد رویی بزنیم\r\nبا سینهٔ تنگ، نعرهٔ مستانه\r\nدر نیم شبان بر سر کویی بزنیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی برخیز های و هوبی بزنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش در دل به یاد رویی بزنیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با سینهٔ تنگ، نعرهٔ مستانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در نیم شبان بر سر کویی بزنیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

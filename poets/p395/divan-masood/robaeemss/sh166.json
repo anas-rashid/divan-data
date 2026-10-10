@@ -1,0 +1,57 @@
+{
+  "Id": 37680,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۶۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۶۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh166",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh166",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای روی تو آفتاب و من نیلوفر\r\nچون نیلوفر در آبم از دیده تر\r\nتا تو نتابی چو آفتاب ای دلبر\r\nنگشایم دیدگان و برنارم سر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای روی تو آفتاب و من نیلوفر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون نیلوفر در آبم از دیده تر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا تو نتابی چو آفتاب ای دلبر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگشایم دیدگان و برنارم سر",
+      "CoupletIndex": 1
+    }
+  ]
+}

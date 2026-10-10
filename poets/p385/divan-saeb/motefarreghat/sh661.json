@@ -1,0 +1,57 @@
+{
+  "Id": 27267,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۶۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۶۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh661",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh661",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "محبت چون کند زورآزمایی\r\nشکست آرد به قلب مومیایی\r\nبه رنگ و بو مناز ای گل که دارد\r\nخزان در آستین دست حنایی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "محبت چون کند زورآزمایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکست آرد به قلب مومیایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به رنگ و بو مناز ای گل که دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خزان در آستین دست حنایی",
+      "CoupletIndex": 1
+    }
+  ]
+}

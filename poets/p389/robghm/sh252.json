@@ -1,0 +1,57 @@
+{
+  "Id": 30509,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۵۲",
+  "FullUrl": "/p389/robghm/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آخر همه ناوک هدف خواهد شد\r\nانگشت هلال، زود کف خواهد شد\r\nچون سیل عدم کند جهان را هموار\r\nاین پست و بلند برطرف خواهد شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آخر همه ناوک هدف خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انگشت هلال، زود کف خواهد شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون سیل عدم کند جهان را هموار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این پست و بلند برطرف خواهد شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

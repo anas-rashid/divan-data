@@ -1,0 +1,54 @@
+{
+  "Id": 36550,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۷۰",
+  "FullUrl": "/p393/ghete/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خال در آن گوشهٔ ابرو غریب افتاده است\r\nدر حریم کعبه آن هندو غریب افتاده است\r\nمی‌شود غربت وطن چون همنشینان بگذرند\r\nکرد تا مجنون سفر آهو غریب افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خال در آن گوشهٔ ابرو غریب افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حریم کعبه آن هندو غریب افتاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌شود غربت وطن چون همنشینان بگذرند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کرد تا مجنون سفر آهو غریب افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

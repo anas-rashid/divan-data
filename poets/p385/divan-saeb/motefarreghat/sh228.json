@@ -1,0 +1,57 @@
+{
+  "Id": 26834,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۲۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۲۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خطش خورشید را در دامگاه هاله می آرد\r\nرخ او جام می را در لباس لاله می آرد\r\nنه از تیشه است کوه بیستون را ناله و زاری\r\nشکوه حسن شیرین سنگ را در ناله می آرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خطش خورشید را در دامگاه هاله می آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخ او جام می را در لباس لاله می آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه از تیشه است کوه بیستون را ناله و زاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکوه حسن شیرین سنگ را در ناله می آرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

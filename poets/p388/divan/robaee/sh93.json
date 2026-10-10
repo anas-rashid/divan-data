@@ -1,0 +1,57 @@
+{
+  "Id": 29700,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۳",
+  "FullUrl": "/p388/divan/robaee/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دنباله دو خاطر خودرای خودم\r\nبی زحمت ره آبله پای خودم\r\nصد پرده درم ز خود نیایم بیرون\r\nصد مرحله پیمایم و بر جای خودم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنباله دو خاطر خودرای خودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی زحمت ره آبله پای خودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد پرده درم ز خود نیایم بیرون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد مرحله پیمایم و بر جای خودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

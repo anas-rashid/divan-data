@@ -1,0 +1,57 @@
+{
+  "Id": 30597,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۴۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۴۰",
+  "FullUrl": "/p389/robghm/sh340",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh340",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دنیا مطلوب طالب دین نشود\r\nشیدایی آن، شیفته این نشود\r\nبار دل عارف نشود جلوه دهر\r\nآیینه ز عکس کوه سنگین نشود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیا مطلوب طالب دین نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شیدایی آن، شیفته این نشود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بار دل عارف نشود جلوه دهر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه ز عکس کوه سنگین نشود",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26951,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۴۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۴۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh345",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh345",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین ریاض کسی خوشه اش دو سر دارد\r\nکه غیر اشک دگر دانه ای نمی کارد\r\nازان ز عمر ابد کامیاب شد ابلیس\r\nکه سر به سجده آدم فرو نمی آرد\r\nدلی که تشنه دیدار آتشین رویی است\r\nبه غیر آب شدن چاره ای نمی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین ریاض کسی خوشه اش دو سر دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که غیر اشک دگر دانه ای نمی کارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ازان ز عمر ابد کامیاب شد ابلیس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سر به سجده آدم فرو نمی آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلی که تشنه دیدار آتشین رویی است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به غیر آب شدن چاره ای نمی دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

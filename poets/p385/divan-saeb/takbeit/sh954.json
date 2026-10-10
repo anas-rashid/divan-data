@@ -1,0 +1,45 @@
+{
+  "Id": 18485,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۵۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۵۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh954",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh954",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز گوشهٔ قناعت ازین خاکدان مگیر\r\nغیر از کنار، هیچ ز اهل جهان مگیر",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز گوشهٔ قناعت ازین خاکدان مگیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غیر از کنار، هیچ ز اهل جهان مگیر",
+      "CoupletIndex": 0
+    }
+  ]
+}

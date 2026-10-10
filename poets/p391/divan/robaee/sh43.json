@@ -1,0 +1,57 @@
+{
+  "Id": 33314,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۴۳",
+  "FullUrl": "/p391/divan/robaee/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فریاد و فغان ز جور نفس بی‌درد\r\nنامرد به من چه دشمنی‌ها که نکرد\r\nبر روی ز بس غبار خجلت دارم\r\nگردد چون رنگ بر رخم خیزد گرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فریاد و فغان ز جور نفس بی‌درد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نامرد به من چه دشمنی‌ها که نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر روی ز بس غبار خجلت دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردد چون رنگ بر رخم خیزد گرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34424,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/p392/robaee-hz/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق است سلیمان و دل انگشتر اوست\r\nداغ جگرم سیاهی لشکر اوست\r\nقالب نی و جان ناشکیباست نوا\r\nنالیدن ما از لب چون شکر اوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است سلیمان و دل انگشتر اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ جگرم سیاهی لشکر اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قالب نی و جان ناشکیباست نوا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نالیدن ما از لب چون شکر اوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

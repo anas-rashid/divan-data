@@ -1,0 +1,57 @@
+{
+  "Id": 30620,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۶۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۶۳",
+  "FullUrl": "/p389/robghm/sh363",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh363",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن مرغ نه بهر دانه‌ام می‌آید\r\nاز بهر می شبانه‌ام می‌آید\r\nشوخی که نیامدی به خوابم هرگز\r\nاز دولت می به خانه‌ام می‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن مرغ نه بهر دانه‌ام می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بهر می شبانه‌ام می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شوخی که نیامدی به خوابم هرگز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دولت می به خانه‌ام می‌آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

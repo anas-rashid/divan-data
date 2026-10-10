@@ -1,0 +1,45 @@
+{
+  "Id": 18766,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۳۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۳۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1235",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1235",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسرت ما را به عمر رفته، چون برگ خزان\r\nمی‌توان دانست از دستی که بر هم سوده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسرت ما را به عمر رفته، چون برگ خزان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌توان دانست از دستی که بر هم سوده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

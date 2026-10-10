@@ -1,0 +1,57 @@
+{
+  "Id": 28925,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/p387/divan/robaee/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آزاده ز سر هوای دستار گذاشت\r\nقانع هوس اندک و بسیار گذاشت\r\nدر خانه دهر حرص چون جاروئیست\r\nهر چیز که جمع کرد ناچار گذاشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آزاده ز سر هوای دستار گذاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قانع هوس اندک و بسیار گذاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خانه دهر حرص چون جاروئیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چیز که جمع کرد ناچار گذاشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

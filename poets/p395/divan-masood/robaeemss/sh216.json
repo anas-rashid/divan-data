@@ -1,0 +1,57 @@
+{
+  "Id": 37730,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۱۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh216",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh216",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من ادهمم از خون دل ابرش گردم\r\nپس طرفه نمانم که منقش گردم\r\nدر آتش از آب دیدگان خوش گردم\r\nمن انگشتم بدم که آتش گردم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من ادهمم از خون دل ابرش گردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پس طرفه نمانم که منقش گردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آتش از آب دیدگان خوش گردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من انگشتم بدم که آتش گردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

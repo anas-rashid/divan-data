@@ -1,0 +1,105 @@
+{
+  "Id": 38821,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۴۴",
+  "FullUrl": "/p397/ghazal/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به هر حالی جمال الله جویم\r\nبه هر قالی جمال الله جویم\r\nبه جز رویش نبینم هیچ چیزی\r\nز شوق جان جمال الله جویم\r\nز پیش و پس، خبر هرگز ندارم\r\nز این و آن جمال الله جویم\r\nبه مستی یار یاران گرچه مستم\r\nبه مستی هم جمال الله جویم\r\nطریق عشق مارا نیست دیگر\r\nبه هر ذره جمال الله جویم\r\nفدا شد جسم و جان در ذات یاهُو\r\nبه هستی هم، جمال الله جویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به هر حالی جمال الله جویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر قالی جمال الله جویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به جز رویش نبینم هیچ چیزی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز شوق جان جمال الله جویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز پیش و پس، خبر هرگز ندارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز این و آن جمال الله جویم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به مستی یار یاران گرچه مستم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به مستی هم جمال الله جویم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طریق عشق مارا نیست دیگر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به هر ذره جمال الله جویم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "فدا شد جسم و جان در ذات یاهُو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به هستی هم، جمال الله جویم",
+      "CoupletIndex": 5
+    }
+  ]
+}

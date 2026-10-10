@@ -1,0 +1,69 @@
+{
+  "Id": 26732,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۲۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh126",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh126",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هزار گرگ هوس در کمین عصمت توست\r\nچه وقت رفتن صحرا و سیر و صحبت توست؟\r\nز خط مگوی برات مسلمی دارم\r\nهنوز اول جوش بهار آفت توست\r\nزبان تهمت یک شهر را سخن دادن\r\nگناه خامشی شعله های غیرت توست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هزار گرگ هوس در کمین عصمت توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه وقت رفتن صحرا و سیر و صحبت توست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خط مگوی برات مسلمی دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هنوز اول جوش بهار آفت توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زبان تهمت یک شهر را سخن دادن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گناه خامشی شعله های غیرت توست",
+      "CoupletIndex": 2
+    }
+  ]
+}

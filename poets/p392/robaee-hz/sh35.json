@@ -1,0 +1,57 @@
+{
+  "Id": 34430,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/p392/robaee-hz/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افسانهٔ عشق، راز پنهان من است\r\nصد چاک چو جیب گل، گریبان من است\r\nزاهد، ره اسلام مداری بگذار\r\nدین را به بتان باختن ایمان من است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسانهٔ عشق، راز پنهان من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد چاک چو جیب گل، گریبان من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد، ره اسلام مداری بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دین را به بتان باختن ایمان من است",
+      "CoupletIndex": 1
+    }
+  ]
+}

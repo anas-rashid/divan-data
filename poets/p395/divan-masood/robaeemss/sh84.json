@@ -1,0 +1,57 @@
+{
+  "Id": 37598,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در شعر مرا نیک و بد چرخ یکی است\r\nگو خواه بگرد بر من و خواه بایست\r\nهر شاعر نیک را قوی طایفه ایست\r\nوالله که مرا به طایفه حاجت نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در شعر مرا نیک و بد چرخ یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گو خواه بگرد بر من و خواه بایست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر شاعر نیک را قوی طایفه ایست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "والله که مرا به طایفه حاجت نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

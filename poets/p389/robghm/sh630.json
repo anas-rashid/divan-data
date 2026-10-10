@@ -1,0 +1,57 @@
+{
+  "Id": 30887,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۰",
+  "FullUrl": "/p389/robghm/sh630",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh630",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش در پی عقل و هوش افراختنی\r\nهموراه به فکر خام پرداختنی\r\nاز شاخ بریده و گل چیده چو طفل\r\nپیوسته خراب گلستان ساختنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش در پی عقل و هوش افراختنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هموراه به فکر خام پرداختنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شاخ بریده و گل چیده چو طفل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیوسته خراب گلستان ساختنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

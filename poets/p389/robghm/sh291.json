@@ -1,0 +1,57 @@
+{
+  "Id": 30548,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۹۱",
+  "FullUrl": "/p389/robghm/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کس که به ذکر محضت ارشاد کند\r\nاز بندگی‌ات چگونه آزاد کند؟\r\nخود گو: بر خواجه جای خدمت گیرد\r\nهرچند که بنده خواجه را یاد کند؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که به ذکر محضت ارشاد کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بندگی‌ات چگونه آزاد کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود گو: بر خواجه جای خدمت گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند که بنده خواجه را یاد کند؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

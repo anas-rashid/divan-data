@@ -1,0 +1,54 @@
+{
+  "Id": 37185,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳",
+  "FullUrl": "/p393/robaee/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق گران‌قدر سبک‌سیر بیا\r\nتا چند نزاع حرم و دیر بیا\r\nکفر و اسلام جنگ با هم دارند\r\nای صلح ده ثالث بالخیر بیا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق گران‌قدر سبک‌سیر بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند نزاع حرم و دیر بیا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کفر و اسلام جنگ با هم دارند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای صلح ده ثالث بالخیر بیا",
+      "CoupletIndex": 1
+    }
+  ]
+}

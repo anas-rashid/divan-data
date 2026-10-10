@@ -1,0 +1,57 @@
+{
+  "Id": 34453,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۵۸",
+  "FullUrl": "/p392/robaee-hz/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از روی تو شمع سان نگاهم همه سوخت\r\nوز گرمی خویت اشک و آهم همه سوخت\r\nدامان از اشک سبزه زاری شده بود\r\nبرقی بدرخشید و گیاهم همه سوخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از روی تو شمع سان نگاهم همه سوخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گرمی خویت اشک و آهم همه سوخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دامان از اشک سبزه زاری شده بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برقی بدرخشید و گیاهم همه سوخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

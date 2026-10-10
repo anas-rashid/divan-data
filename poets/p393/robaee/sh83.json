@@ -1,0 +1,54 @@
+{
+  "Id": 37255,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/p393/robaee/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با ما دعوی هم‌سری نتوان کرد\r\nزنهار که آن دلاوی نتوان کرد\r\nدر راهش با خاک برابر شده‌ایم\r\nدیگر با ما برابری نتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با ما دعوی هم‌سری نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنهار که آن دلاوی نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در راهش با خاک برابر شده‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیگر با ما برابری نتوان کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

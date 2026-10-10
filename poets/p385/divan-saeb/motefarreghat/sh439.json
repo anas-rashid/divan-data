@@ -1,0 +1,57 @@
+{
+  "Id": 27045,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۳۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۳۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh439",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh439",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "توفیق، مرا رخت به منزل نرساند\r\nخاشاک مرا موج به ساحل نرساند\r\nای وای بر آن کشته که از گریه شادی\r\nآبی به کف خنجر قاتل نرساند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "توفیق، مرا رخت به منزل نرساند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاشاک مرا موج به ساحل نرساند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای وای بر آن کشته که از گریه شادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آبی به کف خنجر قاتل نرساند",
+      "CoupletIndex": 1
+    }
+  ]
+}

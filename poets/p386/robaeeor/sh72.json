@@ -1,0 +1,57 @@
+{
+  "Id": 28115,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۷۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷۲",
+  "FullUrl": "/p386/robaeeor/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مهر تو هیچ وکین دشمن هم هیچ\r\nآهنگ سرود هیچ و شیون هم هیچ\r\nاز هر چه نقاب می گشایی عشق است\r\nعرفی همه هیچ و هیچ گفتن هم هیچ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مهر تو هیچ وکین دشمن هم هیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آهنگ سرود هیچ و شیون هم هیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هر چه نقاب می گشایی عشق است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عرفی همه هیچ و هیچ گفتن هم هیچ",
+      "CoupletIndex": 1
+    }
+  ]
+}

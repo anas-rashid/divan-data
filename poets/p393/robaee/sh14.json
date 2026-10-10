@@ -1,0 +1,54 @@
+{
+  "Id": 37186,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/p393/robaee/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مالید غم زمانه گوش دل ما\r\nزان‌سان که ز سر برید هوش دل ما\r\nجز بار خدای کیست تا بردارد\r\nاین‌بار بلا باز سر و دوش دل ما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مالید غم زمانه گوش دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان‌سان که ز سر برید هوش دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جز بار خدای کیست تا بردارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این‌بار بلا باز سر و دوش دل ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

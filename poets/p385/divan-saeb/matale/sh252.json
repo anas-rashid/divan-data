@@ -1,0 +1,42 @@
+{
+  "Id": 26340,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۵۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با خوی سرکش او آتش سخن پذیرست\r\nبا خط تازه او ریحان سیاه پیرست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خوی سرکش او آتش سخن پذیرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با خط تازه او ریحان سیاه پیرست",
+      "CoupletIndex": 0
+    }
+  ]
+}

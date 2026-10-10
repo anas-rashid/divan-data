@@ -1,0 +1,45 @@
+{
+  "Id": 34978,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۱۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۱۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh319",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh319",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلم را، کرده یک پیمانه خون، لعل می آلودی\r\nبه جان دارم ز شکر خنده ای، داغ نمک سودی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلم را، کرده یک پیمانه خون، لعل می آلودی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جان دارم ز شکر خنده ای، داغ نمک سودی",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30361,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۴",
+  "FullUrl": "/p389/robghm/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند که مرد را ز خواهش ننگ است\r\nاز دست تهی، به آسمان در جنگ است\r\nباشد هنر آباد و هنرمند خراب\r\nمطرب بی شام و نغمه سیرآهنگ است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند که مرد را ز خواهش ننگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دست تهی، به آسمان در جنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشد هنر آباد و هنرمند خراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مطرب بی شام و نغمه سیرآهنگ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

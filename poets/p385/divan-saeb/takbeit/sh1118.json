@@ -1,0 +1,45 @@
+{
+  "Id": 18649,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۱۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۱۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1118",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1118",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق بر هر کس که زور آورد، من گشتم خراب\r\nسیل در هر جا که پا افشرد، من ویران شدم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق بر هر کس که زور آورد، من گشتم خراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیل در هر جا که پا افشرد، من ویران شدم",
+      "CoupletIndex": 0
+    }
+  ]
+}

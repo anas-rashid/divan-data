@@ -1,0 +1,57 @@
+{
+  "Id": 26846,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh240",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh240",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گه تبسم از لبش، گاهی سخن گل می کند\r\nفتنه ای هر دم ازان کنج دهن گل می کند\r\nبا حجاب او چه سازم کز نسیم یک نگاه\r\nعارض او از عرق صد پیرهن گل می کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه تبسم از لبش، گاهی سخن گل می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فتنه ای هر دم ازان کنج دهن گل می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با حجاب او چه سازم کز نسیم یک نگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عارض او از عرق صد پیرهن گل می کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

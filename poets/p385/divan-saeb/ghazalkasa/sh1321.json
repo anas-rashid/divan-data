@@ -1,0 +1,93 @@
+{
+  "Id": 20394,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۳۲۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۳۲۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرو مینا را تذروی بهتر از پیمانه نیست\r\nشمع را در بزم دلسوزی به از پروانه نیست\r\nحسن ذاتی فارغ است از صنعت مشاطگان\r\nزلف جوهر دست فرسود نسیم و شانه نیست\r\nمرغ روح اهل مشرب را نمی آرد به دام\r\nنقل آن مجلس که خبث سبحه صد دانه نیست\r\nعشق پنهانم ز مستی کرد گل در انجمن\r\nدشمنی راز نهان را چون لب پیمانه نیست\r\nسرکشی بگذار از سر، با دل صائب بساز\r\nشمع ایمن را گزیر از صحبت پروانه نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو مینا را تذروی بهتر از پیمانه نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع را در بزم دلسوزی به از پروانه نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حسن ذاتی فارغ است از صنعت مشاطگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زلف جوهر دست فرسود نسیم و شانه نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مرغ روح اهل مشرب را نمی آرد به دام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نقل آن مجلس که خبث سبحه صد دانه نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عشق پنهانم ز مستی کرد گل در انجمن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دشمنی راز نهان را چون لب پیمانه نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سرکشی بگذار از سر، با دل صائب بساز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شمع ایمن را گزیر از صحبت پروانه نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

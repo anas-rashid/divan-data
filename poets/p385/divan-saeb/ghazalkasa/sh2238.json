@@ -1,0 +1,105 @@
+{
+  "Id": 21311,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۲۳۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۲۳۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوشم با ناله خود، دم همین است\r\nچراغ حلقه ماتم همین است\r\nمگو در بیغمی آسودگی هست\r\nکه غم گر هست در عالم همین است\r\nمبند آزار موری نقش در دل\r\nکه اسم اعظم خاتم همین است\r\nنرنجم گرچه مجنونم شمارند\r\nتمیز مردم عالم همین است\r\nجمال کعبه می خواهد سپندی\r\nدلیل شوری زمزم همین است\r\nبه قرب گلعذاران دل مبندید\r\nوصیت نامه شبنم همین است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوشم با ناله خود، دم همین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چراغ حلقه ماتم همین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مگو در بیغمی آسودگی هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که غم گر هست در عالم همین است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مبند آزار موری نقش در دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که اسم اعظم خاتم همین است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نرنجم گرچه مجنونم شمارند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تمیز مردم عالم همین است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جمال کعبه می خواهد سپندی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دلیل شوری زمزم همین است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به قرب گلعذاران دل مبندید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "وصیت نامه شبنم همین است",
+      "CoupletIndex": 5
+    }
+  ]
+}

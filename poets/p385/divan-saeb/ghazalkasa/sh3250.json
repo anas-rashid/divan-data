@@ -1,0 +1,93 @@
+{
+  "Id": 22323,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۲۵۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۲۵۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3250",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3250",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کور باد آن که ز روی تو نظر می‌پیچد\r\nسر مبادش که ز شمشیر تو سر می‌پیچد\r\nسنبلی از ته هر سنگ برون می‌آید\r\nآه فرهاد چو در کوه و کمر می‌پیچد\r\nشیون دل بُوَد از چشم، که در خانه صدا\r\nدایم از رهگذر حلقه‌در می‌پیچد\r\nتا قیامت در دل بسته نخواهد ماندن\r\nعاقبت دست دعا قفل اثر می‌پیچد\r\nبر تهیدستی آغوش بگریم صائب\r\nهاله‌ای را چو ببینم به قمر می‌پیچد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کور باد آن که ز روی تو نظر می‌پیچد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر مبادش که ز شمشیر تو سر می‌پیچد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سنبلی از ته هر سنگ برون می‌آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه فرهاد چو در کوه و کمر می‌پیچد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شیون دل بُوَد از چشم، که در خانه صدا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دایم از رهگذر حلقه‌در می‌پیچد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا قیامت در دل بسته نخواهد ماندن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عاقبت دست دعا قفل اثر می‌پیچد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر تهیدستی آغوش بگریم صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هاله‌ای را چو ببینم به قمر می‌پیچد",
+      "CoupletIndex": 4
+    }
+  ]
+}

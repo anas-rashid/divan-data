@@ -1,0 +1,57 @@
+{
+  "Id": 26980,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh374",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh374",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آب بر آتش هر بی سر و پا افشاند\r\nچون رسد نوبت ما، دست به ما افشاند\r\nمن که بر نکهت پیراهن او دارم چشم\r\nآب بر آتش من باد صبا افشاند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آب بر آتش هر بی سر و پا افشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون رسد نوبت ما، دست به ما افشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من که بر نکهت پیراهن او دارم چشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب بر آتش من باد صبا افشاند",
+      "CoupletIndex": 1
+    }
+  ]
+}

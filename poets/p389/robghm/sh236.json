@@ -1,0 +1,57 @@
+{
+  "Id": 30493,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۳۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۳۶",
+  "FullUrl": "/p389/robghm/sh236",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh236",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افتاده عشق، کی ز جا برخیزد\r\nنقشش مگر از باد فنا برخیزد\r\nبر خاک، همان ز خاک افتاده‌ترست\r\nهرچند ز خاک، نقش پا برخیزد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افتاده عشق، کی ز جا برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقشش مگر از باد فنا برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خاک، همان ز خاک افتاده‌ترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچند ز خاک، نقش پا برخیزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

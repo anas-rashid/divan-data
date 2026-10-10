@@ -1,0 +1,57 @@
+{
+  "Id": 30643,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۸۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۸۶",
+  "FullUrl": "/p389/robghm/sh386",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh386",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی ز بتان حسرت دیدار مدار\r\nسر در پی چشم خویش زنهار مدار\r\nمعشوق تو در دل است، نتوان دیدش\r\nبر هرچه نظر کار کند، کار مدار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی ز بتان حسرت دیدار مدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر در پی چشم خویش زنهار مدار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معشوق تو در دل است، نتوان دیدش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر هرچه نظر کار کند، کار مدار",
+      "CoupletIndex": 1
+    }
+  ]
+}

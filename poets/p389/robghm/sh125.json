@@ -1,0 +1,57 @@
+{
+  "Id": 30382,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/p389/robghm/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با آن که چو مهر، یار تنها گذرست\r\nپیوسته مرا ز رشک، خون در جگرست\r\nکان یار که چشم یاری از او دارم\r\nصد ره از من به خود گرفتارترست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با آن که چو مهر، یار تنها گذرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته مرا ز رشک، خون در جگرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کان یار که چشم یاری از او دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد ره از من به خود گرفتارترست",
+      "CoupletIndex": 1
+    }
+  ]
+}

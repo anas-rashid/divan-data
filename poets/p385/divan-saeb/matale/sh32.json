@@ -1,0 +1,42 @@
+{
+  "Id": 26120,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "راحت مرگ فقیران ز اغنیا افزونترست\r\nکفش تنگ از پا برون کردن حضور دیگرست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "راحت مرگ فقیران ز اغنیا افزونترست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کفش تنگ از پا برون کردن حضور دیگرست",
+      "CoupletIndex": 0
+    }
+  ]
+}

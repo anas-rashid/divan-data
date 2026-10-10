@@ -1,0 +1,93 @@
+{
+  "Id": 27442,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳۴",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳۴",
+  "FullUrl": "/p386/ghazalor/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل چو به غم شاد زیست، مهر و وفا از او طلب\r\nغم چو گو ۰۰۰ رفت، برگ و نوا از او طلب\r\n یا به دعا غیر درد، از در ایزدی مخواه\r\nیا به طلب اگر خوشی، برگ و نوا از او طلب\r\nجون روش عهد ما، کرده فلک واژگون\r\nتشنه رسی چو خضر، زهر فنا از او طلب\r\nآن که کشید یک شراب، زو مطلب درد و صاف\r\nوآنکه خورد نوش زهر، درد و دوا از او طلب\r\nاز چه روی به نزد شیخ، جانب عرفیم شتاب\r\nمطلب اگر های و هوی است، خیز و بیا از او طلب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل چو به غم شاد زیست، مهر و وفا از او طلب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم چو گو ۰۰۰ رفت، برگ و نوا از او طلب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": " یا به دعا غیر درد، از در ایزدی مخواه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا به طلب اگر خوشی، برگ و نوا از او طلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جون روش عهد ما، کرده فلک واژگون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تشنه رسی چو خضر، زهر فنا از او طلب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آن که کشید یک شراب، زو مطلب درد و صاف",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وآنکه خورد نوش زهر، درد و دوا از او طلب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از چه روی به نزد شیخ، جانب عرفیم شتاب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مطلب اگر های و هوی است، خیز و بیا از او طلب",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30838,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۸۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۸۱",
+  "FullUrl": "/p389/robghm/sh581",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh581",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دوری خود، بی پر و بالم کردی\r\nدانسته گرفتار ملالم کردی\r\nرفتی ز نظر، ولی نرفتی از یاد\r\nدیوانه سودای محالم کردی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دوری خود، بی پر و بالم کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانسته گرفتار ملالم کردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتی ز نظر، ولی نرفتی از یاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیوانه سودای محالم کردی",
+      "CoupletIndex": 1
+    }
+  ]
+}

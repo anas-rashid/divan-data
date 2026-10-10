@@ -1,0 +1,42 @@
+{
+  "Id": 26374,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۸۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۸۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حیات آنچه ترا صرف به طاعات شود\r\nچون رسد وقت، شفیع همه اوقات شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حیات آنچه ترا صرف به طاعات شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون رسد وقت، شفیع همه اوقات شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

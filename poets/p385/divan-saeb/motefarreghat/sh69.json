@@ -1,0 +1,57 @@
+{
+  "Id": 26675,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم روزی نخورد هر که دلش آزاده است\r\nروزی اهل تو کل همه جا آماده است\r\nجان روشن ندهد تن به کدورت، چه کند\r\nتیرگی لازمه آب حیات افتاده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم روزی نخورد هر که دلش آزاده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزی اهل تو کل همه جا آماده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان روشن ندهد تن به کدورت، چه کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیرگی لازمه آب حیات افتاده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

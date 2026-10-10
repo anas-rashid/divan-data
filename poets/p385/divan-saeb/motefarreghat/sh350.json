@@ -1,0 +1,57 @@
+{
+  "Id": 26956,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۵۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۵۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز خط صفا لب میگون یار پیدا کرد\r\nبهار نشأه این باده را دوبالا کرد\r\nمرا به دست تهی همچو شانه می باید\r\nگره ز کار پریشان عالمی وا کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز خط صفا لب میگون یار پیدا کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهار نشأه این باده را دوبالا کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا به دست تهی همچو شانه می باید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گره ز کار پریشان عالمی وا کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

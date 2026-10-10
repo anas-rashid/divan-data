@@ -1,0 +1,45 @@
+{
+  "Id": 26680,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در غلط می افکند هر دم سپند بزم را\r\nعکس رخسارت ز بس آیینه را افروخته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در غلط می افکند هر دم سپند بزم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عکس رخسارت ز بس آیینه را افروخته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

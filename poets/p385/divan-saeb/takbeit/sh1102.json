@@ -1,0 +1,45 @@
+{
+  "Id": 18633,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۰۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۰۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1102",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1102",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاقبت زد بر زمینم آن که از روی نیاز\r\nسال‌هابر روی دستش چون دعا می‌داشتم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقبت زد بر زمینم آن که از روی نیاز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سال‌هابر روی دستش چون دعا می‌داشتم",
+      "CoupletIndex": 0
+    }
+  ]
+}

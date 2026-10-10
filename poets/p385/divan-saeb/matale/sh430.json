@@ -1,0 +1,42 @@
+{
+  "Id": 26518,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۳۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۳۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh430",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh430",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون آتش است رغبت بی منتهای حرص\r\nکز سوختن زیاده شود اشتهای حرص",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون آتش است رغبت بی منتهای حرص",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز سوختن زیاده شود اشتهای حرص",
+      "CoupletIndex": 0
+    }
+  ]
+}

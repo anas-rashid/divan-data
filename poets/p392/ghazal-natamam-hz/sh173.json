@@ -1,0 +1,57 @@
+{
+  "Id": 34832,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh173",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh173",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز آتش بهار هوا را که بشکند؟\r\nجز می، طلسم توبهٔ ما را کِه بشکند؟\r\nدست و دل شکسته ام از کار برده ای\r\nبر عارض تو، زلف دو تا را که بشکند؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز آتش بهار هوا را که بشکند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز می، طلسم توبهٔ ما را کِه بشکند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست و دل شکسته ام از کار برده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر عارض تو، زلف دو تا را که بشکند؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

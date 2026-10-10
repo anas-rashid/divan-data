@@ -1,0 +1,54 @@
+{
+  "Id": 37190,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸",
+  "FullUrl": "/p393/robaee/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی به جهان کشیم تاب و تب را\r\nوز ناله به سر بریم روز و شب را\r\nگردید بلای جان ما بی‌صبری\r\nافرغ یا ربنا علینا صبرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی به جهان کشیم تاب و تب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ناله به سر بریم روز و شب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گردید بلای جان ما بی‌صبری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افرغ یا ربنا علینا صبرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

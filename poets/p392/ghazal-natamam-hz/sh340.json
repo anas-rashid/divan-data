@@ -1,0 +1,66 @@
+{
+  "Id": 34999,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۴۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۴۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh340",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh340",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کی از عشوه، فریب دل ناکام دهی\r\nجان ستانی گرو بوسه و دشنام دهی\r\nرنجه کن دست، چو با تیغ و کفن آمده ام\r\nگفته بودی که مراد دل ناکام دهی\r\nساغری نذر من دلشده، بر خاک فشان\r\nساقیا، می چو به رندان می آشام دهی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی از عشوه، فریب دل ناکام دهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان ستانی گرو بوسه و دشنام دهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رنجه کن دست، چو با تیغ و کفن آمده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گفته بودی که مراد دل ناکام دهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساغری نذر من دلشده، بر خاک فشان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ساقیا، می چو به رندان می آشام دهی",
+      "CoupletIndex": 2
+    }
+  ]
+}

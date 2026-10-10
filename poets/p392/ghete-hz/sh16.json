@@ -1,0 +1,69 @@
+{
+  "Id": 34355,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۱۶ - صحبت نامردمان",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۱۶ - صحبت نامردمان",
+  "FullUrl": "/p392/ghete-hz/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افتاده ام به صحبت نامردمان حزین\r\nدور زمانه ام، ستمی زین بتر نکرد\r\nوحشی غزال من، شده هم آخور خران\r\nجوری به کس، زمانه ازین بیشتر نکرد\r\nگردن کشید، از قفسی عندلیب و گفت\r\nآسوده بلبلی که سر از بیضه برنکرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افتاده ام به صحبت نامردمان حزین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دور زمانه ام، ستمی زین بتر نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وحشی غزال من، شده هم آخور خران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جوری به کس، زمانه ازین بیشتر نکرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گردن کشید، از قفسی عندلیب و گفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آسوده بلبلی که سر از بیضه برنکرد",
+      "CoupletIndex": 2
+    }
+  ]
+}

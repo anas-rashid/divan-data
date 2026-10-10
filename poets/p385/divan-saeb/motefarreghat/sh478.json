@@ -1,0 +1,45 @@
+{
+  "Id": 27084,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۷۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۷۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh478",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh478",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 31,
+    "Rhythm": "مفعول مفاعلن مفاعیلن (هزج مسدس اخرب مقبوض)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آه کان سرو گل اندام ز رعنایی ها\r\nجامه را فاخته ای کرده که نشناسندش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه کان سرو گل اندام ز رعنایی ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جامه را فاخته ای کرده که نشناسندش",
+      "CoupletIndex": 0
+    }
+  ]
+}

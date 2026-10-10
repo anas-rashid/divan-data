@@ -1,0 +1,54 @@
+{
+  "Id": 34686,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ادا سازد به خاموشی، لب او گفتگویش را\r\nنیارد در گریبان غنچه پنهان کرد بویش را\r\nز لخت دل، خیابان گلستانی‌ست مژگانم\r\nخزان نبود بهار خارخار آرزویش را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ادا سازد به خاموشی، لب او گفتگویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیارد در گریبان غنچه پنهان کرد بویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز لخت دل، خیابان گلستانی‌ست مژگانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خزان نبود بهار خارخار آرزویش را",
+      "CoupletIndex": 1
+    }
+  ]
+}

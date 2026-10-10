@@ -1,0 +1,105 @@
+{
+  "Id": 32750,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۵۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۵۸",
+  "FullUrl": "/p391/divan/ghazal/sh658",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh658",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غنچه مانند این دهن باشد\r\nچون دهان تو بی سخن باشد\r\nپی بوحدت بریم از کثرت\r\nخلوت ما در انجمن باشد\r\nگل داغ تو بر زمین دلم\r\nباغ باغ و چمن چمن باشد\r\nسیر و دورم ز بس سبکروحی\r\nبوی گل وار در وطن باشد\r\nغنچه با ترزبانی سرشار\r\nپیش نطق تو بی دهن باشد\r\nقدر شکر شکست زو جویا\r\nلب لعلش شکرشکن باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غنچه مانند این دهن باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون دهان تو بی سخن باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پی بوحدت بریم از کثرت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خلوت ما در انجمن باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل داغ تو بر زمین دلم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باغ باغ و چمن چمن باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سیر و دورم ز بس سبکروحی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بوی گل وار در وطن باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "غنچه با ترزبانی سرشار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پیش نطق تو بی دهن باشد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "قدر شکر شکست زو جویا",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "لب لعلش شکرشکن باشد",
+      "CoupletIndex": 5
+    }
+  ]
+}

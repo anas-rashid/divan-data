@@ -1,0 +1,57 @@
+{
+  "Id": 30711,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۵۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۵۴",
+  "FullUrl": "/p389/robghm/sh454",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh454",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا این کهن آسیا نکرده‌ست درنگ\r\nاز جود، شود فیض‌رسان کی دلتنگ؟\r\nهر دانه که بهره‌ای ازو می‌یابند\r\nیا تخم شود به خاک، یا نرم به سنگ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا این کهن آسیا نکرده‌ست درنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از جود، شود فیض‌رسان کی دلتنگ؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر دانه که بهره‌ای ازو می‌یابند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا تخم شود به خاک، یا نرم به سنگ",
+      "CoupletIndex": 1
+    }
+  ]
+}

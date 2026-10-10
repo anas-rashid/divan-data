@@ -1,0 +1,93 @@
+{
+  "Id": 22797,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۷۲۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۷۲۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3724",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3724",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر چه قامت سرو اعتدال را دارد\r\nکجا نزاکت آن نونهال را دارد؟\r\nز رستخیز خزان رنگ را نمی بازد\r\nدعای من به دو دست آن نهال را دارد\r\nنه شبنمیم که بالین ز برگ گل سازیم\r\nسر بریده ما زیر بال را دارد\r\nبهار رفت و خزان آب زد بر آتش گل\r\nهنوز بلبل ما قیل و قال را دارد\r\nهلاک شیوه انصاف می شود صائب\r\nهمین بس است که او این کمال را دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر چه قامت سرو اعتدال را دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجا نزاکت آن نونهال را دارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز رستخیز خزان رنگ را نمی بازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دعای من به دو دست آن نهال را دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نه شبنمیم که بالین ز برگ گل سازیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سر بریده ما زیر بال را دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بهار رفت و خزان آب زد بر آتش گل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هنوز بلبل ما قیل و قال را دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هلاک شیوه انصاف می شود صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همین بس است که او این کمال را دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26788,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۸۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh182",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh182",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از وصل، ملال دل خرم نمکین است\r\nدر دامن گل گریه شبنم نمکین است\r\nبی چاشنیی نیست شکرخنده شادی\r\nاما روش گریه ماتم نمکین است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از وصل، ملال دل خرم نمکین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دامن گل گریه شبنم نمکین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی چاشنیی نیست شکرخنده شادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اما روش گریه ماتم نمکین است",
+      "CoupletIndex": 1
+    }
+  ]
+}

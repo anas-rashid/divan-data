@@ -1,0 +1,57 @@
+{
+  "Id": 37814,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۰۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۰۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh300",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh300",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون گل ز غمت دریده ام پیراهن\r\nچون لاله بیالوده ام از خون رخ و تن\r\nچون شاخ بنفشه سرنگون باشم من\r\nترسم که بسی عمر نیابم چو سمن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون گل ز غمت دریده ام پیراهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون لاله بیالوده ام از خون رخ و تن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون شاخ بنفشه سرنگون باشم من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که بسی عمر نیابم چو سمن",
+      "CoupletIndex": 1
+    }
+  ]
+}

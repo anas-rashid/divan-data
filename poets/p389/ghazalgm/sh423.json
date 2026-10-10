@@ -1,0 +1,93 @@
+{
+  "Id": 30171,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۲۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۲۳",
+  "FullUrl": "/p389/ghazalgm/sh423",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh423",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان چیست کش فدا نکنم از برای تو؟\r\nخاکم به سر اگر نکنم جان فدای تو\r\nپنهان ز غیر، شب همه شب با چراغ چشم\r\nدر کوچه تو می‌طلبم نقش پای تو\r\nپروا نمی‌کنی و من از ناله‌های شب\r\nپر کرده گوش چرخ ز دست جفای تو\r\nدل می‌بری و فکر اسیران نمی‌کنی\r\nبیچاره آن کسی که شود مبتلای تو\r\nدوش از تو بوی مهر و وفایی شنیده‌ام\r\nگرد سر تو گردم و مهر و وفای تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان چیست کش فدا نکنم از برای تو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاکم به سر اگر نکنم جان فدای تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پنهان ز غیر، شب همه شب با چراغ چشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کوچه تو می‌طلبم نقش پای تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پروا نمی‌کنی و من از ناله‌های شب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پر کرده گوش چرخ ز دست جفای تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل می‌بری و فکر اسیران نمی‌کنی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بیچاره آن کسی که شود مبتلای تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دوش از تو بوی مهر و وفایی شنیده‌ام",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گرد سر تو گردم و مهر و وفای تو",
+      "CoupletIndex": 4
+    }
+  ]
+}

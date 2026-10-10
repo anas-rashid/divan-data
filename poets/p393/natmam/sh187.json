@@ -1,0 +1,66 @@
+{
+  "Id": 36338,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۸۷",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۸۷",
+  "FullUrl": "/p393/natmam/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سینه‌ام از داغ‌ها معمور باد\r\nتا ابد آن داغ‌ها ناسور باد\r\nدل که می‌آرد قیامت بر سرم\r\nبا قیامت قامتان محشور باد\r\nخوبی عالم ز خوبانست و بس\r\nچشم بد یا رب ز خوبان دور باد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سینه‌ام از داغ‌ها معمور باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ابد آن داغ‌ها ناسور باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل که می‌آرد قیامت بر سرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با قیامت قامتان محشور باد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوبی عالم ز خوبانست و بس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم بد یا رب ز خوبان دور باد",
+      "CoupletIndex": 2
+    }
+  ]
+}

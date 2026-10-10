@@ -1,0 +1,57 @@
+{
+  "Id": 37591,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh77",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh77",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر چرخ فتاده نور ایران ملکست\r\nواندر هر دل سرور ایران ملکست\r\nشادی همه از حضور ایران ملکست\r\nبفزا به طرب که سور ایران ملکست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر چرخ فتاده نور ایران ملکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واندر هر دل سرور ایران ملکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شادی همه از حضور ایران ملکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بفزا به طرب که سور ایران ملکست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26851,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(دود دل را اشک چشم تر تلافی می کند\r\nهر چه دوزخ می کند کوثر تلافی می کند)\r\n(هر ستم کز چشمش آمد عذر می خواهد لبش\r\nتلخی بادام را شکر تلافی می کند)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(دود دل را اشک چشم تر تلافی می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه دوزخ می کند کوثر تلافی می کند)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(هر ستم کز چشمش آمد عذر می خواهد لبش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخی بادام را شکر تلافی می کند)",
+      "CoupletIndex": 1
+    }
+  ]
+}

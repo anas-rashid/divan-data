@@ -1,0 +1,57 @@
+{
+  "Id": 38336,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۰۹ - بخل کوه",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۰۹ - بخل کوه",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرچه پیوسته همه از زر و سیم\r\nگنجها پر کند این کوه کلان\r\nطرف های کمرش برف و یخست\r\nبخل از این بیش نباشد به جهان",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه پیوسته همه از زر و سیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گنجها پر کند این کوه کلان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طرف های کمرش برف و یخست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بخل از این بیش نباشد به جهان",
+      "CoupletIndex": 1
+    }
+  ]
+}

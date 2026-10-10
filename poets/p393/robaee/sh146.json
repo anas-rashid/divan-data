@@ -1,0 +1,54 @@
+{
+  "Id": 37318,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴۶",
+  "FullUrl": "/p393/robaee/sh146",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh146",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند نهند دوستان صد نامم\r\nاز دولت عشق من همان بدنامم\r\nرسوای دیار خویش بودن تا کی\r\nجای بروم که کس نداند نامم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند نهند دوستان صد نامم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دولت عشق من همان بدنامم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسوای دیار خویش بودن تا کی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جای بروم که کس نداند نامم",
+      "CoupletIndex": 1
+    }
+  ]
+}

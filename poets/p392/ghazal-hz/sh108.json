@@ -1,0 +1,93 @@
+{
+  "Id": 33535,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p392/ghazal-hz/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه حسن است این که مجنون می کند عقل فسونگر را؟\r\nچه رنگ است این که در خون می کشد، دامان محشر را؟\r\nصفایی کز دم صبح بنا گوش تو می بینم\r\nبه خون رشک خواهد غوطه دادن، مهر خاور را\r\nبه چشم کم ندیدی ناز خونریز اسیرانش\r\nاگر می بود پروای نگاه، آن چشم کافر را\r\nچه استغناست کز چشم سیه مست تو می بینم؟\r\nبه خونم تشنه کرد آن تیغ مژگان ستمگر را\r\nحزین رسوا بود هر چند داغ سینه، می پوشم\r\nچه سان پنهان توانم درگریبان کرد اختر را؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه حسن است این که مجنون می کند عقل فسونگر را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه رنگ است این که در خون می کشد، دامان محشر را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صفایی کز دم صبح بنا گوش تو می بینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خون رشک خواهد غوطه دادن، مهر خاور را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به چشم کم ندیدی ناز خونریز اسیرانش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر می بود پروای نگاه، آن چشم کافر را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه استغناست کز چشم سیه مست تو می بینم؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به خونم تشنه کرد آن تیغ مژگان ستمگر را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین رسوا بود هر چند داغ سینه، می پوشم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه سان پنهان توانم درگریبان کرد اختر را؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

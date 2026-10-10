@@ -1,0 +1,93 @@
+{
+  "Id": 32505,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۴۱۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۴۱۳",
+  "FullUrl": "/p391/divan/ghazal/sh413",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh413",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که از حیرت به جا در اول رفتار ماند\r\nمی توان رنگ از رخم چون گرد از دامن فشاند\r\nساقی امشب کوتهی در دادن پیمانه کرد\r\nورنه از خود رفتنم آخر به جایی می رساند\r\nبسکه لعل آبدار او لطیف آید به چشم\r\nمی توان از پرده های دیده این می را چکاند\r\nبا نسیم امروز اعجاز دم روح اللهیست\r\nاز مزار ما کف خاکی به دامانش رساند\r\nآنکه شد جویا سبکبار علایق چون مسیح\r\nتوسن اقبال را در ساحت گردون جهاند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که از حیرت به جا در اول رفتار ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می توان رنگ از رخم چون گرد از دامن فشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساقی امشب کوتهی در دادن پیمانه کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ورنه از خود رفتنم آخر به جایی می رساند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بسکه لعل آبدار او لطیف آید به چشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می توان از پرده های دیده این می را چکاند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با نسیم امروز اعجاز دم روح اللهیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از مزار ما کف خاکی به دامانش رساند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آنکه شد جویا سبکبار علایق چون مسیح",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "توسن اقبال را در ساحت گردون جهاند",
+      "CoupletIndex": 4
+    }
+  ]
+}

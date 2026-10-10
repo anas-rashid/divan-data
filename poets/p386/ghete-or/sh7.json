@@ -1,0 +1,66 @@
+{
+  "Id": 28174,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۷ - نحوست طالع",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۷ - نحوست طالع",
+  "FullUrl": "/p386/ghete-or/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی بحیرت از فلک ظالمم کز او\r\nنجمی بهیچ دور عبورش باوج نیست\r\nامید را عنان بکدامین طرف دهم\r\nکز خیل یأس بر اثرش فوج فوج نیست\r\nبعدی که از سعادت طالع بود مرا\r\nتحت الثری زاوج و سرابش ز موج نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی بحیرت از فلک ظالمم کز او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نجمی بهیچ دور عبورش باوج نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امید را عنان بکدامین طرف دهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خیل یأس بر اثرش فوج فوج نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بعدی که از سعادت طالع بود مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تحت الثری زاوج و سرابش ز موج نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

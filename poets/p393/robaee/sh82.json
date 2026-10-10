@@ -1,0 +1,54 @@
+{
+  "Id": 37254,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p393/robaee/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "الله کریم است عطا می‌بخشد\r\nهم پوشد عیب و هم خطا می‌بخشد\r\nزاهد هرچند پرگناهیم ولی\r\nما را بر رغم تو خدا می‌بخشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "الله کریم است عطا می‌بخشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هم پوشد عیب و هم خطا می‌بخشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاهد هرچند پرگناهیم ولی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما را بر رغم تو خدا می‌بخشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

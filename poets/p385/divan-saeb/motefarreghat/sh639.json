@@ -1,0 +1,57 @@
+{
+  "Id": 27245,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۳۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۳۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh639",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh639",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می بده ساقی که از فیض شراب صبحگاه\r\nنور می بارد ز روی آفتاب صبحگاه\r\nنقد انجم را به یک جام صبوحی می دهد\r\nخوب می داند فلک، قدر شراب صبحگاه",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می بده ساقی که از فیض شراب صبحگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نور می بارد ز روی آفتاب صبحگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نقد انجم را به یک جام صبوحی می دهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوب می داند فلک، قدر شراب صبحگاه",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32006,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/p390/divan/robaee/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از غم عشق گلرخان بی تاب است\r\nآغشته به خون چو لاله ی سیراب است\r\nهر جزوی ازان بود بر نوخطی\r\nگویی دل من نسخه ی استکتاب است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از غم عشق گلرخان بی تاب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آغشته به خون چو لاله ی سیراب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جزوی ازان بود بر نوخطی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گویی دل من نسخه ی استکتاب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

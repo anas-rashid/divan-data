@@ -1,0 +1,57 @@
+{
+  "Id": 30485,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۲۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۲۸",
+  "FullUrl": "/p389/robghm/sh228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل پیش ز دردم از قرار اندازد\r\nکی کار مرا به وقت کار اندازد؟\r\nسودای دلم همیشه طغیان دارد\r\nآن نیست که شورش به بهار اندازد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل پیش ز دردم از قرار اندازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی کار مرا به وقت کار اندازد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سودای دلم همیشه طغیان دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن نیست که شورش به بهار اندازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

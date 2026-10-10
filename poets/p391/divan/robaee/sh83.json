@@ -1,0 +1,57 @@
+{
+  "Id": 33354,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸۳",
+  "FullUrl": "/p391/divan/robaee/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز آغاز وجود خویشتن تا انجام\r\nهرگز نزدم در ره حق جویی گام\r\nافسوس که پرگارصفت از غفلت\r\nدورم همه در لغزش پا گشت تمام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آغاز وجود خویشتن تا انجام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز نزدم در ره حق جویی گام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "افسوس که پرگارصفت از غفلت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دورم همه در لغزش پا گشت تمام",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37615,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۰۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سودای تو آتش دلم افزون کرد\r\nنادیدن رویت آب چشمم خون کرد\r\nهر در که لبت در صدف گوشم ریخت\r\nهجران توام ز دیدگان بیرون کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سودای تو آتش دلم افزون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نادیدن رویت آب چشمم خون کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر در که لبت در صدف گوشم ریخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هجران توام ز دیدگان بیرون کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

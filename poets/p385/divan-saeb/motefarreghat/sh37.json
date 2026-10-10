@@ -1,0 +1,57 @@
+{
+  "Id": 26643,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نغمه عشاق چه ذوق اهل هوس را؟\r\nاز ناله بلبل چه خبر چوب قفس را؟\r\nبربند به نرمی دهن هرزه درایان\r\nاز پنبه توان کرد زبان بند جرس را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نغمه عشاق چه ذوق اهل هوس را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ناله بلبل چه خبر چوب قفس را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بربند به نرمی دهن هرزه درایان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پنبه توان کرد زبان بند جرس را",
+      "CoupletIndex": 1
+    }
+  ]
+}

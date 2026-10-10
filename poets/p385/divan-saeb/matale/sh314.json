@@ -1,0 +1,42 @@
+{
+  "Id": 26402,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۱۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۱۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh314",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh314",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن تو زیردست خط مشکبار شد\r\nاین مور رفته رفته سلیمان شکار شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن تو زیردست خط مشکبار شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این مور رفته رفته سلیمان شکار شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

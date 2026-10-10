@@ -1,0 +1,57 @@
+{
+  "Id": 30467,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱۰",
+  "FullUrl": "/p389/robghm/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر گوشه، خرابات تو مستی دارد\r\nاز خود شده رند می‌پرستی دارد\r\nدر سلسله عشق تو مجنون مانند\r\nهر حلقه آن، مست الستی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر گوشه، خرابات تو مستی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خود شده رند می‌پرستی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سلسله عشق تو مجنون مانند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر حلقه آن، مست الستی دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

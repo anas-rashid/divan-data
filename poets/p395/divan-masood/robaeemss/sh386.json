@@ -1,0 +1,57 @@
+{
+  "Id": 37900,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۸۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۸۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh386",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh386",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مسعود چو دربند گرفتار شدی\r\nاز فعل زمانه بر سر کار شدی\r\nاز مستی عز و ناز هشیار شدی\r\nدر جمله ز خواب دیر بیدار شدی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مسعود چو دربند گرفتار شدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از فعل زمانه بر سر کار شدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از مستی عز و ناز هشیار شدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جمله ز خواب دیر بیدار شدی",
+      "CoupletIndex": 1
+    }
+  ]
+}

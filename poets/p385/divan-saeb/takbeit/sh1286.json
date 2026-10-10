@@ -1,0 +1,45 @@
+{
+  "Id": 18817,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۸۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۸۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1286",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1286",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زان چهرهٔ عرقناک، زنهار بر حذر باش\r\nسیلاب عقل و هوش است، این قطره‌های باران",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان چهرهٔ عرقناک، زنهار بر حذر باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیلاب عقل و هوش است، این قطره‌های باران",
+      "CoupletIndex": 0
+    }
+  ]
+}

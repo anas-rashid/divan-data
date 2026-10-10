@@ -1,0 +1,54 @@
+{
+  "Id": 37292,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۰",
+  "FullUrl": "/p393/robaee/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک روز به کام ما نشد دور فلک\r\nبسیار بد افتاده به ما طور فلک\r\nرفتیم به زیر خاک و آسوده نییم\r\nدیگر به کجا رویم از جور فلک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک روز به کام ما نشد دور فلک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسیار بد افتاده به ما طور فلک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رفتیم به زیر خاک و آسوده نییم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیگر به کجا رویم از جور فلک",
+      "CoupletIndex": 1
+    }
+  ]
+}

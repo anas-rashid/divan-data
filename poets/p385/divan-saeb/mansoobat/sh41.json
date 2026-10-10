@@ -1,0 +1,42 @@
+{
+  "Id": 27377,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۴۱",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا شرم داشت منصب آیینه داریت\r\nگرداندن لباس تو تغییر رنگ بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا شرم داشت منصب آیینه داریت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرداندن لباس تو تغییر رنگ بود",
+      "CoupletIndex": 0
+    }
+  ]
+}

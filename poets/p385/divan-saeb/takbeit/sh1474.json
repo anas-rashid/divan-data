@@ -1,0 +1,45 @@
+{
+  "Id": 19005,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۷۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۷۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1474",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1474",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در پلهٔ غرور تو دل گرچه بی بهاست\r\nارزان مده ز دست، که یوسف خریده‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در پلهٔ غرور تو دل گرچه بی بهاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ارزان مده ز دست، که یوسف خریده‌ای",
+      "CoupletIndex": 0
+    }
+  ]
+}

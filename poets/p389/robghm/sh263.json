@@ -1,0 +1,57 @@
+{
+  "Id": 30520,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۶۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۶۳",
+  "FullUrl": "/p389/robghm/sh263",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh263",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل را ز هوس، محض کدورت مپسند\r\nروشن کنش از زنگ تعلق یک چند\r\nآیینه دل، آینه زانو نیست\r\nکز وی شود آدمی به نامی خرسند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل را ز هوس، محض کدورت مپسند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روشن کنش از زنگ تعلق یک چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آیینه دل، آینه زانو نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز وی شود آدمی به نامی خرسند",
+      "CoupletIndex": 1
+    }
+  ]
+}

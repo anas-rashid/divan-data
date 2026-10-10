@@ -1,0 +1,57 @@
+{
+  "Id": 38273,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۴۶ - دروغ",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۴۶ - دروغ",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گه گهی اندر سخن دروغ بباید\r\nزانکه به شیرین دروغ دل بگشاید\r\nنه که اگر مرده را دروغ همیدون\r\nزنده کند خود دروغ گفت نشاید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه گهی اندر سخن دروغ بباید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زانکه به شیرین دروغ دل بگشاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه که اگر مرده را دروغ همیدون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنده کند خود دروغ گفت نشاید",
+      "CoupletIndex": 1
+    }
+  ]
+}

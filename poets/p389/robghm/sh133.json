@@ -1,0 +1,57 @@
+{
+  "Id": 30390,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۳",
+  "FullUrl": "/p389/robghm/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مهر، چو صبح، خانه زاد نفست\r\nعیسی کده عالمی ز باد نفست\r\nکافی‌ست برای نه فلک صید اسیر\r\nیک ناوک یا رب از گشاد نفست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مهر، چو صبح، خانه زاد نفست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عیسی کده عالمی ز باد نفست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کافی‌ست برای نه فلک صید اسیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک ناوک یا رب از گشاد نفست",
+      "CoupletIndex": 1
+    }
+  ]
+}

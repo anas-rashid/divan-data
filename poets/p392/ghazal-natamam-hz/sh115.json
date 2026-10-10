@@ -1,0 +1,69 @@
+{
+  "Id": 34774,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بال و پر گر به اسیری نبود پروا نیست\r\nگوشهٔ خاطر ما، هیچ کم از صحرا نیست\r\nدرکار خانهٔ دهر، چیزی به مدعا نیست\r\nنعمت بود فراوان، جایی که اشتها نیست\r\nبا یاد قامت او، سازد دل شکسته\r\nدر دست پیر چیزی، زیباتر از عصا نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بال و پر گر به اسیری نبود پروا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوشهٔ خاطر ما، هیچ کم از صحرا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درکار خانهٔ دهر، چیزی به مدعا نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نعمت بود فراوان، جایی که اشتها نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با یاد قامت او، سازد دل شکسته",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دست پیر چیزی، زیباتر از عصا نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

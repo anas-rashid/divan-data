@@ -1,0 +1,57 @@
+{
+  "Id": 34473,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/p392/robaee-hz/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر طالع پست، نارساییها کرد\r\nور اشهب عمر، بادپاییها کرد\r\nرسم عجبی نبود و آیین نوی\r\nگر قحبهٔ دهر، بی وفایی ها کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر طالع پست، نارساییها کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور اشهب عمر، بادپاییها کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رسم عجبی نبود و آیین نوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر قحبهٔ دهر، بی وفایی ها کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

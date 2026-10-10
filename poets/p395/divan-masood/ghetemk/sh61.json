@@ -1,0 +1,81 @@
+{
+  "Id": 38288,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۶۱ - به ابوالفرج نوشته",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۶۱ - به ابوالفرج نوشته",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بوالفرج ای خواجهٔ آزاد مرد\r\nهجر وصال تو مرا خیره کرد\r\nدید ز سختی تن و جان آنچه دید\r\nخورد ز تلخی دل و جان آنچه خورد\r\nای به بلندی سخن شاعران\r\nهرگز مانند تو نادیده مرد\r\nروی توام از همه چیز آرزوست\r\nخسته همی جوید درمان درد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بوالفرج ای خواجهٔ آزاد مرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هجر وصال تو مرا خیره کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دید ز سختی تن و جان آنچه دید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورد ز تلخی دل و جان آنچه خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای به بلندی سخن شاعران",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرگز مانند تو نادیده مرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "روی توام از همه چیز آرزوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خسته همی جوید درمان درد",
+      "CoupletIndex": 3
+    }
+  ]
+}

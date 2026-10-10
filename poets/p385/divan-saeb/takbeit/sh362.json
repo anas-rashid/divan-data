@@ -1,0 +1,45 @@
+{
+  "Id": 17893,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۶۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۶۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh362",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh362",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مَست نَتْوان کرد زاهد را، به صد جامِ شراب\r\nاین زمینِ خشک را، سیراب‌کردن، مشکل است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مَست نَتْوان کرد زاهد را، به صد جامِ شراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این زمینِ خشک را، سیراب‌کردن، مشکل است!",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 19509,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۳۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۳۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh436",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh436",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلم خاک مراد خویش داند نامرادی را\r\nکند گرد یتیمی گوهرم گرد کسادی را\r\nز تنگی در دل پر خون من شادی نمی گنجد\r\nز من چون غنچه تصویر، رنگی نیست شادی را\r\nنظر بست از تماشا بوالهوس، تا یار نو خط شد\r\nخط ریحان غبار چشم باشد بی سوادی را\r\nبه خواری زیستن، از عزت ناقص بود بهتر\r\nگوارا کرد بر من قیمت نازل کسادی را\r\nچرا صائب برون آیم ز خلوت، من که می دانم\r\nبه از کنج دهان یار، کنج نامرادی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلم خاک مراد خویش داند نامرادی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کند گرد یتیمی گوهرم گرد کسادی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز تنگی در دل پر خون من شادی نمی گنجد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز من چون غنچه تصویر، رنگی نیست شادی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نظر بست از تماشا بوالهوس، تا یار نو خط شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خط ریحان غبار چشم باشد بی سوادی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به خواری زیستن، از عزت ناقص بود بهتر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گوارا کرد بر من قیمت نازل کسادی را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چرا صائب برون آیم ز خلوت، من که می دانم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به از کنج دهان یار، کنج نامرادی را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33116,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۲۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۲۴",
+  "FullUrl": "/p391/divan/ghazal/sh1024",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1024",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برنتابد دیدهٔ خونین ما بار نگاه\r\nزان سبب با چشم دل باشیم در کار نگاه\r\nروز وصلت مردم چشمم بسان عنکبوت\r\nمی دود از شوق دیدار تو بر تار نگاه\r\nچشم بستن می نماید جلوهٔ دیدار دوست\r\nهست حایل در من و معشوق دیوار نگاه\r\nترک چشمش باز امشب از سیه مستی بریخت\r\nدر گریبان دل ما جام سرشار نگاه\r\nکیست آگه غیر دریا از ته کار حباب\r\nکس چو دریا جویا نفهمیده است اسرار نگاه",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برنتابد دیدهٔ خونین ما بار نگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان سبب با چشم دل باشیم در کار نگاه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز وصلت مردم چشمم بسان عنکبوت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می دود از شوق دیدار تو بر تار نگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشم بستن می نماید جلوهٔ دیدار دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هست حایل در من و معشوق دیوار نگاه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ترک چشمش باز امشب از سیه مستی بریخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در گریبان دل ما جام سرشار نگاه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کیست آگه غیر دریا از ته کار حباب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کس چو دریا جویا نفهمیده است اسرار نگاه",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 32840,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۴۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۴۸",
+  "FullUrl": "/p391/divan/ghazal/sh748",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh748",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غیر از ایام وصال بت دلخواه مپرس\r\nچند پرسی ز شب هجر، مپرس آه مپرس!‏\r\nهمچو شمعم دم تقریر زبان درگیرد\r\nجان من! آه، از این آتش جانکاه مپرس\r\nدر ره عشق تو کردم قدم از سر چو شرار\r\nاولین گام ز خود رفتنم از راه مپرس\r\nاین یکی جان گل آن شعلهٔ افلاک گداز\r\nاز نسیم سحر و آه سحرگاه مپرس\r\nچند پرسی که چه حال است ترا ای جویا\r\nمستم و نیستم از حال خود آگاه مپرس",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر از ایام وصال بت دلخواه مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چند پرسی ز شب هجر، مپرس آه مپرس!‏",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچو شمعم دم تقریر زبان درگیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان من! آه، از این آتش جانکاه مپرس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در ره عشق تو کردم قدم از سر چو شرار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اولین گام ز خود رفتنم از راه مپرس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این یکی جان گل آن شعلهٔ افلاک گداز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از نسیم سحر و آه سحرگاه مپرس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چند پرسی که چه حال است ترا ای جویا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مستم و نیستم از حال خود آگاه مپرس",
+      "CoupletIndex": 4
+    }
+  ]
+}

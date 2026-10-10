@@ -1,0 +1,105 @@
+{
+  "Id": 17363,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۲۶۶۰",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۲۶۶۰",
+  "FullUrl": "/p384/ghazalbi/sh2660",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh2660",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مژه‌واری ز خواب ناز جستی\r\nدو عالم نرگسستان نقش بستی\r\nتغافل مهرگنج‌کاف و نون بود\r\nتبسم کردی و گوهر شکستی\r\nز آهنگی‌که افسون نفس داشت\r\nعنان صور بر عالم گسستی\r\nمگر با آن میان ربطی ندارد\r\nسخن بر معنی نایاب بستی\r\nمحیط آنگه محاط قطره حرف است\r\nکه می‌داند چسان در دل نشستی\r\nخودآرایی چه مستور و چه اظهار\r\nخراباتی چه مخموری چه مستی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مژه‌واری ز خواب ناز جستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دو عالم نرگسستان نقش بستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تغافل مهرگنج‌کاف و نون بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تبسم کردی و گوهر شکستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز آهنگی‌که افسون نفس داشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عنان صور بر عالم گسستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مگر با آن میان ربطی ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سخن بر معنی نایاب بستی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "محیط آنگه محاط قطره حرف است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که می‌داند چسان در دل نشستی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خودآرایی چه مستور و چه اظهار",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خراباتی چه مخموری چه مستی",
+      "CoupletIndex": 5
+    }
+  ]
+}

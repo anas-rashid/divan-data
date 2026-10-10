@@ -1,0 +1,42 @@
+{
+  "Id": 26308,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۲۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۲۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh220",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh220",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به می خشکی ز طبع زاهدان زایل نمی گردد\r\nبه آب زندگانی این زمین قابل نمی گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به می خشکی ز طبع زاهدان زایل نمی گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به آب زندگانی این زمین قابل نمی گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

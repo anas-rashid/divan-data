@@ -1,0 +1,105 @@
+{
+  "Id": 30042,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۹۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۹۴",
+  "FullUrl": "/p389/ghazalgm/sh294",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh294",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیگانه گشته‌ام ز همه مدعای خویش\r\nدر آشنایی بت ناآشنای خویش\r\nتا برندارم از سر کوی بتان قدم\r\nافتاده‌ام چو سلسله دایم به پای خویش\r\nجایی نمانده است که بیخود نرفته‌ام\r\nبا آنکه برنداشته‌ام پا ز جای خویش\r\nیک لحظه بر مراد دل خود نبوده‌ام\r\nبا آنکه سر نتافته‌ام از رضای خویش\r\nدرمان درد عشق بجز درد عشق نیست\r\nبا درد خو گرفتم و کردم دوای خویش\r\nقدسی به پادشاه و گدا نیست حاجتم\r\nهم پادشاه خویشتنم، هم گدای خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیگانه گشته‌ام ز همه مدعای خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آشنایی بت ناآشنای خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا برندارم از سر کوی بتان قدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتاده‌ام چو سلسله دایم به پای خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جایی نمانده است که بیخود نرفته‌ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با آنکه برنداشته‌ام پا ز جای خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یک لحظه بر مراد دل خود نبوده‌ام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با آنکه سر نتافته‌ام از رضای خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "درمان درد عشق بجز درد عشق نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با درد خو گرفتم و کردم دوای خویش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "قدسی به پادشاه و گدا نیست حاجتم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هم پادشاه خویشتنم، هم گدای خویش",
+      "CoupletIndex": 5
+    }
+  ]
+}

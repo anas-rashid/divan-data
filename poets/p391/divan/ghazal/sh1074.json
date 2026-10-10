@@ -1,0 +1,93 @@
+{
+  "Id": 33166,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۷۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۷۴",
+  "FullUrl": "/p391/divan/ghazal/sh1074",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1074",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عقدهٔ دل واکند زلف گرهگیر کسی\r\nبسته ام خود را به پیچ و تاب زنجیر کسی\r\nمی گشاید بر تنم هر زخم آغوش نشاط\r\nبسکه جا کرده است در دل شوق شمشیر کسی\r\nدر محبت بسکه یکرنگم ز عکس چهره ام\r\nصفحهٔ آیینه گردد لوح تصویر کسی\r\nگفتگوی اهل غفلت لایق واگویه نیست\r\nخواب مخمل کی بود شایان تعبیر کسی\r\nمی تپد جویا دلم در سینه از جوش حسد\r\nتا کجا در خاک و خون غلتیده نخجیر کسی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عقدهٔ دل واکند زلف گرهگیر کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسته ام خود را به پیچ و تاب زنجیر کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می گشاید بر تنم هر زخم آغوش نشاط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسکه جا کرده است در دل شوق شمشیر کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در محبت بسکه یکرنگم ز عکس چهره ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صفحهٔ آیینه گردد لوح تصویر کسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گفتگوی اهل غفلت لایق واگویه نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خواب مخمل کی بود شایان تعبیر کسی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می تپد جویا دلم در سینه از جوش حسد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا کجا در خاک و خون غلتیده نخجیر کسی",
+      "CoupletIndex": 4
+    }
+  ]
+}

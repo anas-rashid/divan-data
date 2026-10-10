@@ -1,0 +1,69 @@
+{
+  "Id": 32200,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p391/divan/ghazal/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آهم گشود تا پر پرواز در هوا\r\nشد رشک گلستان ارم سربسر هوا\r\nتا شمع یاد روی تو افروخت در دلم\r\nآهم عبیر بوی گل افشاند در هوا\r\nجویا بگیر می زکف گلرخان که هست\r\nخرم بهار و تازه گلستان و تر هوا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آهم گشود تا پر پرواز در هوا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد رشک گلستان ارم سربسر هوا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا شمع یاد روی تو افروخت در دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آهم عبیر بوی گل افشاند در هوا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جویا بگیر می زکف گلرخان که هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خرم بهار و تازه گلستان و تر هوا",
+      "CoupletIndex": 2
+    }
+  ]
+}

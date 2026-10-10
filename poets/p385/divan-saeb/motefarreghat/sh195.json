@@ -1,0 +1,57 @@
+{
+  "Id": 26801,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من کیم تا دست امیدم به آن دامن رسد؟\r\nاین مرا بس کز رهش گردی به چشم من رسد\r\nنیست هر گوشی حریف ناله جانسوز من\r\nآتشی کو تا به فریاد سپند من رسد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من کیم تا دست امیدم به آن دامن رسد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این مرا بس کز رهش گردی به چشم من رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست هر گوشی حریف ناله جانسوز من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتشی کو تا به فریاد سپند من رسد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

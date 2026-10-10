@@ -1,0 +1,66 @@
+{
+  "Id": 36479,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۲۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۲۸",
+  "FullUrl": "/p393/natmam/sh328",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh328",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گیرم که جمله من جگر و دل شود کسی\r\nاین درد را چه‌سان متحمل شود کسی\r\nمژگان شوخ یک طرف آن غمزه یک طرف\r\nجان بر چه‌سان ز دست دو قاتل شود کسی\r\nآیینهٔ غدار تو را تاب آه نیست\r\nآه آن زمان که با تو مقابل شود کسی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم که جمله من جگر و دل شود کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این درد را چه‌سان متحمل شود کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مژگان شوخ یک طرف آن غمزه یک طرف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جان بر چه‌سان ز دست دو قاتل شود کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آیینهٔ غدار تو را تاب آه نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آه آن زمان که با تو مقابل شود کسی",
+      "CoupletIndex": 2
+    }
+  ]
+}

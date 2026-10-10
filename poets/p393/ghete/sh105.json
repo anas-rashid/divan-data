@@ -1,0 +1,54 @@
+{
+  "Id": 36585,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۵",
+  "FullUrl": "/p393/ghete/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جور چشم یار را ناچار می‌باید کشید\r\nهمچون ناز مردم بیمار می‌باید کشید\r\nمسند عشاق را جز آستان حسن نیست\r\nصورتم بر خاک کوی یار می‌باید کشید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جور چشم یار را ناچار می‌باید کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچون ناز مردم بیمار می‌باید کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مسند عشاق را جز آستان حسن نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صورتم بر خاک کوی یار می‌باید کشید",
+      "CoupletIndex": 1
+    }
+  ]
+}

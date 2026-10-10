@@ -1,0 +1,69 @@
+{
+  "Id": 30232,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۴",
+  "FullUrl": "/p389/mmgh/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اجزای من چو لاله گر از هم جدا شود\r\nهر جزو آن به داغ دگر مبتلا شود\r\nگویا ز عندلیب گرفته‌ست خاطرش\r\nکو باد صبحدم که دل غنچه وا شود\r\nبیگانه‌وار بگذرم از مردمان چشم\r\nبا دیده‌ام خیال تو چون آشنا شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اجزای من چو لاله گر از هم جدا شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر جزو آن به داغ دگر مبتلا شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویا ز عندلیب گرفته‌ست خاطرش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو باد صبحدم که دل غنچه وا شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیگانه‌وار بگذرم از مردمان چشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با دیده‌ام خیال تو چون آشنا شود",
+      "CoupletIndex": 2
+    }
+  ]
+}

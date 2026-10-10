@@ -1,0 +1,42 @@
+{
+  "Id": 26573,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۸۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۸۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh485",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh485",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شانه در خط معنبر ای صنم داخل مکن\r\nدر خط استاد، بی موجب قلم داخل مکن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شانه در خط معنبر ای صنم داخل مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خط استاد، بی موجب قلم داخل مکن",
+      "CoupletIndex": 0
+    }
+  ]
+}

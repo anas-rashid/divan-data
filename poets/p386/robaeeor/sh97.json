@@ -1,0 +1,57 @@
+{
+  "Id": 28140,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۹۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۷",
+  "FullUrl": "/p386/robaeeor/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق آمد و از مژدهٔ غم شادم کرد\r\nوز بندگی عافیت آزادم کرد\r\nهر موی مرا به یک جهان درد آراست\r\nچندان که خراب بودم آبادم کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آمد و از مژدهٔ غم شادم کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بندگی عافیت آزادم کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر موی مرا به یک جهان درد آراست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که خراب بودم آبادم کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

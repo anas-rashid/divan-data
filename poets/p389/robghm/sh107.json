@@ -1,0 +1,57 @@
+{
+  "Id": 30364,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۰۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۰۷",
+  "FullUrl": "/p389/robghm/sh107",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh107",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا بی‌مهری پیشه اهل زمن است\r\nاظهار هنر، کاستن جان و تن است\r\nراحت خواهی، کمال خود فاش مکن\r\nکاین سوختن شمع ز روشن‌شدن است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بی‌مهری پیشه اهل زمن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اظهار هنر، کاستن جان و تن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راحت خواهی، کمال خود فاش مکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین سوختن شمع ز روشن‌شدن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

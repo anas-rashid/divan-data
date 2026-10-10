@@ -1,0 +1,42 @@
+{
+  "Id": 26126,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می گشاید ذکر بر رویت در الله را\r\nنیست جز این حلقه دیگر حلقه آن درگاه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می گشاید ذکر بر رویت در الله را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست جز این حلقه دیگر حلقه آن درگاه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 20655,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۵۸۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۵۸۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1582",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1582",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می حرام است در آن بزم که هشیاری هست\r\nخواب تلخ است در آن خانه که بیماری هست\r\nبا پریشان نظری بس که بدم، می شکنم\r\nهر کجا آینه ای بر سر بازاری هست\r\nمی توان با گل خورشید نظر بازی کرد\r\nهمچو شبنم اگرت دیده بیداری هست\r\nخضر بر گرد سر درد طلب می گردد\r\nکعبه فرش است در آن سینه که آزاری هست\r\nصبح آدینه و طفلان همه یک جا جمعند\r\nبر جنون می زنم امروز که بازاری هست\r\nبخت زنگار چرا سبز نباشد صائب؟\r\nروز و شب در بغلش آینه رخساری هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می حرام است در آن بزم که هشیاری هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواب تلخ است در آن خانه که بیماری هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با پریشان نظری بس که بدم، می شکنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کجا آینه ای بر سر بازاری هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می توان با گل خورشید نظر بازی کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همچو شبنم اگرت دیده بیداری هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خضر بر گرد سر درد طلب می گردد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کعبه فرش است در آن سینه که آزاری هست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صبح آدینه و طفلان همه یک جا جمعند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر جنون می زنم امروز که بازاری هست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بخت زنگار چرا سبز نباشد صائب؟",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "روز و شب در بغلش آینه رخساری هست",
+      "CoupletIndex": 5
+    }
+  ]
+}

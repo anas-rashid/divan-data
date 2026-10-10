@@ -1,0 +1,45 @@
+{
+  "Id": 17838,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۳۰۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۳۰۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh307",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh307",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از چشم نیم‌مست تو با یک جهان شراب\r\nما صلح می‌کنیم به یک سرمه دان شراب !",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چشم نیم‌مست تو با یک جهان شراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ما صلح می‌کنیم به یک سرمه دان شراب !",
+      "CoupletIndex": 0
+    }
+  ]
+}

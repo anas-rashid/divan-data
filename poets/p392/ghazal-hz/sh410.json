@@ -1,0 +1,93 @@
+{
+  "Id": 33837,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۱۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۱۰",
+  "FullUrl": "/p392/ghazal-hz/sh410",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh410",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از وصل، دل بی سر و پا را که خبر کرد؟\r\nدر خلوت خورشید، سها را که خبر کرد؟\r\nمن بودم و او فارغ از اندیشهٔ غیری\r\nاینجا ادب ناصیه سا را که خبر کرد؟\r\nشاد است به جان دادنم از محنت هجران\r\nاز حال من آن شوخ بلا را که خبر کرد؟\r\nشوری عجب افکنده به دلهای پریشان\r\nدر پردهٔ زلف تو صبا را که خبر کرد؟\r\nکس نیست حزین ، پرسد از احوال غریبان\r\nدر ماتم ما، مهر و وفا را که خبر کرد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از وصل، دل بی سر و پا را که خبر کرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خلوت خورشید، سها را که خبر کرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بودم و او فارغ از اندیشهٔ غیری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینجا ادب ناصیه سا را که خبر کرد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شاد است به جان دادنم از محنت هجران",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از حال من آن شوخ بلا را که خبر کرد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شوری عجب افکنده به دلهای پریشان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در پردهٔ زلف تو صبا را که خبر کرد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کس نیست حزین ، پرسد از احوال غریبان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در ماتم ما، مهر و وفا را که خبر کرد؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

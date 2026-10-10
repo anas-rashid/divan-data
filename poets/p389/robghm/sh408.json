@@ -1,0 +1,57 @@
+{
+  "Id": 30665,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۰۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۰۸",
+  "FullUrl": "/p389/robghm/sh408",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh408",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "موجود بود گرچه سراپا عاجز\r\nچون چرخ نباشد دل دانا عاجز\r\nکشتی ز پی کنار سرگردان است\r\nورنه نبود موج به دریا عاجز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "موجود بود گرچه سراپا عاجز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون چرخ نباشد دل دانا عاجز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کشتی ز پی کنار سرگردان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ورنه نبود موج به دریا عاجز",
+      "CoupletIndex": 1
+    }
+  ]
+}

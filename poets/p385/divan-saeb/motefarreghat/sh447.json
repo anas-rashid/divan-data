@@ -1,0 +1,69 @@
+{
+  "Id": 27053,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh447",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh447",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(شکست حال پریشان ما چه فایده دارد؟\r\nخرابی دل ویران ما چه فایده دارد؟)\r\n(بگیر دامنش ای اشک (و) چاره سازی (ما) کن\r\nهمین گرفتن دامان ما چه فایده دارد؟)\r\n(کسی که تخم محبت به دل نکشته چه داند\r\nکه آب دیده گریان ما چه فایده دارد؟)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(شکست حال پریشان ما چه فایده دارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرابی دل ویران ما چه فایده دارد؟)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(بگیر دامنش ای اشک (و) چاره سازی (ما) کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همین گرفتن دامان ما چه فایده دارد؟)",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "(کسی که تخم محبت به دل نکشته چه داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که آب دیده گریان ما چه فایده دارد؟)",
+      "CoupletIndex": 2
+    }
+  ]
+}

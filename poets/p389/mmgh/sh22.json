@@ -1,0 +1,45 @@
+{
+  "Id": 30230,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۲",
+  "FullUrl": "/p389/mmgh/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگه نسیم زلف تو سوی چمن رود\r\nبویی دهد به گل، که گل از خویشتن رود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگه نسیم زلف تو سوی چمن رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بویی دهد به گل، که گل از خویشتن رود",
+      "CoupletIndex": 0
+    }
+  ]
+}

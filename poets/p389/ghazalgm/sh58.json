@@ -1,0 +1,81 @@
+{
+  "Id": 29806,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۵۸",
+  "FullUrl": "/p389/ghazalgm/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند باشد دل ز وصل دل‌ربایی بی‌نصیب\r\nچند باشد گوشم از آواز پایی بی‌نصیب\r\nرخ مپوش از من گهِ نظّاره این عیب است عیب\r\nکز سر خوان کریم آید گدایی بی‌نصیب\r\nچند آیم بر سر راه و ز بیم خوی تو\r\nچشم از نظّاره و لب از دعایی بی‌نصیب\r\nوقت رفتن جسم قدسی را مسوز ای آه گرم\r\nتا نگردد ز استخوان او همایی بی‌نصیب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند باشد دل ز وصل دل‌ربایی بی‌نصیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چند باشد گوشم از آواز پایی بی‌نصیب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رخ مپوش از من گهِ نظّاره این عیب است عیب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز سر خوان کریم آید گدایی بی‌نصیب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چند آیم بر سر راه و ز بیم خوی تو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم از نظّاره و لب از دعایی بی‌نصیب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وقت رفتن جسم قدسی را مسوز ای آه گرم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا نگردد ز استخوان او همایی بی‌نصیب",
+      "CoupletIndex": 3
+    }
+  ]
+}

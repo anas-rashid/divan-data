@@ -1,0 +1,54 @@
+{
+  "Id": 37237,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/p393/robaee/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای هم‌نفسان به من اگر حرف زنید\r\nسنجیده به میزان نظر حرف زنید\r\nدیریست که از دو عالمم بیزاریست\r\nبا من از عالم دگر حرف زنید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای هم‌نفسان به من اگر حرف زنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنجیده به میزان نظر حرف زنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیریست که از دو عالمم بیزاریست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با من از عالم دگر حرف زنید",
+      "CoupletIndex": 1
+    }
+  ]
+}

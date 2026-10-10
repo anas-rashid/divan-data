@@ -1,0 +1,54 @@
+{
+  "Id": 33001,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۰۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۰۹",
+  "FullUrl": "/p391/divan/ghazal/sh909",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh909",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دهد بوی جگر پرکاله آهم\r\nبود از دودمان ناله آهم\r\nز جوش غم گره شد در دل تنگ\r\nچو داغ غنچه های لاله آهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دهد بوی جگر پرکاله آهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بود از دودمان ناله آهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جوش غم گره شد در دل تنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو داغ غنچه های لاله آهم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34471,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/p392/robaee-hz/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با تنگدلی حوصلهٔ ماست فراخ\r\nدر دیدهٔ ما یکی بود گلخن و کاخ\r\nما سینه زنیم بر در و بام قفس\r\nچندان که پرد مرغ چمن شاخ به شاخ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با تنگدلی حوصلهٔ ماست فراخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دیدهٔ ما یکی بود گلخن و کاخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما سینه زنیم بر در و بام قفس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که پرد مرغ چمن شاخ به شاخ",
+      "CoupletIndex": 1
+    }
+  ]
+}

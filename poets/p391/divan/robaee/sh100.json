@@ -1,0 +1,57 @@
+{
+  "Id": 33371,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱۰۰",
+  "FullUrl": "/p391/divan/robaee/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خون شدم از نگاه دزدیدن تو\r\nوز دامن اختلاط بر چیدن تو\r\nاز لذت آشتی خبر یافته‌ای\r\nپیداست ز لحظه لحظه زنجیدن تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خون شدم از نگاه دزدیدن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دامن اختلاط بر چیدن تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از لذت آشتی خبر یافته‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیداست ز لحظه لحظه زنجیدن تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

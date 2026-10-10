@@ -1,0 +1,57 @@
+{
+  "Id": 30484,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۲۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۲۷",
+  "FullUrl": "/p389/robghm/sh227",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh227",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکس دل خود وقف محبت سازد\r\nرخت هوس از خانه برون اندازد\r\nدهقان که نهال گل نشاند در باغ\r\nپیرامنش از گیاه می‌پردازد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس دل خود وقف محبت سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخت هوس از خانه برون اندازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دهقان که نهال گل نشاند در باغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیرامنش از گیاه می‌پردازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

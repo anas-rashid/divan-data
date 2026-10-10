@@ -1,0 +1,93 @@
+{
+  "Id": 34157,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷۳۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷۳۰",
+  "FullUrl": "/p392/ghazal-hz/sh730",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh730",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دهر حرامی زده شد سحر حلالم\r\nسرمایهٔ دزدان جهان است خیالم\r\nیک ذرّه نیارند بجا حقّ نمک را\r\nاین قوم فرومایه که هستند عیالم\r\nکالا ز من و فخر و مباهات از ایشان\r\nخردان چه بزرگی که نکردند به مالم!\r\nاز تیره نفسهای حربفان به کسوف است\r\nهر مطلع زیبنده خورشید مثالم\r\nبی رنج حزین از قلمم نکته نریزد\r\nاز پیچ و خم فکر، شکن هاست چو نالم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دهر حرامی زده شد سحر حلالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمایهٔ دزدان جهان است خیالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک ذرّه نیارند بجا حقّ نمک را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این قوم فرومایه که هستند عیالم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کالا ز من و فخر و مباهات از ایشان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خردان چه بزرگی که نکردند به مالم!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از تیره نفسهای حربفان به کسوف است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر مطلع زیبنده خورشید مثالم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی رنج حزین از قلمم نکته نریزد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از پیچ و خم فکر، شکن هاست چو نالم",
+      "CoupletIndex": 4
+    }
+  ]
+}

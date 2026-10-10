@@ -1,0 +1,57 @@
+{
+  "Id": 30628,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۷۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۷۱",
+  "FullUrl": "/p389/robghm/sh371",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh371",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که بود درخور افسر چو گهر\r\nسر بی کله است یا کلاهش بی سر\r\nدایم گردون دهد خسیسان را فر\r\nبر تاج خروس پر نه و دم همه پر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که بود درخور افسر چو گهر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر بی کله است یا کلاهش بی سر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دایم گردون دهد خسیسان را فر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر تاج خروس پر نه و دم همه پر",
+      "CoupletIndex": 1
+    }
+  ]
+}

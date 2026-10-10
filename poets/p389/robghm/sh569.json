@@ -1,0 +1,57 @@
+{
+  "Id": 30826,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۶۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۶۹",
+  "FullUrl": "/p389/robghm/sh569",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh569",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای تازه نهال سایه‌پرور بازآی\r\nشهباز من از صید کبوتر بازآی\r\nچون نور نظر که بازگردد به مژه\r\nدر چشم زدن به دیده تر بازآی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تازه نهال سایه‌پرور بازآی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شهباز من از صید کبوتر بازآی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نور نظر که بازگردد به مژه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در چشم زدن به دیده تر بازآی",
+      "CoupletIndex": 1
+    }
+  ]
+}

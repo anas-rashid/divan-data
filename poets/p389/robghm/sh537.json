@@ -1,0 +1,57 @@
+{
+  "Id": 30794,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۷",
+  "FullUrl": "/p389/robghm/sh537",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh537",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بزم جهان، شمع شب‌افروزی کو؟\r\nدر هفت فلک، اختر فیروزی کو؟\r\nگویی: نبود به یک روش، سیر فلک\r\nعمری‌ست که شب می‌گذرد، روزی کو؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بزم جهان، شمع شب‌افروزی کو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در هفت فلک، اختر فیروزی کو؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی: نبود به یک روش، سیر فلک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عمری‌ست که شب می‌گذرد، روزی کو؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37213,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/p393/robaee/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل در غم عشق دلبران خواهد سوخت\r\nیک روز نه بلک جاودان خواهد سوخت\r\nزین شعله که سر زد ز گریبان دل را\r\nتا دامن آخرالزمان خواهد سوخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در غم عشق دلبران خواهد سوخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک روز نه بلک جاودان خواهد سوخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین شعله که سر زد ز گریبان دل را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا دامن آخرالزمان خواهد سوخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

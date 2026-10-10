@@ -1,0 +1,69 @@
+{
+  "Id": 26609,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر چنین ابروی او ره می زند اصحاب را\r\nرفته رفته طاق نسیان می کند محراب را\r\nاز شبیخون حوادث عشقبازان غافلند\r\nمی کند خون در جگر صید حرم قصاب را\r\nسیر چشمان خیال از فکر وصل آسوده اند\r\nمی گزد می شیرمست پرتو مهتاب را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چنین ابروی او ره می زند اصحاب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفته رفته طاق نسیان می کند محراب را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شبیخون حوادث عشقبازان غافلند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می کند خون در جگر صید حرم قصاب را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سیر چشمان خیال از فکر وصل آسوده اند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می گزد می شیرمست پرتو مهتاب را",
+      "CoupletIndex": 2
+    }
+  ]
+}

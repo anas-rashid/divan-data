@@ -1,0 +1,69 @@
+{
+  "Id": 26911,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh305",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh305",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شود رد خلایق هرکه را الله می‌خواهد\r\nنگردد گرد گوهر هیچ کس تا شاه می‌خواهد\r\nبه عیاری توان جان بردن از دست فلک بیرون\r\nز دام شیر جستن حیله روباه می‌خواهد\r\nبه درد نامرادی صبر کن تا کامران گردی\r\nکه عیسی خسته می‌جوید، خضر گمراه می‌خواهد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شود رد خلایق هرکه را الله می‌خواهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگردد گرد گوهر هیچ کس تا شاه می‌خواهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به عیاری توان جان بردن از دست فلک بیرون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز دام شیر جستن حیله روباه می‌خواهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به درد نامرادی صبر کن تا کامران گردی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که عیسی خسته می‌جوید، خضر گمراه می‌خواهد",
+      "CoupletIndex": 2
+    }
+  ]
+}

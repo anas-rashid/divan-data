@@ -1,0 +1,93 @@
+{
+  "Id": 31487,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۲۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۲۰",
+  "FullUrl": "/p390/divan/ghazal/sh520",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh520",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل به تدبیر رهایی چو به سویم بیند\r\nچون گره، بسته ی صد سلسله مویم بیند\r\nصاف سرچشمه ی حیوان، تهی از دردی نیست\r\nخضر کو تا می یکدست سبویم بیند\r\nآنکه منعم کند از باده ی گلگون دایم\r\nنتواند ز حسد رنگ به رویم بیند!\r\nچون روم از سر کوی تو، به من هرکه رسد\r\nگره گریه ی پنهان ز گلویم بیند\r\nخضر آن گه شود از همتم آگه که سلیم\r\nمرده از تشنه لبی بر لب جویم بیند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل به تدبیر رهایی چو به سویم بیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گره، بسته ی صد سلسله مویم بیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صاف سرچشمه ی حیوان، تهی از دردی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خضر کو تا می یکدست سبویم بیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آنکه منعم کند از باده ی گلگون دایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نتواند ز حسد رنگ به رویم بیند!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون روم از سر کوی تو، به من هرکه رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گره گریه ی پنهان ز گلویم بیند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خضر آن گه شود از همتم آگه که سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مرده از تشنه لبی بر لب جویم بیند",
+      "CoupletIndex": 4
+    }
+  ]
+}

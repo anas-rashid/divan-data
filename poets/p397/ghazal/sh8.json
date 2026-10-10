@@ -1,0 +1,93 @@
+{
+  "Id": 38785,
+  "CatId": 1184,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "سلطان باہو » غزلیات » شمارهٔ ۸",
+  "FullUrl": "/p397/ghazal/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bahoo/ghazal/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بارها گفتم ترا دل بارها\r\nگرد این هرگز مگرد این کارها\r\nتو نه ء واقف ز درد دلبران\r\nعشق آسان نیست، مشکل کارها\r\nبوالهوس گر رو بر راهش آورد\r\nمی‌خلد در پای‌هایش خارها\r\nجای آسایش ندیدی ای دلا\r\nبالیقین دان شعله‌های نارها\r\nدم زدن در راه عشق یار نیست\r\nپاره شو در راه او صد پارها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بارها گفتم ترا دل بارها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد این هرگز مگرد این کارها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو نه ء واقف ز درد دلبران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق آسان نیست، مشکل کارها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بوالهوس گر رو بر راهش آورد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می‌خلد در پای‌هایش خارها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جای آسایش ندیدی ای دلا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بالیقین دان شعله‌های نارها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دم زدن در راه عشق یار نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پاره شو در راه او صد پارها",
+      "CoupletIndex": 4
+    }
+  ]
+}

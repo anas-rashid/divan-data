@@ -1,0 +1,93 @@
+{
+  "Id": 25452,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۳۷۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۳۷۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6379",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6379",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمر عزیز را به می ناب صرف کن\r\nاین آب را به لاله سیراب صرف کن\r\nهر کس که زر دهد به زر اهل بصیرت است\r\nفصل شکوفه را به می ناب صرف کن\r\nسرجوش عمر را گذراندی به درد می\r\nدرد حیات را به می ناب صرف کن\r\nنتوان گرفت دامن دریا به سعی خویش\r\nاین مشت خاک در ره سیلاب صرف کن\r\nصائب توان ز رخنه دل ره به دوست برد\r\nاوقات در گشودن این باب صرف کن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر عزیز را به می ناب صرف کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این آب را به لاله سیراب صرف کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کس که زر دهد به زر اهل بصیرت است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فصل شکوفه را به می ناب صرف کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرجوش عمر را گذراندی به درد می",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "درد حیات را به می ناب صرف کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نتوان گرفت دامن دریا به سعی خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این مشت خاک در ره سیلاب صرف کن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب توان ز رخنه دل ره به دوست برد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اوقات در گشودن این باب صرف کن",
+      "CoupletIndex": 4
+    }
+  ]
+}

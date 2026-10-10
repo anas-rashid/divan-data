@@ -1,0 +1,42 @@
+{
+  "Id": 26581,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh493",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh493",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که سرزد شکوه رزق از لب گویای تو\r\nشد دل گندم دو نیم از بدگمانی های تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که سرزد شکوه رزق از لب گویای تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد دل گندم دو نیم از بدگمانی های تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

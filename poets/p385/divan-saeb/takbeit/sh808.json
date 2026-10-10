@@ -1,0 +1,45 @@
+{
+  "Id": 18339,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۰۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۰۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh808",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh808",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شد سخن در روزگار ما چنان کاسد که خلق\r\nدر شنیدن بر سخنور من احسان نهند!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد سخن در روزگار ما چنان کاسد که خلق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در شنیدن بر سخنور من احسان نهند!",
+      "CoupletIndex": 0
+    }
+  ]
+}

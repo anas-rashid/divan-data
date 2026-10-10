@@ -1,0 +1,93 @@
+{
+  "Id": 29892,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/p389/ghazalgm/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نظر بر آینه خوبان چو بی‌نقاب کنند\r\nز شوق، آینه را مضطرب چو آب کنند\r\nمراد خلق ز یک دیدن تو حاصل شد\r\nدگر نماند دعایی که مستجاب کنند\r\nچه طالع است ندانم که صبح عاشق را\r\nچو شام، پرده رخسار آفتاب کنند\r\nبه روز حشر نماند سیاه‌نامه کسی\r\nاگر سیاهی بخت مرا حساب کنند\r\nز تیرگی نشمارند در حساب شبش\r\nز عمر، روز خوشم را گر انتخاب کنند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نظر بر آینه خوبان چو بی‌نقاب کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز شوق، آینه را مضطرب چو آب کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مراد خلق ز یک دیدن تو حاصل شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دگر نماند دعایی که مستجاب کنند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه طالع است ندانم که صبح عاشق را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو شام، پرده رخسار آفتاب کنند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به روز حشر نماند سیاه‌نامه کسی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اگر سیاهی بخت مرا حساب کنند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز تیرگی نشمارند در حساب شبش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز عمر، روز خوشم را گر انتخاب کنند",
+      "CoupletIndex": 4
+    }
+  ]
+}

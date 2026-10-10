@@ -1,0 +1,42 @@
+{
+  "Id": 26194,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh106",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh106",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آتشین رویی که داغ ما گلی از باغ اوست\r\nدشت از چشم غزالان سینه پرداغ اوست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتشین رویی که داغ ما گلی از باغ اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دشت از چشم غزالان سینه پرداغ اوست",
+      "CoupletIndex": 0
+    }
+  ]
+}

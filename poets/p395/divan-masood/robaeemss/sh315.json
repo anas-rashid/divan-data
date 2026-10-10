@@ -1,0 +1,57 @@
+{
+  "Id": 37829,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh315",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh315",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون قمری زار زار می نالم من\r\nچون بلبل آلوده به خون پیراهن\r\nچون طوطی بر وصف تو بگشاده دهن\r\nچون فاخته طوق عشقت اندر گردن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون قمری زار زار می نالم من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون بلبل آلوده به خون پیراهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون طوطی بر وصف تو بگشاده دهن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون فاخته طوق عشقت اندر گردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

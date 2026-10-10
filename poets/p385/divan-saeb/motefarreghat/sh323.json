@@ -1,0 +1,57 @@
+{
+  "Id": 26929,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۲۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh323",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh323",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ناله ام کاوش ازان خنجر مژگان دارد\r\nگریه من نمک طرز ز طوفان دارد\r\nیک نگه کردن ما این همه آزار نداشت\r\nباغبان حق نگاهی به گلستان دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناله ام کاوش ازان خنجر مژگان دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریه من نمک طرز ز طوفان دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک نگه کردن ما این همه آزار نداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باغبان حق نگاهی به گلستان دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

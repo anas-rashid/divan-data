@@ -1,0 +1,57 @@
+{
+  "Id": 26975,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۶۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۶۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh369",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh369",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز هر نهال به قد سرو اگر زیاده بود\r\nنظر به قامت رعنای او پیاده بود\r\nحریص بیش ز اندازه رزق می طلبد\r\nهمیشه لقمه مور از دهن زیاده بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز هر نهال به قد سرو اگر زیاده بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظر به قامت رعنای او پیاده بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حریص بیش ز اندازه رزق می طلبد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همیشه لقمه مور از دهن زیاده بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

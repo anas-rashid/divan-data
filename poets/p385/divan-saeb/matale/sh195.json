@@ -1,0 +1,42 @@
+{
+  "Id": 26283,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۹۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۹۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh195",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh195",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می‌کشان را باده گلرنگ خندان می‌کند\r\nیک گلابی مجلس ما را گلستان می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می‌کشان را باده گلرنگ خندان می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک گلابی مجلس ما را گلستان می‌کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30279,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۲",
+  "FullUrl": "/p389/robghm/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگز نکشد مد طمع، خامه ما\r\nاز حرف قناعت است پر نامه ما\r\nانصاف نگر که پا به دامن داریم\r\nبا آن که به زانو نرسد جامه ما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز نکشد مد طمع، خامه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از حرف قناعت است پر نامه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف نگر که پا به دامن داریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آن که به زانو نرسد جامه ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

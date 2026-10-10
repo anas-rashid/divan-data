@@ -1,0 +1,57 @@
+{
+  "Id": 34558,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۶۳",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۶۳",
+  "FullUrl": "/p392/robaee-hz/sh163",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh163",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خصمی روزگار بی مهر و تمیز\r\nتا چند زنیم سینه بر خنجرِ تیز؟\r\nنی ناخن تدبیر و نه بازوی ستیز\r\nنه جای شکیبایی و نه پای گریز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خصمی روزگار بی مهر و تمیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند زنیم سینه بر خنجرِ تیز؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نی ناخن تدبیر و نه بازوی ستیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه جای شکیبایی و نه پای گریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

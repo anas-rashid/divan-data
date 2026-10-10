@@ -1,0 +1,54 @@
+{
+  "Id": 36622,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۴۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۴۲",
+  "FullUrl": "/p393/ghete/sh142",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh142",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از غم دوری جانکاه مپرس\r\nجوش اشکم بنگر آه مپرس\r\nدور افتادم از درگاهی\r\nحال این بندهٔ درگاه مپرس",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از غم دوری جانکاه مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جوش اشکم بنگر آه مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دور افتادم از درگاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حال این بندهٔ درگاه مپرس",
+      "CoupletIndex": 1
+    }
+  ]
+}

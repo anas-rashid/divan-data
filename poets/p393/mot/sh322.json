@@ -1,0 +1,42 @@
+{
+  "Id": 37031,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۲۲",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۲۲",
+  "FullUrl": "/p393/mot/sh322",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh322",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز جا چگونه من دردمند برخیزم\r\nبه زور ناله مگر چون سپند برخیزم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز جا چگونه من دردمند برخیزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زور ناله مگر چون سپند برخیزم",
+      "CoupletIndex": 0
+    }
+  ]
+}

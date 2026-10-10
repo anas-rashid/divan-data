@@ -1,0 +1,57 @@
+{
+  "Id": 30536,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۷۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۷۹",
+  "FullUrl": "/p389/robghm/sh279",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh279",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن قوم که دین عشق‌کیشان دارند\r\nبر چرخ، ز اهل قدس، خویشان دارند\r\nآنها که هوس را بت خود ساخته‌اند\r\nایشان دانند و آنچه ایشان دارند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن قوم که دین عشق‌کیشان دارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر چرخ، ز اهل قدس، خویشان دارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنها که هوس را بت خود ساخته‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایشان دانند و آنچه ایشان دارند",
+      "CoupletIndex": 1
+    }
+  ]
+}

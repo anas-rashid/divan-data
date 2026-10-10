@@ -1,0 +1,57 @@
+{
+  "Id": 28100,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۷",
+  "FullUrl": "/p386/robaeeor/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دستی دارم که در گریبان غم است\r\nپایی دارم که وقف دامان غم است\r\nچشمی دارم که باغ و بستان بلا است\r\nجانی دارم که دین و ایمان غم است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دستی دارم که در گریبان غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پایی دارم که وقف دامان غم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشمی دارم که باغ و بستان بلا است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جانی دارم که دین و ایمان غم است",
+      "CoupletIndex": 1
+    }
+  ]
+}

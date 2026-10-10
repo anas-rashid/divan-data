@@ -1,0 +1,57 @@
+{
+  "Id": 28942,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷۲",
+  "FullUrl": "/p387/divan/robaee/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شاه جهان پادشه شیر شکار\r\nگردید بدولت پی نخجیر سوار\r\nروزی بتفنگ خاصیان چل آهو\r\nافکند و نیفکند بیک صید دو بار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شاه جهان پادشه شیر شکار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردید بدولت پی نخجیر سوار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روزی بتفنگ خاصیان چل آهو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افکند و نیفکند بیک صید دو بار",
+      "CoupletIndex": 1
+    }
+  ]
+}

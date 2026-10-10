@@ -1,0 +1,57 @@
+{
+  "Id": 34759,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۰۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۰۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh100",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh100",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کاو کاو مژه ی من به جگر خون نگذاشت\r\nسینه ام داغ برای دل مجنون نگذاشت\r\nحرکت در قلم نکته سراینده ی من\r\nشوخی مصرع آن قامت موزون نگذاشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کاو کاو مژه ی من به جگر خون نگذاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سینه ام داغ برای دل مجنون نگذاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حرکت در قلم نکته سراینده ی من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شوخی مصرع آن قامت موزون نگذاشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

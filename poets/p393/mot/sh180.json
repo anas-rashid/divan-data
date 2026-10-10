@@ -1,0 +1,42 @@
+{
+  "Id": 36889,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۸۰",
+  "FullUrl": "/p393/mot/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زمانه شور عزا دارد و به هم دارد\r\nفلک خمی است که هم نیل و هم بقم دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زمانه شور عزا دارد و به هم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فلک خمی است که هم نیل و هم بقم دارد",
+      "CoupletIndex": 0
+    }
+  ]
+}

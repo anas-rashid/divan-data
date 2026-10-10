@@ -1,0 +1,57 @@
+{
+  "Id": 37671,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۵۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۵۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh157",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh157",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیدار تو از نعمت دو جهان خوشتر\r\nوز عمر وصال تو فراوان خوشتر\r\nمن عشق تو ای عشق تو از جان خوشتر\r\nپنهان دارم که عشق پنهان خوشتر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیدار تو از نعمت دو جهان خوشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز عمر وصال تو فراوان خوشتر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من عشق تو ای عشق تو از جان خوشتر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پنهان دارم که عشق پنهان خوشتر",
+      "CoupletIndex": 1
+    }
+  ]
+}

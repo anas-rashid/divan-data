@@ -1,0 +1,57 @@
+{
+  "Id": 28049,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶",
+  "FullUrl": "/p386/robaeeor/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلبرگ برد باد بهاران به کجا\r\nسنبل رود از شبنم بستان به کجا\r\nای عارض یار من شتابان به کجا\r\nوی زلف نگار من پریشان به کجا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلبرگ برد باد بهاران به کجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنبل رود از شبنم بستان به کجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عارض یار من شتابان به کجا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وی زلف نگار من پریشان به کجا",
+      "CoupletIndex": 1
+    }
+  ]
+}

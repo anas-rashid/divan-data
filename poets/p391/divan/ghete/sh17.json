@@ -1,0 +1,57 @@
+{
+  "Id": 33253,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۱۷",
+  "FullUrl": "/p391/divan/ghete/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویند خواجه را چو رسد قاشقی به لب\r\nتا چند ساعتش مکد از حرص بی شمار\r\nیا چون ندیده قاشق او روی گوشت را\r\nچسبد ز شوق گوشت به لب همچو کفچه مار",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند خواجه را چو رسد قاشقی به لب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند ساعتش مکد از حرص بی شمار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا چون ندیده قاشق او روی گوشت را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چسبد ز شوق گوشت به لب همچو کفچه مار",
+      "CoupletIndex": 1
+    }
+  ]
+}

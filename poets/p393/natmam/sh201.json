@@ -1,0 +1,66 @@
+{
+  "Id": 36352,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۰۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۰۱",
+  "FullUrl": "/p393/natmam/sh201",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh201",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفتی ای ماه به جای که مپرس\r\nبر سرم رفت جفای که مپرس\r\nیار چون آینه در خانهٔ من\r\nآمد از در به صفای که مپرس\r\nحق وصفش نتوان کرد ادا\r\nدارد آن شوخ ادای که مپرس",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتی ای ماه به جای که مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سرم رفت جفای که مپرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یار چون آینه در خانهٔ من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آمد از در به صفای که مپرس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حق وصفش نتوان کرد ادا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دارد آن شوخ ادای که مپرس",
+      "CoupletIndex": 2
+    }
+  ]
+}

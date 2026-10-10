@@ -1,0 +1,42 @@
+{
+  "Id": 26492,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۰۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۰۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh404",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh404",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پهلو تهی ز ناوک آن دلربا مکن\r\nدر استخوان مضایقه با این هما مکن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پهلو تهی ز ناوک آن دلربا مکن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در استخوان مضایقه با این هما مکن",
+      "CoupletIndex": 0
+    }
+  ]
+}

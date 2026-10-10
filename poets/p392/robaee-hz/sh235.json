@@ -1,0 +1,57 @@
+{
+  "Id": 34630,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۳۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۳۵",
+  "FullUrl": "/p392/robaee-hz/sh235",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh235",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بندهٔ دهرِ دون نواز گنده\r\nبا ک..ن خری ساخته، چون خربنده\r\nاز پستی و سرمستی و دیوانگیت\r\nدشمن در خنده، دوستان شرمنده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بندهٔ دهرِ دون نواز گنده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ک..ن خری ساخته، چون خربنده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پستی و سرمستی و دیوانگیت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشمن در خنده، دوستان شرمنده",
+      "CoupletIndex": 1
+    }
+  ]
+}

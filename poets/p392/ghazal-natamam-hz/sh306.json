@@ -1,0 +1,57 @@
+{
+  "Id": 34965,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۰۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۰۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh306",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh306",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستی فزوده است تو را، در بر آینه\r\nعکس لبت شراب بود، ساغر آینه\r\nحیرت به جاست، پیش تو گر رفته ام ز خویش\r\nمانده ست یادگار، ز اسکندر آینه",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستی فزوده است تو را، در بر آینه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عکس لبت شراب بود، ساغر آینه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیرت به جاست، پیش تو گر رفته ام ز خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانده ست یادگار، ز اسکندر آینه",
+      "CoupletIndex": 1
+    }
+  ]
+}

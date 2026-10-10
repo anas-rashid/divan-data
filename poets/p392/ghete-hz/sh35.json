@@ -1,0 +1,57 @@
+{
+  "Id": 34374,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۳۵ - فقیر جاهل",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۳۵ - فقیر جاهل",
+  "FullUrl": "/p392/ghete-hz/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در غمکدهٔ جهان ندیدم\r\nمحروم تر از فقیر جاهل\r\nاز فقر، ندیده کام دنیا\r\nهم آخرتش ز جهل، باطل",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در غمکدهٔ جهان ندیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "محروم تر از فقیر جاهل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از فقر، ندیده کام دنیا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم آخرتش ز جهل، باطل",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30268,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۱",
+  "FullUrl": "/p389/robghm/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن گل که ز نکهتش بشد هوش مرا\r\nچون خواند به باغ وصل خود دوش مرا\r\nاز بس که به خدمت ایستادم پیشش\r\nرفتار چو سرو شد فراموش مرا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن گل که ز نکهتش بشد هوش مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون خواند به باغ وصل خود دوش مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که به خدمت ایستادم پیشش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رفتار چو سرو شد فراموش مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

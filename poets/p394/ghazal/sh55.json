@@ -1,0 +1,54 @@
+{
+  "Id": 37440,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۵۵",
+  "FullUrl": "/p394/ghazal/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست حاجت که بگیرند به زر آینه را\r\nمی دهد رنگ رخم زر به سپر آیینه را\r\nساخت در پردهٔ زنگار نهان چهرهٔ خویش\r\nکرد تر شرم رخ یار مگر آینه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست حاجت که بگیرند به زر آینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می دهد رنگ رخم زر به سپر آیینه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساخت در پردهٔ زنگار نهان چهرهٔ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کرد تر شرم رخ یار مگر آینه را",
+      "CoupletIndex": 1
+    }
+  ]
+}

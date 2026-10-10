@@ -1,0 +1,57 @@
+{
+  "Id": 34571,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۷۶",
+  "FullUrl": "/p392/robaee-hz/sh176",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh176",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پنهان به سیه خانهٔ حرف است نقط\r\nبا آنکه ز نقطه شد پدید آن همه خط\r\nیک نقطهٔ توحید درین دایره هاست\r\nگر مردمک دیده نیفتد به غلط",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پنهان به سیه خانهٔ حرف است نقط",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با آنکه ز نقطه شد پدید آن همه خط",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک نقطهٔ توحید درین دایره هاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر مردمک دیده نیفتد به غلط",
+      "CoupletIndex": 1
+    }
+  ]
+}

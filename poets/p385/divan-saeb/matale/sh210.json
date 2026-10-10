@@ -1,0 +1,42 @@
+{
+  "Id": 26298,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۱۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۱۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh210",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh210",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساغر می را به دست می پرست ما دهید\r\nخونی خمیازه ما را به دست ما دهید!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساغر می را به دست می پرست ما دهید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خونی خمیازه ما را به دست ما دهید!",
+      "CoupletIndex": 0
+    }
+  ]
+}

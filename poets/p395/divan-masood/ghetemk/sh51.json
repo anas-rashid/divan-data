@@ -1,0 +1,54 @@
+{
+  "Id": 38278,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۵۱ - وصف گرز پادشاه",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۵۱ - وصف گرز پادشاه",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طعمه شیر مغز گاو آمد\r\nکه سر گاو جنگ شیر خورد\r\nسر گرز ملک نگر که به شکل\r\nگاوی آمد که مغز شیر خورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طعمه شیر مغز گاو آمد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که سر گاو جنگ شیر خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر گرز ملک نگر که به شکل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گاوی آمد که مغز شیر خورد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27254,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۴۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۴۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh648",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh648",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرق آلود ز می طرف جبین ساخته ای\r\nدیده ها را صدف در ثمین ساخته ای\r\nساده لوحی بود آیینه صد نقش مراد\r\nتو ز صد نقش به نامی چو نگین ساخته ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرق آلود ز می طرف جبین ساخته ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده ها را صدف در ثمین ساخته ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساده لوحی بود آیینه صد نقش مراد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو ز صد نقش به نامی چو نگین ساخته ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

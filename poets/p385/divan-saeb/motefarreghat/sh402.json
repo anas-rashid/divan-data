@@ -1,0 +1,57 @@
+{
+  "Id": 27008,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۰۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۰۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh402",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh402",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل روبرو به خنجر مژگان چرا شود\r\nبا برق، خار دست و گریبان چرا شود؟\r\nجان داد صبح بر سر یک خنده خنک\r\nدندان کس به خنده نمایان چرا شود؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل روبرو به خنجر مژگان چرا شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با برق، خار دست و گریبان چرا شود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان داد صبح بر سر یک خنده خنک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دندان کس به خنده نمایان چرا شود؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

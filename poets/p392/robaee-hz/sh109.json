@@ -1,0 +1,57 @@
+{
+  "Id": 34504,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p392/robaee-hz/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق، رگ جان گرفتار برند\r\nاز شیر وفا، کودک بیمار بُرند\r\nنام سر زلف یار، سودازدگان\r\nدر دیر مغان برند و زنّار بُرند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق، رگ جان گرفتار برند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شیر وفا، کودک بیمار بُرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نام سر زلف یار، سودازدگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دیر مغان برند و زنّار بُرند",
+      "CoupletIndex": 1
+    }
+  ]
+}

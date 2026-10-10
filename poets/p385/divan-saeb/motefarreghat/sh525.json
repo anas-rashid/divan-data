@@ -1,0 +1,57 @@
+{
+  "Id": 27131,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۲۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۲۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh525",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh525",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به هفت آب، دهن از شراب می شویم\r\nدگر ز توبه به مشک و گلاب می شویم\r\nشکسته بالی عصیان کلید فردوس است\r\nز نامه عمل خود ثواب می شویم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به هفت آب، دهن از شراب می شویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دگر ز توبه به مشک و گلاب می شویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکسته بالی عصیان کلید فردوس است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز نامه عمل خود ثواب می شویم",
+      "CoupletIndex": 1
+    }
+  ]
+}

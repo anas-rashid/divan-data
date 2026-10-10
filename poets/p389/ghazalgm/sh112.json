@@ -1,0 +1,93 @@
+{
+  "Id": 29860,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۱۲",
+  "FullUrl": "/p389/ghazalgm/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ دلم گلی ز گلستان آتش است\r\nشور محبتم نمک خوان آتش است\r\nهان ای فرشته بر سر خاک شهید عشق\r\nننهی قدم دلیر، که طوفان آتش است\r\nمنعم مکن ز ناله که این خون گرفته دل\r\nدر پهلویم نشسته چو پیکان آتش است\r\nخون دلم جز آتش عشقت کسی نریخت\r\nاز خون نشان هنوز به دامان آتش است\r\nجز شعله نیست در دم قدسی چه بر دهد\r\nنخلی که سرکشیده ز بستان آتش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ دلم گلی ز گلستان آتش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شور محبتم نمک خوان آتش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هان ای فرشته بر سر خاک شهید عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ننهی قدم دلیر، که طوفان آتش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "منعم مکن ز ناله که این خون گرفته دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در پهلویم نشسته چو پیکان آتش است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خون دلم جز آتش عشقت کسی نریخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از خون نشان هنوز به دامان آتش است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جز شعله نیست در دم قدسی چه بر دهد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نخلی که سرکشیده ز بستان آتش است",
+      "CoupletIndex": 4
+    }
+  ]
+}

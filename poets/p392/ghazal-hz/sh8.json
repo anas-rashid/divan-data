@@ -1,0 +1,93 @@
+{
+  "Id": 33435,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸",
+  "FullUrl": "/p392/ghazal-hz/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گوشی نشنیده ست صفیر از قفس ما\r\nچون شمع، به لب سوخته آید نفس ما\r\nبا قافلهٔ لاله درین دشت رفیقیم\r\nگلبانگ خموشی ست فغان جرس ما\r\nکوتاه صفیرم، قفسم را بگذارید\r\nجایی که رسد ناله به فریادرس ما\r\nدر پا سر خاریش خلیده ست چو بلبل\r\nهر دل که خروشد به خراش نفس ما\r\nافتاده حزین از سر آن زلف رساتر\r\nدر جلوه گری خامه ى مشکین نفس ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گوشی نشنیده ست صفیر از قفس ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شمع، به لب سوخته آید نفس ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با قافلهٔ لاله درین دشت رفیقیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلبانگ خموشی ست فغان جرس ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کوتاه صفیرم، قفسم را بگذارید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جایی که رسد ناله به فریادرس ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در پا سر خاریش خلیده ست چو بلبل",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر دل که خروشد به خراش نفس ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "افتاده حزین از سر آن زلف رساتر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در جلوه گری خامه ى مشکین نفس ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

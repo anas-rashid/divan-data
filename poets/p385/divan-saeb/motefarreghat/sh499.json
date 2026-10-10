@@ -1,0 +1,69 @@
+{
+  "Id": 27105,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۹۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۹۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh499",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh499",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در لباس از سینه تفسیده آهی می کشم\r\nشمع فانوسم نفس در پرده گاهی می کشم\r\nگرچه از مشق جنون افتاده ام چون خامه باز\r\nکار هر جا بر سر افتد مد آهی می کشم\r\nصحبت خلق است مجنون مرا بر دل گران\r\nخویش را از کام شیران در پناهی می کشم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در لباس از سینه تفسیده آهی می کشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع فانوسم نفس در پرده گاهی می کشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه از مشق جنون افتاده ام چون خامه باز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کار هر جا بر سر افتد مد آهی می کشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صحبت خلق است مجنون مرا بر دل گران",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خویش را از کام شیران در پناهی می کشم",
+      "CoupletIndex": 2
+    }
+  ]
+}

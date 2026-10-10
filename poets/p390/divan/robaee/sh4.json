@@ -1,0 +1,57 @@
+{
+  "Id": 32002,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۴",
+  "FullUrl": "/p390/divan/robaee/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواجه نکند نظر به سوی حلوا\r\nگویی هرگز ندیده روی حلوا\r\nدر خانه ی زین هنوز اگر پای نهد\r\nاسبش مگسی شود به بوی حلوا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواجه نکند نظر به سوی حلوا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویی هرگز ندیده روی حلوا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خانه ی زین هنوز اگر پای نهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسبش مگسی شود به بوی حلوا",
+      "CoupletIndex": 1
+    }
+  ]
+}

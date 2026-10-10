@@ -1,0 +1,69 @@
+{
+  "Id": 34782,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی باده سیه مست، شب از یاسمن کیست؟\r\nفیض سحر از سینهٔ گل پیرهن کیست؟\r\nنظّاره، خیال کِه در آغوش کشیده ست؟\r\nحیران نگهی، آینه دار بدن کیست؟\r\nشد صفحهٔ من، جزیه ستان ورق گل\r\nاین مشک تر از ناف غزال ختن کیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی باده سیه مست، شب از یاسمن کیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فیض سحر از سینهٔ گل پیرهن کیست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نظّاره، خیال کِه در آغوش کشیده ست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حیران نگهی، آینه دار بدن کیست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شد صفحهٔ من، جزیه ستان ورق گل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این مشک تر از ناف غزال ختن کیست؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

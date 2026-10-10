@@ -1,0 +1,81 @@
+{
+  "Id": 21054,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۹۸۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۹۸۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1981",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1981",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز قدر نکته موزون نمانده است\r\nانصاف در قلمرو گردون نمانده است\r\nهیچ است صد رساله حکمت به چشم ما\r\nبهتر ز خم اثر ز فلاطون نمانده است\r\nیک عمر می توان سخن از زلف یار گفت\r\nدر بند آن مباش که مضمون نمانده است\r\nصائب پیاله گیر که تا کرده ای نگاه\r\nیک خشت از عمارت گردون نمانده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز قدر نکته موزون نمانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انصاف در قلمرو گردون نمانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هیچ است صد رساله حکمت به چشم ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهتر ز خم اثر ز فلاطون نمانده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک عمر می توان سخن از زلف یار گفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در بند آن مباش که مضمون نمانده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صائب پیاله گیر که تا کرده ای نگاه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک خشت از عمارت گردون نمانده است",
+      "CoupletIndex": 3
+    }
+  ]
+}

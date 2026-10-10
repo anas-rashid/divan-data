@@ -1,0 +1,117 @@
+{
+  "Id": 21284,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۲۱۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۲۱۱",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می گلرنگ خونی رازست\r\nلب ساغر خموش غمازست\r\nدهن شیشه مغرب عقل است\r\nلب پیمانه مشرق رازست\r\nیک الف وار نیست گوشه امن\r\nصفحه خاک، سینه بازست\r\nعقل با عشق مشتبه نشود\r\nذره از آفتاب ممتازست\r\nبلبل بوستان شوق ترا\r\nشکن دام، بال پروازست\r\nطور آخر گل از تجلی چید\r\nکار افتادگان خداسازست\r\nدل صائب ز شوق آب شده است\r\nتشنه خاک پاک شیرازست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می گلرنگ خونی رازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب ساغر خموش غمازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دهن شیشه مغرب عقل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لب پیمانه مشرق رازست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک الف وار نیست گوشه امن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صفحه خاک، سینه بازست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عقل با عشق مشتبه نشود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ذره از آفتاب ممتازست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بلبل بوستان شوق ترا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شکن دام، بال پروازست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "طور آخر گل از تجلی چید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کار افتادگان خداسازست",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دل صائب ز شوق آب شده است",
+      "CoupletIndex": 6
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تشنه خاک پاک شیرازست",
+      "CoupletIndex": 6
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 19929,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۸۵۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۸۵۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh856",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh856",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست غم نان و آب، گوشه نشین را\r\nدر رحم آماده است رزق، جنین را\r\nپستی دیوار را زوال نباشد\r\nسیل نسازد خراب خانه زین را\r\nخشک تر از موجه سراب شمارد\r\nتشنه دیدار او بهشت برین را\r\nخال تو از خط به دل غبار ندارد\r\nدزد شمارد بهشت خویش کمین را\r\nکم نشود بوسه از لبش به گرفتن\r\nموم نسازد تهی ز نقش، نگین را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست غم نان و آب، گوشه نشین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در رحم آماده است رزق، جنین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پستی دیوار را زوال نباشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیل نسازد خراب خانه زین را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خشک تر از موجه سراب شمارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تشنه دیدار او بهشت برین را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خال تو از خط به دل غبار ندارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دزد شمارد بهشت خویش کمین را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کم نشود بوسه از لبش به گرفتن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "موم نسازد تهی ز نقش، نگین را",
+      "CoupletIndex": 4
+    }
+  ]
+}

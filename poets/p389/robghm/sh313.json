@@ -1,0 +1,57 @@
+{
+  "Id": 30570,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۱۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۱۳",
+  "FullUrl": "/p389/robghm/sh313",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh313",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاشق که مدام محو دلدار بود\r\nکی جز به نظاره‌اش سر و کار بود\r\nحیرت‌زده را که دارد از حیرت باز؟\r\nآیینه گرسنه چشم دیدار بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشق که مدام محو دلدار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی جز به نظاره‌اش سر و کار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیرت‌زده را که دارد از حیرت باز؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه گرسنه چشم دیدار بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

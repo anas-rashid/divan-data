@@ -1,0 +1,57 @@
+{
+  "Id": 26611,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا نگیرم بوسه از لب گلعذار خویش را\r\nنشکنم از چشمه کوثر خمار خویش را\r\nچون کند برق تجلی پای شوخی در رکاب\r\nکوه نتواند نگه دارد وقار خویش را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا نگیرم بوسه از لب گلعذار خویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشکنم از چشمه کوثر خمار خویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون کند برق تجلی پای شوخی در رکاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوه نتواند نگه دارد وقار خویش را",
+      "CoupletIndex": 1
+    }
+  ]
+}

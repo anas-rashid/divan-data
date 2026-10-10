@@ -1,0 +1,54 @@
+{
+  "Id": 37374,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۰۲",
+  "FullUrl": "/p393/robaee/sh202",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh202",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرگردانم درین جهان از عمری\r\nدرمانده میان این و آن از عمری\r\nشاد تو ز بندگان خویشم خوانی\r\nمی‌خوانم ختم خواجگان از عمری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرگردانم درین جهان از عمری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درمانده میان این و آن از عمری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شاد تو ز بندگان خویشم خوانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌خوانم ختم خواجگان از عمری",
+      "CoupletIndex": 1
+    }
+  ]
+}

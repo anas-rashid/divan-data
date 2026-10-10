@@ -1,0 +1,57 @@
+{
+  "Id": 34917,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۵۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۵۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 21,
+    "Rhythm": "فاعلن مفاعیلن فاعلن مفاعیلن (مقتضب مثمن مطوی مقطوع)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به راه آن وفا دشمن، سر و جان شاد می دادم\r\nدل نامهربانش را، مروت یاد می دادم\r\nندارم قوت آهی، نفس در سینه می دزدم\r\nاگر می شد، غبار خاطری بر باد می دادم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به راه آن وفا دشمن، سر و جان شاد می دادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل نامهربانش را، مروت یاد می دادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ندارم قوت آهی، نفس در سینه می دزدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر می شد، غبار خاطری بر باد می دادم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 26805,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۹۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۹۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh199",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh199",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل فتاد از چشم مست یار تا فرزانه شد\r\nتا ز جوش افتاد می آواره از میخانه شد\r\nدل ز ترک آرزو بر آرزوها دست یافت\r\nمیهمان ترک فضولی کرد صاحبخانه شد\r\nهیچ کافر را مبادا آرزو در دل گره!\r\nعاقبت مشت گل ما سبحه صد دانه شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل فتاد از چشم مست یار تا فرزانه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا ز جوش افتاد می آواره از میخانه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل ز ترک آرزو بر آرزوها دست یافت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میهمان ترک فضولی کرد صاحبخانه شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هیچ کافر را مبادا آرزو در دل گره!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عاقبت مشت گل ما سبحه صد دانه شد",
+      "CoupletIndex": 2
+    }
+  ]
+}

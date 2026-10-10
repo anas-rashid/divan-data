@@ -1,0 +1,57 @@
+{
+  "Id": 30788,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۱",
+  "FullUrl": "/p389/robghm/sh531",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh531",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر فعل که از تو در شمارست، ببین\r\nگردون به تلافی‌اش سوارست، ببین\r\nدادند به دست چپ عنان راکب را\r\nبا راست‌روان چه اختیارست، ببین",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر فعل که از تو در شمارست، ببین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون به تلافی‌اش سوارست، ببین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دادند به دست چپ عنان راکب را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با راست‌روان چه اختیارست، ببین",
+      "CoupletIndex": 1
+    }
+  ]
+}

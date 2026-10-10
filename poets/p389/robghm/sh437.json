@@ -1,0 +1,57 @@
+{
+  "Id": 30694,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳۷",
+  "FullUrl": "/p389/robghm/sh437",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh437",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با آن که زدی بر جگرم صد جا نیش\r\nوز درد، دلم را چو جگر کردی ریش\r\nهرجور که آید از تو بر من، بحلی\r\nآزرده مکن به عذرخواهی لب خویش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با آن که زدی بر جگرم صد جا نیش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز درد، دلم را چو جگر کردی ریش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرجور که آید از تو بر من، بحلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آزرده مکن به عذرخواهی لب خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

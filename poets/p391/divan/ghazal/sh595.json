@@ -1,0 +1,66 @@
+{
+  "Id": 32687,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۹۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۵",
+  "FullUrl": "/p391/divan/ghazal/sh595",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh595",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در سینه آنچه این دل مایوس می کند\r\nکی در فرنگ نالهٔ ناقوس می کند\r\nآنجا که سرو قد تو آراست بزم رقص\r\nرنگ پریده مستی طاؤس می کند\r\nگر حکیمانه زند کس چو تو ساغر جویا\r\nمی نگوییم که افسرده ادراک زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سینه آنچه این دل مایوس می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی در فرنگ نالهٔ ناقوس می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنجا که سرو قد تو آراست بزم رقص",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رنگ پریده مستی طاؤس می کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر حکیمانه زند کس چو تو ساغر جویا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می نگوییم که افسرده ادراک زند",
+      "CoupletIndex": 2
+    }
+  ]
+}

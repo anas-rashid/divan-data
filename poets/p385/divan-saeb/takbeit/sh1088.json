@@ -1,0 +1,45 @@
+{
+  "Id": 18619,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۸۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۸۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1088",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1088",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به تکلیف بهاران شاخسارم غنچه می‌بندد\r\nاگر در دست من می‌بود، اول بار می‌بستم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به تکلیف بهاران شاخسارم غنچه می‌بندد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر در دست من می‌بود، اول بار می‌بستم",
+      "CoupletIndex": 0
+    }
+  ]
+}

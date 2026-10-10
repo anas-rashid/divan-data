@@ -1,0 +1,93 @@
+{
+  "Id": 30993,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۶",
+  "FullUrl": "/p390/divan/ghazal/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "‎تویی که تیغ چو آب تو کشته آتش را\r\nبه زهر چشم، عتاب تو کشته آتش را\r\nز باد، آتش اگرچه همیشه زنده شود\r\nنسیم طرف نقاب تو کشته آتش را\r\nبه خون گرم گر آلوده است نیست عجب\r\nبه تیغ موجب شراب تو کشته آتش را\r\nبه سوختن بردم عشق، خوش تماشایی ست\r\nبه جرم این که کباب تو کشته آتش را\r\nمجال لاف زبان آوری به شعله نداد\r\nسلیم، طبع چو آب تو کشته آتش را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "‎تویی که تیغ چو آب تو کشته آتش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به زهر چشم، عتاب تو کشته آتش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز باد، آتش اگرچه همیشه زنده شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نسیم طرف نقاب تو کشته آتش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به خون گرم گر آلوده است نیست عجب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به تیغ موجب شراب تو کشته آتش را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به سوختن بردم عشق، خوش تماشایی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به جرم این که کباب تو کشته آتش را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مجال لاف زبان آوری به شعله نداد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سلیم، طبع چو آب تو کشته آتش را",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17933,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۰۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۰۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh402",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh402",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خنده بیجاست برق گریهٔ بی اختیار\r\nاشک تلخ و قهقه مینا به هم پیوسته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خنده بیجاست برق گریهٔ بی اختیار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اشک تلخ و قهقه مینا به هم پیوسته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

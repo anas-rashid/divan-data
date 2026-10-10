@@ -1,0 +1,54 @@
+{
+  "Id": 36660,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۸۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۸۰",
+  "FullUrl": "/p393/ghete/sh180",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh180",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی‌تو کی میل به صهبا من غم پیشه کنم\r\nخاک در چشم قدح خون به دل شیشه کنم\r\nعشق مجنون مرا کوهکنی فرمود است\r\nباید از آهن زنجیر جنون تیشه کنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌تو کی میل به صهبا من غم پیشه کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک در چشم قدح خون به دل شیشه کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق مجنون مرا کوهکنی فرمود است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باید از آهن زنجیر جنون تیشه کنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

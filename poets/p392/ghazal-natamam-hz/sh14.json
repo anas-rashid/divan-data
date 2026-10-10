@@ -1,0 +1,42 @@
+{
+  "Id": 34673,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی داند دل آگاه، در دنیا فراغت را\r\nبه خاطر ریشهٔ غفلت، رگ خواب است راحت را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی داند دل آگاه، در دنیا فراغت را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به خاطر ریشهٔ غفلت، رگ خواب است راحت را",
+      "CoupletIndex": 0
+    }
+  ]
+}

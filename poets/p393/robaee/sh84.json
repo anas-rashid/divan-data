@@ -1,0 +1,54 @@
+{
+  "Id": 37256,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۴",
+  "FullUrl": "/p393/robaee/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افسوس که آتش جوانی شد سرد\r\nفریاد که درمان نپذیرد این درد\r\nخاکستر افسردهٔ پیری ناچار\r\nدر ماتم زندگی به سر باید برد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس که آتش جوانی شد سرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فریاد که درمان نپذیرد این درد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاکستر افسردهٔ پیری ناچار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ماتم زندگی به سر باید برد",
+      "CoupletIndex": 1
+    }
+  ]
+}

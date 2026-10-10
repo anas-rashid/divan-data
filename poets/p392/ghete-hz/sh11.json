@@ -1,0 +1,57 @@
+{
+  "Id": 34350,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۱۱ - قطعه در شکایت",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۱۱ - قطعه در شکایت",
+  "FullUrl": "/p392/ghete-hz/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون در دلم ازکاوش ایام نمانده ست\r\nاین آبله را نیشتر خار مکیده ست\r\nمن حمزه نیم در صف این عرصهٔ خونخوار\r\nامّا جگرم هند جگرخوار مکیده ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون در دلم ازکاوش ایام نمانده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این آبله را نیشتر خار مکیده ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من حمزه نیم در صف این عرصهٔ خونخوار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امّا جگرم هند جگرخوار مکیده ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

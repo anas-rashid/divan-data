@@ -1,0 +1,54 @@
+{
+  "Id": 36581,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۱",
+  "FullUrl": "/p393/ghete/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغت پس از فنا به مزارم بهار کرد\r\nچندان که مشت خاک مرا لاله‌زار کرد\r\nگفتی که بعد ازین نزنم تیر خود به غیر\r\nحرفی که گفته‌ای به دلم سخت کار کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغت پس از فنا به مزارم بهار کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چندان که مشت خاک مرا لاله‌زار کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی که بعد ازین نزنم تیر خود به غیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حرفی که گفته‌ای به دلم سخت کار کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

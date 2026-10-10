@@ -1,0 +1,45 @@
+{
+  "Id": 18723,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۹۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۹۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1192",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1192",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فکر شنبه تلخ دارد جمعه را بر کودکان\r\nمن چسان غافل به پیری از غم فردا شوم؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فکر شنبه تلخ دارد جمعه را بر کودکان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من چسان غافل به پیری از غم فردا شوم؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

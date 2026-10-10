@@ -1,0 +1,57 @@
+{
+  "Id": 30882,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۵",
+  "FullUrl": "/p389/robghm/sh625",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh625",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنها که خرید عشقشان از خامی\r\nپنهان ز نظر، کنند بی‌آرامی\r\nمن نالم و تهمت‌زده مرغ چمن است\r\nمن سوزم و پروانه کشد بدنامی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنها که خرید عشقشان از خامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پنهان ز نظر، کنند بی‌آرامی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من نالم و تهمت‌زده مرغ چمن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من سوزم و پروانه کشد بدنامی",
+      "CoupletIndex": 1
+    }
+  ]
+}

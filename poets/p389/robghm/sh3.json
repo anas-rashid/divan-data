@@ -1,0 +1,57 @@
+{
+  "Id": 30260,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳",
+  "FullUrl": "/p389/robghm/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یا رب که فسانه مختصر کن ما را\r\nخواب مستی ز سر به در کن ما را\r\nای پاکی مرد بی نگاه تو محال\r\nصد خرده بگیر و یک نظر کن ما را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یا رب که فسانه مختصر کن ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواب مستی ز سر به در کن ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای پاکی مرد بی نگاه تو محال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد خرده بگیر و یک نظر کن ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

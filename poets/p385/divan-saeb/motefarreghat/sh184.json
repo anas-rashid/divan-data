@@ -1,0 +1,69 @@
+{
+  "Id": 26790,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۸۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۸۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh184",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh184",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(راه سخنم معنی بسیار گرفته است\r\nاز جوش گل این رخنه دیوار گرفته است)\r\n(با صاف ضمیران به ادب باش که بسیار\r\nاز آب گهر آینه زنگار گرفته است)\r\n(آن رهرو افسرده اساسم که مکرر\r\nدامان مرا سایه دیوار گرفته است)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(راه سخنم معنی بسیار گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از جوش گل این رخنه دیوار گرفته است)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(با صاف ضمیران به ادب باش که بسیار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آب گهر آینه زنگار گرفته است)",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "(آن رهرو افسرده اساسم که مکرر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دامان مرا سایه دیوار گرفته است)",
+      "CoupletIndex": 2
+    }
+  ]
+}

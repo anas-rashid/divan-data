@@ -1,0 +1,93 @@
+{
+  "Id": 31320,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۵۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۵۳",
+  "FullUrl": "/p390/divan/ghazal/sh353",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh353",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر ما دمی نمی گذرد بی شراب تلخ\r\nتا چند همچو ابر توان خورد آب تلخ\r\nشیرینی زلال طرب را ز گل بپرس\r\nروزی ما چو سبزه ی میناست آب تلخ\r\nآنجا که عشق غارت آسودگی کند\r\nبادام تلخ را نگذارد به خواب تلخ\r\nبا یکدگر خوش است نشاط و غم جهان\r\nریزند ازان به شربت شیرین گلاب تلخ\r\nفرهاد را به عشق ز حرف وفا سلیم\r\nدر کوه داده صورت شیرین جواب تلخ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر ما دمی نمی گذرد بی شراب تلخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چند همچو ابر توان خورد آب تلخ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیرینی زلال طرب را ز گل بپرس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی ما چو سبزه ی میناست آب تلخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آنجا که عشق غارت آسودگی کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بادام تلخ را نگذارد به خواب تلخ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با یکدگر خوش است نشاط و غم جهان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ریزند ازان به شربت شیرین گلاب تلخ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "فرهاد را به عشق ز حرف وفا سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در کوه داده صورت شیرین جواب تلخ",
+      "CoupletIndex": 4
+    }
+  ]
+}

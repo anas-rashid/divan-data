@@ -1,0 +1,54 @@
+{
+  "Id": 27285,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۷۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۷۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh679",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh679",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می به جامم می کند چشم خمارآلود تو\r\nگل به طرحم می دهد روی بهارآلود تو\r\nمی رسی از گرد راه و می توان برداشتن\r\nگرده خورشید از روی غبارآلود تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می به جامم می کند چشم خمارآلود تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل به طرحم می دهد روی بهارآلود تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می رسی از گرد راه و می توان برداشتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گرده خورشید از روی غبارآلود تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

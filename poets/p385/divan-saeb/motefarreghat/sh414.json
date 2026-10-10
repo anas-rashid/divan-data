@@ -1,0 +1,57 @@
+{
+  "Id": 27020,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۱۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۱۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh414",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh414",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه شد دگر که فغان از دلم خروش کشید؟\r\nلباس عافیتم دست غم ز دوش کشید\r\nکمان حسن که در بند ماه کنعان بود\r\nخط سیاه تو از گوش تا به گوش کشید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه شد دگر که فغان از دلم خروش کشید؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لباس عافیتم دست غم ز دوش کشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمان حسن که در بند ماه کنعان بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خط سیاه تو از گوش تا به گوش کشید",
+      "CoupletIndex": 1
+    }
+  ]
+}

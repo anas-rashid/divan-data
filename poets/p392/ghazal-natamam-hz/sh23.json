@@ -1,0 +1,42 @@
+{
+  "Id": 34682,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نبخشیدی به مگن یکبار، جام باده خود را\r\nنمی گیری سردستی چرا، افتادهٔ خود را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نبخشیدی به مگن یکبار، جام باده خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمی گیری سردستی چرا، افتادهٔ خود را",
+      "CoupletIndex": 0
+    }
+  ]
+}

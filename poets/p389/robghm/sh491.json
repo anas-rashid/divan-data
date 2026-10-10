@@ -1,0 +1,57 @@
+{
+  "Id": 30748,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹۱",
+  "FullUrl": "/p389/robghm/sh491",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh491",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خوف، گهی خاطر خود ریش کنم\r\nگه تکیه به عفو بخشش‌اندیش کنم\r\nامّید و هراس در دلم یکسانند\r\nیا رب تو بگو کدام را بیش کنم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خوف، گهی خاطر خود ریش کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه تکیه به عفو بخشش‌اندیش کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امّید و هراس در دلم یکسانند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یا رب تو بگو کدام را بیش کنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

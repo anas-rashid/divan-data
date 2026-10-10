@@ -1,0 +1,54 @@
+{
+  "Id": 37305,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳۳",
+  "FullUrl": "/p393/robaee/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن تو که بنده انتخابش کردم\r\nکرد از همه خوبان جهان دل‌سردم\r\nبا ناز تو ناز دیگران کی ماند\r\nای صاحب طرز خاص گردت گردم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن تو که بنده انتخابش کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرد از همه خوبان جهان دل‌سردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با ناز تو ناز دیگران کی ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای صاحب طرز خاص گردت گردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

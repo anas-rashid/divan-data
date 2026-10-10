@@ -1,0 +1,54 @@
+{
+  "Id": 36693,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۱۳",
+  "FullUrl": "/p393/ghete/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جانان ز تو ناز و سرگردانی\r\nماییم و نیاز و جان‌فشانی\r\nرحم آر به حال این کهن پیر\r\nشکرانهٔ اینکه نوجوانی",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانان ز تو ناز و سرگردانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماییم و نیاز و جان‌فشانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رحم آر به حال این کهن پیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکرانهٔ اینکه نوجوانی",
+      "CoupletIndex": 1
+    }
+  ]
+}

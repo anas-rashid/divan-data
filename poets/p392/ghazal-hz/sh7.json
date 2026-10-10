@@ -1,0 +1,93 @@
+{
+  "Id": 33434,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۷",
+  "FullUrl": "/p392/ghazal-hz/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می چون سبو کشید، لب می پرست ما\r\nدر کارگاه سعی، نجنبید دست ما\r\nما کرده ایم دانه ی دل در زمین عشق\r\nاز آسیای چرخ نیاید شکست ما\r\nامروز، زاهد از لب ما بوی می شنید\r\nای بی خبر ز بزم شراب الست ما\r\nپا در زمین نشئه ی عشرت فشرده ایم\r\nباشد چو تاک، میکده ها زیر دست ما\r\nخمخانه ها تهی شد و ما تشنه لب حزین\r\nمی، شد کبابِ حوصله ی دیر مست ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می چون سبو کشید، لب می پرست ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کارگاه سعی، نجنبید دست ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما کرده ایم دانه ی دل در زمین عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آسیای چرخ نیاید شکست ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "امروز، زاهد از لب ما بوی می شنید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای بی خبر ز بزم شراب الست ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پا در زمین نشئه ی عشرت فشرده ایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "باشد چو تاک، میکده ها زیر دست ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خمخانه ها تهی شد و ما تشنه لب حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "می، شد کبابِ حوصله ی دیر مست ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 36744,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۵",
+  "FullUrl": "/p393/mot/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اقبال دولت است بلا بهر جان ما\r\nاز سایهٔ هما شکند استخوان ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اقبال دولت است بلا بهر جان ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سایهٔ هما شکند استخوان ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

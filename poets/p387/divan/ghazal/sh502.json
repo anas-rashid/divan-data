@@ -1,0 +1,81 @@
+{
+  "Id": 28739,
+  "CatId": 1069,
+  "Title": "غزل شمارهٔ  ۵۰۲",
+  "FullTitle": "کلیم » دیوان اشعار » غزلیات » غزل شمارهٔ  ۵۰۲",
+  "FullUrl": "/p387/divan/ghazal/sh502",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghazal/sh502",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روز و شب از بس که محو آن میان گردیده‌ام\r\nموی می‌ترسم برآید عاقبت از دیده‌ام\r\nفرصت عشرت ز کف ندهم به هرجایی که هست\r\nگریه تا بس کرده‌ام بر حال خود خندیده‌ام\r\nگل به بستر تا نیفشانی نمی‌خوابی و من\r\nشمع‌سان با شعله در یک پیرهن خوابیده‌ام\r\nهمچو من در پیش یار بی‌وفای خود کلیم\r\nزود نتوان خار شد، عمری وفا ورزیده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روز و شب از بس که محو آن میان گردیده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موی می‌ترسم برآید عاقبت از دیده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فرصت عشرت ز کف ندهم به هرجایی که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گریه تا بس کرده‌ام بر حال خود خندیده‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل به بستر تا نیفشانی نمی‌خوابی و من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شمع‌سان با شعله در یک پیرهن خوابیده‌ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "همچو من در پیش یار بی‌وفای خود کلیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زود نتوان خار شد، عمری وفا ورزیده‌ام",
+      "CoupletIndex": 3
+    }
+  ]
+}

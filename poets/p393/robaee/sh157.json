@@ -1,0 +1,54 @@
+{
+  "Id": 37329,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۷",
+  "FullUrl": "/p393/robaee/sh157",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh157",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اهل جهان وضع جدایی دارم\r\nعیش دگر از فیض جدایی دارم\r\nشرمندهٔ یک قطره نیم زین دریا\r\nمانند صدف رزق هوایی دارم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اهل جهان وضع جدایی دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عیش دگر از فیض جدایی دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرمندهٔ یک قطره نیم زین دریا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند صدف رزق هوایی دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

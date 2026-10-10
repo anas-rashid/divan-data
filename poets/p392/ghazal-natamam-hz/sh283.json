@@ -1,0 +1,57 @@
+{
+  "Id": 34942,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۸۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۸۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh283",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh283",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آسان به جلوه های تو، از جا نمی روم\r\nبرپاست محشر و به تماشا نمی روم\r\nتعظیم سفله، پست کند قدر مرد را\r\nاز جا، به آمد آمد دنیا، نمی روم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسان به جلوه های تو، از جا نمی روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برپاست محشر و به تماشا نمی روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تعظیم سفله، پست کند قدر مرد را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جا، به آمد آمد دنیا، نمی روم",
+      "CoupletIndex": 1
+    }
+  ]
+}

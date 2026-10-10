@@ -1,0 +1,54 @@
+{
+  "Id": 36492,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۲",
+  "FullUrl": "/p393/ghete/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تو را که گفت که از خون گذر ترحّم را\r\nز چین جبهه به زنجیر کن تبسّم را\r\nهمین نبرده فرو گنج گوهر اشکم\r\nکه خاک کوی تو خورده است مال مردم را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو را که گفت که از خون گذر ترحّم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز چین جبهه به زنجیر کن تبسّم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همین نبرده فرو گنج گوهر اشکم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که خاک کوی تو خورده است مال مردم را",
+      "CoupletIndex": 1
+    }
+  ]
+}

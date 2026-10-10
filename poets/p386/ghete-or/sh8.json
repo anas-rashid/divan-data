@@ -1,0 +1,54 @@
+{
+  "Id": 28175,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۸ - فراز و نشیب",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۸ - فراز و نشیب",
+  "FullUrl": "/p386/ghete-or/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اندر این بزم از دوکس شرمنده ام دائم که باز\r\nآنکه بیرونم کشدبعد از قدم کفش من است\r\nاول از بالانشین خود که بعد از وی منم\r\nبعد از آن زیردست خود که هم کفش من است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندر این بزم از دوکس شرمنده ام دائم که باز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنکه بیرونم کشدبعد از قدم کفش من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اول از بالانشین خود که بعد از وی منم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بعد از آن زیردست خود که هم کفش من است",
+      "CoupletIndex": 1
+    }
+  ]
+}

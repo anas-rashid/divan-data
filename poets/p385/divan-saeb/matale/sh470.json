@@ -1,0 +1,42 @@
+{
+  "Id": 26558,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۷۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۷۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh470",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh470",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما همچو شرر تلخی غربت نکشیدیم\r\nدر نقطه آغاز به انجام رسیدیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما همچو شرر تلخی غربت نکشیدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در نقطه آغاز به انجام رسیدیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

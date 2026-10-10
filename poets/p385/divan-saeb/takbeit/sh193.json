@@ -1,0 +1,45 @@
+{
+  "Id": 17724,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۹۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۹۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh193",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh193",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همین است پیغام گلهای رعنا\r\nکه یک کاسه کن نوبهار و خزان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همین است پیغام گلهای رعنا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که یک کاسه کن نوبهار و خزان را",
+      "CoupletIndex": 0
+    }
+  ]
+}

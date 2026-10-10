@@ -1,0 +1,57 @@
+{
+  "Id": 34907,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۴۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۴۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh248",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh248",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لقمه ای را ممسک از آزادگان دارد دریغ\r\nاز هما، این سگ ز خسّت، استخوان دارد دریغ\r\nبا کدام امّید دیگر، زندگانی کس کند؟\r\nتیغش آبی از گلوی تشنگان دارد دریغ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لقمه ای را ممسک از آزادگان دارد دریغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از هما، این سگ ز خسّت، استخوان دارد دریغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با کدام امّید دیگر، زندگانی کس کند؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغش آبی از گلوی تشنگان دارد دریغ",
+      "CoupletIndex": 1
+    }
+  ]
+}

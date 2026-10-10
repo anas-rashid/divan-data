@@ -1,0 +1,57 @@
+{
+  "Id": 30740,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۸۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۸۳",
+  "FullUrl": "/p389/robghm/sh483",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh483",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خاک درت گر چو صبا برخیزم\r\nیا رب به کجا فتم، کجا برخیزم\r\nدر کوی تو افتاده سرم بر سر راه\r\nهر چند ز ره چو نقش پا برخیزم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خاک درت گر چو صبا برخیزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رب به کجا فتم، کجا برخیزم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کوی تو افتاده سرم بر سر راه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر چند ز ره چو نقش پا برخیزم",
+      "CoupletIndex": 1
+    }
+  ]
+}

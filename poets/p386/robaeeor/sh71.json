@@ -1,0 +1,57 @@
+{
+  "Id": 28114,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۷۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷۱",
+  "FullUrl": "/p386/robaeeor/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن شور که این مفرد و این وافی چیست\r\nیک جرعه بس، این دُرد و این صافی چیست\r\nدر هر دو جهان یک درم، آن گاه سره\r\nچندین محک تمیز صرافی چیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن شور که این مفرد و این وافی چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک جرعه بس، این دُرد و این صافی چیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در هر دو جهان یک درم، آن گاه سره",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندین محک تمیز صرافی چیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

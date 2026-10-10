@@ -1,0 +1,54 @@
+{
+  "Id": 37355,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۳",
+  "FullUrl": "/p393/robaee/sh183",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh183",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لطف تو به حال من چرا نیست بگو\r\nخشم و غضب تو را سبب چیست بگو\r\nمی‌نالم و در دلت نمی‌یابم راه\r\nای جان کسی در دل تو کیست بگو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لطف تو به حال من چرا نیست بگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشم و غضب تو را سبب چیست بگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌نالم و در دلت نمی‌یابم راه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای جان کسی در دل تو کیست بگو",
+      "CoupletIndex": 1
+    }
+  ]
+}

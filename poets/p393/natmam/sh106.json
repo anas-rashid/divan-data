@@ -1,0 +1,66 @@
+{
+  "Id": 36257,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۰۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۰۶",
+  "FullUrl": "/p393/natmam/sh106",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh106",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا کشت و کین از دل او نرفت\r\nچه کین بلک چینش ز ابرو نرفت\r\nشئم پیر و مانند زنگی مرا\r\nسیاهی ز مو رفت و از رو نرفت\r\nشدم موی از حسرت آن مگر\r\nخیالش از سر یک سر مو نرفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا کشت و کین از دل او نرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه کین بلک چینش ز ابرو نرفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شئم پیر و مانند زنگی مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیاهی ز مو رفت و از رو نرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شدم موی از حسرت آن مگر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خیالش از سر یک سر مو نرفت",
+      "CoupletIndex": 2
+    }
+  ]
+}

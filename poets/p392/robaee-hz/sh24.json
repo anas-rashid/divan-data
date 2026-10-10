@@ -1,0 +1,57 @@
+{
+  "Id": 34419,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p392/robaee-hz/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاخ امید، برگ و بار تو کجاست؟\r\nفصل تو کدام و نوبهار تو کجاست؟\r\nچون موج ، تپیدنم به جایی نرسید\r\nای بحر محیط غم، کنار تو کجاست؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاخ امید، برگ و بار تو کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فصل تو کدام و نوبهار تو کجاست؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون موج ، تپیدنم به جایی نرسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای بحر محیط غم، کنار تو کجاست؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

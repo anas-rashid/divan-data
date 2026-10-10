@@ -1,0 +1,54 @@
+{
+  "Id": 34721,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۶۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۶۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh62",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh62",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عکس رخش باده فروش است دل ما\r\nآیینهٔ آن رهزن هوش است دل ما\r\nاز سطر جبینش، سخنم شد شکرآگین\r\nتلخی چش آن چشمهٔ نوش است دل ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عکس رخش باده فروش است دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیینهٔ آن رهزن هوش است دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سطر جبینش، سخنم شد شکرآگین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تلخی چش آن چشمهٔ نوش است دل ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

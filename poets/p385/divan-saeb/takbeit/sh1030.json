@@ -1,0 +1,45 @@
+{
+  "Id": 18561,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۳۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۳۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1030",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1030",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کشتی بی‌ناخدا را بادبان لطف خداست\r\nموج از خودرفته را از بحر بی پایان چه باک؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشتی بی‌ناخدا را بادبان لطف خداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موج از خودرفته را از بحر بی پایان چه باک؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28121,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۷۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷۸",
+  "FullUrl": "/p386/robaeeor/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی که به هرزه گردیم خو می داد\r\nدیدم که عنان به یار خوش رو می داد\r\nاز بهر دل اندیشهٔ تنگی می کرد\r\nتعلیم گشادگی به ابرو می داد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی که به هرزه گردیم خو می داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیدم که عنان به یار خوش رو می داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بهر دل اندیشهٔ تنگی می کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تعلیم گشادگی به ابرو می داد",
+      "CoupletIndex": 1
+    }
+  ]
+}

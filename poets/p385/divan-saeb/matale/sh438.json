@@ -1,0 +1,42 @@
+{
+  "Id": 26526,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۳۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۳۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh438",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh438",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که را از سایلان ناشاد می سازد بخیل\r\nدر حقیقت بنده ای آزاد می سازد بخیل",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که را از سایلان ناشاد می سازد بخیل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حقیقت بنده ای آزاد می سازد بخیل",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 33361,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۹۰",
+  "FullUrl": "/p391/divan/robaee/sh90",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh90",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیوسته به دوران تو ای چرخ کهن\r\nبا اهل کمال هستی از بس دشمن\r\nچون خامه که سر فرود آرد به دوات\r\nمحتاج سیه‌کاسه شوند اهل سخن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیوسته به دوران تو ای چرخ کهن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با اهل کمال هستی از بس دشمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون خامه که سر فرود آرد به دوات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محتاج سیه‌کاسه شوند اهل سخن",
+      "CoupletIndex": 1
+    }
+  ]
+}

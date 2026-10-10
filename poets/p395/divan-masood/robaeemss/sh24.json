@@ -1,0 +1,57 @@
+{
+  "Id": 37538,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیبا به رخی بتا و زیبا به سلب\r\nالماس به غمزه و تریاک به لب\r\nخواهی که چو روز روشنی گیرد شب\r\nبرکش ز رخ آن ریشه دستار قصب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیبا به رخی بتا و زیبا به سلب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "الماس به غمزه و تریاک به لب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهی که چو روز روشنی گیرد شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برکش ز رخ آن ریشه دستار قصب",
+      "CoupletIndex": 1
+    }
+  ]
+}

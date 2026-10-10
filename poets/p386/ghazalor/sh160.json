@@ -1,0 +1,93 @@
+{
+  "Id": 27568,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۶۰",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۶۰",
+  "FullUrl": "/p386/ghazalor/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منصور و اناالحق زدن و دار و دگر هیچ\r\nماییم و لبالب شدن از یار و دگر هیچ\r\nگر ره به مراسم کده ی عشق بیابی\r\nالماس بنه بر دل افگار و دگر هیچ\r\nبر لوح مزارم بنویسید پس از مرگ\r\nکای وای ز محرومی دیدار و دگر هیچ\r\nاز کعبه گر این بار برون ام بگذارند\r\nناقوس به دست آرم و زنار و دگر هیچ\r\nعرفی به غلط شهره به زرق است ببینید\r\nصد گل زده بر گوشه ی دستار و دگر هیچ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منصور و اناالحق زدن و دار و دگر هیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماییم و لبالب شدن از یار و دگر هیچ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ره به مراسم کده ی عشق بیابی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "الماس بنه بر دل افگار و دگر هیچ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر لوح مزارم بنویسید پس از مرگ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کای وای ز محرومی دیدار و دگر هیچ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از کعبه گر این بار برون ام بگذارند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ناقوس به دست آرم و زنار و دگر هیچ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی به غلط شهره به زرق است ببینید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صد گل زده بر گوشه ی دستار و دگر هیچ",
+      "CoupletIndex": 4
+    }
+  ]
+}

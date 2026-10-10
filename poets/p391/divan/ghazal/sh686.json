@@ -1,0 +1,93 @@
+{
+  "Id": 32778,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۸۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۸۶",
+  "FullUrl": "/p391/divan/ghazal/sh686",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh686",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تنها نه همین یارم گوش سبکی دارد\r\nبا گوش سبک چون گل روی تنکی دارد\r\nبا شعلهٔ حسن او کز باده برافروزد\r\nخورشید برین چون مه روی خنکی دارد\r\nدر عالم مستی هم هرگز نشود رامم\r\nبا آنکه ز خود رفته است از من خودکی دارد\r\nصد ساغر لبریزم نشکست خمار امشب\r\nبا رطل گران ساقی دست سبکی دارد\r\nنظاره نیابد ره بر درگه دیدارش\r\nاز لشکر خط حسنش جویا تزکی دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تنها نه همین یارم گوش سبکی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با گوش سبک چون گل روی تنکی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با شعلهٔ حسن او کز باده برافروزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید برین چون مه روی خنکی دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در عالم مستی هم هرگز نشود رامم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با آنکه ز خود رفته است از من خودکی دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صد ساغر لبریزم نشکست خمار امشب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با رطل گران ساقی دست سبکی دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نظاره نیابد ره بر درگه دیدارش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از لشکر خط حسنش جویا تزکی دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

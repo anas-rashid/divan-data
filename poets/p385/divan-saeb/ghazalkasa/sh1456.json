@@ -1,0 +1,93 @@
+{
+  "Id": 20529,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۴۵۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۴۵۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1456",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1456",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ره عشق که در هر قدمش صد خطرست\r\nدیده آبله را هر مژه از نیشترست\r\nهمچو خورشید به یک چشم ببین عالم را\r\nکه سرافراز شدن در گرو این نظرست\r\nتشنه باز آمدن از چشمه حیوان سهل است\r\nاز قدح با لب مخمور گذشتن هنرست\r\nرحم بر بال وپر خویش کن ای مرغ حرم\r\nنامه حسرت ما خونی صد بال و پرست\r\nچون صدف کاسه دریوزه به نیسان نبریم\r\nجگر تفته ما تشنه آب گهرست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ره عشق که در هر قدمش صد خطرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده آبله را هر مژه از نیشترست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچو خورشید به یک چشم ببین عالم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سرافراز شدن در گرو این نظرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تشنه باز آمدن از چشمه حیوان سهل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از قدح با لب مخمور گذشتن هنرست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رحم بر بال وپر خویش کن ای مرغ حرم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نامه حسرت ما خونی صد بال و پرست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون صدف کاسه دریوزه به نیسان نبریم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جگر تفته ما تشنه آب گهرست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 26877,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh271",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh271",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز می هرگاه روی یار عالمسوز می گردد\r\nخجل خورشید از خود چون چراغ روز می گردد\r\nگسستن رشته مهر و محبت را بود مشکل\r\nرهایی نیست مرغی را که دست آموز می گردد\r\nکند افتادگی چون خاک ره هر کس شعار خود\r\nاگر با آسمان گردد طرف، فیروز می گردد\r\nبشو از عیش شیرین دست تا گردد دلت روشن\r\nکه موم از شهد چون شد دور، بزم افروز می گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز می هرگاه روی یار عالمسوز می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خجل خورشید از خود چون چراغ روز می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گسستن رشته مهر و محبت را بود مشکل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رهایی نیست مرغی را که دست آموز می گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کند افتادگی چون خاک ره هر کس شعار خود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر با آسمان گردد طرف، فیروز می گردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بشو از عیش شیرین دست تا گردد دلت روشن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که موم از شهد چون شد دور، بزم افروز می گردد",
+      "CoupletIndex": 3
+    }
+  ]
+}

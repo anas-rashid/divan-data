@@ -1,0 +1,54 @@
+{
+  "Id": 36565,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۸۵",
+  "FullUrl": "/p393/ghete/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زمان حسن تو آخر شد و ادا باقی است\r\nنمود گرد خط اما نما نما باقی است\r\nگداخت جان هوس وصل او نرفت از سر\r\nبسوخت حاصل و سودای کیمیا باقی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زمان حسن تو آخر شد و ادا باقی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمود گرد خط اما نما نما باقی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گداخت جان هوس وصل او نرفت از سر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسوخت حاصل و سودای کیمیا باقی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

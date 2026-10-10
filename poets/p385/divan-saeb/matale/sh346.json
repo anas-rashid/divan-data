@@ -1,0 +1,42 @@
+{
+  "Id": 26434,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۴۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۴۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh346",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh346",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نمدپوشان زبان طعن را کوتاه دار\r\nکز نمد سالم نمی آید برون دندان مار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نمدپوشان زبان طعن را کوتاه دار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز نمد سالم نمی آید برون دندان مار",
+      "CoupletIndex": 0
+    }
+  ]
+}

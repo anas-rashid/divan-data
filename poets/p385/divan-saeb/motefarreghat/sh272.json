@@ -1,0 +1,57 @@
+{
+  "Id": 26878,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh272",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh272",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به کوی عشق زاهد دشمن ناموس می گردد\r\nاگر زاغ آید اینجا غیرت طاوس می گردد\r\nخوشا بخت گلستانی که صید خود کند ما را\r\nقفس از شعله آواز ما فانوس می گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به کوی عشق زاهد دشمن ناموس می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر زاغ آید اینجا غیرت طاوس می گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوشا بخت گلستانی که صید خود کند ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قفس از شعله آواز ما فانوس می گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

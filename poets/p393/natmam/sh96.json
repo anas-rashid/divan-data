@@ -1,0 +1,66 @@
+{
+  "Id": 36247,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۶",
+  "FullUrl": "/p393/natmam/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درآ به خشم منت تندخو نخواهم گفت\r\nسقط بگوی که هرگز مگو نخواهم گفت\r\nچه شد به خوی تو گر غائبانه بد گفتم\r\nکه من به روی تو غیر از نکو نخواهم گفت\r\nبیا و پرسشم امروز کن که گر فردا\r\nهزار بار بگویی بگو نخواهم گفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درآ به خشم منت تندخو نخواهم گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سقط بگوی که هرگز مگو نخواهم گفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چه شد به خوی تو گر غائبانه بد گفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من به روی تو غیر از نکو نخواهم گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیا و پرسشم امروز کن که گر فردا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هزار بار بگویی بگو نخواهم گفت",
+      "CoupletIndex": 2
+    }
+  ]
+}

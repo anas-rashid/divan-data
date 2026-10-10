@@ -1,0 +1,81 @@
+{
+  "Id": 30205,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۵۷",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۵۷",
+  "FullUrl": "/p389/ghazalgm/sh457",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh457",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو باد صبح گذشتم به گرد هر چمنی\r\nبرای خویش، چو کویت نیافتم وطنی\r\nچو دست خصم زلیخا، بریده باد آن دست\r\nکه بر تنی نتواند درید پیرهنی\r\nچو قامت تو نهالی ندیده‌ام موزون\r\nبه اتفاق صبا گشته‌ام به هر چمنی\r\nروم به دایره مردم پریشان‌بخت\r\nمگر ز موی تو بر گوش من خورد سخنی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو باد صبح گذشتم به گرد هر چمنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برای خویش، چو کویت نیافتم وطنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو دست خصم زلیخا، بریده باد آن دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بر تنی نتواند درید پیرهنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو قامت تو نهالی ندیده‌ام موزون",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به اتفاق صبا گشته‌ام به هر چمنی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "روم به دایره مردم پریشان‌بخت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مگر ز موی تو بر گوش من خورد سخنی",
+      "CoupletIndex": 3
+    }
+  ]
+}

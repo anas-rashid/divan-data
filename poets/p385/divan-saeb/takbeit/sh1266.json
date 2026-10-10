@@ -1,0 +1,45 @@
+{
+  "Id": 18797,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۶۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۶۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1266",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1266",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چیده‌ایم از دو جهان دامن الفت چون سرو\r\nهر که از ما گذرد آب روان می‌دانیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چیده‌ایم از دو جهان دامن الفت چون سرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر که از ما گذرد آب روان می‌دانیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33916,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۸۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۸۹",
+  "FullUrl": "/p392/ghazal-hz/sh489",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh489",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خرامد یار من مستانه هر راهی دچار آید\r\nمگر یک بار هم از کوچه راه انتظار آید\r\nگوارا نیست آب زندگانی، بی حریفانم\r\nبه حسرت می کشم پیمانه ای، تا گل به بار آید\r\nشرابی چون ندارم با کباب خویش می سازم\r\nدل خود می خورم در آشیان تا نوبهار آید\r\nکهن اوراق ما جانا همایون فال می باشد\r\nنگه دار این دل سی پاره را، گاهی به کار آید\r\nحزین آشفته دارد خامه ام را خطّ مشکینی\r\nنی من ناله هر جا سر کند، بوی بهار آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرامد یار من مستانه هر راهی دچار آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگر یک بار هم از کوچه راه انتظار آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گوارا نیست آب زندگانی، بی حریفانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به حسرت می کشم پیمانه ای، تا گل به بار آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شرابی چون ندارم با کباب خویش می سازم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل خود می خورم در آشیان تا نوبهار آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کهن اوراق ما جانا همایون فال می باشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نگه دار این دل سی پاره را، گاهی به کار آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین آشفته دارد خامه ام را خطّ مشکینی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نی من ناله هر جا سر کند، بوی بهار آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

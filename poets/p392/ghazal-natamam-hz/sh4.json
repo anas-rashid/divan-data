@@ -1,0 +1,54 @@
+{
+  "Id": 34663,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرشکِ لاله‌گون، رشکِ گلستان می‌کند ما را\r\nبهار خار مژگان، گل به دامان می‌کند ما را\r\nبه چاک سینه دارد دستم الفت، دور از آن دامان\r\nغم هجران به ما دست و گریبان می‌کند ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرشکِ لاله‌گون، رشکِ گلستان می‌کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهار خار مژگان، گل به دامان می‌کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به چاک سینه دارد دستم الفت، دور از آن دامان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم هجران به ما دست و گریبان می‌کند ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

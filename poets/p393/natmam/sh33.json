@@ -1,0 +1,66 @@
+{
+  "Id": 36184,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۳",
+  "FullUrl": "/p393/natmam/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خستهٔ عشقیم و می‌سوزد دل غمگین ما\r\nنیست غیر از شمع یک دلسوز بر بالین ما\r\nدوش دادِ سوختن دادیم در بزمت ولی\r\nکس نجنبانید سر جز شمع در تحسین ما\r\nدر بغل داریم دیوان دل صدپاره را\r\nآه خون‌آلود باشد مصرع رنگین ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خستهٔ عشقیم و می‌سوزد دل غمگین ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست غیر از شمع یک دلسوز بر بالین ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دوش دادِ سوختن دادیم در بزمت ولی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس نجنبانید سر جز شمع در تحسین ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در بغل داریم دیوان دل صدپاره را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آه خون‌آلود باشد مصرع رنگین ما",
+      "CoupletIndex": 2
+    }
+  ]
+}

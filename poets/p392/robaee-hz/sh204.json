@@ -1,0 +1,57 @@
+{
+  "Id": 34599,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۴",
+  "FullUrl": "/p392/robaee-hz/sh204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شمع بود داغ جنون تاج سرم\r\nآتش به جهانی زده مژگان ترم\r\nعیبی نبود هست کساد ارگهرم\r\nعیبم همه این است مه صاحب هنرم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع بود داغ جنون تاج سرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتش به جهانی زده مژگان ترم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیبی نبود هست کساد ارگهرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیبم همه این است مه صاحب هنرم",
+      "CoupletIndex": 1
+    }
+  ]
+}

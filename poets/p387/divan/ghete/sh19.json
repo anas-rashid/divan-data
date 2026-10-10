@@ -1,0 +1,54 @@
+{
+  "Id": 28838,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۱۹ - ایضا",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۱۹ - ایضا",
+  "FullUrl": "/p387/divan/ghete/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تفنگ عدو سوز شاه جهان\r\nکزو عمر دشمن شود کاسته\r\nرگ تیره ابریست پررعد و برق\r\nزرعد کف شاه برخاسته",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تفنگ عدو سوز شاه جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کزو عمر دشمن شود کاسته",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رگ تیره ابریست پررعد و برق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زرعد کف شاه برخاسته",
+      "CoupletIndex": 1
+    }
+  ]
+}

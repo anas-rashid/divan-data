@@ -1,0 +1,69 @@
+{
+  "Id": 27141,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۳۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۳۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh535",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh535",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دام امید در ره ایام بسته‌ایم\r\nدر رهگذار سیل ز خس دام بسته‌ایم\r\nبر دست روزگار روان است حکم ما\r\nتا لب ز گفتگو چو لب جام بسته‌ایم\r\nعشق آن حریف نیست که صید زبون کند\r\nخود را به زور بر قفس و دام بسته‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دام امید در ره ایام بسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در رهگذار سیل ز خس دام بسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر دست روزگار روان است حکم ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا لب ز گفتگو چو لب جام بسته‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق آن حریف نیست که صید زبون کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خود را به زور بر قفس و دام بسته‌ایم",
+      "CoupletIndex": 2
+    }
+  ]
+}

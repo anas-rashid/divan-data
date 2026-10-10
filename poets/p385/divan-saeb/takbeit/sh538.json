@@ -1,0 +1,45 @@
+{
+  "Id": 18069,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۵۳۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۵۳۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh538",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh538",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سکندر تا به کی حسرت خوری بر حال خضر؟\r\nعمر جاویدان او، یک آب خوردن بیش نیست !",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سکندر تا به کی حسرت خوری بر حال خضر؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عمر جاویدان او، یک آب خوردن بیش نیست !",
+      "CoupletIndex": 0
+    }
+  ]
+}

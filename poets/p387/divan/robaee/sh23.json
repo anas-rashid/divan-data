@@ -1,0 +1,57 @@
+{
+  "Id": 28893,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۲۳",
+  "FullUrl": "/p387/divan/robaee/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای نقش بدیع شکل جان پرور تو\r\nآئینه روی اختران مرمر تو\r\nبخت و دولت سعادت و یمن و شرف\r\nدربان شده اند روز و شب بر در تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نقش بدیع شکل جان پرور تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آئینه روی اختران مرمر تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بخت و دولت سعادت و یمن و شرف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دربان شده اند روز و شب بر در تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

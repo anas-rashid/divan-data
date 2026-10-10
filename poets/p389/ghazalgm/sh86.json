@@ -1,0 +1,93 @@
+{
+  "Id": 29834,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۸۶",
+  "FullUrl": "/p389/ghazalgm/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر روز به من یار ز نو بر سر نازست\r\nپیوسته مرا لذت آغاز نیاز است\r\nبگذار که در تیرگی بخت بمانم\r\nآیینه چو روشن شود افشاگر رازست\r\nکوتاه امل باش که چون رشته سوزن\r\nپیوسته گره می‌خورد آن سر که دراز است\r\nای بت نه همین زینت بتخانه مایی\r\nدر کعبه هم ابروی تو محراب نمازست\r\nاز پستی فطرت چه شوی بسته صورت؟\r\nیک گام به معراج حقیقت ز مجازست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر روز به من یار ز نو بر سر نازست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته مرا لذت آغاز نیاز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگذار که در تیرگی بخت بمانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه چو روشن شود افشاگر رازست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کوتاه امل باش که چون رشته سوزن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیوسته گره می‌خورد آن سر که دراز است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای بت نه همین زینت بتخانه مایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در کعبه هم ابروی تو محراب نمازست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از پستی فطرت چه شوی بسته صورت؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک گام به معراج حقیقت ز مجازست",
+      "CoupletIndex": 4
+    }
+  ]
+}

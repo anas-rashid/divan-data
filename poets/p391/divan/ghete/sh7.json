@@ -1,0 +1,54 @@
+{
+  "Id": 33243,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۷",
+  "FullUrl": "/p391/divan/ghete/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نماز تو بی معرفت شیخنا\r\nچه بی قدر و بی منزلت آمده است\r\nفزون ز آشنایی مکن اختلاط\r\nعبادت پس از معرفت آمده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نماز تو بی معرفت شیخنا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه بی قدر و بی منزلت آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فزون ز آشنایی مکن اختلاط",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عبادت پس از معرفت آمده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

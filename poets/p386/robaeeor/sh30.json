@@ -1,0 +1,57 @@
+{
+  "Id": 28073,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۰",
+  "FullUrl": "/p386/robaeeor/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر چشم و دلم ز ناله و گریه جداست\r\nزنهار مبر گمان که راحت، که خطاست\r\nگر ناله خموش است دلم در جوش است\r\nگر دیده سراب است، درونم دریاست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چشم و دلم ز ناله و گریه جداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زنهار مبر گمان که راحت، که خطاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ناله خموش است دلم در جوش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دیده سراب است، درونم دریاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26158,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی گردد حجاب از دورگردی لفظ مضمون را\r\nسواد شهر نتواند مسخر کرد مجنون را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی گردد حجاب از دورگردی لفظ مضمون را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سواد شهر نتواند مسخر کرد مجنون را",
+      "CoupletIndex": 0
+    }
+  ]
+}

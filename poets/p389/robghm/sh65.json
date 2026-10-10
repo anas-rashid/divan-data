@@ -1,0 +1,57 @@
+{
+  "Id": 30322,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۵",
+  "FullUrl": "/p389/robghm/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خاموشی اهل حال از کردارست\r\nبودن در کار و وا نگفتن کارست\r\nواعظ که مدام سرخوش از گفتارست\r\nدخلش کم و خرج معرفت بسیار است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خاموشی اهل حال از کردارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بودن در کار و وا نگفتن کارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "واعظ که مدام سرخوش از گفتارست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دخلش کم و خرج معرفت بسیار است",
+      "CoupletIndex": 1
+    }
+  ]
+}

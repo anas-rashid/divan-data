@@ -1,0 +1,57 @@
+{
+  "Id": 26700,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به این عنوان اگر قامت کشد سرو دلارایت\r\nنماید طوق قمری جلوه خلخال در پایت\r\nنخواهی از گزیدن مانع دندان من گشتن\r\nاگر دانی چه خون‌ها در جگر دارم ز لب‌هایت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به این عنوان اگر قامت کشد سرو دلارایت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نماید طوق قمری جلوه خلخال در پایت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نخواهی از گزیدن مانع دندان من گشتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر دانی چه خون‌ها در جگر دارم ز لب‌هایت",
+      "CoupletIndex": 1
+    }
+  ]
+}

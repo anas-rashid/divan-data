@@ -1,0 +1,93 @@
+{
+  "Id": 25887,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۸۱۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۸۱۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6814",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6814",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیخبر شو ز جهان گر خبری می گیری\r\nچون گل از پوست برآ گر ثمری می گیری\r\nمی شود خواب گران شهپر پرواز ترا\r\nاگر از صدق طلب راهبری می گیری\r\nچون به سر منزل مقصود رسی، کز غفلت\r\nخبر خانه خود از دگری می گیری\r\nاز حیاتم نفس پا به رکابی مانده است\r\nاز من ای آینه رو گر خبری می گیری\r\nدر دل خویش گره ساز نفس را صائب\r\nاگر از سینه دریا گهری می گیری",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیخبر شو ز جهان گر خبری می گیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گل از پوست برآ گر ثمری می گیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می شود خواب گران شهپر پرواز ترا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر از صدق طلب راهبری می گیری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون به سر منزل مقصود رسی، کز غفلت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خبر خانه خود از دگری می گیری",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از حیاتم نفس پا به رکابی مانده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از من ای آینه رو گر خبری می گیری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در دل خویش گره ساز نفس را صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر از سینه دریا گهری می گیری",
+      "CoupletIndex": 4
+    }
+  ]
+}

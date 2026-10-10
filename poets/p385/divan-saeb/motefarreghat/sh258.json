@@ -1,0 +1,69 @@
+{
+  "Id": 26864,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۵۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۵۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی دلِ دیوانهٔ من رام آهو می‌شود؟\r\nصحبت من قال از چشم سخنگو می‌شود\r\nسر فرو نارد به اسباب دو عالم همتش\r\nاز دل هرکس که تیر او ترازو می‌شود\r\nسیرت بد، صورت نیکو نمی‌گیرد به خود\r\nخشم چون صورت پذیرد چین ابرو می‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی دلِ دیوانهٔ من رام آهو می‌شود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صحبت من قال از چشم سخنگو می‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر فرو نارد به اسباب دو عالم همتش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از دل هرکس که تیر او ترازو می‌شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سیرت بد، صورت نیکو نمی‌گیرد به خود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خشم چون صورت پذیرد چین ابرو می‌شود",
+      "CoupletIndex": 2
+    }
+  ]
+}

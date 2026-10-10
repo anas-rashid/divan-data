@@ -1,0 +1,93 @@
+{
+  "Id": 27496,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۸۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۸۸",
+  "FullUrl": "/p386/ghazalor/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درد نایافت ز بی دردی اقبال من است\r\nور نه مقصود من افتاده به دنبال من است\r\nبا قضا سینه ی من صاف نگردد هرگز\r\nشکوه ی من همه از جانب اهمال من است\r\nهرگز از محنت ایام نبودم آزاد\r\nفتنه همزاد من و حادثه هم سال من است\r\nآستینی که دو عالم بت و زنار در اوست\r\nگر به معنی نگری نامه ی اعمال من است\r\nعرفی اصلاح پریشانی ام از یاد ببر\r\nکانچه ادبار بود پیش من، اقبال من است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درد نایافت ز بی دردی اقبال من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور نه مقصود من افتاده به دنبال من است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با قضا سینه ی من صاف نگردد هرگز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکوه ی من همه از جانب اهمال من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هرگز از محنت ایام نبودم آزاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فتنه همزاد من و حادثه هم سال من است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آستینی که دو عالم بت و زنار در اوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر به معنی نگری نامه ی اعمال من است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی اصلاح پریشانی ام از یاد ببر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کانچه ادبار بود پیش من، اقبال من است",
+      "CoupletIndex": 4
+    }
+  ]
+}

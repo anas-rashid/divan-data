@@ -1,0 +1,57 @@
+{
+  "Id": 37608,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۹۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر تو به سفر شدی نگارا شاید\r\nماهی و مه از سفر شدن ناساید\r\nاز کاهش و از فزایشت عیبی نیست\r\nمه گاه بکاهد و گهی افزاید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر تو به سفر شدی نگارا شاید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماهی و مه از سفر شدن ناساید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کاهش و از فزایشت عیبی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مه گاه بکاهد و گهی افزاید",
+      "CoupletIndex": 1
+    }
+  ]
+}

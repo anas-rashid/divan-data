@@ -1,0 +1,81 @@
+{
+  "Id": 30010,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۶۲",
+  "FullUrl": "/p389/ghazalgm/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کشد صد طعنه از دشمن چو با من همنشین باشد\r\nبنازم دوستی را کز وفاداری چنین باشد\r\nبه دل چون داغ روغن دم‌به‌دم پس می‌رود داغم\r\nچه سازم، کوکب بخت مرا بالیدن این باشد\r\nسیه دل دود از آن باشد که در سر نخوتی دارد\r\nبود روشندل اخگر زانکه خاکسترنشین باشد\r\nبه گل ای مرغ گلشن، راز دل آهسته‌تر می‌گو\r\nمبادا در پس دیوار، گوشی درکمین باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشد صد طعنه از دشمن چو با من همنشین باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنازم دوستی را کز وفاداری چنین باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دل چون داغ روغن دم‌به‌دم پس می‌رود داغم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه سازم، کوکب بخت مرا بالیدن این باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سیه دل دود از آن باشد که در سر نخوتی دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بود روشندل اخگر زانکه خاکسترنشین باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به گل ای مرغ گلشن، راز دل آهسته‌تر می‌گو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مبادا در پس دیوار، گوشی درکمین باشد",
+      "CoupletIndex": 3
+    }
+  ]
+}

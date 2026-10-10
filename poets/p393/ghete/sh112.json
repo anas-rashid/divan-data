@@ -1,0 +1,54 @@
+{
+  "Id": 36592,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۱۲",
+  "FullUrl": "/p393/ghete/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب هجران او می با دماغ من نمی‌سازد\r\nچراغ تیره‌روز عشق را روغن نمی‌سازد\r\nبه صحرا رفته‌ام لیکن قرارم نیست در یک‌جا\r\nکه پای هرزه‌گرد عشق با دامن نمی‌سازد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب هجران او می با دماغ من نمی‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چراغ تیره‌روز عشق را روغن نمی‌سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به صحرا رفته‌ام لیکن قرارم نیست در یک‌جا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که پای هرزه‌گرد عشق با دامن نمی‌سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

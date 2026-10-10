@@ -1,0 +1,69 @@
+{
+  "Id": 34850,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۹۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۹۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh191",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh191",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون نقش آن خط و خال، لوح خیال گیرد\r\nاز دفتر دل ما، اقبال، فال گیرد\r\nسودای آن پری کرد، از دیده ها نهانم\r\nهرکس خیال ورزد، شکل خیال گیرد\r\nعیش ار به کام خواهی، نفس دنی ادب کن\r\nسگ چون شود مودب، صیدش حلال گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون نقش آن خط و خال، لوح خیال گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دفتر دل ما، اقبال، فال گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سودای آن پری کرد، از دیده ها نهانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرکس خیال ورزد، شکل خیال گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عیش ار به کام خواهی، نفس دنی ادب کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سگ چون شود مودب، صیدش حلال گیرد",
+      "CoupletIndex": 2
+    }
+  ]
+}

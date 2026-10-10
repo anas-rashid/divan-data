@@ -1,0 +1,54 @@
+{
+  "Id": 36649,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۶۹",
+  "FullUrl": "/p393/ghete/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین دو روز که از بزم تو جدا بودم\r\nمپرس آن ندانم که من کجا بودم\r\nهنوز مجنون ننهاده بود پا به میان\r\nکه من به خانهٔ زنجیر کدخدا بودم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین دو روز که از بزم تو جدا بودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مپرس آن ندانم که من کجا بودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنوز مجنون ننهاده بود پا به میان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من به خانهٔ زنجیر کدخدا بودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

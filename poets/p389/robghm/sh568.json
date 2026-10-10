@@ -1,0 +1,57 @@
+{
+  "Id": 30825,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۶۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۶۸",
+  "FullUrl": "/p389/robghm/sh568",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh568",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از گردش و سیر فلک حادثه‌زای\r\nمانده‌ست هنوز دوره‌ای چند به جای\r\nچندان که فکند نعل مه، توسن چرخ\r\nبستند به میخ اخترش باز به پای",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از گردش و سیر فلک حادثه‌زای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مانده‌ست هنوز دوره‌ای چند به جای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندان که فکند نعل مه، توسن چرخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بستند به میخ اخترش باز به پای",
+      "CoupletIndex": 1
+    }
+  ]
+}

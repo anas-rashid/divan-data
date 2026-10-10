@@ -1,0 +1,42 @@
+{
+  "Id": 26179,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۹۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۹۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh91",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh91",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حذر ز ناخن الماس نیست داغ مرا\r\nکه برگریز بود برگ عیش باغ مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حذر ز ناخن الماس نیست داغ مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که برگریز بود برگ عیش باغ مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

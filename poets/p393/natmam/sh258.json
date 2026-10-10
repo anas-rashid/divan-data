@@ -1,0 +1,66 @@
+{
+  "Id": 36409,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۸",
+  "FullUrl": "/p393/natmam/sh258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کردی بر من جفا چه گویم\r\nبدبخت منم تو را چه گویم\r\nآن ماه نمی‌رسد به دادم\r\nاز طالع نارسا چه گویم\r\nدارم گلهٔ دراز زان زلف\r\nالقصه به طول‌ها چه گویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کردی بر من جفا چه گویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدبخت منم تو را چه گویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن ماه نمی‌رسد به دادم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از طالع نارسا چه گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دارم گلهٔ دراز زان زلف",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "القصه به طول‌ها چه گویم",
+      "CoupletIndex": 2
+    }
+  ]
+}

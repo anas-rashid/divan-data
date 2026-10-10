@@ -1,0 +1,57 @@
+{
+  "Id": 30896,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۹",
+  "FullUrl": "/p389/robghm/sh639",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh639",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر نقش که بر سپهر اعلا بینی\r\nهر چیز به دنیا و به عقبی بینی\r\nتا سر حقیقت و طریقت به تمام\r\nدر ضمن شریعت است چون وا بینی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر نقش که بر سپهر اعلا بینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چیز به دنیا و به عقبی بینی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا سر حقیقت و طریقت به تمام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در ضمن شریعت است چون وا بینی",
+      "CoupletIndex": 1
+    }
+  ]
+}

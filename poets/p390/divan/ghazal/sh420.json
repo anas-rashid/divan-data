@@ -1,0 +1,93 @@
+{
+  "Id": 31387,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۲۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۲۰",
+  "FullUrl": "/p390/divan/ghazal/sh420",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh420",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا مرا تعلیم عشق او نواپرداز کرد\r\nهر سر مو کز تنم سر زد، صدای ساز کرد\r\nمدعای عندلیب ما نمی دانیم چیست\r\nدر گلستانی که مرغ بیضه هم پرواز کرد\r\nگرم عاشق پروری کرد از وفا او را دلم\r\nقمری ما سرو را آخر کبوترباز کرد\r\nباغبان! فکر نسیمی کن برای این چمن\r\nغنچه را بلبل به ناخن چند خواهد باز کرد؟\r\nبی تکلف من نمی رفتم به بزم او سلیم\r\nسرمه ی چشم پر افسونش مرا آواز کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا مرا تعلیم عشق او نواپرداز کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سر مو کز تنم سر زد، صدای ساز کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مدعای عندلیب ما نمی دانیم چیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گلستانی که مرغ بیضه هم پرواز کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرم عاشق پروری کرد از وفا او را دلم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "قمری ما سرو را آخر کبوترباز کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "باغبان! فکر نسیمی کن برای این چمن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غنچه را بلبل به ناخن چند خواهد باز کرد؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی تکلف من نمی رفتم به بزم او سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سرمه ی چشم پر افسونش مرا آواز کرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

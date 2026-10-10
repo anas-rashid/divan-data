@@ -1,0 +1,45 @@
+{
+  "Id": 18993,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۶۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۶۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1462",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1462",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دست تهی می‌گشایم گرهها\r\nز کار سیه روزگاران چو شانه",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دست تهی می‌گشایم گرهها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز کار سیه روزگاران چو شانه",
+      "CoupletIndex": 0
+    }
+  ]
+}

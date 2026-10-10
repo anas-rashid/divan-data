@@ -1,0 +1,54 @@
+{
+  "Id": 38338,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۱۱ - وصف ناچخ شاه",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۱۱ - وصف ناچخ شاه",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عجب ناچخ دو مهره او\r\nبوالعجب شد به کینه دشمن\r\nمهره بارد به رزمگاه آری\r\nمهره پشت و مهره گردن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عجب ناچخ دو مهره او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوالعجب شد به کینه دشمن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مهره بارد به رزمگاه آری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مهره پشت و مهره گردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

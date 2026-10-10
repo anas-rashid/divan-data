@@ -1,0 +1,57 @@
+{
+  "Id": 34659,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۶۴",
+  "FullUrl": "/p392/robaee-hz/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از عشق فتاده ام به منزلگاهی\r\nکانجا نبود سوی برون شد، راهی\r\nاز غمزه هزار کشته دیدم، امّا\r\nاز یک دل خسته برنیامد آهی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از عشق فتاده ام به منزلگاهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کانجا نبود سوی برون شد، راهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غمزه هزار کشته دیدم، امّا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از یک دل خسته برنیامد آهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

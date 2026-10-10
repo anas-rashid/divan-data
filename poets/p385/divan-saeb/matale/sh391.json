@@ -1,0 +1,42 @@
+{
+  "Id": 26479,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۹۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۹۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh391",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh391",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نباشد در مقام دلبری نازک نهال من\r\nز تمکین ذوق گل چیدن ندارد خردسال من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نباشد در مقام دلبری نازک نهال من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز تمکین ذوق گل چیدن ندارد خردسال من",
+      "CoupletIndex": 0
+    }
+  ]
+}

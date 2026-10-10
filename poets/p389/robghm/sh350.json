@@ -1,0 +1,57 @@
+{
+  "Id": 30607,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵۰",
+  "FullUrl": "/p389/robghm/sh350",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh350",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نابینا را عشق کند صاحب دید\r\nتوفیق ازوست، مابقی گفت و شنید\r\nآری مثل است این که دلش گر خواهد\r\nشیر از بز نر شبان تواند دوشید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نابینا را عشق کند صاحب دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توفیق ازوست، مابقی گفت و شنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آری مثل است این که دلش گر خواهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیر از بز نر شبان تواند دوشید",
+      "CoupletIndex": 1
+    }
+  ]
+}

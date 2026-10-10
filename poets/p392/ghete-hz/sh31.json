@@ -1,0 +1,57 @@
+{
+  "Id": 34370,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۳۱ - اندرز",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۳۱ - اندرز",
+  "FullUrl": "/p392/ghete-hz/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاقلی، رنجه شد از طعن عدو\r\nقلت هذا عجبٌ کیف یسوغ\r\nراست گر گفته چه رنجی از راست؟\r\nگر دروغ است، چه رنجش ز دروغ",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقلی، رنجه شد از طعن عدو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قلت هذا عجبٌ کیف یسوغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راست گر گفته چه رنجی از راست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دروغ است، چه رنجش ز دروغ",
+      "CoupletIndex": 1
+    }
+  ]
+}

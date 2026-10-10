@@ -1,0 +1,54 @@
+{
+  "Id": 32203,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۱",
+  "FullUrl": "/p391/divan/ghazal/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگر بگذشت دل آزرده ای با درد ازین صحرا\r\nکه همچون آه دردآلود خیزد گرد ازین صحرا\r\nز فیض خاک دردآلوده ام جویا عجب نبود\r\nبه جای گرد برخیزد اگر فریاد ازین صحرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگر بگذشت دل آزرده ای با درد ازین صحرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که همچون آه دردآلود خیزد گرد ازین صحرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز فیض خاک دردآلوده ام جویا عجب نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به جای گرد برخیزد اگر فریاد ازین صحرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

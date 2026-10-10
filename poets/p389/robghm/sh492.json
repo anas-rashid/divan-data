@@ -1,0 +1,57 @@
+{
+  "Id": 30749,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹۲",
+  "FullUrl": "/p389/robghm/sh492",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh492",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حق، طلب دل حق‌اندیش کنم\r\nهرچند کزان حیرت خود بیش کنم\r\nآن را که به خدمت کسش نیست نیاز\r\nآیا به کدام خدمت از خویش کنم؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حق، طلب دل حق‌اندیش کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرچند کزان حیرت خود بیش کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که به خدمت کسش نیست نیاز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیا به کدام خدمت از خویش کنم؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

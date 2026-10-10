@@ -1,0 +1,42 @@
+{
+  "Id": 26175,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۸۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چرخ خونخوار دلیرست به خونریزی ما\r\nشش جهت پنجه شیرست به خونریزی ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چرخ خونخوار دلیرست به خونریزی ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شش جهت پنجه شیرست به خونریزی ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

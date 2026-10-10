@@ -1,0 +1,93 @@
+{
+  "Id": 19290,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۱۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۱۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh217",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh217",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست از داغ جنون پروا دل غم پیشه را\r\nدیده شیرست کرم شبچراغ این بیشه را\r\nراز عشق از دل تراوش می کند بی اختیار\r\nاین شراب برق جولان می گدازد شیشه را\r\nپیر را طول امل بیش از جوان پیچید به هم\r\nمی کند مطلق عنان خاک ملایم ریشه را\r\nنیست غافل عشق بی پروا ز مرگ کوهکن\r\nنقش شیرین می کند شیرین دهان تیشه را\r\nصائب از اندیشه موی میان غافل مباش\r\nکاین ره باریک نازک می کند اندیشه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست از داغ جنون پروا دل غم پیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده شیرست کرم شبچراغ این بیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راز عشق از دل تراوش می کند بی اختیار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این شراب برق جولان می گدازد شیشه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیر را طول امل بیش از جوان پیچید به هم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می کند مطلق عنان خاک ملایم ریشه را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیست غافل عشق بی پروا ز مرگ کوهکن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نقش شیرین می کند شیرین دهان تیشه را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب از اندیشه موی میان غافل مباش",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کاین ره باریک نازک می کند اندیشه را",
+      "CoupletIndex": 4
+    }
+  ]
+}

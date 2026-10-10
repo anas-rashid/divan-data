@@ -1,0 +1,57 @@
+{
+  "Id": 37574,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ماه چه روشنی که در روی تو نیست\r\nور خلد چه خرمی که در کوی تو نیست\r\nمشک ختنی چو زلف خوشبوی تو نیست\r\nیکسر هنری عیب تو جز خوی تو نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ماه چه روشنی که در روی تو نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور خلد چه خرمی که در کوی تو نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشک ختنی چو زلف خوشبوی تو نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکسر هنری عیب تو جز خوی تو نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30588,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۳۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۳۱",
+  "FullUrl": "/p389/robghm/sh331",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh331",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوریده عشق اگر غم‌آلود شود\r\nاز طینت پاک، زود خشنود شود\r\nسرچشمه چو تیره گردد از کاویدن\r\nآید چو به حال، رفع آن زود شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوریده عشق اگر غم‌آلود شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از طینت پاک، زود خشنود شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرچشمه چو تیره گردد از کاویدن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آید چو به حال، رفع آن زود شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

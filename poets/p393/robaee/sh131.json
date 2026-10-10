@@ -1,0 +1,54 @@
+{
+  "Id": 37303,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳۱",
+  "FullUrl": "/p393/robaee/sh131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حجام پسر به سر هوایت دارم\r\nسودای تو همچون موی دارد زارم\r\nزنهار به من آیینه منمایی که من\r\nدر عشق تو از صورت خود بیزارم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حجام پسر به سر هوایت دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودای تو همچون موی دارد زارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنهار به من آیینه منمایی که من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عشق تو از صورت خود بیزارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

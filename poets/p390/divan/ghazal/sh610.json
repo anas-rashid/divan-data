@@ -1,0 +1,93 @@
+{
+  "Id": 31577,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۱۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۰",
+  "FullUrl": "/p390/divan/ghazal/sh610",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh610",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آهم چو جوش زد، دل ناشاد بشکند\r\nچون شیشه ی حباب که از باد بشکند\r\nنزدیک شد که ناخن شوقم به بیستون\r\nبازار تیز تیشه ی فرهاد بشکند\r\nهرجا کرشمه شیوه ی تعلیم سر کند\r\nشاگرد تخته بر سر استاد بشکند\r\nاین بیضه ی دو زرده که خوانندش آسمان\r\nگر دل بود، ز بیضه ی فولاد بشکند\r\nهرگاه پا شکسته شدم در قفس سلیم\r\nبالم دگر برای چه صیاد بشکند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آهم چو جوش زد، دل ناشاد بشکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شیشه ی حباب که از باد بشکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نزدیک شد که ناخن شوقم به بیستون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بازار تیز تیشه ی فرهاد بشکند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هرجا کرشمه شیوه ی تعلیم سر کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شاگرد تخته بر سر استاد بشکند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این بیضه ی دو زرده که خوانندش آسمان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر دل بود، ز بیضه ی فولاد بشکند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرگاه پا شکسته شدم در قفس سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بالم دگر برای چه صیاد بشکند",
+      "CoupletIndex": 4
+    }
+  ]
+}

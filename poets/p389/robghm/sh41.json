@@ -1,0 +1,57 @@
+{
+  "Id": 30298,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/p389/robghm/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر روی محیط است کف پای حباب\r\nنگرفته درین بحر، کسی جای حباب\r\nعاشق، ز شکستگی، همه عشق شود\r\nدریا شده، تا شکسته مینای حباب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر روی محیط است کف پای حباب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگرفته درین بحر، کسی جای حباب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق، ز شکستگی، همه عشق شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دریا شده، تا شکسته مینای حباب",
+      "CoupletIndex": 1
+    }
+  ]
+}

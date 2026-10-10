@@ -1,0 +1,57 @@
+{
+  "Id": 30743,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۸۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۸۶",
+  "FullUrl": "/p389/robghm/sh486",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh486",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق به آن بهانه جو نزدیکم\r\nوصلش دارد به خود نکو نزدیکم\r\nاین طرفه که با من است پیوسته و من\r\nاز خود چو شوم دور، به او نزدیکم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق به آن بهانه جو نزدیکم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وصلش دارد به خود نکو نزدیکم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این طرفه که با من است پیوسته و من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خود چو شوم دور، به او نزدیکم",
+      "CoupletIndex": 1
+    }
+  ]
+}

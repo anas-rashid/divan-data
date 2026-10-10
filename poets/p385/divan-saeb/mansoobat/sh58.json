@@ -1,0 +1,42 @@
+{
+  "Id": 27394,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۵۸",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۵۸",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فیضی که گوشه گیر ز عزلت نیافته است\r\nاز گوشه های چشم سیاه تو یافتم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فیضی که گوشه گیر ز عزلت نیافته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گوشه های چشم سیاه تو یافتم",
+      "CoupletIndex": 0
+    }
+  ]
+}

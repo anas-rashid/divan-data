@@ -1,0 +1,57 @@
+{
+  "Id": 32026,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۸",
+  "FullUrl": "/p390/divan/robaee/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عارف که به سعی خویش از دنیا رفت\r\nمرغی به قفس بال همی زد تا رفت\r\nزین چاه که فکر تو به جایی نرسد\r\nمنصور به نیم گز رسن بالا رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عارف که به سعی خویش از دنیا رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغی به قفس بال همی زد تا رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین چاه که فکر تو به جایی نرسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منصور به نیم گز رسن بالا رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 23890,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۸۱۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۸۱۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4817",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4817",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شمع اشک در طلب مدعا مریز\r\nنقد حیات خود چو شرر برهوا مریز\r\nبی عزتی به اهل سخن مایه غم است\r\nزنهار خرده های قلم زیر پا مریز\r\nباید اگر به مردم بیگانه جان فشاند\r\nزنهار آبرو به درآشنا مریز\r\nآتش تمیز خارو خس از گل نمی کند\r\nای ساده لوح گل به گریبان ما مریز\r\nاز مفلسان زبان ملامت کشیده دار\r\nزنهار خون ماهی بی فلس را مریز\r\nصائب گذشت از دو جهان در وفای تو\r\nخونش به خاک راه به تیغ جفا مریز",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع اشک در طلب مدعا مریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقد حیات خود چو شرر برهوا مریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی عزتی به اهل سخن مایه غم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار خرده های قلم زیر پا مریز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "باید اگر به مردم بیگانه جان فشاند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زنهار آبرو به درآشنا مریز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آتش تمیز خارو خس از گل نمی کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای ساده لوح گل به گریبان ما مریز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از مفلسان زبان ملامت کشیده دار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زنهار خون ماهی بی فلس را مریز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صائب گذشت از دو جهان در وفای تو",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خونش به خاک راه به تیغ جفا مریز",
+      "CoupletIndex": 5
+    }
+  ]
+}

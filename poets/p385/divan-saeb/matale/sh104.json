@@ -1,0 +1,42 @@
+{
+  "Id": 26192,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh104",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh104",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی خبر از غفلت خویش است تا جان در تن است\r\nپای خواب آلود بیدارست تا در دامن است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی خبر از غفلت خویش است تا جان در تن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پای خواب آلود بیدارست تا در دامن است",
+      "CoupletIndex": 0
+    }
+  ]
+}

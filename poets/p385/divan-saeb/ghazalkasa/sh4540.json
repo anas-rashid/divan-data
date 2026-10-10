@@ -1,0 +1,105 @@
+{
+  "Id": 23613,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۵۴۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۵۴۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4540",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4540",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آن که به گوشه ای نشیند\r\nمردم چه که خویش را نبیند\r\nچون بال شود وبال طاوس\r\nنقشی که به مدعا نشیند\r\nاز وی چو ندید هیچ کس خیر\r\nچون خواجه ز مال خیر بیند\r\nغیر از انسان که وقت نعمت\r\nاز شکر کرانه می گزیند\r\nبی سجده شکر هیچ مرغی\r\nیک دانه ز خاک برنچیند\r\nمشهور شود چو بیت معمور\r\nصائب بیتی که برگزیند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن که به گوشه ای نشیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مردم چه که خویش را نبیند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بال شود وبال طاوس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقشی که به مدعا نشیند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از وی چو ندید هیچ کس خیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون خواجه ز مال خیر بیند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غیر از انسان که وقت نعمت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از شکر کرانه می گزیند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی سجده شکر هیچ مرغی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک دانه ز خاک برنچیند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مشهور شود چو بیت معمور",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "صائب بیتی که برگزیند",
+      "CoupletIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26957,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۵۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۵۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به حسن، خیرگی ما چه می تواند کرد؟\r\nبه آفتاب، تماشا چه می تواند کرد؟\r\nاگر دو یار موافق زبان یکی سازند\r\nفلک به یک تن تنها چه می تواند کرد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به حسن، خیرگی ما چه می تواند کرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به آفتاب، تماشا چه می تواند کرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر دو یار موافق زبان یکی سازند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فلک به یک تن تنها چه می تواند کرد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

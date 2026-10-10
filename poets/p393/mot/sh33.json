@@ -1,0 +1,42 @@
+{
+  "Id": 36742,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۳",
+  "FullUrl": "/p393/mot/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق تو در دل ما تا گرم کرده جا را\r\nجانان ز هر دو عالم دلسرد گشته ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق تو در دل ما تا گرم کرده جا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانان ز هر دو عالم دلسرد گشته ما را",
+      "CoupletIndex": 0
+    }
+  ]
+}

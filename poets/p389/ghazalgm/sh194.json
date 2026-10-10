@@ -1,0 +1,93 @@
+{
+  "Id": 29942,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۹۴",
+  "FullUrl": "/p389/ghazalgm/sh194",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh194",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خمار زخم دل تا چند درد سر کشد\r\nچاک‌های سینه‌ام خمیازه بر خنجر کشد\r\nانفعال خامی از پروانه‌ام دارد خجل\r\nآتشی کو تا مرا در سلک خاکستر کشد؟\r\nای جگر، یک سیل خون کم گیر از یک آبله\r\nتا به کی منت، لب خشکم ز چشم تر کشد\r\nعافیت دارد به تنگم ز اختلاط ساخته\r\nکو بلا تا همچو مشتاقان مرا در بر کشد\r\nطبع قدسی با شراب عافیت دمساز نیست\r\nبزم دردی کو که از دست بلا ساغر کشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خمار زخم دل تا چند درد سر کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چاک‌های سینه‌ام خمیازه بر خنجر کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انفعال خامی از پروانه‌ام دارد خجل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتشی کو تا مرا در سلک خاکستر کشد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای جگر، یک سیل خون کم گیر از یک آبله",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا به کی منت، لب خشکم ز چشم تر کشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عافیت دارد به تنگم ز اختلاط ساخته",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کو بلا تا همچو مشتاقان مرا در بر کشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "طبع قدسی با شراب عافیت دمساز نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بزم دردی کو که از دست بلا ساغر کشد",
+      "CoupletIndex": 4
+    }
+  ]
+}

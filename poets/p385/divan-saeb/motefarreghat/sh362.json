@@ -1,0 +1,45 @@
+{
+  "Id": 26968,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۶۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۶۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh362",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh362",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکسته بند قناعت مرا دهان بسته است\r\nهمانیم که مرادم ز استخوان باشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکسته بند قناعت مرا دهان بسته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همانیم که مرادم ز استخوان باشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

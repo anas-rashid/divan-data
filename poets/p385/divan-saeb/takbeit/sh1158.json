@@ -1,0 +1,45 @@
+{
+  "Id": 18689,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۵۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۵۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1158",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1158",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به میزان قیامت، بیش کم، کم بیش می‌آید\r\nزبان این ترازو را نمی‌دانم، نمی‌دانم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به میزان قیامت، بیش کم، کم بیش می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زبان این ترازو را نمی‌دانم، نمی‌دانم",
+      "CoupletIndex": 0
+    }
+  ]
+}

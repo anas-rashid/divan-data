@@ -1,0 +1,57 @@
+{
+  "Id": 26648,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان ز ساده دلی ها رمیده ام ز کتاب\r\nکه بوی خون به مشامم رسید ز سرخی باب!\r\nتمام شب به خیال تو عشق می بازم\r\nز سادگی به کتان صاف می کنم مهتاب",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان ز ساده دلی ها رمیده ام ز کتاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بوی خون به مشامم رسید ز سرخی باب!",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تمام شب به خیال تو عشق می بازم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز سادگی به کتان صاف می کنم مهتاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

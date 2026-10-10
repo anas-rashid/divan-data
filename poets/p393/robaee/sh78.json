@@ -1,0 +1,54 @@
+{
+  "Id": 37250,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/p393/robaee/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که بود اراده کز خویش رود\r\nباید پی مرشد صفاکیش رود\r\nبی‌راهما کسی که شد سالک راه\r\nچون دعوی بی‌دلیل کی پیش رود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که بود اراده کز خویش رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید پی مرشد صفاکیش رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی‌راهما کسی که شد سالک راه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون دعوی بی‌دلیل کی پیش رود",
+      "CoupletIndex": 1
+    }
+  ]
+}

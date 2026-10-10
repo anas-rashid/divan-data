@@ -1,0 +1,57 @@
+{
+  "Id": 34794,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۳۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گزند کوکب از کژدم فزون جان را زیان دارد\r\nخدا از چشم این شب‌زنده‌داران در امان دارد\r\nجهان افسرده است، اسباب عشرت از که می‌جویی؟\r\nز خامی، حرص پندارد، تنور سرد نان دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گزند کوکب از کژدم فزون جان را زیان دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خدا از چشم این شب‌زنده‌داران در امان دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جهان افسرده است، اسباب عشرت از که می‌جویی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز خامی، حرص پندارد، تنور سرد نان دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

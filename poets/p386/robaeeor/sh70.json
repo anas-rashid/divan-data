@@ -1,0 +1,57 @@
+{
+  "Id": 28113,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۷۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۷۰",
+  "FullUrl": "/p386/robaeeor/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستوری دل طلب که مستی این جاست\r\nدریوزه گزین که چرب دستی این جاست\r\nدست از همه بگسل و در آویز به دوست\r\nیک رنگی و نیستی و هستی این جاست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستوری دل طلب که مستی این جاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریوزه گزین که چرب دستی این جاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست از همه بگسل و در آویز به دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک رنگی و نیستی و هستی این جاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

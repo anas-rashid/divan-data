@@ -1,0 +1,57 @@
+{
+  "Id": 34910,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۵۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۵۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh251",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh251",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فرش داغ، ار نشود بستر بیماری دل\r\nسنگ فرسوده شود زیر گرانباری دل\r\nبارها از نفسم بیضهٔ فولاد گداخت\r\nعقده ای عشق ندیده ست به دشواری دل",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرش داغ، ار نشود بستر بیماری دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سنگ فرسوده شود زیر گرانباری دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بارها از نفسم بیضهٔ فولاد گداخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عقده ای عشق ندیده ست به دشواری دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

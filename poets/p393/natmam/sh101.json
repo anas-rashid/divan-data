@@ -1,0 +1,66 @@
+{
+  "Id": 36252,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۰۱",
+  "FullUrl": "/p393/natmam/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل ز یار شکوه‌گزاری چه لازم است\r\nاظهار هستی که نداری چه لازم است\r\nیار از زبان تیغ به ما حرف می‌زند\r\nدر پیش او زدن دم یاری چه لازم است\r\nمنما صفای طبع به این تیره‌طینتان\r\nدر زنگ‌های آیینه‌داری چه لازم است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل ز یار شکوه‌گزاری چه لازم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اظهار هستی که نداری چه لازم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یار از زبان تیغ به ما حرف می‌زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پیش او زدن دم یاری چه لازم است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "منما صفای طبع به این تیره‌طینتان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در زنگ‌های آیینه‌داری چه لازم است",
+      "CoupletIndex": 2
+    }
+  ]
+}

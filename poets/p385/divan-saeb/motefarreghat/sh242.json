@@ -1,0 +1,57 @@
+{
+  "Id": 26848,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh242",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh242",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ عاشق سازگاری کی به مرهم می‌کند؟\r\nلاله این باغ خون در چشم شبنم می‌کند\r\nدولت گردنده دنیا به استحقاق نیست\r\nدور گردون دیو را در دست، خاتم می‌کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ عاشق سازگاری کی به مرهم می‌کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لاله این باغ خون در چشم شبنم می‌کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دولت گردنده دنیا به استحقاق نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور گردون دیو را در دست، خاتم می‌کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

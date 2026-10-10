@@ -1,0 +1,93 @@
+{
+  "Id": 31823,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۵۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۵۶",
+  "FullUrl": "/p390/divan/ghazal/sh856",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh856",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه آب و خاک و چه نیکویی سرشت است این\r\nسبوی باده نگویم، گل بهشت است این\r\nبنای عیش به میخانه می نهد دوران\r\nوگرنه هر خم می را به سر چه خشت است این\r\nبه سجده سر چو نهی، ترک سر کن ای زاهد\r\nنه مسجد است، غلط کرده ای، کنشت است این\r\nبه حیرتم که دلم زنده چون کباب شده ست\r\nاگر غلط نکنم، طایر بهشت است این\r\nسلیم، نامه ی او را ز بس نهم بر سر\r\nگمان بری که مرا خط سرنوشت است این",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه آب و خاک و چه نیکویی سرشت است این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سبوی باده نگویم، گل بهشت است این",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنای عیش به میخانه می نهد دوران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وگرنه هر خم می را به سر چه خشت است این",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به سجده سر چو نهی، ترک سر کن ای زاهد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه مسجد است، غلط کرده ای، کنشت است این",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به حیرتم که دلم زنده چون کباب شده ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اگر غلط نکنم، طایر بهشت است این",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم، نامه ی او را ز بس نهم بر سر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گمان بری که مرا خط سرنوشت است این",
+      "CoupletIndex": 4
+    }
+  ]
+}

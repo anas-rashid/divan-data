@@ -1,0 +1,93 @@
+{
+  "Id": 20405,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۳۳۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۳۳۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1332",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1332",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا دل از یاد تو می در ساغر اندیشه داشت\r\nهر حبابی را که می دیدم پری در شیشه داشت\r\nچون نگردد صولت عشق از جنون من زیاد؟\r\nدر کدامین عهد شیری این چنین در بیشه داشت؟\r\nتلخ اگر باشد حدیث من، مرا معذور دار\r\nریخت بر من آسمان زهری که در ته شیشه داشت\r\nمن که دارم سنگ بردارد ز پیش راه من؟\r\nیار غاری کوهکن همراه خود چون تیشه داشت\r\nصائب اکنون پیش موری می گذارم پشت دست\r\nمن که شیر آسمان از صولتم اندیشه داشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دل از یاد تو می در ساغر اندیشه داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر حبابی را که می دیدم پری در شیشه داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نگردد صولت عشق از جنون من زیاد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کدامین عهد شیری این چنین در بیشه داشت؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تلخ اگر باشد حدیث من، مرا معذور دار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ریخت بر من آسمان زهری که در ته شیشه داشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من که دارم سنگ بردارد ز پیش راه من؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یار غاری کوهکن همراه خود چون تیشه داشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب اکنون پیش موری می گذارم پشت دست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "من که شیر آسمان از صولتم اندیشه داشت",
+      "CoupletIndex": 4
+    }
+  ]
+}

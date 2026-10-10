@@ -1,0 +1,57 @@
+{
+  "Id": 30662,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۰۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۰۵",
+  "FullUrl": "/p389/robghm/sh405",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh405",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق است که چرخ را برآمد به فراز\r\nوز کوتاهی کرده خرد پای دراز\r\nهرچند که داده هر دو را بال، قضا\r\nماهی با مرغ، کی شود هم‌پرواز؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق است که چرخ را برآمد به فراز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز کوتاهی کرده خرد پای دراز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که داده هر دو را بال، قضا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماهی با مرغ، کی شود هم‌پرواز؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

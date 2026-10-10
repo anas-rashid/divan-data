@@ -1,0 +1,45 @@
+{
+  "Id": 18411,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۸۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۸۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh880",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh880",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بس خاک خورده است خون عزیزان\r\nبه هر جا که ناخن زنی خون برآید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بس خاک خورده است خون عزیزان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هر جا که ناخن زنی خون برآید",
+      "CoupletIndex": 0
+    }
+  ]
+}

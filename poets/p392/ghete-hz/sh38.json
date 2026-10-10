@@ -1,0 +1,81 @@
+{
+  "Id": 34377,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۳۸ - غیر آزادگان",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۳۸ - غیر آزادگان",
+  "FullUrl": "/p392/ghete-hz/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غیر آزاده خاطری که بود\r\nبرتر از چرخ و انجمش، پایه\r\nباقیان، زیر آسمان هستند\r\nهمچو در زیر ماکیان خایه\r\nگر سر از بیضه برکند، باشد\r\nمادرش طبع و مرکزش دایه\r\nهمه از طفلکی، سبک تمکین\r\nهمه در ناکسی، گران مایه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غیر آزاده خاطری که بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برتر از چرخ و انجمش، پایه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باقیان، زیر آسمان هستند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو در زیر ماکیان خایه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر سر از بیضه برکند، باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مادرش طبع و مرکزش دایه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "همه از طفلکی، سبک تمکین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همه در ناکسی، گران مایه",
+      "CoupletIndex": 3
+    }
+  ]
+}

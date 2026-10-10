@@ -1,0 +1,57 @@
+{
+  "Id": 34835,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh176",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh176",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سپند آتش خویشم، کسی دوا چه کند؟\r\nبه بی قراری من صبر بی نوا چه کند؟\r\nحزین سوخته دل، می دهد به حسرت جان\r\nزمانه عهد شکن، یار بی وفا چه کند؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سپند آتش خویشم، کسی دوا چه کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به بی قراری من صبر بی نوا چه کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حزین سوخته دل، می دهد به حسرت جان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زمانه عهد شکن، یار بی وفا چه کند؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

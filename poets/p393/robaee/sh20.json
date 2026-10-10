@@ -1,0 +1,54 @@
+{
+  "Id": 37192,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۰",
+  "FullUrl": "/p393/robaee/sh20",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh20",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل رفت و به دل گشت به غم عیش و طرب\r\nصبح گردیده شام و روزم شده شب\r\nهرچند که خیر باد ناکرده برفت\r\nهرجا باشد به خیر باشد یا رب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل رفت و به دل گشت به غم عیش و طرب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح گردیده شام و روزم شده شب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که خیر باد ناکرده برفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرجا باشد به خیر باشد یا رب",
+      "CoupletIndex": 1
+    }
+  ]
+}

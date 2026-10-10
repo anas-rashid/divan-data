@@ -1,0 +1,57 @@
+{
+  "Id": 28068,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۲۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲۵",
+  "FullUrl": "/p386/robaeeor/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یار آمده و در صدد دلداری ست\r\nمن مست و خراب، این شب صد دشواری ست\r\nبیدار شو ای بخت، به خوابم کردی \r\nفریاد که خواب تو بهتر از بیداری ست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار آمده و در صدد دلداری ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من مست و خراب، این شب صد دشواری ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیدار شو ای بخت، به خوابم کردی ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فریاد که خواب تو بهتر از بیداری ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

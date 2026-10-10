@@ -1,0 +1,42 @@
+{
+  "Id": 27355,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۹",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکسته رنگی من با طبیب در جنگ است\r\nعلاج دردسرم حسن صندلی رنگ است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکسته رنگی من با طبیب در جنگ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "علاج دردسرم حسن صندلی رنگ است",
+      "CoupletIndex": 0
+    }
+  ]
+}

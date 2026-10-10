@@ -1,0 +1,45 @@
+{
+  "Id": 18317,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۸۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۸۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh786",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh786",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تار و پود موج این دریا به هم پیوسته است\r\nمی‌زند بر هم جهان را، هر که یک دل بشکند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تار و پود موج این دریا به هم پیوسته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌زند بر هم جهان را، هر که یک دل بشکند",
+      "CoupletIndex": 0
+    }
+  ]
+}

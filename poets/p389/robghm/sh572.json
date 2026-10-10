@@ -1,0 +1,57 @@
+{
+  "Id": 30829,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۷۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۷۲",
+  "FullUrl": "/p389/robghm/sh572",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh572",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای جان و جهان، جهان و جان همه‌ای\r\nیار همه‌ای و مهربان همه‌ای\r\nعشاق به هر کناره می‌جویندت\r\nبا آن که همیشه در میان همه‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جان و جهان، جهان و جان همه‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یار همه‌ای و مهربان همه‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشاق به هر کناره می‌جویندت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با آن که همیشه در میان همه‌ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

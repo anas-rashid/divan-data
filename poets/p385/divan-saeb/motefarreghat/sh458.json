@@ -1,0 +1,45 @@
+{
+  "Id": 27064,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۵۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۵۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خار پیراهن مشو آسودگان خاک را\r\nتا پس از مردن نگردد بر تنت هر موی مار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خار پیراهن مشو آسودگان خاک را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا پس از مردن نگردد بر تنت هر موی مار",
+      "CoupletIndex": 0
+    }
+  ]
+}

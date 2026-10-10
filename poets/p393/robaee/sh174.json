@@ -1,0 +1,54 @@
+{
+  "Id": 37346,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷۴",
+  "FullUrl": "/p393/robaee/sh174",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh174",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچند حسد نیست به آب و گل من\r\nپاک است ازین لوث دل مقبل من\r\nلیکن چون داغ لاله بینم گویم\r\nکان نیز چرا نشد نصیب دل من",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچند حسد نیست به آب و گل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاک است ازین لوث دل مقبل من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن چون داغ لاله بینم گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کان نیز چرا نشد نصیب دل من",
+      "CoupletIndex": 1
+    }
+  ]
+}

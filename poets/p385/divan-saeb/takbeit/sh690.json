@@ -1,0 +1,45 @@
+{
+  "Id": 18221,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۹۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۹۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh690",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh690",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من که روزی از دل خود می‌خورم در آتشم\r\nوای بر آنکس که نعمتهای الوان می‌خورد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من که روزی از دل خود می‌خورم در آتشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وای بر آنکس که نعمتهای الوان می‌خورد",
+      "CoupletIndex": 0
+    }
+  ]
+}

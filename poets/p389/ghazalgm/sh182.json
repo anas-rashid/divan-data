@@ -1,0 +1,93 @@
+{
+  "Id": 29930,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۸۲",
+  "FullUrl": "/p389/ghazalgm/sh182",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh182",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "محفل دردی طلب، از سیر شهر و کو چه سود\r\nسر به پای شعله نه چون شمع، از زانو چه سود\r\nوصل شیرین کی به زور آید به دست کوهکن\r\nقوت طالع بخواه از قوت بازو چه سود\r\nزلف لیلی صید دلهای پریشان می‌کند\r\nاین که مجنون می‌کند بر سر پریشان مو چه سود\r\nاجتماع می‌کشان بی طره ساقی مباد\r\nحلقه مستان جدا زان حلقه گیسو چه سود\r\nزخم قدسی کی فریب مرهم راحت خورد؟\r\nعاشقان را درد مطلوب است از دارو چه سود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "محفل دردی طلب، از سیر شهر و کو چه سود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر به پای شعله نه چون شمع، از زانو چه سود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وصل شیرین کی به زور آید به دست کوهکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قوت طالع بخواه از قوت بازو چه سود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زلف لیلی صید دلهای پریشان می‌کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این که مجنون می‌کند بر سر پریشان مو چه سود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اجتماع می‌کشان بی طره ساقی مباد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حلقه مستان جدا زان حلقه گیسو چه سود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زخم قدسی کی فریب مرهم راحت خورد؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عاشقان را درد مطلوب است از دارو چه سود",
+      "CoupletIndex": 4
+    }
+  ]
+}

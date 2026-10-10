@@ -1,0 +1,81 @@
+{
+  "Id": 24039,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۹۶۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۹۶۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4966",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4966",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رگ لعل است ازدلهای خونین قد دلجویش\r\nزجانهای پریشان رشته جان است هرمویش\r\nقبای اطلس افلاک شد پیراهن یوسف\r\nزبس پیچید درمغز پریشان جهان بویش\r\nز هر زخم نمایان مشرق خورشید می گردد\r\nشهیدی (را) که باشد شمع بالین پرتو رویش\r\nسجود آسمانها حلقه بیرون درباشد\r\nچه باشد سجده من در حضور طاق ابرویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رگ لعل است ازدلهای خونین قد دلجویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زجانهای پریشان رشته جان است هرمویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قبای اطلس افلاک شد پیراهن یوسف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زبس پیچید درمغز پریشان جهان بویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز هر زخم نمایان مشرق خورشید می گردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شهیدی (را) که باشد شمع بالین پرتو رویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سجود آسمانها حلقه بیرون درباشد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه باشد سجده من در حضور طاق ابرویش",
+      "CoupletIndex": 3
+    }
+  ]
+}

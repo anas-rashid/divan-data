@@ -1,0 +1,57 @@
+{
+  "Id": 34620,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۲۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۲۵",
+  "FullUrl": "/p392/robaee-hz/sh225",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh225",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد سحر آن نگار خونین جگران\r\nپرسید ز احوال منِ دل نگران\r\nکردم ز فراق شکوه، خندان شد و گفت\r\nمن در دل و بی نصیب، کوته نظران",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد سحر آن نگار خونین جگران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرسید ز احوال منِ دل نگران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کردم ز فراق شکوه، خندان شد و گفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من در دل و بی نصیب، کوته نظران",
+      "CoupletIndex": 1
+    }
+  ]
+}

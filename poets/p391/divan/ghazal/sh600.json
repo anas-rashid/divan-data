@@ -1,0 +1,54 @@
+{
+  "Id": 32692,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۰",
+  "FullUrl": "/p391/divan/ghazal/sh600",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh600",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوخی ات چون شیوهٔ عاشقکشی بنیاد کرد\r\nفتنه را چشم تو سرخیل صف بیداد کرد\r\nمی کنم جا در دل سنگین به زور عاجزی\r\nبازوی ضعفم تواند کار صد فرهاد کرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوخی ات چون شیوهٔ عاشقکشی بنیاد کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فتنه را چشم تو سرخیل صف بیداد کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می کنم جا در دل سنگین به زور عاجزی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بازوی ضعفم تواند کار صد فرهاد کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

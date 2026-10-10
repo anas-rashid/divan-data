@@ -1,0 +1,54 @@
+{
+  "Id": 32699,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۷",
+  "FullUrl": "/p391/divan/ghazal/sh607",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh607",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غبارم بر فلک پرواز مانند ملک دارد\r\nهنوز آن کینه جو کین مرا همچون فلک دارد\r\nعجب شوری ست آمیزد چو درد عشق با مستی\r\nکباب لخت دل در بزم می نوشان نمک دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غبارم بر فلک پرواز مانند ملک دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هنوز آن کینه جو کین مرا همچون فلک دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عجب شوری ست آمیزد چو درد عشق با مستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کباب لخت دل در بزم می نوشان نمک دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

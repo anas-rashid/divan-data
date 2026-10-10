@@ -1,0 +1,57 @@
+{
+  "Id": 30573,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۱۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۱۶",
+  "FullUrl": "/p389/robghm/sh316",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh316",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اهل کمال خامشی نغز بود\r\nدر گفت و شنو هزار پالغز بود\r\nخاموش بود دلی که از عشق پرست\r\nصوت نی ازان است که بی‌مغز بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اهل کمال خامشی نغز بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در گفت و شنو هزار پالغز بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاموش بود دلی که از عشق پرست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صوت نی ازان است که بی‌مغز بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

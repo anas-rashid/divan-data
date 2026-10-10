@@ -1,0 +1,57 @@
+{
+  "Id": 30251,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۳",
+  "FullUrl": "/p389/mmgh/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 17,
+    "Rhythm": "مفتعلن مفاعلن مفتعلن مفاعلن (رجز مثمن مطوی مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل که ربود از برم، ساغر می‌پرست من\r\nگفتمش از که خواهمش، گفت ز چشم مست من\r\nساقی مجلس بلا، هیچ پیاله در جهان\r\nپر نکند ز خون دل، کش ندهد به دست من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل که ربود از برم، ساغر می‌پرست من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتمش از که خواهمش، گفت ز چشم مست من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ساقی مجلس بلا، هیچ پیاله در جهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر نکند ز خون دل، کش ندهد به دست من",
+      "CoupletIndex": 1
+    }
+  ]
+}

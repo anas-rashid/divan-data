@@ -1,0 +1,81 @@
+{
+  "Id": 32671,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۷۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۷۹",
+  "FullUrl": "/p391/divan/ghazal/sh579",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh579",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز چشمم جز سرشک لعل‌گون بیرون نمی‌آید\r\nبلی هرگز در از دریای خون بیرون نمی‌آید\r\nنمک‌ها بر جراحت زد تن درد آشنایم را\r\nدلم از خجلت شور جنون بیرون نمی‌آید\r\nدلم را هرقدر خواهی به سنگ امتحان بشکن\r\nصدا زین ساغر لبریز خون بیرون نمی‌آید\r\nنباشد شکوه‌ای صاحب هنر را بر زبان جویا\r\nکه هرگز از رگ یاقوت خون بیرون نمی‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز چشمم جز سرشک لعل‌گون بیرون نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلی هرگز در از دریای خون بیرون نمی‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمک‌ها بر جراحت زد تن درد آشنایم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلم از خجلت شور جنون بیرون نمی‌آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلم را هرقدر خواهی به سنگ امتحان بشکن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صدا زین ساغر لبریز خون بیرون نمی‌آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نباشد شکوه‌ای صاحب هنر را بر زبان جویا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که هرگز از رگ یاقوت خون بیرون نمی‌آید",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17591,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فرو خوردم ز غیرت گریهٔ مستانهٔ خود را\r\nفشاندم در غبار خاطر خود، دانهٔ خود را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرو خوردم ز غیرت گریهٔ مستانهٔ خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فشاندم در غبار خاطر خود، دانهٔ خود را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30574,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۱۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۱۷",
+  "FullUrl": "/p389/robghm/sh317",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh317",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرچیز که آن وسیله کام بود\r\nپیش دل کام‌جو دلارام بود\r\nصیادان را عزیز چون چشم و دل است\r\nهر حلقه و عقده‌ای که در دام بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرچیز که آن وسیله کام بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش دل کام‌جو دلارام بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صیادان را عزیز چون چشم و دل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر حلقه و عقده‌ای که در دام بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

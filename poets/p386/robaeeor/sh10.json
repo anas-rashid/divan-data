@@ -1,0 +1,57 @@
+{
+  "Id": 28053,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰",
+  "FullUrl": "/p386/robaeeor/sh10",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh10",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "راهی بنما که رهنما مردی نیست\r\nصد ره به هیچ گذر گردی نیست\r\nبا درد تو هیچ نسبتم نیست، ولی\r\nبی نسبتی درد تو کم دردی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "راهی بنما که رهنما مردی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صد ره به هیچ گذر گردی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با درد تو هیچ نسبتم نیست، ولی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی نسبتی درد تو کم دردی نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

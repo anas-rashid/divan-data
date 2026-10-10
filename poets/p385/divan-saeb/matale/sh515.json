@@ -1,0 +1,45 @@
+{
+  "Id": 26603,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۱۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۱۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh515",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh515",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خضاب تازه‌ای هردم به روی کار می‌آری\r\nشدی پیر و همان دست از سیه‌کاری نمی‌داری",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خضاب تازه‌ای هردم به روی کار می‌آری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شدی پیر و همان دست از سیه‌کاری نمی‌داری",
+      "CoupletIndex": 0
+    }
+  ]
+}

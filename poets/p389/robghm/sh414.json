@@ -1,0 +1,57 @@
+{
+  "Id": 30671,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱۴",
+  "FullUrl": "/p389/robghm/sh414",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh414",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب‌های دراز رفت و خوابی نه هنوز\r\nخمیازه مرا کشت و شرابی نه هنوز\r\nیک ره به کفم جام صبوحی نرسید\r\nصد صبح دمید و آفتابی نه هنوز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب‌های دراز رفت و خوابی نه هنوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خمیازه مرا کشت و شرابی نه هنوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک ره به کفم جام صبوحی نرسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد صبح دمید و آفتابی نه هنوز",
+      "CoupletIndex": 1
+    }
+  ]
+}

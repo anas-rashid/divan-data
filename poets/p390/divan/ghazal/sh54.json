@@ -1,0 +1,93 @@
+{
+  "Id": 31021,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۴",
+  "FullUrl": "/p390/divan/ghazal/sh54",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh54",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگاه باغبانم، می‌پرستم لاله و گل را\r\nکنم چون موی پیغمبر زیارت شاخ سنبل را\r\nپر از گل دامن خود را ز فیض خرقه می‌بینم\r\nچو طاووسان کنم چتر خود این دامان پرگل را\r\nبه گلشن دام زلف و سرمهٔ چشمش ز صیادی\r\nیکی بلبل گرفت و دیگری آواز بلبل را\r\nعنان پایداری چون ز کف شوق فنا گیرد\r\nکند چون موج با سیل بهاری همسفر پل را\r\nسلیم از لاعلاجی خویش را باید به دریا زد\r\nگرفته موج همچون رهزنان از ما سر پل را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگاه باغبانم، می‌پرستم لاله و گل را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کنم چون موی پیغمبر زیارت شاخ سنبل را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر از گل دامن خود را ز فیض خرقه می‌بینم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو طاووسان کنم چتر خود این دامان پرگل را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به گلشن دام زلف و سرمهٔ چشمش ز صیادی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یکی بلبل گرفت و دیگری آواز بلبل را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عنان پایداری چون ز کف شوق فنا گیرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کند چون موج با سیل بهاری همسفر پل را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم از لاعلاجی خویش را باید به دریا زد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گرفته موج همچون رهزنان از ما سر پل را",
+      "CoupletIndex": 4
+    }
+  ]
+}

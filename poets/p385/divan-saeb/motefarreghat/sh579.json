@@ -1,0 +1,81 @@
+{
+  "Id": 27185,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۷۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۷۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh579",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh579",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کجی ناخنه دیده انور گردی\r\nراست شو راست که سرو لب کوثر گردی\r\nنعل نان است در آتش ز پی گرسنگان\r\nچه ضرورست پی رزق به هر در گردی؟\r\nخم نمودند قدت را که زمین گیر شوی\r\nنه که از بی بصری حلقه هر در گردی\r\nبوالهوس نیست به لطف تو سزاوار، ولی\r\nشرمت آید ز غلط کرده خود برگردی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کجی ناخنه دیده انور گردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راست شو راست که سرو لب کوثر گردی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نعل نان است در آتش ز پی گرسنگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه ضرورست پی رزق به هر در گردی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خم نمودند قدت را که زمین گیر شوی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه که از بی بصری حلقه هر در گردی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بوالهوس نیست به لطف تو سزاوار، ولی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شرمت آید ز غلط کرده خود برگردی",
+      "CoupletIndex": 3
+    }
+  ]
+}

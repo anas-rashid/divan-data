@@ -1,0 +1,57 @@
+{
+  "Id": 30461,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۰۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۰۴",
+  "FullUrl": "/p389/robghm/sh204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر باد صبا پای ز جا بردارد\r\nگمراهی ازین بادیه پا بردارد\r\nهر نقش پی ناقه شود خورشیدی\r\nگر دامن محملش صبا بردارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر باد صبا پای ز جا بردارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گمراهی ازین بادیه پا بردارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر نقش پی ناقه شود خورشیدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر دامن محملش صبا بردارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

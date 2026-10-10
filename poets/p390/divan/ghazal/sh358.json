@@ -1,0 +1,93 @@
+{
+  "Id": 31325,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۵۸",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۵۸",
+  "FullUrl": "/p390/divan/ghazal/sh358",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh358",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طالع من شد ضعیف از بس غم افلاک خورد\r\nرنگ و روی اخترم زرد است از بس خاک خورد\r\nدر تمام عمر، زاهد روزه نتوان داشتن\r\nروزی خود را چرا باید بدین امساک خورد\r\nجرعه ای گفتم مگر صوفی ازان خواهد کشید\r\nاز کفم پیمانه را کافر گرفت و پاک خورد!\r\nآسمان گر قرص خورشیدم دهد، دور افکنم\r\nگر همه چون شعله ام باید خس و خاشاک خورد\r\nهرکه را جام شرابی دسترس باشد سلیم\r\nچون شقایق از چه می باید دگر تریاک خورد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طالع من شد ضعیف از بس غم افلاک خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رنگ و روی اخترم زرد است از بس خاک خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تمام عمر، زاهد روزه نتوان داشتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزی خود را چرا باید بدین امساک خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جرعه ای گفتم مگر صوفی ازان خواهد کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از کفم پیمانه را کافر گرفت و پاک خورد!",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آسمان گر قرص خورشیدم دهد، دور افکنم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر همه چون شعله ام باید خس و خاشاک خورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرکه را جام شرابی دسترس باشد سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون شقایق از چه می باید دگر تریاک خورد؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

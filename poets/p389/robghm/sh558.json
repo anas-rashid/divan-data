@@ -1,0 +1,57 @@
+{
+  "Id": 30815,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۵۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۵۸",
+  "FullUrl": "/p389/robghm/sh558",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh558",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی دل شود از هوای خود شرمنده\r\nیا نفس ز مدعای خود شرمنده\r\nشرمنده‌ام از خدای خود من که مباد\r\nکافر هم، از خدای خود شرمنده",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی دل شود از هوای خود شرمنده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا نفس ز مدعای خود شرمنده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرمنده‌ام از خدای خود من که مباد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کافر هم، از خدای خود شرمنده",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 17989,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۵۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۵۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نادان دلش خوش است به تدبیر ناخدا\r\nغافل که ناخدا هم ازین تخته پاره‌هاست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نادان دلش خوش است به تدبیر ناخدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غافل که ناخدا هم ازین تخته پاره‌هاست",
+      "CoupletIndex": 0
+    }
+  ]
+}

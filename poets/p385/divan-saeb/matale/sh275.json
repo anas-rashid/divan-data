@@ -1,0 +1,42 @@
+{
+  "Id": 26363,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۷۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۷۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون فروزان ز می آن آینه طلعت گردد\r\nآب در دیده خورشید قیامت گردد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون فروزان ز می آن آینه طلعت گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب در دیده خورشید قیامت گردد",
+      "CoupletIndex": 0
+    }
+  ]
+}

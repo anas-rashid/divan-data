@@ -1,0 +1,57 @@
+{
+  "Id": 32025,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۲۷",
+  "FullUrl": "/p390/divan/robaee/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خواجه ترا ضعیفی از پیری نیست\r\nاز گرسنگی ست سستی، از سیری نیست\r\nاسبی که کشند بر ورق نقاشان\r\nگر بی حرکت بود ز جوگیری نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواجه ترا ضعیفی از پیری نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گرسنگی ست سستی، از سیری نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اسبی که کشند بر ورق نقاشان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بی حرکت بود ز جوگیری نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 33340,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/p391/divan/robaee/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس ز نخست شد به غفلت خوگر\r\nمنعش چو کنند بیش افتد به خطر\r\nچندانکه زنندش سرپا راهروان\r\nخواب ره خوابیده شود سنگین‌تر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس ز نخست شد به غفلت خوگر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منعش چو کنند بیش افتد به خطر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندانکه زنندش سرپا راهروان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خواب ره خوابیده شود سنگین‌تر",
+      "CoupletIndex": 1
+    }
+  ]
+}

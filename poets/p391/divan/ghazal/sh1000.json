@@ -1,0 +1,93 @@
+{
+  "Id": 33092,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۰۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۰۰",
+  "FullUrl": "/p391/divan/ghazal/sh1000",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1000",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جواب ناله ام را کی دهد چشم سیاه او\r\nکه سنگ سرمه باشد کوه تمکین نگاه او\r\nعلو همت آن کس را که دارد گرم زرپاشی\r\nجهان چون پنجهٔ خورشید زید دستگاه او\r\nبود زیبنده لا شوق دیدار تو آنکس را\r\nکه چون شبنم برد از جای چشمش را نگاه او\r\nمه نو را که نسبت داده است آیا به ابرویت؟\r\nکه بر اوج فلک می رقصد از شادی کلاه او\r\nبه جای گرد خیزد درد از جولانگهش جویا\r\nدل عشاق گردیده است از بس فرش راه او",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جواب ناله ام را کی دهد چشم سیاه او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که سنگ سرمه باشد کوه تمکین نگاه او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "علو همت آن کس را که دارد گرم زرپاشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهان چون پنجهٔ خورشید زید دستگاه او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بود زیبنده لا شوق دیدار تو آنکس را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که چون شبنم برد از جای چشمش را نگاه او",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مه نو را که نسبت داده است آیا به ابرویت؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بر اوج فلک می رقصد از شادی کلاه او",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به جای گرد خیزد درد از جولانگهش جویا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دل عشاق گردیده است از بس فرش راه او",
+      "CoupletIndex": 4
+    }
+  ]
+}

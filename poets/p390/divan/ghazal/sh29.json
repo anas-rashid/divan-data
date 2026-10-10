@@ -1,0 +1,93 @@
+{
+  "Id": 30996,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۹",
+  "FullUrl": "/p390/divan/ghazal/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای تازه رو، ز زخم خدنگ تو داغ ما\r\nاز روغن کمان تو روشن چراغ ما\r\nبا نکهت تو صحبت ما درگرفته است\r\nای کاش بوی گل نخورد بر دماغ ما\r\nراضی جنون ما به گریبان پاره نیست\r\nاز چاک سینه شد گل صد برگ، داغ ما\r\nدر عشق هرگز از دل ما آه سر نزد\r\nآیینه ایم و دود ندارد چراغ ما\r\nآگاه نیست خضر ز احوال ما سلیم\r\nعنقا کجاست تا به تو گوید سراغ ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تازه رو، ز زخم خدنگ تو داغ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از روغن کمان تو روشن چراغ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با نکهت تو صحبت ما درگرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای کاش بوی گل نخورد بر دماغ ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "راضی جنون ما به گریبان پاره نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از چاک سینه شد گل صد برگ، داغ ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در عشق هرگز از دل ما آه سر نزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آیینه ایم و دود ندارد چراغ ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آگاه نیست خضر ز احوال ما سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عنقا کجاست تا به تو گوید سراغ ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

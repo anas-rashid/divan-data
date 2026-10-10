@@ -1,0 +1,54 @@
+{
+  "Id": 37235,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۳",
+  "FullUrl": "/p393/robaee/sh63",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh63",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جانان شده‌ای به دیدن خود محتاج\r\nره یافته بیماری عشقت به مزاج\r\nباید این درد فتنه‌زا را کردن\r\nاز طب سکندری آیینه علاج",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانان شده‌ای به دیدن خود محتاج",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ره یافته بیماری عشقت به مزاج",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باید این درد فتنه‌زا را کردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از طب سکندری آیینه علاج",
+      "CoupletIndex": 1
+    }
+  ]
+}

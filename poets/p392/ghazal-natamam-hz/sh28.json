@@ -1,0 +1,69 @@
+{
+  "Id": 34687,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای از تو، پریشان نظری آینه ها را\r\nاز عکس تو در شیشه پری، آینه ها را\r\nکرده ست نظربازی آن خط زره پوش\r\nمشهور به آهن جگری، آینه ها را\r\nرحمی کن و از پرده برون آ که سراغت\r\nتا چند کند در به دری، آینه ها را؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از تو، پریشان نظری آینه ها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از عکس تو در شیشه پری، آینه ها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کرده ست نظربازی آن خط زره پوش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مشهور به آهن جگری، آینه ها را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رحمی کن و از پرده برون آ که سراغت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا چند کند در به دری، آینه ها را؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 34787,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کجا دلبستگی عاشق به حسن بی وفا دارد؟\r\nکه مانند گل رعنا، خزانی در قفا دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کجا دلبستگی عاشق به حسن بی وفا دارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که مانند گل رعنا، خزانی در قفا دارد",
+      "CoupletIndex": 0
+    }
+  ]
+}

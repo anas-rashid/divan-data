@@ -1,0 +1,57 @@
+{
+  "Id": 30871,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۴",
+  "FullUrl": "/p389/robghm/sh614",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh614",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ملک وجود، خوار بودن تا کی؟\r\nبیهوده درین دیار بودن تا کی؟\r\nبرخیز که تنگ ازین جهان برخیزد\r\nموی لب روزگار بودن تا کی؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ملک وجود، خوار بودن تا کی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیهوده درین دیار بودن تا کی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز که تنگ ازین جهان برخیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موی لب روزگار بودن تا کی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

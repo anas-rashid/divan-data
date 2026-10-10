@@ -1,0 +1,57 @@
+{
+  "Id": 34921,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۶۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمع سان، دیده پرآتش مژه پرنم دارم\r\nداغها بر جگر، از الفت مرهم دارم\r\nنسبم کاش چو یاران دگر جعلی بود\r\nغم عالم ز نسب نامهٔ آدم دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمع سان، دیده پرآتش مژه پرنم دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغها بر جگر، از الفت مرهم دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نسبم کاش چو یاران دگر جعلی بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم عالم ز نسب نامهٔ آدم دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

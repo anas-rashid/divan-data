@@ -1,0 +1,57 @@
+{
+  "Id": 26614,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش رویش چون کنم منع از گرستن دیده را؟\r\nچون کنم در شیشه این سیماب آتش دیده را؟\r\nدر سر آن زلف بی بخت رسا نتوان رسید\r\nچاره شبگیر بلندست این ره خوابیده را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش رویش چون کنم منع از گرستن دیده را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون کنم در شیشه این سیماب آتش دیده را؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سر آن زلف بی بخت رسا نتوان رسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چاره شبگیر بلندست این ره خوابیده را",
+      "CoupletIndex": 1
+    }
+  ]
+}

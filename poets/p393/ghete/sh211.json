@@ -1,0 +1,54 @@
+{
+  "Id": 36691,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۱۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۱۱",
+  "FullUrl": "/p393/ghete/sh211",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh211",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمشیر در کف می‌آید آن ماه\r\nفردا الی‌الله فردا الی‌الله\r\nخواهم که یک ره خاک درش را\r\nبر سر بریزم بر حسب دلخواه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمشیر در کف می‌آید آن ماه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فردا الی‌الله فردا الی‌الله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم که یک ره خاک درش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر سر بریزم بر حسب دلخواه",
+      "CoupletIndex": 1
+    }
+  ]
+}

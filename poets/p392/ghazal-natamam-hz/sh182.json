@@ -1,0 +1,57 @@
+{
+  "Id": 34841,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۸۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh182",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh182",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 18,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلاتن (مجتث مثمن مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تقلید من فزونی یاران نمی شود\r\nهرگز غبار، ابر بهاران نمی شود\r\nلفظ مطیع و معنی بیگانهٔ من است\r\nصیدی که رام شیر شکاران نمی شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تقلید من فزونی یاران نمی شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز غبار، ابر بهاران نمی شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لفظ مطیع و معنی بیگانهٔ من است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صیدی که رام شیر شکاران نمی شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

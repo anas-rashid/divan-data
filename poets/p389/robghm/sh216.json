@@ -1,0 +1,57 @@
+{
+  "Id": 30473,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱۶",
+  "FullUrl": "/p389/robghm/sh216",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh216",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کو عشق که عُجب خودپرستی ببرد؟\r\nکو نیستی‌ای که ذوق هستی ببرد؟\r\nکو جلوه قامتی از آن سرو بلند\r\nکز همت پست، عیب پستی ببرد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کو عشق که عُجب خودپرستی ببرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کو نیستی‌ای که ذوق هستی ببرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو جلوه قامتی از آن سرو بلند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز همت پست، عیب پستی ببرد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

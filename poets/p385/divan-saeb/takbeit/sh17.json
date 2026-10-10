@@ -1,0 +1,45 @@
+{
+  "Id": 17548,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه بوی گل، نه رنگ لاله از جا می‌برد ما را\r\nبه گلشن لذت ترک تماشا می‌برد ما را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه بوی گل، نه رنگ لاله از جا می‌برد ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به گلشن لذت ترک تماشا می‌برد ما را",
+      "CoupletIndex": 0
+    }
+  ]
+}

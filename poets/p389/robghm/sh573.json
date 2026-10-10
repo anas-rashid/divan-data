@@ -1,0 +1,57 @@
+{
+  "Id": 30830,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۷۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۷۳",
+  "FullUrl": "/p389/robghm/sh573",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh573",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق، حیات جاودان همه‌ای\r\nای عقل چه گویمت، زبان همه‌ای\r\nهر تیر ملامت که به زه پیوستند\r\nای سینه طرب کن که نشان همه‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق، حیات جاودان همه‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای عقل چه گویمت، زبان همه‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر تیر ملامت که به زه پیوستند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای سینه طرب کن که نشان همه‌ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

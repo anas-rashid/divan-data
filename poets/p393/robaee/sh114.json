@@ -1,0 +1,54 @@
+{
+  "Id": 37286,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/p393/robaee/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دنیا که بلای جان بود اقبالش\r\nعقل نرود ز جا به استقبالش\r\nحال دنیا و طالبانش گویم\r\nیک ماده‌سگی هزار سگ دنبالش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دنیا که بلای جان بود اقبالش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عقل نرود ز جا به استقبالش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حال دنیا و طالبانش گویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک ماده‌سگی هزار سگ دنبالش",
+      "CoupletIndex": 1
+    }
+  ]
+}

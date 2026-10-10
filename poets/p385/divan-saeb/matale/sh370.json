@@ -1,0 +1,42 @@
+{
+  "Id": 26458,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۷۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۷۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh370",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh370",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تماشای جمال خود چنان برده است از هوشش\r\nکه بیرون آورند از خانه آیینه با دوشش!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تماشای جمال خود چنان برده است از هوشش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بیرون آورند از خانه آیینه با دوشش!",
+      "CoupletIndex": 0
+    }
+  ]
+}

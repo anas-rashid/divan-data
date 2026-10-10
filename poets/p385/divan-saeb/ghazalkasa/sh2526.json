@@ -1,0 +1,93 @@
+{
+  "Id": 21599,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۵۲۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۵۲۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2526",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2526",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا به کی گرد کدورت زیر دیوارم کند؟\r\nعشق کو تا از غم عالم سبکبارم کند\r\nبا خیال یار در یک پیرهن خوابیده ام\r\nبر ندارد سر زبالین هر که بیدارم کند!\r\nشد ز زنگ سینه من ناخن صیقل کبود\r\nسعی خاکستر چه با آیینه تارم کند؟\r\nچون رگ سنگ است از خواب گران مژگان من\r\nسیلی دوران عجب دارم که بیدارم کند\r\nعاشقان با درد از روز ازل خو کرده اند\r\nدرد بیدردی مگر صائب خبردارم کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا به کی گرد کدورت زیر دیوارم کند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق کو تا از غم عالم سبکبارم کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با خیال یار در یک پیرهن خوابیده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر ندارد سر زبالین هر که بیدارم کند!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شد ز زنگ سینه من ناخن صیقل کبود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سعی خاکستر چه با آیینه تارم کند؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون رگ سنگ است از خواب گران مژگان من",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیلی دوران عجب دارم که بیدارم کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عاشقان با درد از روز ازل خو کرده اند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "درد بیدردی مگر صائب خبردارم کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

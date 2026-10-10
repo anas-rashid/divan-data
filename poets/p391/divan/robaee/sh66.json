@@ -1,0 +1,57 @@
+{
+  "Id": 33337,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/p391/divan/robaee/sh66",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh66",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افسوس ز تخم آرزو کشتهٔ عمر\r\nوز حاصل با خون دل آغشتهٔ عمر\r\nصد حیف که در حسرتم اوقات گذشت\r\nگلدستهٔ داغ بستم از رشتهٔ عمر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افسوس ز تخم آرزو کشتهٔ عمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز حاصل با خون دل آغشتهٔ عمر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد حیف که در حسرتم اوقات گذشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلدستهٔ داغ بستم از رشتهٔ عمر",
+      "CoupletIndex": 1
+    }
+  ]
+}

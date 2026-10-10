@@ -1,0 +1,57 @@
+{
+  "Id": 30394,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۷",
+  "FullUrl": "/p389/robghm/sh137",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh137",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق که جنگ عالمی بر سر توست\r\nدل از بر هرکه رفت بیرون، بر توست\r\nزین جمع که جمعیت‌شان بر در توست\r\nهر فرد که باز بینی از دفتر توست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق که جنگ عالمی بر سر توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل از بر هرکه رفت بیرون، بر توست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین جمع که جمعیت‌شان بر در توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر فرد که باز بینی از دفتر توست",
+      "CoupletIndex": 1
+    }
+  ]
+}

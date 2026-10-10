@@ -1,0 +1,54 @@
+{
+  "Id": 37296,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۴",
+  "FullUrl": "/p393/robaee/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این راه که هست سخت جانکاه ای دل\r\nچون پیش تو آمده است ناگاه ای دل\r\nاندیشه مباد هرچه بادا بادا\r\nسر کن متوکلاً علی الله ای دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این راه که هست سخت جانکاه ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون پیش تو آمده است ناگاه ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندیشه مباد هرچه بادا بادا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر کن متوکلاً علی الله ای دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

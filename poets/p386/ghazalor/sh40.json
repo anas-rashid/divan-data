@@ -1,0 +1,93 @@
+{
+  "Id": 27448,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۴۰",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۴۰",
+  "FullUrl": "/p386/ghazalor/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غزلی گفته‌ام آن باعث گفتار کجاست\r\nنوگلی چیده‌ام آن گوشهٔ دستار کجاست\r\nیک سبو می به در صومعه آرم که دگر\r\nمی‌فروشان بستانند که بازار کجاست\r\nخرمن آن ده دنیا به جوی گو بفروش\r\nآن که داند که سر کوچهٔ خمار کجاست\r\nگام اول به سرت بر نهم اندر طلبش\r\nگر بدانم که گشایندهٔ اسرار کجاست\r\nعرفی از پرده برون شو که جهان گلزار است\r\nاین تماشا به سراپردهٔ پندار کجاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غزلی گفته‌ام آن باعث گفتار کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوگلی چیده‌ام آن گوشهٔ دستار کجاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک سبو می به در صومعه آرم که دگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌فروشان بستانند که بازار کجاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خرمن آن ده دنیا به جوی گو بفروش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن که داند که سر کوچهٔ خمار کجاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گام اول به سرت بر نهم اندر طلبش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر بدانم که گشایندهٔ اسرار کجاست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عرفی از پرده برون شو که جهان گلزار است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این تماشا به سراپردهٔ پندار کجاست",
+      "CoupletIndex": 4
+    }
+  ]
+}

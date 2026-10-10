@@ -1,0 +1,57 @@
+{
+  "Id": 29742,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۵",
+  "FullUrl": "/p388/divan/robaee/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک دم دل شاد را به صد دم ندهی\r\nواندم به دم عیسی مریم ندهی\r\nمرغان ضمیر از صفا رام شوند\r\nجمع آی که از تفرقه شان رم ندهی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک دم دل شاد را به صد دم ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واندم به دم عیسی مریم ندهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغان ضمیر از صفا رام شوند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جمع آی که از تفرقه شان رم ندهی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34972,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۱۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۱۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh313",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh313",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح است و عزم کوی خرابات کرده‌ای\r\nای پیر خانقاه، کرامات کرده‌ای\r\nگر، دیده‌ات به ساقی و رویت به ساغر است\r\nایمن نشین، که پشت به آفات کرده‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح است و عزم کوی خرابات کرده‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای پیر خانقاه، کرامات کرده‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر، دیده‌ات به ساقی و رویت به ساغر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمن نشین، که پشت به آفات کرده‌ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

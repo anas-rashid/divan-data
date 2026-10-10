@@ -1,0 +1,42 @@
+{
+  "Id": 27347,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۱",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۱",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh11",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh11",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرچه دست سرو کوتاه است از دامان گل\r\nسرو بالایی که ما داریم سر تا پا گل است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه دست سرو کوتاه است از دامان گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرو بالایی که ما داریم سر تا پا گل است",
+      "CoupletIndex": 0
+    }
+  ]
+}

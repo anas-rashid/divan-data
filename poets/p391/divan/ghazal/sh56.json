@@ -1,0 +1,93 @@
+{
+  "Id": 32148,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۶",
+  "FullUrl": "/p391/divan/ghazal/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امشب فزود دل ز طپش جوش دیده را\r\nگردیده دامن آتش خس پوش دیده را\r\nبالد طراوت از گل رخسار او به خویش\r\nپر کرده سیر غبغبش آغوش دیده را\r\nخودداری از نگاه من امشب مدار چشم\r\nحیرانیم ربوده زبس هوش دیده را\r\nموج سرشک پرده در راز عاشق است\r\nبر دل بریز ساغر سر جوش دیده را\r\nجویا شنیده آنکه زبان فهم حیرت است\r\nفریادها بود لب خاموش دیده را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امشب فزود دل ز طپش جوش دیده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردیده دامن آتش خس پوش دیده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بالد طراوت از گل رخسار او به خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر کرده سیر غبغبش آغوش دیده را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خودداری از نگاه من امشب مدار چشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حیرانیم ربوده زبس هوش دیده را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "موج سرشک پرده در راز عاشق است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر دل بریز ساغر سر جوش دیده را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جویا شنیده آنکه زبان فهم حیرت است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فریادها بود لب خاموش دیده را",
+      "CoupletIndex": 4
+    }
+  ]
+}

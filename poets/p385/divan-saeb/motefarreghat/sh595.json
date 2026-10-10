@@ -1,0 +1,69 @@
+{
+  "Id": 27201,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۹۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۹۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh595",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh595",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بهار می گذرد، سیر گلستانی کن\r\nبه آشیان چه فرو رفته ای، فغانی کن\r\nمباد خیره شود آرزوی خام طمع\r\nبه وقت خواب گل بوسه را نشانی کن!\r\nترا به خلق، تماشاییان شناخته اند\r\nبرای گلشن خود فکر باغبانی کن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بهار می گذرد، سیر گلستانی کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به آشیان چه فرو رفته ای، فغانی کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مباد خیره شود آرزوی خام طمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به وقت خواب گل بوسه را نشانی کن!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ترا به خلق، تماشاییان شناخته اند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برای گلشن خود فکر باغبانی کن",
+      "CoupletIndex": 2
+    }
+  ]
+}

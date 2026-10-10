@@ -1,0 +1,57 @@
+{
+  "Id": 37731,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۱۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۱۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh217",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh217",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دولت شاه چون قوی شد رایم\r\nگفتم که رکاب را ز زر فرمایم\r\nزر گفت مرا که من تو را کی شایم\r\nآمد آهن گرفت هر دو پایم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دولت شاه چون قوی شد رایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که رکاب را ز زر فرمایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زر گفت مرا که من تو را کی شایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آمد آهن گرفت هر دو پایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

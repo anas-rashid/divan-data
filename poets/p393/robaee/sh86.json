@@ -1,0 +1,54 @@
+{
+  "Id": 37258,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۶",
+  "FullUrl": "/p393/robaee/sh86",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh86",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفتم بر یار شب شکایت‌آلود\r\nگفتم که ز درد تو تن و جان فرسود\r\nگفتا موجود هست بوسی گفتم\r\nموجود شفاست لطف باید فرمود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتم بر یار شب شکایت‌آلود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتم که ز درد تو تن و جان فرسود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا موجود هست بوسی گفتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موجود شفاست لطف باید فرمود",
+      "CoupletIndex": 1
+    }
+  ]
+}

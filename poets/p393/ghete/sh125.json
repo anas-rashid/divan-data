@@ -1,0 +1,54 @@
+{
+  "Id": 36605,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۲۵",
+  "FullUrl": "/p393/ghete/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا یار راند گلگون اشکم ز پی روان شد\r\nصبر گران رکابم آخر سبک عنان شد\r\nیک عمر حرف سخت سنگین‌دلان شنید است\r\nعذرم توان پذیرفت گوشم اگر گران شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا یار راند گلگون اشکم ز پی روان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبر گران رکابم آخر سبک عنان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک عمر حرف سخت سنگین‌دلان شنید است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عذرم توان پذیرفت گوشم اگر گران شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

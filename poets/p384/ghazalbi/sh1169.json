@@ -1,0 +1,93 @@
+{
+  "Id": 15872,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۱۱۶۹",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۱۱۶۹",
+  "FullUrl": "/p384/ghazalbi/sh1169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh1169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح شو ای‌شب‌که خورشید من‌اکنون می‌رسد\r\nعید مردم‌ گو برو عید من اکنون می‌رسد\r\nبعد از اینم بی‌دماغ یاس نتوان زیستن\r\nدستگاه عیش جاوید من اکنون می‌رسد\r\nمی‌روم در سایه‌اش بنشینم و ساغرکشم\r\nنونهال باغ امید من اکنون می‌رسد\r\nآرزو خواهدکلاه ناز برگردون فکند\r\nجام می در دست جمشید من اکنون می‌رسد\r\nرفع خواهدگشت بیدل شبههٔ وهم دویی\r\nصاحب اسرار توحید من اکنون می‌رسد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح شو ای‌شب‌که خورشید من‌اکنون می‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عید مردم‌ گو برو عید من اکنون می‌رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بعد از اینم بی‌دماغ یاس نتوان زیستن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستگاه عیش جاوید من اکنون می‌رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می‌روم در سایه‌اش بنشینم و ساغرکشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نونهال باغ امید من اکنون می‌رسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آرزو خواهدکلاه ناز برگردون فکند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جام می در دست جمشید من اکنون می‌رسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رفع خواهدگشت بیدل شبههٔ وهم دویی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صاحب اسرار توحید من اکنون می‌رسد",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 19060,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۲۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۲۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1529",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1529",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زیر سپهر، خواب فراغت چه می‌کنی؟\r\nدر خانهٔ شکسته اقامت چه می‌کنی؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زیر سپهر، خواب فراغت چه می‌کنی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خانهٔ شکسته اقامت چه می‌کنی؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

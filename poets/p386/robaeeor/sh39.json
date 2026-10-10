@@ -1,0 +1,57 @@
+{
+  "Id": 28082,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۹",
+  "FullUrl": "/p386/robaeeor/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دی محتسب آمد به غم، تند نشست\r\nماتم زده بود، دادمش شیشه به دست\r\nبشکست و نیافت قصدم آن جاهل مست\r\nبایست که توبه شکند، شیشه شکست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی محتسب آمد به غم، تند نشست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماتم زده بود، دادمش شیشه به دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بشکست و نیافت قصدم آن جاهل مست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بایست که توبه شکند، شیشه شکست",
+      "CoupletIndex": 1
+    }
+  ]
+}

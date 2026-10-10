@@ -1,0 +1,45 @@
+{
+  "Id": 18678,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۴۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۴۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1147",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1147",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چند در دایرهٔ مردم عاقل باشم\r\nتختهٔ مشق صد اندیشهٔ باطل باشم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چند در دایرهٔ مردم عاقل باشم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تختهٔ مشق صد اندیشهٔ باطل باشم",
+      "CoupletIndex": 0
+    }
+  ]
+}

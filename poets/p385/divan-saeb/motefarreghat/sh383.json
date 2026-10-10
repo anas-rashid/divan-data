@@ -1,0 +1,57 @@
+{
+  "Id": 26989,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۸۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۸۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh383",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh383",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاشقانی که دل از گریه سبکبار کنند\r\nشکوه خود چه ضرورست که اظهار کنند؟\r\nبوی پیراهن گلزار ازان شوخترست\r\nکه نظربند ز خار سر دیوار کنند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشقانی که دل از گریه سبکبار کنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکوه خود چه ضرورست که اظهار کنند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوی پیراهن گلزار ازان شوخترست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که نظربند ز خار سر دیوار کنند",
+      "CoupletIndex": 1
+    }
+  ]
+}

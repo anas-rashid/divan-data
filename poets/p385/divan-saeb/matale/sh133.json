@@ -1,0 +1,42 @@
+{
+  "Id": 26221,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۳۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا ز می چهره گلرنگ تو افروخته است\r\nجگر لاله عذاران چمن سوخته است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ز می چهره گلرنگ تو افروخته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جگر لاله عذاران چمن سوخته است",
+      "CoupletIndex": 0
+    }
+  ]
+}

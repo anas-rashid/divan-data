@@ -1,0 +1,54 @@
+{
+  "Id": 37325,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۳",
+  "FullUrl": "/p393/robaee/sh153",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh153",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سودازدهٔ زلف سیاه‌فام توایم\r\nآشفته‌دل و تیره سرانجام توایم\r\nآزادی ما ز بند تو ممکن نیست\r\nمادام که زنده‌ایم در دام توایم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سودازدهٔ زلف سیاه‌فام توایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آشفته‌دل و تیره سرانجام توایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آزادی ما ز بند تو ممکن نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مادام که زنده‌ایم در دام توایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

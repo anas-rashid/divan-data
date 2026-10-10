@@ -1,0 +1,45 @@
+{
+  "Id": 18988,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۵۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۵۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1457",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1457",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بعد عمری چون صدف گر قطرهٔ آبی خورم\r\nدر گلوی تشنه‌ام چون سنگ می‌گردد گره",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بعد عمری چون صدف گر قطرهٔ آبی خورم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در گلوی تشنه‌ام چون سنگ می‌گردد گره",
+      "CoupletIndex": 0
+    }
+  ]
+}

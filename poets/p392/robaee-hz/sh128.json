@@ -1,0 +1,57 @@
+{
+  "Id": 34523,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲۸",
+  "FullUrl": "/p392/robaee-hz/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دهر، به مستعار آلوده مگرد\r\nهرگز به دی و بهار، آلوده مگرد\r\nتن در رَهِ تو مشت غباری ست حزین\r\nزنهار، به این غبار آلوده مگرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دهر، به مستعار آلوده مگرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز به دی و بهار، آلوده مگرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تن در رَهِ تو مشت غباری ست حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار، به این غبار آلوده مگرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 27396,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۶۰",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لنگر نکرده ایم چو گوهر درین محیط\r\nاز بوستان دهر چو شبنم گذشته ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لنگر نکرده ایم چو گوهر درین محیط",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بوستان دهر چو شبنم گذشته ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

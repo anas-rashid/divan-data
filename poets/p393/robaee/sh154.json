@@ -1,0 +1,54 @@
+{
+  "Id": 37326,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۴",
+  "FullUrl": "/p393/robaee/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افتاده هوای عشق دیگر به سرم\r\nای وای که خون گشت ز دل تا جگرم\r\nبر عقل فشاندم آستین ای همدم\r\nدستم بگذار تا گریبان به درم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افتاده هوای عشق دیگر به سرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای وای که خون گشت ز دل تا جگرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر عقل فشاندم آستین ای همدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستم بگذار تا گریبان به درم",
+      "CoupletIndex": 1
+    }
+  ]
+}

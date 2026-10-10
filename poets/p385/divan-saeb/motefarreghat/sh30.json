@@ -1,0 +1,57 @@
+{
+  "Id": 26636,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(مده ز دست درین فصل جام صهبا را\r\nکه موج لاله به می شست روی صحرا را)\r\n(جنون ما به نسیم بهانه ای بندست\r\nبس است آتش گل دیگجوش سودا را)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(مده ز دست درین فصل جام صهبا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که موج لاله به می شست روی صحرا را)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(جنون ما به نسیم بهانه ای بندست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس است آتش گل دیگجوش سودا را)",
+      "CoupletIndex": 1
+    }
+  ]
+}

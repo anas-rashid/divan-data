@@ -1,0 +1,57 @@
+{
+  "Id": 28085,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۲",
+  "FullUrl": "/p386/robaeeor/sh42",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh42",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این لاله که با داغ الست آمده است\r\nپژمرده و سینه چاک و مست آمده است\r\nپژمردگی اش رواست که از باغ ازل\r\nتا شهر غمت دست به دست آمده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این لاله که با داغ الست آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پژمرده و سینه چاک و مست آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پژمردگی اش رواست که از باغ ازل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا شهر غمت دست به دست آمده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

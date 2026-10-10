@@ -1,0 +1,42 @@
+{
+  "Id": 27339,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۳",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همه تن شانه صفت پنجه گیرا شده ام\r\nبه امیدی که فتد زلف تو در چنگ مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همه تن شانه صفت پنجه گیرا شده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به امیدی که فتد زلف تو در چنگ مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

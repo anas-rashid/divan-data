@@ -1,0 +1,57 @@
+{
+  "Id": 30236,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۸",
+  "FullUrl": "/p389/mmgh/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مگر فردا به قتلم خواهد آمد یار کز هر سو\r\nبه گوشم امشب آواز مبارکباد می‌آید\r\nپریشان می‌کند چون زلف شیرین حال خسرو را\r\nمگر باد صبا از تربت فرهاد می‌آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مگر فردا به قتلم خواهد آمد یار کز هر سو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به گوشم امشب آواز مبارکباد می‌آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پریشان می‌کند چون زلف شیرین حال خسرو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگر باد صبا از تربت فرهاد می‌آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

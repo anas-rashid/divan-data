@@ -1,0 +1,54 @@
+{
+  "Id": 28184,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۱۷ - نشاه دل",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۱۷ - نشاه دل",
+  "FullUrl": "/p386/ghete-or/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ دل راه بر درش نسپرد\r\nکه بسرحد کاملی نرسید\r\nمشت خونی که ما بیروردیم\r\nبحد نشاه دلی نرسید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ دل راه بر درش نسپرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بسرحد کاملی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مشت خونی که ما بیروردیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بحد نشاه دلی نرسید",
+      "CoupletIndex": 1
+    }
+  ]
+}

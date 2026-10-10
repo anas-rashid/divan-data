@@ -1,0 +1,54 @@
+{
+  "Id": 37357,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/p393/robaee/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "واقف صد فتنه زاد از گریهٔ تو\r\nشوری به جهان فتاد از گریهٔ تو\r\nچندین معموره را به طوفان دادی\r\nای خانه‌خراب داد از گریهٔ تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "واقف صد فتنه زاد از گریهٔ تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شوری به جهان فتاد از گریهٔ تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چندین معموره را به طوفان دادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای خانه‌خراب داد از گریهٔ تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

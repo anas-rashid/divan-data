@@ -1,0 +1,57 @@
+{
+  "Id": 31976,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۳۸ - هست کارم به مجلسی که درو",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۳۸ - هست کارم به مجلسی که درو",
+  "FullUrl": "/p390/divan/ghete/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست کارم به مجلسی که درو\r\nحرف با لب چو خنده بیگانه ست\r\nچند پاس ادب کسی دارد؟\r\nانجمن نیست این ادبخانه ست!",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست کارم به مجلسی که درو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حرف با لب چو خنده بیگانه ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چند پاس ادب کسی دارد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انجمن نیست این ادبخانه ست!",
+      "CoupletIndex": 1
+    }
+  ]
+}

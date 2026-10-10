@@ -1,0 +1,57 @@
+{
+  "Id": 34409,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۴",
+  "FullUrl": "/p392/robaee-hz/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دانم که به جز خدای قهّاری نیست\r\nبر خاطرم از ظلم کسی باری نیست\r\nماهیت مخلوق نباشد غالب\r\nمغلوبِ خدا شدن مرا عاری نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانم که به جز خدای قهّاری نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر خاطرم از ظلم کسی باری نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماهیت مخلوق نباشد غالب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مغلوبِ خدا شدن مرا عاری نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

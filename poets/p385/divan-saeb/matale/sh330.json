@@ -1,0 +1,42 @@
+{
+  "Id": 26418,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۳۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حاشا که طلبکار حق آرام پذیرد\r\nاین راه نه راهی است که انجام پذیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حاشا که طلبکار حق آرام پذیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این راه نه راهی است که انجام پذیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

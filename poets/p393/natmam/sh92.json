@@ -1,0 +1,66 @@
+{
+  "Id": 36243,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۲",
+  "FullUrl": "/p393/natmam/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بس که گریه کردم م در جگر نمانده است\r\nوقت است اگر بیایی عمر این‌قدر نمانده است\r\nعشق تو کرد غارت اسباب عیش و راحت\r\nماییم و نیم‌جانی چیزی درک نمانده است\r\nمردند خستگانت بر خاک آستانت\r\nچون من به بستر غم یک محتضر نمانده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس که گریه کردم م در جگر نمانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وقت است اگر بیایی عمر این‌قدر نمانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق تو کرد غارت اسباب عیش و راحت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماییم و نیم‌جانی چیزی درک نمانده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مردند خستگانت بر خاک آستانت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون من به بستر غم یک محتضر نمانده است",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30354,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۹۷",
+  "FullUrl": "/p389/robghm/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی غم عشق، هم‌نشین تو بس است\r\nداغ ستم دوست، قرین تو بس است\r\nای داغ، تو هم دگر چه خواهی کردن\r\nملکی چو دلم زیر نگین تو بس است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی غم عشق، هم‌نشین تو بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ ستم دوست، قرین تو بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای داغ، تو هم دگر چه خواهی کردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ملکی چو دلم زیر نگین تو بس است",
+      "CoupletIndex": 1
+    }
+  ]
+}

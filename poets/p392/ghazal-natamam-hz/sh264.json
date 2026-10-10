@@ -1,0 +1,81 @@
+{
+  "Id": 34923,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۶۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۶۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh264",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh264",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زد نقش سخن سکهٔ جاوید به نامم\r\nاز صفحهٔ دلها نشود محو، کلامم\r\nنوری ست عیان، در نظر حرف شناسان\r\nهر مردمک نقطه ی خورشید، غلامم\r\nنظاره کن امروز، گلستان ارم را\r\nدر جلوه گه خامهٔ طاووس خرامم\r\nهر لفظ حزین خانهٔ صد شاهد معنی ست\r\nلیلی کده ها جلوه دهد طرف خیامم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زد نقش سخن سکهٔ جاوید به نامم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از صفحهٔ دلها نشود محو، کلامم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوری ست عیان، در نظر حرف شناسان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر مردمک نقطه ی خورشید، غلامم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نظاره کن امروز، گلستان ارم را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در جلوه گه خامهٔ طاووس خرامم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر لفظ حزین خانهٔ صد شاهد معنی ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لیلی کده ها جلوه دهد طرف خیامم",
+      "CoupletIndex": 3
+    }
+  ]
+}

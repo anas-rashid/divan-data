@@ -1,0 +1,54 @@
+{
+  "Id": 34707,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حق تعلیم دارم، خوش قدانِ بوستانی را\r\nکه سرو از مصرع من یاد می گیرد، روانی را\r\nسخنهای خسان، چون بانگ نی، باد است در گوشم\r\nبه یکدم می شناسم آشنایان زبانی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حق تعلیم دارم، خوش قدانِ بوستانی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که سرو از مصرع من یاد می گیرد، روانی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سخنهای خسان، چون بانگ نی، باد است در گوشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به یکدم می شناسم آشنایان زبانی را",
+      "CoupletIndex": 1
+    }
+  ]
+}

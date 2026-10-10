@@ -1,0 +1,54 @@
+{
+  "Id": 34719,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۶۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرزه دراست در رهش، سینه چاک چاک ما\r\nگوشزد اثر نشد، نالهٔ دردناک ما\r\nسرمهٔ چشم مور شد، سوده استخوان من\r\nکم نگهانه تا بهکی می گذری ز خاک ما؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرزه دراست در رهش، سینه چاک چاک ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوشزد اثر نشد، نالهٔ دردناک ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرمهٔ چشم مور شد، سوده استخوان من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کم نگهانه تا بهکی می گذری ز خاک ما؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

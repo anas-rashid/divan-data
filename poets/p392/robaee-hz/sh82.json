@@ -1,0 +1,57 @@
+{
+  "Id": 34477,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۸۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۸۲",
+  "FullUrl": "/p392/robaee-hz/sh82",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh82",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاخ گل من نظر به خاری نکند\r\nرحمی به دل سینه فگاری نکند\r\nترسم نبرد دل از خروشیدن سود\r\nما خوار شویم و ناله کاری نکند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاخ گل من نظر به خاری نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رحمی به دل سینه فگاری نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترسم نبرد دل از خروشیدن سود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما خوار شویم و ناله کاری نکند",
+      "CoupletIndex": 1
+    }
+  ]
+}

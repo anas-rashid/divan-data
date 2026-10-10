@@ -1,0 +1,81 @@
+{
+  "Id": 14750,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۴۷",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۴۷",
+  "FullUrl": "/p384/ghazalbi/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عالمی‌ که با خود رنگی نبود ما را\r\nبودیم هرچه بودیم او وانمود ما را\r\nمرآت معنی ما چون سایه داشت زنگی\r\nخورشید التفاتش از ما زدود ما را\r\nپرواز فطرت ما در دام بال می‌زد\r\nآزاد کرد فضلش از هر قیود ما را\r\nاعداد ما تهی‌ کرد چندان‌که صفر گشتیم\r\nاز خویش‌ کاست اما بر ما فزود ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عالمی‌ که با خود رنگی نبود ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بودیم هرچه بودیم او وانمود ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرآت معنی ما چون سایه داشت زنگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید التفاتش از ما زدود ما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پرواز فطرت ما در دام بال می‌زد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آزاد کرد فضلش از هر قیود ما را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اعداد ما تهی‌ کرد چندان‌که صفر گشتیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از خویش‌ کاست اما بر ما فزود ما را",
+      "CoupletIndex": 3
+    }
+  ]
+}

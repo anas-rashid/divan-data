@@ -1,0 +1,54 @@
+{
+  "Id": 28840,
+  "CatId": 1071,
+  "Title": "شمارهٔ ۲۱ - و نیز",
+  "FullTitle": "کلیم » دیوان اشعار » قطعات » شمارهٔ ۲۱ - و نیز",
+  "FullUrl": "/p387/divan/ghete/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/ghete/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تفنگ بیخطای شاه جهان\r\nنقطه از روی حرف بردارد\r\nراست رو، موشکاف و صیدافکن\r\nدر یک انگشت صد هنر دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تفنگ بیخطای شاه جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقطه از روی حرف بردارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "راست رو، موشکاف و صیدافکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در یک انگشت صد هنر دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

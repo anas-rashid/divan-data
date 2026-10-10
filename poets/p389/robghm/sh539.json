@@ -1,0 +1,57 @@
+{
+  "Id": 30796,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۳۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۳۹",
+  "FullUrl": "/p389/robghm/sh539",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh539",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بی‌جگر، آواز کمانم مشنو\r\nیک حرف به کوی صد زبانم مشنو\r\nپر سوز غم است داستانم مشنو\r\nنازک‌دلی ای صنم، فغانم مشنو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بی‌جگر، آواز کمانم مشنو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک حرف به کوی صد زبانم مشنو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر سوز غم است داستانم مشنو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نازک‌دلی ای صنم، فغانم مشنو",
+      "CoupletIndex": 1
+    }
+  ]
+}

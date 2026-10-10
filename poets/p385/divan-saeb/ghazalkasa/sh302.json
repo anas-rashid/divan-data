@@ -1,0 +1,93 @@
+{
+  "Id": 19375,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۰۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۰۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh302",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh302",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ترا در سینه هر ذره پنهان رازها\r\nدر میان مهر خاموشی گره آوازها\r\nدر تلاش جستجویت سر به هم آورده اند\r\nمقطع انجام ها و مطلع آغازها\r\nدر زمین بوس جلالت، طایران قدس را\r\nآه خون آلود گردد رشته پروازها\r\nیک دل بیدار در نه پرده افلاک نیست\r\nپرده خواب است گویا پرده این سازها\r\nدر دل کان گوهر و در چشم دریا نم نماند\r\nخامه صائب همان در پرده دارد رازها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ترا در سینه هر ذره پنهان رازها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در میان مهر خاموشی گره آوازها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تلاش جستجویت سر به هم آورده اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مقطع انجام ها و مطلع آغازها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در زمین بوس جلالت، طایران قدس را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آه خون آلود گردد رشته پروازها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یک دل بیدار در نه پرده افلاک نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پرده خواب است گویا پرده این سازها",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در دل کان گوهر و در چشم دریا نم نماند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خامه صائب همان در پرده دارد رازها",
+      "CoupletIndex": 4
+    }
+  ]
+}

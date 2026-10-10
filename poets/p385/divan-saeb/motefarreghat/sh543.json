@@ -1,0 +1,57 @@
+{
+  "Id": 27149,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۴۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۴۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh543",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh543",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلبستگیی با دل بی کینه نداریم\r\nآن روز دل از ماست که در سینه نداریم\r\nای صافدلان عیب مرا فاش بگویید\r\nما روی دل امید ز آیینه نداریم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلبستگیی با دل بی کینه نداریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن روز دل از ماست که در سینه نداریم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای صافدلان عیب مرا فاش بگویید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما روی دل امید ز آیینه نداریم",
+      "CoupletIndex": 1
+    }
+  ]
+}

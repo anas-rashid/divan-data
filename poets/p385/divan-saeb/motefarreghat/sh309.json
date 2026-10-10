@@ -1,0 +1,45 @@
+{
+  "Id": 26915,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۰۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر خواهی سر مویی نپیچد سر ز فرمانت\r\nبه خاموشی زبانی چون زبان شانه می باید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر خواهی سر مویی نپیچد سر ز فرمانت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به خاموشی زبانی چون زبان شانه می باید",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18239,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۰۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۰۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh708",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh708",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دامن صحرا نبرد از چهره‌ام گرد ملال\r\nمی‌روم چون سیل، تا دریا به فریادم رسد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دامن صحرا نبرد از چهره‌ام گرد ملال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌روم چون سیل، تا دریا به فریادم رسد",
+      "CoupletIndex": 0
+    }
+  ]
+}

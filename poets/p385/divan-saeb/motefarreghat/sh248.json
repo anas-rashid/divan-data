@@ -1,0 +1,57 @@
+{
+  "Id": 26854,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh248",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh248",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حق‌پرستانی که از عشق خدا دم می‌زنند\r\nگام اول پشت پا بر هر دو عالم می‌زنند\r\nمی‌کنند آنان که حق را بهر دنیا بندگی\r\nبوسه بر دست سلیمان بهر خاتم می‌زنند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حق‌پرستانی که از عشق خدا دم می‌زنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گام اول پشت پا بر هر دو عالم می‌زنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌کنند آنان که حق را بهر دنیا بندگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوسه بر دست سلیمان بهر خاتم می‌زنند",
+      "CoupletIndex": 1
+    }
+  ]
+}

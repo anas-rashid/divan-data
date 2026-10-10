@@ -1,0 +1,57 @@
+{
+  "Id": 30355,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۹۸",
+  "FullUrl": "/p389/robghm/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوروز رسید و باده ناب خوش است\r\nوز باده و گل، مجلس احباب خوش است\r\nگر یار موافقت کند موسم گل\r\nدر باغ، شراب و گشت مهتاب خوش است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوروز رسید و باده ناب خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز باده و گل، مجلس احباب خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر یار موافقت کند موسم گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در باغ، شراب و گشت مهتاب خوش است",
+      "CoupletIndex": 1
+    }
+  ]
+}

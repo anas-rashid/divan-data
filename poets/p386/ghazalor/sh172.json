@@ -1,0 +1,93 @@
+{
+  "Id": 27580,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۷۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۷۲",
+  "FullUrl": "/p386/ghazalor/sh172",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh172",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خم بجوش آمد، بگو چون توبه اکنون بشکند\r\nتوبه ای کز بی شرابی کرده ام چون بشکند\r\nدر چمن هرگز نکرد آن سرو قامت جلوه ای\r\nکز خجالت باغبان صد نحل موزون بشکند\r\nبر دهانش زن گر آرد نام همت بر زبان\r\nتشنه ای کو جام جم بر فرق جیحون بشکند\r\nگر دهم جامی به عشاق از خراب شوق دوست\r\nبوی لیلی گر بیاید رنگ مجنون بشکند\r\nدر بیان شعر عرفی وقت آن خوش گر فتد\r\nلفظ را بر لب بپیچد، شأن مضمون بشکند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خم بجوش آمد، بگو چون توبه اکنون بشکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "توبه ای کز بی شرابی کرده ام چون بشکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در چمن هرگز نکرد آن سرو قامت جلوه ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خجالت باغبان صد نحل موزون بشکند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر دهانش زن گر آرد نام همت بر زبان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تشنه ای کو جام جم بر فرق جیحون بشکند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر دهم جامی به عشاق از خراب شوق دوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بوی لیلی گر بیاید رنگ مجنون بشکند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در بیان شعر عرفی وقت آن خوش گر فتد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لفظ را بر لب بپیچد، شأن مضمون بشکند",
+      "CoupletIndex": 4
+    }
+  ]
+}

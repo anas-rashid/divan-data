@@ -1,0 +1,57 @@
+{
+  "Id": 30690,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۳۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۳۳",
+  "FullUrl": "/p389/robghm/sh433",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh433",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در سینه تنگ من وطن ساخت غمش\r\nدر ملک دلم علم برافراخت غمش\r\nبر همچو منی، رخشِ جفا تاخت غمش\r\nافسوس که قدر خویش نشناخت غمش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سینه تنگ من وطن ساخت غمش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در ملک دلم علم برافراخت غمش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر همچو منی، رخشِ جفا تاخت غمش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افسوس که قدر خویش نشناخت غمش",
+      "CoupletIndex": 1
+    }
+  ]
+}

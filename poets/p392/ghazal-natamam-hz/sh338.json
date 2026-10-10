@@ -1,0 +1,69 @@
+{
+  "Id": 34997,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۳۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۳۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh338",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh338",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می رود صید دلم، سخت کمانی در پی\r\nنیم جانی به لب و آفت جانی در پی\r\nاین چه آیین خرام است نگارا که تو راست؟\r\nسرگران می گذری، دل نگرانی در پی\r\nیا رب از چشم بد خلق گزندت مرساد\r\nچشم من، می روی و چشم جهانی در پی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می رود صید دلم، سخت کمانی در پی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیم جانی به لب و آفت جانی در پی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این چه آیین خرام است نگارا که تو راست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگران می گذری، دل نگرانی در پی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یا رب از چشم بد خلق گزندت مرساد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم من، می روی و چشم جهانی در پی",
+      "CoupletIndex": 2
+    }
+  ]
+}

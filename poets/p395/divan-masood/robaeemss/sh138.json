@@ -1,0 +1,57 @@
+{
+  "Id": 37652,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۳۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۳۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh138",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh138",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رویی که چو او چرخ فلک ننگارد\r\nقدی که چو او زمانه بیرون نارد\r\nبا این همه داد سخت اندک دارد\r\nخوی گردد اگر چشم برین بگذارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رویی که چو او چرخ فلک ننگارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قدی که چو او زمانه بیرون نارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با این همه داد سخت اندک دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوی گردد اگر چشم برین بگذارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

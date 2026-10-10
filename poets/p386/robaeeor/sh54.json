@@ -1,0 +1,57 @@
+{
+  "Id": 28097,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵۴",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵۴",
+  "FullUrl": "/p386/robaeeor/sh54",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh54",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس که سرش نه در گریبان فناست\r\nتا گردنش از فرق همه زخم جفاست\r\nزآنروی که تا فوق گریبان عدم \r\nآمد شد سیل غم و سنگ بلاست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس که سرش نه در گریبان فناست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا گردنش از فرق همه زخم جفاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زآنروی که تا فوق گریبان عدم ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آمد شد سیل غم و سنگ بلاست",
+      "CoupletIndex": 1
+    }
+  ]
+}

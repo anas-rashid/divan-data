@@ -1,0 +1,54 @@
+{
+  "Id": 32882,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۹۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۹۰",
+  "FullUrl": "/p391/divan/ghazal/sh790",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh790",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میستاند باج از صرصر نگاه تند خلق\r\nحسن را در پرده بر چون در ته دامن خلق\r\nدر لحد جویا چراغم روشن از مهر علی است\r\nگو نباشد بر سر خاکم پس از مردن خلق",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میستاند باج از صرصر نگاه تند خلق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حسن را در پرده بر چون در ته دامن خلق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در لحد جویا چراغم روشن از مهر علی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گو نباشد بر سر خاکم پس از مردن خلق",
+      "CoupletIndex": 1
+    }
+  ]
+}

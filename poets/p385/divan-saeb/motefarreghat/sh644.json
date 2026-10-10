@@ -1,0 +1,45 @@
+{
+  "Id": 27250,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۴۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۴۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh644",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh644",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با خموشی هستی از نیکان عالم بی سخن\r\nچون گشودی لب به گفتن، نیک یا بد می شوی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با خموشی هستی از نیکان عالم بی سخن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گشودی لب به گفتن، نیک یا بد می شوی",
+      "CoupletIndex": 0
+    }
+  ]
+}

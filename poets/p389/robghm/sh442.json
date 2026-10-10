@@ -1,0 +1,57 @@
+{
+  "Id": 30699,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۴۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۴۲",
+  "FullUrl": "/p389/robghm/sh442",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh442",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست از بن هر موی، مرا بر تن خویش\r\nدشمن‌کده‌ای به زیر پیراهن خویش\r\nبستم کمر دشمنی خود به میان\r\nبازم سر دوستی‌ست با دشمن خویش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست از بن هر موی، مرا بر تن خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دشمن‌کده‌ای به زیر پیراهن خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بستم کمر دشمنی خود به میان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بازم سر دوستی‌ست با دشمن خویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

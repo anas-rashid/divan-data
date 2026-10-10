@@ -1,0 +1,57 @@
+{
+  "Id": 28887,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۱۷",
+  "FullUrl": "/p387/divan/robaee/sh17",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh17",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواری از دهر دانش اندوخته دید\r\nاز بی ادبان جور ادب آموخته دید\r\nبا تیره دلان زمانه را کاری نیست\r\nآفت از باد شمع افروخته دید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواری از دهر دانش اندوخته دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از بی ادبان جور ادب آموخته دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با تیره دلان زمانه را کاری نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آفت از باد شمع افروخته دید",
+      "CoupletIndex": 1
+    }
+  ]
+}

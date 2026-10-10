@@ -1,0 +1,54 @@
+{
+  "Id": 36610,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۳۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۳۰",
+  "FullUrl": "/p393/ghete/sh130",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh130",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل به گوشش چه سخن می‌گوید\r\nحال چشم تر من می‌گوید\r\nگل زبان گشته همه تن گویا\r\nوصف آن غنچه‌دهن می‌گوید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل به گوشش چه سخن می‌گوید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حال چشم تر من می‌گوید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل زبان گشته همه تن گویا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وصف آن غنچه‌دهن می‌گوید",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26525,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۳۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۳۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh437",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh437",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزگاری شد دل افسرده دارم در بغل\r\nجای دل چون لاله خون مرده دارم در بغل",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزگاری شد دل افسرده دارم در بغل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جای دل چون لاله خون مرده دارم در بغل",
+      "CoupletIndex": 0
+    }
+  ]
+}

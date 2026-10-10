@@ -1,0 +1,93 @@
+{
+  "Id": 34010,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۸۳",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۸۳",
+  "FullUrl": "/p392/ghazal-hz/sh583",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh583",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سالک، ز سراغ ره مقصود خمش باش\r\nهر سنگ نشان، سنگ ره توست بهش باش\r\nبا ساقی قسمت نتوان عربده انگیخت\r\nچون گل همه دم، کاسهٔ خون می کش و خوش باش\r\nبر بند زبان، گوش سخندان چو نیابی\r\nجایی که خرد پرده شنو نیست، خمش باش\r\nدر عهد تو خونی که بریزد، دیتش نیست\r\nمجنون شده عشق تو گو عاقله کش باش\r\nمی نوش حزین وشکرین نکته فروربز\r\nگو سرکه جبین زاهد، ازین شیوه ترش باش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سالک، ز سراغ ره مقصود خمش باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر سنگ نشان، سنگ ره توست بهش باش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با ساقی قسمت نتوان عربده انگیخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون گل همه دم، کاسهٔ خون می کش و خوش باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر بند زبان، گوش سخندان چو نیابی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جایی که خرد پرده شنو نیست، خمش باش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در عهد تو خونی که بریزد، دیتش نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مجنون شده عشق تو گو عاقله کش باش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می نوش حزین وشکرین نکته فروربز",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گو سرکه جبین زاهد، ازین شیوه ترش باش",
+      "CoupletIndex": 4
+    }
+  ]
+}

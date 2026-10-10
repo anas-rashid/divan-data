@@ -1,0 +1,69 @@
+{
+  "Id": 26811,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ کس بی گوشمال روزگار آدم نشد\r\nغوطه تا در خون نزد شمشیر صاحب دم نشد\r\nنیست گوهر را به از گرد یتیمی کسوتی\r\nاز غبار خط صفای چهره او کم نشد\r\nاز شکست خویش بالاتر نباشد هیچ فتح\r\nنیست استاد آن که از شاگرد خود ملزم نشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ کس بی گوشمال روزگار آدم نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غوطه تا در خون نزد شمشیر صاحب دم نشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست گوهر را به از گرد یتیمی کسوتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از غبار خط صفای چهره او کم نشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از شکست خویش بالاتر نباشد هیچ فتح",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نیست استاد آن که از شاگرد خود ملزم نشد",
+      "CoupletIndex": 2
+    }
+  ]
+}

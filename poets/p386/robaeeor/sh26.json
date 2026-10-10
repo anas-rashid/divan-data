@@ -1,0 +1,57 @@
+{
+  "Id": 28069,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۲۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲۶",
+  "FullUrl": "/p386/robaeeor/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی سر صفهٔ مغان مسند ماست\r\nتعظیم گه دیر مغان معبد ماست\r\nهر گام به تیغی سر تسلیم نهیم\r\nسر تا سر کوی دوستی مشهد ماست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی سر صفهٔ مغان مسند ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تعظیم گه دیر مغان معبد ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گام به تیغی سر تسلیم نهیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر تا سر کوی دوستی مشهد ماست",
+      "CoupletIndex": 1
+    }
+  ]
+}

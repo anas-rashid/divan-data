@@ -1,0 +1,57 @@
+{
+  "Id": 30605,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۴۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۴۸",
+  "FullUrl": "/p389/robghm/sh348",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh348",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آن که هوس طبع تو را سود دهد\r\nنابود تو را ساختگی بود دهد\r\nسوزی نبود آه به تقلید تو را\r\nمیرد چو چراغ، اندکی دود دهد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آن که هوس طبع تو را سود دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نابود تو را ساختگی بود دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سوزی نبود آه به تقلید تو را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میرد چو چراغ، اندکی دود دهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

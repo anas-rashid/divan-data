@@ -1,0 +1,54 @@
+{
+  "Id": 36583,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۰۳",
+  "FullUrl": "/p393/ghete/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در گلشن کویش که صبا راه ندارد\r\nغم نیست اگر نالهٔ ما راه ندارد\r\nما خود همگی مهر و فاییم ولیکن\r\nدر خاطر او مهر و وفا راه ندارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در گلشن کویش که صبا راه ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غم نیست اگر نالهٔ ما راه ندارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما خود همگی مهر و فاییم ولیکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خاطر او مهر و وفا راه ندارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

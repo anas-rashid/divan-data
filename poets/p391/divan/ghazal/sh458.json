@@ -1,0 +1,93 @@
+{
+  "Id": 32550,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۴۵۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۴۵۸",
+  "FullUrl": "/p391/divan/ghazal/sh458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز لب آهی که با لخت دل خونبار برخیزد\r\nچه طاوسی است رنگین جلوه کز گلزار برخیزد\r\nترا گر بر دل بیدرد ناخن می زند گاهی\r\nمرا پهلو درد هر نغمه ای کز تار برخیزد\r\nز بیدادش دلم چون غنچه گر لبریز خون باشد\r\nنوای شکوه حاشا کز لب اظهار برخیزد\r\nبه غیر از نوک مژگانم که لخت دل به بار آرد\r\nکجا از دستهٔ خاری گل بی خار برخیزد\r\nبه صد رنگینی آه جگر پاش از دل خونین\r\nنگه از دیده ام در حسرت دیدار برخیزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز لب آهی که با لخت دل خونبار برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه طاوسی است رنگین جلوه کز گلزار برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترا گر بر دل بیدرد ناخن می زند گاهی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا پهلو درد هر نغمه ای کز تار برخیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز بیدادش دلم چون غنچه گر لبریز خون باشد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نوای شکوه حاشا کز لب اظهار برخیزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به غیر از نوک مژگانم که لخت دل به بار آرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کجا از دستهٔ خاری گل بی خار برخیزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به صد رنگینی آه جگر پاش از دل خونین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نگه از دیده ام در حسرت دیدار برخیزد",
+      "CoupletIndex": 4
+    }
+  ]
+}

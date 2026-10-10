@@ -1,0 +1,69 @@
+{
+  "Id": 26776,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۷۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۷۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh170",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh170",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارد سری به کاکل او هر سری که هست\r\nدربند اوست هر دل غم پروری که هست\r\nدر حلقه اطاعت حق پایدار باش\r\nتا بر رخت گشاده شود هر دری که هست\r\nدنیا کند به دل سیهان میل بیشتر\r\nاز شش جهت به هند رود هر زری که هست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارد سری به کاکل او هر سری که هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دربند اوست هر دل غم پروری که هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در حلقه اطاعت حق پایدار باش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بر رخت گشاده شود هر دری که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دنیا کند به دل سیهان میل بیشتر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از شش جهت به هند رود هر زری که هست",
+      "CoupletIndex": 2
+    }
+  ]
+}

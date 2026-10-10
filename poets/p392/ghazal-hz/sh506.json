@@ -1,0 +1,93 @@
+{
+  "Id": 33933,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۰۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۰۶",
+  "FullUrl": "/p392/ghazal-hz/sh506",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh506",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زد آتش در دلم چون شمع، دیدار این چنین باید\r\nنگه در دیدهٔ تر سوخت، رخسار این چنین باید\r\nتپد دل در بر از طرز خرام تازه شمشادش\r\nغبارم را به شور آورده، رفتار این چنین باید\r\nخمارآلودهٔ منّت نیم از ساغر و مینا\r\nشرابم خون، دلم پیمانه، خمّار این چنین باید\r\nز شمع کلبه ام باشد شرر در سنگ روشن تر\r\nسیه روزان هجران را شب تار این چنین باید\r\nحزین از دامن پاک نفس، صیقل زدی دل را\r\nغبار از خاطر ما رفت، گفتار این چنین باید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زد آتش در دلم چون شمع، دیدار این چنین باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگه در دیدهٔ تر سوخت، رخسار این چنین باید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تپد دل در بر از طرز خرام تازه شمشادش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غبارم را به شور آورده، رفتار این چنین باید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خمارآلودهٔ منّت نیم از ساغر و مینا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شرابم خون، دلم پیمانه، خمّار این چنین باید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز شمع کلبه ام باشد شرر در سنگ روشن تر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیه روزان هجران را شب تار این چنین باید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین از دامن پاک نفس، صیقل زدی دل را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "غبار از خاطر ما رفت، گفتار این چنین باید",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30438,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۱",
+  "FullUrl": "/p389/robghm/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ننمود ز جیب آسمان، سینه صبح\r\nبشکست مگر کلید گنجینه صبح؟\r\nاز بس که گریست چشم قدسی، گویا\r\nزنگار گرفت امشب آیینه صبح",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ننمود ز جیب آسمان، سینه صبح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بشکست مگر کلید گنجینه صبح؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس که گریست چشم قدسی، گویا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنگار گرفت امشب آیینه صبح",
+      "CoupletIndex": 1
+    }
+  ]
+}

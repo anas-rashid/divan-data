@@ -1,0 +1,54 @@
+{
+  "Id": 37203,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/p393/robaee/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک لحظه ز افلاس دلم بی‌غم نیست\r\nبیگانه و آشنا ازین محرم نیست\r\nیا رب بخشای بر تهی‌دستی من\r\nاسباب ز کف رفت و توکل هم نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک لحظه ز افلاس دلم بی‌غم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیگانه و آشنا ازین محرم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا رب بخشای بر تهی‌دستی من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسباب ز کف رفت و توکل هم نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

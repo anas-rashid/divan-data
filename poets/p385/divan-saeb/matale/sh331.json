@@ -1,0 +1,42 @@
+{
+  "Id": 26419,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۳۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۳۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh331",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh331",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز سرکشی از آدم بی درد چه خیزد؟\r\nاز خاک فرومایه به جز گرد چه خیزد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز سرکشی از آدم بی درد چه خیزد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خاک فرومایه به جز گرد چه خیزد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

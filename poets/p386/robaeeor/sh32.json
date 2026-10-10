@@ -1,0 +1,57 @@
+{
+  "Id": 28075,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳۲",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳۲",
+  "FullUrl": "/p386/robaeeor/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق آمد و گوید رسولم نام است\r\nدر حسن به آسمان صدم پیغام است\r\nحکم است که دل و دین فروشید به درد\r\nوین سهل ترین جمله احکام است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آمد و گوید رسولم نام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در حسن به آسمان صدم پیغام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حکم است که دل و دین فروشید به درد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین سهل ترین جمله احکام است",
+      "CoupletIndex": 1
+    }
+  ]
+}

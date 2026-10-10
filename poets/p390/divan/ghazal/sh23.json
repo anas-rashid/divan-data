@@ -1,0 +1,93 @@
+{
+  "Id": 30990,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۳",
+  "FullUrl": "/p390/divan/ghazal/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی کشد به چمن، طبع پرغرور مرا\r\nشراب می کشد آنجا گهی به زور مرا\r\nبگیر خاتم جم می فروش از دستم\r\nشده ست یک دوسه پیمانه می ضرور مرا\r\nز حال مجلسیان باخبر نیم، اما\r\nکباب بی نمک است و شراب شور مرا\r\nچو دل بجاست، اگر سر رود چه غم دارم\r\nگل کدو بود این ساغر بلور مرا\r\nسلیم از اثر پرتو محبت اوست\r\nکه همچو صبح نفس دم زند ز نور مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی کشد به چمن، طبع پرغرور مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شراب می کشد آنجا گهی به زور مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بگیر خاتم جم می فروش از دستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شده ست یک دوسه پیمانه می ضرور مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز حال مجلسیان باخبر نیم، اما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کباب بی نمک است و شراب شور مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو دل بجاست، اگر سر رود چه غم دارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گل کدو بود این ساغر بلور مرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم از اثر پرتو محبت اوست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که همچو صبح نفس دم زند ز نور مرا",
+      "CoupletIndex": 4
+    }
+  ]
+}

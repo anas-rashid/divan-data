@@ -1,0 +1,54 @@
+{
+  "Id": 37285,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱۳",
+  "FullUrl": "/p393/robaee/sh113",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh113",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا گوش مرا داده غم او مالش\r\nدر گوشهٔ تنها منم و صد بالش\r\nاین شور که در سرم فکنده‌ای یارا\r\nفرصت ندهد که سر کنم بر بالش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا گوش مرا داده غم او مالش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در گوشهٔ تنها منم و صد بالش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این شور که در سرم فکنده‌ای یارا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرصت ندهد که سر کنم بر بالش",
+      "CoupletIndex": 1
+    }
+  ]
+}

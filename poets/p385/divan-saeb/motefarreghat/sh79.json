@@ -1,0 +1,57 @@
+{
+  "Id": 26685,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۷۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خمار خواب خوش یوسف به زندان آمده است\r\nبد نبیند هر که خواب او پریشان آمده است\r\nز آشنایانی که بر گرد تواند ایمن مباش\r\nبارها بر سنگ، پای من ز دامان آمده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خمار خواب خوش یوسف به زندان آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بد نبیند هر که خواب او پریشان آمده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آشنایانی که بر گرد تواند ایمن مباش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بارها بر سنگ، پای من ز دامان آمده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

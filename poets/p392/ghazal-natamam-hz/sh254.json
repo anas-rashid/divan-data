@@ -1,0 +1,57 @@
+{
+  "Id": 34913,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۵۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۵۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh254",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh254",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز پی بیگانه خویی را، به امّید وفا افتم\r\nبه دام صد بلا از یک نگاه آشنا افتم\r\nبود چون سایه در پای تو، هستی خاکساران را\r\nمباد آن روز کز سرو سرافزازت جدا افتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز پی بیگانه خویی را، به امّید وفا افتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دام صد بلا از یک نگاه آشنا افتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بود چون سایه در پای تو، هستی خاکساران را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مباد آن روز کز سرو سرافزازت جدا افتم",
+      "CoupletIndex": 1
+    }
+  ]
+}

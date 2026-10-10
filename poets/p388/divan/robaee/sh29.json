@@ -1,0 +1,57 @@
+{
+  "Id": 29636,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۲۹",
+  "FullUrl": "/p388/divan/robaee/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل خنده به غنچه کرد خندیدن داشت\r\nنالید به عندلیب نالیدن داشت\r\nچون در ته نخل گل کمر بگشادیم\r\nچیدیم گلی ز شاخ گل چیدن داشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل خنده به غنچه کرد خندیدن داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نالید به عندلیب نالیدن داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون در ته نخل گل کمر بگشادیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چیدیم گلی ز شاخ گل چیدن داشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

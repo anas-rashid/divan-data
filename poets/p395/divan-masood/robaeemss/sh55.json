@@ -1,0 +1,57 @@
+{
+  "Id": 37569,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۵۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم تو چو فتنه جهان سوزانست\r\nمژگانت چو نوک تیر دلدوزانست\r\nزلفینت به رنگ روز بر روزانست\r\nعذر تو چو توبه بدآموزانست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم تو چو فتنه جهان سوزانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگانت چو نوک تیر دلدوزانست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلفینت به رنگ روز بر روزانست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عذر تو چو توبه بدآموزانست",
+      "CoupletIndex": 1
+    }
+  ]
+}

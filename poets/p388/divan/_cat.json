@@ -1,0 +1,43 @@
+{
+  "Id": 1076,
+  "PoetId": 388,
+  "ParentId": 1075,
+  "Title": "دیوان اشعار",
+  "FullUrl": "/p388/divan",
+  "Description": null,
+  "DescriptionHtml": null,
+  "BookName": null,
+  "ChildCats": [
+    {
+      "Id": 1077,
+      "Title": "غزلیات",
+      "FullUrl": "/p388/divan/ghazal"
+    },
+    {
+      "Id": 1078,
+      "Title": "قصاید",
+      "FullUrl": "/p388/divan/ghaside"
+    },
+    {
+      "Id": 1079,
+      "Title": "قطعات",
+      "FullUrl": "/p388/divan/ghete"
+    },
+    {
+      "Id": 1080,
+      "Title": "ترکیبات",
+      "FullUrl": "/p388/divan/tarkib"
+    },
+    {
+      "Id": 1081,
+      "Title": "ترجیعات",
+      "FullUrl": "/p388/divan/tarjee"
+    },
+    {
+      "Id": 1082,
+      "Title": "رباعیات",
+      "FullUrl": "/p388/divan/robaee"
+    }
+  ],
+  "Poems": []
+}

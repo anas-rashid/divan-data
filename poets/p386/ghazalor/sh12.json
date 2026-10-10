@@ -1,0 +1,93 @@
+{
+  "Id": 27420,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۲",
+  "FullUrl": "/p386/ghazalor/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشق کو تا در بیابان جنون آرد مرا\r\nتشنه سازد، بر لب دریای خون آرد مرا\r\nدر می طامات خوش لایعلقم، مطرب کجاست\r\nتا به هوش از نغمه های ارغنون آرد مرا\r\nدر بهشتم کن خدایا تا نمانم شرمسار\r\nتا که از شرم گنه دوزخ برون آرد مرا\r\nمی رود اندیشه ام در کعبه از دیر مغان\r\nمی برد باری نمی دانم که چون آرد مرا\r\nگر بنالم عرفی از عقل و خرد معذور دار\r\nمن به این وادی نه خود آیم، جنون آرد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق کو تا در بیابان جنون آرد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تشنه سازد، بر لب دریای خون آرد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در می طامات خوش لایعلقم، مطرب کجاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا به هوش از نغمه های ارغنون آرد مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در بهشتم کن خدایا تا نمانم شرمسار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا که از شرم گنه دوزخ برون آرد مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "می رود اندیشه ام در کعبه از دیر مغان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "می برد باری نمی دانم که چون آرد مرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر بنالم عرفی از عقل و خرد معذور دار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "من به این وادی نه خود آیم، جنون آرد مرا",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26275,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۸۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۸۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تازه رو زخم کهن از زخم های تازه شد\r\nغنچه را خمیازه گل باعث خمیازه شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تازه رو زخم کهن از زخم های تازه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه را خمیازه گل باعث خمیازه شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

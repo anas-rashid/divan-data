@@ -1,0 +1,45 @@
+{
+  "Id": 18704,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۷۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۷۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1173",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1173",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من که نتوانم گلیم خود برآوردن ز آب\r\nدیگری را از رفیقان دستگیری چون کنم؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من که نتوانم گلیم خود برآوردن ز آب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیگری را از رفیقان دستگیری چون کنم؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

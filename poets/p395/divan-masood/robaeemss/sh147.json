@@ -1,0 +1,57 @@
+{
+  "Id": 37661,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۴۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh147",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh147",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق تو جانم انده ناب خورد\r\nوز دیده من فراق تو خواب خورد\r\nچون ز آتش هجر تو دلم تاب خورد\r\nغمهات چنان خورد که یک آب خورد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق تو جانم انده ناب خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دیده من فراق تو خواب خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون ز آتش هجر تو دلم تاب خورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غمهات چنان خورد که یک آب خورد",
+      "CoupletIndex": 1
+    }
+  ]
+}

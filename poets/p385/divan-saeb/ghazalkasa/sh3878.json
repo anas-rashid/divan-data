@@ -1,0 +1,93 @@
+{
+  "Id": 22951,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۸۷۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۸۷۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3878",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3878",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه هر سخن نشناسی سخنوری داند\r\nنه هر سیاه دلی کیمیاگری داند\r\nعیار آبله دست را که می داند\r\nنه قیمت گهرست این که جوهری داند\r\nدرین بساط نشیند درست نقش کسی\r\nکه بوریا را دیبای ششتری داند\r\nنماز زاهد خودبین کجا رسد جایی\r\nکه چرخ سجده خود را سکندری داند\r\nکمال حافظ شیراز را ز صائب پرس\r\nکه قدر گوهر شهوار جوهری داند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه هر سخن نشناسی سخنوری داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه هر سیاه دلی کیمیاگری داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیار آبله دست را که می داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه قیمت گهرست این که جوهری داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درین بساط نشیند درست نقش کسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که بوریا را دیبای ششتری داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نماز زاهد خودبین کجا رسد جایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که چرخ سجده خود را سکندری داند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کمال حافظ شیراز را ز صائب پرس",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که قدر گوهر شهوار جوهری داند",
+      "CoupletIndex": 4
+    }
+  ]
+}

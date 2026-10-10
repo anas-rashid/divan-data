@@ -1,0 +1,105 @@
+{
+  "Id": 31814,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۴۷",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۴۷",
+  "FullUrl": "/p390/divan/ghazal/sh847",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh847",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گه مستم و گاه در خمارم\r\nاین است تمام عمر کارم\r\nاز پاره ی دل، سرشک چون گل\r\nآیینه شکسته در کنارم\r\nچندم ببرد به سیر گلشن؟\r\nاز روی نسیم، شرمسارم\r\nاز عالم خاک، پای عنقا\r\nببریده ز تیغ کوهسارم\r\nپیچیده ام آنچنان که افتند\r\nمرغان به قفس ز شاخسارم\r\nبی آن گل رو، سلیم بگذشت\r\nافسرده تر از خزان، بهارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه مستم و گاه در خمارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این است تمام عمر کارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از پاره ی دل، سرشک چون گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه شکسته در کنارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چندم ببرد به سیر گلشن؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از روی نسیم، شرمسارم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از عالم خاک، پای عنقا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ببریده ز تیغ کوهسارم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پیچیده ام آنچنان که افتند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مرغان به قفس ز شاخسارم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بی آن گل رو، سلیم بگذشت",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "افسرده تر از خزان، بهارم",
+      "CoupletIndex": 5
+    }
+  ]
+}

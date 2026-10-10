@@ -1,0 +1,54 @@
+{
+  "Id": 37282,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/p393/robaee/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آمد سحری از درم آن بنده‌نواز\r\nشد گرم هم معرکه راز و نیاز\r\nکوتاهی کرد روز وصلش ای کاش\r\nمانند شب فراق می‌بود دراز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آمد سحری از درم آن بنده‌نواز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد گرم هم معرکه راز و نیاز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوتاهی کرد روز وصلش ای کاش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مانند شب فراق می‌بود دراز",
+      "CoupletIndex": 1
+    }
+  ]
+}

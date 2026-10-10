@@ -1,0 +1,81 @@
+{
+  "Id": 19503,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۳۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۳۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh430",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh430",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه پروا از عتاب و ناز عشاق بلاجو را\r\nکه عاشق مد احسان می شمارد چین ابرو را\r\nبه شرم آشنایی برنمی آید نگاه من\r\nز من بیگانه کن ای ناز تا ممکن بود او را\r\nهمان زهر شکایت از لبم در وصل می ریزد\r\nشکر شیرین نمی سازد مذاق طفل بدخو را\r\nندارد داغ عشق گلعذاران حاصلی صائب\r\nبرون ریز از بغل زنهار این گلهای بی بو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه پروا از عتاب و ناز عشاق بلاجو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که عاشق مد احسان می شمارد چین ابرو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به شرم آشنایی برنمی آید نگاه من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز من بیگانه کن ای ناز تا ممکن بود او را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همان زهر شکایت از لبم در وصل می ریزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شکر شیرین نمی سازد مذاق طفل بدخو را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ندارد داغ عشق گلعذاران حاصلی صائب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "برون ریز از بغل زنهار این گلهای بی بو را",
+      "CoupletIndex": 3
+    }
+  ]
+}

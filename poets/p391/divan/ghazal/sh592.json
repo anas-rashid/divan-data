@@ -1,0 +1,66 @@
+{
+  "Id": 32684,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۹۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۲",
+  "FullUrl": "/p391/divan/ghazal/sh592",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh592",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد رخسار تو تا در جیب دل گلها فشاند\r\nچشم خونین تخم حسرت در کنار ما فشاند\r\nروشن است از هر پر پروانه بزم نیستی\r\nشمع آسا آستین بر هستی خود تا فشاند\r\nآب گوهر چون سویدا قیرگون آید به چشم\r\nتا غبار خاطرم را اشک بر دریا فشاند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد رخسار تو تا در جیب دل گلها فشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم خونین تخم حسرت در کنار ما فشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روشن است از هر پر پروانه بزم نیستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمع آسا آستین بر هستی خود تا فشاند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آب گوهر چون سویدا قیرگون آید به چشم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا غبار خاطرم را اشک بر دریا فشاند",
+      "CoupletIndex": 2
+    }
+  ]
+}

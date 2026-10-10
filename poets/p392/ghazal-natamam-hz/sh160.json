@@ -1,0 +1,54 @@
+{
+  "Id": 34819,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۶۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پریشان سنبلش، دیباچهٔ احوال من باشد\r\nشب هجران او، چون سایه در دنبال من باشد\r\nشفاعت سنجی طاعات، خواهد کرد در محشر\r\nگناه عشق اگر در نامهٔ اعمال من باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریشان سنبلش، دیباچهٔ احوال من باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب هجران او، چون سایه در دنبال من باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شفاعت سنجی طاعات، خواهد کرد در محشر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گناه عشق اگر در نامهٔ اعمال من باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

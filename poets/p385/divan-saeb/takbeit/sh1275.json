@@ -1,0 +1,45 @@
+{
+  "Id": 18806,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۷۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۷۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1275",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1275",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طاعت ما نیست غیر از شستن دست از جهان\r\nگر نماز از ما نمی‌آید، وضویی می‌کنیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طاعت ما نیست غیر از شستن دست از جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر نماز از ما نمی‌آید، وضویی می‌کنیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

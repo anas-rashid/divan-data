@@ -1,0 +1,42 @@
+{
+  "Id": 26541,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۵۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۵۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh453",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh453",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما نه امروز ز گلگشت چمن سیر شدیم\r\nغنچه بودیم درین باغ که دلگیر شدیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما نه امروز ز گلگشت چمن سیر شدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه بودیم درین باغ که دلگیر شدیم",
+      "CoupletIndex": 0
+    }
+  ]
+}

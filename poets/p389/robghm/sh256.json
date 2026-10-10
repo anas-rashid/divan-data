@@ -1,0 +1,57 @@
+{
+  "Id": 30513,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۵۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۵۶",
+  "FullUrl": "/p389/robghm/sh256",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh256",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که به حق چراغ افروخته شد\r\nتشریف بقا به قامتش دوخته شد\r\nبر کرد به خود، هرکه به تقلید افتاد\r\nچون شمع که از ساختگی سوخته شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که به حق چراغ افروخته شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تشریف بقا به قامتش دوخته شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر کرد به خود، هرکه به تقلید افتاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شمع که از ساختگی سوخته شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 30201,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۵۳",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۵۳",
+  "FullUrl": "/p389/ghazalgm/sh453",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh453",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنان افتاده‌ام از کار، بهر لاله رخساری\r\nکه غیر از دیدن رویش نمی‌آید ز من کاری\r\nفضای سینه را چندان که می‌جویم، نمی‌یابم\r\nز یاران به دل نزدیک، غیر از ناوکش یاری\r\nنگاهی داشت هر سو گرم، ساقی دوش در مجلس\r\nنمی‌دانم که آتش در که زد، من سوختم باری\r\nز زلف یار نتوانم بریدن دل به آسانی\r\nکه بر وی عمرها شد بسته دارم دل به هر تاری\r\nز شیخ و برهمن ناید طریق عشق ورزیدن\r\nیکی مشغول تسبیحی، یکی در بند زناّری",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنان افتاده‌ام از کار، بهر لاله رخساری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که غیر از دیدن رویش نمی‌آید ز من کاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فضای سینه را چندان که می‌جویم، نمی‌یابم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز یاران به دل نزدیک، غیر از ناوکش یاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نگاهی داشت هر سو گرم، ساقی دوش در مجلس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نمی‌دانم که آتش در که زد، من سوختم باری",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز زلف یار نتوانم بریدن دل به آسانی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بر وی عمرها شد بسته دارم دل به هر تاری",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز شیخ و برهمن ناید طریق عشق ورزیدن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یکی مشغول تسبیحی، یکی در بند زناّری",
+      "CoupletIndex": 4
+    }
+  ]
+}

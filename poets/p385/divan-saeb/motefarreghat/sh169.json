@@ -1,0 +1,57 @@
+{
+  "Id": 26775,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۶۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آتش ز شرم خوی تو تا سر کشیده است\r\nخود را به زیر بال سمندر کشیده است\r\nخودبین مباش تا به حیات ابد رسی\r\nآیینه سد به راه سکندر کشیده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش ز شرم خوی تو تا سر کشیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را به زیر بال سمندر کشیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خودبین مباش تا به حیات ابد رسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه سد به راه سکندر کشیده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

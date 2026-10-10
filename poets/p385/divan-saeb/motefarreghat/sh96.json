@@ -1,0 +1,57 @@
+{
+  "Id": 26702,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تار و پود فلک از ناله پیچیده ماست\r\nپیله اطلس گردون دل غم دیده ماست\r\nنظر همت ما وسعت دیگر دارد\r\nآسمان مردمک چشم جهان دیده ماست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تار و پود فلک از ناله پیچیده ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیله اطلس گردون دل غم دیده ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نظر همت ما وسعت دیگر دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آسمان مردمک چشم جهان دیده ماست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37750,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۳۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۳۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh236",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh236",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همچون قلمم ز بیخ کندی به ستم\r\nکردیم نوان و لاغر و زرد و دژم\r\nوانگاه فرو بردیم ای شهره صنم\r\nدر آب سیاه و گل تیره چو قلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همچون قلمم ز بیخ کندی به ستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کردیم نوان و لاغر و زرد و دژم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وانگاه فرو بردیم ای شهره صنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آب سیاه و گل تیره چو قلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

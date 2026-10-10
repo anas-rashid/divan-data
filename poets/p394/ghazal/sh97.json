@@ -1,0 +1,42 @@
+{
+  "Id": 37482,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۹۷",
+  "FullUrl": "/p394/ghazal/sh97",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh97",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیرو ما شو که همچون خامه در راه سخن\r\nپی به معنی می توان بردن ز نقش پای ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیرو ما شو که همچون خامه در راه سخن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پی به معنی می توان بردن ز نقش پای ما",
+      "CoupletIndex": 0
+    }
+  ]
+}

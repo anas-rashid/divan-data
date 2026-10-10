@@ -1,0 +1,93 @@
+{
+  "Id": 23477,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۴۰۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۴۰۴",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4404",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4404",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعی که دراندیشه آن چشم خمارند\r\nدر پرده دل شب همه شب باده گسارند\r\nهر چند که در پرده شرمندنکویان\r\nچون باز نظر دوخته در فکر شکارند\r\nلاغر کن دلها ز سرینهای گرانسنگ\r\nفربه کن غمها ز میانهای نزارند\r\nدر ریختن دل همه چون باد خزانند\r\nدر پرورش جان همه چون ابر بهارند\r\nیارب نرسد گرد غمی بر دل ایشان\r\nهر چند غم صائب بیچاره ندارند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعی که دراندیشه آن چشم خمارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در پرده دل شب همه شب باده گسارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر چند که در پرده شرمندنکویان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون باز نظر دوخته در فکر شکارند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "لاغر کن دلها ز سرینهای گرانسنگ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فربه کن غمها ز میانهای نزارند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در ریختن دل همه چون باد خزانند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در پرورش جان همه چون ابر بهارند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یارب نرسد گرد غمی بر دل ایشان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر چند غم صائب بیچاره ندارند",
+      "CoupletIndex": 4
+    }
+  ]
+}

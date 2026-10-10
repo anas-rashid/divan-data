@@ -1,0 +1,45 @@
+{
+  "Id": 18616,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۸۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۸۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1085",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1085",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نگردید از سفیدیهای مو آیینه‌ام روشن\r\nزهی غفلت که در صبح قیامت می‌برد خوابم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگردید از سفیدیهای مو آیینه‌ام روشن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهی غفلت که در صبح قیامت می‌برد خوابم",
+      "CoupletIndex": 0
+    }
+  ]
+}

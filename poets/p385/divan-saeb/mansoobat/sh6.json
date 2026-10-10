@@ -1,0 +1,42 @@
+{
+  "Id": 27342,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۶",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۶",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فزود تیرگی خاطر از ایاغ مرا\r\nبنفشه گل کند از لاله چراغ مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فزود تیرگی خاطر از ایاغ مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنفشه گل کند از لاله چراغ مرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

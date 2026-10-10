@@ -1,0 +1,57 @@
+{
+  "Id": 26882,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh276",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh276",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(جنون از نشئه هشیاری من ننگ می‌گیرد\r\nز نور توبه‌ام آیینه دل زنگ می‌گیرد)\r\n(هلال عید در قلب شفق دانی چه را ماند؟\r\nچو شمشیری که از خون شهیدان رنگ می‌گیرد)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(جنون از نشئه هشیاری من ننگ می‌گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز نور توبه‌ام آیینه دل زنگ می‌گیرد)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(هلال عید در قلب شفق دانی چه را ماند؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو شمشیری که از خون شهیدان رنگ می‌گیرد)",
+      "CoupletIndex": 1
+    }
+  ]
+}

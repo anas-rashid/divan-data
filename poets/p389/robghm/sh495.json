@@ -1,0 +1,57 @@
+{
+  "Id": 30752,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹۵",
+  "FullUrl": "/p389/robghm/sh495",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh495",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر روز، سرشک چشم طوفان‌زایم\r\nبندد به سلاسل تموّج، پایم\r\nهمچون نی نودمیده، ایام نهد\r\nبندی هر روز تازه بر اعضایم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر روز، سرشک چشم طوفان‌زایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بندد به سلاسل تموّج، پایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همچون نی نودمیده، ایام نهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بندی هر روز تازه بر اعضایم",
+      "CoupletIndex": 1
+    }
+  ]
+}

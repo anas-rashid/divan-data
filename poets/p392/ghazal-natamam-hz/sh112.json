@@ -1,0 +1,54 @@
+{
+  "Id": 34771,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیوانه، عاقلانه به هامون گریخته ست\r\nیعنی ز بیم خلق، به گردون گریخته ست\r\nصیدی که بوی خون شنود، رام کی شود؟\r\nخوبم ز دام دیدهٔ پرخون گریخته ست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیوانه، عاقلانه به هامون گریخته ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یعنی ز بیم خلق، به گردون گریخته ست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صیدی که بوی خون شنود، رام کی شود؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوبم ز دام دیدهٔ پرخون گریخته ست",
+      "CoupletIndex": 1
+    }
+  ]
+}

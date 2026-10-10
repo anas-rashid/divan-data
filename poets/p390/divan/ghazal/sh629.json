@@ -1,0 +1,93 @@
+{
+  "Id": 31596,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۲۹",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۲۹",
+  "FullUrl": "/p390/divan/ghazal/sh629",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh629",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قلم دگر به زبان حرف آشنا دارد\r\nگلی به فرق خود از نعت مصطفی دارد\r\nگلی در آب گرفته ست خامه کز رنگش\r\nگمان بری که مگر پای در حنا دارد\r\nدر دهان بجز از حرف نعت او بستم\r\nدرین قفس همه صیاد ما هما دارد\r\nسخن ز کوتهی خود به وصفش از نقطه\r\nسر بریده ی خود را به زیر پا دارد\r\nز آسمان بطلب یارسول، کین سلیم\r\nکه دانه شکوه ای از دور آسیا دارد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قلم دگر به زبان حرف آشنا دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلی به فرق خود از نعت مصطفی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گلی در آب گرفته ست خامه کز رنگش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گمان بری که مگر پای در حنا دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در دهان بجز از حرف نعت او بستم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "درین قفس همه صیاد ما هما دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سخن ز کوتهی خود به وصفش از نقطه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سر بریده ی خود را به زیر پا دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز آسمان بطلب یارسول، کین سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که دانه شکوه ای از دور آسیا دارد",
+      "CoupletIndex": 4
+    }
+  ]
+}

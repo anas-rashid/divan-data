@@ -1,0 +1,57 @@
+{
+  "Id": 34556,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۶۱",
+  "FullUrl": "/p392/robaee-hz/sh161",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh161",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای سوخته جان سپند، یاد تو به خیر\r\nوی دردکش نژند، یاد تو به خیر\r\nآوارهٔ کیستی؟ کجایی؟ چونی؟\r\nآه ای دل مستمند، یاد تو به خیر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای سوخته جان سپند، یاد تو به خیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی دردکش نژند، یاد تو به خیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آوارهٔ کیستی؟ کجایی؟ چونی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آه ای دل مستمند، یاد تو به خیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

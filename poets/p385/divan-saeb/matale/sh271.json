@@ -1,0 +1,42 @@
+{
+  "Id": 26359,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۷۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۷۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh271",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh271",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز ماه نوگشاد عقده دلها نمی آید\r\nگره وا کردن از یک ناخن تنها نمی آید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز ماه نوگشاد عقده دلها نمی آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گره وا کردن از یک ناخن تنها نمی آید",
+      "CoupletIndex": 0
+    }
+  ]
+}

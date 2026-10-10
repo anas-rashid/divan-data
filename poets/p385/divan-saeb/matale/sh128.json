@@ -1,0 +1,42 @@
+{
+  "Id": 26216,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh128",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh128",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیر را قامت خم سوی عدم راهبرست\r\nاین کمانی است که از تیر سبکسیرترست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیر را قامت خم سوی عدم راهبرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کمانی است که از تیر سبکسیرترست",
+      "CoupletIndex": 0
+    }
+  ]
+}

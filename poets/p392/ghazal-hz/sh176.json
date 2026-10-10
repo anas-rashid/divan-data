@@ -1,0 +1,93 @@
+{
+  "Id": 33603,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۷۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۷۶",
+  "FullUrl": "/p392/ghazal-hz/sh176",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh176",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالم تمام از رخ جانانه روشن است\r\nاز یک چراغ، کعبه و بتخانه روشن است\r\nچون آفتاب، نور می آفاق را گرفت\r\nگر کور نیستی ره میخانه روشن است\r\nدارد رواق چشم ز خون دلم چراغ\r\nتا باده هست، دیدهٔ پیمانه روشن است\r\nامروز نیست بادهٔ دوشینه ات نهان\r\nبر عالمی ز دیدن مستانه روشن است\r\nاز شمع آفتاب مثال سخن حزین\r\nکلک سیاه روز تو را، خانه روشن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم تمام از رخ جانانه روشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از یک چراغ، کعبه و بتخانه روشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون آفتاب، نور می آفاق را گرفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر کور نیستی ره میخانه روشن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دارد رواق چشم ز خون دلم چراغ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا باده هست، دیدهٔ پیمانه روشن است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "امروز نیست بادهٔ دوشینه ات نهان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر عالمی ز دیدن مستانه روشن است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از شمع آفتاب مثال سخن حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کلک سیاه روز تو را، خانه روشن است",
+      "CoupletIndex": 4
+    }
+  ]
+}

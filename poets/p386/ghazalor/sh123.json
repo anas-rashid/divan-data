@@ -1,0 +1,105 @@
+{
+  "Id": 27531,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۲۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۲۳",
+  "FullUrl": "/p386/ghazalor/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با مهر و با محبت و با آرزوی دوست\r\nبا ما کسی چه گونه توان جست و جوی دوست\r\nبر سنگ زد پیاله ی خضر آن که نوش کرد\r\nخونابه ی شراب و جفای سبوی دوست\r\nای کفر و دین حلال کنیدم که می برم\r\nاینک ز دیر و کعبه سلامی به سوی دوست\r\nرنج مسیح و سعی اجل سودمند نیست\r\nماییم و صد مشام امیدی به بوی دوست\r\nسازد به برگ لاله بدل برگ یاسمن\r\nتشویش این نگاه مبیناد روی دوست\r\nعرفی شکایت از ستم بی سبب مکن \r\nچندین خوش است ساختنی هم به خوی دوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با مهر و با محبت و با آرزوی دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با ما کسی چه گونه توان جست و جوی دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر سنگ زد پیاله ی خضر آن که نوش کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خونابه ی شراب و جفای سبوی دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای کفر و دین حلال کنیدم که می برم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اینک ز دیر و کعبه سلامی به سوی دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رنج مسیح و سعی اجل سودمند نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ماییم و صد مشام امیدی به بوی دوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سازد به برگ لاله بدل برگ یاسمن",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تشویش این نگاه مبیناد روی دوست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی شکایت از ستم بی سبب مکن ",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چندین خوش است ساختنی هم به خوی دوست",
+      "CoupletIndex": 5
+    }
+  ]
+}

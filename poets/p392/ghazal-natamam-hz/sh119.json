@@ -1,0 +1,57 @@
+{
+  "Id": 34778,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh119",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh119",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مستمع گر نکند فهم، غم اینم نیست\r\nسیر چشم سخنم، رغبت تحسینم نیست\r\nزاده ی دل، همه حوران بهشتی نسبند\r\nذوق آرایش گفتار، در آیینم نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مستمع گر نکند فهم، غم اینم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیر چشم سخنم، رغبت تحسینم نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زاده ی دل، همه حوران بهشتی نسبند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ذوق آرایش گفتار، در آیینم نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

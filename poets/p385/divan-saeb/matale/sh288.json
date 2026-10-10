@@ -1,0 +1,42 @@
+{
+  "Id": 26376,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۸۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۸۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh288",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh288",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر چنین جلوه گر آن سرو قباپوش شود\r\nطوق هر فاخته خمیازه آغوش شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر چنین جلوه گر آن سرو قباپوش شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طوق هر فاخته خمیازه آغوش شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

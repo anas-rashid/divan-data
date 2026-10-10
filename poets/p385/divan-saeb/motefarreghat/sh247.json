@@ -1,0 +1,57 @@
+{
+  "Id": 26853,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۴۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۴۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh247",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh247",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رهروان چون بر میان دامان استغنا زنند\r\nهر چه پیش آید به غیر از دوست، پشت پا زنند\r\nبا گناه ما چه سازد آتش دوزخ، مگر\r\nروز محشر طاعت ما را به روی ما زنند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رهروان چون بر میان دامان استغنا زنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چه پیش آید به غیر از دوست، پشت پا زنند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با گناه ما چه سازد آتش دوزخ، مگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روز محشر طاعت ما را به روی ما زنند",
+      "CoupletIndex": 1
+    }
+  ]
+}

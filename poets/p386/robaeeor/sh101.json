@@ -1,0 +1,57 @@
+{
+  "Id": 28144,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۰۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۰۱",
+  "FullUrl": "/p386/robaeeor/sh101",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh101",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنم که تنم همیشه از جان به بود\r\nآلایش دامنم ز دامان به بود\r\nاوقات حیات خویش را سنجیدم\r\nهر وقت که در خواب گذشت آن به بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که تنم همیشه از جان به بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آلایش دامنم ز دامان به بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اوقات حیات خویش را سنجیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر وقت که در خواب گذشت آن به بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

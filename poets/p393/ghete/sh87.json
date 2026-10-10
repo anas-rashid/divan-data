@@ -1,0 +1,54 @@
+{
+  "Id": 36567,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۸۷",
+  "FullUrl": "/p393/ghete/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن‌چنان دل شتاب می‌ سوزد\r\nکه تو را تا خبر شود واغ است\r\nلاله‌زار است سینهٔ واقف\r\nهر کجا افکنی نظر داغ است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن‌چنان دل شتاب می‌ سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که تو را تا خبر شود واغ است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لاله‌زار است سینهٔ واقف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر کجا افکنی نظر داغ است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26421,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۳۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۳۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh333",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh333",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از موی چو کافور دلم بیت حزن شد\r\nسررشته خوشحالی من تار کفن شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از موی چو کافور دلم بیت حزن شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سررشته خوشحالی من تار کفن شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

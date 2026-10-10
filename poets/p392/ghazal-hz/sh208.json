@@ -1,0 +1,93 @@
+{
+  "Id": 33635,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۰۸",
+  "FullUrl": "/p392/ghazal-hz/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل گواه است که در پرده دلارایی هست\r\nهستی قطره دلیل است که دریایی هست\r\nگر غرورت نکشد کلفت هم صحبتیم\r\nنگه عجز مرا عرض تمنّاّّیی هست\r\nنبود لایق حسن این همه بی پروایی\r\nداد دل گر نتوان داد، مدارایی هست\r\nنم خونی به دلم مانده، خماری بشکن\r\nاز شراب کهن اینجا ته مینایی هست\r\nحسن بی پرده، ز غمّازی عشق است حزین\r\nشور مجنون همه جاگفته که لیلایی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل گواه است که در پرده دلارایی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هستی قطره دلیل است که دریایی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر غرورت نکشد کلفت هم صحبتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگه عجز مرا عرض تمنّاّّیی هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نبود لایق حسن این همه بی پروایی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "داد دل گر نتوان داد، مدارایی هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نم خونی به دلم مانده، خماری بشکن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از شراب کهن اینجا ته مینایی هست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حسن بی پرده، ز غمّازی عشق است حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شور مجنون همه جاگفته که لیلایی هست",
+      "CoupletIndex": 4
+    }
+  ]
+}

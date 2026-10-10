@@ -1,0 +1,54 @@
+{
+  "Id": 36600,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۲۰",
+  "FullUrl": "/p393/ghete/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بود در کویت دل زاری نپرسیدی چه شد\r\nتن به مردن داد بیماری نپرسیدی چه شد\r\nبارها جانم به لب آمد ز درد بی‌کسی\r\nحال ما را ای دل آزاری نپرسیدی چه شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بود در کویت دل زاری نپرسیدی چه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تن به مردن داد بیماری نپرسیدی چه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بارها جانم به لب آمد ز درد بی‌کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حال ما را ای دل آزاری نپرسیدی چه شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

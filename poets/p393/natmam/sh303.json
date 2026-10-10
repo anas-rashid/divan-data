@@ -1,0 +1,66 @@
+{
+  "Id": 36454,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۰۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۰۳",
+  "FullUrl": "/p393/natmam/sh303",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh303",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرو آمد به سلام قد تو\r\nچه بلند است مقام قد تو\r\nسرو و شمشاد به گلشن خوانند\r\nخطبهٔ ناز به نام قد تو\r\nمی‌زند لاف ز آزادی سرو\r\nگویا هست غلام قد تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو آمد به سلام قد تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه بلند است مقام قد تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرو و شمشاد به گلشن خوانند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خطبهٔ ناز به نام قد تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می‌زند لاف ز آزادی سرو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گویا هست غلام قد تو",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28048,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۵",
+  "FullUrl": "/p386/robaeeor/sh5",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh5",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بند غرور می گشایم خود را\r\nآن طور که هست می نمایم خود را\r\nعمری به رعونت، صفتِ خود کردم\r\nچندی به شکست می ستایم خود را",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بند غرور می گشایم خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن طور که هست می نمایم خود را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمری به رعونت، صفتِ خود کردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندی به شکست می ستایم خود را",
+      "CoupletIndex": 1
+    }
+  ]
+}

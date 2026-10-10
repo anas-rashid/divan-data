@@ -1,0 +1,93 @@
+{
+  "Id": 31580,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۱۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۳",
+  "FullUrl": "/p390/divan/ghazal/sh613",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh613",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل من ناله ز شوق تو پر آشوب کند\r\nغنچه ی ما چو جرس زمزمه را خوب کند\r\nگر زند شعله دم از پرتو او، غیرت حسن\r\nهمچو منصور سرش را به سر چوب کند\r\nنه ز فرزندی او، از اثر معشوقی ست\r\nماه کنعانی اگر ناز به یعقوب کند\r\nریزه ی شیشه ی دل بر سر هم می ریزد\r\nکوچه ی زلف ترا شانه چو جاروب کند\r\nمی کنند آنچه حسودان به من از صبر، سلیم\r\nکرم هرگز نتواند که به ایوب کند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل من ناله ز شوق تو پر آشوب کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه ی ما چو جرس زمزمه را خوب کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر زند شعله دم از پرتو او، غیرت حسن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچو منصور سرش را به سر چوب کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نه ز فرزندی او، از اثر معشوقی ست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ماه کنعانی اگر ناز به یعقوب کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ریزه ی شیشه ی دل بر سر هم می ریزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کوچه ی زلف ترا شانه چو جاروب کند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می کنند آنچه حسودان به من از صبر، سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کرم هرگز نتواند که به ایوب کند",
+      "CoupletIndex": 4
+    }
+  ]
+}

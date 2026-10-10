@@ -1,0 +1,54 @@
+{
+  "Id": 37281,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p393/robaee/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل برد به صد حیله ز زلفت پرواز\r\nمژگان تواش گرفت ای مایهٔ ناز\r\nهم طالع مرغی است تو گوی این دل\r\nکز دام پریده رفت در جنگل باز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل برد به صد حیله ز زلفت پرواز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مژگان تواش گرفت ای مایهٔ ناز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم طالع مرغی است تو گوی این دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز دام پریده رفت در جنگل باز",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37032,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۲۳",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۲۳",
+  "FullUrl": "/p393/mot/sh323",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh323",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بالین دل امشب ناتوان و زار برگشتم\r\nبه تقریب عیادت رفتم و بیمار برگشتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بالین دل امشب ناتوان و زار برگشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به تقریب عیادت رفتم و بیمار برگشتم",
+      "CoupletIndex": 0
+    }
+  ]
+}

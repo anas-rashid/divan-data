@@ -1,0 +1,57 @@
+{
+  "Id": 34951,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۹۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۹۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh292",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh292",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لخت دل با سینه از اشک مدام آمد برون\r\nاین کباب آخر ز آتشخانه، خام آمد برون\r\nگشت با زخم نمایان، سینهٔ صبح آشنا\r\nشب که تیغ نالهٔ من، از نیام آمد برون",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لخت دل با سینه از اشک مدام آمد برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این کباب آخر ز آتشخانه، خام آمد برون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گشت با زخم نمایان، سینهٔ صبح آشنا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب که تیغ نالهٔ من، از نیام آمد برون",
+      "CoupletIndex": 1
+    }
+  ]
+}

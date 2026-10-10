@@ -1,0 +1,93 @@
+{
+  "Id": 33983,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۵۶",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۵۶",
+  "FullUrl": "/p392/ghazal-hz/sh556",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh556",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلها ز جلوه خون شد و یاری ندید کس\r\nعالم به گرد رفت و سواری ندید کس\r\nسرگشتگان چو موج بسی دست و پا زدند\r\nزین بحر بیکرانه، کناری ندید کس\r\nرخسار نانموده، دل از عشق سوختی\r\nآتش زدی به شهر و شراری ندید کس\r\nسرو و سمن ز ساغر شوق تو سرخوشند\r\nدر دور نرگس تو خماری ندیدکس\r\nافسرده بود بس که بساط چمن حزین\r\nایام گل گذشت و بهاری ندید کس",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلها ز جلوه خون شد و یاری ندید کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالم به گرد رفت و سواری ندید کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرگشتگان چو موج بسی دست و پا زدند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین بحر بیکرانه، کناری ندید کس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رخسار نانموده، دل از عشق سوختی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آتش زدی به شهر و شراری ندید کس",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرو و سمن ز ساغر شوق تو سرخوشند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در دور نرگس تو خماری ندیدکس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "افسرده بود بس که بساط چمن حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ایام گل گذشت و بهاری ندید کس",
+      "CoupletIndex": 4
+    }
+  ]
+}

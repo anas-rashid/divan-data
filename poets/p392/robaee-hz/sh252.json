@@ -1,0 +1,57 @@
+{
+  "Id": 34647,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۵۲",
+  "FullUrl": "/p392/robaee-hz/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زاهد، از عشق، دین به افسون نبری\r\nروی ورع از میکده، گلگون نبری\r\nتر ساختهای دامن تقوا از می\r\nزبن آب، گلیم زهد بیرون نبری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهد، از عشق، دین به افسون نبری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی ورع از میکده، گلگون نبری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تر ساختهای دامن تقوا از می",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زبن آب، گلیم زهد بیرون نبری",
+      "CoupletIndex": 1
+    }
+  ]
+}

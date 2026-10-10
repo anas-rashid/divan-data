@@ -1,0 +1,57 @@
+{
+  "Id": 28941,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷۱",
+  "FullUrl": "/p387/divan/robaee/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دستی نبود بر تو بداندیش ترا\r\nدارد حسد و کینه پس و پیش ترا\r\nدر قید دو شاخه هر دو دستت خواهم\r\nتا پایه شوند منبر ریش ترا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دستی نبود بر تو بداندیش ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارد حسد و کینه پس و پیش ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در قید دو شاخه هر دو دستت خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا پایه شوند منبر ریش ترا",
+      "CoupletIndex": 1
+    }
+  ]
+}

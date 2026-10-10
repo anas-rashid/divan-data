@@ -1,0 +1,57 @@
+{
+  "Id": 34472,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/p392/robaee-hz/sh77",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh77",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ابنای زمانه، لولیان آیینند\r\nمدخوله روزگار، بی کابینند\r\nابلیس بود عامل و تلبیس، رئیس\r\nدر دهکده ای که خواجه تاشان اینند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ابنای زمانه، لولیان آیینند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مدخوله روزگار، بی کابینند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابلیس بود عامل و تلبیس، رئیس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در دهکده ای که خواجه تاشان اینند",
+      "CoupletIndex": 1
+    }
+  ]
+}

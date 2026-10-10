@@ -1,0 +1,81 @@
+{
+  "Id": 30183,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۳۵",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۳۵",
+  "FullUrl": "/p389/ghazalgm/sh435",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh435",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عندلیب وصل، هم‌آواز کیستی\r\nدمساز ما غم است، تو دمساز کیستی\r\nنشنیده صوت مطرب غم، آنکه گویدم\r\nآتش‌پرست شعله آواز کیستی\r\nنگذاشت رشک، ورنه جمالت نمودمی\r\nآن را که گفت شیفته ناز کیستی\r\nقدسی ز حال خویشتن آگه نیابمت\r\nبیخود چنین ز چشم فسونساز کیستی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عندلیب وصل، هم‌آواز کیستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دمساز ما غم است، تو دمساز کیستی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشنیده صوت مطرب غم، آنکه گویدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش‌پرست شعله آواز کیستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نگذاشت رشک، ورنه جمالت نمودمی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن را که گفت شیفته ناز کیستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "قدسی ز حال خویشتن آگه نیابمت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بیخود چنین ز چشم فسونساز کیستی",
+      "CoupletIndex": 3
+    }
+  ]
+}

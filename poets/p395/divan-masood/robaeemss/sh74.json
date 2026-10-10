@@ -1,0 +1,57 @@
+{
+  "Id": 37588,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشک من و رخسار تو همرنگ شده است\r\nروز من و زلف تو شبه رنگ شده است\r\nگیتی بر من چون دهنت تنگ شده است\r\nهمچون دل تو جان من از سنگ شده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشک من و رخسار تو همرنگ شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روز من و زلف تو شبه رنگ شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گیتی بر من چون دهنت تنگ شده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون دل تو جان من از سنگ شده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

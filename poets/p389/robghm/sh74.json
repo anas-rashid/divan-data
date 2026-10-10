@@ -1,0 +1,57 @@
+{
+  "Id": 30331,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/p389/robghm/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از باغ تو اند گر سمن، ور بیدست\r\nاز توست اگر بید و اگر امیدست\r\nدر خانه اگر هزار روزن باشد\r\nآخر همه را چشم به یک خورشید است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از باغ تو اند گر سمن، ور بیدست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از توست اگر بید و اگر امیدست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خانه اگر هزار روزن باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آخر همه را چشم به یک خورشید است",
+      "CoupletIndex": 1
+    }
+  ]
+}

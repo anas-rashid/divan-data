@@ -1,0 +1,93 @@
+{
+  "Id": 24375,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۳۰۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۳۰۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5302",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5302",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عشرت روی زمین در بردباری دیده ام\r\nنقش پایم نقش خود در خاکساری دیده ام\r\nوای بر جانم اگر عزت پرستان پی برند\r\nاعتباری را که در بی اعتباری دیده ام\r\nخضر در ظلمت سرای چشمه حیوان ندید\r\nآنچه من از فیض درشب زنده داری دیده ام\r\nحسن در زندان همان برمسند فرماندهی است\r\nمن عزیز مصر را در وقت خواری دیده ام\r\nلخت دل بسیار از چشمم به دامن رفته است\r\nداغ چندین لاله چون بهاری دیده ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشرت روی زمین در بردباری دیده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نقش پایم نقش خود در خاکساری دیده ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وای بر جانم اگر عزت پرستان پی برند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اعتباری را که در بی اعتباری دیده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خضر در ظلمت سرای چشمه حیوان ندید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آنچه من از فیض درشب زنده داری دیده ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حسن در زندان همان برمسند فرماندهی است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "من عزیز مصر را در وقت خواری دیده ام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "لخت دل بسیار از چشمم به دامن رفته است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "داغ چندین لاله چون بهاری دیده ام",
+      "CoupletIndex": 4
+    }
+  ]
+}

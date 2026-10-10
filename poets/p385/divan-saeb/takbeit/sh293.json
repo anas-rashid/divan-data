@@ -1,0 +1,45 @@
+{
+  "Id": 17824,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۹۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۹۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کَرد تَرکِ مِی دِلَم، یک شربتْ آبِ خوش نَخورد\r\nبی‌مار شد طفلِ یتیم، از اختلافِ شیرها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کَرد تَرکِ مِی دِلَم، یک شربتْ آبِ خوش نَخورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌مار شد طفلِ یتیم، از اختلافِ شیرها",
+      "CoupletIndex": 0
+    }
+  ]
+}

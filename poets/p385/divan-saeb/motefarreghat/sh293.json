@@ -1,0 +1,57 @@
+{
+  "Id": 26899,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۹۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۹۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه لذت دیدن رخسار آن مه پاره می بخشد\r\nکه عاشق هر دو عالم را به یک نظاره می بخشد\r\nغلط بخشی تماشا کن که خورشید بلنداختر\r\nز گلها رنگ می گیرد به سنگ خاره می بخشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه لذت دیدن رخسار آن مه پاره می بخشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که عاشق هر دو عالم را به یک نظاره می بخشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غلط بخشی تماشا کن که خورشید بلنداختر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز گلها رنگ می گیرد به سنگ خاره می بخشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

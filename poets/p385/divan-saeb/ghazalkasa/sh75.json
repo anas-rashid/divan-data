@@ -1,0 +1,93 @@
+{
+  "Id": 19148,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۷۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۷۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ننگِ کفرِ من به فریاد آورد ناقوس را\r\nمی‌کِشد ایمانِ من در خون، لبِ افسوس را\r\nاز هوایِ نفسِ ظلمانی است سِیر و دورِ خلق\r\nدود می‌آرد به جنبش صورتِ فانوس را\r\nعیبِ خود دیدن مرا ز اهلِ هنر ممتاز کرد\r\nمنفعت از پا زیاد از پر بود طاوس را\r\nخوفِ ما ز اعمالِ ناشایستِ خود باشد که نیست\r\nنامهٔ قتلی به جز مکتوبِ خود، جاسوس را\r\nعالَمِ معقول صائب روی بنماید ترا\r\nگر توانی ترک‌کردن عالمِ محسوس را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ننگِ کفرِ من به فریاد آورد ناقوس را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌کِشد ایمانِ من در خون، لبِ افسوس را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از هوایِ نفسِ ظلمانی است سِیر و دورِ خلق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دود می‌آرد به جنبش صورتِ فانوس را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عیبِ خود دیدن مرا ز اهلِ هنر ممتاز کرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "منفعت از پا زیاد از پر بود طاوس را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خوفِ ما ز اعمالِ ناشایستِ خود باشد که نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نامهٔ قتلی به جز مکتوبِ خود، جاسوس را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عالَمِ معقول صائب روی بنماید ترا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر توانی ترک‌کردن عالمِ محسوس را",
+      "CoupletIndex": 4
+    }
+  ]
+}

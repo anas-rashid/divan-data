@@ -1,0 +1,57 @@
+{
+  "Id": 34560,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۶۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۶۵",
+  "FullUrl": "/p392/robaee-hz/sh165",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh165",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خونم به کرشمه، ای جفاکیش مریز\r\nالماس به زخم جگر ریش مریز\r\nدر ساغر خون دل که نذر لب توست\r\nترسم که شود شور، نمک بیش مریز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خونم به کرشمه، ای جفاکیش مریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "الماس به زخم جگر ریش مریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ساغر خون دل که نذر لب توست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم که شود شور، نمک بیش مریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34610,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۱۵",
+  "FullUrl": "/p392/robaee-hz/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر قدر به روستا نمی دارندم\r\nدر مصر معظّمان خریدارندم\r\nتنها شده ام کنون درین غربتگاه\r\nیاران به دیار خویش بسیارندم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر قدر به روستا نمی دارندم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مصر معظّمان خریدارندم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تنها شده ام کنون درین غربتگاه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یاران به دیار خویش بسیارندم",
+      "CoupletIndex": 1
+    }
+  ]
+}

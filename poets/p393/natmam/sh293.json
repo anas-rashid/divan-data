@@ -1,0 +1,66 @@
+{
+  "Id": 36444,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۳",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۳",
+  "FullUrl": "/p393/natmam/sh293",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh293",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین دامگاه حادثه رستن نمی‌توان\r\nبال و پری به هرزه شکستن نمی‌توان\r\nهیچ است آنچه گفته شود از میان او\r\nمضمون ناز کیست که بستن نمی‌توان\r\nسوز و گداز خویش کنم ایستاده عرض\r\nدر بزم او چو شمع نشستن نمی‌توان",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین دامگاه حادثه رستن نمی‌توان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بال و پری به هرزه شکستن نمی‌توان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هیچ است آنچه گفته شود از میان او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مضمون ناز کیست که بستن نمی‌توان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سوز و گداز خویش کنم ایستاده عرض",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در بزم او چو شمع نشستن نمی‌توان",
+      "CoupletIndex": 2
+    }
+  ]
+}

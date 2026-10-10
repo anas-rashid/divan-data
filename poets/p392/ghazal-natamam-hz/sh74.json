@@ -1,0 +1,42 @@
+{
+  "Id": 34733,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این است که دل برده و خون کرده بسی را\r\nبسم الله اگر تاب نفس هست کسی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این است که دل برده و خون کرده بسی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسم الله اگر تاب نفس هست کسی را",
+      "CoupletIndex": 0
+    }
+  ]
+}

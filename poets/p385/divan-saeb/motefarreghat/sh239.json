@@ -1,0 +1,81 @@
+{
+  "Id": 26845,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh239",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh239",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی چون چشم ازان رخسار آتشناک برگیرد؟\r\nکه انگشت از اشارت کردنش چون شمع درگیرد\r\nتوان کردن به وحشت سرکشان را زیردست خود\r\nکه کوه قاف را عنقا ز عزلت زیر پر گیرد\r\nعقل کوته بین جدل با عشق سرکش می کند\r\nبوریا چین جبین در کار آتش می کند\r\nاز گریبان تجرد سر برون آورده ام\r\nبوی پیراهن دماغم را مشوش می کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی چون چشم ازان رخسار آتشناک برگیرد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که انگشت از اشارت کردنش چون شمع درگیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "توان کردن به وحشت سرکشان را زیردست خود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که کوه قاف را عنقا ز عزلت زیر پر گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عقل کوته بین جدل با عشق سرکش می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوریا چین جبین در کار آتش می کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از گریبان تجرد سر برون آورده ام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بوی پیراهن دماغم را مشوش می کند",
+      "CoupletIndex": 3
+    }
+  ]
+}

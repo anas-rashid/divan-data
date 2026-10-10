@@ -1,0 +1,54 @@
+{
+  "Id": 37252,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۰",
+  "FullUrl": "/p393/robaee/sh80",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh80",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای داده به دل راه بدآموزی چند\r\nدر دل ز توام داغ جگرسوزی چند\r\nگفتی روزی رسم به دادت دریاب\r\nکز عمر نمانده است مگر روزی چند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای داده به دل راه بدآموزی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل ز توام داغ جگرسوزی چند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتی روزی رسم به دادت دریاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز عمر نمانده است مگر روزی چند",
+      "CoupletIndex": 1
+    }
+  ]
+}

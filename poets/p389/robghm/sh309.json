@@ -1,0 +1,57 @@
+{
+  "Id": 30566,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۰۹",
+  "FullUrl": "/p389/robghm/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فرزانه به قید شهر و کو بند بود\r\nپیوسته اسیر زن و فرزند بود\r\nمجنون داند به است صحرا از شهر\r\nدیوانه به کار خود خردمند بود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرزانه به قید شهر و کو بند بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته اسیر زن و فرزند بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مجنون داند به است صحرا از شهر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیوانه به کار خود خردمند بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

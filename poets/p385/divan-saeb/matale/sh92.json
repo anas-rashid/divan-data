@@ -1,0 +1,42 @@
+{
+  "Id": 26180,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۹۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فراغبال محال است راست کیشان را\r\nنشانه تنگ کند بر خدنگ میدان را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فراغبال محال است راست کیشان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشانه تنگ کند بر خدنگ میدان را",
+      "CoupletIndex": 0
+    }
+  ]
+}

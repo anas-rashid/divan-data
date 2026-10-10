@@ -1,0 +1,45 @@
+{
+  "Id": 26498,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۱۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۱۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh410",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh410",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عتاب گلرخان در پرده دارد لطف پنهانی\r\nکه گل‌ها می‌توان چید از بهار غنچه پیشانی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عتاب گلرخان در پرده دارد لطف پنهانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که گل‌ها می‌توان چید از بهار غنچه پیشانی",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30326,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۹",
+  "FullUrl": "/p389/robghm/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طبع شررانگیز به شر مجبورست\r\nبدطینت اگر بدی کند معذورست\r\nکی نفس بد از شکستگی نیک شود؟\r\nشمشیر شکسته چون شود، ساطور است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طبع شررانگیز به شر مجبورست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدطینت اگر بدی کند معذورست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی نفس بد از شکستگی نیک شود؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر شکسته چون شود، ساطور است",
+      "CoupletIndex": 1
+    }
+  ]
+}

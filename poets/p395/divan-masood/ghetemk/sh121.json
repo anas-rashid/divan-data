@@ -1,0 +1,69 @@
+{
+  "Id": 38348,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۲۱ - اثر بخت و طالع",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۲۱ - اثر بخت و طالع",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گویند که نیکبخت و بدبخت\r\nهست از همه چیز در فسانه\r\nیک جای دو خشت پخته بینی\r\nپخته به تنور در میانه\r\nاین بر شرف مناره افتد\r\nوآن در بن چاه آب خانه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گویند که نیکبخت و بدبخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هست از همه چیز در فسانه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک جای دو خشت پخته بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پخته به تنور در میانه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این بر شرف مناره افتد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وآن در بن چاه آب خانه",
+      "CoupletIndex": 2
+    }
+  ]
+}

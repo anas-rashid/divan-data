@@ -1,0 +1,42 @@
+{
+  "Id": 26583,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh495",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh495",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زینهار از درد و داغ عشق روگردان مشو\r\nبر چراغان تجلی آستین افشان مشو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زینهار از درد و داغ عشق روگردان مشو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر چراغان تجلی آستین افشان مشو",
+      "CoupletIndex": 0
+    }
+  ]
+}

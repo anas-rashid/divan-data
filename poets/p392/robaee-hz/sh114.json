@@ -1,0 +1,57 @@
+{
+  "Id": 34509,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۱۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۱۴",
+  "FullUrl": "/p392/robaee-hz/sh114",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh114",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل در غم هجر، بی قراری ها کرد\r\nوین دیدهٔ طوفان زده زاریها کرد\r\nبا دامن وصل او نیفتاد حریف\r\nاین دست شکسته، پایداریها کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در غم هجر، بی قراری ها کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین دیدهٔ طوفان زده زاریها کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با دامن وصل او نیفتاد حریف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این دست شکسته، پایداریها کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

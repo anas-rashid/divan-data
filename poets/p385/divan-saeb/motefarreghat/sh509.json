@@ -1,0 +1,57 @@
+{
+  "Id": 27115,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۰۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۰۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh509",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh509",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من آن بخت از کجا دارم که با او همسفر گردم؟\r\nزهی دولت اگر در رهگذارش پی سپر گردم\r\nهمان خجلت کشم، با عمر جاویدان اگر خواهم\r\nبه قدر گرد دل گشتن ترا برگرد سرگردم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من آن بخت از کجا دارم که با او همسفر گردم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهی دولت اگر در رهگذارش پی سپر گردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همان خجلت کشم، با عمر جاویدان اگر خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به قدر گرد دل گشتن ترا برگرد سرگردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

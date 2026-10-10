@@ -1,0 +1,45 @@
+{
+  "Id": 18274,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۴۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۴۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh743",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh743",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمر رفت و خار خارش در دل بیتاب ماند\r\nمشت خاشاکی درین ویرانه از سیلاب ماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر رفت و خار خارش در دل بیتاب ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشت خاشاکی درین ویرانه از سیلاب ماند",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 29787,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۹",
+  "FullUrl": "/p389/ghazalgm/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پرهیز ده ز هجر گرفتار خویش را\r\nبنگر شکسته‌رنگی بیمار خویش را\r\nبهر ذخیره شب هجر تو روز وصل\r\nکم کرد دیده گریه بسیار خویش را\r\nبیداد دوست چون ستم چرخ عام نیست\r\nدانسته‌ام غرور ستمکار خویش را\r\nجز شغل دوستی نبود کار دیگرم\r\nشکر خدا که یافته‌ام کار خویش را\r\nقدسی هوای باغ و لب جو چه می‌کنی\r\nدریاب فیض سایه دیوار خویش را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پرهیز ده ز هجر گرفتار خویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنگر شکسته‌رنگی بیمار خویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهر ذخیره شب هجر تو روز وصل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کم کرد دیده گریه بسیار خویش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیداد دوست چون ستم چرخ عام نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دانسته‌ام غرور ستمکار خویش را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جز شغل دوستی نبود کار دیگرم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شکر خدا که یافته‌ام کار خویش را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "قدسی هوای باغ و لب جو چه می‌کنی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دریاب فیض سایه دیوار خویش را",
+      "CoupletIndex": 4
+    }
+  ]
+}

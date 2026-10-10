@@ -1,0 +1,93 @@
+{
+  "Id": 33915,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۸۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۸۸",
+  "FullUrl": "/p392/ghazal-hz/sh488",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh488",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سبزه دور از تو، مغیلان به نظر می آید\r\nغنچه بی روی تو پیکان، به نظر می آید\r\nشده رسوایی ما، پردهٔ عریانی ما\r\nسینهٔ چاک، گریبان به نظر می آید\r\nدل از آسایش دوران نشود جمع مرا\r\nزلف ایام، پریشان به نظر می آید\r\nپرده حسن شده بر رخ مقصود نقاب\r\nاین چو از دیده رود، آن به نظر می آید\r\nنگذری سرسری از دفتر ایجاد حزین\r\nمشکل آنجاست که آسان به نظر می آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سبزه دور از تو، مغیلان به نظر می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه بی روی تو پیکان، به نظر می آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شده رسوایی ما، پردهٔ عریانی ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سینهٔ چاک، گریبان به نظر می آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل از آسایش دوران نشود جمع مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زلف ایام، پریشان به نظر می آید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پرده حسن شده بر رخ مقصود نقاب",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این چو از دیده رود، آن به نظر می آید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نگذری سرسری از دفتر ایجاد حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مشکل آنجاست که آسان به نظر می آید",
+      "CoupletIndex": 4
+    }
+  ]
+}

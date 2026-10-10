@@ -1,0 +1,93 @@
+{
+  "Id": 19633,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۶۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۶۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh560",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh560",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست پیوسته به دریای کرم گوهر ما\r\nچه کند خشکی عالم به دماغ تر ما؟\r\nعلم لشکر ما از سر جان خاستن است\r\nزهره کیست که گردد طرف لشکر ما؟\r\nشمع یک مصرع برجسته ز مجموعه ماست\r\nبال پروانه بود یک ورق از دفتر ما\r\nدانه سوخته، از ابر نمی گردد سبز\r\nچه خیال است که مسعود شود اختر ما؟\r\nبس که در جستن آن سرو روان بال زدیم\r\nنقش، چون گرد فرو ریخت ز بال و پر ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست پیوسته به دریای کرم گوهر ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه کند خشکی عالم به دماغ تر ما؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "علم لشکر ما از سر جان خاستن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زهره کیست که گردد طرف لشکر ما؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شمع یک مصرع برجسته ز مجموعه ماست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بال پروانه بود یک ورق از دفتر ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دانه سوخته، از ابر نمی گردد سبز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه خیال است که مسعود شود اختر ما؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بس که در جستن آن سرو روان بال زدیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نقش، چون گرد فرو ریخت ز بال و پر ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

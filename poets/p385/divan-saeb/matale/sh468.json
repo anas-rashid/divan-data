@@ -1,0 +1,42 @@
+{
+  "Id": 26556,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۶۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۶۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh468",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh468",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دل نبرد زنگ الم باد بهارم\r\nچون گرد یتیمی است زمین گیر غبارم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دل نبرد زنگ الم باد بهارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گرد یتیمی است زمین گیر غبارم",
+      "CoupletIndex": 0
+    }
+  ]
+}

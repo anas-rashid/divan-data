@@ -1,0 +1,57 @@
+{
+  "Id": 30496,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۳۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۳۹",
+  "FullUrl": "/p389/robghm/sh239",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh239",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کو عشق که اهل درد را بشناسد؟\r\nمردی باید که مرد را بشناسد\r\nبیگانه و آشنا سوارند تمام\r\nکو دیده‌وری که گرد را بشناسد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کو عشق که اهل درد را بشناسد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مردی باید که مرد را بشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیگانه و آشنا سوارند تمام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو دیده‌وری که گرد را بشناسد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

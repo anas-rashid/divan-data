@@ -1,0 +1,57 @@
+{
+  "Id": 37911,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۹۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۹۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh397",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh397",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای تن چه تنی که تا شدی فرهنگی\r\nبا چرخ و زمانه در نبرد و جنگی\r\nدر تو نکند اثر همی دلتنگی\r\nبگداز و بریز اگر نه روی و سنگی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تن چه تنی که تا شدی فرهنگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با چرخ و زمانه در نبرد و جنگی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تو نکند اثر همی دلتنگی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگداز و بریز اگر نه روی و سنگی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34396,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/p392/robaee-hz/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شد صید خم زلف رسایی دل ما\r\nافتاد به دام اژدهایی دل ما\r\nاز بوی کباب می توان دانستن\r\nکز عشق در آتش است جایی دل ما",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد صید خم زلف رسایی دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاد به دام اژدهایی دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بوی کباب می توان دانستن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز عشق در آتش است جایی دل ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

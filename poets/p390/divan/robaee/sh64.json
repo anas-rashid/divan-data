@@ -1,0 +1,57 @@
+{
+  "Id": 32062,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۶۴",
+  "FullUrl": "/p390/divan/robaee/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای از کرم تو بخل دایم در تنگ\r\nکجواج رود به راه، عذر تو چو لنگ\r\nتا کی به خزانه ام دهی وعده ی زر؟\r\nآتش به خزانه ی تو افتد چو تفنگ!",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای از کرم تو بخل دایم در تنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجواج رود به راه، عذر تو چو لنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کی به خزانه ام دهی وعده ی زر؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش به خزانه ی تو افتد چو تفنگ!",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26582,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۹۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۹۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh494",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh494",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قامت او چون شود در بوستان همدوش سرو\r\nحلقه ها از طوق قمری می کشد در گوش سرو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قامت او چون شود در بوستان همدوش سرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حلقه ها از طوق قمری می کشد در گوش سرو",
+      "CoupletIndex": 0
+    }
+  ]
+}

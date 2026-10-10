@@ -1,0 +1,57 @@
+{
+  "Id": 31962,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۲۴ - درین دریا که از آشوب طوفان",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۲۴ - درین دریا که از آشوب طوفان",
+  "FullUrl": "/p390/divan/ghete/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین دریا که از آشوب طوفان\r\nنرفته موجش از گرداب بیرون\r\nخوش آن کس کو تواند برد چون ابر\r\nگلیم خویش را از آب بیرون",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین دریا که از آشوب طوفان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نرفته موجش از گرداب بیرون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوش آن کس کو تواند برد چون ابر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گلیم خویش را از آب بیرون",
+      "CoupletIndex": 1
+    }
+  ]
+}

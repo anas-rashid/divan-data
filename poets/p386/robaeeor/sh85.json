@@ -1,0 +1,57 @@
+{
+  "Id": 28128,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۸۵",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۸۵",
+  "FullUrl": "/p386/robaeeor/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خامشی ام جان به سخن می سوزد\r\nوز بی خودیم نقش وطن می سوزد\r\nحیرت ز هم آغوشی من می نالد\r\nاندیشه ز آرزوی من می سوزد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خامشی ام جان به سخن می سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بی خودیم نقش وطن می سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیرت ز هم آغوشی من می نالد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشه ز آرزوی من می سوزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

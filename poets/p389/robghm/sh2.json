@@ -1,0 +1,57 @@
+{
+  "Id": 30259,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲",
+  "FullUrl": "/p389/robghm/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر دل نشود ز درد جانکاه جدا\r\nخود را ز هوس کند به یک آه جدا\r\nهر خوشه که مالیده شد از جور کفی\r\nگردد به پفی دانه‌اش از کاه جدا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر دل نشود ز درد جانکاه جدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را ز هوس کند به یک آه جدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر خوشه که مالیده شد از جور کفی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردد به پفی دانه‌اش از کاه جدا",
+      "CoupletIndex": 1
+    }
+  ]
+}

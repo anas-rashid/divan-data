@@ -1,0 +1,57 @@
+{
+  "Id": 30681,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۲۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۲۴",
+  "FullUrl": "/p389/robghm/sh424",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh424",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی لخت جگر چو لاله در راغ مباش\r\nبی آتش دل چو غنچه در باغ مباش\r\nتا نقش قدم بسوز اگر سرگرمی\r\nدر عشق، کم از فتیله داغ مباش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی لخت جگر چو لاله در راغ مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی آتش دل چو غنچه در باغ مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا نقش قدم بسوز اگر سرگرمی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عشق، کم از فتیله داغ مباش",
+      "CoupletIndex": 1
+    }
+  ]
+}

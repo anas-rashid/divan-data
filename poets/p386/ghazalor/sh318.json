@@ -1,0 +1,81 @@
+{
+  "Id": 27726,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳۱۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳۱۸",
+  "FullUrl": "/p386/ghazalor/sh318",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh318",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم چو شبخون می زند، هان دوستان لشگر کنید\r\nجست و جویم گر کنید از بالش و بستر کنید\r\nهیچکس در درد دل گفتن چو من فیروز نیست\r\nحاضرم، بسم الله، اول گفت و گوی سر کنید\r\nدرد دل بسیار دارم، فرصت سوگند نیست\r\nهر چه گویم، گرچه ناممکن بود، باور کنید\r\nاینک آمد عرفی از میخانه، مست و بت پرست\r\nهان مسلمانان دگر تعظیم این کافر کنید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم چو شبخون می زند، هان دوستان لشگر کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جست و جویم گر کنید از بالش و بستر کنید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هیچکس در درد دل گفتن چو من فیروز نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حاضرم، بسم الله، اول گفت و گوی سر کنید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درد دل بسیار دارم، فرصت سوگند نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر چه گویم، گرچه ناممکن بود، باور کنید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اینک آمد عرفی از میخانه، مست و بت پرست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هان مسلمانان دگر تعظیم این کافر کنید",
+      "CoupletIndex": 3
+    }
+  ]
+}

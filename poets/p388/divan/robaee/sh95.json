@@ -1,0 +1,57 @@
+{
+  "Id": 29702,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۹۵",
+  "FullUrl": "/p388/divan/robaee/sh95",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh95",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اندر ره و بی ره همه جا گردیدیم\r\nبا مؤمن و کافر آشنا گردیدیم\r\nبتخانه و کعبه ام به مقصد نرساند\r\nره پای و سری نداشت و اگر دیدیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندر ره و بی ره همه جا گردیدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با مؤمن و کافر آشنا گردیدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بتخانه و کعبه ام به مقصد نرساند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ره پای و سری نداشت و اگر دیدیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

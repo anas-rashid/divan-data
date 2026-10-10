@@ -1,0 +1,57 @@
+{
+  "Id": 30667,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱۰",
+  "FullUrl": "/p389/robghm/sh410",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh410",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قدسی، منم و دلی چو آتش همه سوز\r\nرنگم ز شراب عافیت، گو مفروز\r\nبر غمزده جز بخت سیه نیست شگون\r\nمحروم بود ز شعله پروانه به روز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قدسی، منم و دلی چو آتش همه سوز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رنگم ز شراب عافیت، گو مفروز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر غمزده جز بخت سیه نیست شگون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محروم بود ز شعله پروانه به روز",
+      "CoupletIndex": 1
+    }
+  ]
+}

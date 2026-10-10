@@ -1,0 +1,45 @@
+{
+  "Id": 27019,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۱۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۱۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh413",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh413",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تبسمی پی دشنام تلخ در کارست\r\nنمکچش مزه ای با پیاله می باید",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تبسمی پی دشنام تلخ در کارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نمکچش مزه ای با پیاله می باید",
+      "CoupletIndex": 0
+    }
+  ]
+}

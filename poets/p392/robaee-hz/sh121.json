@@ -1,0 +1,57 @@
+{
+  "Id": 34516,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲۱",
+  "FullUrl": "/p392/robaee-hz/sh121",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh121",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خنگ تو به کوهِ عالی ارکان ماند\r\nور موج عرق زند، به عمّان ماند\r\nدر راهِ تکش، فلک به میدان ماند\r\nخورشید به گو، سمش به چوگان ماند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خنگ تو به کوهِ عالی ارکان ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور موج عرق زند، به عمّان ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در راهِ تکش، فلک به میدان ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید به گو، سمش به چوگان ماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

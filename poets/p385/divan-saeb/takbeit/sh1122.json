@@ -1,0 +1,45 @@
+{
+  "Id": 18653,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۲۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۲۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منه انگشت بر حرفم، اگر درد سخن داری\r\nکه بر هر نقطه من صد بار چون پرگار گردیدم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منه انگشت بر حرفم، اگر درد سخن داری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بر هر نقطه من صد بار چون پرگار گردیدم",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 30144,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۹۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۹۶",
+  "FullUrl": "/p389/ghazalgm/sh396",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh396",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر ز چنگ شحنه هجران امان می‌یافتم\r\nاز وصال یار، عمر جاودان می‌یافتم\r\nخویش را پروانه می‌سوزد ز گرمی‌های شمع\r\nمهر می‌گشتم، اگر یک مهربان می‌یافتم\r\nبهر هر کالای معنی، در کمین صد رهزن است\r\nکاشکی صد گنج را یک پاسبان می‌یافتم\r\nیاد باد آن ساده‌لوحی‌ها که در مجلس چو شمع\r\nهرچه در دل می‌نهفتم بر زبان می‌یافتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر ز چنگ شحنه هجران امان می‌یافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از وصال یار، عمر جاودان می‌یافتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خویش را پروانه می‌سوزد ز گرمی‌های شمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مهر می‌گشتم، اگر یک مهربان می‌یافتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بهر هر کالای معنی، در کمین صد رهزن است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کاشکی صد گنج را یک پاسبان می‌یافتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یاد باد آن ساده‌لوحی‌ها که در مجلس چو شمع",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرچه در دل می‌نهفتم بر زبان می‌یافتم",
+      "CoupletIndex": 3
+    }
+  ]
+}

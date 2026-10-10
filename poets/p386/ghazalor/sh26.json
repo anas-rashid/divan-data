@@ -1,0 +1,81 @@
+{
+  "Id": 27434,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۲۶",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۲۶",
+  "FullUrl": "/p386/ghazalor/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح گدا و شام ز خورشید روشن است\r\nگر قادری ببخش چراغی به شام ما\r\nما را به کام خویش بدید و دلش بسوخت\r\nدشمن که هیچ گاه مبادا به کام ما\r\nدر خلوتی که دختر رز نیست، عیش نیست\r\nداغ است شیخ شهر ز عیش مدام ما\r\nدر روزگار نیست رسولی که بی حسد\r\nدر گوش چون تویی برساند پیام ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح گدا و شام ز خورشید روشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر قادری ببخش چراغی به شام ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را به کام خویش بدید و دلش بسوخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دشمن که هیچ گاه مبادا به کام ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در خلوتی که دختر رز نیست، عیش نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "داغ است شیخ شهر ز عیش مدام ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در روزگار نیست رسولی که بی حسد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در گوش چون تویی برساند پیام ما",
+      "CoupletIndex": 3
+    }
+  ]
+}

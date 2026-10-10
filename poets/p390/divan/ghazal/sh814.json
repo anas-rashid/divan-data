@@ -1,0 +1,93 @@
+{
+  "Id": 31781,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۱۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۱۴",
+  "FullUrl": "/p390/divan/ghazal/sh814",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh814",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما همچو گل به چاک گریبان نشسته‌ایم\r\nچون لاله در لباس شهیدان نشسته‌ایم\r\nهر یک به فکر طرّه‌ای آشفته‌خاطریم\r\nجمعیم دوستان و پریشان نشسته‌ایم\r\nیاران و بوی گل همه در سِیْرِ گلشنند\r\nما همچو غنچه پای به دامان نشسته‌ایم\r\nجز نان خشک، قسمت ما نیست از جهان\r\nگویی مگر به سفرهٔ دهقان نشسته‌ایم\r\nجنبیدن است باعث آزار ما سلیم\r\nگویی چو تیر بر سر پیکان نشسته‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما همچو گل به چاک گریبان نشسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون لاله در لباس شهیدان نشسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر یک به فکر طرّه‌ای آشفته‌خاطریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جمعیم دوستان و پریشان نشسته‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یاران و بوی گل همه در سِیْرِ گلشنند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما همچو غنچه پای به دامان نشسته‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جز نان خشک، قسمت ما نیست از جهان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گویی مگر به سفرهٔ دهقان نشسته‌ایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جنبیدن است باعث آزار ما سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گویی چو تیر بر سر پیکان نشسته‌ایم",
+      "CoupletIndex": 4
+    }
+  ]
+}

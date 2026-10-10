@@ -1,0 +1,42 @@
+{
+  "Id": 26390,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۰۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۰۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh302",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh302",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به روی لاله و گل هر که می نمی نوشد\r\nفسرده ای است که خونش به خون نمی جوشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به روی لاله و گل هر که می نمی نوشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فسرده ای است که خونش به خون نمی جوشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

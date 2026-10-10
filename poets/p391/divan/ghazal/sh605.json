@@ -1,0 +1,54 @@
+{
+  "Id": 32697,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۵",
+  "FullUrl": "/p391/divan/ghazal/sh605",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh605",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز آهم حسن روی یار بی‌اندازه می‌گردد\r\nصبا رخسارهٔ میگون گل را غازه می‌گردد\r\nپی جمعیت اوراق خوبی زلف مشکینش\r\nکتاب روی او را رشتهٔ شیرازه می‌گردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز آهم حسن روی یار بی‌اندازه می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبا رخسارهٔ میگون گل را غازه می‌گردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پی جمعیت اوراق خوبی زلف مشکینش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کتاب روی او را رشتهٔ شیرازه می‌گردد",
+      "CoupletIndex": 1
+    }
+  ]
+}

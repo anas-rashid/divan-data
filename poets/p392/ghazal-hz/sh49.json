@@ -1,0 +1,93 @@
+{
+  "Id": 33476,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۹",
+  "FullUrl": "/p392/ghazal-hz/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیابان مرگ حسرت کرده ای مشت غبارم را\r\nبه باد دامنی روشن نما، شمع مزارم را\r\nنمی آید به لب افسانهٔ بخت سیاه من\r\nنگاه سرمه سایی، تیره دارد روزگارم را\r\nنگاهی کن که فارغ گردم از درد سر هستی\r\nبیا ساقی به یک پیمانه می بشکن خمارم را\r\nدرین بستان سرا از سرد مهری، چون گل رعنا\r\nخزان رنگ زردی در میان دارد بهارم را\r\nحزین از اضطراب دل به کوی یار می ترسم\r\nتپیدنها به باد آخر دهد، مشت غبارم را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیابان مرگ حسرت کرده ای مشت غبارم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به باد دامنی روشن نما، شمع مزارم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی آید به لب افسانهٔ بخت سیاه من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نگاه سرمه سایی، تیره دارد روزگارم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نگاهی کن که فارغ گردم از درد سر هستی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بیا ساقی به یک پیمانه می بشکن خمارم را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "درین بستان سرا از سرد مهری، چون گل رعنا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خزان رنگ زردی در میان دارد بهارم را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین از اضطراب دل به کوی یار می ترسم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تپیدنها به باد آخر دهد، مشت غبارم را",
+      "CoupletIndex": 4
+    }
+  ]
+}

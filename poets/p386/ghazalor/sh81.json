@@ -1,0 +1,105 @@
+{
+  "Id": 27489,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۸۱",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۸۱",
+  "FullUrl": "/p386/ghazalor/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیر کعنان چمنی گوشه ی بیت الحزن است\r\nهر کجا بوی گلی باد رساند چمن است\r\nهر که از بندگی خویش مرا باز خرد\r\nبنده ی اویم اگر زاهد و گر برهمن است\r\nحد حسن تو به ادراک نشاید دانست\r\nاین سخن نیز به اندازه ی ادراک من است\r\nهر کسی را قدم ما نبود در ره عشق\r\nهر که در جامه ی ما بود گدای کفن است\r\nعشق از آدم و حوا متولد شده است\r\nتازه بر خاسته این شعله آتش کهن است\r\nصله شعر به عرفی شکر آرد طوطی\r\nخبرش نیست که او طوطی شکر شکن است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیر کعنان چمنی گوشه ی بیت الحزن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر کجا بوی گلی باد رساند چمن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر که از بندگی خویش مرا باز خرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنده ی اویم اگر زاهد و گر برهمن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حد حسن تو به ادراک نشاید دانست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این سخن نیز به اندازه ی ادراک من است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر کسی را قدم ما نبود در ره عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر که در جامه ی ما بود گدای کفن است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عشق از آدم و حوا متولد شده است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تازه بر خاسته این شعله آتش کهن است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صله شعر به عرفی شکر آرد طوطی",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خبرش نیست که او طوطی شکر شکن است",
+      "CoupletIndex": 5
+    }
+  ]
+}

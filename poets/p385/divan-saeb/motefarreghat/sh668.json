@@ -1,0 +1,57 @@
+{
+  "Id": 27274,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۶۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۶۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh668",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh668",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکی هزار شد از عشق ناتمامی من\r\nز آفتاب قیامت فزود خامی من\r\nکمال چون مه نو بوته گدازم شد\r\nبه از تمامی من بود ناتمامی من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکی هزار شد از عشق ناتمامی من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز آفتاب قیامت فزود خامی من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کمال چون مه نو بوته گدازم شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به از تمامی من بود ناتمامی من",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": 30238,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۳۰",
+  "FullUrl": "/p389/mmgh/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا ز گشت گلشن آن آشوب دلها یاد کرد\r\nبلبل از گل گشت و قمری سرو را آزاد کرد\r\nتیغ بر دشمن کشید و دوستداران را ز رشک\r\nبر بدن، هر موی کار خنجر فولاد کرد\r\nعاشق دیوانه را سودای معموری بلاست\r\nهرکه ویران کرد ما را، کعبه را آباد کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا ز گشت گلشن آن آشوب دلها یاد کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلبل از گل گشت و قمری سرو را آزاد کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تیغ بر دشمن کشید و دوستداران را ز رشک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر بدن، هر موی کار خنجر فولاد کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عاشق دیوانه را سودای معموری بلاست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرکه ویران کرد ما را، کعبه را آباد کرد",
+      "CoupletIndex": 2
+    }
+  ]
+}

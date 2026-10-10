@@ -1,0 +1,81 @@
+{
+  "Id": 23382,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۳۰۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۳۰۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر کس سخن به دشمن انصاف می دهد\r\nدر دست زنگی آینه صاف می دهد\r\nهمت نه بی دریغ زر وسیم دادن است\r\nاهل کرم کسی است که انصاف می دهد\r\nچون مور در خرابه دنیا چه سر کنم\r\nجایم چو نقطه بر سر خود قاف می دهد\r\nصائب چه بی دریغ ز کلکت سخن چکد\r\nآب حیات را چه به اسراف می دهد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر کس سخن به دشمن انصاف می دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دست زنگی آینه صاف می دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همت نه بی دریغ زر وسیم دادن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اهل کرم کسی است که انصاف می دهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون مور در خرابه دنیا چه سر کنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جایم چو نقطه بر سر خود قاف می دهد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صائب چه بی دریغ ز کلکت سخن چکد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آب حیات را چه به اسراف می دهد",
+      "CoupletIndex": 3
+    }
+  ]
+}

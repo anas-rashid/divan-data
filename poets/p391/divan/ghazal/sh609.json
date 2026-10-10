@@ -1,0 +1,54 @@
+{
+  "Id": 32701,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۹",
+  "FullUrl": "/p391/divan/ghazal/sh609",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh609",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در فضای سینه چون شاهین یادش بر پرد\r\nمرغ هوشم با تذرو رنگ پر در پر پرد\r\nهر قدر باشد قوی با فرع محتاج است اصل\r\nمرغ اگر شاهین بود از پهلوی شهپر پرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در فضای سینه چون شاهین یادش بر پرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ هوشم با تذرو رنگ پر در پر پرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر قدر باشد قوی با فرع محتاج است اصل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغ اگر شاهین بود از پهلوی شهپر پرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

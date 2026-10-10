@@ -1,0 +1,93 @@
+{
+  "Id": 29926,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/p389/ghazalgm/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی چگونه دلم را پی سراغ شود\r\nکه در سراغ دلم خضر بی‌دماغ شود\r\nهلاک مشرب پروانه‌ای شوم که چو صبح\r\nتمام زندگی‌اش صرف یک چراغ شود\r\nفراق روی بتان را طبیعت اجل است\r\nکه یک فتیله چو سوزد هزار داغ شود\r\nفرشته‌خوی کند عشق، دیوسیرت را\r\nبه گلخن ار گذرد بوی عشق، باغ شود\r\nاگر به گلشن کوی تو بگذرد یک بار\r\nنسیم، باعث ترتیب صد دماغ شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی چگونه دلم را پی سراغ شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در سراغ دلم خضر بی‌دماغ شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هلاک مشرب پروانه‌ای شوم که چو صبح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تمام زندگی‌اش صرف یک چراغ شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فراق روی بتان را طبیعت اجل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که یک فتیله چو سوزد هزار داغ شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فرشته‌خوی کند عشق، دیوسیرت را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به گلخن ار گذرد بوی عشق، باغ شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر به گلشن کوی تو بگذرد یک بار",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نسیم، باعث ترتیب صد دماغ شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

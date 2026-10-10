@@ -1,0 +1,54 @@
+{
+  "Id": 34813,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۵۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۵۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh154",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh154",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تذرو دل، اسیر سرو آزاد تو می باشد\r\nبلای جان، قیامت جلوه شمشاد تو می باشد\r\nبه این شاد است خاطر، کز غم محنت کشان شادی\r\nدل از غم خرابم، عشرت آباد تو می باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تذرو دل، اسیر سرو آزاد تو می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلای جان، قیامت جلوه شمشاد تو می باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به این شاد است خاطر، کز غم محنت کشان شادی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل از غم خرابم، عشرت آباد تو می باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

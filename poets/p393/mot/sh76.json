@@ -1,0 +1,42 @@
+{
+  "Id": 36785,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۷۶",
+  "FullUrl": "/p393/mot/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر پای تو گر صبح و گر شام فتادست\r\nزلفت چه بلا نیک سرانجام فتادست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر پای تو گر صبح و گر شام فتادست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلفت چه بلا نیک سرانجام فتادست",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 32479,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۸۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۸۷",
+  "FullUrl": "/p391/divan/ghazal/sh387",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh387",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نبود دلی که در طلب اعتبار نیست\r\nآسودگی گل چمن روزگار نیست\r\nاز فیض داغ عشق که گل گل شکفته است\r\nدل را امید و بیم خزان و بهار نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نبود دلی که در طلب اعتبار نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسودگی گل چمن روزگار نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از فیض داغ عشق که گل گل شکفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل را امید و بیم خزان و بهار نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

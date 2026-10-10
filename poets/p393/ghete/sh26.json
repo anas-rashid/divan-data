@@ -1,0 +1,54 @@
+{
+  "Id": 36506,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۶",
+  "FullUrl": "/p393/ghete/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وفا روزی که سازد خاک جسم ناتوانم را\r\nسگ کویت کند تعویذ بازو استخوانم را\r\nتواند شد که آزادم کند صیّاد بی‌پروا\r\nبرو ای باغبان ویران نسازی آشیانم را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وفا روزی که سازد خاک جسم ناتوانم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سگ کویت کند تعویذ بازو استخوانم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تواند شد که آزادم کند صیّاد بی‌پروا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برو ای باغبان ویران نسازی آشیانم را",
+      "CoupletIndex": 1
+    }
+  ]
+}

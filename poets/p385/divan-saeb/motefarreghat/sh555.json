@@ -1,0 +1,57 @@
+{
+  "Id": 27161,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۵۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۵۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh555",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh555",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز رخسار تو خونها در دل گل می توان کردن\r\nز زلفت حلقه ها در گوش سنبل می توان کردن\r\nز بس خون جگر مکتوب ما را داده رنگینی\r\nبه جای برگ گل در کار بلبل می توان کردن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز رخسار تو خونها در دل گل می توان کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز زلفت حلقه ها در گوش سنبل می توان کردن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بس خون جگر مکتوب ما را داده رنگینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به جای برگ گل در کار بلبل می توان کردن",
+      "CoupletIndex": 1
+    }
+  ]
+}

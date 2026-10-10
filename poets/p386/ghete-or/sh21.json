@@ -1,0 +1,54 @@
+{
+  "Id": 28188,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۲۱ - آزمایش",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۲۱ - آزمایش",
+  "FullUrl": "/p386/ghete-or/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زهر هنر که زنم لاف ، امتحان شرط است\r\nبیازمای مکن پیش از امتحان انکار\r\nبلی ، کلیمم ،کاذب نبوتم ، کو: نیل؟\r\nبلی ، خلیلم ،ناپخته دعوتم ، کو: نار",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زهر هنر که زنم لاف ، امتحان شرط است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیازمای مکن پیش از امتحان انکار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلی ، کلیمم ،کاذب نبوتم ، کو: نیل؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلی ، خلیلم ،ناپخته دعوتم ، کو: نار",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 34305,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۸۷۸",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۸۷۸",
+  "FullUrl": "/p392/ghazal-hz/sh878",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh878",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز عاشق شکوه ای جز مهر ورزیدن نمی دانی\r\nعبث رنجیده ای، اسباب رنجیدن نمی دانی\r\nاز آن، لب زیر دندان ندامت داری، ای عاقل\r\nکه چون دیوانگان، زنجیر خاییدن نمی دانی\r\nگل داغی ز باغ زندگانی نیست در دستت\r\nتهی کف می روی زاهد،که گل چیدن نمی دانی\r\nنخوردی خون دل ای صوفی و در رقص طاماتی\r\nچه مستی می کنی، چون باده نوشیدن نمی دانی؟\r\nحزین اکنون نواسنج گلستان شد، تو ای بلبل\r\nنفس را درگلو بشکن که نالیدن نمی دانی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز عاشق شکوه ای جز مهر ورزیدن نمی دانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عبث رنجیده ای، اسباب رنجیدن نمی دانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آن، لب زیر دندان ندامت داری، ای عاقل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که چون دیوانگان، زنجیر خاییدن نمی دانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل داغی ز باغ زندگانی نیست در دستت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تهی کف می روی زاهد،که گل چیدن نمی دانی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نخوردی خون دل ای صوفی و در رقص طاماتی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه مستی می کنی، چون باده نوشیدن نمی دانی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین اکنون نواسنج گلستان شد، تو ای بلبل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نفس را درگلو بشکن که نالیدن نمی دانی",
+      "CoupletIndex": 4
+    }
+  ]
+}

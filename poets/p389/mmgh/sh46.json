@@ -1,0 +1,69 @@
+{
+  "Id": 30254,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴۶",
+  "FullUrl": "/p389/mmgh/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا به کی بر لب به جای باده خون آرد کسی\r\nگر به گل‌چیدن رود، داغ جنون آرد کسی\r\nفطرت پستم نمی‌سازد به اقبال بلند\r\nمن خریدارم اگر بخت زبون آرد کسی\r\nطالع فیروز در کارست، نه تدبیر و زور\r\nبهر وصلت چند قوت بر فسون آرد کسی؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا به کی بر لب به جای باده خون آرد کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر به گل‌چیدن رود، داغ جنون آرد کسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فطرت پستم نمی‌سازد به اقبال بلند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من خریدارم اگر بخت زبون آرد کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "طالع فیروز در کارست، نه تدبیر و زور",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بهر وصلت چند قوت بر فسون آرد کسی؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

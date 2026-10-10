@@ -1,0 +1,93 @@
+{
+  "Id": 24873,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۸۰۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۸۰۰",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5800",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5800",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمری چو گرد در قدم کاروان شدم\r\nتا همچو ناله با جرسی همزبان شدم\r\nاز عشق من ز چرخ گذشت آفتاب تو\r\nسرو تو قد کشید چو من باغبان شدم\r\nتا چند بانفاق کسی هم نمک شود؟\r\nدلسرد از آشنایی این دوستان شدم\r\nپرواز، دانه خور نکند بلبل مرا\r\nچون سبزه پا شکسته این بوستان شدم\r\nصائب کسی به رتبه شعرم نمی رسد\r\nدست سخن گرفتم و بر آسمان شدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمری چو گرد در قدم کاروان شدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا همچو ناله با جرسی همزبان شدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از عشق من ز چرخ گذشت آفتاب تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو تو قد کشید چو من باغبان شدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا چند بانفاق کسی هم نمک شود؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دلسرد از آشنایی این دوستان شدم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پرواز، دانه خور نکند بلبل مرا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون سبزه پا شکسته این بوستان شدم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب کسی به رتبه شعرم نمی رسد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دست سخن گرفتم و بر آسمان شدم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26322,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۳۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۳۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh234",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh234",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آب حیات آتش رخساره ها می است\r\nباد مراد کشتی می نغمه نی است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آب حیات آتش رخساره ها می است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باد مراد کشتی می نغمه نی است",
+      "CoupletIndex": 0
+    }
+  ]
+}

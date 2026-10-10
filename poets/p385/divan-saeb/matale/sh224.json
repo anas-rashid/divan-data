@@ -1,0 +1,42 @@
+{
+  "Id": 26312,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۲۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۲۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh224",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh224",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شود خونریزتر حسنی که عاشق بیشتر دارد\r\nکه از هر طوق قمری سر و فتراک دگر دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شود خونریزتر حسنی که عاشق بیشتر دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از هر طوق قمری سر و فتراک دگر دارد",
+      "CoupletIndex": 0
+    }
+  ]
+}

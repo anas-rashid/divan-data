@@ -1,0 +1,54 @@
+{
+  "Id": 34708,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نباشد ناقه ای جز شوق، مجنون الهی را\r\nبه دریا می رساند جذبه ی سیلاب، ماهی را\r\nسر هرکس که از همّت، چو ادهم گردن افرازد\r\nبه نعلین گدایان می فروشد، تاج شاهی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نباشد ناقه ای جز شوق، مجنون الهی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به دریا می رساند جذبه ی سیلاب، ماهی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر هرکس که از همّت، چو ادهم گردن افرازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به نعلین گدایان می فروشد، تاج شاهی را",
+      "CoupletIndex": 1
+    }
+  ]
+}

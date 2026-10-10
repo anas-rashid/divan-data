@@ -1,0 +1,54 @@
+{
+  "Id": 37212,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴۰",
+  "FullUrl": "/p393/robaee/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دور کمانداری چشم مستت\r\nپیکان خورده است عالمی از دستت\r\nقربان شومت بگو که من از چه گناه\r\nشرمندهٔ یک تیر نیم از شستت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دور کمانداری چشم مستت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیکان خورده است عالمی از دستت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قربان شومت بگو که من از چه گناه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شرمندهٔ یک تیر نیم از شستت",
+      "CoupletIndex": 1
+    }
+  ]
+}

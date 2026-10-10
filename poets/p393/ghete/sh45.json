@@ -1,0 +1,54 @@
+{
+  "Id": 36525,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۵",
+  "FullUrl": "/p393/ghete/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یار از برم به پیرهن لاله‌گون گذشت\r\nچندان گریستم که ز سر سیل خون گذشت\r\nاز بس گریستیم بر احوال کوهکن\r\nسیلاب اشک از کمر بی‌ستون گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار از برم به پیرهن لاله‌گون گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چندان گریستم که ز سر سیل خون گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس گریستیم بر احوال کوهکن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیلاب اشک از کمر بی‌ستون گذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26550,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۶۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۶۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh462",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh462",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از جلوه ات ز هوش من زار می روم\r\nچندان که می روی تو من از کار می روم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جلوه ات ز هوش من زار می روم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چندان که می روی تو من از کار می روم",
+      "CoupletIndex": 0
+    }
+  ]
+}

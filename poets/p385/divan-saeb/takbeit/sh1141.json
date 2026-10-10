@@ -1,0 +1,45 @@
+{
+  "Id": 18672,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۴۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۴۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1141",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1141",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عزیزی خواری و خواری عزیزی بار می‌آورد\r\nدر آغوش پدر از چاه و زندان بیش می‌لرزم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عزیزی خواری و خواری عزیزی بار می‌آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در آغوش پدر از چاه و زندان بیش می‌لرزم",
+      "CoupletIndex": 0
+    }
+  ]
+}

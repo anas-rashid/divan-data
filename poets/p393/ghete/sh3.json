@@ -1,0 +1,54 @@
+{
+  "Id": 36483,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳",
+  "FullUrl": "/p393/ghete/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به دریای غمت افتاده و بیچاره گردیدم\r\nبه چندین دست و پا کردن ندیدم روی ساحل‌ها\r\nپریدم ز آشیان خود رسیدم در قفس واقف\r\nمن از شوق گرفتاری یکی کردم دو منزل‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به دریای غمت افتاده و بیچاره گردیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به چندین دست و پا کردن ندیدم روی ساحل‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پریدم ز آشیان خود رسیدم در قفس واقف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من از شوق گرفتاری یکی کردم دو منزل‌ها",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37268,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۹۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۹۶",
+  "FullUrl": "/p393/robaee/sh96",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh96",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فردا که به اهل زهد جنت بخشند\r\nدر مائدهٔ نا و نوش نعمت بخشند\r\nما بی‌عملان نیز امیدی داریم\r\nشاید ما را به آه و حسرت بخشند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فردا که به اهل زهد جنت بخشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در مائدهٔ نا و نوش نعمت بخشند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما بی‌عملان نیز امیدی داریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاید ما را به آه و حسرت بخشند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 27477,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۶۹",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۶۹",
+  "FullUrl": "/p386/ghazalor/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا خط به گرد آن لب شیرین شمایل است\r\nابر میان عیسی و خورشید حایل است\r\nاز گل چه گونه پای به اندیشه بر کشم\r\nکاندیشه این چه در ره او، پای در گل است\r\nاز کفر عشق باز ندارم که روز حشر\r\nآموزگار کفر من است آن که سائل است\r\nدر ملک عشق کس نشناسد غم معاش\r\nسنگ و سفال کوجه ی ما پاره ی دل است\r\nآن کو به راه کفر چو عرفی شتاب کرد\r\nفرسنگ های کعبه به دنبال محمل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا خط به گرد آن لب شیرین شمایل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابر میان عیسی و خورشید حایل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از گل چه گونه پای به اندیشه بر کشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندیشه این چه در ره او، پای در گل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از کفر عشق باز ندارم که روز حشر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آموزگار کفر من است آن که سائل است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در ملک عشق کس نشناسد غم معاش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سنگ و سفال کوجه ی ما پاره ی دل است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آن کو به راه کفر چو عرفی شتاب کرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فرسنگ های کعبه به دنبال محمل است",
+      "CoupletIndex": 4
+    }
+  ]
+}

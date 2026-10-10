@@ -1,0 +1,93 @@
+{
+  "Id": 27779,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳۷۱",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳۷۱",
+  "FullUrl": "/p386/ghazalor/sh371",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh371",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همین معامله ما را بس است با زنار\r\nکه با طبیعت ما گشته آشنا زنار\r\nتمام عمر به تسبیح کرده ام بازی\r\nکجا طبیعت طفلانه و کجا زنار\r\nمن و تو بیهده کوشیم خود به این قسمت\r\nخبر دهد که که را سبحه و که را زنار\r\nبگو به دیر مغان آ و رایگان بربند\r\nامام ما که به جان خواهد از ریا زنار\r\nگذشت عمر و ز مستی نیافتم عرفی\r\nکه سبحه بود مرا دام ره یا زنار",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همین معامله ما را بس است با زنار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که با طبیعت ما گشته آشنا زنار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تمام عمر به تسبیح کرده ام بازی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کجا طبیعت طفلانه و کجا زنار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "من و تو بیهده کوشیم خود به این قسمت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خبر دهد که که را سبحه و که را زنار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بگو به دیر مغان آ و رایگان بربند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "امام ما که به جان خواهد از ریا زنار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گذشت عمر و ز مستی نیافتم عرفی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که سبحه بود مرا دام ره یا زنار",
+      "CoupletIndex": 4
+    }
+  ]
+}

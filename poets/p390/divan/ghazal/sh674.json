@@ -1,0 +1,93 @@
+{
+  "Id": 31641,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۷۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۷۴",
+  "FullUrl": "/p390/divan/ghazal/sh674",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh674",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیستی عیش و طرب، بیگانگی کم یاد گیر\r\nرسم آمیزش به اهل عالم از غم یاد گیر\r\nاز طرب هرکس که خندد، گریه بر خود می کند\r\nدر عروسی خانه رو، آیین ماتم یاد گیر\r\nیک صبوحی بیش در اطراف این گلشن مکش\r\nگل سبکروحی نمی داند، ز شبنم یاد گیر\r\nبعد هر عمری به تیغ خویش آبی می دهند\r\nرسم دنیاداری از شاهان عالم یاد گیر\r\nحال هرکس می شود معلوم از آثارش سلیم\r\nنام جم راگر نمی دانی، ز خاتم یادگیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیستی عیش و طرب، بیگانگی کم یاد گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رسم آمیزش به اهل عالم از غم یاد گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از طرب هرکس که خندد، گریه بر خود می کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عروسی خانه رو، آیین ماتم یاد گیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک صبوحی بیش در اطراف این گلشن مکش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گل سبکروحی نمی داند، ز شبنم یاد گیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بعد هر عمری به تیغ خویش آبی می دهند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رسم دنیاداری از شاهان عالم یاد گیر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حال هرکس می شود معلوم از آثارش سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نام جم راگر نمی دانی، ز خاتم یادگیر",
+      "CoupletIndex": 4
+    }
+  ]
+}

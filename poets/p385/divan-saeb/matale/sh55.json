@@ -1,0 +1,42 @@
+{
+  "Id": 26143,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh55",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh55",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تمنای تو دارد در کشاکش آسمان‌ها را\r\nهدف خمیازه آغوش می‌سازد کمان‌ها را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تمنای تو دارد در کشاکش آسمان‌ها را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هدف خمیازه آغوش می‌سازد کمان‌ها را",
+      "CoupletIndex": 0
+    }
+  ]
+}

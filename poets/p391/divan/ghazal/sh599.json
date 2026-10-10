@@ -1,0 +1,54 @@
+{
+  "Id": 32691,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۹۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۹",
+  "FullUrl": "/p391/divan/ghazal/sh599",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh599",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا غنچهٔ دل بلبل گل پیرهنی شد\r\nهر قطرهٔ خون در تن زارم چمنی شد\r\nای جان جهان کشتهٔ الماس ستم را\r\nهر رگ به تن از درد تو تار کفنی شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا غنچهٔ دل بلبل گل پیرهنی شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر قطرهٔ خون در تن زارم چمنی شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای جان جهان کشتهٔ الماس ستم را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر رگ به تن از درد تو تار کفنی شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

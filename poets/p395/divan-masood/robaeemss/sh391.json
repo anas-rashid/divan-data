@@ -1,0 +1,57 @@
+{
+  "Id": 37905,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۹۱",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۹۱",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh391",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh391",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای چرخ همه کار به پرگار زدی\r\nگر مهر درش مگر به مسمار زدی\r\nای شب تو ردای خویش بر قار زدی\r\nای تیغ زدوده صبح زنگار زدی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چرخ همه کار به پرگار زدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر مهر درش مگر به مسمار زدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای شب تو ردای خویش بر قار زدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای تیغ زدوده صبح زنگار زدی",
+      "CoupletIndex": 1
+    }
+  ]
+}

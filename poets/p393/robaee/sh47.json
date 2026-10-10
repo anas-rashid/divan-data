@@ -1,0 +1,54 @@
+{
+  "Id": 37219,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۴۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۴۷",
+  "FullUrl": "/p393/robaee/sh47",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh47",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بس ز جفای تو دل آزرده شده است\r\nآتشکدهٔ شوق من افسرده شده است\r\nنشتر کاری مکن ز مژگان بگذار\r\nخون در رگ آرزوی من مرده شده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بس ز جفای تو دل آزرده شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آتشکدهٔ شوق من افسرده شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشتر کاری مکن ز مژگان بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خون در رگ آرزوی من مرده شده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

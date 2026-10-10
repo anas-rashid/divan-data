@@ -1,0 +1,66 @@
+{
+  "Id": 37403,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۱۸",
+  "FullUrl": "/p394/ghazal/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سفر چگونه کنی از دیار خاطرها\r\nکه دامن تو بگیرد غبار خاطرها\r\nز بزم می برو ای محتسب که دستارت\r\nچو پنبهٔ سر میناست بار خاطرها\r\nچو میل سرمه بر آمد ز چشم جانان گفت\r\nکه سیر میکده شوید غبار خاطرها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سفر چگونه کنی از دیار خاطرها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که دامن تو بگیرد غبار خاطرها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بزم می برو ای محتسب که دستارت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو پنبهٔ سر میناست بار خاطرها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو میل سرمه بر آمد ز چشم جانان گفت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که سیر میکده شوید غبار خاطرها",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34439,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۴۴",
+  "FullUrl": "/p392/robaee-hz/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از حرف وداع، دیده جیحون شد و رفت\r\nهوش از سر سودا زده مجنون شد و رفت\r\nتن شعله کشید و دود آهی برخاست\r\nدل خون شد و خون ز دیده بیرون شد و رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از حرف وداع، دیده جیحون شد و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوش از سر سودا زده مجنون شد و رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تن شعله کشید و دود آهی برخاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل خون شد و خون ز دیده بیرون شد و رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

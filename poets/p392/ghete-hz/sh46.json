@@ -1,0 +1,69 @@
+{
+  "Id": 34385,
+  "CatId": 1107,
+  "Title": "شمارهٔ ۴۶ - قطعه",
+  "FullTitle": "حزین لاہیجی » قطعات » شمارهٔ ۴۶ - قطعه",
+  "FullUrl": "/p392/ghete-hz/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghete-hz/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آتش زده ایم اختران را\r\nافروخته شمع خاوران را\r\nپرورده، در آستین مژگان\r\nاشکم، دریای بی کران را\r\nاز محشر داغ سینهٔ من\r\nبیم است ستاره منکران را",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آتش زده ایم اختران را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افروخته شمع خاوران را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرورده، در آستین مژگان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشکم، دریای بی کران را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از محشر داغ سینهٔ من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بیم است ستاره منکران را",
+      "CoupletIndex": 2
+    }
+  ]
+}

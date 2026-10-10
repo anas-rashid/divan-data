@@ -1,0 +1,93 @@
+{
+  "Id": 33797,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۷۰",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۷۰",
+  "FullUrl": "/p392/ghazal-hz/sh370",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh370",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترسم از چشم خوشت غافل نگاهی سر زند\r\nدر دل بی طاقت من اشک و آهی سر زند\r\nمن به یک نظاره حیرانم چه گل چینم ز تو؟\r\nحسن شوخت هر نفس، از جلوه گاهی سر زند\r\nعمر صرف دوستی کردم، بری حاصل نداد\r\nزین چمن می خواستم مردم گیاهی سر زند\r\nگر شود آن برق جولان، گرم خودداری چنین\r\nشعله ای ترسم ز هر مشت گیاهی سر زند\r\nاز تغافل های گرم یار می ترسم حزین\r\nآه بی تابانه ای از دادخواهی سر زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترسم از چشم خوشت غافل نگاهی سر زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل بی طاقت من اشک و آهی سر زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من به یک نظاره حیرانم چه گل چینم ز تو؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن شوخت هر نفس، از جلوه گاهی سر زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عمر صرف دوستی کردم، بری حاصل نداد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زین چمن می خواستم مردم گیاهی سر زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر شود آن برق جولان، گرم خودداری چنین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شعله ای ترسم ز هر مشت گیاهی سر زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از تغافل های گرم یار می ترسم حزین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آه بی تابانه ای از دادخواهی سر زند",
+      "CoupletIndex": 4
+    }
+  ]
+}

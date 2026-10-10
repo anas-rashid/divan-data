@@ -1,0 +1,69 @@
+{
+  "Id": 38362,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۳۵ - سخن بی تکلف",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۳۵ - سخن بی تکلف",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای بد از نیک فرق کرده بسی\r\nقدر دعوی شناخته ز خسی\r\nبده انصاف حق که هست امروز\r\nدانشت را تمام دست رسی\r\nبه تکلف چنین سخن خیزد\r\nدر ثنای کسی ز طبع کسی؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بد از نیک فرق کرده بسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قدر دعوی شناخته ز خسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بده انصاف حق که هست امروز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانشت را تمام دست رسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به تکلف چنین سخن خیزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در ثنای کسی ز طبع کسی؟",
+      "CoupletIndex": 2
+    }
+  ]
+}

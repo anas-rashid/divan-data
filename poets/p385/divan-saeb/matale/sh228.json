@@ -1,0 +1,42 @@
+{
+  "Id": 26316,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۲۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۲۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به هر رنگی که باشد دل، همان صورت جهان گیرد\r\nبهار از زردی آیینه، سیمای خزان گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به هر رنگی که باشد دل، همان صورت جهان گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بهار از زردی آیینه، سیمای خزان گیرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

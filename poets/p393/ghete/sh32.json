@@ -1,0 +1,54 @@
+{
+  "Id": 36512,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۲",
+  "FullUrl": "/p393/ghete/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دیوانهٔ پیغام نگار است دل ما\r\nسودازدهٔ بوی بهار است دل ما\r\nبازیچهٔ اطفال سرشک است در آن کوی\r\nاز جرم وفا این همه خوار است دل ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دیوانهٔ پیغام نگار است دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودازدهٔ بوی بهار است دل ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بازیچهٔ اطفال سرشک است در آن کوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از جرم وفا این همه خوار است دل ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

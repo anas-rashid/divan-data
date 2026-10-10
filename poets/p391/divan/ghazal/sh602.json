@@ -1,0 +1,54 @@
+{
+  "Id": 32694,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۰۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۰۲",
+  "FullUrl": "/p391/divan/ghazal/sh602",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh602",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شور در زیر فلک زان لعل میگون شد بلند\r\nدر جهان غوغا از آن بالای موزون شد بلند\r\nسایهٔ نعلی ست در هنگام جولانش هلال\r\nمهر گردی از سم گلگون به گردون شد بلند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شور در زیر فلک زان لعل میگون شد بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در جهان غوغا از آن بالای موزون شد بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سایهٔ نعلی ست در هنگام جولانش هلال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مهر گردی از سم گلگون به گردون شد بلند",
+      "CoupletIndex": 1
+    }
+  ]
+}

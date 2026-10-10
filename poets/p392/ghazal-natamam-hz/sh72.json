@@ -1,0 +1,69 @@
+{
+  "Id": 34731,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هم آغوش است، سیل خانه زادی منزل ما را\r\nرگ ابر است مژگان، دیده دریا دل ما را\r\nبه هر لخت جگر از داغ حسرت دوزخی دارم\r\nچه می دانی کدامین شعله می سوزد دل ما را؟\r\nز دور ای چرخ شوراختر، تماشا کن که روشن شد\r\nچراغ از داغ هجر هم نشینان محفل ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هم آغوش است، سیل خانه زادی منزل ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رگ ابر است مژگان، دیده دریا دل ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به هر لخت جگر از داغ حسرت دوزخی دارم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه می دانی کدامین شعله می سوزد دل ما را؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز دور ای چرخ شوراختر، تماشا کن که روشن شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چراغ از داغ هجر هم نشینان محفل ما را",
+      "CoupletIndex": 2
+    }
+  ]
+}

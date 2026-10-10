@@ -1,0 +1,57 @@
+{
+  "Id": 37696,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۸۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۸۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh182",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh182",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون پیرهنت گرفته ام تنگ به بر\r\nبر نارم همچو دامن از پای تو سر\r\nدر گردن تو خورده دو دستم چنبر\r\nانگشت چو خط روی در یکدیگر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون پیرهنت گرفته ام تنگ به بر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر نارم همچو دامن از پای تو سر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در گردن تو خورده دو دستم چنبر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "انگشت چو خط روی در یکدیگر",
+      "CoupletIndex": 1
+    }
+  ]
+}

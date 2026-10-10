@@ -1,0 +1,69 @@
+{
+  "Id": 26939,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh333",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh333",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که شبها ز سر زانوی خود بالین کرد\r\nغنچه سان جیب و بغل پرسخن رنگین کرد\r\nزهر چشمش چه عجب گر به تبسم کم شد؟\r\nبه نمک تلخی بادام توان شیرین کرد\r\nآه ازین عشق ستم پیشه که با چندین سعی\r\nدهن تیشه فرهاد به خون شیرین کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که شبها ز سر زانوی خود بالین کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غنچه سان جیب و بغل پرسخن رنگین کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زهر چشمش چه عجب گر به تبسم کم شد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به نمک تلخی بادام توان شیرین کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آه ازین عشق ستم پیشه که با چندین سعی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دهن تیشه فرهاد به خون شیرین کرد",
+      "CoupletIndex": 2
+    }
+  ]
+}

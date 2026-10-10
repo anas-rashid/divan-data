@@ -1,0 +1,42 @@
+{
+  "Id": 27349,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۱۳",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh13",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh13",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از رمیدن ها خیال چشم آن وحشی غزال\r\nسینه تنگ مرا دامان محشر کرده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از رمیدن ها خیال چشم آن وحشی غزال",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سینه تنگ مرا دامان محشر کرده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

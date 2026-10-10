@@ -1,0 +1,45 @@
+{
+  "Id": 18278,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۴۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۴۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh747",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh747",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عاقبت در سینه‌ام دل از تپیدن باز ماند\r\nبس که پر زد در قفس این مرغ از پرواز ماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاقبت در سینه‌ام دل از تپیدن باز ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس که پر زد در قفس این مرغ از پرواز ماند",
+      "CoupletIndex": 0
+    }
+  ]
+}

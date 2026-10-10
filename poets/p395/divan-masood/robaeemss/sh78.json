@@ -1,0 +1,57 @@
+{
+  "Id": 37592,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز جهان بهار از ایران ملکست\r\nمیدان همه پر نگار از ایران ملکست\r\nرامش چو گلی به بار از ایران ملکست\r\nافروخته شه کنار از ایران ملکست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز جهان بهار از ایران ملکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "میدان همه پر نگار از ایران ملکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رامش چو گلی به بار از ایران ملکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افروخته شه کنار از ایران ملکست",
+      "CoupletIndex": 1
+    }
+  ]
+}

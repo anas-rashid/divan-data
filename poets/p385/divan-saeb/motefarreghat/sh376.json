@@ -1,0 +1,69 @@
+{
+  "Id": 26982,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۷۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۷۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh376",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh376",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرزلف سخن آن روز به دستم دادند\r\nکه به هر مو چو سر زلف شکستم دادند\r\nپرده دیده من کاغذ سوزن زده شد\r\nتا سر رشته مقصود به دستم دادند\r\nنیست در طالع من عقده گشایی، ورنه\r\nعقده چون تاک به اندازه دستم دادند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرزلف سخن آن روز به دستم دادند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که به هر مو چو سر زلف شکستم دادند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پرده دیده من کاغذ سوزن زده شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سر رشته مقصود به دستم دادند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست در طالع من عقده گشایی، ورنه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عقده چون تاک به اندازه دستم دادند",
+      "CoupletIndex": 2
+    }
+  ]
+}

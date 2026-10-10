@@ -1,0 +1,54 @@
+{
+  "Id": 36536,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۵۶",
+  "FullUrl": "/p393/ghete/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا صوت دلکش تو به گوشم رسیده است\r\nمطرب چه گویمت که چه هوشم رسیده است\r\nجانانه دوش از بر من رفت زین الم\r\nسیلاب اشک تا بر دوشم رسیده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا صوت دلکش تو به گوشم رسیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مطرب چه گویمت که چه هوشم رسیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانانه دوش از بر من رفت زین الم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیلاب اشک تا بر دوشم رسیده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

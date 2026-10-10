@@ -1,0 +1,57 @@
+{
+  "Id": 30673,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱۶",
+  "FullUrl": "/p389/robghm/sh416",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh416",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای خواهش عشقت آرزوی همه کس\r\nپرواز کند سوی تو عنقا و مگس\r\nمرغان همه نزدیک به دام آمده‌اند\r\nتا بخت به نام که زند فال قفس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خواهش عشقت آرزوی همه کس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرواز کند سوی تو عنقا و مگس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرغان همه نزدیک به دام آمده‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بخت به نام که زند فال قفس",
+      "CoupletIndex": 1
+    }
+  ]
+}

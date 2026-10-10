@@ -1,0 +1,57 @@
+{
+  "Id": 26704,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش اشکم که خروشنده تر از سیلاب است\r\nبحر را مهر خموشی به لب از گرداب است\r\nتا ازان حسن رباینده نظر یافته است\r\nآب آیینه رباینده تر از سیلاب است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش اشکم که خروشنده تر از سیلاب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحر را مهر خموشی به لب از گرداب است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا ازان حسن رباینده نظر یافته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آب آیینه رباینده تر از سیلاب است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26935,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۲۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh329",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh329",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رهنوردی که مدارش به توکل گذرد\r\nگر قدم بر سر دریا نهد از پل گذرد\r\nکی به فکر خس و خاشاک من افتد برقی\r\nکز سیه خانه لیلی به تغافل گذرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رهنوردی که مدارش به توکل گذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر قدم بر سر دریا نهد از پل گذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کی به فکر خس و خاشاک من افتد برقی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز سیه خانه لیلی به تغافل گذرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

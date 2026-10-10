@@ -1,0 +1,54 @@
+{
+  "Id": 34758,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۹۹",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا بود داغها، دل آزرده حال داشت\r\nاین مرغ پرشکسته، چمن زیر بال داشت\r\nدر گلشن از جمال تو، ای آفتاب روی\r\nشبنم نبود، گل عرق انفعال داشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا بود داغها، دل آزرده حال داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این مرغ پرشکسته، چمن زیر بال داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در گلشن از جمال تو، ای آفتاب روی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شبنم نبود، گل عرق انفعال داشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

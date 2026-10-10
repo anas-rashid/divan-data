@@ -1,0 +1,54 @@
+{
+  "Id": 37379,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۲۰۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۲۰۷",
+  "FullUrl": "/p393/robaee/sh207",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh207",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عقل گرفتم به فلاطون برسی\r\nسودی ندهد اگر به گردون برسی\r\nدر کوچهٔ زنجیر جنون پا بگذار\r\nشاید به سر خانه مجنون برسی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عقل گرفتم به فلاطون برسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سودی ندهد اگر به گردون برسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کوچهٔ زنجیر جنون پا بگذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاید به سر خانه مجنون برسی",
+      "CoupletIndex": 1
+    }
+  ]
+}

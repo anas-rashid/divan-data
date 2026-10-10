@@ -1,0 +1,57 @@
+{
+  "Id": 33323,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۵۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۵۲",
+  "FullUrl": "/p391/divan/robaee/sh52",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh52",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زآن خنجر مژگان ز بدن‌ها جان شد\r\nزآن هندوی چشم غارت ایمان شد\r\nپامال خرام گشت خون دل خلق\r\nتا کفش حنا به پای او چسبان شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآن خنجر مژگان ز بدن‌ها جان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زآن هندوی چشم غارت ایمان شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پامال خرام گشت خون دل خلق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کفش حنا به پای او چسبان شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

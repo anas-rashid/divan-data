@@ -1,0 +1,57 @@
+{
+  "Id": 37853,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۳۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۳۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh339",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh339",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاه بترس از آنکه پرسند از تو\r\nجایی که تو دانی که نترسند از تو\r\nخرسند نه ای به پادشاهی ز خدای\r\nپس چون باشم به بند خرسند از تو",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه بترس از آنکه پرسند از تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جایی که تو دانی که نترسند از تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خرسند نه ای به پادشاهی ز خدای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پس چون باشم به بند خرسند از تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

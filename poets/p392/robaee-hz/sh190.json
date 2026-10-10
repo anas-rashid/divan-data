@@ -1,0 +1,57 @@
+{
+  "Id": 34585,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۹۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۹۰",
+  "FullUrl": "/p392/robaee-hz/sh190",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh190",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنم که به ملک نیستی سلطانم\r\nبا سامانم اگر چه بی سامانم\r\nدیری ست چو آسیا درین کهنه سرا\r\nسرگردانم که از چه سرگردانم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنم که به ملک نیستی سلطانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با سامانم اگر چه بی سامانم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیری ست چو آسیا درین کهنه سرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگردانم که از چه سرگردانم",
+      "CoupletIndex": 1
+    }
+  ]
+}

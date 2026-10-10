@@ -1,0 +1,81 @@
+{
+  "Id": 22319,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۲۴۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۲۴۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3246",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3246",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قطره بیجگری کز نظر ما افتد\r\nشور حشری شود و در دل دریا افتد\r\nخون فرهاد سر از خواب عدم بردارد\r\nآتش لاله چو در دامن صحرا افتد\r\nعذر زندانی بی جرم چه خواهد گفتن؟\r\nچشم یعقوب چو بر چشم زلیخا افتد\r\nصائب از عمر همین کام تمنا دارد\r\nکه ز هند آید و در خاک نجف وا افتد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قطره بیجگری کز نظر ما افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شور حشری شود و در دل دریا افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون فرهاد سر از خواب عدم بردارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آتش لاله چو در دامن صحرا افتد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عذر زندانی بی جرم چه خواهد گفتن؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم یعقوب چو بر چشم زلیخا افتد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صائب از عمر همین کام تمنا دارد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که ز هند آید و در خاک نجف وا افتد",
+      "CoupletIndex": 3
+    }
+  ]
+}

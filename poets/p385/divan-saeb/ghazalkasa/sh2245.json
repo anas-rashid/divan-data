@@ -1,0 +1,93 @@
+{
+  "Id": 21318,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۲۴۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۲۴۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از نظر هرگز خیالش دور نیست\r\nیک نفس دریای ما بی شور نیست\r\nدر دهان اژدهای خم رود\r\nمست بی پرواتر از مخمور نیست\r\nخنده بر برق تجلی می زند\r\nخانه دل چون بنای طور نیست\r\nنیست در فرمان بدگویان زبان\r\nاختیار نیش با زنبور نیست\r\nگر ندارد سکته چین بر جبین\r\nبیت ابروی تو چون مشهور نیست؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از نظر هرگز خیالش دور نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک نفس دریای ما بی شور نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دهان اژدهای خم رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مست بی پرواتر از مخمور نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خنده بر برق تجلی می زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خانه دل چون بنای طور نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیست در فرمان بدگویان زبان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اختیار نیش با زنبور نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر ندارد سکته چین بر جبین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بیت ابروی تو چون مشهور نیست؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

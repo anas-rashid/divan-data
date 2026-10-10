@@ -1,0 +1,66 @@
+{
+  "Id": 32395,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۰۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۰۳",
+  "FullUrl": "/p391/divan/ghazal/sh303",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh303",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آرام تو نشانهٔ هواداران دل است\r\nتعبیرخوابهای تو بیداری دل است\r\nصبح است ای فلک به هراس از خدنگ آه\r\nاندیشه کن که وقت کمانداری دل است\r\nبدرد عشق ره نبرد کس به گنج وصل\r\nیعنی کلید او به کف زاری دل است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آرام تو نشانهٔ هواداران دل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تعبیرخوابهای تو بیداری دل است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبح است ای فلک به هراس از خدنگ آه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندیشه کن که وقت کمانداری دل است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بدرد عشق ره نبرد کس به گنج وصل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یعنی کلید او به کف زاری دل است",
+      "CoupletIndex": 2
+    }
+  ]
+}

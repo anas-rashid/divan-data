@@ -1,0 +1,57 @@
+{
+  "Id": 26819,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۱۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۱۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh213",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh213",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فتنه و آشوب از هرسو به من رو کرده‌اند\r\nتا دگر چشمان پرکارش چه جادو کرده‌اند\r\nچشم آهوچشم من هرگز به این مستی نبود\r\nگوییا در سرمه‌اش بیهوش دارو کرده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فتنه و آشوب از هرسو به من رو کرده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دگر چشمان پرکارش چه جادو کرده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم آهوچشم من هرگز به این مستی نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوییا در سرمه‌اش بیهوش دارو کرده‌اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

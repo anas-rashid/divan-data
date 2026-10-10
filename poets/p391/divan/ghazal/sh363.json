@@ -1,0 +1,42 @@
+{
+  "Id": 32455,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۶۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۶۳",
+  "FullUrl": "/p391/divan/ghazal/sh363",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh363",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالم از جوش بهاران چه بسامان شده است\r\nشش جهت نام خدا یک گل خندان شده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم از جوش بهاران چه بسامان شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شش جهت نام خدا یک گل خندان شده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

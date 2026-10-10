@@ -1,0 +1,54 @@
+{
+  "Id": 34720,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۶۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۶۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "که خواهد کرد یاد از خستگان بی نوا آنجا؟\r\nشکایت نیست اینجا محرم ومهر و وفا آنجا\r\nمن سرگشته، دور از کوی جانان با که درسازم؟\r\nدل آنجا، دلبر آنجا، مطلب آنجا، مدعا آنجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "که خواهد کرد یاد از خستگان بی نوا آنجا؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکایت نیست اینجا محرم ومهر و وفا آنجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من سرگشته، دور از کوی جانان با که درسازم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل آنجا، دلبر آنجا، مطلب آنجا، مدعا آنجا",
+      "CoupletIndex": 1
+    }
+  ]
+}

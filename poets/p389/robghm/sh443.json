@@ -1,0 +1,57 @@
+{
+  "Id": 30700,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۴۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۴۳",
+  "FullUrl": "/p389/robghm/sh443",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh443",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارم به دو دست خویش دایم تن خویش\r\nآویخته‌ام چو خار در دامن خویش\r\nمعذورم اگر ز خویش غافل نشوم\r\nکس چون کند اعتماد بر دشمن خویش؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم به دو دست خویش دایم تن خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آویخته‌ام چو خار در دامن خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معذورم اگر ز خویش غافل نشوم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس چون کند اعتماد بر دشمن خویش؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

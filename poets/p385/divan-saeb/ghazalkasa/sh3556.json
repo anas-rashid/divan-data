@@ -1,0 +1,93 @@
+{
+  "Id": 22629,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۵۵۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۵۵۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3556",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3556",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دانه خال تو روزی که مرا در دل بود\r\nحاصل روی زمین از من بی حاصل بود\r\nمست نازی که تسلی به خبر بودم ازو\r\nدر میان من و او بیخبری حایل بود\r\nنیست امروز غم روی زمین بر دل من\r\nدایم این آینه را آینه دان از گل بود\r\nریخت در دامن صحرای جنون باد بهار\r\nنقد رازی که مرا غنچه صفت در دل بود\r\nصائب اوراق جهان را به نظر آوردم\r\nهرچه جز نقطه شک بود خط باطل بود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دانه خال تو روزی که مرا در دل بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حاصل روی زمین از من بی حاصل بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مست نازی که تسلی به خبر بودم ازو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در میان من و او بیخبری حایل بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست امروز غم روی زمین بر دل من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دایم این آینه را آینه دان از گل بود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ریخت در دامن صحرای جنون باد بهار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نقد رازی که مرا غنچه صفت در دل بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب اوراق جهان را به نظر آوردم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هرچه جز نقطه شک بود خط باطل بود",
+      "CoupletIndex": 4
+    }
+  ]
+}

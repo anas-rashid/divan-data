@@ -1,0 +1,81 @@
+{
+  "Id": 34746,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۸۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آشفته چو من نبود، سنبل به گلستان‌ها\r\nشوریده سرم دارند، این طرّه پریشان‌ها\r\nشرح غم دل گوید، پروانه به خاموشی\r\nبلبل به چمن سنجد، این پرده به دستان‌ها\r\nشور لب محبوبان، افزود ز عشق من\r\nحق نمکی دارد، داغم به نمکدان‌ها\r\nلیلی‌کدهٔ دل را، گر راه نکردی گم\r\nبیهوده نمی‌گشتی، مجنون به بیابان‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آشفته چو من نبود، سنبل به گلستان‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شوریده سرم دارند، این طرّه پریشان‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شرح غم دل گوید، پروانه به خاموشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلبل به چمن سنجد، این پرده به دستان‌ها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شور لب محبوبان، افزود ز عشق من",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حق نمکی دارد، داغم به نمکدان‌ها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "لیلی‌کدهٔ دل را، گر راه نکردی گم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بیهوده نمی‌گشتی، مجنون به بیابان‌ها",
+      "CoupletIndex": 3
+    }
+  ]
+}

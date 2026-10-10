@@ -1,0 +1,42 @@
+{
+  "Id": 26366,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۷۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صبح وصل است و مرا حال چنین می گذرد\r\nشب آدینه مستان به ازین می گذرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح وصل است و مرا حال چنین می گذرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شب آدینه مستان به ازین می گذرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

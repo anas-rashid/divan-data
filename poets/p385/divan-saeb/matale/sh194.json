@@ -1,0 +1,42 @@
+{
+  "Id": 26282,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۹۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۹۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh194",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh194",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن که لب باز از سر رغبت به غیبت می کند\r\nحلقه ذکر خدا را طوق لعنت می کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن که لب باز از سر رغبت به غیبت می کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حلقه ذکر خدا را طوق لعنت می کند",
+      "CoupletIndex": 0
+    }
+  ]
+}

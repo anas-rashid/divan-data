@@ -1,0 +1,57 @@
+{
+  "Id": 30306,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۹",
+  "FullUrl": "/p389/robghm/sh49",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh49",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان از تو دمی برد دمی دیگر باخت\r\nتن از تو گهی قوی شد و گاه گداخت\r\nنه در نظر آیی و نه در دل گنجی\r\nای عشق، حقیقت تو را کس نشناخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان از تو دمی برد دمی دیگر باخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تن از تو گهی قوی شد و گاه گداخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه در نظر آیی و نه در دل گنجی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای عشق، حقیقت تو را کس نشناخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

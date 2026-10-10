@@ -1,0 +1,57 @@
+{
+  "Id": 26757,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۵۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh151",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh151",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا به نیم تبسم خراب کرد و گذشت\r\nنگاه گرم عنان را به خواب کرد و گذشت\r\nفغان که دولت پا در رکاب خوبی را\r\nدو چشم ظالم او صرف خواب کرد و گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا به نیم تبسم خراب کرد و گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگاه گرم عنان را به خواب کرد و گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فغان که دولت پا در رکاب خوبی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو چشم ظالم او صرف خواب کرد و گذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

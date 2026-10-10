@@ -1,0 +1,57 @@
+{
+  "Id": 28062,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۹",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۹",
+  "FullUrl": "/p386/robaeeor/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از باب مغان که رسمشان جود و عطاست\r\nجامی بدهند این نه آیین سخاست\r\nشکرانهٔ صاف های لب تشه طلب\r\nدردی بدهند، تشنگانیم، رواست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از باب مغان که رسمشان جود و عطاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جامی بدهند این نه آیین سخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکرانهٔ صاف های لب تشه طلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردی بدهند، تشنگانیم، رواست",
+      "CoupletIndex": 1
+    }
+  ]
+}

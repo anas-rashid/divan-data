@@ -1,0 +1,57 @@
+{
+  "Id": 37739,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۲۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۲۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh225",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh225",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان و دل و دین به وصلت ای مهر صنم\r\nعهدی بسته ست و اینت عهدی محکم\r\nهجرت چو به صافی کشد اندر عالم\r\nدانی چه زنند این دو سه هم مشت به هم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان و دل و دین به وصلت ای مهر صنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عهدی بسته ست و اینت عهدی محکم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هجرت چو به صافی کشد اندر عالم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانی چه زنند این دو سه هم مشت به هم",
+      "CoupletIndex": 1
+    }
+  ]
+}

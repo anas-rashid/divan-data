@@ -1,0 +1,54 @@
+{
+  "Id": 37238,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۶۶",
+  "FullUrl": "/p393/robaee/sh66",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh66",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در ذات تو محو گشته کالذات شود\r\nآسوده‌دل از جمهٔ آفات شود\r\nمن روی تو دیده‌ام نخواهم مردن\r\nآن‌کس که رخ تو دید کی مات شود",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در ذات تو محو گشته کالذات شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آسوده‌دل از جمهٔ آفات شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من روی تو دیده‌ام نخواهم مردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن‌کس که رخ تو دید کی مات شود",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18662,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۳۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۳۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1131",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1131",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز اکسیر قناعت می‌شمارم نعمت الوان\r\nاگر رنگین به خون گردد لب نانی که من دارم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز اکسیر قناعت می‌شمارم نعمت الوان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر رنگین به خون گردد لب نانی که من دارم",
+      "CoupletIndex": 0
+    }
+  ]
+}

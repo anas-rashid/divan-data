@@ -1,0 +1,69 @@
+{
+  "Id": 34757,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۹۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh98",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh98",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خار رهت، به روضهٔ رضوان برابر است\r\nخاک درت، به چشمه ی حیوان برابر است\r\nاز شوخی نگاه تو آموختم سخن\r\nهر نقطه ام، به چشم غزالان برابر است\r\nخود را به چنگ لطمهٔ دنیا نیفکنی\r\nاین موجهٔ سراب، به طوفان برابر است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خار رهت، به روضهٔ رضوان برابر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک درت، به چشمه ی حیوان برابر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شوخی نگاه تو آموختم سخن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر نقطه ام، به چشم غزالان برابر است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خود را به چنگ لطمهٔ دنیا نیفکنی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این موجهٔ سراب، به طوفان برابر است",
+      "CoupletIndex": 2
+    }
+  ]
+}

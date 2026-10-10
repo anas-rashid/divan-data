@@ -1,0 +1,93 @@
+{
+  "Id": 33468,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۱",
+  "FullUrl": "/p392/ghazal-hz/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرگز نرسد رشحهٔ کامی به لب ما\r\nگردون کر و لال است زبان طلب ما\r\nما همره بختیم و تو همسایه خورشید\r\nساکن نتوان کرد به کافور، تب ما\r\nبا عشق چه سازد خنکیهای تو زاهد؟\r\nای زلف، مزن بیهده پهلو به شب ما\r\nای عقل فرومایه، به اندازه قدم نه\r\nما بندهٔ عشقیم، نگهدار ادب ما\r\nخورشید حزین آینه در ابر نهان کرد\r\nاز خیرگی دیدهٔ حیرت نسب ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرگز نرسد رشحهٔ کامی به لب ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردون کر و لال است زبان طلب ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما همره بختیم و تو همسایه خورشید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساکن نتوان کرد به کافور، تب ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با عشق چه سازد خنکیهای تو زاهد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای زلف، مزن بیهده پهلو به شب ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای عقل فرومایه، به اندازه قدم نه",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما بندهٔ عشقیم، نگهدار ادب ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خورشید حزین آینه در ابر نهان کرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از خیرگی دیدهٔ حیرت نسب ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

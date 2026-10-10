@@ -1,0 +1,57 @@
+{
+  "Id": 28930,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۶۰",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۶۰",
+  "FullUrl": "/p387/divan/robaee/sh60",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh60",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یارب دائم کمر بهمت بندی\r\nدست ستم فلک بقدرت بندی\r\nزنجیر عدالتت بود پاینده\r\nاین سلسله بر پای قیامت بندی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یارب دائم کمر بهمت بندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست ستم فلک بقدرت بندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زنجیر عدالتت بود پاینده",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این سلسله بر پای قیامت بندی",
+      "CoupletIndex": 1
+    }
+  ]
+}

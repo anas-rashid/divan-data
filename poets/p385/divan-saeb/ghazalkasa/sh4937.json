@@ -1,0 +1,93 @@
+{
+  "Id": 24010,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۹۳۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۹۳۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4937",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4937",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر صیدی برد جان از نگاه ناوک اندازش\r\nبه یک انداز آرد درکمند خویش آوازش\r\nبت خوش نغمه من قدر عاشق رانمی داند\r\nکه دارد عندلیب خانه زاری همچو آوازش\r\nبه شکر خنده آن لب چراایمان نیارد گل؟\r\nکه پرورده است عمری درکنار خویش اعجازش\r\nچه یکرنگی است با هم عشق عالمسوز وآتش را\r\nکه رسواتر شود از پرده پوشی خرده رازش\r\nبه دام زلف کافر کیش اوصائب من آن مرغم\r\nکه از ذوق گرفتاری ز خاطر رفت پروازش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر صیدی برد جان از نگاه ناوک اندازش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به یک انداز آرد درکمند خویش آوازش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بت خوش نغمه من قدر عاشق رانمی داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که دارد عندلیب خانه زاری همچو آوازش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به شکر خنده آن لب چراایمان نیارد گل؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که پرورده است عمری درکنار خویش اعجازش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه یکرنگی است با هم عشق عالمسوز وآتش را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که رسواتر شود از پرده پوشی خرده رازش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به دام زلف کافر کیش اوصائب من آن مرغم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که از ذوق گرفتاری ز خاطر رفت پروازش",
+      "CoupletIndex": 4
+    }
+  ]
+}

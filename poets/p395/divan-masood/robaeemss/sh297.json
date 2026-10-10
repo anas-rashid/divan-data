@@ -1,0 +1,57 @@
+{
+  "Id": 37811,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۹۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۹۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا خسته دل مرا بریده ست ز تن\r\nدارم گله هاش را چو شمشیر سخن\r\nلیکن چکنم گفت نمی یارم من\r\nکان پسته دهن کرد مرا بسته دهن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا خسته دل مرا بریده ست ز تن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دارم گله هاش را چو شمشیر سخن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لیکن چکنم گفت نمی یارم من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کان پسته دهن کرد مرا بسته دهن",
+      "CoupletIndex": 1
+    }
+  ]
+}

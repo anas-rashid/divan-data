@@ -1,0 +1,57 @@
+{
+  "Id": 33360,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۸۹",
+  "FullUrl": "/p391/divan/robaee/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دایم به سراغ سر کوی تو دوم\r\nتا جان دارم به جستجوی تو دوم\r\nبا آنکه ز ضعف عنکبوتی شده‌ام\r\nبر تار نگاه رو به سوی تو دوم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دایم به سراغ سر کوی تو دوم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا جان دارم به جستجوی تو دوم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با آنکه ز ضعف عنکبوتی شده‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر تار نگاه رو به سوی تو دوم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32866,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۷۷۴",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۷۷۴",
+  "FullUrl": "/p391/divan/ghazal/sh774",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh774",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زل بند چاشنی باشد حلاوت از لبش\r\nشیرهٔ جان می چکد چون صاف لذت از لبش\r\nناله از دل، آه گرم از سینه، اشک از دیده ام\r\nرنگ از رخ، بو ز پیراهن، نزاکت از لبش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زل بند چاشنی باشد حلاوت از لبش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شیرهٔ جان می چکد چون صاف لذت از لبش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناله از دل، آه گرم از سینه، اشک از دیده ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رنگ از رخ، بو ز پیراهن، نزاکت از لبش",
+      "CoupletIndex": 1
+    }
+  ]
+}

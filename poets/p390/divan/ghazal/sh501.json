@@ -1,0 +1,93 @@
+{
+  "Id": 31468,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۰۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۰۱",
+  "FullUrl": "/p390/divan/ghazal/sh501",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh501",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روز بی‌معشوق و شب بی‌جام گلگون می‌رود\r\nمی‌رود عمر سبک‌خیز و ببین چون می‌رود\r\nاز ملاقات سرشکم عمرها رفت و هنوز\r\nچون گلوی صید بسمل ز آستین خون می‌رود\r\nدر بیابان جنون از بس که گرم جستجوست\r\nخار می‌سوزد اگر در پای مجنون می‌رود\r\nبرنمی‌تابد تن روشندلان بار لباس\r\nاز نمد آیینه‌ام چون آب بیرون می‌رود\r\nقطعه‌ای از خاک یونان است پای خُم سلیم\r\nطفل اگر آید به درس اینجا، فلاطون می‌رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روز بی‌معشوق و شب بی‌جام گلگون می‌رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌رود عمر سبک‌خیز و ببین چون می‌رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ملاقات سرشکم عمرها رفت و هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون گلوی صید بسمل ز آستین خون می‌رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در بیابان جنون از بس که گرم جستجوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خار می‌سوزد اگر در پای مجنون می‌رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "برنمی‌تابد تن روشندلان بار لباس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از نمد آیینه‌ام چون آب بیرون می‌رود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "قطعه‌ای از خاک یونان است پای خُم سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "طفل اگر آید به درس اینجا، فلاطون می‌رود",
+      "CoupletIndex": 4
+    }
+  ]
+}

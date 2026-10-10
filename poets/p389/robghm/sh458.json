@@ -1,0 +1,57 @@
+{
+  "Id": 30715,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۵۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۵۸",
+  "FullUrl": "/p389/robghm/sh458",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh458",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنندان که زند طعنه طعنش بر دل\r\nاز باطن درویش بود خواجه بحل\r\nهرچند که تیغ، خون به خاک آمیزد\r\nآلوده نگردد آب اصلیش به گل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنندان که زند طعنه طعنش بر دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از باطن درویش بود خواجه بحل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که تیغ، خون به خاک آمیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آلوده نگردد آب اصلیش به گل",
+      "CoupletIndex": 1
+    }
+  ]
+}

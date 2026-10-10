@@ -1,0 +1,42 @@
+{
+  "Id": 34753,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۹۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۹۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh94",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh94",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دعوی گر جاهل، به بغل دشمن خود داشت\r\nافعی به گریبان، ز رگ گردن خود داشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دعوی گر جاهل، به بغل دشمن خود داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افعی به گریبان، ز رگ گردن خود داشت",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26742,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۳۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۳۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh136",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh136",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زاهدان را گوشه خلوت بس است\r\nعارفان را نشأه وحدت بس است\r\nخاکساران بی نیازند از لباس\r\nسایه را افتادگی زینت بس است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زاهدان را گوشه خلوت بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عارفان را نشأه وحدت بس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خاکساران بی نیازند از لباس",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سایه را افتادگی زینت بس است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26386,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۹۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۹۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh298",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh298",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همین ز می نه رخ بزم ها نگارین شد\r\nکز این سهیل، لب بام هم عقیقین شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همین ز می نه رخ بزم ها نگارین شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز این سهیل، لب بام هم عقیقین شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

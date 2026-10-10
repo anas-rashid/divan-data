@@ -1,0 +1,54 @@
+{
+  "Id": 33002,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۱۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۱۰",
+  "FullUrl": "/p391/divan/ghazal/sh910",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh910",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از وصال مایوس است این دلی که من دارم\r\nاو بهشت و طاووس است این دلی که من دارم\r\nقرمزی گل رویی برده صبر و آرامم\r\nدر فرنگ محبوس است این دلی که من دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از وصال مایوس است این دلی که من دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "او بهشت و طاووس است این دلی که من دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قرمزی گل رویی برده صبر و آرامم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در فرنگ محبوس است این دلی که من دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

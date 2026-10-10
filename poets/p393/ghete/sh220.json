@@ -1,0 +1,54 @@
+{
+  "Id": 36700,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲۲۰",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲۲۰",
+  "FullUrl": "/p393/ghete/sh220",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh220",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای که از زلف دو رنجیر بلا داشته‌ای\r\nاز پی یک دل دیوانهٔ ما داشته‌ای\r\nلب جان‌بخش تو اعجاز مسیحا دارد\r\nچشم را این همه بیمار چرا داشته‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای که از زلف دو رنجیر بلا داشته‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از پی یک دل دیوانهٔ ما داشته‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لب جان‌بخش تو اعجاز مسیحا دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم را این همه بیمار چرا داشته‌ای",
+      "CoupletIndex": 1
+    }
+  ]
+}

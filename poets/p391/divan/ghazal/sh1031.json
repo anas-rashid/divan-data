@@ -1,0 +1,54 @@
+{
+  "Id": 33123,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۰۳۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۳۱",
+  "FullUrl": "/p391/divan/ghazal/sh1031",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh1031",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غنچه بی جلوهٔ دیدار تو دل تنگ شده\r\nدید تا روی تو آیینه به صد رنگ شده\r\nبرق آهم به دل کوه چنان کرده اثر\r\nکه شرر سرمهٔ مژگان دل سنگ شده",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غنچه بی جلوهٔ دیدار تو دل تنگ شده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دید تا روی تو آیینه به صد رنگ شده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برق آهم به دل کوه چنان کرده اثر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که شرر سرمهٔ مژگان دل سنگ شده",
+      "CoupletIndex": 1
+    }
+  ]
+}

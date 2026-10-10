@@ -1,0 +1,69 @@
+{
+  "Id": 30222,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۱۴",
+  "FullUrl": "/p389/mmgh/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دلم مهر تو بهر دگری جا گذاشت\r\nدر سرم آتش سودای تو سودا نگذاشت\r\nبا فسون سخنت دعوی اعجاز مسیح\r\nبود حرفی لبت آن هم به مسیحا نگذاشت\r\nآب یا رب ز که گیرد پس ازین ابر بهار\r\nرشک چشم تر من، آب به دریا نگذاشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دلم مهر تو بهر دگری جا گذاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سرم آتش سودای تو سودا نگذاشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با فسون سخنت دعوی اعجاز مسیح",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بود حرفی لبت آن هم به مسیحا نگذاشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آب یا رب ز که گیرد پس ازین ابر بهار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رشک چشم تر من، آب به دریا نگذاشت",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30281,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/p389/robghm/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالِم که به جاهلش سوال است و جواب\r\nپیوسته به جهل یابد از خلق، خطاب\r\nهرچند، کس آرمیده باشد، عکسش\r\nآید به نظر مضطرب از جنبش آب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالِم که به جاهلش سوال است و جواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیوسته به جهل یابد از خلق، خطاب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند، کس آرمیده باشد، عکسش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آید به نظر مضطرب از جنبش آب",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 27137,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۳۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۳۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh531",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh531",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل را به زلف حسن شمایل نمی دهم\r\nتا دل نمی دهند مرا دل نمی دهم\r\nاین گردن ضعیف سزاوار تیغ نیست\r\nدر قتل خویش زحمت قاتل نمی دهم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل را به زلف حسن شمایل نمی دهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا دل نمی دهند مرا دل نمی دهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این گردن ضعیف سزاوار تیغ نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در قتل خویش زحمت قاتل نمی دهم",
+      "CoupletIndex": 1
+    }
+  ]
+}

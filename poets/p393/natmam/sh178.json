@@ -1,0 +1,66 @@
+{
+  "Id": 36329,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۷۸",
+  "FullUrl": "/p393/natmam/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم تو را که رخصت خون ریز داده‌اند\r\nخنجر به دستش از مژهٔ تیز داده‌اند\r\nدر خنده اختیار نداری به رنگ گل\r\nجام طرب به دست تو لبریز داده‌اند\r\nآویخته است از سر هر موی او دلی\r\nجانان تو را چه زلف دل‌آویز داده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم تو را که رخصت خون ریز داده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خنجر به دستش از مژهٔ تیز داده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خنده اختیار نداری به رنگ گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جام طرب به دست تو لبریز داده‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آویخته است از سر هر موی او دلی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جانان تو را چه زلف دل‌آویز داده‌اند",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18230,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۹۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۹۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh699",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh699",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جنونی کو که آتش در دل پر شورم اندازد\r\nز عقل مصلحت بین صد بیابان دورم اندازد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جنونی کو که آتش در دل پر شورم اندازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز عقل مصلحت بین صد بیابان دورم اندازد",
+      "CoupletIndex": 0
+    }
+  ]
+}

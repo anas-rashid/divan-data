@@ -1,0 +1,57 @@
+{
+  "Id": 34407,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۲",
+  "FullUrl": "/p392/robaee-hz/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در محفل آسمان سُها و خور هست\r\nدر بحر جهان هم صدف و هم در هست\r\nتا خود چه بود قسمت روزی طلبان\r\nهم مائدهٔ عیسی و هم آخور هست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در محفل آسمان سُها و خور هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بحر جهان هم صدف و هم در هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا خود چه بود قسمت روزی طلبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم مائدهٔ عیسی و هم آخور هست",
+      "CoupletIndex": 1
+    }
+  ]
+}

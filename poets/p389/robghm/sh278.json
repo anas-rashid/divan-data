@@ -1,0 +1,57 @@
+{
+  "Id": 30535,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۷۸",
+  "FullUrl": "/p389/robghm/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جمعیت دهر، جور کیشان دارند\r\nارباب وفا، دل پریشان دارند\r\nآنها که چو نخل می‌خورند آب ز بن\r\nسرسبزی و برگ عیش، ایشان دارند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جمعیت دهر، جور کیشان دارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ارباب وفا، دل پریشان دارند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنها که چو نخل می‌خورند آب ز بن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرسبزی و برگ عیش، ایشان دارند",
+      "CoupletIndex": 1
+    }
+  ]
+}

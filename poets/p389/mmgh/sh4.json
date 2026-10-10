@@ -1,0 +1,57 @@
+{
+  "Id": 30212,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۴",
+  "FullUrl": "/p389/mmgh/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی رسد هرگز گزند از چشم بد، خوب مرا\r\nکز فروغ حسن نتوان دید مطلوب مرا\r\nشعله، پردازد حدیث شوق من با صد زبان\r\nچون بسوزد غیر پیش یار، مکتوب مرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی رسد هرگز گزند از چشم بد، خوب مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز فروغ حسن نتوان دید مطلوب مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شعله، پردازد حدیث شوق من با صد زبان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون بسوزد غیر پیش یار، مکتوب مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

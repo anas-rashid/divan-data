@@ -1,0 +1,57 @@
+{
+  "Id": 32043,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۴۵",
+  "FullUrl": "/p390/divan/robaee/sh45",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh45",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درهم دلم از بودن شهر و ده شد\r\nدلگیر ز وضع جمعه و شنبه شد\r\nدر سایه ی بخت تیره عمرم بگذشت\r\nچون داغ که در زیر سیاهی به شد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درهم دلم از بودن شهر و ده شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلگیر ز وضع جمعه و شنبه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سایه ی بخت تیره عمرم بگذشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون داغ که در زیر سیاهی به شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

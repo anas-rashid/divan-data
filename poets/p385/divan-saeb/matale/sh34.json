@@ -1,0 +1,42 @@
+{
+  "Id": 26122,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh34",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh34",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صندل بی مغز عالم گرده دردسرست\r\nنوش این محنت سرا آهن ربای نشترست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صندل بی مغز عالم گرده دردسرست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نوش این محنت سرا آهن ربای نشترست",
+      "CoupletIndex": 0
+    }
+  ]
+}

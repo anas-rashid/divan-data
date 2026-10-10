@@ -1,0 +1,42 @@
+{
+  "Id": 26117,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh29",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh29",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی دماغان را نرنجاندن به صحبت منت است\r\nپیش عزلت دوستان تقصیر خدمت، خدمت است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی دماغان را نرنجاندن به صحبت منت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیش عزلت دوستان تقصیر خدمت، خدمت است",
+      "CoupletIndex": 0
+    }
+  ]
+}

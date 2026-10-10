@@ -1,0 +1,57 @@
+{
+  "Id": 30499,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۴۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۴۲",
+  "FullUrl": "/p389/robghm/sh242",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh242",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای عشق، ترا کس به نشان نشناسد\r\nزان سان که تویی، کس آنچنان نشناسد\r\nآن را که امیدی تو، نباشد نومید\r\nآن را که بهاری تو خزان نشناسد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عشق، ترا کس به نشان نشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان سان که تویی، کس آنچنان نشناسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن را که امیدی تو، نباشد نومید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن را که بهاری تو خزان نشناسد",
+      "CoupletIndex": 1
+    }
+  ]
+}

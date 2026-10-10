@@ -1,0 +1,66 @@
+{
+  "Id": 36179,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۸",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۸",
+  "FullUrl": "/p393/natmam/sh28",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh28",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نتَوان کرد مرا از تو به تدبیر جدا\r\nچه مجال است که گردد شکر از شیر جدا\r\nهیچ‌کس نیست به زندانِ غمت بی‌شیون\r\nمنِ دیوانه جدا نالم و زنجیر جدا\r\nچند در گوشهٔ ویرانه خرابم دارد\r\nبیم سیلاب جدا و غم تعمیر جدا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نتَوان کرد مرا از تو به تدبیر جدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه مجال است که گردد شکر از شیر جدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هیچ‌کس نیست به زندانِ غمت بی‌شیون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "منِ دیوانه جدا نالم و زنجیر جدا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چند در گوشهٔ ویرانه خرابم دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بیم سیلاب جدا و غم تعمیر جدا",
+      "CoupletIndex": 2
+    }
+  ]
+}

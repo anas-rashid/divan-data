@@ -1,0 +1,45 @@
+{
+  "Id": 18269,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۳۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۳۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh738",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh738",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چنین کز بازگشت نوبهاران شد جوان عالم\r\nچه می‌شد گر بهار عمر ما هم باز می‌آمد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چنین کز بازگشت نوبهاران شد جوان عالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه می‌شد گر بهار عمر ما هم باز می‌آمد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

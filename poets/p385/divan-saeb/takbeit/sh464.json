@@ -1,0 +1,45 @@
+{
+  "Id": 17995,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۴۶۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۴۶۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh464",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh464",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قرب و بعد از طرف توست چو حق نشناسی\r\nنسبت نقطه ز اطراف به پرگار یکی است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قرب و بعد از طرف توست چو حق نشناسی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نسبت نقطه ز اطراف به پرگار یکی است",
+      "CoupletIndex": 0
+    }
+  ]
+}

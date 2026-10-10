@@ -1,0 +1,42 @@
+{
+  "Id": 26092,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh4",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh4",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون دریغ از دیده داری حسن ذات خویش را\r\nاز چه دادی عرض بر عالم صفات خویش را؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون دریغ از دیده داری حسن ذات خویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چه دادی عرض بر عالم صفات خویش را؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

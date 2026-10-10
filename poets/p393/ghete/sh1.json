@@ -1,0 +1,54 @@
+{
+  "Id": 36481,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱",
+  "FullUrl": "/p393/ghete/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یار بی‌آرام می‌خواهد مرا\r\nزلف او در دام می‌خواهد مرا\r\nدوست‌کامی‌ها نصیب دشمنان\r\nدوست دشمن‌کام می‌خواهد مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار بی‌آرام می‌خواهد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زلف او در دام می‌خواهد مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دوست‌کامی‌ها نصیب دشمنان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوست دشمن‌کام می‌خواهد مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

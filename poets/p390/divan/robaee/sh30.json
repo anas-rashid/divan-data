@@ -1,0 +1,57 @@
+{
+  "Id": 32028,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/p390/divan/robaee/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی جذبه ی دوستان ز جا نتوان رفت\r\nهر راه که نیست رهنما، نتوان رفت\r\nفریاد مؤذن بشنو تا دانی\r\nناخوانده به خانه ی خدا نتوان رفت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی جذبه ی دوستان ز جا نتوان رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر راه که نیست رهنما، نتوان رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فریاد مؤذن بشنو تا دانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناخوانده به خانه ی خدا نتوان رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

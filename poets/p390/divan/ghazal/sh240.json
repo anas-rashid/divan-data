@@ -1,0 +1,93 @@
+{
+  "Id": 31207,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۴۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۴۰",
+  "FullUrl": "/p390/divan/ghazal/sh240",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh240",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خمار وصل، دلم را ز اضطراب شکست\r\nز موج رعشه به کف ساغر شراب شکست\r\nپیاله از کف دشمن مگیر، رحمی کن\r\nکه استخوان به تن من ز پیچ و تاب شکست\r\nمباش در پی نخوت، نگاه کن که چه دید\r\nچو از غرور، کله گوشه را حباب شکست\r\nشکستگی زرهی داده شبنم ما را\r\nکه از سرایت آن، تیغ آفتاب شکست\r\nز جای رفت دل من ز نام گریه سلیم\r\nبنای خانهٔ ما از صدای آب شکست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خمار وصل، دلم را ز اضطراب شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز موج رعشه به کف ساغر شراب شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیاله از کف دشمن مگیر، رحمی کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که استخوان به تن من ز پیچ و تاب شکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مباش در پی نخوت، نگاه کن که چه دید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو از غرور، کله گوشه را حباب شکست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شکستگی زرهی داده شبنم ما را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که از سرایت آن، تیغ آفتاب شکست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز جای رفت دل من ز نام گریه سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بنای خانهٔ ما از صدای آب شکست",
+      "CoupletIndex": 4
+    }
+  ]
+}

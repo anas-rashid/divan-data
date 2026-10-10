@@ -1,0 +1,42 @@
+{
+  "Id": 26424,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۳۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۳۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh336",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh336",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کی در تن خاکی دل آگاه گذارند؟\r\nیوسف نه عزیزی است که در چاه گذارند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کی در تن خاکی دل آگاه گذارند؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یوسف نه عزیزی است که در چاه گذارند",
+      "CoupletIndex": 0
+    }
+  ]
+}

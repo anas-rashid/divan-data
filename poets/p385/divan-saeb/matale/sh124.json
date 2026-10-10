@@ -1,0 +1,45 @@
+{
+  "Id": 26212,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh124",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh124",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خبرها می دهد از می پرستی رنگ غمازت\r\nگواه از خانه دارد غنچه خمیازه پردازت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خبرها می دهد از می پرستی رنگ غمازت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گواه از خانه دارد غنچه خمیازه پردازت",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 26695,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۸۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۸۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh89",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh89",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "(آتشین جانی چو من بر صفحه ایام نیست\r\nبخیه را بر خرقه من چون سپند آرام نیست)\r\n(دل چه گستاخانه با آن زلف بازی می کند\r\nمرغ نوپرواز را اندیشه ای از دام نیست)",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "(آتشین جانی چو من بر صفحه ایام نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بخیه را بر خرقه من چون سپند آرام نیست)",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "(دل چه گستاخانه با آن زلف بازی می کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغ نوپرواز را اندیشه ای از دام نیست)",
+      "CoupletIndex": 1
+    }
+  ]
+}

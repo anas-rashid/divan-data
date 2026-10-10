@@ -1,0 +1,57 @@
+{
+  "Id": 34441,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۴۶",
+  "FullUrl": "/p392/robaee-hz/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هند است و جهان به کام می باید اوا نیست\r\nپاس هر خاص و عام می باید اوا نیست\r\nتا حامله سازیم بزرگانش را\r\nیک مشت زر حرام می باید اوا نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هند است و جهان به کام می باید اوا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاس هر خاص و عام می باید اوا نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا حامله سازیم بزرگانش را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک مشت زر حرام می باید اوا نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

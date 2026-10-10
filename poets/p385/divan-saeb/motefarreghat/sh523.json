@@ -1,0 +1,57 @@
+{
+  "Id": 27129,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۲۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۲۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh523",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh523",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برون ز شیشه افلاک همچو رنگ زدیم\r\nبه عالمی که در او رنگ نیست چنگ زدیم\r\nشکست بر دل ما آن زمان گوارا شد\r\nکه مومیایی احباب را به سنگ زدیم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برون ز شیشه افلاک همچو رنگ زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به عالمی که در او رنگ نیست چنگ زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکست بر دل ما آن زمان گوارا شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که مومیایی احباب را به سنگ زدیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

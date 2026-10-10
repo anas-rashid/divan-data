@@ -1,0 +1,66 @@
+{
+  "Id": 34989,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۳۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشد از گریهٔ مستانه ساقی، دل کنم خالی\r\nمن دریاکش، این پیمانه را مشکل کنم خالی\r\nنوازش از غم جانان، ز من قالب تهی کردن\r\nچو صاحب خانه آید، بایدم منزل کنم خالی\r\nحزین از همّت مردانه، دارم شرمساری‌ها\r\nاگر دریا و کان، در دامن سائل کنم خالی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشد از گریهٔ مستانه ساقی، دل کنم خالی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من دریاکش، این پیمانه را مشکل کنم خالی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نوازش از غم جانان، ز من قالب تهی کردن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو صاحب خانه آید، بایدم منزل کنم خالی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حزین از همّت مردانه، دارم شرمساری‌ها",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر دریا و کان، در دامن سائل کنم خالی",
+      "CoupletIndex": 2
+    }
+  ]
+}

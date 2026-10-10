@@ -1,0 +1,57 @@
+{
+  "Id": 26756,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۵۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh150",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh150",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خیال طره او در دل خراب گذشت\r\nچه موج بود که مستانه بر حباب گذشت\r\nکجایی ای نفس عقده سوز باد سحر\r\nکه عمر غنچه ما در ته نقاب گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خیال طره او در دل خراب گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه موج بود که مستانه بر حباب گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کجایی ای نفس عقده سوز باد سحر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که عمر غنچه ما در ته نقاب گذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

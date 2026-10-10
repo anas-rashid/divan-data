@@ -1,0 +1,42 @@
+{
+  "Id": 34691,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به پیری عشق سازد شوخ‌تر طبع جوانم را\r\nکه آتش می کند پرزورتر، پشت کمانم را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به پیری عشق سازد شوخ‌تر طبع جوانم را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که آتش می کند پرزورتر، پشت کمانم را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 34616,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۲۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۲۱",
+  "FullUrl": "/p392/robaee-hz/sh221",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh221",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دیدهٔ زار من چه خواهی کردن؟\r\nجز اشک نثار من چه خواهی کردن؟\r\nبا گریه نمانده است لخت جگری\r\nدر جیب و کنار من چه خواهی کردن؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دیدهٔ زار من چه خواهی کردن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز اشک نثار من چه خواهی کردن؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با گریه نمانده است لخت جگری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جیب و کنار من چه خواهی کردن؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

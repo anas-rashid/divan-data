@@ -1,0 +1,45 @@
+{
+  "Id": 30227,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۱۹",
+  "FullUrl": "/p389/mmgh/sh19",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh19",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه اشک است این که هر ساعت ز چشم من فرو ریزد\r\nبه جای آب، اخگر چشمم از دامن فرو ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه اشک است این که هر ساعت ز چشم من فرو ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به جای آب، اخگر چشمم از دامن فرو ریزد",
+      "CoupletIndex": 0
+    }
+  ]
+}

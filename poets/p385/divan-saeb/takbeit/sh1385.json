@@ -1,0 +1,45 @@
+{
+  "Id": 18916,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۸۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۸۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1385",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1385",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زنده شد عالمی از خندهٔ جان‌پرور او\r\nکه گمان داشت وجود از عدم آید بیرون؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زنده شد عالمی از خندهٔ جان‌پرور او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که گمان داشت وجود از عدم آید بیرون؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

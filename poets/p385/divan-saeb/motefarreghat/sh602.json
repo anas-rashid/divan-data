@@ -1,0 +1,57 @@
+{
+  "Id": 27208,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۰۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۰۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh602",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh602",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر نغمه طرازی نرباید دل مستان\r\nاز ناله نی وجد کند محمل مستان\r\nاز طاق فرود آید و در پای خم افتد\r\nخشتی که سرانجام کنند از گل مستان",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر نغمه طرازی نرباید دل مستان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ناله نی وجد کند محمل مستان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از طاق فرود آید و در پای خم افتد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خشتی که سرانجام کنند از گل مستان",
+      "CoupletIndex": 1
+    }
+  ]
+}

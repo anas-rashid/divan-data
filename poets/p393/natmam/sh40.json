@@ -1,0 +1,66 @@
+{
+  "Id": 36191,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۴۰",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۴۰",
+  "FullUrl": "/p393/natmam/sh40",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh40",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "می خورده با رقیب برافروختی چرا\r\nبا غیر ساختی و مرا سوختی چرا\r\nآن بی‌زبان شکایت تیغش نکرده بود\r\nهمدم دهان زخم مرا دوختی چرا\r\nتحصیل علم جور و جفا خوب کرده‌ای\r\nظالم وفا و مهر نیاموختی چرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می خورده با رقیب برافروختی چرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با غیر ساختی و مرا سوختی چرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن بی‌زبان شکایت تیغش نکرده بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همدم دهان زخم مرا دوختی چرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تحصیل علم جور و جفا خوب کرده‌ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ظالم وفا و مهر نیاموختی چرا",
+      "CoupletIndex": 2
+    }
+  ]
+}

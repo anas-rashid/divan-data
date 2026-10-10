@@ -1,0 +1,57 @@
+{
+  "Id": 34896,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۳۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۳۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh237",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh237",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای زلف، پریشان شدگانیم، خبر گیر\r\nای چاک گریبان، شب ما را به سحر گیر\r\nاز کم سخنی های تو زهر است به جامم\r\nبگشای لب و تلخی کامم به شکر گیر",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زلف، پریشان شدگانیم، خبر گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای چاک گریبان، شب ما را به سحر گیر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کم سخنی های تو زهر است به جامم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگشای لب و تلخی کامم به شکر گیر",
+      "CoupletIndex": 1
+    }
+  ]
+}

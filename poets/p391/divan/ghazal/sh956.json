@@ -1,0 +1,93 @@
+{
+  "Id": 33048,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۵۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۵۶",
+  "FullUrl": "/p391/divan/ghazal/sh956",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh956",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خضر نتوانست نرد عشق آسان باختن\r\nباید اول در قمار عاشقی جان باختن\r\nدل به یادش ده که در نرد مروت خوشنماست\r\nدیده و دانسته بازی را به مهمان باختن\r\nکوس شهرت می زنی زین طبل در زیر گلیم\r\nتا به کی پوشیده ماند عشق پنهان باختن\r\nمی توان کردن چو تحصیل زر از زر عیب نیست\r\nزندگی در جستجوی آب حیوان باختن\r\nهست جویا پیش ما روشن ضمیران همچو شمع\r\nرونمای صبح رخسار بتان جان باختن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خضر نتوانست نرد عشق آسان باختن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید اول در قمار عاشقی جان باختن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل به یادش ده که در نرد مروت خوشنماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیده و دانسته بازی را به مهمان باختن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کوس شهرت می زنی زین طبل در زیر گلیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا به کی پوشیده ماند عشق پنهان باختن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "می توان کردن چو تحصیل زر از زر عیب نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زندگی در جستجوی آب حیوان باختن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هست جویا پیش ما روشن ضمیران همچو شمع",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رونمای صبح رخسار بتان جان باختن",
+      "CoupletIndex": 4
+    }
+  ]
+}

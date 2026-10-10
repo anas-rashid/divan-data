@@ -1,0 +1,81 @@
+{
+  "Id": 30147,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۹۹",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۹۹",
+  "FullUrl": "/p389/ghazalgm/sh399",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh399",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما حرف سود خویش برای زیان زدیم\r\nخرمن چو گل به نیت باد خزان زدیم\r\nمن بعد، ما و حلقه رندان، چه سود کرد\r\nچندان که حلقه بر در هفت آسمان زدیم\r\nطول امل درازتر از روزگار بود\r\nدر زلف یار، دست ز کار جهان زدیم\r\nما را حجاب دام، نفس در قفس شکست\r\nیک بار اگر به سهو، دم از آشیان زدیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما حرف سود خویش برای زیان زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرمن چو گل به نیت باد خزان زدیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بعد، ما و حلقه رندان، چه سود کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که حلقه بر در هفت آسمان زدیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "طول امل درازتر از روزگار بود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در زلف یار، دست ز کار جهان زدیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما را حجاب دام، نفس در قفس شکست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک بار اگر به سهو، دم از آشیان زدیم",
+      "CoupletIndex": 3
+    }
+  ]
+}

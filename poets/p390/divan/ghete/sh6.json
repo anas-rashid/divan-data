@@ -1,0 +1,54 @@
+{
+  "Id": 31944,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۶ - تعریف دختر برهمن",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۶ - تعریف دختر برهمن",
+  "FullUrl": "/p390/divan/ghete/sh6",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh6",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "برهمن دختری دیدم به دیری\r\nکه بت در سجده ی او سر نهاده\r\nهنوزش گردن شیران خونریز\r\nنداده زحمت سیمین قلاده....",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برهمن دختری دیدم به دیری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بت در سجده ی او سر نهاده",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنوزش گردن شیران خونریز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نداده زحمت سیمین قلاده....",
+      "CoupletIndex": 1
+    }
+  ]
+}

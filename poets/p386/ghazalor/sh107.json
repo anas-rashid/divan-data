@@ -1,0 +1,93 @@
+{
+  "Id": 27515,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۰۷",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۰۷",
+  "FullUrl": "/p386/ghazalor/sh107",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh107",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل به صد ره می رود اما مراد دل یکی است\r\nراه اگر بسیار باشد، «باش» گو، منزل یکی است\r\nشوق دیدار است کز هر دل به کامی دل گشاد\r\nعالمی در گفتگوی خواهش سایل یکی است\r\nگر تعلق نیست اسباب جهان مردود نیست\r\nصد هزاران پرده پیش دیده ی حایل یکی است\r\nعالمی در جلوه و عاشق نبیند غیر دوست\r\nگر ز مجنون پرسی اندر کاروان محمل یکی است\r\nدوست دشمن را به خون غلطان کنم عرفی، ولی\r\nدوست دارم دشمنی را کو را زبان و دل یکی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل به صد ره می رود اما مراد دل یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راه اگر بسیار باشد، «باش» گو، منزل یکی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شوق دیدار است کز هر دل به کامی دل گشاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالمی در گفتگوی خواهش سایل یکی است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر تعلق نیست اسباب جهان مردود نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صد هزاران پرده پیش دیده ی حایل یکی است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عالمی در جلوه و عاشق نبیند غیر دوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر ز مجنون پرسی اندر کاروان محمل یکی است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دوست دشمن را به خون غلطان کنم عرفی، ولی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دوست دارم دشمنی را کو را زبان و دل یکی است",
+      "CoupletIndex": 4
+    }
+  ]
+}

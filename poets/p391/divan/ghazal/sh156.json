@@ -1,0 +1,42 @@
+{
+  "Id": 32248,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۵۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۶",
+  "FullUrl": "/p391/divan/ghazal/sh156",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh156",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به جام می لبی کرد آشنا جانانه ام امشب\r\nخط یاقوت را ماند خط پیمانه ام امشب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به جام می لبی کرد آشنا جانانه ام امشب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط یاقوت را ماند خط پیمانه ام امشب",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 24861,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۷۸۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۷۸۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5788",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5788",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چند از گهر صدف آسا لبالبم\r\nنتوان به تیغ ساختن از هم جدا لبم\r\nتا کام من ز شهد خموشی گرفت کام\r\nاز یکدگر نشد ز حلاوت جدا لبم\r\nهر چند در لباس شکرخند می زنم\r\nاز دل چو پسته زهر نهفته است تا لبم\r\nچون صبح می کشم نفس ساده از جگر\r\nآسوده است از سخن مدعا لبم\r\nانگشت زینهار برآورد از زبان\r\nاز بس گزیده شد ز حدیث خطا لبم\r\nمانند تیغ اگر چه به جوهر سرآمدم\r\nصائب به حرف لاف نشد آشنا لبم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند از گهر صدف آسا لبالبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نتوان به تیغ ساختن از هم جدا لبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا کام من ز شهد خموشی گرفت کام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از یکدگر نشد ز حلاوت جدا لبم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر چند در لباس شکرخند می زنم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از دل چو پسته زهر نهفته است تا لبم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون صبح می کشم نفس ساده از جگر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آسوده است از سخن مدعا لبم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "انگشت زینهار برآورد از زبان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از بس گزیده شد ز حدیث خطا لبم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مانند تیغ اگر چه به جوهر سرآمدم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "صائب به حرف لاف نشد آشنا لبم",
+      "CoupletIndex": 5
+    }
+  ]
+}

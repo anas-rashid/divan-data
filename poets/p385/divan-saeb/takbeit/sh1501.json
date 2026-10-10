@@ -1,0 +1,45 @@
+{
+  "Id": 19032,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۵۰۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۵۰۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1501",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1501",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم بیداری است هر کوکب درین وحشت سرا\r\nدر میان اینقدر بیدار، چون خوابد کسی؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم بیداری است هر کوکب درین وحشت سرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در میان اینقدر بیدار، چون خوابد کسی؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

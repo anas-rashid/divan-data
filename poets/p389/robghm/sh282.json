@@ -1,0 +1,57 @@
+{
+  "Id": 30539,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۸۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۸۲",
+  "FullUrl": "/p389/robghm/sh282",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh282",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فردا که حساب خیر و شر می‌گیرند\r\nعذر گنه از گنه بتر می‌گیرند\r\nرو فارغ کن به توبه خود را ز گناه\r\nامروز که از تو عذر برمی‌گیرند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فردا که حساب خیر و شر می‌گیرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عذر گنه از گنه بتر می‌گیرند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رو فارغ کن به توبه خود را ز گناه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "امروز که از تو عذر برمی‌گیرند",
+      "CoupletIndex": 1
+    }
+  ]
+}

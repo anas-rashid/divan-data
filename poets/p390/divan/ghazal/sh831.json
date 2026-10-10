@@ -1,0 +1,93 @@
+{
+  "Id": 31798,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۳۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۳۱",
+  "FullUrl": "/p390/divan/ghazal/sh831",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh831",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد ایامی که دامی همچو بلبل داشتیم\r\nگاه با گل دستبازی، گه به سنبل داشتیم\r\nبا جهان سودای ما نازکدلان صورت نبست\r\nاو چو آتش خار و خس می‌جست و ما گل داشتیم\r\nعالم مستی‌ست ساقی، دور ما را مگذران\r\nرفت آن دوران که ما تاب تغافل داشتیم\r\nناخدا بر هم زن هنگامهٔ ما زود شد\r\nصحبتی با موج دریا بر سر پل داشتیم\r\nاز ترقی نیست ما را قسمتی هرگز سلیم\r\nرو چو درد شیشهٔ می در تنزل داشتیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد ایامی که دامی همچو بلبل داشتیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گاه با گل دستبازی، گه به سنبل داشتیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با جهان سودای ما نازکدلان صورت نبست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "او چو آتش خار و خس می‌جست و ما گل داشتیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عالم مستی‌ست ساقی، دور ما را مگذران",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رفت آن دوران که ما تاب تغافل داشتیم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ناخدا بر هم زن هنگامهٔ ما زود شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صحبتی با موج دریا بر سر پل داشتیم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از ترقی نیست ما را قسمتی هرگز سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رو چو درد شیشهٔ می در تنزل داشتیم",
+      "CoupletIndex": 4
+    }
+  ]
+}

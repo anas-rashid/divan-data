@@ -1,0 +1,45 @@
+{
+  "Id": 18161,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۳۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۳۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh630",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh630",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندیدم روز خوش تا رفت دامان دل از دستم\r\nکه در غربت بود، هر کس عزیزی در سفر دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندیدم روز خوش تا رفت دامان دل از دستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در غربت بود، هر کس عزیزی در سفر دارد",
+      "CoupletIndex": 0
+    }
+  ]
+}

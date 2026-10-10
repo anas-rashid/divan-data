@@ -1,0 +1,54 @@
+{
+  "Id": 37331,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۵۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۵۹",
+  "FullUrl": "/p393/robaee/sh159",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh159",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رسوا و خراب و خوار و زار است دلم\r\nاز دودهٔ عشق یادگار است دلم\r\nآشفته و تیره ‌روزگار است دلم\r\nسر کوچه‌نشین زلف یار است دلم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رسوا و خراب و خوار و زار است دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دودهٔ عشق یادگار است دلم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشفته و تیره ‌روزگار است دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر کوچه‌نشین زلف یار است دلم",
+      "CoupletIndex": 1
+    }
+  ]
+}

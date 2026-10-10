@@ -1,0 +1,57 @@
+{
+  "Id": 17286,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۲۵۸۳",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۲۵۸۳",
+  "FullUrl": "/p384/ghazalbi/sh2583",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh2583",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به پیری هم نی‌ام غافل ز عشق آن‌کمان ابرو\r\nحضور قامت خم‌ گشته ایمایی‌ست زان ابرو\r\nدم تیغی چو اشک از خون من رنگین نمی گردد\r\nمبادا افتد از مستی به فکر امتحان ابرو",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به پیری هم نی‌ام غافل ز عشق آن‌کمان ابرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حضور قامت خم‌ گشته ایمایی‌ست زان ابرو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دم تیغی چو اشک از خون من رنگین نمی گردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مبادا افتد از مستی به فکر امتحان ابرو",
+      "CoupletIndex": 1
+    }
+  ]
+}

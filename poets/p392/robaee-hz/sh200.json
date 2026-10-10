@@ -1,0 +1,57 @@
+{
+  "Id": 34595,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۰۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۰۰",
+  "FullUrl": "/p392/robaee-hz/sh200",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh200",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان در سر زلف تابناکی کردم\r\nدل را صدف گوهر پاکی کردم\r\nاز همّت فقر خانه پرداز، حزین\r\nدر کاسهٔ دهر، مشت خاکی کردم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان در سر زلف تابناکی کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را صدف گوهر پاکی کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از همّت فقر خانه پرداز، حزین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کاسهٔ دهر، مشت خاکی کردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

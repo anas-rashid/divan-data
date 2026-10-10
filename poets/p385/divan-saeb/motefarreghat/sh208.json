@@ -1,0 +1,57 @@
+{
+  "Id": 26814,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh208",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh208",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شد بهار و غنچه ما همچنان در خاک ماند\r\nاین گره گلزار را در رشته خاشاک ماند\r\nلاله با دست نگارین سینه خارا شکافت\r\nدانه ما در چنین فصلی به زیر خاک ماند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد بهار و غنچه ما همچنان در خاک ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این گره گلزار را در رشته خاشاک ماند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لاله با دست نگارین سینه خارا شکافت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دانه ما در چنین فصلی به زیر خاک ماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

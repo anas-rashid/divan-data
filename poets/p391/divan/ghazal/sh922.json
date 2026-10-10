@@ -1,0 +1,66 @@
+{
+  "Id": 33014,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۲۲",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۲۲",
+  "FullUrl": "/p391/divan/ghazal/sh922",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh922",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در چمن با درد عشقت گر دمی منزل کنم\r\nبرگ برگ غنچه ها را لخت لخت دل کنم\r\nنیست آسان در غمش سامان درد اندوختن\r\nنقد داغ دل به صد خون جگر حاصل کنم\r\nیاد معشوق ز خاطر رفته ذوق دیگر است\r\nدر تلاشم کز تو خود را لحظه‌ای غافل کنم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در چمن با درد عشقت گر دمی منزل کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگ برگ غنچه ها را لخت لخت دل کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست آسان در غمش سامان درد اندوختن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نقد داغ دل به صد خون جگر حاصل کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یاد معشوق ز خاطر رفته ذوق دیگر است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در تلاشم کز تو خود را لحظه‌ای غافل کنم",
+      "CoupletIndex": 2
+    }
+  ]
+}

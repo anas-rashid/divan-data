@@ -1,0 +1,45 @@
+{
+  "Id": 17762,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۳۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۳۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh231",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh231",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رَحم کُن بَر ما سیـَه‌بَختان، که: با آن سَرکِشی\r\nشمع، دَر شب‌ها، به‌دست آرَد، دلِ پروانه را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رَحم کُن بَر ما سیـَه‌بَختان، که: با آن سَرکِشی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع، دَر شب‌ها، به‌دست آرَد، دلِ پروانه را",
+      "CoupletIndex": 0
+    }
+  ]
+}

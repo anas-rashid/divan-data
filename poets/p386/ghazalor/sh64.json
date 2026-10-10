@@ -1,0 +1,93 @@
+{
+  "Id": 27472,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۶۴",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۶۴",
+  "FullUrl": "/p386/ghazalor/sh64",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh64",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دو عالم سوختن نیرنگ عشق است\r\nشهادت ابتدای جنگ عشق است\r\nهر آن گرد بلا کز دهر خیزد\r\nدلیل شوخی شبرنگ عشق است\r\nکجا پژمرده گردد غنچه ی شوق\r\nکه یک سر آب عشق و رنگ عشق است\r\nدماغ آشفته ای داریم و دل نام\r\nکه سر تا پای صلح و جنگ عشق است\r\nمگس را حسرت پروانگی سوخت\r\nوگر نه مثل عرفی ننگ عشق است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو عالم سوختن نیرنگ عشق است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شهادت ابتدای جنگ عشق است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر آن گرد بلا کز دهر خیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلیل شوخی شبرنگ عشق است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کجا پژمرده گردد غنچه ی شوق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که یک سر آب عشق و رنگ عشق است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دماغ آشفته ای داریم و دل نام",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که سر تا پای صلح و جنگ عشق است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مگس را حسرت پروانگی سوخت",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وگر نه مثل عرفی ننگ عشق است",
+      "CoupletIndex": 4
+    }
+  ]
+}

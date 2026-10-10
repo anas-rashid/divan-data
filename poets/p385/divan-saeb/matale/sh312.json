@@ -1,0 +1,42 @@
+{
+  "Id": 26400,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۱۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۱۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh312",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh312",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با جسم کس به عالم بالا نمی رسد\r\nدجال خرسوار به عیسی نمی رسد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با جسم کس به عالم بالا نمی رسد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دجال خرسوار به عیسی نمی رسد",
+      "CoupletIndex": 0
+    }
+  ]
+}

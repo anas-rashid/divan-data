@@ -1,0 +1,54 @@
+{
+  "Id": 35003,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۴۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۴۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh344",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh344",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای ناله، چند در غم دل دردسر دهی؟\r\nمغز مرا، به بوی کباب جگر دهی؟\r\nاز قطره نم گرفته و بخشی به جوی و بحر\r\nلخت جگر فشرده، به مژگان تر دهی؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ناله، چند در غم دل دردسر دهی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مغز مرا، به بوی کباب جگر دهی؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قطره نم گرفته و بخشی به جوی و بحر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لخت جگر فشرده، به مژگان تر دهی؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

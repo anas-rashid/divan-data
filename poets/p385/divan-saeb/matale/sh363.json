@@ -1,0 +1,45 @@
+{
+  "Id": 26451,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۶۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۶۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh363",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh363",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یک سر مو منت از اخوان کم فرصت مکش\r\nگر به چه باید فتاد از چشم خود منت مکش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یک سر مو منت از اخوان کم فرصت مکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر به چه باید فتاد از چشم خود منت مکش",
+      "CoupletIndex": 0
+    }
+  ]
+}

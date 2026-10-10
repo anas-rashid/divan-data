@@ -1,0 +1,93 @@
+{
+  "Id": 27466,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۵۸",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۵۸",
+  "FullUrl": "/p386/ghazalor/sh58",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh58",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر گاه که از مهر به کین میل تو بیش است\r\nاول نمک سینه ی ما باش که ریش است\r\nمعشوق در آغوش و مرا آیینه در کف\r\nاز بس که دلم شیفته ی زشتی خویش است\r\nزندان بود آمیزش آن کز ره عادت \r\nدر کشمکش صحبت بیگانه و خویش است\r\nدانم که شفیق اند طبیبان همگی، لیک\r\nمرهم که نه معشوق نهد دشمن ریش است\r\nبا کعبه روان انس نگیرد دل عرفی\r\nدایم قدمی چند ازین قافله پیش است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر گاه که از مهر به کین میل تو بیش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اول نمک سینه ی ما باش که ریش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معشوق در آغوش و مرا آیینه در کف",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بس که دلم شیفته ی زشتی خویش است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زندان بود آمیزش آن کز ره عادت ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در کشمکش صحبت بیگانه و خویش است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دانم که شفیق اند طبیبان همگی، لیک",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرهم که نه معشوق نهد دشمن ریش است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "با کعبه روان انس نگیرد دل عرفی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دایم قدمی چند ازین قافله پیش است",
+      "CoupletIndex": 4
+    }
+  ]
+}

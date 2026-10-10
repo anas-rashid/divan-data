@@ -1,0 +1,57 @@
+{
+  "Id": 28944,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/p387/divan/robaee/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالم روشن ز شمع اقبالت باد\r\nجمع آمده اجزای مه و سالت باد\r\nهر جا شب وصل و روز عیدی باشد\r\nعیش دو جهان قرین احوالت باد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم روشن ز شمع اقبالت باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جمع آمده اجزای مه و سالت باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر جا شب وصل و روز عیدی باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عیش دو جهان قرین احوالت باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

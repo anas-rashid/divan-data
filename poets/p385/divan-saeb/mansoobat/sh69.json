@@ -1,0 +1,42 @@
+{
+  "Id": 27405,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۶۹",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۶۹",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "افزود شوق بوسه مرا از لبان تو\r\nصفرای من زیاده شد از ناردان تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "افزود شوق بوسه مرا از لبان تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صفرای من زیاده شد از ناردان تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

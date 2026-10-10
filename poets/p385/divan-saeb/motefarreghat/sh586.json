@@ -1,0 +1,69 @@
+{
+  "Id": 27192,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۸۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۸۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh586",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh586",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آسوده ای که لطف نمایان ندیده ای\r\nآن سینه را ز چاک گریبان ندیده ای\r\nاز شوخی نگاه در آن چشم غافلی\r\nدر قطره چار موجه طوفان ندیده ای\r\nاز شست غمزه ناوک مشکین نخورده ای\r\nدر گرد سرمه جنبش مژگان ندیده ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسوده ای که لطف نمایان ندیده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن سینه را ز چاک گریبان ندیده ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شوخی نگاه در آن چشم غافلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در قطره چار موجه طوفان ندیده ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از شست غمزه ناوک مشکین نخورده ای",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در گرد سرمه جنبش مژگان ندیده ای",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32083,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۸۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۸۵",
+  "FullUrl": "/p390/divan/robaee/sh85",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh85",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از تندی مرکب نه ز زین افتادی\r\nگویم ز چه ای قبله ی دین افتادی\r\nاز غیب ترا بشارت فتح رسید\r\nدر سجده ی شکر بر زمین افتادی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از تندی مرکب نه ز زین افتادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویم ز چه ای قبله ی دین افتادی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از غیب ترا بشارت فتح رسید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سجده ی شکر بر زمین افتادی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 34739,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۸۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۸۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh80",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh80",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغ است و سینه در عشق، صبح و ستاره ما\r\nخورشید سر برآورد، از جیب پارهٔ ما\r\nاز ناوک نگاهت، خاطر نشد تسلّی\r\nبگذشت غافل از دل، مست گذارهٔ ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغ است و سینه در عشق، صبح و ستاره ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید سر برآورد، از جیب پارهٔ ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از ناوک نگاهت، خاطر نشد تسلّی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگذشت غافل از دل، مست گذارهٔ ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

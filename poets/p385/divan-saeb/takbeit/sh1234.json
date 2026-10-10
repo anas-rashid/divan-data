@@ -1,0 +1,45 @@
+{
+  "Id": 18765,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۳۴",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۳۴",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1234",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1234",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواه در مصر غریبی، خواه در کنج وطن\r\nهمچو یوسف، بی گنه در چاه و زندان بوده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواه در مصر غریبی، خواه در کنج وطن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو یوسف، بی گنه در چاه و زندان بوده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

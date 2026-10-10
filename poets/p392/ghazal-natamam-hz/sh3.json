@@ -1,0 +1,54 @@
+{
+  "Id": 34662,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل نازک، پر از خون است و رسوا می کند ما را\r\nغلط در بزم او ساقی، به مینا می کند ما را\r\nز داغ عشق، شمع مرده ی دل می شود روشن\r\nغم آتش عذاران، سینه سینا می کند ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل نازک، پر از خون است و رسوا می کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غلط در بزم او ساقی، به مینا می کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز داغ عشق، شمع مرده ی دل می شود روشن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غم آتش عذاران، سینه سینا می کند ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 32708,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۱۶",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۶",
+  "FullUrl": "/p391/divan/ghazal/sh616",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh616",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زمی حسن فرنگش چون به فکر آب و رنگ افتد\r\nچنان رخسارش افروزد که آتش در فرنگ افتد\r\nاگر زخم تو ننوازد مرا از گرمی آهم\r\nچنان کز نوک مژگان اشک پیکان از خدگ افتد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زمی حسن فرنگش چون به فکر آب و رنگ افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چنان رخسارش افروزد که آتش در فرنگ افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر زخم تو ننوازد مرا از گرمی آهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چنان کز نوک مژگان اشک پیکان از خدگ افتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Id": 29820,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۷۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۷۲",
+  "FullUrl": "/p389/ghazalgm/sh72",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh72",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل می امید دگر بر تو حرام است\r\nکم‌حوصله‌ای خون جگر بر تو حرام است\r\nنه رنگ وفاداری و نه بوی محبت\r\nدر پرده شو ای گل که نظر بر تو حرام است\r\nای گردش افلاک به صبحی نرسیدی\r\nگویا شب مایی که سحر بر تو حرام است\r\nقدسی چو سر از سلسله عشق کشیدی\r\nیاری طلب از تیغ که سر بر تو حرام است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل می امید دگر بر تو حرام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کم‌حوصله‌ای خون جگر بر تو حرام است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه رنگ وفاداری و نه بوی محبت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در پرده شو ای گل که نظر بر تو حرام است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای گردش افلاک به صبحی نرسیدی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گویا شب مایی که سحر بر تو حرام است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "قدسی چو سر از سلسله عشق کشیدی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یاری طلب از تیغ که سر بر تو حرام است",
+      "CoupletIndex": 3
+    }
+  ]
+}

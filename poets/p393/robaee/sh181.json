@@ -1,0 +1,54 @@
+{
+  "Id": 37353,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۸۱",
+  "FullUrl": "/p393/robaee/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن ماه که نیست ماه را صورت او\r\nخورشید خجل می‌شود از طلعت او\r\nآیینه به کف گرفته حیران خود است\r\nآیینه شده است ورطهٔ حیرت او",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن ماه که نیست ماه را صورت او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورشید خجل می‌شود از طلعت او",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آیینه به کف گرفته حیران خود است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینه شده است ورطهٔ حیرت او",
+      "CoupletIndex": 1
+    }
+  ]
+}

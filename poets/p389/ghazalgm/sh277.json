@@ -1,0 +1,81 @@
+{
+  "Id": 30025,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۷۷",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۷۷",
+  "FullUrl": "/p389/ghazalgm/sh277",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh277",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جز محبت، سینه‌ام علم دگر پیدا نکرد\r\nچون صدف، کس انتخاب قطره از دریا نکرد\r\nعاشق و معشوق را شرط است با هم سوختن\r\nشمع درنگرفت تا پروانه‌ای پیدا نکرد\r\nکلبه تنگ مرا جای دو خون‌آلوده نیست\r\nتا نرفت از جا دلم، در سینه پیکان جا نکرد\r\nگردم از بی‌طاقتی بسیار بر گرد چمن\r\nشمع را در بزم، جز پروانه کس رسوا نکرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جز محبت، سینه‌ام علم دگر پیدا نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون صدف، کس انتخاب قطره از دریا نکرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق و معشوق را شرط است با هم سوختن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمع درنگرفت تا پروانه‌ای پیدا نکرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کلبه تنگ مرا جای دو خون‌آلوده نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا نرفت از جا دلم، در سینه پیکان جا نکرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گردم از بی‌طاقتی بسیار بر گرد چمن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شمع را در بزم، جز پروانه کس رسوا نکرد",
+      "CoupletIndex": 3
+    }
+  ]
+}

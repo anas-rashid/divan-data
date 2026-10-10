@@ -1,0 +1,42 @@
+{
+  "Id": 26430,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۴۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۴۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh342",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh342",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا خط دمید با من دلدار هم سخن شد\r\nخط غبار جانان خاک مراد من شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا خط دمید با من دلدار هم سخن شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط غبار جانان خاک مراد من شد",
+      "CoupletIndex": 0
+    }
+  ]
+}

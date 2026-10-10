@@ -1,0 +1,66 @@
+{
+  "Id": 36256,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۰۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۰۵",
+  "FullUrl": "/p393/natmam/sh105",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh105",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خاک گشتم در رهت از من غباری برنخاست\r\nمگذر از انصاف چون من خاکساری برنخاست\r\nعمرها شد بیستون مشتاق زخم تیشه است\r\nکوهکن تا رفت دیگر مرد کاری برنخاست\r\nبارها زد بر محک از سنگ طفلانم فلک\r\nدر جنون مانند من کامل عیاری برنخاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خاک گشتم در رهت از من غباری برنخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگذر از انصاف چون من خاکساری برنخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمرها شد بیستون مشتاق زخم تیشه است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کوهکن تا رفت دیگر مرد کاری برنخاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بارها زد بر محک از سنگ طفلانم فلک",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در جنون مانند من کامل عیاری برنخاست",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31752,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۸۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۸۵",
+  "FullUrl": "/p390/divan/ghazal/sh785",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh785",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به کوی عشق خوبان تا گذشتم\r\nز رفتن همچو نقش پا گذشتم\r\nنه گل بر سر، نه خاری در کف پا\r\nچو باد از باغ، بی پروا گذشتم\r\nدلی بی آتش عشقت ندیدم\r\nبه افسون در رگ خارا گذشتم\r\nبه امید وصال بی وفایی\r\nچو خورشید از سر دنیا گذشتم\r\nسلیم از عشق خوبان حاصلی نیست\r\nزیان دارد، ازین سودا گذشتم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به کوی عشق خوبان تا گذشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز رفتن همچو نقش پا گذشتم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه گل بر سر، نه خاری در کف پا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو باد از باغ، بی پروا گذشتم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلی بی آتش عشقت ندیدم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به افسون در رگ خارا گذشتم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به امید وصال بی وفایی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو خورشید از سر دنیا گذشتم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم از عشق خوبان حاصلی نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زیان دارد، ازین سودا گذشتم",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28945,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۷۵",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۷۵",
+  "FullUrl": "/p387/divan/robaee/sh75",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh75",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی از گریه است ضعف چشمم نه زدرد\r\nاین پرده بروی کار هجران آورد\r\nهر خانه که صاحبش سفر کرد از آن\r\nناچار در آن غبار بنشیند و گرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی از گریه است ضعف چشمم نه زدرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این پرده بروی کار هجران آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر خانه که صاحبش سفر کرد از آن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ناچار در آن غبار بنشیند و گرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

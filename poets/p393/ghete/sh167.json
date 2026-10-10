@@ -1,0 +1,54 @@
+{
+  "Id": 36647,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۶۷",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۶۷",
+  "FullUrl": "/p393/ghete/sh167",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh167",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سحر از یاد چشم او به نرگس زار افتادم\r\nز یاد گل فکندم بستر و بیمار افتادم\r\nگرفتم رخصت برگرد سرگشتن ز یار امشب\r\nچنان گرد سرش گشتم که از پرکار افتادم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سحر از یاد چشم او به نرگس زار افتادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز یاد گل فکندم بستر و بیمار افتادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرفتم رخصت برگرد سرگشتن ز یار امشب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چنان گرد سرش گشتم که از پرکار افتادم",
+      "CoupletIndex": 1
+    }
+  ]
+}

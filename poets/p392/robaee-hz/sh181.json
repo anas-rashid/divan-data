@@ -1,0 +1,57 @@
+{
+  "Id": 34576,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۱",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۱",
+  "FullUrl": "/p392/robaee-hz/sh181",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh181",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صوفی که بود اساس کارش بر زرق\r\nژاژش به دهان، خاک سیاهش بر فرق\r\nخضر ره اوا پای سست، در گام نخست\r\nنوح دگران و خویش تا گردن غرق",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفی که بود اساس کارش بر زرق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ژاژش به دهان، خاک سیاهش بر فرق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خضر ره اوا پای سست، در گام نخست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نوح دگران و خویش تا گردن غرق",
+      "CoupletIndex": 1
+    }
+  ]
+}

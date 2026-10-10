@@ -1,0 +1,45 @@
+{
+  "Id": 17773,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۴۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۴۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh242",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh242",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شکایت‌نامهٔ ما، سنگ را در گریه می‌آرد\r\nمهیای گرستن شو؛ دگر، مکتوبِ ما بگشا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شکایت‌نامهٔ ما، سنگ را در گریه می‌آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مهیای گرستن شو؛ دگر، مکتوبِ ما بگشا",
+      "CoupletIndex": 0
+    }
+  ]
+}

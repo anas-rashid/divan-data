@@ -1,0 +1,54 @@
+{
+  "Id": 37301,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۹",
+  "FullUrl": "/p393/robaee/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زر می‌طلبی تو من ندارم چه کنم\r\nسر می‌طلبی تو من ندارم چه کنم\r\nصبر جمیل یعقوب\r\nگر می‌طلبی تو من ندارم چه کنم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زر می‌طلبی تو من ندارم چه کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر می‌طلبی تو من ندارم چه کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صبر جمیل یعقوب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر می‌طلبی تو من ندارم چه کنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

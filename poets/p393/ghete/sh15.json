@@ -1,0 +1,54 @@
+{
+  "Id": 36495,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵",
+  "FullUrl": "/p393/ghete/sh15",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh15",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رسیده از قد او طرفه پایمال مرا\r\nبسان ریشه دوانید این خیال مرا\r\nز آشیانه بریدم به دام افتادم\r\nزهی نصیب که شد بال و پر و بال مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رسیده از قد او طرفه پایمال مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بسان ریشه دوانید این خیال مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آشیانه بریدم به دام افتادم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زهی نصیب که شد بال و پر و بال مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

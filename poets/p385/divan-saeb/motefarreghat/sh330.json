@@ -1,0 +1,45 @@
+{
+  "Id": 26936,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh330",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh330",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "داغم از خنده بیهوده خود، می ترسم\r\nکه چو گل مدت عمرم به شکفتن گذرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "داغم از خنده بیهوده خود، می ترسم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چو گل مدت عمرم به شکفتن گذرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

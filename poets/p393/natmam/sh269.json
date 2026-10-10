@@ -1,0 +1,66 @@
+{
+  "Id": 36420,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۶۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۶۹",
+  "FullUrl": "/p393/natmam/sh269",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh269",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل سختش از زاری شود نرم\r\nنه از زور و نه از زاری شود نرم\r\nدلش را نرم‌کردن نیست آسان\r\nبلی آهن به دشواری شود نرم\r\nدر آن دل اشک باران را اثر نیست\r\nمگر از رحمت باری شود نرم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل سختش از زاری شود نرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه از زور و نه از زاری شود نرم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلش را نرم‌کردن نیست آسان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلی آهن به دشواری شود نرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در آن دل اشک باران را اثر نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگر از رحمت باری شود نرم",
+      "CoupletIndex": 2
+    }
+  ]
+}

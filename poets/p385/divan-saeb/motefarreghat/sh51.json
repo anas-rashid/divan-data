@@ -1,0 +1,57 @@
+{
+  "Id": 26657,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh51",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh51",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه حاجت است به می لعل سیر رنگ ترا؟\r\nنظر به پرتو خورشید نیست رنگ ترا\r\nدم از ثبات قدم می زند ز ساده دلی\r\nز دور دیده هدف جلوه خدنگ ترا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه حاجت است به می لعل سیر رنگ ترا؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظر به پرتو خورشید نیست رنگ ترا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دم از ثبات قدم می زند ز ساده دلی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز دور دیده هدف جلوه خدنگ ترا",
+      "CoupletIndex": 1
+    }
+  ]
+}

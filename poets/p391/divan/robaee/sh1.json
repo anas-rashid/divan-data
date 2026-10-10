@@ -1,0 +1,57 @@
+{
+  "Id": 33272,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/p391/divan/robaee/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پندِ پدرانه، پیشِ اربابِ ذَکا\r\nتریاق آمد گرچه بود زهرنما\r\nچون عقدِ گُهَر، نصیحتِ تلخ، مرا\r\nماری‌ست که مُهره باشد از سر تا پا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پندِ پدرانه، پیشِ اربابِ ذَکا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تریاق آمد گرچه بود زهرنما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون عقدِ گُهَر، نصیحتِ تلخ، مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ماری‌ست که مُهره باشد از سر تا پا",
+      "CoupletIndex": 1
+    }
+  ]
+}

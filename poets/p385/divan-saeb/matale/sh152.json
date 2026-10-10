@@ -1,0 +1,42 @@
+{
+  "Id": 26240,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۵۲",
+  "FullUrl": "/p385/divan-saeb/matale/sh152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گل سر سبد روزگار، خوش خویی است\r\nکلید گنج سعادت گشاده ابرویی است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل سر سبد روزگار، خوش خویی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کلید گنج سعادت گشاده ابرویی است",
+      "CoupletIndex": 0
+    }
+  ]
+}

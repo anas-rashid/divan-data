@@ -1,0 +1,45 @@
+{
+  "Id": 18759,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۲۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۲۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1228",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1228",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما چو سرو از راستی دامن به بار افشانده‌ایم\r\nآستین چون شاخ گل بر نوبهار افشانده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما چو سرو از راستی دامن به بار افشانده‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آستین چون شاخ گل بر نوبهار افشانده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

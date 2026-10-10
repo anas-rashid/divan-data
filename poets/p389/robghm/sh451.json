@@ -1,0 +1,57 @@
+{
+  "Id": 30708,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۵۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۵۱",
+  "FullUrl": "/p389/robghm/sh451",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh451",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش نیست حقیقت و مجاز از هم پاک\r\nاین هردو به هم خوشند تا وقت هلاک\r\nمعنی نکند نشو و نما بی صورت\r\nهر دانه ز پوست می‌نهد ریشه به خاک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش نیست حقیقت و مجاز از هم پاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این هردو به هم خوشند تا وقت هلاک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "معنی نکند نشو و نما بی صورت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر دانه ز پوست می‌نهد ریشه به خاک",
+      "CoupletIndex": 1
+    }
+  ]
+}

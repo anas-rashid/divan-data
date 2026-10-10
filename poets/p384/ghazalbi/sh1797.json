@@ -1,0 +1,93 @@
+{
+  "Id": 16500,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۱۷۹۷",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۱۷۹۷",
+  "FullUrl": "/p384/ghazalbi/sh1797",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh1797",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کشت عاشق‌ که دهد داد گیاه خشکش\r\nموی چینی‌ست رگ ابر سیاه خشکش\r\nبی‌سخا گردن منعم چه کمال افرازد\r\nسر خشکی‌ست که آتش به‌ کلاه خشکش\r\nسر به غفلت مفرازید ز آه مظلوم\r\nبرق خفته‌ست به فوارهٔ آه خشکش\r\nشاه اگر دامن انعام به‌ خسّت چیند\r\nنیست جز مهرهٔ شطرنج سپاه خشکش\r\nغفلت بیدل ما تا به‌ کجا گرد کند\r\nابر رحمت نشود تر به ‌گناه خشکش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشت عاشق‌ که دهد داد گیاه خشکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موی چینی‌ست رگ ابر سیاه خشکش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی‌سخا گردن منعم چه کمال افرازد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر خشکی‌ست که آتش به‌ کلاه خشکش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر به غفلت مفرازید ز آه مظلوم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برق خفته‌ست به فوارهٔ آه خشکش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شاه اگر دامن انعام به‌ خسّت چیند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیست جز مهرهٔ شطرنج سپاه خشکش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "غفلت بیدل ما تا به‌ کجا گرد کند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ابر رحمت نشود تر به ‌گناه خشکش",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36326,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۱۷۵",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۱۷۵",
+  "FullUrl": "/p393/natmam/sh175",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh175",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اگر ز خاک مزارم غبار برخیزد\r\nز شوق گوشهٔ دامان یار برخیزد\r\nز بی‌مروتی چشم او عجب نبود\r\nکه رسم مردمی از روزگار برخیزد\r\nز گریه‌ای که به دل دارم از گل روی\r\nز دامن مژه ابر بهار برخیزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر ز خاک مزارم غبار برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز شوق گوشهٔ دامان یار برخیزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز بی‌مروتی چشم او عجب نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که رسم مردمی از روزگار برخیزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز گریه‌ای که به دل دارم از گل روی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز دامن مژه ابر بهار برخیزد",
+      "CoupletIndex": 2
+    }
+  ]
+}

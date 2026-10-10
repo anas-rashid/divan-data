@@ -1,0 +1,45 @@
+{
+  "Id": 18253,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۲۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۲۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh722",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh722",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز انگشت اشارت، در گریبان خارها دارم\r\nبلایی آدمی را بدتر از شهرت نمی‌باشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز انگشت اشارت، در گریبان خارها دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بلایی آدمی را بدتر از شهرت نمی‌باشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

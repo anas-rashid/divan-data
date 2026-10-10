@@ -1,0 +1,57 @@
+{
+  "Id": 27224,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۱۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۱۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh618",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh618",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردم از افسردگی ای بخت چشمی باز کن\r\nگریه را آگاه گردان، ناله را آواز کن\r\nای که می بخشی به گلچینان کلید باغ را\r\nاول این قفل گره از بال بلبل باز کن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردم از افسردگی ای بخت چشمی باز کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریه را آگاه گردان، ناله را آواز کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای که می بخشی به گلچینان کلید باغ را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اول این قفل گره از بال بلبل باز کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

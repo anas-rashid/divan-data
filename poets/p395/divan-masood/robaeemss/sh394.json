@@ -1,0 +1,57 @@
+{
+  "Id": 37908,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۹۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۹۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh394",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh394",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای قلعه نای مادر ملک تویی\r\nدانند که کان گوهر ملک تویی\r\nامروز نیام خنجر ملک تویی\r\nآیا دیدی که بر در ملک تویی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قلعه نای مادر ملک تویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دانند که کان گوهر ملک تویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امروز نیام خنجر ملک تویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیا دیدی که بر در ملک تویی",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30307,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/p389/robghm/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ناچار به هجر یار می‌باید ساخت\r\nگر گل نبود، به خار می‌باید ساخت\r\nدل را به وفای وعده‌اش نتوان بست\r\nاز وعده به انتظار می‌باید ساخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ناچار به هجر یار می‌باید ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر گل نبود، به خار می‌باید ساخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل را به وفای وعده‌اش نتوان بست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از وعده به انتظار می‌باید ساخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

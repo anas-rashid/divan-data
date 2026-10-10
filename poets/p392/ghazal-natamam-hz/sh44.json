@@ -1,0 +1,54 @@
+{
+  "Id": 34703,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۴۴",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۴۴",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردان کنند خوش، غم و هجر همیشه را\r\nآب بقاست آتش تب، شیر بیشه را\r\nگر بحر ریزیش به گلو، العطش زند\r\nجایی که نخل حرص فروبرد ریشه را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردان کنند خوش، غم و هجر همیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آب بقاست آتش تب، شیر بیشه را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر بحر ریزیش به گلو، العطش زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جایی که نخل حرص فروبرد ریشه را",
+      "CoupletIndex": 1
+    }
+  ]
+}

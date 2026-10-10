@@ -1,0 +1,57 @@
+{
+  "Id": 28951,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۱",
+  "FullUrl": "/p387/divan/robaee/sh81",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh81",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلخسته به پیش دادرس می آیم\r\nآزرده ز گلشن بقفس می آیم\r\nچون ساغر می بهر زمان در سفرم\r\nپر می روم و تهی به پس می آیم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلخسته به پیش دادرس می آیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آزرده ز گلشن بقفس می آیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون ساغر می بهر زمان در سفرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پر می روم و تهی به پس می آیم",
+      "CoupletIndex": 1
+    }
+  ]
+}

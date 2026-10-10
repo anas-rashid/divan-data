@@ -1,0 +1,57 @@
+{
+  "Id": 30685,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۲۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۲۸",
+  "FullUrl": "/p389/robghm/sh428",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh428",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کس که به معصیت فرو رفته سرش\r\nافسوس خورد، چون شود از خود خبرش\r\nباری که شتر فروکشد در مستی\r\nآید چو به حال خویش، بیند اثرش",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که به معصیت فرو رفته سرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسوس خورد، چون شود از خود خبرش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باری که شتر فروکشد در مستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آید چو به حال خویش، بیند اثرش",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 32702,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۶۱۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۶۱۰",
+  "FullUrl": "/p391/divan/ghazal/sh610",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh610",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هوای او فلاطون را زخود بیگانه می سازد\r\nنگه را نوبهار جلوه اش دیوانه می سازد\r\nمن آن مجنون عنقا جلوه ام کز غایت وحشت\r\nبرون از تنگنای آب و گل کاشانه می سازد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هوای او فلاطون را زخود بیگانه می سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگه را نوبهار جلوه اش دیوانه می سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من آن مجنون عنقا جلوه ام کز غایت وحشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برون از تنگنای آب و گل کاشانه می سازد",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30446,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۹",
+  "FullUrl": "/p389/robghm/sh189",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh189",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاه آلو را به نیک و بد نتوان داد\r\nدر کشمیرش سبد سبد نتوان داد\r\nهرچند که در عزیزی‌اش نیست سخن\r\nصد را به یکی، یکی به صد نتوان داد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاه آلو را به نیک و بد نتوان داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کشمیرش سبد سبد نتوان داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که در عزیزی‌اش نیست سخن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صد را به یکی، یکی به صد نتوان داد",
+      "CoupletIndex": 1
+    }
+  ]
+}

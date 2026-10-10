@@ -1,0 +1,42 @@
+{
+  "Id": 37010,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۰۱",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۰۱",
+  "FullUrl": "/p393/mot/sh301",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh301",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "میانهٔ من و زلف است بر سر دل بحث\r\nکجاست خط که کند زلف بحث را مقراض",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "میانهٔ من و زلف است بر سر دل بحث",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجاست خط که کند زلف بحث را مقراض",
+      "CoupletIndex": 0
+    }
+  ]
+}

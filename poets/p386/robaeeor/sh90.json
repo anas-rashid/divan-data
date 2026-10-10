@@ -1,0 +1,57 @@
+{
+  "Id": 28133,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۹۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۹۰",
+  "FullUrl": "/p386/robaeeor/sh90",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh90",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در سردی یخ بند که لرزد خورشید\r\nخون بسته شود چون بقم در رگ بید\r\nگل دسته ای از دود شرر بسته شود\r\nکاندر کف روزگار ماند جاوید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در سردی یخ بند که لرزد خورشید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون بسته شود چون بقم در رگ بید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل دسته ای از دود شرر بسته شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر کف روزگار ماند جاوید",
+      "CoupletIndex": 1
+    }
+  ]
+}

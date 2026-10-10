@@ -1,0 +1,105 @@
+{
+  "Id": 23235,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۱۶۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۱۶۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4162",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4162",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلزار جوش حسن خداداد می‌زند\r\nباغ از شکوفه موج پریزاد می‌زند\r\nخون لاله لاله می‌چکد از تیغ کوهسار\r\nطاوس سر ز بیضه فولاد می‌زند\r\nچون عندلیب هرکه قدم در چمن گذاشت\r\nبی‌اختیار بر در فریاد می‌زند\r\nهر لاله‌ای که سر زند از کوه بیستون\r\nساغر به طاق ابروی فرهاد می‌زند\r\nعاشق به هیچ وجه تسلی نمی‌شود\r\nدر وصل عندلیب همان داد می‌زند\r\nصائب به روی خود در غم باز می‌کند\r\nهرکس که خنده بر من ناشاد می‌زند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلزار جوش حسن خداداد می‌زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باغ از شکوفه موج پریزاد می‌زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون لاله لاله می‌چکد از تیغ کوهسار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طاوس سر ز بیضه فولاد می‌زند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون عندلیب هرکه قدم در چمن گذاشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بی‌اختیار بر در فریاد می‌زند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر لاله‌ای که سر زند از کوه بیستون",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ساغر به طاق ابروی فرهاد می‌زند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عاشق به هیچ وجه تسلی نمی‌شود",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در وصل عندلیب همان داد می‌زند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صائب به روی خود در غم باز می‌کند",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هرکس که خنده بر من ناشاد می‌زند",
+      "CoupletIndex": 5
+    }
+  ]
+}

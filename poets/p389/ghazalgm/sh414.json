@@ -1,0 +1,93 @@
+{
+  "Id": 30162,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۱۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۱۴",
+  "FullUrl": "/p389/ghazalgm/sh414",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh414",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیا ای عشق، ننگ عافیت از سرم وا کن\r\nدلم را طاقت غم ده، سرم را گرم سودا کن\r\nشب تنهایی‌ام مشرق ز یادش رفته، ای گردون\r\nرهی دیگر برای مطلع خورشید پیدا کن\r\nگل خودروی من، آهنگ سیر بوستان دارد\r\nبرو ای دیده و در چشم نرگس خویش را جا کن\r\nمرا خوانی به بزم خود، دهی پهلوی غیرم جا\r\nخسک در دیده‌ام ریزی و گویی گل تماشا کن\r\nاگر خواهی که ره بیرون بری از شام تنهایی\r\nبرو چون آسمان هر صبح خورشیدی مهیا کن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا ای عشق، ننگ عافیت از سرم وا کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلم را طاقت غم ده، سرم را گرم سودا کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب تنهایی‌ام مشرق ز یادش رفته، ای گردون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رهی دیگر برای مطلع خورشید پیدا کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل خودروی من، آهنگ سیر بوستان دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برو ای دیده و در چشم نرگس خویش را جا کن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرا خوانی به بزم خود، دهی پهلوی غیرم جا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خسک در دیده‌ام ریزی و گویی گل تماشا کن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر خواهی که ره بیرون بری از شام تنهایی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برو چون آسمان هر صبح خورشیدی مهیا کن",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18942,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۱۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۱۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1411",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1411",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به قسمت راضیم ای سنگدل، دیگر چه می‌خواهی\r\nخمار بی‌شراب از من، شراب بی خمار از تو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به قسمت راضیم ای سنگدل، دیگر چه می‌خواهی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خمار بی‌شراب از من، شراب بی خمار از تو",
+      "CoupletIndex": 0
+    }
+  ]
+}

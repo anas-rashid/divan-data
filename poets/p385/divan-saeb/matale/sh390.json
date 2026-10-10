@@ -1,0 +1,42 @@
+{
+  "Id": 26478,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۹۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۹۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh390",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh390",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جوانی برد با خود آنچه می آمد به کار از من\r\nخس و خاری به جا مانده است از چندین بهار از من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جوانی برد با خود آنچه می آمد به کار از من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خس و خاری به جا مانده است از چندین بهار از من",
+      "CoupletIndex": 0
+    }
+  ]
+}

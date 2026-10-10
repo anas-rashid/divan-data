@@ -1,0 +1,54 @@
+{
+  "Id": 36631,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۱",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۱",
+  "FullUrl": "/p393/ghete/sh151",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh151",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارم دلی از درد تو بیمار و تو غافل\r\nجانی به لب از حسرت دیدار و تو غافل\r\nتابوت من آن روز که بردند ازان کوی\r\nبگریست به حالم در و دیوار و تو غافل",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم دلی از درد تو بیمار و تو غافل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانی به لب از حسرت دیدار و تو غافل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تابوت من آن روز که بردند ازان کوی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگریست به حالم در و دیوار و تو غافل",
+      "CoupletIndex": 1
+    }
+  ]
+}

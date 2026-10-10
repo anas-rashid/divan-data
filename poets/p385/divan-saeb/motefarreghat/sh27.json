@@ -1,0 +1,69 @@
+{
+  "Id": 26633,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh27",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh27",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صیقلی می شود از زخم زبان سینه ما\r\nدم شمشیر بود صیقل آیینه ما\r\nبی قدح راه به غیب دهن خود نبریم\r\nعالم آب بود خلوت آیینه ما\r\nهر که ناخن به جگرکاوی ما تیز کند\r\nماه عیدست به چشم دل بی کینه ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صیقلی می شود از زخم زبان سینه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دم شمشیر بود صیقل آیینه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی قدح راه به غیب دهن خود نبریم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عالم آب بود خلوت آیینه ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر که ناخن به جگرکاوی ما تیز کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ماه عیدست به چشم دل بی کینه ما",
+      "CoupletIndex": 2
+    }
+  ]
+}

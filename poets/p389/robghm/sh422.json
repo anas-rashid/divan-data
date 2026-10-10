@@ -1,0 +1,57 @@
+{
+  "Id": 30679,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۲۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۲۲",
+  "FullUrl": "/p389/robghm/sh422",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh422",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "احوال زمانه از ستم‌کیشان پرس\r\nنیک و بد خویش را، هم از خویشان پرس\r\nاز کوتهی سپهر اگر می‌پرسی\r\nاز بخت بلند کوته‌اندیشان پرس",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "احوال زمانه از ستم‌کیشان پرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیک و بد خویش را، هم از خویشان پرس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از کوتهی سپهر اگر می‌پرسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بخت بلند کوته‌اندیشان پرس",
+      "CoupletIndex": 1
+    }
+  ]
+}

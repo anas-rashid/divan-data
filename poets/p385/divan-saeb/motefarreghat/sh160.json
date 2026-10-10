@@ -1,0 +1,57 @@
+{
+  "Id": 26766,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۶۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۶۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh160",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh160",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نرمی حصار عافیت جان روشن است\r\nاز موم پشت آینه بر کوه آهن است\r\nقانع به دستبوس شدن زان جهان حسن\r\nاز بحر تشنه را به قلم آب خوردن است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نرمی حصار عافیت جان روشن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از موم پشت آینه بر کوه آهن است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قانع به دستبوس شدن زان جهان حسن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از بحر تشنه را به قلم آب خوردن است",
+      "CoupletIndex": 1
+    }
+  ]
+}

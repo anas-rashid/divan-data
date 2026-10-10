@@ -1,0 +1,45 @@
+{
+  "Id": 27198,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۹۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۹۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh592",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh592",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باز رنگت شکسته است امروز\r\nتا کجا رنگ عشق ریخته ای",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز رنگت شکسته است امروز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کجا رنگ عشق ریخته ای",
+      "CoupletIndex": 0
+    }
+  ]
+}

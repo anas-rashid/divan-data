@@ -1,0 +1,57 @@
+{
+  "Id": 37639,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردون شرف و جاه در انگشت تو دید\r\nکآن خاتم ناگاه در انگشت تو دید\r\nصد مشتری و ماه در انگشت تو دید\r\nکانگشتری شاه در انگشت تو دید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردون شرف و جاه در انگشت تو دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کآن خاتم ناگاه در انگشت تو دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "صد مشتری و ماه در انگشت تو دید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کانگشتری شاه در انگشت تو دید",
+      "CoupletIndex": 1
+    }
+  ]
+}

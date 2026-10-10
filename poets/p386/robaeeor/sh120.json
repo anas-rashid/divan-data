@@ -1,0 +1,57 @@
+{
+  "Id": 28163,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۲۰",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۲۰",
+  "FullUrl": "/p386/robaeeor/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خوش آن که شراب همتم مست کند\r\nآوازهٔ امید مرا پست کند\r\nگر دست زنم به کام، در دست دگر\r\nشمشیر دهم که قطع آن دست کند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش آن که شراب همتم مست کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آوازهٔ امید مرا پست کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دست زنم به کام، در دست دگر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمشیر دهم که قطع آن دست کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 26595,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۰۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۰۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh507",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh507",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز ذکر جهر مکن منع صوفیان لله\r\nکه عاشقند به بانگ بلند برالله",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز ذکر جهر مکن منع صوفیان لله",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که عاشقند به بانگ بلند برالله",
+      "CoupletIndex": 0
+    }
+  ]
+}

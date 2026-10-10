@@ -1,0 +1,57 @@
+{
+  "Id": 30904,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۴۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۴۷",
+  "FullUrl": "/p389/robghm/sh647",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh647",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از کس نبود هراس در تنهایی\r\nامن است دلم ز پاس در تنهایی\r\nاز خلق کناره‌گیرم اما چه کنم\r\nچون جمع شود حواس در تنهایی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از کس نبود هراس در تنهایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "امن است دلم ز پاس در تنهایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از خلق کناره‌گیرم اما چه کنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون جمع شود حواس در تنهایی",
+      "CoupletIndex": 1
+    }
+  ]
+}

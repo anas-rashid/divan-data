@@ -1,0 +1,42 @@
+{
+  "Id": 26392,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۰۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۰۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh304",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh304",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دلی که آب شد از عشق برقرار بود\r\nکه گل گلاب چو گردید پایدار بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلی که آب شد از عشق برقرار بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که گل گلاب چو گردید پایدار بود",
+      "CoupletIndex": 0
+    }
+  ]
+}

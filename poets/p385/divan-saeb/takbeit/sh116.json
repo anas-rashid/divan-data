@@ -1,0 +1,45 @@
+{
+  "Id": 17647,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۱۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۱۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh116",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh116",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غمگین نی‌ام که خَلق، شُمارند بَد، مَرا\r\nنزدیک می‌کند به خدا، دستِ رَد، مَرا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غمگین نی‌ام که خَلق، شُمارند بَد، مَرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نزدیک می‌کند به خدا، دستِ رَد، مَرا",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 28901,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۳۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۳۱",
+  "FullUrl": "/p387/divan/robaee/sh31",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh31",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای همچو مگس بر همه طبعی تو گران\r\nطاعون صفت از تو محترز پیر و جوان\r\nزانگونه ثقیلی که ز رفتن ماند\r\nافتد اگر از تو سایه بر آب روان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای همچو مگس بر همه طبعی تو گران",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طاعون صفت از تو محترز پیر و جوان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زانگونه ثقیلی که ز رفتن ماند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "افتد اگر از تو سایه بر آب روان",
+      "CoupletIndex": 1
+    }
+  ]
+}

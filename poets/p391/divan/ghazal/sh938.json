@@ -1,0 +1,93 @@
+{
+  "Id": 33030,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۳۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۳۸",
+  "FullUrl": "/p391/divan/ghazal/sh938",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh938",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بی جان بود قدح شب آدینه بر زمین\r\nمالد ز تشنگی بط می سینه بر زمین\r\nپاشید گل زشرم صفای تو در چمن\r\nاز برگ برگ خویش زد آیینه بر زمین\r\nعشق از نخست داده مرا صاف بیخودی\r\nافتاده ام ز مستی دیرینه بر زمین\r\nرطل هواگران زنم فیض گشته است\r\nامروز ابر چون نکشد سینه بر زمین\r\nجویا به جرم صافدلی، چرخ فتنه جو\r\nهر شام مهر را زند از کینه بر زمین",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی جان بود قدح شب آدینه بر زمین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مالد ز تشنگی بط می سینه بر زمین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پاشید گل زشرم صفای تو در چمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از برگ برگ خویش زد آیینه بر زمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق از نخست داده مرا صاف بیخودی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "افتاده ام ز مستی دیرینه بر زمین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رطل هواگران زنم فیض گشته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "امروز ابر چون نکشد سینه بر زمین",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جویا به جرم صافدلی، چرخ فتنه جو",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر شام مهر را زند از کینه بر زمین",
+      "CoupletIndex": 4
+    }
+  ]
+}

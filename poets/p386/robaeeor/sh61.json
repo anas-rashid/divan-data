@@ -1,0 +1,57 @@
+{
+  "Id": 28104,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۶۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۶۱",
+  "FullUrl": "/p386/robaeeor/sh61",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh61",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای کعبه رو این طرف که بی سازی نیست\r\nطوفی و خروشی و تک و تازی نیست\r\nسر تا سر کوچهٔ خرابات مغان\r\nآشفته و مست رو، که طنازی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای کعبه رو این طرف که بی سازی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "طوفی و خروشی و تک و تازی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر تا سر کوچهٔ خرابات مغان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آشفته و مست رو، که طنازی نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

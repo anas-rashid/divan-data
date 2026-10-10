@@ -1,0 +1,57 @@
+{
+  "Id": 37667,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۵۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۵۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh153",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh153",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاه فلک متابع کام تو باد\r\nاقبال جهان دولت پدرام تو باد\r\nآرایش مملکت به ایام تو باد\r\nمسعودی و ایام تو چون نام تو باد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه فلک متابع کام تو باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اقبال جهان دولت پدرام تو باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آرایش مملکت به ایام تو باد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مسعودی و ایام تو چون نام تو باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

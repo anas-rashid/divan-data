@@ -1,0 +1,54 @@
+{
+  "Id": 33259,
+  "CatId": 1100,
+  "Title": "شمارهٔ ۲۳ - در وصف آیینه خانه",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » قطعات » شمارهٔ ۲۳ - در وصف آیینه خانه",
+  "FullUrl": "/p391/divan/ghete/sh23",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghete/sh23",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "این آینه خانه از وفور لمعان\r\nوز صافی و روشنی بود چشم جهان\r\nنواب درو نشسته چون مردم چشم\r\nخدام به دورش زده صف چون مژگان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این آینه خانه از وفور لمعان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز صافی و روشنی بود چشم جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نواب درو نشسته چون مردم چشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدام به دورش زده صف چون مژگان",
+      "CoupletIndex": 1
+    }
+  ]
+}

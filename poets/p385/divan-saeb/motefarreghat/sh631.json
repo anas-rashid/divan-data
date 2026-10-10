@@ -1,0 +1,69 @@
+{
+  "Id": 27237,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۳۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۳۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh631",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh631",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به فکر از عقده افلاک نتوان کرد سر بیرون\r\nچرا در بیضه آرد مرغ زیرک بال و پر بیرون؟\r\nچو ملک دلنشین نیستی ملکی نمی باشد\r\nکه از دلبستگی ز آنجا نمی آید خبر بیرون\r\nز فرش بوریا گردید خواب تلخ من شیرین\r\nز بندیخانه نی صاف می آید شکر بیرون",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به فکر از عقده افلاک نتوان کرد سر بیرون",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چرا در بیضه آرد مرغ زیرک بال و پر بیرون؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو ملک دلنشین نیستی ملکی نمی باشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از دلبستگی ز آنجا نمی آید خبر بیرون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز فرش بوریا گردید خواب تلخ من شیرین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز بندیخانه نی صاف می آید شکر بیرون",
+      "CoupletIndex": 2
+    }
+  ]
+}

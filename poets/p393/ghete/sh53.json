@@ -1,0 +1,54 @@
+{
+  "Id": 36533,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۵۳",
+  "FullUrl": "/p393/ghete/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دوش از ما بی‌خبر دل از پی جانانه رفت\r\nخیر بادت هم نکرد این آشنا بیگانه رفت\r\nچشم او را سرمه یاد از ما سیه‌روزان نداد\r\nخویش را گم می‌کند هرکس که در میخانه رفت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دوش از ما بی‌خبر دل از پی جانانه رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیر بادت هم نکرد این آشنا بیگانه رفت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم او را سرمه یاد از ما سیه‌روزان نداد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خویش را گم می‌کند هرکس که در میخانه رفت",
+      "CoupletIndex": 1
+    }
+  ]
+}

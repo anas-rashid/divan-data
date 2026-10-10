@@ -1,0 +1,45 @@
+{
+  "Id": 18510,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۷۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۷۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh979",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh979",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صحبت شبهای میخواران ندارد بازگو\r\nچون ز مجلس می‌روی بیرون، لب پیمانه باش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحبت شبهای میخواران ندارد بازگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون ز مجلس می‌روی بیرون، لب پیمانه باش",
+      "CoupletIndex": 0
+    }
+  ]
+}

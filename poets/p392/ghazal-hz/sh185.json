@@ -1,0 +1,93 @@
+{
+  "Id": 33612,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/p392/ghazal-hz/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه تنها گل گریبان چاک بازار است از دستت\r\nکه در جیب چمن صد پیرهن خار است از دستت\r\nز تاراج بهاران مست و رنگین جلوه می آیی\r\nحنا نبود، که جوشان خون گلزار است از دستت\r\nید بیضا که می زد پنجه با خورشید در دعوی\r\nبه رنگ آستین امروز، بیکار است از دستت\r\nفرو برده ست بیدادت به نوعی پنجه در خونم\r\nکه هر مو بر تنم انگشت زنهار است از دستت\r\nحزین را گر تسلّی نامه ات ننواخت معذوری\r\nز حیرت خامه را کی پای رفتار است از دستت؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه تنها گل گریبان چاک بازار است از دستت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در جیب چمن صد پیرهن خار است از دستت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز تاراج بهاران مست و رنگین جلوه می آیی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حنا نبود، که جوشان خون گلزار است از دستت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ید بیضا که می زد پنجه با خورشید در دعوی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به رنگ آستین امروز، بیکار است از دستت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فرو برده ست بیدادت به نوعی پنجه در خونم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که هر مو بر تنم انگشت زنهار است از دستت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حزین را گر تسلّی نامه ات ننواخت معذوری",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز حیرت خامه را کی پای رفتار است از دستت؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30764,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۰۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۰۷",
+  "FullUrl": "/p389/robghm/sh507",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh507",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زنهار مرو به گله خاموشان\r\nمگذر ز سخن چو پله خاموشان\r\nمی‌گو سخنی، اگر حیاتی داری\r\nگورستان دان محله خاموشان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زنهار مرو به گله خاموشان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مگذر ز سخن چو پله خاموشان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌گو سخنی، اگر حیاتی داری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گورستان دان محله خاموشان",
+      "CoupletIndex": 1
+    }
+  ]
+}

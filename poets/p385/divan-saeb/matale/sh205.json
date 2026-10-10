@@ -1,0 +1,42 @@
+{
+  "Id": 26293,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۰۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh205",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh205",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسن خط از حلقه گشتن ها زیادت می شود\r\nخط ز پیچ و تاب قلاب محبت می شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسن خط از حلقه گشتن ها زیادت می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خط ز پیچ و تاب قلاب محبت می شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

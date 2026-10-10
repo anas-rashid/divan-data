@@ -1,0 +1,57 @@
+{
+  "Id": 30292,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵",
+  "FullUrl": "/p389/robghm/sh35",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh35",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در فقر، ریاضت است باب از همه باب\r\nپروردن تن عیب بود از خور و خواب\r\nاین نغمه خوشت باد اگر داری تاب\r\nکز ضعف، رگ از پوست برآید چو رباب",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در فقر، ریاضت است باب از همه باب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروردن تن عیب بود از خور و خواب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این نغمه خوشت باد اگر داری تاب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز ضعف، رگ از پوست برآید چو رباب",
+      "CoupletIndex": 1
+    }
+  ]
+}

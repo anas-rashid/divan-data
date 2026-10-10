@@ -1,0 +1,93 @@
+{
+  "Id": 30056,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۰۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۰۸",
+  "FullUrl": "/p389/ghazalgm/sh308",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh308",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گیرم ز دل به بادیه غم، سراغ خویش\r\nباشد چو آفتاب، دلیلم چراغ خویش\r\nبلبل شود ملول، چو گل بو کند کسی\r\nدر باغ ازان چه غنچه بگیرم دماغ خویش\r\nدر باغ، ما و لاله ز یک خاک رسته‌ایم\r\nهرگز نیفکنیم سیاهی ز داغ خویش\r\nاز داغ دل، ز شکوه ببندد دهان خود\r\nگر لاله را بریم به گلگشت باغ خویش\r\nبوی می‌ام ز خویش برد، می چه حاجت است\r\nچون لاله بشکنم به نسیمی ایاغ خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گیرم ز دل به بادیه غم، سراغ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باشد چو آفتاب، دلیلم چراغ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بلبل شود ملول، چو گل بو کند کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در باغ ازان چه غنچه بگیرم دماغ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در باغ، ما و لاله ز یک خاک رسته‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرگز نیفکنیم سیاهی ز داغ خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از داغ دل، ز شکوه ببندد دهان خود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر لاله را بریم به گلگشت باغ خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بوی می‌ام ز خویش برد، می چه حاجت است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون لاله بشکنم به نسیمی ایاغ خویش",
+      "CoupletIndex": 4
+    }
+  ]
+}

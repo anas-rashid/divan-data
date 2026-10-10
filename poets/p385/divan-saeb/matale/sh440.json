@@ -1,0 +1,42 @@
+{
+  "Id": 26528,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۴۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۴۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh440",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh440",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تن گران و جان نزار و دل کباب است از طعام\r\nغفلت از خواب است و خواب از آب و آب است از طعام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تن گران و جان نزار و دل کباب است از طعام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غفلت از خواب است و خواب از آب و آب است از طعام",
+      "CoupletIndex": 0
+    }
+  ]
+}

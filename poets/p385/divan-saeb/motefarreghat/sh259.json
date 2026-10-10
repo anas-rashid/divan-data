@@ -1,0 +1,57 @@
+{
+  "Id": 26865,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۵۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۵۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh259",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh259",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عافیت می خواهم از گردون، ملالم می دهد\r\nخوشدلی می جویم از اختر، وبالم می دهد\r\nدر طلسم قیمت من ره نمی یابد شکست\r\nبی سبب گرد کسادی خاکمالم می دهد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عافیت می خواهم از گردون، ملالم می دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوشدلی می جویم از اختر، وبالم می دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در طلسم قیمت من ره نمی یابد شکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی سبب گرد کسادی خاکمالم می دهد",
+      "CoupletIndex": 1
+    }
+  ]
+}

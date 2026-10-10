@@ -1,0 +1,57 @@
+{
+  "Id": 30472,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۱۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۱۵",
+  "FullUrl": "/p389/robghm/sh215",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh215",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر ذره به مهرت دل گرمی دارد\r\nوز دلگرمی زبان نرمی دارد\r\nبرداشته‌ای حجاب، اما ز ادب\r\nکی روی تو بیند آن که شرمی دارد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر ذره به مهرت دل گرمی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز دلگرمی زبان نرمی دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برداشته‌ای حجاب، اما ز ادب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی روی تو بیند آن که شرمی دارد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30734,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۷۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۷۷",
+  "FullUrl": "/p389/robghm/sh477",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh477",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق، به جز زیان ندارد سودم\r\nاز تیرگی اختر خود خشنودم\r\nاز بخت سیاه، بر سرم منت‌هاست\r\nچون لاله، چراغ روشن است از دودم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق، به جز زیان ندارد سودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از تیرگی اختر خود خشنودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بخت سیاه، بر سرم منت‌هاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون لاله، چراغ روشن است از دودم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36516,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۶",
+  "FullUrl": "/p393/ghete/sh36",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh36",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خانهٔ من ز آه گشته خراب\r\nخانه‌خیز است دشمنم چو حباب\r\nطفل اشکم دمی نیارامد\r\nزانکه هست از قبیلهٔ سیماب",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خانهٔ من ز آه گشته خراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خانه‌خیز است دشمنم چو حباب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "طفل اشکم دمی نیارامد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زانکه هست از قبیلهٔ سیماب",
+      "CoupletIndex": 1
+    }
+  ]
+}

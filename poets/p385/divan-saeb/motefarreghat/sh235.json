@@ -1,0 +1,57 @@
+{
+  "Id": 26841,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۳۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۳۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh235",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh235",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه زنگ از خاطر من دیده نمناک بردارد؟\r\nچه گرد از روی برگ تاک، اشک تاک بردارد؟\r\nنمی اندیشد از زخم زبان چون عشق کامل شد\r\nکه سیل تندرو از راه خود خاشاک بردارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه زنگ از خاطر من دیده نمناک بردارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه گرد از روی برگ تاک، اشک تاک بردارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی اندیشد از زخم زبان چون عشق کامل شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سیل تندرو از راه خود خاشاک بردارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

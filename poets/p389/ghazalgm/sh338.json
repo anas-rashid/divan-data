@@ -1,0 +1,81 @@
+{
+  "Id": 30086,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۳۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۳۸",
+  "FullUrl": "/p389/ghazalgm/sh338",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh338",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما شکست دل خود را ز خدا خواسته‌ایم\r\nوز خدا فرصت دشمن به دعا خواسته‌ایم\r\nهمه جویند می عشرت و ما زهر ملال\r\nدردسر نیست درین باده که ما خواسته‌ایم\r\nتا برآرند شهان ناله ز ناکامی خویش\r\nخویش را بر سر کوی تو گدا خواسته‌ایم\r\nبر سر کوی تو هر بی سر و پا محرم نیست\r\nما غلط کرده، غبارش ز صبا خواسته‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما شکست دل خود را ز خدا خواسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز خدا فرصت دشمن به دعا خواسته‌ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همه جویند می عشرت و ما زهر ملال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دردسر نیست درین باده که ما خواسته‌ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا برآرند شهان ناله ز ناکامی خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خویش را بر سر کوی تو گدا خواسته‌ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر سر کوی تو هر بی سر و پا محرم نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما غلط کرده، غبارش ز صبا خواسته‌ایم",
+      "CoupletIndex": 3
+    }
+  ]
+}

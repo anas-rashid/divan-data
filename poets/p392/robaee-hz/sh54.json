@@ -1,0 +1,57 @@
+{
+  "Id": 34449,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۵۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۵۴",
+  "FullUrl": "/p392/robaee-hz/sh54",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh54",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای تیره شب فراق، پایان وقت است\r\nای صبح بکش سر از گریبان، وقت است\r\nخون شد دل سنگ از اثر نالهٔ ما\r\nای زمزمهٔ مرغ سحر خوان، وقت است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تیره شب فراق، پایان وقت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای صبح بکش سر از گریبان، وقت است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خون شد دل سنگ از اثر نالهٔ ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای زمزمهٔ مرغ سحر خوان، وقت است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 36526,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۶",
+  "FullUrl": "/p393/ghete/sh46",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh46",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز چشم یار حال من تباهی است\r\nچه سازم آه این کافر سپاهی است\r\nبه جانان شکوهٔ بخت سیه را\r\nنویسم تا به چشم من سیاهی است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز چشم یار حال من تباهی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه سازم آه این کافر سپاهی است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به جانان شکوهٔ بخت سیه را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نویسم تا به چشم من سیاهی است",
+      "CoupletIndex": 1
+    }
+  ]
+}

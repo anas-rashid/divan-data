@@ -1,0 +1,66 @@
+{
+  "Id": 36403,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۲",
+  "FullUrl": "/p393/natmam/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ما خون به ایاغ خویش کردیم\r\nترتیب دماغ خویش کردیم\r\nروغن از مغز جان کشیدیم\r\nدر کار چراغ خویش کردیم\r\nهر درد که گشت روزی ما\r\nدر کاسهٔ داغ خویش کردیم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما خون به ایاغ خویش کردیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترتیب دماغ خویش کردیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روغن از مغز جان کشیدیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کار چراغ خویش کردیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر درد که گشت روزی ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در کاسهٔ داغ خویش کردیم",
+      "CoupletIndex": 2
+    }
+  ]
+}

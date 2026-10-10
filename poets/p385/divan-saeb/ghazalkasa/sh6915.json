@@ -1,0 +1,81 @@
+{
+  "Id": 25988,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۹۱۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۹۱۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh6915",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6915",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای حسن خط ز مصحف روی تو آیتی\r\nاز خوبی تو قصه یوسف حکایتی\r\nدرد کهن به پرسش رسمی نمی رود\r\nکی می دهد تسلی عاشق عنایتی؟\r\nپاس ادب عنان سخن را کشیده داشت\r\nروزی که داشت درددل ما نهایتی\r\nما را زبان شکوه چو صائب نداده اند\r\nمی داشت کاش درد دل ما نهایتی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای حسن خط ز مصحف روی تو آیتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خوبی تو قصه یوسف حکایتی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد کهن به پرسش رسمی نمی رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی می دهد تسلی عاشق عنایتی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پاس ادب عنان سخن را کشیده داشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روزی که داشت درددل ما نهایتی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ما را زبان شکوه چو صائب نداده اند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "می داشت کاش درد دل ما نهایتی",
+      "CoupletIndex": 3
+    }
+  ]
+}

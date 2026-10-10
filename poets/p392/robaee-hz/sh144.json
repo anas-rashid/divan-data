@@ -1,0 +1,57 @@
+{
+  "Id": 34539,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۴۴",
+  "FullUrl": "/p392/robaee-hz/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گردد چو خراب تن، چه غم؟ جان باشد\r\nویران چو شود حباب، عمّان باشد\r\nداد و ستد عشق زیانش سود است\r\nگر جان برود چه باک؟ جانان باشد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردد چو خراب تن، چه غم؟ جان باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ویران چو شود حباب، عمّان باشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داد و ستد عشق زیانش سود است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر جان برود چه باک؟ جانان باشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

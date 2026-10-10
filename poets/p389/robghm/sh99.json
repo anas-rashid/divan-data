@@ -1,0 +1,57 @@
+{
+  "Id": 30356,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۹۹",
+  "FullUrl": "/p389/robghm/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون شمع به سوختن کنی خوی، خوش است\r\nدایم ز پی شعله تکاپوی خوش است\r\nاز سوز منال چون دم از عشق زدی\r\nآری سوزند هرچه را بوی خوش است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون شمع به سوختن کنی خوی، خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دایم ز پی شعله تکاپوی خوش است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از سوز منال چون دم از عشق زدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آری سوزند هرچه را بوی خوش است",
+      "CoupletIndex": 1
+    }
+  ]
+}

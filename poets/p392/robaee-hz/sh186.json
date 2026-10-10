@@ -1,0 +1,57 @@
+{
+  "Id": 34581,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۸۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۸۶",
+  "FullUrl": "/p392/robaee-hz/sh186",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh186",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا عشق تو گشت از ازل روزی دل\r\nبربست میان را به غم اندوزی دل\r\nدرد تو کند مگر پرستاری جان\r\nداغ تو کند مگر جگرسوزی دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا عشق تو گشت از ازل روزی دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بربست میان را به غم اندوزی دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درد تو کند مگر پرستاری جان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "داغ تو کند مگر جگرسوزی دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

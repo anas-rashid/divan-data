@@ -1,0 +1,45 @@
+{
+  "Id": 18222,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۶۹۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۶۹۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh691",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh691",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کم‌کم دل مرا غم و اندیشه می‌خورد\r\nاین باده عاقبت سر این شیشه می‌خورد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کم‌کم دل مرا غم و اندیشه می‌خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این باده عاقبت سر این شیشه می‌خورد",
+      "CoupletIndex": 0
+    }
+  ]
+}

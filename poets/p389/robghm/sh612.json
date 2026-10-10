@@ -1,0 +1,57 @@
+{
+  "Id": 30869,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۲",
+  "FullUrl": "/p389/robghm/sh612",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh612",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یابی چو ز اهل فضل، شخصی عاصی\r\nنیکو نبود به فضل بی‌اخلاصی\r\nخود گو که زیان به اصل گوهر چه رسد\r\nگر بدگهری پیشه کند غواصی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یابی چو ز اهل فضل، شخصی عاصی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیکو نبود به فضل بی‌اخلاصی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود گو که زیان به اصل گوهر چه رسد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر بدگهری پیشه کند غواصی",
+      "CoupletIndex": 1
+    }
+  ]
+}

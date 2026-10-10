@@ -1,0 +1,57 @@
+{
+  "Id": 30735,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۷۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۷۸",
+  "FullUrl": "/p389/robghm/sh478",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh478",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی شکر ز جان، نه شکوه از تن دارم\r\nکام دو جهان، در دو جهان من دارم\r\nگر در وطن است، اگر به غربت، چو گهر\r\nاز خویش چراغ خویش روشن دارم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی شکر ز جان، نه شکوه از تن دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کام دو جهان، در دو جهان من دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر در وطن است، اگر به غربت، چو گهر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خویش چراغ خویش روشن دارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

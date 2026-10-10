@@ -1,0 +1,57 @@
+{
+  "Id": 33349,
+  "CatId": 1103,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » رباعیات » شمارهٔ ۷۸",
+  "FullUrl": "/p391/divan/robaee/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/robaee/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر جا مژه‌اش خلاند نوک گزلک\r\nپاشیده نگاه نمکین کانِ نمک\r\nای وای به قصد دل خونین، جویا!\r\nبستند کمر دو چشم او چون عینک",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر جا مژه‌اش خلاند نوک گزلک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاشیده نگاه نمکین کانِ نمک",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای وای به قصد دل خونین، جویا!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بستند کمر دو چشم او چون عینک",
+      "CoupletIndex": 1
+    }
+  ]
+}

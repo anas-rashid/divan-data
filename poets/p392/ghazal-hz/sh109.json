@@ -1,0 +1,93 @@
+{
+  "Id": 33536,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۱۰۹",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۱۰۹",
+  "FullUrl": "/p392/ghazal-hz/sh109",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh109",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مکش چون دورگردون بر رخم داغ جدایی را\r\nچو من پروانه ای باید چراغ آشنایی را\r\nتهیدستیم ساقی، همّتی در کار می باید\r\nز برق باده روشن ساز، شام بی نوایی را\r\nخطر اندیشه باریک بینان درکمین دارد\r\nخطا هرگز نمی تابد عنان، تیر هوایی را\r\nرسانم حرمت میخانه تا جاییکه تعظیمش\r\nبه خاک پای خم مالد، جبین پارسایی را\r\nبه یاد قامت او گر چنین بالد حزین آهم\r\nفرامش می کند شمشاد، رسم خودنمایی را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مکش چون دورگردون بر رخم داغ جدایی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو من پروانه ای باید چراغ آشنایی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تهیدستیم ساقی، همّتی در کار می باید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز برق باده روشن ساز، شام بی نوایی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خطر اندیشه باریک بینان درکمین دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خطا هرگز نمی تابد عنان، تیر هوایی را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رسانم حرمت میخانه تا جاییکه تعظیمش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به خاک پای خم مالد، جبین پارسایی را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به یاد قامت او گر چنین بالد حزین آهم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فرامش می کند شمشاد، رسم خودنمایی را",
+      "CoupletIndex": 4
+    }
+  ]
+}

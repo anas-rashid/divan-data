@@ -1,0 +1,45 @@
+{
+  "Id": 26699,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۹۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۹۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh93",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh93",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پنجه غیرت دل پرویز را در هم شکست\r\nهر کجا حرفی ز شیرین کاری فرهاد رفت",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پنجه غیرت دل پرویز را در هم شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر کجا حرفی ز شیرین کاری فرهاد رفت",
+      "CoupletIndex": 0
+    }
+  ]
+}

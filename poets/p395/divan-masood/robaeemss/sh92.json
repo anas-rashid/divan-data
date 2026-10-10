@@ -1,0 +1,57 @@
+{
+  "Id": 37606,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۹۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در محنت شو خوش و مکن نعمت یاد\r\nشو در ده تن که داد کس چرخ نداد\r\nچون بار بلایی که قضا بر تو نهاد\r\nتن دار چو کوه باش و بی باک چو باد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در محنت شو خوش و مکن نعمت یاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شو در ده تن که داد کس چرخ نداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بار بلایی که قضا بر تو نهاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن دار چو کوه باش و بی باک چو باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

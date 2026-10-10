@@ -1,0 +1,93 @@
+{
+  "Id": 19878,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۸۰۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۸۰۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh805",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh805",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از بدگهری می شکند گوهر رز را\r\nدر دل چه گره هاست ز زاهد بر رز را\r\nحاشا که گذارد کرم ساقی کوثر\r\nدر گلشن فردوس ملامتگر رز را\r\nیک دانه انگور به زاهد مچشانید\r\nحیف است فکندن به وبال اختر رز را\r\nای شیشه می چند دهن بسته نشینی؟\r\nبا جام بکن عقد روان دختر رز را\r\nصائب اگر از نشأه می چشم دهی آب\r\nاز آب گهر سبز نمایی سر رز را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از بدگهری می شکند گوهر رز را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دل چه گره هاست ز زاهد بر رز را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حاشا که گذارد کرم ساقی کوثر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در گلشن فردوس ملامتگر رز را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک دانه انگور به زاهد مچشانید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حیف است فکندن به وبال اختر رز را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای شیشه می چند دهن بسته نشینی؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با جام بکن عقد روان دختر رز را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب اگر از نشأه می چشم دهی آب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از آب گهر سبز نمایی سر رز را",
+      "CoupletIndex": 4
+    }
+  ]
+}

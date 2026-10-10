@@ -1,0 +1,54 @@
+{
+  "Id": 36638,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۵۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۵۸",
+  "FullUrl": "/p393/ghete/sh158",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh158",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کام دل از علم و فن می‌خواستم\r\nبود در عشق آنچه من می‌خواستم\r\nبوی گل آوردی ای باد صبا\r\nمن نسیم پیرهن می‌خواستم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کام دل از علم و فن می‌خواستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بود در عشق آنچه من می‌خواستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوی گل آوردی ای باد صبا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من نسیم پیرهن می‌خواستم",
+      "CoupletIndex": 1
+    }
+  ]
+}

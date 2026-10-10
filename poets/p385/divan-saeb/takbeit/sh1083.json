@@ -1,0 +1,45 @@
+{
+  "Id": 18614,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۸۳",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۸۳",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1083",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1083",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مکن ای شمع با من سرکشی، کز پاکدامانی\r\nبه یک خمیازه خشک از تو قانع همچو محرابم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مکن ای شمع با من سرکشی، کز پاکدامانی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به یک خمیازه خشک از تو قانع همچو محرابم",
+      "CoupletIndex": 0
+    }
+  ]
+}

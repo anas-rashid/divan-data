@@ -1,0 +1,45 @@
+{
+  "Id": 18841,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۱۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۱۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1310",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1310",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون سیاهی شد ز مو، هشیار می‌باید شدن\r\nصبح چون روشن شود بیدار می‌باید شدن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون سیاهی شد ز مو، هشیار می‌باید شدن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح چون روشن شود بیدار می‌باید شدن",
+      "CoupletIndex": 0
+    }
+  ]
+}

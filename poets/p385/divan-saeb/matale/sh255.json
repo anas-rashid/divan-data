@@ -1,0 +1,42 @@
+{
+  "Id": 26343,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۵۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۵۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh255",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh255",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تواضع خصم بالادست را بی زور می سازد\r\nبه خم گردیدن از خود سیل را پل دور می سازد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تواضع خصم بالادست را بی زور می سازد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به خم گردیدن از خود سیل را پل دور می سازد",
+      "CoupletIndex": 0
+    }
+  ]
+}

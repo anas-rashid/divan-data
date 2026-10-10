@@ -1,0 +1,57 @@
+{
+  "Id": 27032,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۲۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۲۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh426",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh426",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خالش بلای جان ز خط مشکبار شد\r\nپرهیز ازان ستاره که دنباله دار شد\r\nانصاف نیست سوختن از تشنگی مرا\r\nکز خون من عقیق لبت آبدار شد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خالش بلای جان ز خط مشکبار شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرهیز ازان ستاره که دنباله دار شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انصاف نیست سوختن از تشنگی مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز خون من عقیق لبت آبدار شد",
+      "CoupletIndex": 1
+    }
+  ]
+}

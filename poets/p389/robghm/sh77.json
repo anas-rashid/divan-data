@@ -1,0 +1,57 @@
+{
+  "Id": 30334,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۷۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۷۷",
+  "FullUrl": "/p389/robghm/sh77",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh77",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از درد نیافت ضعف بر چشمم دست\r\nوین پرده تار، گریه بر دیده نبست\r\nاز آمدن پیک خیالت به دلم\r\nبرخاست ز دل غبار و بر دیده نشست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از درد نیافت ضعف بر چشمم دست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین پرده تار، گریه بر دیده نبست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از آمدن پیک خیالت به دلم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخاست ز دل غبار و بر دیده نشست",
+      "CoupletIndex": 1
+    }
+  ]
+}

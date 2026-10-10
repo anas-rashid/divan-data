@@ -1,0 +1,69 @@
+{
+  "Id": 27066,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۶۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۶۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh460",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh460",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آشیان بلبلان پر گل شد از جوش بهار\r\nخوش وصالی قسمت بلبل شد از جوش بهار\r\nاز در گلشن به دشواری برون می آورد\r\nبس که دامان صبا پر گل شد از جوش بهار\r\nسبزه پشت لبت چون ریشه در دلها دواند\r\nگوشه دستار پر سنبل شد از جوش بهار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آشیان بلبلان پر گل شد از جوش بهار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش وصالی قسمت بلبل شد از جوش بهار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از در گلشن به دشواری برون می آورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بس که دامان صبا پر گل شد از جوش بهار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سبزه پشت لبت چون ریشه در دلها دواند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گوشه دستار پر سنبل شد از جوش بهار",
+      "CoupletIndex": 2
+    }
+  ]
+}

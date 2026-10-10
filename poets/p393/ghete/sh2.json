@@ -1,0 +1,54 @@
+{
+  "Id": 36482,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۲",
+  "FullUrl": "/p393/ghete/sh2",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh2",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رنگ عشرت بی تو آتش می‌زند جان مرا\r\nگل به‌سان شمع می‌سوزد گریبان مرا\r\nسینه امشب منزل پیکان جانان گشته است\r\nزینهار ای دل نگویی سخت مهمان مرا",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رنگ عشرت بی تو آتش می‌زند جان مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل به‌سان شمع می‌سوزد گریبان مرا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سینه امشب منزل پیکان جانان گشته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زینهار ای دل نگویی سخت مهمان مرا",
+      "CoupletIndex": 1
+    }
+  ]
+}

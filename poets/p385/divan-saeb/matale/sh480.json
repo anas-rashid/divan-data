@@ -1,0 +1,42 @@
+{
+  "Id": 26568,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۸۰",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۸۰",
+  "FullUrl": "/p385/divan-saeb/matale/sh480",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh480",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست با قد دو تا برگ اقامت ساختن\r\nزیر دیوار شکسته رخت خواب انداختن",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست با قد دو تا برگ اقامت ساختن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زیر دیوار شکسته رخت خواب انداختن",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 30216,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۸",
+  "FullUrl": "/p389/mmgh/sh8",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh8",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مست آن بزمم که خون دل شراب ناب اوست\r\nمرغ آن باغم که پیکان غنچه سیراب اوست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مست آن بزمم که خون دل شراب ناب اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرغ آن باغم که پیکان غنچه سیراب اوست",
+      "CoupletIndex": 0
+    }
+  ]
+}

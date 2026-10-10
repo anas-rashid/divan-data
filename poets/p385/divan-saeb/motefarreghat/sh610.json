@@ -1,0 +1,57 @@
+{
+  "Id": 27216,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۶۱۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۶۱۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh610",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh610",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای صبا احوال ما با پاسبان او بگو\r\nاشتیاق سجده را با آستان او بگو\r\nهر کجا آن شاخ گل را ناز بگشاید کمر\r\nشکوه آغوش ما را با میان او بگو",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صبا احوال ما با پاسبان او بگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اشتیاق سجده را با آستان او بگو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر کجا آن شاخ گل را ناز بگشاید کمر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکوه آغوش ما را با میان او بگو",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,9 +1,34 @@
 {
-  "about": "Persian works from Ganjoor (ganjoor/ganjoor-data) for poets who are in both Divan and Ganjoor (ganjoor.py). The commit is pinned; raise it to take Ganjoor's corrections.",
+  "about": "Persian works from Ganjoor (ganjoor/ganjoor-data), ganjoor.py: under «فارسی» for poets who are in both Divan and Ganjoor (poets), and as their own poet pages for Persian poets of the Indian tradition (persian_poets). The commit is pinned; raise it to take Ganjoor's corrections.",
   "commit": "a64968e78425b2e8c7904fbdf5289fba8251a757",
   "poets": [
-    { "divan": "مصنف:محمد اقبال", "ganjoor": "iqbal" },
-    { "divan": "مصنف:مرزا غالب", "ganjoor": "ghaleb" },
-    { "divan": "مصنف:امیر خسرو", "ganjoor": "khosro" }
+    {
+      "divan": "مصنف:محمد اقبال",
+      "ganjoor": "iqbal"
+    },
+    {
+      "divan": "مصنف:مرزا غالب",
+      "ganjoor": "ghaleb"
+    },
+    {
+      "divan": "مصنف:امیر خسرو",
+      "ganjoor": "khosro"
+    }
+  ],
+  "persian_poets": [
+    "bidel",
+    "saeb",
+    "orfi",
+    "kalim",
+    "naziri",
+    "ghodsi",
+    "salim",
+    "jooya",
+    "hazin",
+    "waqif",
+    "ghani",
+    "masood",
+    "hojviri",
+    "bahoo"
   ]
 }

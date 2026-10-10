@@ -1,0 +1,54 @@
+{
+  "Id": 34786,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز بی برگی، ره الفت دلم بر دوستان بندد\r\nچمن پیرا، ره گلزار را فصل خزان بندد\r\nسخن بیگانه باشد، بزم الفت آشنایان را\r\nبه هم چسبید چون لب، راه گفتار زبان بندد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بی برگی، ره الفت دلم بر دوستان بندد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چمن پیرا، ره گلزار را فصل خزان بندد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سخن بیگانه باشد، بزم الفت آشنایان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به هم چسبید چون لب، راه گفتار زبان بندد",
+      "CoupletIndex": 1
+    }
+  ]
+}

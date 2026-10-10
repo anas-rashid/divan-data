@@ -1,0 +1,45 @@
+{
+  "Id": 17769,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۳۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۳۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh238",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh238",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حیاتِ جاودان، بی‌دوستان، مرگی‌ست پابَرجا\r\nبه‌تنهایی مَخور، چون خضر، آبِ زندگانی را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حیاتِ جاودان، بی‌دوستان، مرگی‌ست پابَرجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به‌تنهایی مَخور، چون خضر، آبِ زندگانی را",
+      "CoupletIndex": 0
+    }
+  ]
+}

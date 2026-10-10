@@ -1,0 +1,45 @@
+{
+  "Id": 34801,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۴۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۴۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh142",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh142",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز افسانه کی به شب، مژهٔ ما به هم رسد؟\r\nاز حرف و صوت، کی لب دریا به هم رسد؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز افسانه کی به شب، مژهٔ ما به هم رسد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از حرف و صوت، کی لب دریا به هم رسد؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": 36250,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۹۹",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۹۹",
+  "FullUrl": "/p393/natmam/sh99",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh99",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با ما خیال او چه‌قدر بی‌تکلف است\r\nبازیست اینکه شام و سحر بی‌تکلف است\r\nتکلیف جام باده به من همنشین مرا\r\nساغر زدن زخون جگر بی‌تکلف است\r\nدارد کلف به چهره و پروا نمی‌کند\r\nماه مرا ببین چقدر بی‌تکلف است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با ما خیال او چه‌قدر بی‌تکلف است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بازیست اینکه شام و سحر بی‌تکلف است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تکلیف جام باده به من همنشین مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ساغر زدن زخون جگر بی‌تکلف است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دارد کلف به چهره و پروا نمی‌کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ماه مرا ببین چقدر بی‌تکلف است",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26213,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۲۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۲۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh125",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh125",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مرا در چاه چون یوسف وطن از مکر اخوان است\r\nبرادر گر پیمبرزاده باشد دشمن جان است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا در چاه چون یوسف وطن از مکر اخوان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برادر گر پیمبرزاده باشد دشمن جان است",
+      "CoupletIndex": 0
+    }
+  ]
+}

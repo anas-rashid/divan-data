@@ -1,0 +1,57 @@
+{
+  "Id": 26858,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۵۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۵۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh252",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh252",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چشم من دایم سپند آتش رخساره بود\r\nچون شرر تا چشم وا کردم دلم آواره بود\r\nعشق آن روزی که صحرای عدم را رنگ ریخت\r\nگردبادش روح گردآلود این آواره بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چشم من دایم سپند آتش رخساره بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون شرر تا چشم وا کردم دلم آواره بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق آن روزی که صحرای عدم را رنگ ریخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردبادش روح گردآلود این آواره بود",
+      "CoupletIndex": 1
+    }
+  ]
+}

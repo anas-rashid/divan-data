@@ -1,0 +1,42 @@
+{
+  "Id": 34785,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۶",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh126",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh126",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از یادش، در آغوش من شیدا نمی‌گنجد\r\nز بس بالیده است این قطره، در دریا نمی‌گنجد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از یادش، در آغوش من شیدا نمی‌گنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز بس بالیده است این قطره، در دریا نمی‌گنجد",
+      "CoupletIndex": 0
+    }
+  ]
+}

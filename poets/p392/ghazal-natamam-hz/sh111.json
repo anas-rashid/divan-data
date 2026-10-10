@@ -1,0 +1,66 @@
+{
+  "Id": 34770,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۱۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۱۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر سو که بود میل تو، جای تو همان است\r\nهر چیز هوای تو، خدای تو همان است\r\nاز بیعگه هر دو جهان، آنچه پسندی\r\nدر آخر بازار، بهای تو همان است\r\nزان عقده که در وی شکند ناخن تدبیر\r\nدر هم نشوی، عقده گشای تو همان است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر سو که بود میل تو، جای تو همان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چیز هوای تو، خدای تو همان است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بیعگه هر دو جهان، آنچه پسندی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در آخر بازار، بهای تو همان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زان عقده که در وی شکند ناخن تدبیر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در هم نشوی، عقده گشای تو همان است",
+      "CoupletIndex": 2
+    }
+  ]
+}

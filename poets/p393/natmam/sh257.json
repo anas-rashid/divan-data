@@ -1,0 +1,66 @@
+{
+  "Id": 36408,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۷",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۷",
+  "FullUrl": "/p393/natmam/sh257",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh257",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خواندی از خیل غلامان خودم\r\nساختی بندهٔ احسان خودم\r\nزین‌که دامان تو دادم از دست\r\nتا ابد دست و گریبان خودم\r\nنکهت زلف تو می‌آید ازو\r\nعاشق فکر پریشان خودم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خواندی از خیل غلامان خودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساختی بندهٔ احسان خودم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین‌که دامان تو دادم از دست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا ابد دست و گریبان خودم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نکهت زلف تو می‌آید ازو",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عاشق فکر پریشان خودم",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30258,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱",
+  "FullUrl": "/p389/robghm/sh1",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh1",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنی تو که نیست در دعای تو ریا\r\nوین حرف، نهفته نیست بر شاه و گدا\r\nای پیر جوان، تویی که در خانقهت\r\nمقرون به اجابت است پیوسته دعا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنی تو که نیست در دعای تو ریا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وین حرف، نهفته نیست بر شاه و گدا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای پیر جوان، تویی که در خانقهت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مقرون به اجابت است پیوسته دعا",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 29666,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۵۹",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۵۹",
+  "FullUrl": "/p388/divan/robaee/sh59",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh59",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا سایه خامه‌ات به حرفم افتاد\r\nروح اللهم از صحیفه برداشت سواد\r\nمجموعه دوستان ز من بود سقیم\r\nاعجاز سر کلک توام صحت داد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا سایه خامه‌ات به حرفم افتاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روح اللهم از صحیفه برداشت سواد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مجموعه دوستان ز من بود سقیم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اعجاز سر کلک توام صحت داد",
+      "CoupletIndex": 1
+    }
+  ]
+}

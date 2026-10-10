@@ -1,0 +1,54 @@
+{
+  "Id": 37202,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۳۰",
+  "FullUrl": "/p393/robaee/sh30",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh30",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آزادی ما رفت اسیری مانده است\r\nدستی محتاج دستیگری مانده است\r\nهنگامهٔ آتش جوانی شد سرد\r\nخاکستر افسردهٔ پیری مانده است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آزادی ما رفت اسیری مانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دستی محتاج دستیگری مانده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هنگامهٔ آتش جوانی شد سرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاکستر افسردهٔ پیری مانده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

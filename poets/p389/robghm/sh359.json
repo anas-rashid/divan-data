@@ -1,0 +1,57 @@
+{
+  "Id": 30616,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۵۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۵۹",
+  "FullUrl": "/p389/robghm/sh359",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh359",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زان ره که نسیمش به مه و سال آید\r\nکام دل من آید و فی‌الحال آید\r\nاز جذبه شوقم چه عجب، گر ز سفر\r\nیار آید و مژده‌اش ز دنبال آید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زان ره که نسیمش به مه و سال آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کام دل من آید و فی‌الحال آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جذبه شوقم چه عجب، گر ز سفر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یار آید و مژده‌اش ز دنبال آید",
+      "CoupletIndex": 1
+    }
+  ]
+}

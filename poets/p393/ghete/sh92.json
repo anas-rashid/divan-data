@@ -1,0 +1,54 @@
+{
+  "Id": 36572,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۹۲",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۹۲",
+  "FullUrl": "/p393/ghete/sh92",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh92",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فتنه برپا به دهر ازان بالاست\r\nنیست بالا مگر بلای خداست\r\nگرچه یک ارزن است دانهٔ خال\r\nلیک تخم هزارمن سوداست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فتنه برپا به دهر ازان بالاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست بالا مگر بلای خداست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه یک ارزن است دانهٔ خال",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لیک تخم هزارمن سوداست",
+      "CoupletIndex": 1
+    }
+  ]
+}

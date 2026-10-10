@@ -1,0 +1,45 @@
+{
+  "Id": 18789,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۵۸",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۵۸",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در تلافی، میوهٔ شیرین به دامن می‌دهیم\r\nهمچو نخل پرثمر، سنگی که بر سر می‌خوریم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در تلافی، میوهٔ شیرین به دامن می‌دهیم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو نخل پرثمر، سنگی که بر سر می‌خوریم",
+      "CoupletIndex": 0
+    }
+  ]
+}

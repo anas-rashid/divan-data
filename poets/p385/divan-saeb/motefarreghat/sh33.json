@@ -1,0 +1,57 @@
+{
+  "Id": 26639,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غافل مشو ز رتبه شوق بلند ما\r\nاز ساق عرش (حلقه) رباید کمند ما\r\nبی طاقتان شوق، هلاک بهانه اند\r\nاز ماهتاب سوخته گردد سپند ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غافل مشو ز رتبه شوق بلند ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ساق عرش (حلقه) رباید کمند ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بی طاقتان شوق، هلاک بهانه اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از ماهتاب سوخته گردد سپند ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

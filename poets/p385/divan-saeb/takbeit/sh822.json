@@ -1,0 +1,45 @@
+{
+  "Id": 18353,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۸۲۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۸۲۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh822",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh822",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسرت اوقات غفلت چون ز دل بیرون رود؟\r\nداغ فرزندست فوت وقت، از دل چون رود؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسرت اوقات غفلت چون ز دل بیرون رود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داغ فرزندست فوت وقت، از دل چون رود؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

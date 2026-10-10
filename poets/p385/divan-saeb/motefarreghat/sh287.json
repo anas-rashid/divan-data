@@ -1,0 +1,57 @@
+{
+  "Id": 26893,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۸۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۸۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh287",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh287",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صفای عارضش ته جرعه بر مهتاب می ریزد\r\nلبش بیهوشدارو در شراب ناب می ریزد\r\nنمی دانم چه خصمی با نوای بلبلان دارد\r\nکه شبنم هر سحر در گوش گل سیماب می ریزد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صفای عارضش ته جرعه بر مهتاب می ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لبش بیهوشدارو در شراب ناب می ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمی دانم چه خصمی با نوای بلبلان دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که شبنم هر سحر در گوش گل سیماب می ریزد",
+      "CoupletIndex": 1
+    }
+  ]
+}

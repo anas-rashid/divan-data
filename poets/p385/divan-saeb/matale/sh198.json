@@ -1,0 +1,42 @@
+{
+  "Id": 26286,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۹۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۹۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh198",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh198",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بساط آسمان خشک، همت کم بود\r\nآفتابش کاسه دریوزه شبنم بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بساط آسمان خشک، همت کم بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آفتابش کاسه دریوزه شبنم بود",
+      "CoupletIndex": 0
+    }
+  ]
+}

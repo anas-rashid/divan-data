@@ -1,0 +1,93 @@
+{
+  "Id": 27759,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۳۵۱",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۳۵۱",
+  "FullUrl": "/p386/ghazalor/sh351",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh351",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن کس که مرا با دل غمناک بر آورد\r\nنتواندم از بوتهٔ غم پاک بر آورد\r\nآن نشأیِ شوخی که بر آورد گل از شاخ\r\nچون لاله مرا با جگر چاک بر آورد\r\nدود دلم از چشم بداندیش نهان است\r\nبا آن که سر از روزن افلاک بر آورد\r\nذاتش هم خود روست، از آن غیرت معشوق\r\nدر بر رخ نظارهٔ ادراک بر آورد\r\nآن گنج که جوید ز ملایک دل عرفی\r\nاز عرش فرود آمد و از خاک بر آورد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن کس که مرا با دل غمناک بر آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نتواندم از بوتهٔ غم پاک بر آورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن نشأیِ شوخی که بر آورد گل از شاخ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون لاله مرا با جگر چاک بر آورد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دود دلم از چشم بداندیش نهان است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "با آن که سر از روزن افلاک بر آورد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ذاتش هم خود روست، از آن غیرت معشوق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در بر رخ نظارهٔ ادراک بر آورد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آن گنج که جوید ز ملایک دل عرفی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از عرش فرود آمد و از خاک بر آورد",
+      "CoupletIndex": 4
+    }
+  ]
+}

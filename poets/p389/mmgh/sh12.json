@@ -1,0 +1,57 @@
+{
+  "Id": 30220,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۱۲",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۱۲",
+  "FullUrl": "/p389/mmgh/sh12",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh12",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حسرت کشیم و آه دمادم متاع ماست\r\nخون جگر نمک‌چش خوان وداع ماست\r\nبر خوان هیچ‌کس جگر پاره‌پاره نیست\r\nاین لقمه وقف مایده اختراع ماست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حسرت کشیم و آه دمادم متاع ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون جگر نمک‌چش خوان وداع ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خوان هیچ‌کس جگر پاره‌پاره نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این لقمه وقف مایده اختراع ماست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 30002,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۵۴",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۵۴",
+  "FullUrl": "/p389/ghazalgm/sh254",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh254",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سوای تو در سینه هر خام نگنجد\r\nخوش باش که این باده به هر جام نگنجد\r\nشوقی که من از دیدن رخسار تو دیدم\r\nدر حوصله دیده ایام نگنجد\r\nاز نور توام هر بن مو مطلع صبح است\r\nدر ملک تنم تیرگی شام نگنجد\r\nوصل تو کجا و من بی‌ظرف که از شوق\r\nدر حوصله‌ام لذت پیغام نگنجد\r\nدر سینه عشاق هوس راه ندارد\r\nبت در حرم کعبه اسلام نگنجد\r\nقدسی نبود رنگ وفا در رخ خوبان\r\nدر دفتر خوبان ز وفا نام نگنجد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوای تو در سینه هر خام نگنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش باش که این باده به هر جام نگنجد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شوقی که من از دیدن رخسار تو دیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حوصله دیده ایام نگنجد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از نور توام هر بن مو مطلع صبح است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در ملک تنم تیرگی شام نگنجد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وصل تو کجا و من بی‌ظرف که از شوق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در حوصله‌ام لذت پیغام نگنجد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در سینه عشاق هوس راه ندارد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بت در حرم کعبه اسلام نگنجد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "قدسی نبود رنگ وفا در رخ خوبان",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در دفتر خوبان ز وفا نام نگنجد",
+      "CoupletIndex": 5
+    }
+  ]
+}

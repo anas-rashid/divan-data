@@ -1,0 +1,45 @@
+{
+  "Id": 18596,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۰۶۵",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۰۶۵",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1065",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1065",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون قلم، شد تنگ بر من از سیه‌کاری جهان\r\nنیست جز یک پشت ناخن، دستگاه خنده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون قلم، شد تنگ بر من از سیه‌کاری جهان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیست جز یک پشت ناخن، دستگاه خنده‌ام",
+      "CoupletIndex": 0
+    }
+  ]
+}

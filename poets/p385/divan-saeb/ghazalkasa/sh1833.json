@@ -1,0 +1,93 @@
+{
+  "Id": 20906,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۸۳۳",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۸۳۳",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh1833",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1833",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فغان که گرد سر او نمی توانم گشت\r\nچو زلف بر کمر او نمی توانم گشت\r\nهمیشه گرد دلش بی حجاب می گردم\r\nاگر چه گرد سر او نمی توانم گشت\r\nز بس که تیر نگاهش بلند پروازست\r\nز دور در نظر او او نمی توانم گشت\r\nمرا ز بی پر و بالی غمی که هست این است\r\nکه گرد بام و در او نمی توانم گشت\r\nازان ز هر دو جهان بیخبر شدم صائب\r\nکه غافل از خبر او نمی توانم گشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فغان که گرد سر او نمی توانم گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو زلف بر کمر او نمی توانم گشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همیشه گرد دلش بی حجاب می گردم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر چه گرد سر او نمی توانم گشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز بس که تیر نگاهش بلند پروازست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز دور در نظر او او نمی توانم گشت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرا ز بی پر و بالی غمی که هست این است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که گرد بام و در او نمی توانم گشت",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ازان ز هر دو جهان بیخبر شدم صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که غافل از خبر او نمی توانم گشت",
+      "CoupletIndex": 4
+    }
+  ]
+}

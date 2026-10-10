@@ -1,0 +1,81 @@
+{
+  "Id": 33031,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۹۳۹",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۹۳۹",
+  "FullUrl": "/p391/divan/ghazal/sh939",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh939",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب پا نهد چو مست می ناب بر زمین\r\nریزد ز نقش پا گل مهتاب بر زمین\r\nپر گرد کلفت است ز بس سینه، می رود\r\nاشک از دلم به دیده چو سیلاب بر زمین\r\nبحریست موجزن سر کویش ز بس افتاد\r\nبر روی یکدگر دل بیتاب بر زمین\r\nجویا ز سیل کوه بدخشان فزون بود\r\nریزد دلم ز دیده چو خوناب بر زمین",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب پا نهد چو مست می ناب بر زمین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ریزد ز نقش پا گل مهتاب بر زمین",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پر گرد کلفت است ز بس سینه، می رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اشک از دلم به دیده چو سیلاب بر زمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بحریست موجزن سر کویش ز بس افتاد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر روی یکدگر دل بیتاب بر زمین",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جویا ز سیل کوه بدخشان فزون بود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ریزد دلم ز دیده چو خوناب بر زمین",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30636,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۷۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۷۹",
+  "FullUrl": "/p389/robghm/sh379",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh379",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زردست اگرچه چهره عاشق زار\r\nرشک چمن است طبعش از جلوه یار\r\nگویی گل رعناست ریاضت‌کش عشق\r\nظاهر ز خزان غنی و باطن ز بهار",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زردست اگرچه چهره عاشق زار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رشک چمن است طبعش از جلوه یار",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی گل رعناست ریاضت‌کش عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ظاهر ز خزان غنی و باطن ز بهار",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37883,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۶۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۶۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh369",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh369",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای گل نه ز گل ز دل همی بر رویی\r\nدل را ز همه غمان فرو می شویی\r\nای گل تو عقیق رنگ و مشکین مویی\r\nبر آب روان زیاده استی گویی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای گل نه ز گل ز دل همی بر رویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را ز همه غمان فرو می شویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای گل تو عقیق رنگ و مشکین مویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر آب روان زیاده استی گویی",
+      "CoupletIndex": 1
+    }
+  ]
+}

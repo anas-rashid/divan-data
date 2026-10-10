@@ -1,0 +1,93 @@
+{
+  "Id": 31079,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۱۱۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۱۱۲",
+  "FullUrl": "/p390/divan/ghazal/sh112",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh112",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مغفر و خفتان به میدان محبت ننگ ماست\r\nهمچو کشتی گیر، عریانی سلاح جنگ ماست\r\nگر به راه شوق گردد مرغ با ما همسفر\r\nاز پریدن باز می ماند همه گر رنگ ماست\r\nکار سازد هر که ما همدست کار او شویم\r\nنغمه آن ناخن که بر دل می زند از چنگ ماست\r\nبرگ گل در غنچه می باشد، ولی در این چمن\r\nغنچه ها پر خار و خس چون آشیان تنگ ماست\r\nعاشقان را غم بود پیرایهٔ خاطر سلیم\r\nگلشن آیینه‌ایم و سبزهٔ ما زنگ ماست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مغفر و خفتان به میدان محبت ننگ ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو کشتی گیر، عریانی سلاح جنگ ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر به راه شوق گردد مرغ با ما همسفر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از پریدن باز می ماند همه گر رنگ ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کار سازد هر که ما همدست کار او شویم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نغمه آن ناخن که بر دل می زند از چنگ ماست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "برگ گل در غنچه می باشد، ولی در این چمن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غنچه ها پر خار و خس چون آشیان تنگ ماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عاشقان را غم بود پیرایهٔ خاطر سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گلشن آیینه‌ایم و سبزهٔ ما زنگ ماست",
+      "CoupletIndex": 4
+    }
+  ]
+}

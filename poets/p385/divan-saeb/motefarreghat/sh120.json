@@ -1,0 +1,69 @@
+{
+  "Id": 26726,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۲۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ستاره سحر عشق چشم بیدارست\r\nغبار لشکر غم ناله شرربارست\r\nدلی که نیست در او شور عشق، ناقوس است\r\nرگی که نیست در او پیچ تاب، زنارست\r\nقدم ز دایره خود برون منه صائب\r\nکه حصن عافیت نقطه خط پرگارست",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ستاره سحر عشق چشم بیدارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غبار لشکر غم ناله شرربارست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلی که نیست در او شور عشق، ناقوس است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رگی که نیست در او پیچ تاب، زنارست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "قدم ز دایره خود برون منه صائب",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که حصن عافیت نقطه خط پرگارست",
+      "CoupletIndex": 2
+    }
+  ]
+}

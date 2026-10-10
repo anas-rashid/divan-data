@@ -1,0 +1,93 @@
+{
+  "Id": 19138,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۶۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh65",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh65",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سر به گردون می‌دهم این آهِ پُر تأثیر را\r\nمی‌زنم آتش به سقف این خانهٔ دلگیر را\r\nحالتِ فرهاد و کارش روشن است از جوی شیر\r\nمی‌توان در زخم‌ دیدن جوهرِ شمشیر را\r\nبا شرابِ کهنه زاهد ترشرویی می‌کند\r\nکو جوانمردی که سازد کارِ این بی‌پیر را\r\nبیستون را کرد شیرین‌کاریِ ما روسفید\r\nما به ناخن تازه رو داریم جویِ شیر را\r\nصائب از خاکِ سیاهِ هند کی بیرون رود؟\r\nبشکند کی مور لنگی این طلسم قیر را؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سر به گردون می‌دهم این آهِ پُر تأثیر را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌زنم آتش به سقف این خانهٔ دلگیر را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حالتِ فرهاد و کارش روشن است از جوی شیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌توان در زخم‌ دیدن جوهرِ شمشیر را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با شرابِ کهنه زاهد ترشرویی می‌کند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کو جوانمردی که سازد کارِ این بی‌پیر را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بیستون را کرد شیرین‌کاریِ ما روسفید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما به ناخن تازه رو داریم جویِ شیر را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب از خاکِ سیاهِ هند کی بیرون رود؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بشکند کی مور لنگی این طلسم قیر را؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

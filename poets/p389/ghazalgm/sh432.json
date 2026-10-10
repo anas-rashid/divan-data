@@ -1,0 +1,93 @@
+{
+  "Id": 30180,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۴۳۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۴۳۲",
+  "FullUrl": "/p389/ghazalgm/sh432",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh432",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کشته‌ای اول به نازم، باز خندان گشته‌ای\r\nمی‌توان دانست کز قتلم پشیمان گشته‌ای\r\nمن طلبکار توام با چشم در دیر و حرم\r\nتو مرا در سینه همچون روح پنهان گشته‌ای\r\nبعد ایامب که پیشش یافتی راه سخن\r\nعرض حال خویش کن ای دل، چه حیران گشته‌ای؟\r\nمرهم الماس ای دل بسته‌ای بر زخم خویش\r\nکرده‌ای با درد خو، فارغ ز درمان گشته‌ای\r\nاز قبول عشق، قدسی کس مبادا بی‌نصیب\r\nنیست جای غم که رد کفر و ایمان گشته‌ای",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشته‌ای اول به نازم، باز خندان گشته‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می‌توان دانست کز قتلم پشیمان گشته‌ای",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من طلبکار توام با چشم در دیر و حرم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو مرا در سینه همچون روح پنهان گشته‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بعد ایامب که پیشش یافتی راه سخن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عرض حال خویش کن ای دل، چه حیران گشته‌ای؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرهم الماس ای دل بسته‌ای بر زخم خویش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کرده‌ای با درد خو، فارغ ز درمان گشته‌ای",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از قبول عشق، قدسی کس مبادا بی‌نصیب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نیست جای غم که رد کفر و ایمان گشته‌ای",
+      "CoupletIndex": 4
+    }
+  ]
+}

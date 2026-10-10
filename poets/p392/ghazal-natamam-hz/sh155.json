@@ -1,0 +1,54 @@
+{
+  "Id": 34814,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۵۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۵۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh155",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh155",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "خون من تیغ تو آندم که به خاک افشاند\r\nرشحه ای کاش بر آن دامن پاک افشاند\r\nثمر عالم ایجاد جز این نیست، که صبر\r\nجگری خون کند و دیده به خاک افشاند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خون من تیغ تو آندم که به خاک افشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رشحه ای کاش بر آن دامن پاک افشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ثمر عالم ایجاد جز این نیست، که صبر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جگری خون کند و دیده به خاک افشاند",
+      "CoupletIndex": 1
+    }
+  ]
+}

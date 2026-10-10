@@ -1,0 +1,93 @@
+{
+  "Id": 32613,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۲۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۲۱",
+  "FullUrl": "/p391/divan/ghazal/sh521",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh521",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اهل عالم جب به سوز عشق دل افسرده اند\r\nسینه ها گویی که فانوس چراغ مرده اند\r\nمی فریبد هر قدر دور از نظر باشد سراب\r\nگوشه گیران بازی دنیا فزون تر خورده اند\r\nکی مراد خلق بر روی زمین حاصل شود؟\r\nنوجوانان بسکه در خاک آرزوها برده اند\r\nسخت ترسم شاهباز غمزه اش خالی فتد\r\nمرغ دلها طبل وحشت از تپیدن خورده اند\r\nنیست جویا دشمنی مانند خارا، شیشه را\r\nدایم از وضع جهان اهل جهان آزرده اند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اهل عالم جب به سوز عشق دل افسرده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سینه ها گویی که فانوس چراغ مرده اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می فریبد هر قدر دور از نظر باشد سراب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گوشه گیران بازی دنیا فزون تر خورده اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کی مراد خلق بر روی زمین حاصل شود؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نوجوانان بسکه در خاک آرزوها برده اند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سخت ترسم شاهباز غمزه اش خالی فتد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرغ دلها طبل وحشت از تپیدن خورده اند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نیست جویا دشمنی مانند خارا، شیشه را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دایم از وضع جهان اهل جهان آزرده اند",
+      "CoupletIndex": 4
+    }
+  ]
+}

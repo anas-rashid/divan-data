@@ -1,0 +1,93 @@
+{
+  "Id": 22058,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۹۸۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۹۸۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2985",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2985",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "علایق دامن آزاده ما را نمی گیرد\r\nکمند رشته مریم مسیحا را نمی گیرد\r\nکجا مجنون ما گستاخ گیرد دامن لیلی؟\r\nکه از پاس ادب دامان صحرا را نمی گیرد\r\nمرا ترساند از زخم زبان ناصح، نمی داند\r\nکه خس دامان سیل دشت پیما را نمی گیرد\r\nمشو غافل زپاس وقت اگر آسودگی خواهی\r\nکه خواب روز جای خواب شبها را نمی گیرد\r\nندارد آرزو ره در دل آزاده ام صائب\r\nزمین پاک من نخل تمنا را نمی گیرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "علایق دامن آزاده ما را نمی گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کمند رشته مریم مسیحا را نمی گیرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کجا مجنون ما گستاخ گیرد دامن لیلی؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از پاس ادب دامان صحرا را نمی گیرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مرا ترساند از زخم زبان ناصح، نمی داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که خس دامان سیل دشت پیما را نمی گیرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مشو غافل زپاس وقت اگر آسودگی خواهی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که خواب روز جای خواب شبها را نمی گیرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ندارد آرزو ره در دل آزاده ام صائب",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زمین پاک من نخل تمنا را نمی گیرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

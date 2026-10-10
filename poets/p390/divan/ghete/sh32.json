@@ -1,0 +1,54 @@
+{
+  "Id": 31970,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۳۲",
+  "FullUrl": "/p390/divan/ghete/sh32",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh32",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چو سرنوشت کسی گشت در جهان کاری\r\nعلاج نیست بجز رفتن از پی آنش\r\nدم فرس چو پی راندن مگس آمد\r\nکند زمانه پس از مرگ هم مگس رانش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو سرنوشت کسی گشت در جهان کاری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "علاج نیست بجز رفتن از پی آنش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دم فرس چو پی راندن مگس آمد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کند زمانه پس از مرگ هم مگس رانش",
+      "CoupletIndex": 1
+    }
+  ]
+}

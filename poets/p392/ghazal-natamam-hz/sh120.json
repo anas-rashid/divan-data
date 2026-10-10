@@ -1,0 +1,69 @@
+{
+  "Id": 34779,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۲۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۲۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh120",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh120",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مدتی شد که در این بزم سخن سازی نیست\r\nگوش چندان که دهم، زمزمه پردازی نیست\r\nیا رب از زخم دلم زحمت مرهم بردار\r\nغیر این روزنهٔ فیض، در بازی نیست\r\nآنکه یک عمر، در این تنگ قفس داشت مرا\r\nگیرم آزاد کند، قوت پروازی نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مدتی شد که در این بزم سخن سازی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوش چندان که دهم، زمزمه پردازی نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یا رب از زخم دلم زحمت مرهم بردار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غیر این روزنهٔ فیض، در بازی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آنکه یک عمر، در این تنگ قفس داشت مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گیرم آزاد کند، قوت پروازی نیست",
+      "CoupletIndex": 2
+    }
+  ]
+}

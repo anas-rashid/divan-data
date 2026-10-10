@@ -1,0 +1,57 @@
+{
+  "Id": 30333,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۷۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۷۶",
+  "FullUrl": "/p389/robghm/sh76",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh76",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مرکز فیض ازل از روز نخست\r\nقطبی چو تو، آسمان به صد قرن نجست\r\nما را ز دعا مکن فراموش که هست\r\nایمان اجابت به دعای تو درست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرکز فیض ازل از روز نخست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قطبی چو تو، آسمان به صد قرن نجست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را ز دعا مکن فراموش که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایمان اجابت به دعای تو درست",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37571,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۵۷",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۵۷",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh57",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh57",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اندر خور نعمت توام خدمت نیست\r\nو آن کیست کش از نعمت تو قسمت نیست\r\nآن چیست که نزدیک من از نعمت نیست\r\nجز دیدن روی تو مرا نهمت نیست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اندر خور نعمت توام خدمت نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آن کیست کش از نعمت تو قسمت نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن چیست که نزدیک من از نعمت نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز دیدن روی تو مرا نهمت نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

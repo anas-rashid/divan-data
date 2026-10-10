@@ -1,0 +1,42 @@
+{
+  "Id": 27358,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۲۲",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۲۲",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh22",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh22",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شیرینی نشاط، جهان را گرفته است\r\nصبح از هوای تر شکر آب دیده است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شیرینی نشاط، جهان را گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبح از هوای تر شکر آب دیده است",
+      "CoupletIndex": 0
+    }
+  ]
+}

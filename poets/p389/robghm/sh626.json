@@ -1,0 +1,57 @@
+{
+  "Id": 30883,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۲۶",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۲۶",
+  "FullUrl": "/p389/robghm/sh626",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh626",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین هستی موهوم، جدا باش دمی\r\nبا حق‌طلبان هم‌آشنا باش دمی\r\nگاه از عجبی، گه از ریا، گاه از رزق\r\nزاهد به خدا که از خدا باش دمی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین هستی موهوم، جدا باش دمی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با حق‌طلبان هم‌آشنا باش دمی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گاه از عجبی، گه از ریا، گاه از رزق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زاهد به خدا که از خدا باش دمی",
+      "CoupletIndex": 1
+    }
+  ]
+}

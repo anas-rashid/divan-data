@@ -1,0 +1,69 @@
+{
+  "Id": 27013,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۰۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۰۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh407",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh407",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرکس که از رخ تو نظر آب می‌دهد\r\nخرمن به برق و خانه به سیلاب می‌دهد\r\nدر خون یک جهان دل بی‌تاب می‌رود\r\nمشاطه‌ای که زلف ترا تاب می‌دهد\r\nصیدی که بی‌قراری وحشت کشیده است\r\nدر چشم دام، داد شکرخواب می‌دهد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس که از رخ تو نظر آب می‌دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خرمن به برق و خانه به سیلاب می‌دهد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خون یک جهان دل بی‌تاب می‌رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مشاطه‌ای که زلف ترا تاب می‌دهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صیدی که بی‌قراری وحشت کشیده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در چشم دام، داد شکرخواب می‌دهد",
+      "CoupletIndex": 2
+    }
+  ]
+}

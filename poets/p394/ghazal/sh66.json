@@ -1,0 +1,42 @@
+{
+  "Id": 37451,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۶۶",
+  "FullUrl": "/p394/ghazal/sh66",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh66",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ندید کس کمر تنگ دلستان تو را\r\nمصور از بر خود می کشد میان تو را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ندید کس کمر تنگ دلستان تو را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مصور از بر خود می کشد میان تو را",
+      "CoupletIndex": 0
+    }
+  ]
+}

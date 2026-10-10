@@ -1,0 +1,93 @@
+{
+  "Id": 31258,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۲۹۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۹۱",
+  "FullUrl": "/p390/divan/ghazal/sh291",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh291",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نوای مرغ شباهنگ، ناله ی نی ماست\r\nستاره ی سحر ما پیاله ی می ماست\r\nنمانده قاعده ی تازه ای، پیاله بگیر\r\nکه آنچه کهنه به عالم نمی شود می ماست\r\nچه شد اگر به غریبی کنیم یاد وطن\r\nکه در قبیله سماع از نوای یاحی ماست\r\nستاره نیست همین خصم ما، که همچون صبح\r\nهمیشه تیغ به کف آفتاب در پی ماست\r\nسلیم، تی تی مستان هند آخر شد\r\nپیاله گیر که اکنون زمان هی هی ماست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوای مرغ شباهنگ، ناله ی نی ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ستاره ی سحر ما پیاله ی می ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نمانده قاعده ی تازه ای، پیاله بگیر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که آنچه کهنه به عالم نمی شود می ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه شد اگر به غریبی کنیم یاد وطن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که در قبیله سماع از نوای یاحی ماست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ستاره نیست همین خصم ما، که همچون صبح",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همیشه تیغ به کف آفتاب در پی ماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم، تی تی مستان هند آخر شد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پیاله گیر که اکنون زمان هی هی ماست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 30245,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۳۷",
+  "FullUrl": "/p389/mmgh/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چه حسرت‌ها خورند ارباب عشرت بر سراپایم\r\nاگر بینند در پا خار و بر سر داغ سودایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه حسرت‌ها خورند ارباب عشرت بر سراپایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر بینند در پا خار و بر سر داغ سودایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

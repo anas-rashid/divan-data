@@ -1,0 +1,45 @@
+{
+  "Id": 17557,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۶",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۶",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh26",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh26",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فغان کز پوچ مغزی چون جرس در وادی امکان\r\nسرآمد عمر در فریاد بی‌فریادرس مارا",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فغان کز پوچ مغزی چون جرس در وادی امکان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرآمد عمر در فریاد بی‌فریادرس مارا",
+      "CoupletIndex": 0
+    }
+  ]
+}

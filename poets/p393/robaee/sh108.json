@@ -1,0 +1,54 @@
+{
+  "Id": 37280,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۰۸",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۰۸",
+  "FullUrl": "/p393/robaee/sh108",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh108",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از وصلو فراق یار واقف مگریز\r\nاز خواری و اعتبار واقف مگریز\r\nدر کوچهٔ آرزو زمین‌گیر مشو\r\nبرخیز ازین دیار و واقف مگریز",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از وصلو فراق یار واقف مگریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خواری و اعتبار واقف مگریز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کوچهٔ آرزو زمین‌گیر مشو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برخیز ازین دیار و واقف مگریز",
+      "CoupletIndex": 1
+    }
+  ]
+}

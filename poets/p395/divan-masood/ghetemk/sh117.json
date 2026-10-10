@@ -1,0 +1,57 @@
+{
+  "Id": 38344,
+  "CatId": 1131,
+  "Title": "شمارهٔ ۱۱۷ - ثناخوانی در کوهسار",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » مقطعات » شمارهٔ ۱۱۷ - ثناخوانی در کوهسار",
+  "FullUrl": "/p395/divan-masood/ghetemk/sh117",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/ghetemk/sh117",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کوه پیش کبکان خواندم ثنای تو\r\nکبکان شدند بسته به دام بلای تو\r\nبر چشم سرمه کرده دویدند تا همه\r\nروشن کنند دیده به عز لقای تو",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کوه پیش کبکان خواندم ثنای تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کبکان شدند بسته به دام بلای تو",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر چشم سرمه کرده دویدند تا همه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روشن کنند دیده به عز لقای تو",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30624,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۶۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۶۷",
+  "FullUrl": "/p389/robghm/sh367",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh367",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از وصل تو ام به دل سروشی نرسید\r\nوز شهد لبت، لبم به نوشی نرسید\r\nبا این همه بیداد که دیدم از تو\r\nآواز شکایتم به گوشی نرسید",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از وصل تو ام به دل سروشی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز شهد لبت، لبم به نوشی نرسید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با این همه بیداد که دیدم از تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آواز شکایتم به گوشی نرسید",
+      "CoupletIndex": 1
+    }
+  ]
+}

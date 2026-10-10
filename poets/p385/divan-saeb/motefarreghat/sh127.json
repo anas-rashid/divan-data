@@ -1,0 +1,57 @@
+{
+  "Id": 26733,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۲۷",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh127",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh127",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "حیرتکده چشم مرا خواب ندیده است\r\nافتادگی اشک مرا آب ندیده است\r\nکم لاف ز همچشمی اش ای آهوی وحشی\r\nاین طرز نگه چشم تو در خواب ندیده است!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حیرتکده چشم مرا خواب ندیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتادگی اشک مرا آب ندیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کم لاف ز همچشمی اش ای آهوی وحشی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این طرز نگه چشم تو در خواب ندیده است!",
+      "CoupletIndex": 1
+    }
+  ]
+}

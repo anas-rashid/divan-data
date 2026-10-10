@@ -1,0 +1,57 @@
+{
+  "Id": 26620,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh14",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh14",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ازان پیوسته می لرزد دل از پاس قدم ما را\r\nکه ناموس سپاهی هست بر سر چون علم ما را\r\nشکست دشمن عاجز دلی از سنگ می خواهد\r\nوگرنه نیست از خار ملامت پای کم ما را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازان پیوسته می لرزد دل از پاس قدم ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ناموس سپاهی هست بر سر چون علم ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکست دشمن عاجز دلی از سنگ می خواهد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وگرنه نیست از خار ملامت پای کم ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

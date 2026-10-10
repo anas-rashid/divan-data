@@ -1,0 +1,69 @@
+{
+  "Id": 26932,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۲۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh326",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh326",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چمن خلد کی این لاله و نسرین دارد؟\r\nلب اعجاز کی این خنده شیرین دارد؟\r\nسر فتراک شهادت به سلامت باشد!\r\nسر شوریده ما کی سر بالین دارد؟\r\nکبک اگر ناز به فرهاد کند جا دارد\r\nکه قدم بر قدم جلوه شیرین دارد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چمن خلد کی این لاله و نسرین دارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب اعجاز کی این خنده شیرین دارد؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سر فتراک شهادت به سلامت باشد!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر شوریده ما کی سر بالین دارد؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کبک اگر ناز به فرهاد کند جا دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که قدم بر قدم جلوه شیرین دارد",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 29826,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۷۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۷۸",
+  "FullUrl": "/p389/ghazalgm/sh78",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh78",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لیلی‌اش در دل و گوشش به صدای جرس است\r\nیا رب این مغلطه مجنون ترا با چه کس است\r\nمی‌برد برگ گلی باد ز گلزار برون\r\nبلبلی در پس دیوار مگر در قفس است؟\r\nبلبل از بی‌خودی عشق جهد شاخ به شاخ\r\nگل به خون گشته ز غیرت که مگر بوالهوس است\r\nعمر در خدمت او صرف شد و یار هنوز\r\nپرسد احوال مرا از دگران کاین چه کس است\r\nدل مشتاق تو و لاف صبوری هیهات\r\nشمع این انجمن آسوده ز باد نفس است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لیلی‌اش در دل و گوشش به صدای جرس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا رب این مغلطه مجنون ترا با چه کس است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌برد برگ گلی باد ز گلزار برون",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلبلی در پس دیوار مگر در قفس است؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بلبل از بی‌خودی عشق جهد شاخ به شاخ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گل به خون گشته ز غیرت که مگر بوالهوس است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عمر در خدمت او صرف شد و یار هنوز",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پرسد احوال مرا از دگران کاین چه کس است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل مشتاق تو و لاف صبوری هیهات",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شمع این انجمن آسوده ز باد نفس است",
+      "CoupletIndex": 4
+    }
+  ]
+}

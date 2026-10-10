@@ -1,0 +1,45 @@
+{
+  "Id": 18933,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۰۲",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۰۲",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1402",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1402",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آدم مسکین به یک خامی که در فردوس کرد\r\nچاک شد چون دانهٔ گندم دل اولاد او",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آدم مسکین به یک خامی که در فردوس کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چاک شد چون دانهٔ گندم دل اولاد او",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 37640,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۲۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۲۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh126",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh126",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شاها ملکا جهان به فرمان تو باد\r\nملک تو شکفته باغ و بستان تو باد\r\nشمشیر تو در دست تو برهان تو باد\r\nرحمت همه بر دل و تن و جان تو باد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شاها ملکا جهان به فرمان تو باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ملک تو شکفته باغ و بستان تو باد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شمشیر تو در دست تو برهان تو باد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رحمت همه بر دل و تن و جان تو باد",
+      "CoupletIndex": 1
+    }
+  ]
+}

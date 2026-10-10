@@ -1,0 +1,57 @@
+{
+  "Id": 28064,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۲۱",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۲۱",
+  "FullUrl": "/p386/robaeeor/sh21",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh21",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از دیدهٔ ما به جز حیا نتوان یافت\r\nزین آینه جز نور صفا نتوان یافت\r\nآلودگی ای که آب عصمت ببرد\r\nدر سلسلهٔ نگاه ما نتوان یافت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از دیدهٔ ما به جز حیا نتوان یافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زین آینه جز نور صفا نتوان یافت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آلودگی ای که آب عصمت ببرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سلسلهٔ نگاه ما نتوان یافت",
+      "CoupletIndex": 1
+    }
+  ]
+}

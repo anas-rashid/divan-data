@@ -1,0 +1,93 @@
+{
+  "Id": 23402,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۴۳۲۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۳۲۹",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh4329",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4329",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا روشنی صدق به دل یار نگردد\r\nگفتار تو آیینه کردار نگردد\r\nکوته بود از سوختگان دست تعدی\r\nپروانه به شبگرد گرفتار نگردد\r\nدر ساغر چشم است می طفل مزاجی\r\nافسانه حریف دل بیدار نگردد\r\nرخساره گلرنگ تو هردم به هوایی است\r\nچون چشم گرانخواب تو بیمار نگردد\r\nتا صائب ما صفحه دیوان نگشاید\r\nگل پردگی رخنه دیوار نگردد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا روشنی صدق به دل یار نگردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتار تو آیینه کردار نگردد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کوته بود از سوختگان دست تعدی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه به شبگرد گرفتار نگردد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در ساغر چشم است می طفل مزاجی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "افسانه حریف دل بیدار نگردد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رخساره گلرنگ تو هردم به هوایی است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون چشم گرانخواب تو بیمار نگردد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا صائب ما صفحه دیوان نگشاید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گل پردگی رخنه دیوار نگردد",
+      "CoupletIndex": 4
+    }
+  ]
+}

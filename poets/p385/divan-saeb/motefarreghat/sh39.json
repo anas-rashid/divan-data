@@ -1,0 +1,57 @@
+{
+  "Id": 26645,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۹",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر نگه صد کاسه خون می خورد\r\nتا به مژگان می رساند خویش را\r\nهر سر خاری که گل کرد از زمین\r\nدر رگ من می دواند نیش را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر نگه صد کاسه خون می خورد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به مژگان می رساند خویش را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سر خاری که گل کرد از زمین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در رگ من می دواند نیش را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 37468,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۸۳",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۸۳",
+  "FullUrl": "/p394/ghazal/sh83",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh83",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دلدار وا کردم رقیبم شد دچار آنجا\r\nزدم نقبی برون آمد به جای گنج مار آنجا",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دلدار وا کردم رقیبم شد دچار آنجا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زدم نقبی برون آمد به جای گنج مار آنجا",
+      "CoupletIndex": 0
+    }
+  ]
+}

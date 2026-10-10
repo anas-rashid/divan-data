@@ -1,0 +1,93 @@
+{
+  "Id": 19641,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۶۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۶۸",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh568",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh568",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرد اندوه پذیرد ز طرب سینه ما\r\nسبزی بخت شود زنگ بر آیینه ما\r\nروز تعطیل به عرفانکده مشرب نیست\r\nصبح شنبه خجل است از شب آدینه ما\r\nهمچو خورشید بود بر همه عالم روشن\r\nکه می کهنه بود همدم دیرینه ما\r\nصرفه از ما نبرد خصم به روبه بازی\r\nناخن شیر دماند ز جگر کینه ما\r\nصائب از فیض هواداری آن زلف سیاه\r\nنافه مشک بود خرقه پشمینه ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرد اندوه پذیرد ز طرب سینه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سبزی بخت شود زنگ بر آیینه ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روز تعطیل به عرفانکده مشرب نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبح شنبه خجل است از شب آدینه ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همچو خورشید بود بر همه عالم روشن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که می کهنه بود همدم دیرینه ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صرفه از ما نبرد خصم به روبه بازی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ناخن شیر دماند ز جگر کینه ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب از فیض هواداری آن زلف سیاه",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نافه مشک بود خرقه پشمینه ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

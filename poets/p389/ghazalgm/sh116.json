@@ -1,0 +1,93 @@
+{
+  "Id": 29864,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۱۶",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۱۶",
+  "FullUrl": "/p389/ghazalgm/sh116",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh116",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب نیست کز فراق توام سینه داغ نیست\r\nخون جگر به جای می‌ام در ایاغ نیست\r\nشکر خیال روی تو گویم، که کلبه‌ام\r\nشب زیر بار منت شمع و چراغ نیست\r\nدایم نظر به پاره دل داشت در کنار\r\nآلوده دیده‌ام به تماشای باغ نیست\r\nدنبال کام خویش به صحرای آرزو\r\nبدخو دماغ من به نسیم سراغ نیست\r\nقدسی ز ننگ بوالهوسان ساختم به هجر\r\nسودای وصل هیچ‌کسم در دماغ نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب نیست کز فراق توام سینه داغ نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون جگر به جای می‌ام در ایاغ نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکر خیال روی تو گویم، که کلبه‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب زیر بار منت شمع و چراغ نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دایم نظر به پاره دل داشت در کنار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آلوده دیده‌ام به تماشای باغ نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دنبال کام خویش به صحرای آرزو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بدخو دماغ من به نسیم سراغ نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "قدسی ز ننگ بوالهوسان ساختم به هجر",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سودای وصل هیچ‌کسم در دماغ نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

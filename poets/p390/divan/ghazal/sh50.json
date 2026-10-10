@@ -1,0 +1,105 @@
+{
+  "Id": 31017,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۰",
+  "FullUrl": "/p390/divan/ghazal/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس است شاهد مستی همین گلستان را\r\nکه فاش کرده همه رازهای پنهان را\r\nز جوش لاله و گل در چمن چراغان است\r\nببین ز ابر سیه، دود آن چراغان را\r\nچه صحبت است ندانم که جمع کرده بهار\r\nز سرو و گل به چمن راستان و پاکان را\r\nسحاب، طفل در آب اوفتاده را ماند\r\nکه گه فشار دهد دیده، گاه دامان را\r\nبرای چیست دگر تنگ عیشی مرغان؟\r\nکه غنچه کرد چو گلچین فراخ، دامان را\r\nسلیم بر حذر از تیر فتنه باش که باز\r\nبلند ساخت زمانه کمان شیطان را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس است شاهد مستی همین گلستان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که فاش کرده همه رازهای پنهان را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز جوش لاله و گل در چمن چراغان است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ببین ز ابر سیه، دود آن چراغان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چه صحبت است ندانم که جمع کرده بهار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز سرو و گل به چمن راستان و پاکان را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سحاب، طفل در آب اوفتاده را ماند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که گه فشار دهد دیده، گاه دامان را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "برای چیست دگر تنگ عیشی مرغان؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که غنچه کرد چو گلچین فراخ، دامان را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سلیم بر حذر از تیر فتنه باش که باز",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بلند ساخت زمانه کمان شیطان را",
+      "CoupletIndex": 5
+    }
+  ]
+}

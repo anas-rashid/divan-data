@@ -1,0 +1,57 @@
+{
+  "Id": 30646,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۸۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۸۹",
+  "FullUrl": "/p389/robghm/sh389",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh389",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دوست چنین ز دوست‌داران مگذر\r\nچون سیل که بگذرد بهاران، مگذر\r\nهرچند گذشتگی عنان تو گسست\r\nاز خود بگذر ولی ز یاران مگذر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست چنین ز دوست‌داران مگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون سیل که بگذرد بهاران، مگذر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند گذشتگی عنان تو گسست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خود بگذر ولی ز یاران مگذر",
+      "CoupletIndex": 1
+    }
+  ]
+}

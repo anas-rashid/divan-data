@@ -1,0 +1,78 @@
+{
+  "Id": 36473,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۳۲۲",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۳۲۲",
+  "FullUrl": "/p393/natmam/sh322",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh322",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مرا با تو آرزومندی\r\nتا به کی بگسلی و پیوندی\r\nبنده را خواه سوز خواه بکش\r\nهرچه خواهی بکن خداوندی\r\nاین جهان جای گریه است ای صبح\r\nتو چنین هرزه از چه می‌خندی\r\nغم عشق تو ای پسر برده است\r\nطفل اشک مرا به فرزندی",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرا با تو آرزومندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا به کی بگسلی و پیوندی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنده را خواه سوز خواه بکش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرچه خواهی بکن خداوندی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این جهان جای گریه است ای صبح",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تو چنین هرزه از چه می‌خندی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غم عشق تو ای پسر برده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "طفل اشک مرا به فرزندی",
+      "CoupletIndex": 3
+    }
+  ]
+}

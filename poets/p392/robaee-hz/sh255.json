@@ -1,0 +1,57 @@
+{
+  "Id": 34650,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۵۵",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۵۵",
+  "FullUrl": "/p392/robaee-hz/sh255",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh255",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از می، لب غنچه گشت گلگون ساقی\r\nچون لاله نشسته ایم در خون ساقی\r\nاقبال تو می دهد ز ادبار نجات\r\nتنگ آمدم از نکبت افیون ساقی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از می، لب غنچه گشت گلگون ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون لاله نشسته ایم در خون ساقی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اقبال تو می دهد ز ادبار نجات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنگ آمدم از نکبت افیون ساقی",
+      "CoupletIndex": 1
+    }
+  ]
+}

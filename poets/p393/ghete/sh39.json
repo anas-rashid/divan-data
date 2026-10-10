@@ -1,0 +1,54 @@
+{
+  "Id": 36519,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۹",
+  "FullUrl": "/p393/ghete/sh39",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh39",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا دوچار غم هجران شده است\r\nدیده سرچشمهٔ طوفان شده است\r\nسرو من تا تو خرامان شده‌ای\r\nسرو رسوای گلستان شده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا دوچار غم هجران شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده سرچشمهٔ طوفان شده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سرو من تا تو خرامان شده‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو رسوای گلستان شده است",
+      "CoupletIndex": 1
+    }
+  ]
+}

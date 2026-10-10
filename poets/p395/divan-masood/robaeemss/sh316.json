@@ -1,0 +1,57 @@
+{
+  "Id": 37830,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۱۶",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۱۶",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh316",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh316",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شاه به بیشه عزم ناگاهان کن\r\nیک چند کنون شکار بدخواهان کن\r\nشیر ار نبود قصد سوی شاهان کن\r\nمر شیران را طعمه روباهان کن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شاه به بیشه عزم ناگاهان کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یک چند کنون شکار بدخواهان کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شیر ار نبود قصد سوی شاهان کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مر شیران را طعمه روباهان کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

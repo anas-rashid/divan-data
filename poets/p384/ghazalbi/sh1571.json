@@ -1,0 +1,93 @@
+{
+  "Id": 16274,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۱۵۷۱",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۱۵۷۱",
+  "FullUrl": "/p384/ghazalbi/sh1571",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh1571",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یاد تو آتشی است که خامش نمی‌شود\r\nحق نمک چو زخم فرامش نمی‌شود\r\nزین اختلاطها که مآلش ندامت است\r\nخوشدل همان کسی که دلش خوش نمی‌شود\r\nبوی‌ کباب مجلس تنهایی‌ام خوش است\r\nکانجا جگر ز بی‌نمکی شش نمی‌شود\r\nملکی‌ست بیکسی‌ که در آنجا غریب یأس\r\nگر می‌شود شهید ستمکش نمی‌شود\r\nبیدل مزیل عقل‌، شراب تعلق است\r\nمست تغافل این همه بیهش نمی‌شود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یاد تو آتشی است که خامش نمی‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حق نمک چو زخم فرامش نمی‌شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین اختلاطها که مآلش ندامت است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوشدل همان کسی که دلش خوش نمی‌شود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بوی‌ کباب مجلس تنهایی‌ام خوش است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کانجا جگر ز بی‌نمکی شش نمی‌شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ملکی‌ست بیکسی‌ که در آنجا غریب یأس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر می‌شود شهید ستمکش نمی‌شود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بیدل مزیل عقل‌، شراب تعلق است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مست تغافل این همه بیهش نمی‌شود",
+      "CoupletIndex": 4
+    }
+  ]
+}

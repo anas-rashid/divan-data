@@ -1,0 +1,57 @@
+{
+  "Id": 26631,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۵",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا به کی دور بود سایه ابراز سر ما؟\r\nخشک باشد لب ما چون جگر ساغر ما\r\nشعله پیش جگر سوخته ما خام است\r\nبال پروانه بود یک ورق از دفتر ما",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا به کی دور بود سایه ابراز سر ما؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خشک باشد لب ما چون جگر ساغر ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شعله پیش جگر سوخته ما خام است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بال پروانه بود یک ورق از دفتر ما",
+      "CoupletIndex": 1
+    }
+  ]
+}

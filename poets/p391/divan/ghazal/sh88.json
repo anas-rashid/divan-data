@@ -1,0 +1,93 @@
+{
+  "Id": 32180,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۸",
+  "FullUrl": "/p391/divan/ghazal/sh88",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh88",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "لایق نبود کینهٔ چرخ اهل صفا را\r\nمعذور توان داشتن این بی سر و پا را\r\nدولت نتوان یافتن از پهلوی خست\r\nهرگز نکند کس به مگس صید هما را\r\nصیقل زده تردستی ابرش ز بس امروز\r\nآیینهٔ گلشن ز صفا کرد هوا را\r\nاز بس نبرد راه به جایی چو شبیه است\r\nفریاد دلم طاعت ارباب ریا را\r\nمحتاج ملک نیستم امروز که آهم\r\nجویا ز تراکم به فلک برد دعا را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لایق نبود کینهٔ چرخ اهل صفا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معذور توان داشتن این بی سر و پا را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دولت نتوان یافتن از پهلوی خست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز نکند کس به مگس صید هما را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صیقل زده تردستی ابرش ز بس امروز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آیینهٔ گلشن ز صفا کرد هوا را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از بس نبرد راه به جایی چو شبیه است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "فریاد دلم طاعت ارباب ریا را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "محتاج ملک نیستم امروز که آهم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جویا ز تراکم به فلک برد دعا را",
+      "CoupletIndex": 4
+    }
+  ]
+}

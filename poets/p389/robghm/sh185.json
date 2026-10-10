@@ -1,0 +1,57 @@
+{
+  "Id": 30442,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۸۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۸۵",
+  "FullUrl": "/p389/robghm/sh185",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh185",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کار دلت به خواهش نفس افتاد\r\nچون بوالهوس از عشق کجا آری یاد\r\nدر ضبط هوای نفس، کس چون تو مباد\r\nتا کی چو حباب در گره بندی باد؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کار دلت به خواهش نفس افتاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون بوالهوس از عشق کجا آری یاد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در ضبط هوای نفس، کس چون تو مباد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا کی چو حباب در گره بندی باد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 21219,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۱۴۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۱۴۶",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2146",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2146",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سبزی که سیاه است ازو روز من این است\r\nسروی که منم فاخته اش این نمکین است\r\nزان شمع نسوزم که ز فانوس حصاری است\r\nگرد سر آن شمع که در خانه زین است\r\nدر جبهه من شعله فطرت بتوان دید\r\nچون تیغ عیان جوهرم از چین جبین است\r\nدر خانه آیینه چه حاجت به چراغ است؟\r\nبر سینه من داغ نهادن نمکین است\r\nبگذار که صائب ز لبت کام بگیرد\r\nامروز که کنج دهنت بوسه نشین است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سبزی که سیاه است ازو روز من این است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سروی که منم فاخته اش این نمکین است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان شمع نسوزم که ز فانوس حصاری است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گرد سر آن شمع که در خانه زین است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در جبهه من شعله فطرت بتوان دید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون تیغ عیان جوهرم از چین جبین است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در خانه آیینه چه حاجت به چراغ است؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر سینه من داغ نهادن نمکین است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بگذار که صائب ز لبت کام بگیرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "امروز که کنج دهنت بوسه نشین است",
+      "CoupletIndex": 4
+    }
+  ]
+}

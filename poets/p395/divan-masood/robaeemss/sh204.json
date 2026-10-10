@@ -1,0 +1,57 @@
+{
+  "Id": 37718,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۰۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۰۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh204",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh204",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من چون دل لاله ام تو چون رنگ به رنگ\r\nاز من تو چرا باز همی داری چنگ\r\nماننده برگ لاله زود ای سرهنگ\r\nهمچون دل لاله در برم گیری تنگ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من چون دل لاله ام تو چون رنگ به رنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از من تو چرا باز همی داری چنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ماننده برگ لاله زود ای سرهنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همچون دل لاله در برم گیری تنگ",
+      "CoupletIndex": 1
+    }
+  ]
+}

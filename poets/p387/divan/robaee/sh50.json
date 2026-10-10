@@ -1,0 +1,57 @@
+{
+  "Id": 28920,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۵۰",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۵۰",
+  "FullUrl": "/p387/divan/robaee/sh50",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh50",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل در غم آن سرکش جاهل چه کند\r\nبیحوصله با عقده مشکل چه کند\r\nخواهد که ززلف نشنود ناله دل\r\nآواز بشب دور رود دل چه کند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در غم آن سرکش جاهل چه کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیحوصله با عقده مشکل چه کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهد که ززلف نشنود ناله دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آواز بشب دور رود دل چه کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

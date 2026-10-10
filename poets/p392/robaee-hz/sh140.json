@@ -1,0 +1,57 @@
+{
+  "Id": 34535,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۴۰",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۴۰",
+  "FullUrl": "/p392/robaee-hz/sh140",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh140",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلگون سرشک، گرم جولانی کرد\r\nخار مژه را لالهٔ نعمانی کرد\r\nجان من از آتش فراق تو گداخت\r\nاین خارهٔ سخت، سست پیمانی کرد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلگون سرشک، گرم جولانی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خار مژه را لالهٔ نعمانی کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان من از آتش فراق تو گداخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این خارهٔ سخت، سست پیمانی کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

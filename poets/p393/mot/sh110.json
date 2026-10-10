@@ -1,0 +1,42 @@
+{
+  "Id": 36819,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۱۱۰",
+  "FullUrl": "/p393/mot/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در دیاری که عشق سکه زند\r\nدرم داغ رایج الوقت است",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در دیاری که عشق سکه زند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درم داغ رایج الوقت است",
+      "CoupletIndex": 0
+    }
+  ]
+}

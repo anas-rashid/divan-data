@@ -1,0 +1,69 @@
+{
+  "Id": 34944,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۸۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۸۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh285",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh285",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سیاهی را، به اشک از دیدهٔ خود کام می شوبم\r\nرخش را کعبه دانم، جامهٔ احرام می شویم\r\nبه خون توبه، زهد خشک، آلوده ست دامان را\r\nردای خانقاهی در می گلفام می شویم\r\nنیاز دل، غرور ناز او را سرگران دارد\r\nنگاه از چشم می دزدم، ز لب پیغام می شویم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سیاهی را، به اشک از دیدهٔ خود کام می شوبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رخش را کعبه دانم، جامهٔ احرام می شویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خون توبه، زهد خشک، آلوده ست دامان را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ردای خانقاهی در می گلفام می شویم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیاز دل، غرور ناز او را سرگران دارد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نگاه از چشم می دزدم، ز لب پیغام می شویم",
+      "CoupletIndex": 2
+    }
+  ]
+}

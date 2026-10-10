@@ -1,0 +1,93 @@
+{
+  "Id": 32350,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۲۵۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۲۵۸",
+  "FullUrl": "/p391/divan/ghazal/sh258",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh258",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در تماشای رخت تاب و توان از ما نیست\r\nدر ره شوق به جان تو که جان از نیست\r\nموج را صورت هستی نبود جز دریا\r\nدل مسافر چو شد از سینه زبان از ما نیست\r\nغیر یک بوسه نداریم تمنا زان لعل\r\nآن دو لب نیست گر از ما دو جهان از ما نیست\r\nشمع را شعله زخاموشی جاوید رهاند\r\nگر نباشد سخن عشق زبان از ما نیست\r\nپا به دامان قناعت به توکل بنشین\r\nرفته هر کس ز پی سود و زیان از ما نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در تماشای رخت تاب و توان از ما نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در ره شوق به جان تو که جان از نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موج را صورت هستی نبود جز دریا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل مسافر چو شد از سینه زبان از ما نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غیر یک بوسه نداریم تمنا زان لعل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن دو لب نیست گر از ما دو جهان از ما نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شمع را شعله زخاموشی جاوید رهاند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر نباشد سخن عشق زبان از ما نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پا به دامان قناعت به توکل بنشین",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رفته هر کس ز پی سود و زیان از ما نیست",
+      "CoupletIndex": 4
+    }
+  ]
+}

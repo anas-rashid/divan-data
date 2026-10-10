@@ -1,0 +1,66 @@
+{
+  "Id": 36405,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۵۴",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۵۴",
+  "FullUrl": "/p393/natmam/sh254",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh254",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من چه گویم چه زین سفر دیدم\r\nکه به هر گام صد خطر دیدم\r\nجنگ ناکرده از فراق گریخت\r\nصبر طان بی‌جگر دیدم\r\nحاجی از طوف کعبه آمد باز\r\nرفتم و گرد یار گردیدم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من چه گویم چه زین سفر دیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که به هر گام صد خطر دیدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جنگ ناکرده از فراق گریخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبر طان بی‌جگر دیدم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حاجی از طوف کعبه آمد باز",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "رفتم و گرد یار گردیدم",
+      "CoupletIndex": 2
+    }
+  ]
+}

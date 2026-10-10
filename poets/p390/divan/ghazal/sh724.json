@@ -1,0 +1,93 @@
+{
+  "Id": 31691,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۷۲۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۷۲۴",
+  "FullUrl": "/p390/divan/ghazal/sh724",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh724",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه می به جام و نه معشوق در کنار، چه حظ\r\nاگر چنین گذرد دور روزگار چه حظ\r\nنه سیر دشت و نه گلگشت باغ، حیرانم\r\nکه همچو مرغ قفس داری از بهار چه حظ\r\nترا که نیست نصیبی ز بی قراری شوق\r\nچو نقش پا به سر راه انتظار چه حظ\r\nبنوش باده و امیدوار رحمت باش\r\nبه حشر بی گنه از لطف کردگار چه حظ\r\nبه حیرتم که چه گویم اگر کسی پرسد\r\nسلیم کرده ای از دور روزگار چه حظ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه می به جام و نه معشوق در کنار، چه حظ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اگر چنین گذرد دور روزگار چه حظ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه سیر دشت و نه گلگشت باغ، حیرانم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که همچو مرغ قفس داری از بهار چه حظ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ترا که نیست نصیبی ز بی قراری شوق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو نقش پا به سر راه انتظار چه حظ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بنوش باده و امیدوار رحمت باش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به حشر بی گنه از لطف کردگار چه حظ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به حیرتم که چه گویم اگر کسی پرسد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سلیم کرده ای از دور روزگار چه حظ",
+      "CoupletIndex": 4
+    }
+  ]
+}

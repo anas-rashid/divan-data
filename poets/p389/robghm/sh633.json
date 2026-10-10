@@ -1,0 +1,57 @@
+{
+  "Id": 30890,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۳۳",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۳۳",
+  "FullUrl": "/p389/robghm/sh633",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh633",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در بام شریعتی، دگر پر نزنی\r\nخاک در علمی، در دیگر نزنی\r\nگر قدر مقام خویش را بشناسی\r\nگامی دگر از فلک فروتر نزنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در بام شریعتی، دگر پر نزنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک در علمی، در دیگر نزنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر قدر مقام خویش را بشناسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گامی دگر از فلک فروتر نزنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

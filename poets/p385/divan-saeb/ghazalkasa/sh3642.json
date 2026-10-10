@@ -1,0 +1,93 @@
+{
+  "Id": 22715,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۳۶۴۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۶۴۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh3642",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3642",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بس که بیماری عشقم به رگ جان پیچید\r\nساعدم رشته بر انگشت طبیبان پیچید\r\nپیش ازین بحر به دل عقده گرداب نداشت\r\nدرد از گریه من در دل عمان پیچید\r\nخار در دامن آتش نتواند آویخت\r\nچون به کف دامن من خار مغیلان پیچید؟\r\nغیر مژگان که شود مانع اشکم، که دگر\r\nدامن بحر به سر پنجه مرجان پیچید؟\r\nکلکش از معنی باریک چو نالی شده است\r\nبس که صائب به سخنهای پریشان پیچید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بس که بیماری عشقم به رگ جان پیچید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساعدم رشته بر انگشت طبیبان پیچید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش ازین بحر به دل عقده گرداب نداشت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درد از گریه من در دل عمان پیچید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خار در دامن آتش نتواند آویخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون به کف دامن من خار مغیلان پیچید؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غیر مژگان که شود مانع اشکم، که دگر",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دامن بحر به سر پنجه مرجان پیچید؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کلکش از معنی باریک چو نالی شده است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بس که صائب به سخنهای پریشان پیچید",
+      "CoupletIndex": 4
+    }
+  ]
+}

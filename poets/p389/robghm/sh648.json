@@ -1,0 +1,57 @@
+{
+  "Id": 30905,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۴۸",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۴۸",
+  "FullUrl": "/p389/robghm/sh648",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh648",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای قد تو سرو چمن دلجویی\r\nروی تو گل گلشن نیکورویی\r\nسودایی زلف خویش کردی چو مرا\r\nعذرم بپذیر در پریشان‌گویی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای قد تو سرو چمن دلجویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روی تو گل گلشن نیکورویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سودایی زلف خویش کردی چو مرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عذرم بپذیر در پریشان‌گویی",
+      "CoupletIndex": 1
+    }
+  ]
+}

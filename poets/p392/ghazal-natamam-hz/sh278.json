@@ -1,0 +1,57 @@
+{
+  "Id": 34937,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۷۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۷۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh278",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh278",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بیهوده نگشتم به سراپای دو عالم\r\nمنظور تو بودی ز تماشای دو عالم\r\nخم کردن سر، بهر طمع، طاعت بُت بود\r\nیک سجده نکردم به تمنّای دو عالم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیهوده نگشتم به سراپای دو عالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منظور تو بودی ز تماشای دو عالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خم کردن سر، بهر طمع، طاعت بُت بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک سجده نکردم به تمنّای دو عالم",
+      "CoupletIndex": 1
+    }
+  ]
+}

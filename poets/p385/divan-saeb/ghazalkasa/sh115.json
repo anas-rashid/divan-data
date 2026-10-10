@@ -1,0 +1,93 @@
+{
+  "Id": 19188,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۱۱۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۱۵",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کرده‌ام بر خود گوارا تلخیِ دشنام را\r\nدیده‌ام در عینِ ناکامی جمالِ کام را\r\nانتقامِ هرزه‌گویان را به خاموشی گذار\r\nتیغ می‌گوید جوابِ مرغِ بی‌هنگام را\r\nکامِ خود شیرین اگر خواهی، به کامِ خلق باش\r\nتلخ باشد کام دایم مردمِ ناکام را\r\nنقشِ موم و شعله هرگز راست ننشیند به هم\r\nروی از فولاد باید سیلی ایام را\r\nلعل سیرابش زکاتِ بوسه بیرون می‌کند\r\nکیست تا آرد به یادش صائبِ گمنام را؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرده‌ام بر خود گوارا تلخیِ دشنام را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده‌ام در عینِ ناکامی جمالِ کام را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انتقامِ هرزه‌گویان را به خاموشی گذار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیغ می‌گوید جوابِ مرغِ بی‌هنگام را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کامِ خود شیرین اگر خواهی، به کامِ خلق باش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تلخ باشد کام دایم مردمِ ناکام را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نقشِ موم و شعله هرگز راست ننشیند به هم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "روی از فولاد باید سیلی ایام را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "لعل سیرابش زکاتِ بوسه بیرون می‌کند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کیست تا آرد به یادش صائبِ گمنام را؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

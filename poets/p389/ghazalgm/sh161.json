@@ -1,0 +1,93 @@
+{
+  "Id": 29909,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۶۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۶۱",
+  "FullUrl": "/p389/ghazalgm/sh161",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh161",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا لبت را میل سوی باده و پیمانه شد\r\nباده چون پیمانه از شوق لبت دیوانه شد\r\nدل چو افتاد از سر کویت جدا، شد هرزه‌گرد\r\nعندلیب یک گلستان جغد صد ویرانه شد\r\nبر گل و شمعم نظر در گلشن و محفل بس است\r\nبیش ازین نتوان وبال بلبل و پروانه شد\r\nتا ابد محروم ماند از لذت دام و قفس\r\nهرکه چون مرغ سرایی، صید آب و دانه شد\r\nبوستان عشق، آب از چشم مجنون خورده است\r\nهرکه بر سر زد گلی زین بوستان دیوانه شد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا لبت را میل سوی باده و پیمانه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باده چون پیمانه از شوق لبت دیوانه شد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل چو افتاد از سر کویت جدا، شد هرزه‌گرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عندلیب یک گلستان جغد صد ویرانه شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر گل و شمعم نظر در گلشن و محفل بس است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بیش ازین نتوان وبال بلبل و پروانه شد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا ابد محروم ماند از لذت دام و قفس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرکه چون مرغ سرایی، صید آب و دانه شد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بوستان عشق، آب از چشم مجنون خورده است",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هرکه بر سر زد گلی زین بوستان دیوانه شد",
+      "CoupletIndex": 4
+    }
+  ]
+}

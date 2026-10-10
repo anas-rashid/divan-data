@@ -1,0 +1,54 @@
+{
+  "Id": 37315,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴۳",
+  "FullUrl": "/p393/robaee/sh143",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh143",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "فرهاد که بهر دوست شد دشمن کام\r\nدر کندن چوی شیر چون کرد اقدام\r\nمی‌گفت دمی که تیشه می‌زد بر سنگ\r\nمتی‌السعی رب منک الا تمام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرهاد که بهر دوست شد دشمن کام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کندن چوی شیر چون کرد اقدام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌گفت دمی که تیشه می‌زد بر سنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "متی‌السعی رب منک الا تمام",
+      "CoupletIndex": 1
+    }
+  ]
+}

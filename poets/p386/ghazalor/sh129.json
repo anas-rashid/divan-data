@@ -1,0 +1,105 @@
+{
+  "Id": 27537,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۲۹",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۲۹",
+  "FullUrl": "/p386/ghazalor/sh129",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh129",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من نگویم که درین شهر ستمکاری هست\r\nهمه دانند که ما را به تو بازاری هست\r\nحد من نیست که در پیش تو گویم سخنی\r\nدوست داند که مرا قوت گفتاری هست\r\nاز ادب چشم من و ناز مپوشان رخ دوست\r\nاین نگاهی است که شایسته دیداری هست\r\nساکن کعبه کجا، دولت دیدار کجا\r\nاین قدر هست که در سایه ی دیواری هست\r\nمردم کارگه عشق هنرمندانند\r\nبیستون گر بشکافد دگر کاری هست\r\nدل عرفی نه یکی قطره ی حون، فولاد است\r\nاز ستم سیر مشو دگر آزاری هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من نگویم که درین شهر ستمکاری هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همه دانند که ما را به تو بازاری هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حد من نیست که در پیش تو گویم سخنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دوست داند که مرا قوت گفتاری هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از ادب چشم من و ناز مپوشان رخ دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این نگاهی است که شایسته دیداری هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ساکن کعبه کجا، دولت دیدار کجا",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این قدر هست که در سایه ی دیواری هست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مردم کارگه عشق هنرمندانند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بیستون گر بشکافد دگر کاری هست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دل عرفی نه یکی قطره ی حون، فولاد است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از ستم سیر مشو دگر آزاری هست",
+      "CoupletIndex": 5
+    }
+  ]
+}

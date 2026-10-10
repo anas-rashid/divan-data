@@ -1,0 +1,57 @@
+{
+  "Id": 28939,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۶۹ - تاریخ تسخیر قلاع خطهٔ دکن",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۶۹ - تاریخ تسخیر قلاع خطهٔ دکن",
+  "FullUrl": "/p387/divan/robaee/sh69",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh69",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از جلوه شاهدان فرخ پی فتح\r\nداد از پی هم ساقی دوران می فتح\r\nتاریخ فتوحات شهنشاه جهان\r\nکلکم بنوشت (آمده فتح از پی فتح)",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از جلوه شاهدان فرخ پی فتح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "داد از پی هم ساقی دوران می فتح",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تاریخ فتوحات شهنشاه جهان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کلکم بنوشت (آمده فتح از پی فتح)",
+      "CoupletIndex": 1
+    }
+  ]
+}

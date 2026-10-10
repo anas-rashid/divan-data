@@ -1,0 +1,57 @@
+{
+  "Id": 27046,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۴۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۴۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh440",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh440",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ترسم که مرا عشق به مردی نرساند\r\nدل را به شفاخانه دردی نرساند\r\nامشب نفسم مضطرب از سینه برون رفت\r\nبر آینه حسن تو گردی نرساند!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترسم که مرا عشق به مردی نرساند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل را به شفاخانه دردی نرساند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امشب نفسم مضطرب از سینه برون رفت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر آینه حسن تو گردی نرساند!",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33789,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۳۶۲",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۳۶۲",
+  "FullUrl": "/p392/ghazal-hz/sh362",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh362",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از پرده چو خواهد، گل رخسار برآرد\r\nپوشد به لباس گل و از خار برآرد\r\nدل از خم زلفش چه خیال است برآرم؟\r\nچون آینه کز سبزه ی زنگار برآرد\r\nامروز مگر همّت مردانه ی ساقی\r\nبنیاد غم از ساغر سرشار برآرد\r\nافسرده دلی رفت ز حد، شور جنون کو؟\r\nتا بی خودم از خانهٔ خمار برآرد\r\nبوی سر زلف تو دهد طرح به سنبل\r\nآهی که حزین از دل افگار برآرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از پرده چو خواهد، گل رخسار برآرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پوشد به لباس گل و از خار برآرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل از خم زلفش چه خیال است برآرم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون آینه کز سبزه ی زنگار برآرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "امروز مگر همّت مردانه ی ساقی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بنیاد غم از ساغر سرشار برآرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "افسرده دلی رفت ز حد، شور جنون کو؟",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا بی خودم از خانهٔ خمار برآرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بوی سر زلف تو دهد طرح به سنبل",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آهی که حزین از دل افگار برآرد",
+      "CoupletIndex": 4
+    }
+  ]
+}

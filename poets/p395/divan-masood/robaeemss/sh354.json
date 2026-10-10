@@ -1,0 +1,57 @@
+{
+  "Id": 37868,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۵۴",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۵۴",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh354",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh354",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر چند که بر کوهم در شب ز اندوه\r\nگریان باشم تا به گه بانگ خروه\r\nهمقامت تو چو سرو بینم بر کوه\r\nهرگز نشوم ز دیدن کوه ستوه",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر چند که بر کوهم در شب ز اندوه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گریان باشم تا به گه بانگ خروه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همقامت تو چو سرو بینم بر کوه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز نشوم ز دیدن کوه ستوه",
+      "CoupletIndex": 1
+    }
+  ]
+}

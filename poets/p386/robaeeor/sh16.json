@@ -1,0 +1,57 @@
+{
+  "Id": 28059,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۶",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۶",
+  "FullUrl": "/p386/robaeeor/sh16",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh16",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با سال و مه ام دقیقه و ساعت نیست\r\nبا روز و شبم روشنی و ظلمت نیست\r\nبا صحت و رنجم آفت و راحت نیست\r\nعرفی عالمی چو عالم وحدت نیست ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با سال و مه ام دقیقه و ساعت نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با روز و شبم روشنی و ظلمت نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با صحت و رنجم آفت و راحت نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عرفی عالمی چو عالم وحدت نیست ",
+      "CoupletIndex": 1
+    }
+  ]
+}

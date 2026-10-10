@@ -1,0 +1,57 @@
+{
+  "Id": 26937,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh331",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh331",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "قطع امید ازان زلف دوتا نتوان کرد\r\nدامن دولت جاوید رها نتوان کرد\r\nقاصد و نامه و پیغام نمی خواهد عشق\r\nدر حرم پیروی قبله نما نتوان کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قطع امید ازان زلف دوتا نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دامن دولت جاوید رها نتوان کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قاصد و نامه و پیغام نمی خواهد عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در حرم پیروی قبله نما نتوان کرد",
+      "CoupletIndex": 1
+    }
+  ]
+}

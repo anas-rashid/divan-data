@@ -1,0 +1,93 @@
+{
+  "Id": 31389,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۲۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۲۲",
+  "FullUrl": "/p390/divan/ghazal/sh422",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh422",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اسیر عشق تو سود و زیان چه می‌داند\r\nگل چراغ، بهار و خزان چه می‌داند\r\nاگر ز لطف، تو فکری به حال من نکنی\r\nعلاج درد مرا آسمان چه می‌داند\r\nقدم به ره چو نهد طالب تو، ننشیند\r\nچو سیل بادیه نقل مکان چه می‌داند\r\nمزن چو ناخن مطرب به پیش خر طنبور\r\nنوای سوختگان را جهان چه می‌داند\r\nسلیم گفتم دارم به طره‌ات سخنی\r\nبه خنده گفت که هندو زبان چه می‌داند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اسیر عشق تو سود و زیان چه می‌داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل چراغ، بهار و خزان چه می‌داند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر ز لطف، تو فکری به حال من نکنی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "علاج درد مرا آسمان چه می‌داند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "قدم به ره چو نهد طالب تو، ننشیند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو سیل بادیه نقل مکان چه می‌داند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مزن چو ناخن مطرب به پیش خر طنبور",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نوای سوختگان را جهان چه می‌داند",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سلیم گفتم دارم به طره‌ات سخنی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به خنده گفت که هندو زبان چه می‌داند",
+      "CoupletIndex": 4
+    }
+  ]
+}

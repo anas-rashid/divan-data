@@ -1,0 +1,57 @@
+{
+  "Id": 30392,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۳۵",
+  "FullUrl": "/p389/robghm/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالم همه پرتوی بود از رخ دوست\r\nهر فرع نکو که هست ازان اصل نکوست\r\nهر ذره که در کون و مکان می‌بینی\r\nنتوان گفتن، ولی توان گفتن ازوست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالم همه پرتوی بود از رخ دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر فرع نکو که هست ازان اصل نکوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر ذره که در کون و مکان می‌بینی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتوان گفتن، ولی توان گفتن ازوست",
+      "CoupletIndex": 1
+    }
+  ]
+}

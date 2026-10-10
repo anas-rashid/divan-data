@@ -1,0 +1,57 @@
+{
+  "Id": 27136,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۳۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۳۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh530",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh530",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کو می که اختیار خرد را به او دهم؟\r\nمستانه دست خویش به دست سبو دهم\r\nبر هر طرف که می نگرم حشر آرزوست\r\nزلف ترا به دست کدام آرزو دهم؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کو می که اختیار خرد را به او دهم؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مستانه دست خویش به دست سبو دهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر هر طرف که می نگرم حشر آرزوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زلف ترا به دست کدام آرزو دهم؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

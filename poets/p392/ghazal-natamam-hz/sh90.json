@@ -1,0 +1,42 @@
+{
+  "Id": 34749,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۹۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۹۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh90",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh90",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نباشد دل چرا از لطف یار، امّیدوار امشب؟\r\nبه راهش قاصدی دارم، چو چشم انتظار امشب",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نباشد دل چرا از لطف یار، امّیدوار امشب؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به راهش قاصدی دارم، چو چشم انتظار امشب",
+      "CoupletIndex": 0
+    }
+  ]
+}

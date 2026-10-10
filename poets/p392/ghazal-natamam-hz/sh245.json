@@ -1,0 +1,81 @@
+{
+  "Id": 34904,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۴۵",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۴۵",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh245",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh245",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی کشد، دل ما را به دام و دانهٔ خویش\r\nرهین منّتم، از زشتی زمانه خویش\r\nبه دیر و کعبه نیارم سر نیاز فرود\r\nمرا که خاک مراد است، آستانهٔ خویش\r\nخوش است بلبلم از عیش جاودانهٔ خویش\r\nکه دارم از گره بال خویش، دانهٔ خویش\r\nشراب در نظر مستیم سراب نماست\r\nلبم تر است ز شادابی ترانهٔ خویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی کشد، دل ما را به دام و دانهٔ خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رهین منّتم، از زشتی زمانه خویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به دیر و کعبه نیارم سر نیاز فرود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا که خاک مراد است، آستانهٔ خویش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوش است بلبلم از عیش جاودانهٔ خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که دارم از گره بال خویش، دانهٔ خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شراب در نظر مستیم سراب نماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لبم تر است ز شادابی ترانهٔ خویش",
+      "CoupletIndex": 3
+    }
+  ]
+}

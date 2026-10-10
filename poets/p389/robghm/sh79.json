@@ -1,0 +1,57 @@
+{
+  "Id": 30336,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۷۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۷۹",
+  "FullUrl": "/p389/robghm/sh79",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh79",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن را که سری به عشق عالم‌سوزست\r\nبختش مسعود و طالعش فیروز است\r\nاکنون که شب از موی سفیدم روزست\r\nمعلومم شد که عشق پیرآموزست",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن را که سری به عشق عالم‌سوزست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بختش مسعود و طالعش فیروز است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اکنون که شب از موی سفیدم روزست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "معلومم شد که عشق پیرآموزست",
+      "CoupletIndex": 1
+    }
+  ]
+}

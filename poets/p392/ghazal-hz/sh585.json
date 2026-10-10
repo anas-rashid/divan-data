@@ -1,0 +1,93 @@
+{
+  "Id": 34012,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۵۸۵",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۵۸۵",
+  "FullUrl": "/p392/ghazal-hz/sh585",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh585",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سپندآسا در آتشخانه می‌رقص\r\nبه بال شعله، چون پروانه می‌رقص\r\nبیفکن خرقه، هنگام سماع است\r\nز مستوری برآ، مستانه می‌رقص\r\nسرودی نیست به از غلغل می\r\nبه پای شیشه چون پیمانه می‌رقص\r\nاگر مست سماعی در ره شوق\r\nبه یاهوی دل دیوانه می‌رقص\r\nنه ای کمتر حزین از ذره در عشق\r\nمدام از جلوهٔ جانانه می‌رقص",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سپندآسا در آتشخانه می‌رقص",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به بال شعله، چون پروانه می‌رقص",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیفکن خرقه، هنگام سماع است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز مستوری برآ، مستانه می‌رقص",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرودی نیست به از غلغل می",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به پای شیشه چون پیمانه می‌رقص",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اگر مست سماعی در ره شوق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به یاهوی دل دیوانه می‌رقص",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نه ای کمتر حزین از ذره در عشق",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مدام از جلوهٔ جانانه می‌رقص",
+      "CoupletIndex": 4
+    }
+  ]
+}

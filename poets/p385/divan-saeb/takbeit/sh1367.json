@@ -1,0 +1,45 @@
+{
+  "Id": 18898,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۳۶۷",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۳۶۷",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1367",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1367",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به نسیمی ز هم اوراق دلم می‌ریزد\r\nبه تامل گذر از نخل خزان دیدهٔ من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به نسیمی ز هم اوراق دلم می‌ریزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به تامل گذر از نخل خزان دیدهٔ من",
+      "CoupletIndex": 0
+    }
+  ]
+}

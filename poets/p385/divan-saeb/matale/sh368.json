@@ -1,0 +1,42 @@
+{
+  "Id": 26456,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۶۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۶۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh368",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh368",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صنوبر قامتی کز خاک می روید گرفتارش\r\nخیابان می کشد چون سرو قد از شوق رفتارش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صنوبر قامتی کز خاک می روید گرفتارش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیابان می کشد چون سرو قد از شوق رفتارش",
+      "CoupletIndex": 0
+    }
+  ]
+}

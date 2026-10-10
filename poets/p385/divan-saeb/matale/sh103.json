@@ -1,0 +1,42 @@
+{
+  "Id": 26191,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۰۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شانه با صد دست از بست و گشادش درهم است\r\nقفل وسواسی که می گویند، زلف پر خم است؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شانه با صد دست از بست و گشادش درهم است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قفل وسواسی که می گویند، زلف پر خم است؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

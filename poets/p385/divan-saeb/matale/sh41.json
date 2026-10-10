@@ -1,0 +1,42 @@
+{
+  "Id": 26129,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۱",
+  "FullUrl": "/p385/divan-saeb/matale/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست پروای علایق طبع وحشت‌دیده را\r\nخار نتواند گرفتن دامن برچیده را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست پروای علایق طبع وحشت‌دیده را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خار نتواند گرفتن دامن برچیده را",
+      "CoupletIndex": 0
+    }
+  ]
+}

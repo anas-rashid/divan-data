@@ -1,0 +1,81 @@
+{
+  "Id": 14927,
+  "CatId": 1051,
+  "Title": "غزل شمارهٔ ۲۲۴",
+  "FullTitle": "بیدل دہلوی » غزلیات » غزل شمارهٔ ۲۲۴",
+  "FullUrl": "/p384/ghazalbi/sh224",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/bidel/ghazalbi/sh224",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نام خود را تا به رسوایی علَم داریم ما\r\nاز ملامت کی به دل یک‌ذره غم داریم ما؟\r\nاز قناعت بود ما را دستگاه همتی\r\nچون هما، در ظلّ بال خود کرَم داریم ما\r\nبر امید آن‌که یابیم از دهان او نشان\r\nروی خود را جانب مُلک عدم داریم ما\r\nدر حرم‌ گه شیخ و گاهی راهب بتخانه‌ایم\r\nهرکجا باشیم بیدل! یک صنم داریم ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نام خود را تا به رسوایی علَم داریم ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از ملامت کی به دل یک‌ذره غم داریم ما؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از قناعت بود ما را دستگاه همتی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون هما، در ظلّ بال خود کرَم داریم ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بر امید آن‌که یابیم از دهان او نشان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روی خود را جانب مُلک عدم داریم ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در حرم‌ گه شیخ و گاهی راهب بتخانه‌ایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هرکجا باشیم بیدل! یک صنم داریم ما",
+      "CoupletIndex": 3
+    }
+  ]
+}

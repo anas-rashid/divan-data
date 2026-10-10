@@ -1,0 +1,42 @@
+{
+  "Id": 26257,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۶۹",
+  "FullUrl": "/p385/divan-saeb/matale/sh169",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh169",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نی انجمن فروز شراب شبانه است\r\nگلگون باده را نفسش تازیانه است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نی انجمن فروز شراب شبانه است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گلگون باده را نفسش تازیانه است",
+      "CoupletIndex": 0
+    }
+  ]
+}

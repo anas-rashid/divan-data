@@ -1,0 +1,57 @@
+{
+  "Id": 30524,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۶۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۶۷",
+  "FullUrl": "/p389/robghm/sh267",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh267",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "روزی که به ترکیب تو پرداخته‌اند\r\nاز چشم، خواص ادب انداخته‌اند\r\nبا من، همه در ستیزه‌ای، شرمت باد\r\nاز شیشه مگر چشم ترا ساخته‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی که به ترکیب تو پرداخته‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از چشم، خواص ادب انداخته‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با من، همه در ستیزه‌ای، شرمت باد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از شیشه مگر چشم ترا ساخته‌اند",
+      "CoupletIndex": 1
+    }
+  ]
+}

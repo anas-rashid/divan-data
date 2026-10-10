@@ -1,0 +1,93 @@
+{
+  "Id": 29970,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۲۲۲",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۲۲۲",
+  "FullUrl": "/p389/ghazalgm/sh222",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh222",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چون کشته نگاه تو سوی کفن رود\r\nجان ز تن برون شده بازش به تن رود\r\nبوی گلاب از نفسش می‌توان شنید\r\nآن را که بر لب از گل رویت سخن رود\r\nجذب محبت است که گلگون عنان خویش\r\nبربوده از سوار و سوی کوهکن رود\r\nزحمت مکش رقیب، که در فصل گل به باغ\r\nبلبل کند ترانه و زاغ و زغن رود\r\nقدسی ترحم است بر احوال آنکه او\r\nاز کوی دوست با دل پرخون چو من رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون کشته نگاه تو سوی کفن رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان ز تن برون شده بازش به تن رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بوی گلاب از نفسش می‌توان شنید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن را که بر لب از گل رویت سخن رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جذب محبت است که گلگون عنان خویش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بربوده از سوار و سوی کوهکن رود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زحمت مکش رقیب، که در فصل گل به باغ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بلبل کند ترانه و زاغ و زغن رود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "قدسی ترحم است بر احوال آنکه او",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از کوی دوست با دل پرخون چو من رود",
+      "CoupletIndex": 4
+    }
+  ]
+}

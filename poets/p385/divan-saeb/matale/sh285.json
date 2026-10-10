@@ -1,0 +1,42 @@
+{
+  "Id": 26373,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۸۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۸۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh285",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh285",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اول و آخر الله ازان آه بود\r\nکه ازو آه نصیب دل آگاه بود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اول و آخر الله ازان آه بود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که ازو آه نصیب دل آگاه بود",
+      "CoupletIndex": 0
+    }
+  ]
+}

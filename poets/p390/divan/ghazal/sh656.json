@@ -1,0 +1,81 @@
+{
+  "Id": 31623,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۶۵۶",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۶۵۶",
+  "FullUrl": "/p390/divan/ghazal/sh656",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh656",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ماند ای شیخ، که مانی به ابابیل سفید\r\nهمچو گنبد به سر گور تو مندیل سفید\r\nهر سر موی تو پیداست ز زیر جامه\r\nچون سیاهی سرتر بود ز قندیل سفید\r\nمحک حال بد و نیک جهان نزدیک است\r\nمی نماید ز ره دور سیه، میل سفید\r\nبس که در مملکت هند، مغول خوار شده ست\r\nمی کند خاک سیه بر سر خود فیل سفید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ماند ای شیخ، که مانی به ابابیل سفید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچو گنبد به سر گور تو مندیل سفید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر سر موی تو پیداست ز زیر جامه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون سیاهی سرتر بود ز قندیل سفید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "محک حال بد و نیک جهان نزدیک است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "می نماید ز ره دور سیه، میل سفید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بس که در مملکت هند، مغول خوار شده ست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "می کند خاک سیه بر سر خود فیل سفید",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37371,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۹۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۹۹",
+  "FullUrl": "/p393/robaee/sh199",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh199",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امروز کشیده‌ام می پرزوری\r\nزان می افتاده در بر من شوری\r\nمستم واقف چنان‌که گر کشته شوم\r\nهر قطرهٔ خون من شود منصوری",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز کشیده‌ام می پرزوری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زان می افتاده در بر من شوری",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستم واقف چنان‌که گر کشته شوم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر قطرهٔ خون من شود منصوری",
+      "CoupletIndex": 1
+    }
+  ]
+}

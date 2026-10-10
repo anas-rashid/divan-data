@@ -1,0 +1,54 @@
+{
+  "Id": 36517,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۳۷",
+  "FullUrl": "/p393/ghete/sh37",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh37",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارم از دست تو ای خانه‌خراب\r\nدل پرآتش و چشم پرآب\r\nقطره‌ای از عرق عارض او\r\nنتَوان داد به صد شیشه‌گلاب",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم از دست تو ای خانه‌خراب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل پرآتش و چشم پرآب",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قطره‌ای از عرق عارض او",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتَوان داد به صد شیشه‌گلاب",
+      "CoupletIndex": 1
+    }
+  ]
+}

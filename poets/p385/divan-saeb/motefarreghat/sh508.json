@@ -1,0 +1,57 @@
+{
+  "Id": 27114,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۰۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۰۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh508",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh508",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به می گرد ملال از چهره دل پاک می کردم\r\nز هر پیمانه ای خون در دل افلاک می کردم\r\nدرین ظلمت سرا می یافتم گم کرده خود را\r\nاگر صبح بناگوش ترا ادراک می کردم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به می گرد ملال از چهره دل پاک می کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز هر پیمانه ای خون در دل افلاک می کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درین ظلمت سرا می یافتم گم کرده خود را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر صبح بناگوش ترا ادراک می کردم",
+      "CoupletIndex": 1
+    }
+  ]
+}

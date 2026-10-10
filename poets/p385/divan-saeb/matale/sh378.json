@@ -1,0 +1,42 @@
+{
+  "Id": 26466,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۷۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۷۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh378",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh378",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مطرب مکن ز صافی آواز انتعاش\r\nچون زلف بی شکن بود آواز بی خراش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطرب مکن ز صافی آواز انتعاش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون زلف بی شکن بود آواز بی خراش",
+      "CoupletIndex": 0
+    }
+  ]
+}

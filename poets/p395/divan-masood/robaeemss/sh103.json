@@ -1,0 +1,57 @@
+{
+  "Id": 37617,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۰۳",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۰۳",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh103",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh103",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "امّید وصال چون مرا بفریبد\r\nخسته‌دل من چو بیدلان درشیبد\r\nای آن که تو را مشاطه حورا زیبد\r\nسنگست آن دل کز چو تویی بشکیبد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امّید وصال چون مرا بفریبد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خسته‌دل من چو بیدلان درشیبد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای آن که تو را مشاطه حورا زیبد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سنگست آن دل کز چو تویی بشکیبد",
+      "CoupletIndex": 1
+    }
+  ]
+}

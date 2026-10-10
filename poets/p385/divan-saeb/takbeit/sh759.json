@@ -1,0 +1,45 @@
+{
+  "Id": 18290,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۷۵۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۷۵۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh759",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh759",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در گشاد غنچهٔ دلهای خونین صرف کن\r\nاین دم گرمی که چون باد بهارت داده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در گشاد غنچهٔ دلهای خونین صرف کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این دم گرمی که چون باد بهارت داده‌اند",
+      "CoupletIndex": 0
+    }
+  ]
+}

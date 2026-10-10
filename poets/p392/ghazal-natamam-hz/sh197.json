@@ -1,0 +1,81 @@
+{
+  "Id": 34856,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۹۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۹۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh197",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh197",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شور مستی از دل دیوانهٔ ما شد بلند\r\nبانگ نوشانوش از میخانه ما شد بلند\r\nسیل عشق آغاز ویرانی، نخست از ما نهاد\r\nاول این گرد از دل دیوانه ما شد بلند\r\nگشت کیفیت دو بالا از دل ما درد را\r\nنشئه این باده از پیمانه ما شد بلند\r\nنوحه کردن در جهان بر زندگی عادت نبود\r\nاول این شیون ز محنت خانه ما شد بلند",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شور مستی از دل دیوانهٔ ما شد بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بانگ نوشانوش از میخانه ما شد بلند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سیل عشق آغاز ویرانی، نخست از ما نهاد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اول این گرد از دل دیوانه ما شد بلند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گشت کیفیت دو بالا از دل ما درد را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نشئه این باده از پیمانه ما شد بلند",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نوحه کردن در جهان بر زندگی عادت نبود",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اول این شیون ز محنت خانه ما شد بلند",
+      "CoupletIndex": 3
+    }
+  ]
+}

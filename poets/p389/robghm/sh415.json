@@ -1,0 +1,57 @@
+{
+  "Id": 30672,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۱۵",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۱۵",
+  "FullUrl": "/p389/robghm/sh415",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh415",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای مرغ چمن، عشق ندانی ز هوس\r\nاز گفت و شنید عاشقی بس کن، بس\r\nعاشق نبود خانه‌طلب، ور نه چرا\r\nپروانه نشد مقید دام و قفس؟",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای مرغ چمن، عشق ندانی ز هوس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گفت و شنید عاشقی بس کن، بس",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عاشق نبود خانه‌طلب، ور نه چرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پروانه نشد مقید دام و قفس؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

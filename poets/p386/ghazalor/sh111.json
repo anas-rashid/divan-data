@@ -1,0 +1,93 @@
+{
+  "Id": 27519,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۱۱",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۱۱",
+  "FullUrl": "/p386/ghazalor/sh111",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh111",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دل پیاله گیر که وقت صبوح تست\r\nکز فیض جمله فتح، محل فتوح تست\r\nآیینه ای که صورت و معنی نمایدت\r\nدست است، گر جمله سوخته، در جیب روح تست\r\nاسباب عفو را، چه به ما، جلوه می دهی\r\nما توبه دشمنیم و ستم را صبوح تست\r\nاهل مسیح را به فلک بر، مسیح وار\r\nاین گریه من است، نه توفان نوح تست\r\nیاران ز شیر دختر رز در صبوحی اند\r\nعرفی تو جام زهر کش، کین صبوح تست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل پیاله گیر که وقت صبوح تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کز فیض جمله فتح، محل فتوح تست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آیینه ای که صورت و معنی نمایدت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دست است، گر جمله سوخته، در جیب روح تست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اسباب عفو را، چه به ما، جلوه می دهی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما توبه دشمنیم و ستم را صبوح تست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اهل مسیح را به فلک بر، مسیح وار",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این گریه من است، نه توفان نوح تست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یاران ز شیر دختر رز در صبوحی اند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عرفی تو جام زهر کش، کین صبوح تست",
+      "CoupletIndex": 4
+    }
+  ]
+}

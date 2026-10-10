@@ -1,0 +1,54 @@
+{
+  "Id": 36613,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۳۳",
+  "FullUrl": "/p393/ghete/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز صبح عید دلم بی تو شام ماتم دید\r\nمن آنچه دیده‌ام از دوریت کسی کم دید\r\nفغان که زخم دل ما ز قحط چاره گران\r\nنه نام بخیه شنید و نه روی مرهم دید",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز صبح عید دلم بی تو شام ماتم دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من آنچه دیده‌ام از دوریت کسی کم دید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فغان که زخم دل ما ز قحط چاره گران",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه نام بخیه شنید و نه روی مرهم دید",
+      "CoupletIndex": 1
+    }
+  ]
+}

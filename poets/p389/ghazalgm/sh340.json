@@ -1,0 +1,81 @@
+{
+  "Id": 30088,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۴۰",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۴۰",
+  "FullUrl": "/p389/ghazalgm/sh340",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh340",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بسی منزل بریدم تا شب غم را سحر کردم\r\nچو صبح از پا گر افتادم، به دامن راه سر کردم\r\nبه صحرا برد خوش خوش، خار خار داغ سودایم\r\nمگر روزی چراغی از چراغ لاله بر کردم؟\r\nازان دردی که از خود هم نهان می‌داشتم عمری\r\nز بس فریاد، امشب عالمی را هم خبر کردم\r\nبه روی باده روشن گشت چشمم عاقبت قدسی\r\nچراغ دیده خود را چو جام از شیشه بر کردم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بسی منزل بریدم تا شب غم را سحر کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو صبح از پا گر افتادم، به دامن راه سر کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به صحرا برد خوش خوش، خار خار داغ سودایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مگر روزی چراغی از چراغ لاله بر کردم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ازان دردی که از خود هم نهان می‌داشتم عمری",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز بس فریاد، امشب عالمی را هم خبر کردم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به روی باده روشن گشت چشمم عاقبت قدسی",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چراغ دیده خود را چو جام از شیشه بر کردم",
+      "CoupletIndex": 3
+    }
+  ]
+}

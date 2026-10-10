@@ -1,0 +1,42 @@
+{
+  "Id": 36939,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۲۳۰",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۲۳۰",
+  "FullUrl": "/p393/mot/sh230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "باید که چو داغ برصش عیب شمارد\r\nدر دست فقیری که درم داشته باشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باید که چو داغ برصش عیب شمارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دست فقیری که درم داشته باشد",
+      "CoupletIndex": 0
+    }
+  ]
+}

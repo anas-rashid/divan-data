@@ -1,0 +1,81 @@
+{
+  "Id": 30129,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۸۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۸۱",
+  "FullUrl": "/p389/ghazalgm/sh381",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh381",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در غمت با گریه شام و سحر خو کرده‌ام\r\nروز و شب چون ابر با مژگان تر خو کرده‌ام\r\nگل نمی‌خواهم، پر است از پاره دل دامنم\r\nمی نمی‌نوشم، به خوناب جگر خو کرده‌ام\r\nروز و شب دارم هوای لعل آن شیرین پسر\r\nطوطی‌ام، نبود عجب گر با شکر خو کرده‌ام\r\nکس نیارد بر سر من آن ستم‌اندیش را\r\nهمچو قدسی با دعای بی‌اثر خو کرده‌ام",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در غمت با گریه شام و سحر خو کرده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روز و شب چون ابر با مژگان تر خو کرده‌ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گل نمی‌خواهم، پر است از پاره دل دامنم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می نمی‌نوشم، به خوناب جگر خو کرده‌ام",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روز و شب دارم هوای لعل آن شیرین پسر",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "طوطی‌ام، نبود عجب گر با شکر خو کرده‌ام",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کس نیارد بر سر من آن ستم‌اندیش را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همچو قدسی با دعای بی‌اثر خو کرده‌ام",
+      "CoupletIndex": 3
+    }
+  ]
+}

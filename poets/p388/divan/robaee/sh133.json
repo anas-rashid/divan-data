@@ -1,0 +1,57 @@
+{
+  "Id": 29740,
+  "CatId": 1082,
+  "Title": "شمارهٔ ۱۳۳",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » رباعیات » شمارهٔ ۱۳۳",
+  "FullUrl": "/p388/divan/robaee/sh133",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/naziri/divan/robaee/sh133",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا نگذری از قشر منقا نشوی\r\nتا رو نکنی به اصل بینا نشوی\r\nتا در نزنی چنگ به هر چیز که هست\r\nشیرازه جزو در کل اجزا نشوی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا نگذری از قشر منقا نشوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا رو نکنی به اصل بینا نشوی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا در نزنی چنگ به هر چیز که هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شیرازه جزو در کل اجزا نشوی",
+      "CoupletIndex": 1
+    }
+  ]
+}

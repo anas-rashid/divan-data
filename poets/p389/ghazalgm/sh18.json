@@ -1,0 +1,93 @@
+{
+  "Id": 29766,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۱۸",
+  "FullUrl": "/p389/ghazalgm/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یکی بود به نظر نیستی و هستی ما\r\nتفاوتی نبود در خمار و مستی ما\r\nبه می‌پرست مزن طعنه زآنکه کمتر نیست\r\nز می‌پرستی او خویشتن‌پرستی ما\r\nبود به دیده نادیده برگ کاه چون کوه\r\nبلند قدر نماید فلک ز پستی ما\r\nگذشت موسم اندوه و وقت عیش آمد\r\nرسید نوبت ایام تنگدستی ما\r\nعجب که روز جزا هم توان عمارت کرد\r\nخراب‌کرده عشق است ملک هستی ما",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکی بود به نظر نیستی و هستی ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تفاوتی نبود در خمار و مستی ما",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به می‌پرست مزن طعنه زآنکه کمتر نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز می‌پرستی او خویشتن‌پرستی ما",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بود به دیده نادیده برگ کاه چون کوه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بلند قدر نماید فلک ز پستی ما",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گذشت موسم اندوه و وقت عیش آمد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رسید نوبت ایام تنگدستی ما",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عجب که روز جزا هم توان عمارت کرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خراب‌کرده عشق است ملک هستی ما",
+      "CoupletIndex": 4
+    }
+  ]
+}

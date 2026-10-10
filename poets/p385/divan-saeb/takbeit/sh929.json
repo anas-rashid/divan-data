@@ -1,0 +1,45 @@
+{
+  "Id": 18460,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۹۲۹",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۹۲۹",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh929",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh929",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جان قدسی در تن خاکی دو روزی بیش نیست\r\nموج دریادیده در ساحل نمی‌گیرد قرار",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان قدسی در تن خاکی دو روزی بیش نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موج دریادیده در ساحل نمی‌گیرد قرار",
+      "CoupletIndex": 0
+    }
+  ]
+}

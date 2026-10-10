@@ -1,0 +1,57 @@
+{
+  "Id": 34666,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "رفت آنکه دل به محنت، آسوده بود ما را\r\nچشم از فسانه غم، شب می غنود ما را\r\nزین پیشتر ز چشمم، جاری دو جوی خون بود\r\nاکنون هزار چشمه، از دل گشود ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفت آنکه دل به محنت، آسوده بود ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشم از فسانه غم، شب می غنود ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین پیشتر ز چشمم، جاری دو جوی خون بود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اکنون هزار چشمه، از دل گشود ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 33639,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۲۱۲",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۲۱۲",
+  "FullUrl": "/p392/ghazal-hz/sh212",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh212",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در راه محبت، سر اگر شد قدمی هست\r\nگرچشم وفا نیست، امید ستمی هست\r\nشد روشنم ازگوشهٔ خود، سرّ دو عالم\r\nآیینهٔ زانوست، اگر جام جمی هست\r\nمی خواست رقیب از سخنم رنجه کند دل\r\nدیوانه گمان داشت، به مجنون قلمی هست\r\nبا من نتواند غم ایام برآید\r\nاز داغ تو صحرای دلم را حشمی هست\r\nاز یار حزین دل و دین داده چه پرسی؟\r\nپیداست که هر بتکده ای را صنمی هست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در راه محبت، سر اگر شد قدمی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرچشم وفا نیست، امید ستمی هست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شد روشنم ازگوشهٔ خود، سرّ دو عالم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آیینهٔ زانوست، اگر جام جمی هست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می خواست رقیب از سخنم رنجه کند دل",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دیوانه گمان داشت، به مجنون قلمی هست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با من نتواند غم ایام برآید",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از داغ تو صحرای دلم را حشمی هست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از یار حزین دل و دین داده چه پرسی؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پیداست که هر بتکده ای را صنمی هست",
+      "CoupletIndex": 4
+    }
+  ]
+}

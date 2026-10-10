@@ -1,0 +1,54 @@
+{
+  "Id": 36624,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۴۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۴۴",
+  "FullUrl": "/p393/ghete/sh144",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh144",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نشد به ماشطه محتاج حسن دلجویش\r\nجواب صاف به آیینه می‌دهد رویش\r\nگلی به باغ نیایی که از خیال تو من\r\nبه آب دیده چو شبنم نشسته‌ام رویش",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نشد به ماشطه محتاج حسن دلجویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جواب صاف به آیینه می‌دهد رویش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گلی به باغ نیایی که از خیال تو من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به آب دیده چو شبنم نشسته‌ام رویش",
+      "CoupletIndex": 1
+    }
+  ]
+}

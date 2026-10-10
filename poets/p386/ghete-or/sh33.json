@@ -1,0 +1,54 @@
+{
+  "Id": 28200,
+  "CatId": 1065,
+  "Title": "شمارهٔ ۳۳ - اعتذار",
+  "FullTitle": "عرفی » قطعات » شمارهٔ ۳۳ - اعتذار",
+  "FullUrl": "/p386/ghete-or/sh33",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghete-or/sh33",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از خجلت این گنه که عفوش\r\nبر توست نه بر عطای یزدان\r\nخواهم که شوم ز سایه تو\r\nدر مطلع آفتاب پنهان",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خجلت این گنه که عفوش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر توست نه بر عطای یزدان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خواهم که شوم ز سایه تو",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در مطلع آفتاب پنهان",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 34697,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh38",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh38",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل بر سر تیر است، گشاییم کمین را\r\nاز خامه طرازیم، صنم خانهء چین را\r\nهر شیوه ات ای شوخ، ز بس ذوق فریب است\r\nهرگز نشناسد کسی از مهر تو کین را\r\nنه تنها می کند چون زهر، صحبتهای شیرین را\r\nزبان تلخ، دشمن کام می سازد سخن چین را\r\nز شمع خویشتن از بس که آتش در سرم سوزد\r\nرگ خوابم، پر پروانه سازد خشت بالین را\r\nعبث بلبل زند با من، نوای حسرت آگین را\r\nبه خون دل لبم پرورده مصرعهای رنگین را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل بر سر تیر است، گشاییم کمین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خامه طرازیم، صنم خانهء چین را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر شیوه ات ای شوخ، ز بس ذوق فریب است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز نشناسد کسی از مهر تو کین را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نه تنها می کند چون زهر، صحبتهای شیرین را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زبان تلخ، دشمن کام می سازد سخن چین را",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز شمع خویشتن از بس که آتش در سرم سوزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رگ خوابم، پر پروانه سازد خشت بالین را",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عبث بلبل زند با من، نوای حسرت آگین را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به خون دل لبم پرورده مصرعهای رنگین را",
+      "CoupletIndex": 4
+    }
+  ]
+}

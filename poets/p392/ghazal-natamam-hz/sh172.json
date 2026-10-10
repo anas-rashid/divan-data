@@ -1,0 +1,69 @@
+{
+  "Id": 34831,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۱۷۲",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh172",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh172",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آزاده، از حیات خود آزار می‌کشد\r\nباری‌ست این، که دوش سبکبار می‌کشد\r\nبر خصم تندخوست دلم، کورهٔ گداز\r\nزین خون گرم، نیشتر آزار می‌کشد\r\nتنها نه کفر زلف تو زد راه تقویم\r\nزاهد به سبحه، رشتهٔ زنّار می‌کشد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آزاده، از حیات خود آزار می‌کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باری‌ست این، که دوش سبکبار می‌کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر خصم تندخوست دلم، کورهٔ گداز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زین خون گرم، نیشتر آزار می‌کشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تنها نه کفر زلف تو زد راه تقویم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زاهد به سبحه، رشتهٔ زنّار می‌کشد",
+      "CoupletIndex": 2
+    }
+  ]
+}

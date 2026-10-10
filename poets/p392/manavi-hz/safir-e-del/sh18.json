@@ -1,0 +1,81 @@
+{
+  "Id": 35068,
+  "CatId": 1115,
+  "Title": "بخش ۱۸ - حکایت",
+  "FullTitle": "حزین لاہیجی » مثنویات » صفیر دل » بخش ۱۸ - حکایت",
+  "FullUrl": "/p392/manavi-hz/safir-e-del/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/manavi-hz/safir-e-del/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دو کس را سر جنگ بود و ستیز\r\nبه هم کرده دندان و چنگال تیز\r\nیکی زان دو، سامان پیکار کرد\r\nقبا جوشن و خود دستار کرد\r\nپدر گفتش ای خام بیهوده کوش\r\nاگر پخته ای، جوشن از صلح پوش\r\nگرت هست دامان فرصت به چنگ\r\nفروکوب با نفس خود، طبل جنگ",
+      "HtmlText": null,
+      "PoemFormat": "Masnavi",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دو کس را سر جنگ بود و ستیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به هم کرده دندان و چنگال تیز",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکی زان دو، سامان پیکار کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "قبا جوشن و خود دستار کرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پدر گفتش ای خام بیهوده کوش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اگر پخته ای، جوشن از صلح پوش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گرت هست دامان فرصت به چنگ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "فروکوب با نفس خود، طبل جنگ",
+      "CoupletIndex": 3
+    }
+  ]
+}

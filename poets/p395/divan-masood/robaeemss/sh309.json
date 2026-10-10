@@ -1,0 +1,57 @@
+{
+  "Id": 37823,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۳۰۹",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۳۰۹",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh309",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh309",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از چشم من ار سرشک بتوان رفتن\r\nبس در گرانمایه که بتوان سفتن\r\nور بی تو بود هیچ به نتوان خفتن\r\nکاری باشد چنانکه نتوان گفتن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چشم من ار سرشک بتوان رفتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بس در گرانمایه که بتوان سفتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور بی تو بود هیچ به نتوان خفتن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاری باشد چنانکه نتوان گفتن",
+      "CoupletIndex": 1
+    }
+  ]
+}

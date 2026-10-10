@@ -1,0 +1,45 @@
+{
+  "Id": 18761,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۲۳۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۲۳۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1230",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1230",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دست ماگیر ای سبک جولان، که چون نقش قدم\r\nخاک بر سر، دست بر دل، خار در پا مانده‌ایم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دست ماگیر ای سبک جولان، که چون نقش قدم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاک بر سر، دست بر دل، خار در پا مانده‌ایم",
+      "CoupletIndex": 0
+    }
+  ]
+}

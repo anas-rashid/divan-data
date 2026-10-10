@@ -1,0 +1,57 @@
+{
+  "Id": 28914,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۴۴ - برای چراغانی شهر نورسپور",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۴۴ - برای چراغانی شهر نورسپور",
+  "FullUrl": "/p387/divan/robaee/sh44",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh44",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب‌ها ز چراغ و شمع در نورسپور\r\nهر ذره زند لاف تجلی با طور\r\nهر روز ز شوق این چراغان تا شب\r\nخورشید فتیله تابد از رشتهٔ نور",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب‌ها ز چراغ و شمع در نورسپور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر ذره زند لاف تجلی با طور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر روز ز شوق این چراغان تا شب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید فتیله تابد از رشتهٔ نور",
+      "CoupletIndex": 1
+    }
+  ]
+}

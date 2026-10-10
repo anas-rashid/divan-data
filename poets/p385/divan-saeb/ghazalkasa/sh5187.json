@@ -1,0 +1,93 @@
+{
+  "Id": 24260,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۱۸۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۱۸۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5187",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5187",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نتوان به پای سعی رسیدن به طور عشق\r\nخوابیده تر ز زلف بود راه دور عشق\r\nدست ستیزه در کمر بیستون کند\r\nدرهر سری که هست می تازه زور عشق\r\nاز ظلمت وجود که می برد ره برون ؟\r\nگر شمع پیش پای نمی داشت نور عشق\r\nسیری ز شغل عشق ندارند عاشقان\r\nچون آب شور تشنگی افزاست شور عشق\r\nگر جای خار نشتر الماس سر زند\r\nصائب قد نمی کشد ازراه دورعشق",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نتوان به پای سعی رسیدن به طور عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوابیده تر ز زلف بود راه دور عشق",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دست ستیزه در کمر بیستون کند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درهر سری که هست می تازه زور عشق",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از ظلمت وجود که می برد ره برون ؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر شمع پیش پای نمی داشت نور عشق",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سیری ز شغل عشق ندارند عاشقان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون آب شور تشنگی افزاست شور عشق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر جای خار نشتر الماس سر زند",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صائب قد نمی کشد ازراه دورعشق",
+      "CoupletIndex": 4
+    }
+  ]
+}

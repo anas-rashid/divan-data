@@ -1,0 +1,54 @@
+{
+  "Id": 37319,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴۷",
+  "FullUrl": "/p393/robaee/sh147",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh147",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "جانا وصفت به صد طرب می‌گویم\r\nپیدا و پنهان و روز و شب می‌گویم\r\nزان نقطهٔ خال زیر لب چندانی\r\nمی‌گویم لیک زیر لب می‌گویم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانا وصفت به صد طرب می‌گویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیدا و پنهان و روز و شب می‌گویم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زان نقطهٔ خال زیر لب چندانی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌گویم لیک زیر لب می‌گویم",
+      "CoupletIndex": 1
+    }
+  ]
+}

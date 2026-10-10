@@ -1,0 +1,69 @@
+{
+  "Id": 34990,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۳۳۱",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۳۳۱",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh331",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh331",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دارم گل زخمی به جگر تازه و تر، های\r\nای دل، بزن از سینه صفیری به اثر، های\r\nبر بوم و برم تاخته سیلاب حوادث\r\nاز خانه خرابان توام، های هنر، های\r\nآرام وطن گر سفری شد، عجبی نیست\r\nما را که چو دل، رفته عزیزی به سفر، های",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دارم گل زخمی به جگر تازه و تر، های",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ای دل، بزن از سینه صفیری به اثر، های",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر بوم و برم تاخته سیلاب حوادث",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از خانه خرابان توام، های هنر، های",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آرام وطن گر سفری شد، عجبی نیست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ما را که چو دل، رفته عزیزی به سفر، های",
+      "CoupletIndex": 2
+    }
+  ]
+}

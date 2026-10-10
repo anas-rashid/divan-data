@@ -1,0 +1,54 @@
+{
+  "Id": 36523,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۴۳",
+  "FullUrl": "/p393/ghete/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در گوشهٔ امنی که منم حرف‌زدن نیست\r\nچون گوش اصم خلوت من جای سخن نیست\r\nدر خدمت این مرده‌دلان صرف مکن عمر\r\nچون شمع اگر جان دهی امید کفن نیست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در گوشهٔ امنی که منم حرف‌زدن نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون گوش اصم خلوت من جای سخن نیست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در خدمت این مرده‌دلان صرف مکن عمر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون شمع اگر جان دهی امید کفن نیست",
+      "CoupletIndex": 1
+    }
+  ]
+}

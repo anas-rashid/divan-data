@@ -1,0 +1,57 @@
+{
+  "Id": 28911,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۴۱",
+  "FullUrl": "/p387/divan/robaee/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آنکس که ترا رخصت میخواری داد\r\nصیقل پی آئینه هشیاری داد\r\nتا باده ز کم حوصلگان رسوا شد\r\nاز موج بمستان خط بیزاری داد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنکس که ترا رخصت میخواری داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صیقل پی آئینه هشیاری داد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا باده ز کم حوصلگان رسوا شد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از موج بمستان خط بیزاری داد",
+      "CoupletIndex": 1
+    }
+  ]
+}

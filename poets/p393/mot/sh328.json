@@ -1,0 +1,42 @@
+{
+  "Id": 37037,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۳۲۸",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۳۲۸",
+  "FullUrl": "/p393/mot/sh328",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh328",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نه من تسبیح می‌خواهم نه زنار آرزو دارم\r\nتکلف بر طرف زان زلف یک تار آرزو دارم",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه من تسبیح می‌خواهم نه زنار آرزو دارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تکلف بر طرف زان زلف یک تار آرزو دارم",
+      "CoupletIndex": 0
+    }
+  ]
+}

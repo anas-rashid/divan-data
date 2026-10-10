@@ -1,0 +1,57 @@
+{
+  "Id": 26808,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۰۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۰۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh202",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh202",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شوربختم، دل به آن کنج دهانم می‌کشد\r\nموشکافم، دل به آن موی میانم می‌کشد\r\nخار دیوارم، وبال دامن گل نیستم\r\nبی‌سبب از باغ بیرون باغبانم می‌کشد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوربختم، دل به آن کنج دهانم می‌کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موشکافم، دل به آن موی میانم می‌کشد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خار دیوارم، وبال دامن گل نیستم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌سبب از باغ بیرون باغبانم می‌کشد",
+      "CoupletIndex": 1
+    }
+  ]
+}

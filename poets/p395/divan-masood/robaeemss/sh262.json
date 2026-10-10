@@ -1,0 +1,57 @@
+{
+  "Id": 37776,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۲۶۲",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از آتش دل همیشه اندر تابم\r\nوز اشک دو دیده غرقه اندر آبم\r\nدر آتش و آب خواب شب کی یابم\r\nترسم چو چراغ مرگ باشد خوابم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از آتش دل همیشه اندر تابم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز اشک دو دیده غرقه اندر آبم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در آتش و آب خواب شب کی یابم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ترسم چو چراغ مرگ باشد خوابم",
+      "CoupletIndex": 1
+    }
+  ]
+}

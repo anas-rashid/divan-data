@@ -1,0 +1,57 @@
+{
+  "Id": 26942,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۳۶",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۳۶",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh336",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh336",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نکشم ناز بتی را که جفاجو نبود\r\nبه چه کار آیدم آن گل که در او بو نبود؟\r\nبیستون پیش سبکدستی ما بی وزن است\r\nعشق را سنگ کم اینجا به ترازو نبود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نکشم ناز بتی را که جفاجو نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به چه کار آیدم آن گل که در او بو نبود؟",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیستون پیش سبکدستی ما بی وزن است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عشق را سنگ کم اینجا به ترازو نبود",
+      "CoupletIndex": 1
+    }
+  ]
+}

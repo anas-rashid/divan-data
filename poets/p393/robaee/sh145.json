@@ -1,0 +1,54 @@
+{
+  "Id": 37317,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۴۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۴۵",
+  "FullUrl": "/p393/robaee/sh145",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh145",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اهل دول مدار چشم انعام\r\nجوشند اگر با تو به گرمی تمام\r\nدر کیسه‌شان غر تهی‌دستی نیست\r\nبدنام خزانه‌اند همچون حمام",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اهل دول مدار چشم انعام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جوشند اگر با تو به گرمی تمام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در کیسه‌شان غر تهی‌دستی نیست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بدنام خزانه‌اند همچون حمام",
+      "CoupletIndex": 1
+    }
+  ]
+}

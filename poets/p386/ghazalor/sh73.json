@@ -1,0 +1,105 @@
+{
+  "Id": 27481,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۷۳",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۷۳",
+  "FullUrl": "/p386/ghazalor/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرد محنت به طوف منزل ماست\r\nزهر غم تشنه ی لب ماست\r\nبرق آتش فروز جوهز کل\r\nدود اندیشه های باطل ماست\r\nدر مبندید بر رخ رضوان\r\nکه ز عهد الست سائل ماست\r\nهر چه روید ز کشتزار ملال\r\nریشه ی آن دویده در گل ماست\r\nتا قیامت غبار ناکامی \r\nپرده باف دریچه ی دل ماست\r\nعرفی از موج غم ترا چه غم است\r\nموج خیز ملال ساحل ماست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرد محنت به طوف منزل ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهر غم تشنه ی لب ماست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برق آتش فروز جوهز کل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دود اندیشه های باطل ماست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در مبندید بر رخ رضوان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که ز عهد الست سائل ماست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر چه روید ز کشتزار ملال",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ریشه ی آن دویده در گل ماست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا قیامت غبار ناکامی ",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پرده باف دریچه ی دل ماست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عرفی از موج غم ترا چه غم است",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "موج خیز ملال ساحل ماست",
+      "CoupletIndex": 5
+    }
+  ]
+}

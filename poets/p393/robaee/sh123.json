@@ -1,0 +1,54 @@
+{
+  "Id": 37295,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۲۳",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۲۳",
+  "FullUrl": "/p393/robaee/sh123",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh123",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در عشق یعنی شباب کردی ای دل\r\nعاشق شده اضطراب کردی ای دل\r\nاین کار نه بر صواب کردی ای دل\r\nخود را و مرا خراب کردی ای دل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در عشق یعنی شباب کردی ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عاشق شده اضطراب کردی ای دل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این کار نه بر صواب کردی ای دل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود را و مرا خراب کردی ای دل",
+      "CoupletIndex": 1
+    }
+  ]
+}

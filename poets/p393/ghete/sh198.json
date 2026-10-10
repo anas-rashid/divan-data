@@ -1,0 +1,54 @@
+{
+  "Id": 36678,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۹۸",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۹۸",
+  "FullUrl": "/p393/ghete/sh198",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh198",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "یار را از شکوه کردم خصم جان خویشتن\r\nسوختم چون شمع یاران از زبان خویشتن\r\nتا ببینم فال از شوق سگ کوی کسی\r\nمی‌تراشم قرعه‌ای از استخوان خویشتن",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار را از شکوه کردم خصم جان خویشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سوختم چون شمع یاران از زبان خویشتن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا ببینم فال از شوق سگ کوی کسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌تراشم قرعه‌ای از استخوان خویشتن",
+      "CoupletIndex": 1
+    }
+  ]
+}

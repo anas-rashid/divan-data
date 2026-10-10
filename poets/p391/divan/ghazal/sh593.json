@@ -1,0 +1,66 @@
+{
+  "Id": 32685,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۹۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۳",
+  "FullUrl": "/p391/divan/ghazal/sh593",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh593",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشکم چون خون زدیده چکان بی تو می رود\r\nآهم به رنگ شعله طپان بی تو می رود\r\nگر قامتم دو تاست همان سوز دل بجاست\r\nآهم چو ناوکی زکمان بی تو می رود\r\nدور از تو یک نفس نتوان شد به اختیار\r\nدر حیرتم که عمر چسان بی تو می رود",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشکم چون خون زدیده چکان بی تو می رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آهم به رنگ شعله طپان بی تو می رود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر قامتم دو تاست همان سوز دل بجاست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آهم چو ناوکی زکمان بی تو می رود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دور از تو یک نفس نتوان شد به اختیار",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در حیرتم که عمر چسان بی تو می رود",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30778,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۲۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۲۱",
+  "FullUrl": "/p389/robghm/sh521",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh521",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای نفس، به بندگی سری پیدا کن\r\nورد شب و ذکر سحری پیدا کن\r\nهرچند که گریه بیشتر زور آرد\r\nای دیده مترس و جگری پیدا کن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نفس، به بندگی سری پیدا کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ورد شب و ذکر سحری پیدا کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچند که گریه بیشتر زور آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ای دیده مترس و جگری پیدا کن",
+      "CoupletIndex": 1
+    }
+  ]
+}

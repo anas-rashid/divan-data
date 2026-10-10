@@ -1,0 +1,105 @@
+{
+  "Id": 33859,
+  "CatId": 1106,
+  "Title": "شمارهٔ ۴۳۲",
+  "FullTitle": "حزین لاہیجی » غزلیات » شمارهٔ ۴۳۲",
+  "FullUrl": "/p392/ghazal-hz/sh432",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-hz/sh432",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "من کشتهٔ زخمی که اجل را خجل آرد\r\nجان بندهٔ آن تیغ که چاکی به دل آرد\r\nزلف تو شبیخون به بتان چگل آرد\r\nسیلی که رسد از سر کوی تو، دل آرد\r\nبستیم ز خجلت ره قاصد که مبادا\r\nپیغام وفایی ز تو پیمان گسل آرد\r\nدر محفلت از آتش دل غیرت شمعم\r\nاز بس که مرا ناله به لب متّصل آرد\r\nخالیست کنارم ز گل، آن گریه کجا رفت؟\r\nکز دیدهٔ آغشته به خون، لخت دل آرد\r\nآلوده حزین ، از تن خاکی ست روانم\r\nسیلی که به ویران فتدش راه،گل آرد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من کشتهٔ زخمی که اجل را خجل آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان بندهٔ آن تیغ که چاکی به دل آرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زلف تو شبیخون به بتان چگل آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیلی که رسد از سر کوی تو، دل آرد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بستیم ز خجلت ره قاصد که مبادا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پیغام وفایی ز تو پیمان گسل آرد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در محفلت از آتش دل غیرت شمعم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از بس که مرا ناله به لب متّصل آرد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خالیست کنارم ز گل، آن گریه کجا رفت؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کز دیدهٔ آغشته به خون، لخت دل آرد",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آلوده حزین ، از تن خاکی ست روانم",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "سیلی که به ویران فتدش راه،گل آرد",
+      "CoupletIndex": 5
+    }
+  ]
+}

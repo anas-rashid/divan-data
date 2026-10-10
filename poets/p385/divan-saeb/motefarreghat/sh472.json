@@ -1,0 +1,57 @@
+{
+  "Id": 27078,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۷۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۷۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh472",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh472",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مست ناز من چنین مغرور و بی پروا مباش\r\nپادشاه عالمی، در حکم استغنا مباش\r\nحسن چون تنها شود، از چشم خود دارد خطر\r\nدر تماشاخانه آیینه هم تنها مباش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مست ناز من چنین مغرور و بی پروا مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پادشاه عالمی، در حکم استغنا مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حسن چون تنها شود، از چشم خود دارد خطر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در تماشاخانه آیینه هم تنها مباش",
+      "CoupletIndex": 1
+    }
+  ]
+}

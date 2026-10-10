@@ -1,0 +1,69 @@
+{
+  "Id": 30233,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۲۵",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۲۵",
+  "FullUrl": "/p389/mmgh/sh25",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh25",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیش از اینش نظری با من درویش نبود\r\nاین زمان هست نگاهی که ازین پیش نبود\r\nعمرها بار گل و لاله گشودم چو صبا\r\nهیچ جز داغ درون و جگر ریش نبود\r\nداغ مرهم طلب از چشم بتانم انداخت\r\nورنه هیچ از پی من چشم بداندیش نبود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیش از اینش نظری با من درویش نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این زمان هست نگاهی که ازین پیش نبود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عمرها بار گل و لاله گشودم چو صبا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هیچ جز داغ درون و جگر ریش نبود",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "داغ مرهم طلب از چشم بتانم انداخت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ورنه هیچ از پی من چشم بداندیش نبود",
+      "CoupletIndex": 2
+    }
+  ]
+}

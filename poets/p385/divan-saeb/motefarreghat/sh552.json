@@ -1,0 +1,57 @@
+{
+  "Id": 27158,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۵۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۵۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh552",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh552",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "منقلب گشته است از دور فلک احوال من\r\nضعف پیری در جوانی کرده استقبال من\r\nجنس من قارون شد از گرد کسادی و هنوز\r\nچشم حاسد برنمی دارد سر از دنبال من",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منقلب گشته است از دور فلک احوال من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ضعف پیری در جوانی کرده استقبال من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جنس من قارون شد از گرد کسادی و هنوز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چشم حاسد برنمی دارد سر از دنبال من",
+      "CoupletIndex": 1
+    }
+  ]
+}

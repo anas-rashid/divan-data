@@ -1,0 +1,54 @@
+{
+  "Id": 37307,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳۵",
+  "FullUrl": "/p393/robaee/sh135",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh135",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای شوخ ز نسیان تو در آزارم\r\nافتاد به بستر نزارم زارم\r\nبنویس به بنده رقعه‌ای بهر خدا\r\nمحتاج به تعویذ توام بیمارم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شوخ ز نسیان تو در آزارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاد به بستر نزارم زارم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنویس به بنده رقعه‌ای بهر خدا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "محتاج به تعویذ توام بیمارم",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 30627,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۳۷۰",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۳۷۰",
+  "FullUrl": "/p389/robghm/sh370",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh370",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "پیوسته درین دایره پهناور\r\nهر ذره به اندازه خود یافت خبر\r\nرو حسن قبول ازلی جو، کز بحر\r\nیک قطره حباب گشت و یک قطره گهر",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پیوسته درین دایره پهناور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر ذره به اندازه خود یافت خبر",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رو حسن قبول ازلی جو، کز بحر",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک قطره حباب گشت و یک قطره گهر",
+      "CoupletIndex": 1
+    }
+  ]
+}

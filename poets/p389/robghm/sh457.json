@@ -1,0 +1,57 @@
+{
+  "Id": 30714,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۵۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۵۷",
+  "FullUrl": "/p389/robghm/sh457",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh457",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زد قافله‌سالار، پی کوچ، دهل\r\nتو گرم به خوردن می و چیدن گل\r\nبرخیز و ز آب بگذران بارت را\r\nزان پیش که آب بگذرد از سر پل",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زد قافله‌سالار، پی کوچ، دهل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو گرم به خوردن می و چیدن گل",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برخیز و ز آب بگذران بارت را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زان پیش که آب بگذرد از سر پل",
+      "CoupletIndex": 1
+    }
+  ]
+}

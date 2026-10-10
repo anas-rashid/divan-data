@@ -1,0 +1,57 @@
+{
+  "Id": 28160,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۱۱۷",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۱۱۷",
+  "FullUrl": "/p386/robaeeor/sh117",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh117",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای آهوی فتنه سنبلت را به کمند\r\nدر دام فریبت اهل ایمان در بند\r\nبعد از تو به نزد ماست اسلام عزیز\r\nنازی که ز هم بریزد آن ترک بلند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آهوی فتنه سنبلت را به کمند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دام فریبت اهل ایمان در بند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بعد از تو به نزد ماست اسلام عزیز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نازی که ز هم بریزد آن ترک بلند",
+      "CoupletIndex": 1
+    }
+  ]
+}

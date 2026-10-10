@@ -1,0 +1,42 @@
+{
+  "Id": 26596,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۵۰۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۵۰۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh508",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh508",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از اشک برد راه به کوی تو نظاره\r\nدر بحر کند سیر معلم به ستاره",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از اشک برد راه به کوی تو نظاره",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در بحر کند سیر معلم به ستاره",
+      "CoupletIndex": 0
+    }
+  ]
+}

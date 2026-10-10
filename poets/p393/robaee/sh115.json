@@ -1,0 +1,54 @@
+{
+  "Id": 37287,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۱۵",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۱۵",
+  "FullUrl": "/p393/robaee/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای برده تو را ز هند تا روم طمع\r\nخاصیت عنبر مکن از موم طمع\r\nاقبال هما می‌کنی از بوم طمع\r\nزنهار مدار این همه از شوم طمع",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برده تو را ز هند تا روم طمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خاصیت عنبر مکن از موم طمع",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اقبال هما می‌کنی از بوم طمع",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنهار مدار این همه از شوم طمع",
+      "CoupletIndex": 1
+    }
+  ]
+}

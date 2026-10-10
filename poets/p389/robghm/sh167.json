@@ -1,0 +1,57 @@
+{
+  "Id": 30424,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۶۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۶۷",
+  "FullUrl": "/p389/robghm/sh167",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh167",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شب بی تو مرا به ناله و سوز گذشت\r\nروزم چو شب ای شمع شب‌افروز گذشت\r\nپیوسته به حیرتم ز زلف چو شبت\r\nکش عمر چو آفتاب در روز گذشت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب بی تو مرا به ناله و سوز گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزم چو شب ای شمع شب‌افروز گذشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیوسته به حیرتم ز زلف چو شبت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کش عمر چو آفتاب در روز گذشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

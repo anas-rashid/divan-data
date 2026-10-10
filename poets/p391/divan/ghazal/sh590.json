@@ -1,0 +1,66 @@
+{
+  "Id": 32682,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۵۹۰",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۵۹۰",
+  "FullUrl": "/p391/divan/ghazal/sh590",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh590",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شور خندیدن گل چون به سر جوش آید\r\nیادم از قهقههٔ آن بت می نوش آید\r\nغافل از نالهٔ حیرت زدگانی هیهات\r\nچه فغانها که به گوش از لب خاموش آید\r\nغم درویش نشانید به خاکم چو خدنگ\r\nچون کمان آنکه به صد زور در آغوش آید",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شور خندیدن گل چون به سر جوش آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یادم از قهقههٔ آن بت می نوش آید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غافل از نالهٔ حیرت زدگانی هیهات",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه فغانها که به گوش از لب خاموش آید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غم درویش نشانید به خاکم چو خدنگ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون کمان آنکه به صد زور در آغوش آید",
+      "CoupletIndex": 2
+    }
+  ]
+}

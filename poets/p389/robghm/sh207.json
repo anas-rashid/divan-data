@@ -1,0 +1,57 @@
+{
+  "Id": 30464,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۲۰۷",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۲۰۷",
+  "FullUrl": "/p389/robghm/sh207",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh207",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر فرّ هما، لبم تبسم دارد\r\nاندیشه درین نکته مرا گم دارد\r\nدر سایه مرغی چه گریزم قدسی\r\nکو چشم بر استخوان مردم دارد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر فرّ هما، لبم تبسم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اندیشه درین نکته مرا گم دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سایه مرغی چه گریزم قدسی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کو چشم بر استخوان مردم دارد",
+      "CoupletIndex": 1
+    }
+  ]
+}

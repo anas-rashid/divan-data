@@ -1,0 +1,57 @@
+{
+  "Id": 30759,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۵۰۲",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۵۰۲",
+  "FullUrl": "/p389/robghm/sh502",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh502",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا هست به جا دایره کون و مکان\r\nخالی نبود ز نور حق هیچ زمان\r\nهر روز که خورشید، جهان آراید\r\nخورشید همان است، ولی روز نه آن",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا هست به جا دایره کون و مکان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خالی نبود ز نور حق هیچ زمان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر روز که خورشید، جهان آراید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید همان است، ولی روز نه آن",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31789,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۸۲۲",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۸۲۲",
+  "FullUrl": "/p390/divan/ghazal/sh822",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh822",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ز من مپرس چه از روزگار می‌خواهم\r\nچه چیز دارد، از او وصل یار می‌خواهم\r\nز لاله و گل این باغ، ساده‌لوح‌ترم\r\nکه من طراوت ابر از غبار می‌خواهم\r\nبه جز زیان چه رسد ز آرزوی خویش مرا\r\nگل چراغم و باد بهار می‌خواهم\r\nدرین محیط چنان الفتی‌ست با موجم\r\nکه تا سفینه ز چوب چنار می‌خواهم\r\nمگو سلیم تو از من چه چیز می‌خواهی\r\nوفاست کار من و مزد کار می‌خواهم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز من مپرس چه از روزگار می‌خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه چیز دارد، از او وصل یار می‌خواهم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز لاله و گل این باغ، ساده‌لوح‌ترم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من طراوت ابر از غبار می‌خواهم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به جز زیان چه رسد ز آرزوی خویش مرا",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گل چراغم و باد بهار می‌خواهم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "درین محیط چنان الفتی‌ست با موجم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که تا سفینه ز چوب چنار می‌خواهم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مگو سلیم تو از من چه چیز می‌خواهی",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وفاست کار من و مزد کار می‌خواهم",
+      "CoupletIndex": 4
+    }
+  ]
+}

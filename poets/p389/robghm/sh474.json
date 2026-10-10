@@ -1,0 +1,57 @@
+{
+  "Id": 30731,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۴۷۴",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۴۷۴",
+  "FullUrl": "/p389/robghm/sh474",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh474",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آن شوخ که دل به جلوه او دادم\r\nاز شوخی، داد خانمان بر بادم\r\nعالم همه زو پرست و من زین شادم\r\nکش راهِ برون شد نبود از یادم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن شوخ که دل به جلوه او دادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از شوخی، داد خانمان بر بادم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم همه زو پرست و من زین شادم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کش راهِ برون شد نبود از یادم",
+      "CoupletIndex": 1
+    }
+  ]
+}

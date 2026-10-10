@@ -1,0 +1,57 @@
+{
+  "Id": 27080,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۷۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۷۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh474",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh474",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "سرمه یعقوب را مالیده گرد دامنش\r\nدست برده است از ید بیضا بیاض گردنش\r\nعشق در هر دل که افروزد چراغ دوستی\r\nبرق چون پروانه می گردد به گرد خرمنش",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرمه یعقوب را مالیده گرد دامنش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دست برده است از ید بیضا بیاض گردنش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق در هر دل که افروزد چراغ دوستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برق چون پروانه می گردد به گرد خرمنش",
+      "CoupletIndex": 1
+    }
+  ]
+}

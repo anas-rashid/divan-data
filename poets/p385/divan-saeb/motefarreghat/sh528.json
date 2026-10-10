@@ -1,0 +1,57 @@
+{
+  "Id": 27134,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۲۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۲۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh528",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh528",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در کار عشق سعی چو فرهاد می‌کنم\r\nمشق جنون به خامه فولاد می‌کنم\r\nتا فکر کرده است مرا بر سخن سوار\r\nدر کوه قاف صید پریزاد می‌کنم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در کار عشق سعی چو فرهاد می‌کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مشق جنون به خامه فولاد می‌کنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا فکر کرده است مرا بر سخن سوار",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در کوه قاف صید پریزاد می‌کنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

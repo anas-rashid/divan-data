@@ -1,0 +1,57 @@
+{
+  "Id": 28091,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۸",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۸",
+  "FullUrl": "/p386/robaeeor/sh48",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh48",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عرفی دل ما تا به در عشق گریخت\r\nخون گله با شراب نسیان آمیخت\r\nاین خون نه به تیغ آشنا شد نه به خاک\r\nاین گل نشکفت، از نفس باد بریخت",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عرفی دل ما تا به در عشق گریخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون گله با شراب نسیان آمیخت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "این خون نه به تیغ آشنا شد نه به خاک",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این گل نشکفت، از نفس باد بریخت",
+      "CoupletIndex": 1
+    }
+  ]
+}

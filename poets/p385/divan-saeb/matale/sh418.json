@@ -1,0 +1,42 @@
+{
+  "Id": 26506,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۱۸",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۱۸",
+  "FullUrl": "/p385/divan-saeb/matale/sh418",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh418",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عبیر فتنه به زلف سیاهت ارزانی!\r\nگل شکست به طرف کلاهت ارزانی!",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عبیر فتنه به زلف سیاهت ارزانی!",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل شکست به طرف کلاهت ارزانی!",
+      "CoupletIndex": 0
+    }
+  ]
+}

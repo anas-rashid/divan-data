@@ -1,0 +1,42 @@
+{
+  "Id": 26555,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۴۶۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۴۶۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh467",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh467",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "طرفی ز نهال قد آن شوخ نبستم\r\nدر سایه نخلی که نشاندم ننشستم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طرفی ز نهال قد آن شوخ نبستم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سایه نخلی که نشاندم ننشستم",
+      "CoupletIndex": 0
+    }
+  ]
+}

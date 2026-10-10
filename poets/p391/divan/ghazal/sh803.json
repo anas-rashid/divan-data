@@ -1,0 +1,93 @@
+{
+  "Id": 32895,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۰۳",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۰۳",
+  "FullUrl": "/p391/divan/ghazal/sh803",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh803",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دل از کف رفت بدگو را ز کلفت در وفور زنگ\r\nخورد فولاد را سازد چو ناخن بند مور زنگ\r\nفلک را هست در بالا دوی زینت زمهر و مه\r\nبلی شاطر بلند آوازه می گردد ز شور زنگ\r\nکدورت مرد را آخر زبون خویش می سازد\r\nبپیچد گر بود سرپنجه از فولاد زور رنگ\r\nشود از کینه دل در گرد کلفت عاقبت پنهان\r\nسیه گردد چو بر آیینه زور آرد وفور زنگ\r\nبصد شوخی دلم را برد جویا مصرع گویا\r\nسلیمانی کند در عالم آیینه مور زنگ",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل از کف رفت بدگو را ز کلفت در وفور زنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خورد فولاد را سازد چو ناخن بند مور زنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فلک را هست در بالا دوی زینت زمهر و مه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بلی شاطر بلند آوازه می گردد ز شور زنگ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کدورت مرد را آخر زبون خویش می سازد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بپیچد گر بود سرپنجه از فولاد زور رنگ",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شود از کینه دل در گرد کلفت عاقبت پنهان",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیه گردد چو بر آیینه زور آرد وفور زنگ",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بصد شوخی دلم را برد جویا مصرع گویا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سلیمانی کند در عالم آیینه مور زنگ",
+      "CoupletIndex": 4
+    }
+  ]
+}

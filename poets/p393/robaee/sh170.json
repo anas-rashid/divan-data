@@ -1,0 +1,54 @@
+{
+  "Id": 37342,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۷۰",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۷۰",
+  "FullUrl": "/p393/robaee/sh170",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh170",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای باد صبا اگر وزی بر جانان\r\nباید که بجوی ز دل بنده نشان\r\nاندر خم طره یا شکنج زلفش\r\nهر جا یابی ز من سلامش برسان",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد صبا اگر وزی بر جانان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باید که بجوی ز دل بنده نشان",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اندر خم طره یا شکنج زلفش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر جا یابی ز من سلامش برسان",
+      "CoupletIndex": 1
+    }
+  ]
+}

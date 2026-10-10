@@ -1,0 +1,45 @@
+{
+  "Id": 17771,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۲۴۰",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۲۴۰",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh240",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh240",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شود آسان، دل از جان برگرفتن، در کُهن‌سالی\r\nکه در فصلِ خزان، برگ، از هوا گیرد، جدایی را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شود آسان، دل از جان برگرفتن، در کُهن‌سالی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که در فصلِ خزان، برگ، از هوا گیرد، جدایی را",
+      "CoupletIndex": 0
+    }
+  ]
+}

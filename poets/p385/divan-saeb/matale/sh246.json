@@ -1,0 +1,42 @@
+{
+  "Id": 26334,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۴۶",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۴۶",
+  "FullUrl": "/p385/divan-saeb/matale/sh246",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh246",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صد در صد آفاق، بیابان جنون است\r\nکی عقل تنک مایه به سامان جنون است؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صد در صد آفاق، بیابان جنون است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی عقل تنک مایه به سامان جنون است؟",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 30139,
+  "CatId": 1084,
+  "Title": "شمارهٔ ۳۹۱",
+  "FullTitle": "قدسی مشہدی » غزلیات » شمارهٔ ۳۹۱",
+  "FullUrl": "/p389/ghazalgm/sh391",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/ghazalgm/sh391",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زبان گداختم و راز عشق سر کردم\r\nفتیله را چو فکندم، چراغ برکردم\r\nیکی‌ست چشم و قدم در رهش، وگرنه چرا\r\nشکستم آبله پای و دیده تر کردم؟\r\nغم ندامت مرغ چمن ز من پرسید\r\nکه عمر در سر افغان بی‌اثر کردم\r\nبه دل جفای تو چندان که بیشتر دیدم\r\nبه سینه مهر و وفای تو بیشتر کردم\r\nنظر به روی گل و لاله‌ام دریغ آید\r\nز دیده‌ای که به روی بتان نظر کردم\r\nکباب سوخته قدسی نمی‌دهد خوناب\r\nعلاج خون دل از آتش جگر کردم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زبان گداختم و راز عشق سر کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فتیله را چو فکندم، چراغ برکردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکی‌ست چشم و قدم در رهش، وگرنه چرا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکستم آبله پای و دیده تر کردم؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غم ندامت مرغ چمن ز من پرسید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که عمر در سر افغان بی‌اثر کردم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به دل جفای تو چندان که بیشتر دیدم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به سینه مهر و وفای تو بیشتر کردم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نظر به روی گل و لاله‌ام دریغ آید",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز دیده‌ای که به روی بتان نظر کردم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کباب سوخته قدسی نمی‌دهد خوناب",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "علاج خون دل از آتش جگر کردم",
+      "CoupletIndex": 5
+    }
+  ]
+}

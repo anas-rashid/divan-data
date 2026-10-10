@@ -1,0 +1,69 @@
+{
+  "Id": 27036,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۳۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۳۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh430",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh430",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "مردم ز حد خویش برون پا نهاده‌اند\r\nراه هزار تفرقه بر خود گشاده‌اند\r\nبسته است روزگار جهان را به کار گل\r\nیکسر به فکر باغ و عمارت فتاده‌اند\r\nخواهند عاقبت ز ندامت به سر زدن\r\nدستی که ظالمان به تعدی گشاده‌اند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مردم ز حد خویش برون پا نهاده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راه هزار تفرقه بر خود گشاده‌اند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بسته است روزگار جهان را به کار گل",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکسر به فکر باغ و عمارت فتاده‌اند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خواهند عاقبت ز ندامت به سر زدن",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دستی که ظالمان به تعدی گشاده‌اند",
+      "CoupletIndex": 2
+    }
+  ]
+}

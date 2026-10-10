@@ -1,0 +1,42 @@
+{
+  "Id": 27392,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۵۶",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۵۶",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh56",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh56",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "درین بستانسرا خود را چنان صائب سبک کردم\r\nکه رنگ چهره گل را گران پرواز می بینم",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درین بستانسرا خود را چنان صائب سبک کردم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که رنگ چهره گل را گران پرواز می بینم",
+      "CoupletIndex": 0
+    }
+  ]
+}

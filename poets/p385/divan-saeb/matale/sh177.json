@@ -1,0 +1,42 @@
+{
+  "Id": 26265,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۱۷۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۱۷۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh177",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh177",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عالمی را لعل او مست از شراب ناب کرد\r\nچشمه حیوان همین یک خضر را سیراب کرد",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عالمی را لعل او مست از شراب ناب کرد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چشمه حیوان همین یک خضر را سیراب کرد",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 32413,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۲۱",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۲۱",
+  "FullUrl": "/p391/divan/ghazal/sh321",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh321",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "تا کام خواهش از می بی غش گرفته است\r\nبرگ گلی است لعل تو کآتش گرفته است\r\nشب تا سحر هوازدهٔ آرزوی تست\r\nگر غنچه را دماغ مشوش گرفته است\r\nتا خواهشم به نعمت دیدار دست یافت\r\nصد بوسه زان دو لب به نمک چش گرفته است\r\nتأثیر آه ماست که هر شام از شفق\r\nاطراف دامن فلک آتش گرفته است\r\nچون بگسلم ز یار که جویا دل مرا\r\nبا تارتار طرهٔ دلکش گرفته است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کام خواهش از می بی غش گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برگ گلی است لعل تو کآتش گرفته است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شب تا سحر هوازدهٔ آرزوی تست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر غنچه را دماغ مشوش گرفته است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا خواهشم به نعمت دیدار دست یافت",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صد بوسه زان دو لب به نمک چش گرفته است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تأثیر آه ماست که هر شام از شفق",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اطراف دامن فلک آتش گرفته است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون بگسلم ز یار که جویا دل مرا",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "با تارتار طرهٔ دلکش گرفته است",
+      "CoupletIndex": 4
+    }
+  ]
+}

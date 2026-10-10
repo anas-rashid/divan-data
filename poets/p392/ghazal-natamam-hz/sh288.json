@@ -1,0 +1,57 @@
+{
+  "Id": 34947,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۲۸۸",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۲۸۸",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh288",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh288",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زانوی بی کسی هاست، بالین خستهٔ من\r\nشد مومیایی دل، رنگ شکستهٔ من\r\nپاس ادب به عاشق، نگذاشت اختیاری\r\nکاری نمی گشاید، از دست بستهٔ من",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زانوی بی کسی هاست، بالین خستهٔ من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شد مومیایی دل، رنگ شکستهٔ من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پاس ادب به عاشق، نگذاشت اختیاری",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاری نمی گشاید، از دست بستهٔ من",
+      "CoupletIndex": 1
+    }
+  ]
+}

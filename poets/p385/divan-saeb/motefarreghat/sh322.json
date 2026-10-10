@@ -1,0 +1,57 @@
+{
+  "Id": 26928,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۳۲۲",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۲",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh322",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh322",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر که را می نگری شکوه ز قسمت دارد\r\nجز دل ما که به ناداده قناعت دارد\r\nقد موزون ترا نیست به مشاطه نیاز\r\nمصرع سرو به تقطیع چه حاجت دارد؟",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که را می نگری شکوه ز قسمت دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز دل ما که به ناداده قناعت دارد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قد موزون ترا نیست به مشاطه نیاز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مصرع سرو به تقطیع چه حاجت دارد؟",
+      "CoupletIndex": 1
+    }
+  ]
+}

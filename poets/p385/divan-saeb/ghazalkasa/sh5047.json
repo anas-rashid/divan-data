@@ -1,0 +1,93 @@
+{
+  "Id": 24120,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۵۰۴۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۰۴۷",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh5047",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5047",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هرجا نمی خرند متاعت گران مباش\r\nپرواز گیر و خار و خس آشیان مباش\r\nچون بوی گل ردای سیاحت فکن به دوش\r\nچون سبزه پاشکسته یک بوستان مباش\r\nای شاخ گل به صحبت بلبل سری بکش\r\nبسیار بر رضای دل باغبان مباش\r\nیک حرف بشنو ازمن ودر خلدسیر کن\r\nدرمجلسی که گوش توان شد زبان مباش\r\nصائب که منع می کنداز جلوه یار را؟\r\nخورشید را که گفته که آتش عنان مباش ؟",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرجا نمی خرند متاعت گران مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرواز گیر و خار و خس آشیان مباش",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون بوی گل ردای سیاحت فکن به دوش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون سبزه پاشکسته یک بوستان مباش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای شاخ گل به صحبت بلبل سری بکش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بسیار بر رضای دل باغبان مباش",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یک حرف بشنو ازمن ودر خلدسیر کن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "درمجلسی که گوش توان شد زبان مباش",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "صائب که منع می کنداز جلوه یار را؟",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خورشید را که گفته که آتش عنان مباش ؟",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Id": 18972,
+  "CatId": 1054,
+  "Title": "تک‌بیت شمارهٔ ۱۴۴۱",
+  "FullTitle": "صائب » دیوان اشعار » تک‌بیتهای برگزیده » تک‌بیت شمارهٔ ۱۴۴۱",
+  "FullUrl": "/p385/divan-saeb/takbeit/sh1441",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/takbeit/sh1441",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هست در قبضهٔ تقدیر، گشاد دل تنگ\r\nحل این عقد ز سرپنجهٔ تدبیر مخواه",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هست در قبضهٔ تقدیر، گشاد دل تنگ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حل این عقد ز سرپنجهٔ تدبیر مخواه",
+      "CoupletIndex": 0
+    }
+  ]
+}

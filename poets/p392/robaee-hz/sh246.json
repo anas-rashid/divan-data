@@ -1,0 +1,57 @@
+{
+  "Id": 34641,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۴۶",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۴۶",
+  "FullUrl": "/p392/robaee-hz/sh246",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh246",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای دوست چراغ چشم بیدار تویی\r\nمعشوق تویی، عاشق دیدار تویی\r\nآشوب جهان، فتنهٔ بازار تویی\r\nخود یوسف مصریّ و خریدار تویی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دوست چراغ چشم بیدار تویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "معشوق تویی، عاشق دیدار تویی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشوب جهان، فتنهٔ بازار تویی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود یوسف مصریّ و خریدار تویی",
+      "CoupletIndex": 1
+    }
+  ]
+}

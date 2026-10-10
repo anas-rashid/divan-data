@@ -1,0 +1,57 @@
+{
+  "Id": 34657,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۲۶۲",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۲۶۲",
+  "FullUrl": "/p392/robaee-hz/sh262",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh262",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هر دم ز تو عمر می کَنَد بیخ و بنی\r\nجز وعده به فردا نشناسی سخنی\r\nدیروز تو را که هست فردا، امروز\r\nبنگر که چه کرده ای که فردا نکنی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر دم ز تو عمر می کَنَد بیخ و بنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز وعده به فردا نشناسی سخنی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیروز تو را که هست فردا، امروز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنگر که چه کرده ای که فردا نکنی",
+      "CoupletIndex": 1
+    }
+  ]
+}

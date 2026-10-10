@@ -1,0 +1,54 @@
+{
+  "Id": 34729,
+  "CatId": 1109,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "حزین لاہیجی » غزلیات ناتمام » شمارهٔ ۷۰",
+  "FullUrl": "/p392/ghazal-natamam-hz/sh70",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/ghazal-natamam-hz/sh70",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "غم عشقت خلاص ازرنج دنیا می کند ما را\r\nمذاق تلخ، تلخی ها گوارا می کند ما را\r\nکند آیینه را روشن نظر، خاکستر گلخن\r\nغبار کلفت ایام، بینا می کند ما را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم عشقت خلاص ازرنج دنیا می کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مذاق تلخ، تلخی ها گوارا می کند ما را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کند آیینه را روشن نظر، خاکستر گلخن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "غبار کلفت ایام، بینا می کند ما را",
+      "CoupletIndex": 1
+    }
+  ]
+}

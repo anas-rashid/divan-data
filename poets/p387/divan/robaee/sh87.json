@@ -1,0 +1,57 @@
+{
+  "Id": 28957,
+  "CatId": 1072,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "کلیم » دیوان اشعار » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/p387/divan/robaee/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/kalim/divan/robaee/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بلبل هوس گلبن باغم نکند\r\nپروانه هم آهنگ چراغم نکند\r\nزین گونه که روزگار برگشته ز من\r\nگر آب شوم تشنه سراغم نکند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلبل هوس گلبن باغم نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پروانه هم آهنگ چراغم نکند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین گونه که روزگار برگشته ز من",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر آب شوم تشنه سراغم نکند",
+      "CoupletIndex": 1
+    }
+  ]
+}

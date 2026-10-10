@@ -1,0 +1,57 @@
+{
+  "Id": 30448,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۱۹۱",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۱۹۱",
+  "FullUrl": "/p389/robghm/sh191",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh191",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر کار به رندان قدح‌نوش افتد\r\nدر عذر گنه، دل ز ره هوش افتد\r\nدلگرمی طاعت رود از اشک ریا\r\nاز آب فسرده، دیگ از جوش افتد",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر کار به رندان قدح‌نوش افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در عذر گنه، دل ز ره هوش افتد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلگرمی طاعت رود از اشک ریا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آب فسرده، دیگ از جوش افتد",
+      "CoupletIndex": 1
+    }
+  ]
+}

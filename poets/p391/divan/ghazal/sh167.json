@@ -1,0 +1,93 @@
+{
+  "Id": 32259,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۱۶۷",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۱۶۷",
+  "FullUrl": "/p391/divan/ghazal/sh167",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh167",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "با اشک تا ز دیده به رویم چکیده است\r\nدل عندلیب گلشن رنگ پریده است\r\nدور از خرام سرو تو ماتم سراست باغ\r\nهر لاله بسملی است که در خون تپیده است\r\nآن بیخودی که محرم بزم وصال اوست\r\nبوی گل است یا نفس آرمیده است\r\nدر طالع کسی که بود داغ مهر او\r\nچون صبح از نخست گریبان دریده است\r\nدر چشم آن که واله نیرنگ رنگ نیست\r\nآز از شفق چو دامن در خون کشیده است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با اشک تا ز دیده به رویم چکیده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل عندلیب گلشن رنگ پریده است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دور از خرام سرو تو ماتم سراست باغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر لاله بسملی است که در خون تپیده است",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن بیخودی که محرم بزم وصال اوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بوی گل است یا نفس آرمیده است",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در طالع کسی که بود داغ مهر او",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون صبح از نخست گریبان دریده است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در چشم آن که واله نیرنگ رنگ نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آز از شفق چو دامن در خون کشیده است",
+      "CoupletIndex": 4
+    }
+  ]
+}

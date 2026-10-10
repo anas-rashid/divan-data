@@ -1,0 +1,57 @@
+{
+  "Id": 34573,
+  "CatId": 1108,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "حزین لاہیجی » رباعیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/p392/robaee-hz/sh178",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/hazin/robaee-hz/sh178",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "آسوده تویی چو سرو و سوسن در باغ\r\nمن سوخته ام به هجرت ای چشم و چراغ\r\nداری دلی از فکر اسیران فارغ\r\nدارم ز غم تو داغ دل بر سر داغ",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آسوده تویی چو سرو و سوسن در باغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من سوخته ام به هجرت ای چشم و چراغ",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "داری دلی از فکر اسیران فارغ",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دارم ز غم تو داغ دل بر سر داغ",
+      "CoupletIndex": 1
+    }
+  ]
+}

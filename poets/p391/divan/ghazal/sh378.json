@@ -1,0 +1,54 @@
+{
+  "Id": 32470,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۳۷۸",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۳۷۸",
+  "FullUrl": "/p391/divan/ghazal/sh378",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh378",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرداب بحر عشق مرا آشیانه ای است\r\nهر موج پیش همت مردان کرانه ای است\r\nاز دخل و خرج آمد و رفت نفس ببین\r\nکاین تنگنای جسم عجب کارخانه ای است",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرداب بحر عشق مرا آشیانه ای است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر موج پیش همت مردان کرانه ای است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دخل و خرج آمد و رفت نفس ببین",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاین تنگنای جسم عجب کارخانه ای است",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 32072,
+  "CatId": 1095,
+  "Title": "شمارهٔ ۷۴",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » رباعیات » شمارهٔ ۷۴",
+  "FullUrl": "/p390/divan/robaee/sh74",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/robaee/sh74",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "دستی به چمن دراز بر گل نکنم\r\nتکلیف نوا به هیچ بلبل نکنم\r\nهر گام افتم ز ضعف طالع صدجا\r\nگر تکیه به دیوار توکل نکنم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دستی به چمن دراز بر گل نکنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تکلیف نوا به هیچ بلبل نکنم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر گام افتم ز ضعف طالع صدجا",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر تکیه به دیوار توکل نکنم",
+      "CoupletIndex": 1
+    }
+  ]
+}

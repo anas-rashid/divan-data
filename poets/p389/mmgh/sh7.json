@@ -1,0 +1,57 @@
+{
+  "Id": 30215,
+  "CatId": 1085,
+  "Title": "شمارهٔ ۷",
+  "FullTitle": "قدسی مشہدی » مطالع و متفرقات » شمارهٔ ۷",
+  "FullUrl": "/p389/mmgh/sh7",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/mmgh/sh7",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "همدرد زلیخا شده یعقوب وگرنه\r\nکی این همه مهر است به فرزند، پدر را\r\nچشم از مژه گو در کمرش پنجه مینداز\r\nهرگز نکند شانه کسی موی کمر را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "همدرد زلیخا شده یعقوب وگرنه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی این همه مهر است به فرزند، پدر را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم از مژه گو در کمرش پنجه مینداز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرگز نکند شانه کسی موی کمر را",
+      "CoupletIndex": 1
+    }
+  ]
+}

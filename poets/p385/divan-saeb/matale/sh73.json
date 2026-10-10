@@ -1,0 +1,45 @@
+{
+  "Id": 26161,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۷۳",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۷۳",
+  "FullUrl": "/p385/divan-saeb/matale/sh73",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh73",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نمی‌آیی به بیداری چو در آغوش من شب‌ها\r\nرها کن تا بدزدم بوسه‌ای در خواب از آن لب‌ها",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نمی‌آیی به بیداری چو در آغوش من شب‌ها",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رها کن تا بدزدم بوسه‌ای در خواب از آن لب‌ها",
+      "CoupletIndex": 0
+    }
+  ]
+}

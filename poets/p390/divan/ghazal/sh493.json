@@ -1,0 +1,93 @@
+{
+  "Id": 31460,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۴۹۳",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۴۹۳",
+  "FullUrl": "/p390/divan/ghazal/sh493",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh493",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "هیچ کس یک قطره آبم غیر چشم تر نداد\r\nخواستم گر آتش از همسایه، خاکستر نداد\r\nاعتباری دولت جمشید را پیدا نشد\r\nتاک تا از دودمان خود به او دختر نداد!\r\nکار عشق این است کز دل ها زداید تیرگی\r\nهیچ کس آیینه ی روشن به روشنگر نداد\r\nنسبتی در عاشقی ما را به مرغ بسمل است\r\nتا ز ما صیاد سر نگرفت، ما را سر نداد\r\nاز فلک نتوان به افسون یافت کام دل سلیم\r\nمار هرگز مهره ی خود را به افسونگر نداد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هیچ کس یک قطره آبم غیر چشم تر نداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خواستم گر آتش از همسایه، خاکستر نداد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اعتباری دولت جمشید را پیدا نشد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تاک تا از دودمان خود به او دختر نداد!",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کار عشق این است کز دل ها زداید تیرگی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هیچ کس آیینه ی روشن به روشنگر نداد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نسبتی در عاشقی ما را به مرغ بسمل است",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا ز ما صیاد سر نگرفت، ما را سر نداد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از فلک نتوان به افسون یافت کام دل سلیم",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مار هرگز مهره ی خود را به افسونگر نداد",
+      "CoupletIndex": 4
+    }
+  ]
+}

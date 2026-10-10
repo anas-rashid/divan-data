@@ -1,0 +1,93 @@
+{
+  "Id": 21225,
+  "CatId": 1055,
+  "Title": "غزل شمارهٔ ۲۱۵۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۱۵۲",
+  "FullUrl": "/p385/divan-saeb/ghazalkasa/sh2152",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2152",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گفتار تو شهدی است که جانها مگس اوست\r\nرفتار تو سیلی است که دل خار و خس اوست\r\nهر ناله که از دل ز سر صدق برآید\r\nصبحی است که تسخیر جهان در نفس اوست\r\nنخلی که برآرنده خود را نشناسد\r\nسر پیش فکندن ثمر پیشرس اوست\r\nهر چند که از محمل لیلی اثری نیست\r\nصد بادیه پر شور ز بانگ جرس اوست\r\nبا هر که کسی نیست به جز بیکسی او را\r\nصائب به ادب باش که بی گفت، کس اوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتار تو شهدی است که جانها مگس اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رفتار تو سیلی است که دل خار و خس اوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر ناله که از دل ز سر صدق برآید",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "صبحی است که تسخیر جهان در نفس اوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نخلی که برآرنده خود را نشناسد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سر پیش فکندن ثمر پیشرس اوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر چند که از محمل لیلی اثری نیست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صد بادیه پر شور ز بانگ جرس اوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "با هر که کسی نیست به جز بیکسی او را",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صائب به ادب باش که بی گفت، کس اوست",
+      "CoupletIndex": 4
+    }
+  ]
+}

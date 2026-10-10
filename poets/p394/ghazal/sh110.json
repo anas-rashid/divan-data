@@ -1,0 +1,42 @@
+{
+  "Id": 37495,
+  "CatId": 1126,
+  "Title": "شمارهٔ ۱۱۰",
+  "FullTitle": "غنی کشمیری » غزلیات » شمارهٔ ۱۱۰",
+  "FullUrl": "/p394/ghazal/sh110",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghani/ghazal/sh110",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "اشعار آبدارم تا شد محیط عالم\r\nانداختند در آب یاران سفینه ها را",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اشعار آبدارم تا شد محیط عالم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "انداختند در آب یاران سفینه ها را",
+      "CoupletIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Id": 37311,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۱۳۹",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۱۳۹",
+  "FullUrl": "/p393/robaee/sh139",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh139",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ای باد صبا بیا و بنگر چونم\r\nدریاب که بس غمزده و محزونم\r\nحال دل من که گشته جوجو ز غمش\r\nجوجو برسان به یار گندم‌گونم",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای باد صبا بیا و بنگر چونم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دریاب که بس غمزده و محزونم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حال دل من که گشته جوجو ز غمش",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جوجو برسان به یار گندم‌گونم",
+      "CoupletIndex": 1
+    }
+  ]
+}

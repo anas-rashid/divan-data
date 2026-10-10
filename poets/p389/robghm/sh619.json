@@ -1,0 +1,57 @@
+{
+  "Id": 30876,
+  "CatId": 1086,
+  "Title": "شمارهٔ ۶۱۹",
+  "FullTitle": "قدسی مشہدی » رباعیات » شمارهٔ ۶۱۹",
+  "FullUrl": "/p389/robghm/sh619",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/ghodsi/robghm/sh619",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر بتوانی، به نفس خود کن جدلی\r\nسلطانی راست فقر، نعم‌البدلی\r\nزین هستی موهوم خرابی، ور نه\r\nویرانه نیستی ندارد خللی",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر بتوانی، به نفس خود کن جدلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سلطانی راست فقر، نعم‌البدلی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زین هستی موهوم خرابی، ور نه",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ویرانه نیستی ندارد خللی",
+      "CoupletIndex": 1
+    }
+  ]
+}

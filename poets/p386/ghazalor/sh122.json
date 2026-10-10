@@ -1,0 +1,93 @@
+{
+  "Id": 27530,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۲۲",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۲۲",
+  "FullUrl": "/p386/ghazalor/sh122",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh122",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گر شوم صد سال محروم از نگاه روی دوست\r\nدیده نگشایم مگر وقتی که آیم سوی دوست\r\nتا قیامت هر سر مویم جدا در خون تپد\r\nگر به آرامم نباشد رخصت از سرکوی دوست\r\nای مسیحا زانو از لطفم به زیر سر منه\r\nعهد این شوریده سر مشکن به خشت کوی دوست\r\nاز کمال خرمی عاشق نگنجد در کفن\r\nگر نسیمی آید و گوید که دارم بوی دوست\r\nکس نمی پیچد ز عرض مهر عرفی، منع بس\r\nمن ز دل پرسیده ام ، او می شناسد خوی دوست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر شوم صد سال محروم از نگاه روی دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دیده نگشایم مگر وقتی که آیم سوی دوست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا قیامت هر سر مویم جدا در خون تپد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گر به آرامم نباشد رخصت از سرکوی دوست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای مسیحا زانو از لطفم به زیر سر منه",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عهد این شوریده سر مشکن به خشت کوی دوست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از کمال خرمی عاشق نگنجد در کفن",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر نسیمی آید و گوید که دارم بوی دوست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کس نمی پیچد ز عرض مهر عرفی، منع بس",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "من ز دل پرسیده ام ، او می شناسد خوی دوست",
+      "CoupletIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 27389,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۵۳",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۵۳",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh53",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh53",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نفس در سینه باد خزان می سوخت نومیدی\r\nچراغ گل اگر می بود در زیر پر بلبل",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نفس در سینه باد خزان می سوخت نومیدی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چراغ گل اگر می بود در زیر پر بلبل",
+      "CoupletIndex": 0
+    }
+  ]
+}

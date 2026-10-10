@@ -1,0 +1,42 @@
+{
+  "Id": 27360,
+  "CatId": 1060,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "صائب » دیوان اشعار » ابیات منتسب » شمارهٔ ۲۴",
+  "FullUrl": "/p385/divan-saeb/mansoobat/sh24",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/mansoobat/sh24",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "موجی است که تاج از سر فغفور رباید\r\nچینی که در ابروی تو ای تلخ جبین است",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "موجی است که تاج از سر فغفور رباید",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چینی که در ابروی تو ای تلخ جبین است",
+      "CoupletIndex": 0
+    }
+  ]
+}

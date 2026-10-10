@@ -1,0 +1,57 @@
+{
+  "Id": 28046,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۳",
+  "FullUrl": "/p386/robaeeor/sh3",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh3",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "چندان که شدم ز بیخودی مست دعا\r\nتیری نزدم بر هدف از شست دعا\r\nباشم ز دعا مانع و از شوق طلب\r\nوقت است که پر درآورد دست دعا",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندان که شدم ز بیخودی مست دعا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تیری نزدم بر هدف از شست دعا",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باشم ز دعا مانع و از شوق طلب",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وقت است که پر درآورد دست دعا",
+      "CoupletIndex": 1
+    }
+  ]
+}

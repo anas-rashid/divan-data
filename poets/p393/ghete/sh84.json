@@ -1,0 +1,54 @@
+{
+  "Id": 36564,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۸۴",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۸۴",
+  "FullUrl": "/p393/ghete/sh84",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh84",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نپرسیدی تو را پرسیدنی داشت\r\nندیدی حال زارم دیدنی داشت\r\nتمام عمر در بازیچه بودی\r\nگهی در غیر هم رنجیدنی داشت",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نپرسیدی تو را پرسیدنی داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ندیدی حال زارم دیدنی داشت",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تمام عمر در بازیچه بودی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گهی در غیر هم رنجیدنی داشت",
+      "CoupletIndex": 1
+    }
+  ]
+}

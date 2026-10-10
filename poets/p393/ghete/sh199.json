@@ -1,0 +1,54 @@
+{
+  "Id": 36679,
+  "CatId": 1122,
+  "Title": "شمارهٔ ۱۹۹",
+  "FullTitle": "واقف لاہوری » قطعات » شمارهٔ ۱۹۹",
+  "FullUrl": "/p393/ghete/sh199",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/ghete/sh199",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نیست در عالم غریبی همچون من\r\nدردمندی بی‌طبیبی همچو من\r\nای فلک گرد جهان گردیده‌ای\r\nدیده‌ای حسرت نصیبی همچو من",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نیست در عالم غریبی همچون من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردمندی بی‌طبیبی همچو من",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای فلک گرد جهان گردیده‌ای",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیده‌ای حسرت نصیبی همچو من",
+      "CoupletIndex": 1
+    }
+  ]
+}

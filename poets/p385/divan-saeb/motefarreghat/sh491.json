@@ -1,0 +1,57 @@
+{
+  "Id": 27097,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۴۹۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۴۹۱",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh491",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh491",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 8,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گرچه زنگ خاطر تن پروران چون روزه ام\r\nصیقل آیینه روحانیان چون روزه ام\r\nبا گرانقدری سبک در دیده هایم چون نماز\r\nبا سبکروحی به خاطرها گران چون روزه ام",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گرچه زنگ خاطر تن پروران چون روزه ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صیقل آیینه روحانیان چون روزه ام",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با گرانقدری سبک در دیده هایم چون نماز",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "با سبکروحی به خاطرها گران چون روزه ام",
+      "CoupletIndex": 1
+    }
+  ]
+}

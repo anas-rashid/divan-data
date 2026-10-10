@@ -1,0 +1,57 @@
+{
+  "Id": 28086,
+  "CatId": 1064,
+  "Title": "رباعی شمارهٔ ۴۳",
+  "FullTitle": "عرفی » رباعیها » رباعی شمارهٔ ۴۳",
+  "FullUrl": "/p386/robaeeor/sh43",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/robaeeor/sh43",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "در باغم و دل شکارگاه شیراست\r\nنگشوده نظر دل از تماشا سیر است\r\nچون دیده گشایم که چمن بیگانه ست\r\nچون سینه گشایم که هوا شمشیر است",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در باغم و دل شکارگاه شیراست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نگشوده نظر دل از تماشا سیر است",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون دیده گشایم که چمن بیگانه ست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون سینه گشایم که هوا شمشیر است",
+      "CoupletIndex": 1
+    }
+  ]
+}

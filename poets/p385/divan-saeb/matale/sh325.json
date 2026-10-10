@@ -1,0 +1,42 @@
+{
+  "Id": 26413,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۲۵",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۲۵",
+  "FullUrl": "/p385/divan-saeb/matale/sh325",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh325",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "از باده چون عقیق تو سیراب می شود\r\nگوهر در آب خود چو شکر آب می شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از باده چون عقیق تو سیراب می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوهر در آب خود چو شکر آب می شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

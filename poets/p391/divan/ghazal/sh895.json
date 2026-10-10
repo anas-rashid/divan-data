@@ -1,0 +1,81 @@
+{
+  "Id": 32987,
+  "CatId": 1098,
+  "Title": "شمارهٔ ۸۹۵",
+  "FullTitle": "جویای تبریزی » دیوان اشعار » غزلیات » شمارهٔ ۸۹۵",
+  "FullUrl": "/p391/divan/ghazal/sh895",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/jooya/divan/ghazal/sh895",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گلگشت چارباغ برو دوش کرده ایم\r\nسیر بهار گلشن آغوش کرده ایم\r\nتا بر رخت چو آینه بگشوده ایم چشم\r\nدر خاطر آنچه بود فراموش کرده ایم\r\nجز گوش دل به داد اسیران که می رسد؟\r\nاظهار شکوه با لب خاموش کرده ایم\r\nدر سر همیشه جوش زند بادهٔ هوس\r\nخود را خراب ساغر سرجوش کرده ایم",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلگشت چارباغ برو دوش کرده ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سیر بهار گلشن آغوش کرده ایم",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا بر رخت چو آینه بگشوده ایم چشم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در خاطر آنچه بود فراموش کرده ایم",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جز گوش دل به داد اسیران که می رسد؟",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اظهار شکوه با لب خاموش کرده ایم",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در سر همیشه جوش زند بادهٔ هوس",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خود را خراب ساغر سرجوش کرده ایم",
+      "CoupletIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 36780,
+  "CatId": 1123,
+  "Title": "شمارهٔ ۷۱",
+  "FullTitle": "واقف لاہوری » اشعار متفرقه » شمارهٔ ۷۱",
+  "FullUrl": "/p393/mot/sh71",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/mot/sh71",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "شمشاد چون قد تو سرافراز برنخاست\r\nبرخاست سرو لیک به این ناز برنخاست",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شمشاد چون قد تو سرافراز برنخاست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "برخاست سرو لیک به این ناز برنخاست",
+      "CoupletIndex": 0
+    }
+  ]
+}

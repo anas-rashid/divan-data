@@ -1,0 +1,54 @@
+{
+  "Id": 31979,
+  "CatId": 1093,
+  "Title": "شمارهٔ ۴۱",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » قطعات » شمارهٔ ۴۱",
+  "FullUrl": "/p390/divan/ghete/sh41",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghete/sh41",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کار با جمعی مرا افتاده در بحث سخن\r\nبی سر و پا جمله همچون ساکنان بادیه\r\nهرزه گویی چند همچون سرخوشان انجمن\r\nمرده رنگی چند همچون تشنگان بادیه",
+      "HtmlText": null,
+      "PoemFormat": "Ghete",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کار با جمعی مرا افتاده در بحث سخن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی سر و پا جمله همچون ساکنان بادیه",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرزه گویی چند همچون سرخوشان انجمن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرده رنگی چند همچون تشنگان بادیه",
+      "CoupletIndex": 1
+    }
+  ]
+}

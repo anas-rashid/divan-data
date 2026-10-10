@@ -1,0 +1,57 @@
+{
+  "Id": 37669,
+  "CatId": 1129,
+  "Title": "شمارهٔ ۱۵۵",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » رباعیات » شمارهٔ ۱۵۵",
+  "FullUrl": "/p395/divan-masood/robaeemss/sh155",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/masood/divan-masood/robaeemss/sh155",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "صالح تن من ز عشق دامن بفشاند\r\nتا مرگ قضای خویشتن بر تو براند\r\nدل تخته درد و ناامیدی برخواند\r\nشادی و غمم تو بودی و هر دو نماند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صالح تن من ز عشق دامن بفشاند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا مرگ قضای خویشتن بر تو براند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل تخته درد و ناامیدی برخواند",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شادی و غمم تو بودی و هر دو نماند",
+      "CoupletIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Id": 31332,
+  "CatId": 1091,
+  "Title": "شمارهٔ ۳۶۵",
+  "FullTitle": "سلیم تہرانی » دیوان اشعار » غزلیات » شمارهٔ ۳۶۵",
+  "FullUrl": "/p390/divan/ghazal/sh365",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/salim/divan/ghazal/sh365",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وجودم را غم عشق تو ای بی‌باک می‌سوزد\r\nکجا این را توان گفتن کز آتش خاک می‌سوزد\r\nمیی در ساغر دل دارم از شوق سیه‌مستی\r\nکه موج از گرمی آن چون خس و خاشاک می‌سوزد\r\nحدیث خوبی او از من حیران چه می‌پرسی\r\nکه برق حسن خوبان خرمن ادراک می‌سوزد\r\nقدمگاه قدح‌نوشان سرمست است، ازان دایم\r\nچراغ لاله در شب‌ها به پای تاک می‌سوزد\r\nبه زیر لب سلیم افغان خود را می‌کنم پنهان\r\nکه این آتش اگر گردد بلند، افلاک می‌سوزد",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وجودم را غم عشق تو ای بی‌باک می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کجا این را توان گفتن کز آتش خاک می‌سوزد",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میی در ساغر دل دارم از شوق سیه‌مستی",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که موج از گرمی آن چون خس و خاشاک می‌سوزد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حدیث خوبی او از من حیران چه می‌پرسی",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که برق حسن خوبان خرمن ادراک می‌سوزد",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "قدمگاه قدح‌نوشان سرمست است، ازان دایم",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چراغ لاله در شب‌ها به پای تاک می‌سوزد",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به زیر لب سلیم افغان خود را می‌کنم پنهان",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که این آتش اگر گردد بلند، افلاک می‌سوزد",
+      "CoupletIndex": 4
+    }
+  ]
+}

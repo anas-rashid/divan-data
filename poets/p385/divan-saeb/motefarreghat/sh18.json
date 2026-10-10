@@ -1,0 +1,69 @@
+{
+  "Id": 26624,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۱۸",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۱۸",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh18",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh18",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "به خودسازی بدل کن ای سیه دل خانه سازی را\r\nکه جز گرد کدورت نیست حاصل خاکبازی را\r\nهدف از تیر باران سینه پر رخنه ای دارد\r\nخطر بسیار باشد در کمین گردن فرازی را\r\nمرا با حسن روزافزون او عیشی است بی پایان\r\nکه در هر دیدنی می گیرم از سر عشقبازی را",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به خودسازی بدل کن ای سیه دل خانه سازی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که جز گرد کدورت نیست حاصل خاکبازی را",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هدف از تیر باران سینه پر رخنه ای دارد",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خطر بسیار باشد در کمین گردن فرازی را",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مرا با حسن روزافزون او عیشی است بی پایان",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که در هر دیدنی می گیرم از سر عشقبازی را",
+      "CoupletIndex": 2
+    }
+  ]
+}

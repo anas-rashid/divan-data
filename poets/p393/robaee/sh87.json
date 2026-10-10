@@ -1,0 +1,54 @@
+{
+  "Id": 37259,
+  "CatId": 1124,
+  "Title": "شمارهٔ ۸۷",
+  "FullTitle": "واقف لاہوری » رباعیات » شمارهٔ ۸۷",
+  "FullUrl": "/p393/robaee/sh87",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/robaee/sh87",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "زین کهنه‌قفس جمله اسیران رفتند\r\nاین غمکده را ساخته ویران رفتند\r\nای مرغ دل من که تو ماندی تنها\r\nخاموش نشین که هم صفیران رفتند",
+      "HtmlText": null,
+      "PoemFormat": "Robaee",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین کهنه‌قفس جمله اسیران رفتند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این غمکده را ساخته ویران رفتند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مرغ دل من که تو ماندی تنها",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خاموش نشین که هم صفیران رفتند",
+      "CoupletIndex": 1
+    }
+  ]
+}

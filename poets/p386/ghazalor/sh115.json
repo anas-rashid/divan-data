@@ -1,0 +1,105 @@
+{
+  "Id": 27523,
+  "CatId": 1062,
+  "Title": "غزل شمارهٔ ۱۱۵",
+  "FullTitle": "عرفی » غزلیات » غزل شمارهٔ ۱۱۵",
+  "FullUrl": "/p386/ghazalor/sh115",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/orfi/ghazalor/sh115",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "وای که مستانه یار، جعد پریشان شکست\r\nساغر لب ریز کفر بر سر ایمان شکست\r\nچون گل رخسار او، زآتش می برفروخت\r\nشمع شبستان گداخت، رنگ گلستان شکست\r\nچون به ازل حسن دوست، خون ملاحت کشید\r\nدر دهن زخم ما، عشق نمکدان شکست\r\nبس که به عالم نماند، عافیت از عشق تو\r\nهمت آزادگان، قدر شهیدان شکست\r\nچاشنی داغ دل، روزی هر کام نیست\r\nور نه لب نان عشق، گبر و مسلمان شکست\r\nهمت عرفی به بزم، خوان محبت کشید\r\nذوق نعیم بهشت، در ته دندان شکست",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وای که مستانه یار، جعد پریشان شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساغر لب ریز کفر بر سر ایمان شکست",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون گل رخسار او، زآتش می برفروخت",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمع شبستان گداخت، رنگ گلستان شکست",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون به ازل حسن دوست، خون ملاحت کشید",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در دهن زخم ما، عشق نمکدان شکست",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بس که به عالم نماند، عافیت از عشق تو",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همت آزادگان، قدر شهیدان شکست",
+      "CoupletIndex": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چاشنی داغ دل، روزی هر کام نیست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ور نه لب نان عشق، گبر و مسلمان شکست",
+      "CoupletIndex": 4
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "همت عرفی به بزم، خوان محبت کشید",
+      "CoupletIndex": 5
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ذوق نعیم بهشت، در ته دندان شکست",
+      "CoupletIndex": 5
+    }
+  ]
+}

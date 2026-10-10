@@ -1,0 +1,57 @@
+{
+  "Id": 27200,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۵۹۴",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۵۹۴",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh594",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh594",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "نهشت شرم رخ از گوشه نقاب نمایی\r\nنشد که گوشه کاری به آفتاب نمایی\r\nهوا چو ابر شود شیشه را به جلوه درآور\r\nمباد دختر رز را به آفتاب نمایی",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نهشت شرم رخ از گوشه نقاب نمایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشد که گوشه کاری به آفتاب نمایی",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هوا چو ابر شود شیشه را به جلوه درآور",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مباد دختر رز را به آفتاب نمایی",
+      "CoupletIndex": 1
+    }
+  ]
+}

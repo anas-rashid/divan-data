@@ -1,0 +1,42 @@
+{
+  "Id": 26295,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۲۰۷",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۲۰۷",
+  "FullUrl": "/p385/divan-saeb/matale/sh207",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh207",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "عمر اهل دولت از احسان دو چندان می شود\r\nرشته هستی دو تا از مد احسان می شود",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عمر اهل دولت از احسان دو چندان می شود",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رشته هستی دو تا از مد احسان می شود",
+      "CoupletIndex": 0
+    }
+  ]
+}

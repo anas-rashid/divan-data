@@ -1,0 +1,57 @@
+{
+  "Id": 26826,
+  "CatId": 1058,
+  "Title": "شمارهٔ ۲۲۰",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۲۲۰",
+  "FullUrl": "/p385/divan-saeb/motefarreghat/sh220",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh220",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "گه لب لعلش دهد دشنام و گه تحسین کند\r\nهر نفس خود را به رنگی در دلم شیرین کند\r\nدانی از خارا بریدن مطلب فرهاد چیست؟\r\nمی کند مشقی که چون جا در دل شیرین کند",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه لب لعلش دهد دشنام و گه تحسین کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر نفس خود را به رنگی در دلم شیرین کند",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دانی از خارا بریدن مطلب فرهاد چیست؟",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می کند مشقی که چون جا در دل شیرین کند",
+      "CoupletIndex": 1
+    }
+  ]
+}

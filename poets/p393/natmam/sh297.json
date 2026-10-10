@@ -1,0 +1,66 @@
+{
+  "Id": 36448,
+  "CatId": 1121,
+  "Title": "شمارهٔ ۲۹۷",
+  "FullTitle": "واقف لاہوری » غزلیات ناتمام » شمارهٔ ۲۹۷",
+  "FullUrl": "/p393/natmam/sh297",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/waqif/natmam/sh297",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "ساقی خدای را بر من وصف باده کن\r\nمن مستفیدم و تو مفیدی افاده کن\r\nناصح دلم به جای دگر بود این زمان\r\nمن گفتهٔ تو را نشنیدم اعاده کن\r\nهرچند از عتاب تو سیری نمی‌شود\r\nلطفی که می‌کنی به من اندک زیاده کن",
+      "HtmlText": null,
+      "PoemFormat": "Ghazal",
+      "Language": "fa-IR",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی خدای را بر من وصف باده کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من مستفیدم و تو مفیدی افاده کن",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناصح دلم به جای دگر بود این زمان",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من گفتهٔ تو را نشنیدم اعاده کن",
+      "CoupletIndex": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هرچند از عتاب تو سیری نمی‌شود",
+      "CoupletIndex": 2
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لطفی که می‌کنی به من اندک زیاده کن",
+      "CoupletIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Id": 26442,
+  "CatId": 1057,
+  "Title": "شمارهٔ ۳۵۴",
+  "FullTitle": "صائب » دیوان اشعار » مطالع » شمارهٔ ۳۵۴",
+  "FullUrl": "/p385/divan-saeb/matale/sh354",
+  "RhymeLetters": null,
+  "SourceName": "گنجور",
+  "SourceUrlSlug": "ganjoor",
+  "SourceUrl": "https://ganjoor.net/saeb/divan-saeb/matale/sh354",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "بر دل موری درین عبرت سرا غافل مخور\r\nدل بخور چندان که می خواهی، ولی بر دل مخور",
+      "HtmlText": null,
+      "PoemFormat": "Generic",
+      "Language": "fa-IR",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر دل موری درین عبرت سرا غافل مخور",
+      "CoupletIndex": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل بخور چندان که می خواهی، ولی بر دل مخور",
+      "CoupletIndex": 0
+    }
+  ]
+}
