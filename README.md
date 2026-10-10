@@ -68,6 +68,7 @@ at the commit pinned in `ganjoor.json`: Muhammad Iqbal, Mirza Ghalib and Amir Kh
 only those poets and `export_divan.py` adds a «فارسی» section under each of them (`poets/<poet>/farsi/`). Every poem
 keeps its link to ganjoor.net (`SourceUrl`), its metre, and Ganjoor's text; Ganjoor's AI-written summaries are left out.
 These texts are Ganjoor's: credit *"Ganjoor (ganjoor.net)"* when reusing them.
+Divan is an independent project: it is not an official Ganjoor app, and it is not affiliated with or endorsed by Ganjoor.
 
 ## License
 
