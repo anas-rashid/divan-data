@@ -54,9 +54,11 @@ It also loads directly into [GanjoorService](https://github.com/ganjoor/GanjoorS
 
 ## How it is built
 
-The scripts here, and the Divan site that publishes this data, are built by Muhammad Anas Rashid with the help of AI
-agents and coding tools. The texts are not AI-generated: they come from Urdu Wikisource and Wikipedia, and Divan's
-own versions are written and reviewed by its human moderators.
+- **The content** of this repository is maintained by people, not AI: the texts come from Urdu Wikisource and
+  Wikipedia contributors, and Divan's own versions, arrangements, tags and e-book records (`divan/`) are written and
+  reviewed by Divan's human moderators.
+- **The code** (the scripts here, and the [Divan site and services](https://github.com/anas-rashid/divan)) is
+  maintained by Muhammad Anas Rashid with the help of AI agents and coding tools; every change is reviewed by him.
 
 ## License
 
