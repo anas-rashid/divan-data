@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.616Z"
+  },
   "Id": 6628,
   "CatId": 641,
   "Title": "ایک پہاڑ اور گلہری",
@@ -18,180 +23,196 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "کوئی پہاڑ یہ کہتا تھا اک گلہری سے\r\nتجھے ہو شرم تو پانی میں جا کے ڈوب مرے\r\nذرا سی چیز ہے، اس پر غرور، کیا کہنا\r\nیہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!\r\nخدا کی شان ہے ناچیز چیز بن بیٹھیں\r\nجو بے شعور ہوں یوں باتمیز بن بیٹھیں\r\nتری بساط ہے کیا میری شان کے آگے\r\nزمیں ہے پست مری آن بان کے آگے\r\nجو بات مجھ میں ہے، تجھ کو وہ ہے نصیب کہاں\r\nبھلا پہاڑ کہاں، جانور غریب کہاں!\r\nکہا یہ سُن کے گلہری نے، مُنہ سنبھال ذرا\r\nیہ کچّی باتیں ہیں دل سے انھیں نکال ذرا\r\nجو مَیں بڑی نہیں تیری طرح تو کیا پروا\r\nنہیں ہے تُو بھی تو آخر مری طرح چھوٹا\r\nہر ایک چیز سے پیدا خدا کی قدرت ہے\r\nکوئی بڑا، کوئی چھوٹا، یہ اُس کی حکمت ہے\r\nبڑا جہان میں تجھ کو بنا دیا اُس نے\r\nمجھے درخت پہ چڑھنا سِکھا دیا اُس نے\r\nقدم اُٹھانے کی طاقت نہیں ذرا تجھ میں\r\nنِری بڑائی ہے، خوبی ہے اور کیا تجھ میں\r\nجو تُو بڑا ہے تو مجھ سا ہُنر دِکھا مجھ کو\r\nیہ چھالیا ہی ذرا توڑ کر دِکھا مجھ کو\r\nنہیں ہے چیز نِکمّی کوئی زمانے میں\r\nکوئی بُرا نہیں قُدرت کے کارخانے میں",
+      "PlainText": "(ماخوذ از ایمرسن)\r\nبچوں کے لیے\r\nکوئی پہاڑ یہ کہتا تھا اک گلہری سے\r\nتجھے ہو شرم تو پانی میں جا کے ڈوب مرے\r\nذرا سی چیز ہے، اس پر غرور، کیا کہنا\r\nیہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!\r\nخدا کی شان ہے ناچیز چیز بن بیٹھیں\r\nجو بے شعور ہوں یوں باتمیز بن بیٹھیں\r\nتری بساط ہے کیا میری شان کے آگے\r\nزمیں ہے پست مری آن بان کے آگے\r\nجو بات مجھ میں ہے، تجھ کو وہ ہے نصیب کہاں\r\nبھلا پہاڑ کہاں، جانور غریب کہاں!\r\nکہا یہ سُن کے گلہری نے، مُنہ سنبھال ذرا\r\nیہ کچّی باتیں ہیں دل سے انھیں نکال ذرا\r\nجو مَیں بڑی نہیں تیری طرح تو کیا پروا\r\nنہیں ہے تُو بھی تو آخر مری طرح چھوٹا\r\nہر ایک چیز سے پیدا خدا کی قدرت ہے\r\nکوئی بڑا، کوئی چھوٹا، یہ اُس کی حکمت ہے\r\nبڑا جہان میں تجھ کو بنا دیا اُس نے\r\nمجھے درخت پہ چڑھنا سِکھا دیا اُس نے\r\nقدم اُٹھانے کی طاقت نہیں ذرا تجھ میں\r\nنِری بڑائی ہے، خوبی ہے اور کیا تجھ میں\r\nجو تُو بڑا ہے تو مجھ سا ہُنر دِکھا مجھ کو\r\nیہ چھالیا ہی ذرا توڑ کر دِکھا مجھ کو\r\nنہیں ہے چیز نِکمّی کوئی زمانے میں\r\nکوئی بُرا نہیں قُدرت کے کارخانے میں",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 12
+      "CoupletsCount": 14
     }
   ],
   "Verses": [
     {
       "VOrder": 1,
-      "Position": "Right",
-      "Text": "کوئی پہاڑ یہ کہتا تھا اک گلہری سے",
+      "Position": "Heading",
+      "Text": "(ماخوذ از ایمرسن)",
       "CoupletIndex": 0,
+      "Level": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 2,
-      "Position": "Left",
-      "Text": "تجھے ہو شرم تو پانی میں جا کے ڈوب مرے",
-      "CoupletIndex": 0,
+      "Position": "Heading",
+      "Text": "بچوں کے لیے",
+      "CoupletIndex": 1,
+      "Level": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "ذرا سی چیز ہے، اس پر غرور، کیا کہنا",
-      "CoupletIndex": 1,
+      "Text": "کوئی پہاڑ یہ کہتا تھا اک گلہری سے",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "یہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!",
-      "CoupletIndex": 1,
+      "Text": "تجھے ہو شرم تو پانی میں جا کے ڈوب مرے",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 5,
       "Position": "Right",
-      "Text": "خدا کی شان ہے ناچیز چیز بن بیٹھیں",
-      "CoupletIndex": 2,
+      "Text": "ذرا سی چیز ہے، اس پر غرور، کیا کہنا",
+      "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 6,
       "Position": "Left",
-      "Text": "جو بے شعور ہوں یوں باتمیز بن بیٹھیں",
-      "CoupletIndex": 2,
+      "Text": "یہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!",
+      "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 7,
       "Position": "Right",
-      "Text": "تری بساط ہے کیا میری شان کے آگے",
-      "CoupletIndex": 3,
+      "Text": "خدا کی شان ہے ناچیز چیز بن بیٹھیں",
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 8,
       "Position": "Left",
-      "Text": "زمیں ہے پست مری آن بان کے آگے",
-      "CoupletIndex": 3,
+      "Text": "جو بے شعور ہوں یوں باتمیز بن بیٹھیں",
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 9,
       "Position": "Right",
-      "Text": "جو بات مجھ میں ہے، تجھ کو وہ ہے نصیب کہاں",
-      "CoupletIndex": 4,
+      "Text": "تری بساط ہے کیا میری شان کے آگے",
+      "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 10,
       "Position": "Left",
-      "Text": "بھلا پہاڑ کہاں، جانور غریب کہاں!",
-      "CoupletIndex": 4,
+      "Text": "زمیں ہے پست مری آن بان کے آگے",
+      "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 11,
       "Position": "Right",
-      "Text": "کہا یہ سُن کے گلہری نے، مُنہ سنبھال ذرا",
-      "CoupletIndex": 5,
+      "Text": "جو بات مجھ میں ہے، تجھ کو وہ ہے نصیب کہاں",
+      "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 12,
       "Position": "Left",
-      "Text": "یہ کچّی باتیں ہیں دل سے انھیں نکال ذرا",
-      "CoupletIndex": 5,
+      "Text": "بھلا پہاڑ کہاں، جانور غریب کہاں!",
+      "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 13,
       "Position": "Right",
-      "Text": "جو مَیں بڑی نہیں تیری طرح تو کیا پروا",
-      "CoupletIndex": 6,
+      "Text": "کہا یہ سُن کے گلہری نے، مُنہ سنبھال ذرا",
+      "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 14,
       "Position": "Left",
-      "Text": "نہیں ہے تُو بھی تو آخر مری طرح چھوٹا",
-      "CoupletIndex": 6,
+      "Text": "یہ کچّی باتیں ہیں دل سے انھیں نکال ذرا",
+      "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 15,
       "Position": "Right",
-      "Text": "ہر ایک چیز سے پیدا خدا کی قدرت ہے",
-      "CoupletIndex": 7,
+      "Text": "جو مَیں بڑی نہیں تیری طرح تو کیا پروا",
+      "CoupletIndex": 8,
       "SectionIndex1": 0
     },
     {
       "VOrder": 16,
       "Position": "Left",
-      "Text": "کوئی بڑا، کوئی چھوٹا، یہ اُس کی حکمت ہے",
-      "CoupletIndex": 7,
+      "Text": "نہیں ہے تُو بھی تو آخر مری طرح چھوٹا",
+      "CoupletIndex": 8,
       "SectionIndex1": 0
     },
     {
       "VOrder": 17,
       "Position": "Right",
-      "Text": "بڑا جہان میں تجھ کو بنا دیا اُس نے",
-      "CoupletIndex": 8,
+      "Text": "ہر ایک چیز سے پیدا خدا کی قدرت ہے",
+      "CoupletIndex": 9,
       "SectionIndex1": 0
     },
     {
       "VOrder": 18,
       "Position": "Left",
-      "Text": "مجھے درخت پہ چڑھنا سِکھا دیا اُس نے",
-      "CoupletIndex": 8,
+      "Text": "کوئی بڑا، کوئی چھوٹا، یہ اُس کی حکمت ہے",
+      "CoupletIndex": 9,
       "SectionIndex1": 0
     },
     {
       "VOrder": 19,
       "Position": "Right",
-      "Text": "قدم اُٹھانے کی طاقت نہیں ذرا تجھ میں",
-      "CoupletIndex": 9,
+      "Text": "بڑا جہان میں تجھ کو بنا دیا اُس نے",
+      "CoupletIndex": 10,
       "SectionIndex1": 0
     },
     {
       "VOrder": 20,
       "Position": "Left",
-      "Text": "نِری بڑائی ہے، خوبی ہے اور کیا تجھ میں",
-      "CoupletIndex": 9,
+      "Text": "مجھے درخت پہ چڑھنا سِکھا دیا اُس نے",
+      "CoupletIndex": 10,
       "SectionIndex1": 0
     },
     {
       "VOrder": 21,
       "Position": "Right",
-      "Text": "جو تُو بڑا ہے تو مجھ سا ہُنر دِکھا مجھ کو",
-      "CoupletIndex": 10,
+      "Text": "قدم اُٹھانے کی طاقت نہیں ذرا تجھ میں",
+      "CoupletIndex": 11,
       "SectionIndex1": 0
     },
     {
       "VOrder": 22,
       "Position": "Left",
-      "Text": "یہ چھالیا ہی ذرا توڑ کر دِکھا مجھ کو",
-      "CoupletIndex": 10,
+      "Text": "نِری بڑائی ہے، خوبی ہے اور کیا تجھ میں",
+      "CoupletIndex": 11,
       "SectionIndex1": 0
     },
     {
       "VOrder": 23,
       "Position": "Right",
-      "Text": "نہیں ہے چیز نِکمّی کوئی زمانے میں",
-      "CoupletIndex": 11,
+      "Text": "جو تُو بڑا ہے تو مجھ سا ہُنر دِکھا مجھ کو",
+      "CoupletIndex": 12,
       "SectionIndex1": 0
     },
     {
       "VOrder": 24,
       "Position": "Left",
+      "Text": "یہ چھالیا ہی ذرا توڑ کر دِکھا مجھ کو",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "نہیں ہے چیز نِکمّی کوئی زمانے میں",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
       "Text": "کوئی بُرا نہیں قُدرت کے کارخانے میں",
-      "CoupletIndex": 11,
+      "CoupletIndex": 13,
       "SectionIndex1": 0
     }
   ]

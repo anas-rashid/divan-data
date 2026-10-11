@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.632Z"
+  },
   "Id": 6987,
   "CatId": 638,
   "Title": "مسولینی (کیا زمانے سے نرالا ہے مسولینی کا جُرم)",
@@ -18,110 +23,125 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "کیا زمانے سے نرالا ہے مسولینی کا جُرم!\r\nبے محل بِگڑا ہے معصومانِ یورپ کا مزاج\r\nمَیں پھٹکتا ہُوں تو چھَلنی کو بُرا لگتا ہے کیوں\r\nہیں سبھی تہذیب کے اوزار! تُو چھَلنی، مَیں چھاج\r\nمیرے سودائے مُلوکیّت کو ٹھُکراتے ہو تم\r\nتم نے کیا توڑے نہیں کمزور قوموں کے زُجاج؟\r\nیہ عجائب شعبدے کس کی مُلوکیّت کے ہیں\r\nراجدھانی ہے، مگر باقی نہ راجا ہے نہ راج\r\nآلِ سِیزر چوبِ نَے کی آبیاری میں رہے\r\nاور تم دُنیا کے بنجر بھی نہ چھوڑو بے خراج!\r\nتم نے لُوٹے بے نوا صحرا نشینوں کے خیام\r\nتم نے لُوٹی کِشتِ دہقاں، تم نے لُوٹے تخت و تاج\r\nپردۂ تہذیب میں غارت گری، آدم کُشی\r\nکل رَوا رکھّی تھی تم نے، مَیں رَوا رکھتا ہوں آج!",
+      "PlainText": "(اپنے مشرقی اور مغربی حریفوں سے)\r\nکیا زمانے سے نرالا ہے مسولینی کا جُرم!\r\nبے محل بِگڑا ہے معصومانِ یورپ کا مزاج\r\nمَیں پھٹکتا ہُوں تو چھَلنی کو بُرا لگتا ہے کیوں\r\nہیں سبھی تہذیب کے اوزار! تُو چھَلنی، مَیں چھاج\r\nمیرے سودائے مُلوکیّت کو ٹھُکراتے ہو تم\r\nتم نے کیا توڑے نہیں کمزور قوموں کے زُجاج؟\r\nیہ عجائب شعبدے کس کی مُلوکیّت کے ہیں\r\nراجدھانی ہے، مگر باقی نہ راجا ہے نہ راج\r\nآلِ سِیزر چوبِ نَے کی آبیاری میں رہے\r\nاور تم دُنیا کے بنجر بھی نہ چھوڑو بے خراج!\r\nتم نے لُوٹے بے نوا صحرا نشینوں کے خیام\r\nتم نے لُوٹی کِشتِ دہقاں، تم نے لُوٹے تخت و تاج\r\nپردۂ تہذیب میں غارت گری، آدم کُشی\r\nکل رَوا رکھّی تھی تم نے، مَیں رَوا رکھتا ہوں آج!\r\n٭ ۲۲ اگست ۱۹۳۵ء کو بھوپال (شیش محل) میں لکھے گئے",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 7
+      "CoupletsCount": 9
     }
   ],
   "Verses": [
     {
       "VOrder": 1,
-      "Position": "Right",
-      "Text": "کیا زمانے سے نرالا ہے مسولینی کا جُرم!",
+      "Position": "Heading",
+      "Text": "(اپنے مشرقی اور مغربی حریفوں سے)",
       "CoupletIndex": 0,
+      "Level": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 2,
-      "Position": "Left",
-      "Text": "بے محل بِگڑا ہے معصومانِ یورپ کا مزاج",
-      "CoupletIndex": 0,
+      "Position": "Right",
+      "Text": "کیا زمانے سے نرالا ہے مسولینی کا جُرم!",
+      "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
-      "Position": "Right",
-      "Text": "مَیں پھٹکتا ہُوں تو چھَلنی کو بُرا لگتا ہے کیوں",
+      "Position": "Left",
+      "Text": "بے محل بِگڑا ہے معصومانِ یورپ کا مزاج",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 4,
-      "Position": "Left",
-      "Text": "ہیں سبھی تہذیب کے اوزار! تُو چھَلنی، مَیں چھاج",
-      "CoupletIndex": 1,
+      "Position": "Right",
+      "Text": "مَیں پھٹکتا ہُوں تو چھَلنی کو بُرا لگتا ہے کیوں",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 5,
-      "Position": "Right",
-      "Text": "میرے سودائے مُلوکیّت کو ٹھُکراتے ہو تم",
+      "Position": "Left",
+      "Text": "ہیں سبھی تہذیب کے اوزار! تُو چھَلنی، مَیں چھاج",
       "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 6,
-      "Position": "Left",
-      "Text": "تم نے کیا توڑے نہیں کمزور قوموں کے زُجاج؟",
-      "CoupletIndex": 2,
+      "Position": "Right",
+      "Text": "میرے سودائے مُلوکیّت کو ٹھُکراتے ہو تم",
+      "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 7,
-      "Position": "Right",
-      "Text": "یہ عجائب شعبدے کس کی مُلوکیّت کے ہیں",
+      "Position": "Left",
+      "Text": "تم نے کیا توڑے نہیں کمزور قوموں کے زُجاج؟",
       "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 8,
-      "Position": "Left",
-      "Text": "راجدھانی ہے، مگر باقی نہ راجا ہے نہ راج",
-      "CoupletIndex": 3,
+      "Position": "Right",
+      "Text": "یہ عجائب شعبدے کس کی مُلوکیّت کے ہیں",
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 9,
-      "Position": "Right",
-      "Text": "آلِ سِیزر چوبِ نَے کی آبیاری میں رہے",
+      "Position": "Left",
+      "Text": "راجدھانی ہے، مگر باقی نہ راجا ہے نہ راج",
       "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 10,
-      "Position": "Left",
-      "Text": "اور تم دُنیا کے بنجر بھی نہ چھوڑو بے خراج!",
-      "CoupletIndex": 4,
+      "Position": "Right",
+      "Text": "آلِ سِیزر چوبِ نَے کی آبیاری میں رہے",
+      "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 11,
-      "Position": "Right",
-      "Text": "تم نے لُوٹے بے نوا صحرا نشینوں کے خیام",
+      "Position": "Left",
+      "Text": "اور تم دُنیا کے بنجر بھی نہ چھوڑو بے خراج!",
       "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 12,
-      "Position": "Left",
-      "Text": "تم نے لُوٹی کِشتِ دہقاں، تم نے لُوٹے تخت و تاج",
-      "CoupletIndex": 5,
+      "Position": "Right",
+      "Text": "تم نے لُوٹے بے نوا صحرا نشینوں کے خیام",
+      "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 13,
-      "Position": "Right",
-      "Text": "پردۂ تہذیب میں غارت گری، آدم کُشی",
+      "Position": "Left",
+      "Text": "تم نے لُوٹی کِشتِ دہقاں، تم نے لُوٹے تخت و تاج",
       "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 14,
+      "Position": "Right",
+      "Text": "پردۂ تہذیب میں غارت گری، آدم کُشی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
       "Position": "Left",
       "Text": "کل رَوا رکھّی تھی تم نے، مَیں رَوا رکھتا ہوں آج!",
-      "CoupletIndex": 6,
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 16,
+      "Position": "Paragraph",
+      "Text": "٭ ۲۲ اگست ۱۹۳۵ء کو بھوپال (شیش محل) میں لکھے گئے",
+      "CoupletIndex": 8,
       "SectionIndex1": 0
     }
   ]

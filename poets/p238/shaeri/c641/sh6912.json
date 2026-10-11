@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.621Z"
+  },
   "Id": 6912,
   "CatId": 641,
   "Title": "فاطمہ بنت عبد اللہ",
@@ -18,180 +23,187 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "فاطمہ! تُو آبرُوئے اُمّتِ مرحوم ہے\r\nذرّہ ذرّہ تیری مُشتِ خاک کا معصوم ہے\r\nیہ سعادت، حُورِ صحرائی! تری قسمت میں تھی\r\nغازیانِ دیں کی سقّائی تری قسمت میں تھی\r\nیہ جہاد اللہ کے رستے میں بے تیغ و سِپَر\r\nہے جسارت آفریں شوقِ شہادت کس قدر\r\nیہ کلی بھی اس گُلستانِ خزاں منظر میں تھی\r\nایسی چنگاری بھی یا رب، اپنی خاکستر میں تھی!\r\nاپنے صحرا میں بہت آہُو ابھی پوشیدہ ہیں\r\nبجلیاں برسے ہُوئے بادل میں بھی خوابیدہ ہیں!\r\nفاطمہ! گو شبنم افشاں آنکھ تیرے غم میں ہے\r\nنغمۂ عشرت بھی اپنے نالۂ ماتم میں ہے\r\nرقص تیری خاک کا کتنا نشاط انگیز ہے\r\nذرّہ ذرّہ زندگی کے سوز سے لبریز ہے\r\nہے کوئی ہنگامہ تیری تُربتِ خاموش میں\r\nپل رہی ہے ایک قومِ تازہ اس آغوش میں\r\nبے خبر ہوں گرچہ اُن کی وسعتِ مقصد سے میں\r\nآفرینش دیکھتا ہوں اُن کی اس مرقد سے میں\r\nتازہ انجم کا فضائے آسماں میں ہے ظہور\r\nدیدۂ انساں سے نامحرم ہے جن کی موجِ نور\r\nجو ابھی اُبھرے ہیں ظُلمت خانۂ ایّام سے\r\nجن کی ضَو ناآشنا ہے قیدِ صبح و شام سے\r\nجن کی تابانی میں اندازِ کُہن بھی، نَو بھی ہے\r\nاور تیرے کوکبِ تقدیر کا پرتَو بھی ہے",
+      "PlainText": "عرب لڑکی جو طرابلس کی جنگ میں غازیوں کو پانی پِلاتی ہوئی شہید ہُوئی\r\nفاطمہ! تُو آبرُوئے اُمّتِ مرحوم ہے\r\nذرّہ ذرّہ تیری مُشتِ خاک کا معصوم ہے\r\nیہ سعادت، حُورِ صحرائی! تری قسمت میں تھی\r\nغازیانِ دیں کی سقّائی تری قسمت میں تھی\r\nیہ جہاد اللہ کے رستے میں بے تیغ و سِپَر\r\nہے جسارت آفریں شوقِ شہادت کس قدر\r\nیہ کلی بھی اس گُلستانِ خزاں منظر میں تھی\r\nایسی چنگاری بھی یا رب، اپنی خاکستر میں تھی!\r\nاپنے صحرا میں بہت آہُو ابھی پوشیدہ ہیں\r\nبجلیاں برسے ہُوئے بادل میں بھی خوابیدہ ہیں!\r\nفاطمہ! گو شبنم افشاں آنکھ تیرے غم میں ہے\r\nنغمۂ عشرت بھی اپنے نالۂ ماتم میں ہے\r\nرقص تیری خاک کا کتنا نشاط انگیز ہے\r\nذرّہ ذرّہ زندگی کے سوز سے لبریز ہے\r\nہے کوئی ہنگامہ تیری تُربتِ خاموش میں\r\nپل رہی ہے ایک قومِ تازہ اس آغوش میں\r\nبے خبر ہوں گرچہ اُن کی وسعتِ مقصد سے میں\r\nآفرینش دیکھتا ہوں اُن کی اس مرقد سے میں\r\nتازہ انجم کا فضائے آسماں میں ہے ظہور\r\nدیدۂ انساں سے نامحرم ہے جن کی موجِ نور\r\nجو ابھی اُبھرے ہیں ظُلمت خانۂ ایّام سے\r\nجن کی ضَو ناآشنا ہے قیدِ صبح و شام سے\r\nجن کی تابانی میں اندازِ کُہن بھی، نَو بھی ہے\r\nاور تیرے کوکبِ تقدیر کا پرتَو بھی ہے",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 12
+      "CoupletsCount": 13
     }
   ],
   "Verses": [
     {
       "VOrder": 1,
-      "Position": "Right",
-      "Text": "فاطمہ! تُو آبرُوئے اُمّتِ مرحوم ہے",
+      "Position": "Paragraph",
+      "Text": "عرب لڑکی جو طرابلس کی جنگ میں غازیوں کو پانی پِلاتی ہوئی شہید ہُوئی",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 2,
-      "Position": "Left",
-      "Text": "ذرّہ ذرّہ تیری مُشتِ خاک کا معصوم ہے",
-      "CoupletIndex": 0,
+      "Position": "Right",
+      "Text": "فاطمہ! تُو آبرُوئے اُمّتِ مرحوم ہے",
+      "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
-      "Position": "Right",
-      "Text": "یہ سعادت، حُورِ صحرائی! تری قسمت میں تھی",
+      "Position": "Left",
+      "Text": "ذرّہ ذرّہ تیری مُشتِ خاک کا معصوم ہے",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 4,
-      "Position": "Left",
-      "Text": "غازیانِ دیں کی سقّائی تری قسمت میں تھی",
-      "CoupletIndex": 1,
+      "Position": "Right",
+      "Text": "یہ سعادت، حُورِ صحرائی! تری قسمت میں تھی",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 5,
-      "Position": "Right",
-      "Text": "یہ جہاد اللہ کے رستے میں بے تیغ و سِپَر",
+      "Position": "Left",
+      "Text": "غازیانِ دیں کی سقّائی تری قسمت میں تھی",
       "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 6,
-      "Position": "Left",
-      "Text": "ہے جسارت آفریں شوقِ شہادت کس قدر",
-      "CoupletIndex": 2,
+      "Position": "Right",
+      "Text": "یہ جہاد اللہ کے رستے میں بے تیغ و سِپَر",
+      "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 7,
-      "Position": "Right",
-      "Text": "یہ کلی بھی اس گُلستانِ خزاں منظر میں تھی",
+      "Position": "Left",
+      "Text": "ہے جسارت آفریں شوقِ شہادت کس قدر",
       "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 8,
-      "Position": "Left",
-      "Text": "ایسی چنگاری بھی یا رب، اپنی خاکستر میں تھی!",
-      "CoupletIndex": 3,
+      "Position": "Right",
+      "Text": "یہ کلی بھی اس گُلستانِ خزاں منظر میں تھی",
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 9,
-      "Position": "Right",
-      "Text": "اپنے صحرا میں بہت آہُو ابھی پوشیدہ ہیں",
+      "Position": "Left",
+      "Text": "ایسی چنگاری بھی یا رب، اپنی خاکستر میں تھی!",
       "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 10,
-      "Position": "Left",
-      "Text": "بجلیاں برسے ہُوئے بادل میں بھی خوابیدہ ہیں!",
-      "CoupletIndex": 4,
+      "Position": "Right",
+      "Text": "اپنے صحرا میں بہت آہُو ابھی پوشیدہ ہیں",
+      "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 11,
-      "Position": "Right",
-      "Text": "فاطمہ! گو شبنم افشاں آنکھ تیرے غم میں ہے",
+      "Position": "Left",
+      "Text": "بجلیاں برسے ہُوئے بادل میں بھی خوابیدہ ہیں!",
       "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 12,
-      "Position": "Left",
-      "Text": "نغمۂ عشرت بھی اپنے نالۂ ماتم میں ہے",
-      "CoupletIndex": 5,
+      "Position": "Right",
+      "Text": "فاطمہ! گو شبنم افشاں آنکھ تیرے غم میں ہے",
+      "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 13,
-      "Position": "Right",
-      "Text": "رقص تیری خاک کا کتنا نشاط انگیز ہے",
+      "Position": "Left",
+      "Text": "نغمۂ عشرت بھی اپنے نالۂ ماتم میں ہے",
       "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 14,
-      "Position": "Left",
-      "Text": "ذرّہ ذرّہ زندگی کے سوز سے لبریز ہے",
-      "CoupletIndex": 6,
+      "Position": "Right",
+      "Text": "رقص تیری خاک کا کتنا نشاط انگیز ہے",
+      "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 15,
-      "Position": "Right",
-      "Text": "ہے کوئی ہنگامہ تیری تُربتِ خاموش میں",
+      "Position": "Left",
+      "Text": "ذرّہ ذرّہ زندگی کے سوز سے لبریز ہے",
       "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 16,
-      "Position": "Left",
-      "Text": "پل رہی ہے ایک قومِ تازہ اس آغوش میں",
-      "CoupletIndex": 7,
+      "Position": "Right",
+      "Text": "ہے کوئی ہنگامہ تیری تُربتِ خاموش میں",
+      "CoupletIndex": 8,
       "SectionIndex1": 0
     },
     {
       "VOrder": 17,
-      "Position": "Right",
-      "Text": "بے خبر ہوں گرچہ اُن کی وسعتِ مقصد سے میں",
+      "Position": "Left",
+      "Text": "پل رہی ہے ایک قومِ تازہ اس آغوش میں",
       "CoupletIndex": 8,
       "SectionIndex1": 0
     },
     {
       "VOrder": 18,
-      "Position": "Left",
-      "Text": "آفرینش دیکھتا ہوں اُن کی اس مرقد سے میں",
-      "CoupletIndex": 8,
+      "Position": "Right",
+      "Text": "بے خبر ہوں گرچہ اُن کی وسعتِ مقصد سے میں",
+      "CoupletIndex": 9,
       "SectionIndex1": 0
     },
     {
       "VOrder": 19,
-      "Position": "Right",
-      "Text": "تازہ انجم کا فضائے آسماں میں ہے ظہور",
+      "Position": "Left",
+      "Text": "آفرینش دیکھتا ہوں اُن کی اس مرقد سے میں",
       "CoupletIndex": 9,
       "SectionIndex1": 0
     },
     {
       "VOrder": 20,
-      "Position": "Left",
-      "Text": "دیدۂ انساں سے نامحرم ہے جن کی موجِ نور",
-      "CoupletIndex": 9,
+      "Position": "Right",
+      "Text": "تازہ انجم کا فضائے آسماں میں ہے ظہور",
+      "CoupletIndex": 10,
       "SectionIndex1": 0
     },
     {
       "VOrder": 21,
-      "Position": "Right",
-      "Text": "جو ابھی اُبھرے ہیں ظُلمت خانۂ ایّام سے",
+      "Position": "Left",
+      "Text": "دیدۂ انساں سے نامحرم ہے جن کی موجِ نور",
       "CoupletIndex": 10,
       "SectionIndex1": 0
     },
     {
       "VOrder": 22,
-      "Position": "Left",
-      "Text": "جن کی ضَو ناآشنا ہے قیدِ صبح و شام سے",
-      "CoupletIndex": 10,
+      "Position": "Right",
+      "Text": "جو ابھی اُبھرے ہیں ظُلمت خانۂ ایّام سے",
+      "CoupletIndex": 11,
       "SectionIndex1": 0
     },
     {
       "VOrder": 23,
-      "Position": "Right",
-      "Text": "جن کی تابانی میں اندازِ کُہن بھی، نَو بھی ہے",
+      "Position": "Left",
+      "Text": "جن کی ضَو ناآشنا ہے قیدِ صبح و شام سے",
       "CoupletIndex": 11,
       "SectionIndex1": 0
     },
     {
       "VOrder": 24,
+      "Position": "Right",
+      "Text": "جن کی تابانی میں اندازِ کُہن بھی، نَو بھی ہے",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
       "Position": "Left",
       "Text": "اور تیرے کوکبِ تقدیر کا پرتَو بھی ہے",
-      "CoupletIndex": 11,
+      "CoupletIndex": 12,
       "SectionIndex1": 0
     }
   ]

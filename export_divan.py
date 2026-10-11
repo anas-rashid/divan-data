@@ -2,6 +2,7 @@
 """Write divan.db in the ganjoor-data layout (manifest.json, poets/, index/) so GanjoorService's
 "public data import" and any ganjoor-data client can read it unchanged.
 Format: https://github.com/ganjoor/ganjoor-data/blob/main/API.md"""
+import glob
 import json, os, re, shutil, sqlite3, time
 import ganjoor
 
@@ -228,6 +229,32 @@ def persian_poet(gslug, manifest, cat_idx, poem_idx):
     return sum(1 for u in poem_idx.values() if u.startswith(purl + "/"))
 
 
+# Divan-owned works with no Wikisource or Ganjoor page (e.g. a book's preface, a missing rubai):
+# divan/<category url>/<slug>.json not already listed in the category; a published .order places them
+def add_owned(c, name, first_line, poem_idx):
+    folder = os.path.join(DIVAN_DIR, c["FullUrl"].lstrip("/"))
+    n, listed = 0, {p["FullUrl"] for p in c["Poems"]}
+    for f in sorted(glob.glob(os.path.join(folder, "*.json"))):
+        url = f"{c['FullUrl']}/{os.path.basename(f)[:-5]}"
+        if url in listed:
+            continue
+        own, wid = owned(url), gid("poem", "divan:" + url)
+        write(f"poets{url}.json", {
+            "DivanOwned": True, "Edited": own.get("Edited"), "Id": wid, "CatId": c["Id"], "Title": own["Title"],
+            "FullTitle": " » ".join([name, c["Title"], own["Title"]]), "FullUrl": url, "RhymeLetters": None,
+            "SourceName": own.get("SourceName"), "SourceUrlSlug": None, "SourceUrl": own.get("SourceUrl"),
+            "Language": own.get("Language", "ur-PK"), "PoemSummary": None, "Metre": None,
+            "Sections": [{"Index": 0, "Number": 1, "SectionType": "WholePoem", "VerseType": "First", "RhymeLetters": None,
+                          "PlainText": "\r\n".join(x["Text"] for x in own["Verses"]), "HtmlText": None, "PoemFormat": None,
+                          "Language": own.get("Language", "ur-PK"), "CoupletsCount": len({x["CoupletIndex"] for x in own["Verses"]})}],
+            "Verses": own["Verses"]})
+        c["Poems"].append({"Id": wid, "Title": own["Title"], "FullUrl": url})
+        first_line[wid] = own["Verses"][0]["Text"] if own["Verses"] else ""
+        poem_idx[wid] = url
+        n += 1
+    return n
+
+
 def main():
     for p in ("poets", "index"):
         shutil.rmtree(os.path.join(D, p), ignore_errors=True)
@@ -310,6 +337,9 @@ def main():
 
         if page in persian:  # after the Urdu works, so the Persian section comes last on the poet's page
             poem_count += add_persian(persian[page], cats[()], name, cats, poem_idx)
+
+        for c in list(cats.values()):  # Divan-owned works with no Wikisource or Ganjoor page
+            poem_count += add_owned(c, name, first_line, poem_idx)
 
         for path, c in cats.items():
             if path[:1] == ("فارسی",):  # Ganjoor's own order; the radif letters are Urdu's

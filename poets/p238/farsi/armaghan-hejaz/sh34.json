@@ -33,25 +33,34 @@
       "VOrder": 1,
       "Position": "Right",
       "Text": "جهان تست در دست خسی چند",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
       "Text": "کسان او به بند ناکسی چند",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "هنرور میان کارگاهان",
-      "CoupletIndex": 1
+      "Text": "هنرور در میان کارگاهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
       "Text": "کشد خود را به عیش کرکسی چند",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.586Z"
+  }
 }

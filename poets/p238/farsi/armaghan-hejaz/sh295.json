@@ -32,26 +32,35 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "دجود است اینکه بینی یا نمود است",
-      "CoupletIndex": 0
+      "Text": "وجود است اینکه بینی یا نمود است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
       "Text": "حکیم ما چه مشکلها گشود است",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "کتابی بر فن غواص بنوشت",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
       "Text": "ولیکن در دل دریا نبود است",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.584Z"
+  }
 }

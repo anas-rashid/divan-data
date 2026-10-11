@@ -33,25 +33,34 @@
       "VOrder": 1,
       "Position": "Right",
       "Text": "چه پرسی از مقامات نوایم",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
       "Text": "ندیمان کم شناسند از کجایم",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "گشادم رخت خود را اندریں دشت",
-      "CoupletIndex": 1
+      "Text": "گشادم رخت خود را اندرین دشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
       "Text": "که اندر خلوتش تنها سرایم",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.589Z"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "Id": 14239,
   "CatId": 1045,
-  "Title": "بخش ۳۷۴ - نهان اندر دو حرفی سر کار است",
+  "Title": "بخش ۳۷۴ - مجو ای لاله از کس غمگساری",
   "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۳۷۴ - نهان اندر دو حرفی سر کار است",
   "FullUrl": "/p238/farsi/armaghan-hejaz/sh375",
   "RhymeLetters": null,
@@ -32,26 +32,35 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "نهان اندر دو حرفی سر کار است",
-      "CoupletIndex": 0
+      "Text": "مجو ای لاله از کس غمگساری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "مقام عشق منبر نیست ، دار است",
-      "CoupletIndex": 0
+      "Text": "چو من خواه از درون خویش یاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "براهیمان ز نمرودان نترسند",
-      "CoupletIndex": 1
+      "Text": "به هر بادی که آید سینه بگشای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "که عود خام راتش عیار است",
-      "CoupletIndex": 1
+      "Text": "نگهدار آن کهن داغی که داری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.639Z"
+  }
 }

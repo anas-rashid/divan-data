@@ -32,26 +32,35 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "اگر پندی ز درویشی پذیری ",
-      "CoupletIndex": 0
+      "Text": "اگر پندی ز درویشی پذیری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
       "Text": "هزار امت بمیرد تو نمیری",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "بتولی باش و پنهان شو ازین عصر",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "که درآغوش شب گیری بگیری",
-      "CoupletIndex": 1
+      "Text": "که درآغوش شبیری بگیری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.583Z"
+  }
 }

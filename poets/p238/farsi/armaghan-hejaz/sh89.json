@@ -33,25 +33,34 @@
       "VOrder": 1,
       "Position": "Right",
       "Text": "مسلمانان به خویشان در ستیزند",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
       "Text": "بجز نقش دوئی بر دل نریزند",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "بنالند از کسی خشتی بگیرد",
-      "CoupletIndex": 1
+      "Text": "بنالند ار کسی خشتی بگیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
       "Text": "از آن مسجد که خود از وی گریزند",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.590Z"
+  }
 }

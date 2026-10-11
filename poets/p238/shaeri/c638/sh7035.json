@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.633Z"
+  },
   "Id": 7035,
   "CatId": 638,
   "Title": "نفسیاتِ حاکمی",
@@ -18,40 +23,48 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "یہ مِہر ہے بے مہریِ صّیاد کا پردہ\r\nآئی نہ مرے کام مری تازہ صفیری\r\nرکھنے لگا مُرجھائے ہوئے پھُول قفَس میں\r\nشاید کہ اسیروں کو گوارا ہو اسیری!",
+      "PlainText": "(اِصلاحات)\r\nیہ مِہر ہے بے مہریِ صّیاد کا پردہ\r\nآئی نہ مرے کام مری تازہ صفیری\r\nرکھنے لگا مُرجھائے ہوئے پھُول قفَس میں\r\nشاید کہ اسیروں کو گوارا ہو اسیری!",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 2
+      "CoupletsCount": 3
     }
   ],
   "Verses": [
     {
       "VOrder": 1,
-      "Position": "Right",
-      "Text": "یہ مِہر ہے بے مہریِ صّیاد کا پردہ",
+      "Position": "Heading",
+      "Text": "(اِصلاحات)",
       "CoupletIndex": 0,
+      "Level": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 2,
-      "Position": "Left",
-      "Text": "آئی نہ مرے کام مری تازہ صفیری",
-      "CoupletIndex": 0,
+      "Position": "Right",
+      "Text": "یہ مِہر ہے بے مہریِ صّیاد کا پردہ",
+      "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
-      "Position": "Right",
-      "Text": "رکھنے لگا مُرجھائے ہوئے پھُول قفَس میں",
+      "Position": "Left",
+      "Text": "آئی نہ مرے کام مری تازہ صفیری",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 4,
+      "Position": "Right",
+      "Text": "رکھنے لگا مُرجھائے ہوئے پھُول قفَس میں",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
       "Position": "Left",
       "Text": "شاید کہ اسیروں کو گوارا ہو اسیری!",
-      "CoupletIndex": 1,
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     }
   ]

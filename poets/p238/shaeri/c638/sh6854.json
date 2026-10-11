@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.637Z"
+  },
   "Id": 6854,
   "CatId": 638,
   "Title": "صُبح",
@@ -18,11 +23,11 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "یہ سحَر جو کبھی فردا ہے کبھی ہے امروز\r\nنہیں معلوم کہ ہوتی ہے کہاں سے پیدا\r\nوہ سحَر جس سے لَرزتا ہے شبستانِ وجود\r\nہوتی ہے بندۂ مومن کی اذاں سے پیدا",
+      "PlainText": "یہ سحَر جو کبھی فردا ہے کبھی ہے امروز\r\nنہیں معلوم کہ ہوتی ہے کہاں سے پیدا\r\nوہ سحَر جس سے لَرزتا ہے شبستانِ وجود\r\nہوتی ہے بندۂ مومن کی اذاں سے پیدا\r\n٭ بھوپال (شیش محل) میں لِکھّے گئے",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 2
+      "CoupletsCount": 3
     }
   ],
   "Verses": [
@@ -52,6 +57,13 @@
       "Position": "Left",
       "Text": "ہوتی ہے بندۂ مومن کی اذاں سے پیدا",
       "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Paragraph",
+      "Text": "٭ بھوپال (شیش محل) میں لِکھّے گئے",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     }
   ]

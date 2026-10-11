@@ -1,0 +1,63 @@
+{
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.639Z"
+  },
+  "Id": 38833,
+  "CatId": 1045,
+  "Title": "کسی کو داند اسرار یقین را",
+  "FullTitle": "محمد اقبال » ارمغان حجاز » کسی کو داند اسرار یقین را",
+  "FullUrl": "/p238/farsi/armaghan-hejaz/kasi-ko-danad",
+  "RhymeLetters": null,
+  "SourceName": "اقبال سائبر لائبریری",
+  "SourceUrlSlug": null,
+  "SourceUrl": "https://www.iqbalcyberlibrary.net",
+  "Language": "fa-IR",
+  "PoemSummary": null,
+  "Metre": null,
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": null,
+      "PlainText": "کسی کو داند اسرار یقین را\r\nیکی بین می‌کند چشم دوبین را\r\nبیامیزند چون نور دو قندیل\r\nمیندیش افتراق ملک و دین را",
+      "HtmlText": null,
+      "PoemFormat": null,
+      "Language": "fa-IR",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کسی کو داند اسرار یقین را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکی بین می‌کند چشم دوبین را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیامیزند چون نور دو قندیل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "میندیش افتراق ملک و دین را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}
