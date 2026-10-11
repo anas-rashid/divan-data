@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.618Z"
+  },
   "Id": 6684,
   "CatId": 641,
   "Title": "تہذیبِ حاضر",
@@ -18,124 +23,132 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "حرارت ہے بلا کی بادۂ تہذیبِ حاضر میں\r\nبھڑک اُٹھّا بھبُوکا بن کے مُسلم کا تنِ خاکی\r\nکِیا ذرّے کو جُگنو دے کے تابِ مُستعار اس نے\r\nکوئی دیکھے تو شوخی آفتابِ جلوہ فرما کی\r\nنئے انداز پائے نوجوانوں کی طبیعت نے\r\nیہ رعنائی، یہ بیداری، یہ آزادی، یہ بے باکی\r\nتغیّر آگیا ایسا تدبّر میں، تخیّل میں\r\nہنسی سمجھی گئی گُلشن میں غُنچوں کی جگر چاکی\r\nکِیا گُم تازہ پروازوں نے اپنا آشیاں لیکن\r\nمناظر دِلکُشا دِکھلا گئی ساحر کی چالاکی\r\nحیاتِ تازہ اپنے ساتھ لائی لذّتیں کیا کیا\r\nرقابت، خودفروشی، ناشکیبائی، ہوسناکی\r\nفروغِ شمعِ نَو سے بزمِ مسلم جگمگا اُٹھّی\r\nمگر کہتی ہے پروانوں سے میری کُہنہ اِدراکی\r\n“تو اے پروانہ! ایں گرمی ز شمع محفلے داری\r\nچو من در آتشِ خود سوز اگر سوزِ دلے داری”",
+      "PlainText": "تضمین بر شعرِ فیضیؔ\r\nحرارت ہے بلا کی بادۂ تہذیبِ حاضر میں\r\nبھڑک اُٹھّا بھبُوکا بن کے مُسلم کا تنِ خاکی\r\nکِیا ذرّے کو جُگنو دے کے تابِ مُستعار اس نے\r\nکوئی دیکھے تو شوخی آفتابِ جلوہ فرما کی\r\nنئے انداز پائے نوجوانوں کی طبیعت نے\r\nیہ رعنائی، یہ بیداری، یہ آزادی، یہ بے باکی\r\nتغیّر آگیا ایسا تدبّر میں، تخیّل میں\r\nہنسی سمجھی گئی گُلشن میں غُنچوں کی جگر چاکی\r\nکِیا گُم تازہ پروازوں نے اپنا آشیاں لیکن\r\nمناظر دِلکُشا دِکھلا گئی ساحر کی چالاکی\r\nحیاتِ تازہ اپنے ساتھ لائی لذّتیں کیا کیا\r\nرقابت، خودفروشی، ناشکیبائی، ہوسناکی\r\nفروغِ شمعِ نَو سے بزمِ مسلم جگمگا اُٹھّی\r\nمگر کہتی ہے پروانوں سے میری کُہنہ اِدراکی\r\n“تو اے پروانہ! ایں گرمی ز شمع محفلے داری\r\nچو من در آتشِ خود سوز اگر سوزِ دلے داری”",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 8
+      "CoupletsCount": 9
     }
   ],
   "Verses": [
     {
       "VOrder": 1,
-      "Position": "Right",
-      "Text": "حرارت ہے بلا کی بادۂ تہذیبِ حاضر میں",
+      "Position": "Heading",
+      "Text": "تضمین بر شعرِ فیضیؔ",
       "CoupletIndex": 0,
+      "Level": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 2,
-      "Position": "Left",
-      "Text": "بھڑک اُٹھّا بھبُوکا بن کے مُسلم کا تنِ خاکی",
-      "CoupletIndex": 0,
+      "Position": "Right",
+      "Text": "حرارت ہے بلا کی بادۂ تہذیبِ حاضر میں",
+      "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
-      "Position": "Right",
-      "Text": "کِیا ذرّے کو جُگنو دے کے تابِ مُستعار اس نے",
+      "Position": "Left",
+      "Text": "بھڑک اُٹھّا بھبُوکا بن کے مُسلم کا تنِ خاکی",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 4,
-      "Position": "Left",
-      "Text": "کوئی دیکھے تو شوخی آفتابِ جلوہ فرما کی",
-      "CoupletIndex": 1,
+      "Position": "Right",
+      "Text": "کِیا ذرّے کو جُگنو دے کے تابِ مُستعار اس نے",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 5,
-      "Position": "Right",
-      "Text": "نئے انداز پائے نوجوانوں کی طبیعت نے",
+      "Position": "Left",
+      "Text": "کوئی دیکھے تو شوخی آفتابِ جلوہ فرما کی",
       "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 6,
-      "Position": "Left",
-      "Text": "یہ رعنائی، یہ بیداری، یہ آزادی، یہ بے باکی",
-      "CoupletIndex": 2,
+      "Position": "Right",
+      "Text": "نئے انداز پائے نوجوانوں کی طبیعت نے",
+      "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 7,
-      "Position": "Right",
-      "Text": "تغیّر آگیا ایسا تدبّر میں، تخیّل میں",
+      "Position": "Left",
+      "Text": "یہ رعنائی، یہ بیداری، یہ آزادی، یہ بے باکی",
       "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 8,
-      "Position": "Left",
-      "Text": "ہنسی سمجھی گئی گُلشن میں غُنچوں کی جگر چاکی",
-      "CoupletIndex": 3,
+      "Position": "Right",
+      "Text": "تغیّر آگیا ایسا تدبّر میں، تخیّل میں",
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 9,
-      "Position": "Right",
-      "Text": "کِیا گُم تازہ پروازوں نے اپنا آشیاں لیکن",
+      "Position": "Left",
+      "Text": "ہنسی سمجھی گئی گُلشن میں غُنچوں کی جگر چاکی",
       "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 10,
-      "Position": "Left",
-      "Text": "مناظر دِلکُشا دِکھلا گئی ساحر کی چالاکی",
-      "CoupletIndex": 4,
+      "Position": "Right",
+      "Text": "کِیا گُم تازہ پروازوں نے اپنا آشیاں لیکن",
+      "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 11,
-      "Position": "Right",
-      "Text": "حیاتِ تازہ اپنے ساتھ لائی لذّتیں کیا کیا",
+      "Position": "Left",
+      "Text": "مناظر دِلکُشا دِکھلا گئی ساحر کی چالاکی",
       "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 12,
-      "Position": "Left",
-      "Text": "رقابت، خودفروشی، ناشکیبائی، ہوسناکی",
-      "CoupletIndex": 5,
+      "Position": "Right",
+      "Text": "حیاتِ تازہ اپنے ساتھ لائی لذّتیں کیا کیا",
+      "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 13,
-      "Position": "Right",
-      "Text": "فروغِ شمعِ نَو سے بزمِ مسلم جگمگا اُٹھّی",
+      "Position": "Left",
+      "Text": "رقابت، خودفروشی، ناشکیبائی، ہوسناکی",
       "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 14,
-      "Position": "Left",
-      "Text": "مگر کہتی ہے پروانوں سے میری کُہنہ اِدراکی",
-      "CoupletIndex": 6,
+      "Position": "Right",
+      "Text": "فروغِ شمعِ نَو سے بزمِ مسلم جگمگا اُٹھّی",
+      "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 15,
-      "Position": "Right",
-      "Text": "“تو اے پروانہ! ایں گرمی ز شمع محفلے داری",
+      "Position": "Left",
+      "Text": "مگر کہتی ہے پروانوں سے میری کُہنہ اِدراکی",
       "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 16,
+      "Position": "Right",
+      "Text": "“تو اے پروانہ! ایں گرمی ز شمع محفلے داری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
       "Position": "Left",
       "Text": "چو من در آتشِ خود سوز اگر سوزِ دلے داری”",
-      "CoupletIndex": 7,
+      "CoupletIndex": 8,
       "SectionIndex1": 0
     }
   ]

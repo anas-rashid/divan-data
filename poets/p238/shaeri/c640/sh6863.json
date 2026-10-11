@@ -1,4 +1,9 @@
 {
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.628Z"
+  },
   "Id": 6863,
   "CatId": 640,
   "Title": "طارق کی دُعا",
@@ -18,152 +23,160 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": null,
-      "PlainText": "یہ غازی، یہ تیرے پُر اسرار بندے\r\nجنھیں تُو نے بخشا ہے ذوقِ خدائی\r\nدونیم ان کی ٹھوکر سے صحرا و دریا\r\nسِمٹ کر پہاڑ ان کی ہیبت سے رائی\r\nدو عالم سے کرتی ہے بیگانہ دل کو\r\nعجب چیز ہے لذّتِ آشنائی\r\nشہادت ہے مطلوب و مقصودِ مومن\r\nنہ مالِ غنیمت نہ کِشور کشائی\r\nخیاباں میں ہے مُنتظر لالہ کب سے\r\nقبا چاہیے اس کو خُونِ عرب سے\r\nکیا تُو نے صحرا نشینوں کو یکتا\r\nخبر میں، نظر میں، اذانِ سحَر میں\r\nطلب جس کی صدیوں سے تھی زندگی کو\r\nوہ سوز اس نے پایا انھی کے جگر میں\r\nکُشادِ درِ دل سمجھتے ہیں اس کو\r\nہلاکت نہیں موت ان کی نظر میں\r\nدلِ مردِ مومن میں پھر زندہ کر دے\r\nوہ بجلی کہ تھی نعرۂ ’لَاتَذَر‘ میں\r\nعزائم کو سینوں میں بیدار کر دے\r\nنگاہِ مسلماں کو تلوار کر دے!",
+      "PlainText": "(اندلس کے میدانِ جنگ میں)\r\nیہ غازی، یہ تیرے پُر اسرار بندے\r\nجنھیں تُو نے بخشا ہے ذوقِ خدائی\r\nدونیم ان کی ٹھوکر سے صحرا و دریا\r\nسِمٹ کر پہاڑ ان کی ہیبت سے رائی\r\nدو عالم سے کرتی ہے بیگانہ دل کو\r\nعجب چیز ہے لذّتِ آشنائی\r\nشہادت ہے مطلوب و مقصودِ مومن\r\nنہ مالِ غنیمت نہ کِشور کشائی\r\nخیاباں میں ہے مُنتظر لالہ کب سے\r\nقبا چاہیے اس کو خُونِ عرب سے\r\nکیا تُو نے صحرا نشینوں کو یکتا\r\nخبر میں، نظر میں، اذانِ سحَر میں\r\nطلب جس کی صدیوں سے تھی زندگی کو\r\nوہ سوز اس نے پایا انھی کے جگر میں\r\nکُشادِ درِ دل سمجھتے ہیں اس کو\r\nہلاکت نہیں موت ان کی نظر میں\r\nدلِ مردِ مومن میں پھر زندہ کر دے\r\nوہ بجلی کہ تھی نعرۂ ’لَاتَذَر‘ میں\r\nعزائم کو سینوں میں بیدار کر دے\r\nنگاہِ مسلماں کو تلوار کر دے!",
       "HtmlText": null,
       "PoemFormat": null,
       "Language": "ur-PK",
-      "CoupletsCount": 10
+      "CoupletsCount": 11
     }
   ],
   "Verses": [
     {
       "VOrder": 1,
-      "Position": "Right",
-      "Text": "یہ غازی، یہ تیرے پُر اسرار بندے",
+      "Position": "Heading",
+      "Text": "(اندلس کے میدانِ جنگ میں)",
       "CoupletIndex": 0,
+      "Level": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 2,
-      "Position": "Left",
-      "Text": "جنھیں تُو نے بخشا ہے ذوقِ خدائی",
-      "CoupletIndex": 0,
+      "Position": "Right",
+      "Text": "یہ غازی، یہ تیرے پُر اسرار بندے",
+      "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
-      "Position": "Right",
-      "Text": "دونیم ان کی ٹھوکر سے صحرا و دریا",
+      "Position": "Left",
+      "Text": "جنھیں تُو نے بخشا ہے ذوقِ خدائی",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 4,
-      "Position": "Left",
-      "Text": "سِمٹ کر پہاڑ ان کی ہیبت سے رائی",
-      "CoupletIndex": 1,
+      "Position": "Right",
+      "Text": "دونیم ان کی ٹھوکر سے صحرا و دریا",
+      "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 5,
-      "Position": "Right",
-      "Text": "دو عالم سے کرتی ہے بیگانہ دل کو",
+      "Position": "Left",
+      "Text": "سِمٹ کر پہاڑ ان کی ہیبت سے رائی",
       "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 6,
-      "Position": "Left",
-      "Text": "عجب چیز ہے لذّتِ آشنائی",
-      "CoupletIndex": 2,
+      "Position": "Right",
+      "Text": "دو عالم سے کرتی ہے بیگانہ دل کو",
+      "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 7,
-      "Position": "Right",
-      "Text": "شہادت ہے مطلوب و مقصودِ مومن",
+      "Position": "Left",
+      "Text": "عجب چیز ہے لذّتِ آشنائی",
       "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 8,
-      "Position": "Left",
-      "Text": "نہ مالِ غنیمت نہ کِشور کشائی",
-      "CoupletIndex": 3,
+      "Position": "Right",
+      "Text": "شہادت ہے مطلوب و مقصودِ مومن",
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 9,
-      "Position": "Right",
-      "Text": "خیاباں میں ہے مُنتظر لالہ کب سے",
+      "Position": "Left",
+      "Text": "نہ مالِ غنیمت نہ کِشور کشائی",
       "CoupletIndex": 4,
       "SectionIndex1": 0
     },
     {
       "VOrder": 10,
-      "Position": "Left",
-      "Text": "قبا چاہیے اس کو خُونِ عرب سے",
-      "CoupletIndex": 4,
+      "Position": "Right",
+      "Text": "خیاباں میں ہے مُنتظر لالہ کب سے",
+      "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 11,
-      "Position": "Right",
-      "Text": "کیا تُو نے صحرا نشینوں کو یکتا",
+      "Position": "Left",
+      "Text": "قبا چاہیے اس کو خُونِ عرب سے",
       "CoupletIndex": 5,
       "SectionIndex1": 0
     },
     {
       "VOrder": 12,
-      "Position": "Left",
-      "Text": "خبر میں، نظر میں، اذانِ سحَر میں",
-      "CoupletIndex": 5,
+      "Position": "Right",
+      "Text": "کیا تُو نے صحرا نشینوں کو یکتا",
+      "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 13,
-      "Position": "Right",
-      "Text": "طلب جس کی صدیوں سے تھی زندگی کو",
+      "Position": "Left",
+      "Text": "خبر میں، نظر میں، اذانِ سحَر میں",
       "CoupletIndex": 6,
       "SectionIndex1": 0
     },
     {
       "VOrder": 14,
-      "Position": "Left",
-      "Text": "وہ سوز اس نے پایا انھی کے جگر میں",
-      "CoupletIndex": 6,
+      "Position": "Right",
+      "Text": "طلب جس کی صدیوں سے تھی زندگی کو",
+      "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 15,
-      "Position": "Right",
-      "Text": "کُشادِ درِ دل سمجھتے ہیں اس کو",
+      "Position": "Left",
+      "Text": "وہ سوز اس نے پایا انھی کے جگر میں",
       "CoupletIndex": 7,
       "SectionIndex1": 0
     },
     {
       "VOrder": 16,
-      "Position": "Left",
-      "Text": "ہلاکت نہیں موت ان کی نظر میں",
-      "CoupletIndex": 7,
+      "Position": "Right",
+      "Text": "کُشادِ درِ دل سمجھتے ہیں اس کو",
+      "CoupletIndex": 8,
       "SectionIndex1": 0
     },
     {
       "VOrder": 17,
-      "Position": "Right",
-      "Text": "دلِ مردِ مومن میں پھر زندہ کر دے",
+      "Position": "Left",
+      "Text": "ہلاکت نہیں موت ان کی نظر میں",
       "CoupletIndex": 8,
       "SectionIndex1": 0
     },
     {
       "VOrder": 18,
-      "Position": "Left",
-      "Text": "وہ بجلی کہ تھی نعرۂ ’لَاتَذَر‘ میں",
-      "CoupletIndex": 8,
+      "Position": "Right",
+      "Text": "دلِ مردِ مومن میں پھر زندہ کر دے",
+      "CoupletIndex": 9,
       "SectionIndex1": 0
     },
     {
       "VOrder": 19,
-      "Position": "Right",
-      "Text": "عزائم کو سینوں میں بیدار کر دے",
+      "Position": "Left",
+      "Text": "وہ بجلی کہ تھی نعرۂ ’لَاتَذَر‘ میں",
       "CoupletIndex": 9,
       "SectionIndex1": 0
     },
     {
       "VOrder": 20,
+      "Position": "Right",
+      "Text": "عزائم کو سینوں میں بیدار کر دے",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
       "Position": "Left",
       "Text": "نگاہِ مسلماں کو تلوار کر دے!",
-      "CoupletIndex": 9,
+      "CoupletIndex": 10,
       "SectionIndex1": 0
     }
   ]

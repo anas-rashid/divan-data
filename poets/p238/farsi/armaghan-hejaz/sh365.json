@@ -33,25 +33,34 @@
       "VOrder": 1,
       "Position": "Right",
       "Text": "خرد بیگانهء ذوق یقین است",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
       "Text": "قمار علم و حکمت بد نشین است",
-      "CoupletIndex": 0
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "دو صد بوحامد و رازی نیزرد",
-      "CoupletIndex": 1
+      "Text": "دو صد بوحامد و رازی نیرزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
       "Text": "بنادانی که چشمش راه بین است",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.588Z"
+  }
 }

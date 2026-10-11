@@ -1,7 +1,7 @@
 {
   "Id": 14014,
   "CatId": 1045,
-  "Title": "بخش ۱۴۹ - هنوز این خاک دارای شرر هست",
+  "Title": "بخش ۱۴۹ - به نور تو برافروزم نگه را",
   "FullTitle": "محمد اقبال » فارسی » ارمغان حجاز » بخش ۱۴۹ - هنوز این خاک دارای شرر هست",
   "FullUrl": "/p238/farsi/armaghan-hejaz/sh149",
   "RhymeLetters": null,
@@ -32,26 +32,35 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "هنوز این خاک دارای شرر هست",
-      "CoupletIndex": 0
+      "Text": "به نور تو برافروزم نگه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "هنوز این سینه را آه سحر هست",
-      "CoupletIndex": 0
+      "Text": "که بینم اندرون مهر و مه را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "تجلی ریز بر چشمم که بینی",
-      "CoupletIndex": 1
+      "Text": "چو می‌گویم مسلمانم، بلرزم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "باین پیری مرا تاب نظر هست",
-      "CoupletIndex": 1
+      "Text": "که دانم مشکلات «لا اله» را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.638Z"
+  }
 }

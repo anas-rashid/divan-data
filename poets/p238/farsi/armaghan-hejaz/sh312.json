@@ -32,26 +32,35 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "دل ماتش و تن موج دودش ",
-      "CoupletIndex": 0
+      "Text": "دل ماتش و تن موج دودش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "تپید دمبدم ساز وجودش ",
-      "CoupletIndex": 0
+      "Text": "تپید دمبدم ساز وجودش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
       "Text": "به ذکر نیم شب جمعیت او",
-      "CoupletIndex": 1
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "چو سیمابی که بندو چوب عودش",
-      "CoupletIndex": 1
+      "Text": "چو سیمابی که بندد چوب عودش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
     }
-  ]
+  ],
+  "DivanOwned": true,
+  "Edited": {
+    "by": "دیوان",
+    "at": "2026-10-11T15:02:45.585Z"
+  }
 }

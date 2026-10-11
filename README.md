@@ -7,6 +7,9 @@ Everything is in **Urdu script**.
 ## Sources
 
 - **Texts:** [Urdu Wikisource](https://ur.wikisource.org) (ویکی ماخذ). The works are in the public domain (`{{PD-old}}`, `{{PD-Pakistan}}`, …), and the license tag is kept on every record.
+- **Iqbal:** his Urdu and Persian books were compared line by line with the texts of [Iqbal Cyber Library](https://www.iqbalcyberlibrary.net)
+  (Iqbal Academy Pakistan). Divan's copies of the works corrected from them, the prefaces and verses missing from the
+  other sources, and the subtitles and notes taken from them carry `ماخذ` or `مقابلہ = اقبال سائبر لائبریری`.
 - **Author intros:** the lead section of each author's [Urdu Wikipedia](https://ur.wikipedia.org) article.
 
 Everything is fetched through the official MediaWiki API.
